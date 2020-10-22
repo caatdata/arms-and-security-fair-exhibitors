@@ -1,0 +1,151 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Fair",
+  "description": "A single arms and security fair, possibly including exhibitors.",
+  "definitions": {
+    "text": {
+      "description": "A non-empty string.",
+      "type": "string",
+      "pattern": "^."
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "dateString": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "social": {
+      "type": "object",
+      "required": [
+        "platform",
+        "handle"
+      ],
+      "properties": {
+        "platform": {
+          "$ref": "#/definitions/text"
+        },
+        "handle": {
+          "$ref": "#/definitions/text"
+        }
+      }
+    },
+    "textOrTextArray": {
+      "oneOf": [
+        {
+          "$ref": "#/definitions/text"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/text"
+          }
+        }
+      ]
+    },
+    "urlOrUrlArray": {
+      "oneOf": [
+        {
+          "$ref": "#/definitions/url"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/url"
+          }
+        }
+      ]
+    },
+    "socialOrSocialArray": {
+      "oneOf": [
+        {
+          "$ref": "#/definitions/social"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/social"
+          }
+        }
+      ]
+    }
+  },
+  "type": "object",
+  "required": [
+    "name"
+  ],
+  "properties": {
+    "name": {
+      "$ref": "#/definitions/text"
+    },
+    "alias": {
+      "$ref": "#/definitions/textOrTextArray"
+    },
+    "series": {
+      "$ref": "#/definitions/text"
+    },
+    "edition": {
+      "$ref": "#/definitions/text"
+    },
+    "startDate": {
+      "$ref": "#/definitions/dateString"
+    },
+    "endDate": {
+      "$ref": "#/definitions/dateString"
+    },
+    "address": {
+      "$ref": "#/definitions/textOrTextArray"
+    },
+    "country": {
+      "$ref": "#/definitions/text"
+    },
+    "website": {
+      "$ref": "#/definitions/urlOrUrlArray"
+    },
+    "social": {
+      "$ref": "#/definitions/socialOrSocialArray"
+    },
+    "exhibitorListUrl": {
+      "$ref": "#/definitions/url"
+    },
+    "exhibitor": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "#/definitions/text"
+          },
+          "alias": {
+            "$ref": "#/definitions/textOrTextArray"
+          },
+          "exhibitorUrl": {
+            "$ref": "#/definitions/url"
+          },
+          "address": {
+            "$ref": "#/definitions/textOrTextArray"
+          },
+          "country": {
+            "$ref": "#/definitions/text"
+          },
+          "website": {
+            "$ref": "#/definitions/urlOrUrlArray"
+          },
+          "telephone": {
+            "$ref": "#/definitions/textOrTextArray"
+          },
+          "social": {
+            "$ref": "#/definitions/socialOrSocialArray"
+          },
+          "category": {
+            "$ref": "#/definitions/textOrTextArray"
+          }
+        }
+      }
+    }
+  }
+}
