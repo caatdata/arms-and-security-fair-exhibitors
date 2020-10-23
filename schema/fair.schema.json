@@ -75,6 +75,7 @@
   "required": [
     "name"
   ],
+  "additionalProperties": false,
   "properties": {
     "name": {
       "$ref": "#/definitions/text"
@@ -100,6 +101,9 @@
     "country": {
       "$ref": "#/definitions/text"
     },
+    "online": {
+      "type": "boolean"
+    },
     "website": {
       "$ref": "#/definitions/urlOrUrlArray"
     },
@@ -116,6 +120,7 @@
         "required": [
           "name"
         ],
+        "additionalProperties": false,
         "properties": {
           "name": {
             "$ref": "#/definitions/text"
