@@ -9,12 +9,16 @@
       "pattern": "^."
     },
     "url": {
-      "type": "string",
-      "pattern": "^https?://"
+      "$comment": "Poor source data will not pass even the simplest URL regex rule.",
+      "type": "string"
     },
     "dateString": {
       "type": "string",
       "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "utcDatetimeString": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}\\+00:00$"
     },
     "social": {
       "type": "object",
@@ -32,7 +36,7 @@
       }
     },
     "textOrTextArray": {
-      "oneOf": [
+      "anyOf": [
         {
           "$ref": "#/definitions/text"
         },
@@ -45,7 +49,7 @@
       ]
     },
     "urlOrUrlArray": {
-      "oneOf": [
+      "anyOf": [
         {
           "$ref": "#/definitions/url"
         },
@@ -58,7 +62,7 @@
       ]
     },
     "socialOrSocialArray": {
-      "oneOf": [
+      "anyOf": [
         {
           "$ref": "#/definitions/social"
         },
@@ -75,6 +79,11 @@
   "required": [
     "name"
   ],
+  "dependencies": {
+    "exhibitor": [
+      "exhibitorListDate"
+    ]
+  },
   "additionalProperties": false,
   "properties": {
     "name": {
@@ -112,6 +121,9 @@
     },
     "exhibitorListUrl": {
       "$ref": "#/definitions/url"
+    },
+    "exhibitorListDate": {
+      "$ref": "#/definitions/utcDatetimeString"
     },
     "exhibitor": {
       "type": "array",
