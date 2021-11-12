@@ -119,6 +119,9 @@
     "social": {
       "$ref": "#/definitions/socialOrSocialArray"
     },
+    "organiser": {
+      "$ref": "#/definitions/text"
+    },
     "exhibitorListUrl": {
       "$ref": "#/definitions/url"
     },
