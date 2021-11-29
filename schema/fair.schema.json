@@ -22,15 +22,28 @@
     },
     "social": {
       "type": "object",
-      "required": [
-        "platform",
-        "handle"
+      "oneOf": [
+        {
+          "required": [
+            "platform",
+            "handle"
+          ]
+        },
+        {
+          "required": [
+            "platform",
+            "url"
+          ]
+        }
       ],
       "properties": {
         "platform": {
           "$ref": "#/definitions/text"
         },
         "handle": {
+          "$ref": "#/definitions/text"
+        },
+        "url": {
           "$ref": "#/definitions/text"
         }
       }
