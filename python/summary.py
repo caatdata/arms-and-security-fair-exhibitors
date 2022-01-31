@@ -69,10 +69,10 @@ def main():
 
         organiser = data.get("organiser", "")
         if organiser:
-            organiser = 1 if isinstance(organiser, str) else len(organiser)
+            organiser = 1 if isinstance(organiser, dict) else len(organiser)
         exhibitor = data.get("exhibitor", "")
         if exhibitor:
-            exhibitor = 1 if isinstance(exhibitor, str) else len(exhibitor)
+            exhibitor = 1 if isinstance(exhibitor, dict) else len(exhibitor)
         website = data.get("website", "")
         if website and not isinstance(website, str):
             website = " ".join(website)
