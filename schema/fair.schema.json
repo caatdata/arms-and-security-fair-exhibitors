@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "Fair",
-  "description": "A single arms and security fair, possibly including exhibitors.",
+  "description": "A single arms and security fair, possibly including exhibitors and/or delegations.",
   "definitions": {
     "text": {
       "description": "A non-empty string.",
@@ -141,6 +141,9 @@
   "dependencies": {
     "exhibitor": [
       "exhibitorListDate"
+    ],
+    "delegation": [
+      "delegationListDate"
     ]
   },
   "additionalProperties": false,
@@ -225,6 +228,33 @@
           },
           "category": {
             "$ref": "#/definitions/textOrTextArray"
+          }
+        }
+      }
+    },
+    "delegationListUrl": {
+      "$ref": "#/definitions/url"
+    },
+    "delegationListDate": {
+      "$ref": "#/definitions/utcDatetimeString"
+    },
+    "delegation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "$ref": "#/definitions/text"
+          },
+          "attended": {
+            "type": "boolean"
+          },
+          "retracted": {
+            "type": "boolean"
           }
         }
       }
