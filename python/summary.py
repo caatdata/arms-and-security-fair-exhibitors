@@ -59,6 +59,7 @@ def main():
         "End date",
         "Organiser",
         "Exhibitor",
+        "Delegation",
         "Website",
     )
 
@@ -73,6 +74,9 @@ def main():
         exhibitor = data.get("exhibitor", "")
         if exhibitor:
             exhibitor = 1 if isinstance(exhibitor, dict) else len(exhibitor)
+        delegation = data.get("delegation", "")
+        if delegation:
+            delegation = 1 if isinstance(delegation, dict) else len(delegation)
         website = data.get("website", "")
         if website and not isinstance(website, str):
             website = " ".join(website)
@@ -88,6 +92,7 @@ def main():
             data.get("endDate", ""),
             str(organiser),
             str(exhibitor),
+            str(delegation),
             website,
         ))
 
