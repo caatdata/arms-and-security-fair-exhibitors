@@ -15,3 +15,5 @@ sanitize :
 summary.csv : $(FAIR_JSON)
 	python/summary.py data/*.json $@
 
+tasks :
+	python/task.py ignore.csv data/
