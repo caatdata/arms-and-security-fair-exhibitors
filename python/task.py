@@ -108,6 +108,7 @@ def main():
         if not line.strip():
             continue
         slug = line.split(",", 1)[0].strip()
+        LOG.debug(slug)
         series_slug, year = split(slug)
         assert not year in fair_dict[series_slug]
         fair_dict[series_slug][year] = False
