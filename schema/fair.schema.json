@@ -37,7 +37,7 @@
           "$ref": "#/definitions/textOrTextArray"
         },
         "country": {
-          "$ref": "#/definitions/text"
+          "$ref": "#/definitions/textOrTextArray"
         },
         "website": {
           "$ref": "#/definitions/urlOrUrlArray"
@@ -170,7 +170,7 @@
       "$ref": "#/definitions/textOrTextArray"
     },
     "country": {
-      "$ref": "#/definitions/text"
+      "$ref": "#/definitions/textOrTextArray"
     },
     "online": {
       "type": "boolean"
@@ -212,7 +212,7 @@
             "$ref": "#/definitions/textOrTextArray"
           },
           "country": {
-            "$ref": "#/definitions/text"
+            "$ref": "#/definitions/textOrTextArray"
           },
           "website": {
             "$ref": "#/definitions/urlOrUrlArray"
