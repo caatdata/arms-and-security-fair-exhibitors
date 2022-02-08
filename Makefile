@@ -2,7 +2,7 @@ SHELL := /bin/bash
 
 FAIR_JSON := $(wildcard data/*.json)
 
-all : check-schema sanitize summary.csv
+all : check-schema sanitize summary.csv task
 
 check-schema :
 	jsonschema`for json in data/*.json; do printf -- " -i %s" $$json; done;` schema/fair.schema.json
@@ -15,5 +15,5 @@ sanitize :
 summary.csv : $(FAIR_JSON)
 	python/summary.py data/*.json $@
 
-tasks :
+task :
 	python/task.py ignore.csv data/

@@ -190,6 +190,7 @@ def main():
 
     for k, message in category.items():
         if tasks[k]:
+            print()
             print(f"{message}:")
             for item in sorted(tasks[k], key=lambda x: x["endDate"]):
                 print(f"  {item['slug']}")
@@ -199,7 +200,6 @@ def main():
                     print(f"    Scraped: {item['exhibitorListDate']}")
 
                 print()
-            print()
 
 
 
