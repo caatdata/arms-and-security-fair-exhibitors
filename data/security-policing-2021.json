@@ -1,22 +1,69 @@
 {
+  "@context": [
+    "http://schema.org/",
+    {
+      "exhibitor": {
+        "@id": "http://schema.org/performer"
+      },
+      "exhibitorListUrl": {
+        "@id": "http://schema.org/url"
+      },
+      "website": {
+        "@id": "http://schema.org/url"
+      },
+      "organizerUrl": {
+        "@id": "http://schema.org/url"
+      },
+      "exhibitorUrl": {
+        "@id": "http://schema.org/url"
+      }
+    }
+  ],
+  "@type": [
+    "ExhibitionEvent",
+    "Event"
+  ],
   "name": "Security & Policing 2021",
-  "alias": [
+  "alternateName": [
     "Security and Policing 2021",
     "S&P 2021"
   ],
-  "series": "Security & Policing",
-  "edition": "2021",
+  "eventStatus": "EventScheduled",
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://www.securityandpolicing.co.uk"
+  },
   "startDate": "2021-03-09",
   "endDate": "2021-03-11",
-  "online": true,
   "website": "https://www.securityandpolicing.co.uk",
+  "organizer": [
+    {
+      "@type": "Organization",
+      "name": "ADS",
+      "website": "www.adsgroup.org.uk",
+      "organizerUrl": "https://www.securityandpolicing.co.uk/about/ads-dods/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Dods Group",
+      "website": "www.dodsgroup.com",
+      "organizerUrl": "https://www.securityandpolicing.co.uk/about/ads-dods/"
+    }
+  ],
+  "superEvent": {
+    "@type": "EventSeries",
+    "name": "Security & Policing"
+  },
+  "edition": "2021",
   "exhibitorListUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/",
-  "exhibitorListDate": "2021-02-18T10:23:02+00:00",
+  "exhibitorListDate": "2021-02-26T16:56:33+00:00",
   "exhibitor": [
     {
+      "@type": "Organization",
       "name": "3DX-RAY Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/3dx-ray-ltd/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
         "Explosives & Blast Protection",
         "Counter Explosive Ordnance",
@@ -27,159 +74,241 @@
       "website": "www.3dx-ray.com"
     },
     {
+      "@type": "Organization",
+      "name": "AIT Austrian Institute of Technology",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ait-austrian-institute-of-technology/",
+      "tag": [
+        "Cyber Security",
+        "Robotics & Countermeasures",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Optics",
+        "Border and Maritime Security",
+        "Facial Recognition & Imagery",
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Information Technology",
+        "Unmanned Systems",
+        "Forensic Services",
+        "Training",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis",
+        "Communications"
+      ],
+      "address": "Giefinggasse 4\nVienna\nAustria\n1210\nAustria",
+      "telephone": "+43 664 8157842",
+      "website": "https://www.ait.ac.at/"
+    },
+    {
+      "@type": "Organization",
       "name": "ANGOKA",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/angoka/",
-      "category": [
-        "Vehicles",
-        "Unmanned Systems",
-        "Transport Security",
+      "tag": [
         "Cyber Security",
-        "Robotics & Countermeasures"
+        "Robotics & Countermeasures",
+        "Transport Security",
+        "Unmanned Systems",
+        "Vehicles"
       ],
       "address": "The Innovation Centre\nQueen’s Road\nBelfast\nNorthern Ireland\nBT3 9AD\nUK",
       "telephone": "07465973406",
       "website": "angoka.io"
     },
     {
+      "@type": "Organization",
+      "name": "AR Live Systems Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ar-live-systems-ltd/",
+      "tag": [
+        "Biometrics",
+        "CCTV & Video Analytics",
+        "Facial Recognition & Imagery"
+      ],
+      "address": "7 Balloo Court\nBalloo Drive\nBangor\nDown\nBT19 7AT\nUnited Kingdom",
+      "telephone": "0754 9939 535",
+      "website": "https://arlivesystems.com/"
+    },
+    {
+      "@type": "Organization",
       "name": "AREA",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/area/",
-      "category": [
+      "tag": [
+        "Cyber Security",
+        "Counter Terrorism & Intelligence",
         "Information Technology",
         "Covert Operations & Capabilities",
-        "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
-        "Cyber Security"
+        "Data acquisition and analysis"
       ],
       "address": "MXP Business Park\nVia Gabriele D’Annunzio 2\nVizzola Ticino\nVA\n21010\nItaly",
       "telephone": "+393480194940",
       "website": "www.area.it"
     },
     {
+      "@type": "Organization",
       "name": "Academic RiSC",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/academic-risc/",
-      "category": [
-        "Unmanned Systems",
-        "Counter Terrorism & Intelligence",
-        "Forensic Services",
-        "Training",
+      "tag": [
         "Cyber Security",
-        "Robotics & Countermeasures"
+        "Robotics & Countermeasures",
+        "Counter Terrorism & Intelligence",
+        "Unmanned Systems",
+        "Forensic Services",
+        "Training"
       ],
       "address": "Cranfield University\nCollege Road\nCranfield\nBedforshire\nMK43 0AL\nUnited Kingdom",
       "telephone": "01234 750111",
       "website": "www.academic-risc.org"
     },
     {
+      "@type": "Organization",
       "name": "Airbus",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/airbus/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Data acquisition and analysis",
-        "Communications",
-        "Facial Recognition & Imagery",
-        "Command & Control",
+      "tag": [
         "Cyber Security",
+        "Command & Control",
         "Border and Maritime Security",
-        "Incident & Emergency Response"
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Information Technology",
+        "Incident & Emergency Response",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "Wellington House 125-130 Strand\nLondon\nGreater London\nWC2R 0AP\nUK",
       "telephone": "07769742422",
       "website": "www.airbus.com"
     },
     {
+      "@type": "Organization",
       "name": "Amazon Web Services",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/amazon-web-services/",
-      "category": [
-        "Information Technology",
-        "Data acquisition and analysis",
+      "tag": [
+        "Cyber Security",
         "Professional Services",
+        "Information Technology",
         "Comms Data and Digital Forensics",
-        "Cyber Security"
+        "Data acquisition and analysis"
       ],
       "address": "1 Principal Place\nWorship Street\nLondon\nGreater London\nEC2A 2FA\nUnited Kingdom",
       "telephone": "020 3680 1000",
       "website": "https://aws.amazon.com/uk-public-sector"
     },
     {
+      "@type": "Organization",
+      "name": "Apstec Systems",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/apstec-systems/",
+      "tag": [
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Man-guarding & Close Protection",
+        "Access Control & Entry Systems",
+        "Transport Security",
+        "Physical Security",
+        "CBRNe"
+      ],
+      "address": "Nicosia Tower Center, 8th floor,\n36 Byron Avenue\nNicosia\nNicosia\n1096\nCyprus",
+      "telephone": "+372 5373 5080",
+      "website": "www.apstecsystems.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Armour Communications Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/armour-communications-ltd/",
-      "category": [
-        "Command & Control",
+      "tag": [
+        "Cyber Security",
         "Communications",
-        "Cyber Security"
+        "Command & Control"
       ],
       "address": "1st Floor Millbank Tower\nWestminster\nLondon\nSW1P 4QP\nUnited Kingdom",
       "telephone": "02036373801",
       "website": "https://www.armourcomms.com/"
     },
     {
+      "@type": "Organization",
       "name": "BAE Systems Applied Intelligence",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/bae-systems-applied-intelligence/",
-      "category": [
-        "Data acquisition and analysis",
+      "tag": [
+        "Cyber Security",
         "Comms Data and Digital Forensics",
-        "Cyber Security"
+        "Data acquisition and analysis"
       ],
       "address": "Waterside House\nSurrey Research Park\n170 Priestley Road\nGuildford\nSurrey\nGU2 7RQ\nUK",
       "telephone": "01483816000",
       "website": "https://www.baesystems.com/en/cybersecurity/home"
     },
     {
+      "@type": "Organization",
+      "name": "BRE Global (LPCB)",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/bre-global-lpcb/",
+      "tag": [
+        "Professional Services",
+        "Man-guarding & Close Protection",
+        "Access Control & Entry Systems",
+        "Physical Security",
+        "Training"
+      ],
+      "address": "Bucknalls Lane Watford, Herts, Watford\nWatford\nHerts\nWD25 9XX\nUnited Kingdom",
+      "telephone": "+44 (0)333 321 8811",
+      "website": "www.redbooklive.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Beechwood Equipment",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/beechwood-equipment/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Clothing & Accessories",
-        "Counter Terrorism & Intelligence",
+      "tag": [
+        "Robotics & Countermeasures",
         "Personal Protection Equipment",
-        "Forensic Services",
-        "CBRNe",
+        "Counter Terrorism & Intelligence",
         "Optics",
         "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Clothing & Accessories",
+        "Unmanned Systems",
+        "Forensic Services",
+        "Covert Operations & Capabilities",
+        "Incident & Emergency Response",
+        "CBRNe"
       ],
       "address": "Unit 1 Trade City\nBrooklands Close\nSUNBURY-ON-THAMES\nSurrey\nTW16 7FD\nUnited Kingdom",
       "telephone": "+447553358080",
       "website": "www.beechwoodequipment.com"
     },
     {
+      "@type": "Organization",
       "name": "Black Rainbow Consulting Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/black-rainbow-consulting-ltd/",
-      "category": [
-        "Information Technology",
-        "Covert Operations & Capabilities",
-        "Professional Services",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Forensic Services",
-        "Comms Data and Digital Forensics",
+      "tag": [
         "Cyber Security",
+        "Professional Services",
         "Command & Control",
-        "Incident & Emergency Response"
+        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Forensic Services",
+        "Covert Operations & Capabilities",
+        "Incident & Emergency Response",
+        "Comms Data and Digital Forensics",
+        "Communications"
       ],
       "address": "Bury Lodge\nBury Road\nBury Lodge\nStowmarket\nSuffolk\nIP14 1JA\nUnited Kingdom",
       "telephone": "07831919676",
       "website": "www.blackrainbow.com"
     },
     {
+      "@type": "Organization",
       "name": "Blackdot Solutions",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/blackdot-solutions/",
-      "category": [
+      "tag": [
         "Information Technology",
-        "Counter Terrorism & Intelligence",
-        "Data acquisition and analysis"
+        "Data acquisition and analysis",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Viola House\nMaris Lane\nCambridge\nCambridgeshire\nCB1 2PY\nUnited Kingdom",
       "telephone": "+441223 900 424",
       "website": "https://blackdotsolutions.com"
     },
     {
+      "@type": "Organization",
       "name": "Blighter Surveillance Systems Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/blighter-surveillance-systems-ltd/",
-      "category": [
+      "tag": [
         "Border and Maritime Security"
       ],
       "address": "Iceni House, London Road\nGreat Chesterford\nSaffron Walden\nEssex\nCB10 1NY\nUnited Kingdom",
@@ -187,25 +316,27 @@
       "website": "www.blighter.com"
     },
     {
+      "@type": "Organization",
       "name": "Blue Lights Digital Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/blue-lights-digital-ltd/",
-      "category": [
-        "Information Technology",
-        "Covert Operations & Capabilities",
-        "Data acquisition and analysis",
+      "tag": [
         "Professional Services",
         "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Covert Operations & Capabilities",
+        "Training",
         "Comms Data and Digital Forensics",
-        "Training"
+        "Data acquisition and analysis"
       ],
       "address": "The Officers’ Mess Business Centre\nRoyston Road\nDuxford\nCambridgeshire\nCB224HQ\nUnited Kingdom",
       "telephone": "01223919607",
       "website": "www.bluelightsdigital.com"
     },
     {
+      "@type": "Organization",
       "name": "Bluelite Graphics Group",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/bluelite-graphics-group/",
-      "category": [
+      "tag": [
         "Vehicles"
       ],
       "address": "Unit 7 Sovereign Business Park\nAlbert Drive\nBurgess Hill\nWest Sussex\nRH15 9TY\nUnited Kingdom",
@@ -213,9 +344,10 @@
       "website": "www.bluelitegraphics.com"
     },
     {
+      "@type": "Organization",
       "name": "CBRN-UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cbrn-uk/",
-      "category": [
+      "tag": [
         "CBRNe"
       ],
       "address": "ADS Group\nShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
@@ -223,9 +355,37 @@
       "website": "https://www.cbrn-uk.com/"
     },
     {
+      "@type": "Organization",
+      "name": "CCL Solutions Group-Evidence Talks",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ccl-solutions-group-evidence-talks/",
+      "tag": [
+        "Cyber Security",
+        "Forensic Services",
+        "Covert Operations & Capabilities",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis"
+      ],
+      "address": "First Floor Derwent House,\nCranfield University Technology Park\nUniversity Way,\nCranfield\nBedfordshire\nMK43 0AZ\nUK",
+      "telephone": "07759 831 822",
+      "website": "www.cclsolutionsgroup.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "CDS Defence & Security",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cds-defence-security/",
+      "tag": [
+        "Cyber Security",
+        "Comms Data and Digital Forensics"
+      ],
+      "address": "The Bramery\n44 Alstone Lane\n12 Roman Road\nCheltenham\nGloucestershire\nGL51 8HE\nUnited Kingdom",
+      "telephone": "07867318088",
+      "website": "www.cdsds.uk"
+    },
+    {
+      "@type": "Organization",
       "name": "COMMESH",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/commesh/",
-      "category": [
+      "tag": [
         "Counter Terrorism & Intelligence"
       ],
       "address": "A.Tumeno 4\nVilnius\nVilnius\n08101\nLithuania",
@@ -233,53 +393,57 @@
       "website": "www.commesh.com"
     },
     {
+      "@type": "Organization",
       "name": "CROP Surveillance LTD (CROPS)",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/crop-surveillance-ltd-crops/",
-      "category": [
-        "Covert Operations & Capabilities",
+      "tag": [
         "Professional Services",
         "Counter Terrorism & Intelligence",
-        "Training",
-        "Optics"
+        "Optics",
+        "Covert Operations & Capabilities",
+        "Training"
       ],
       "address": "Boarder House No 1\nHowton Court\nPontrilas\nHereford\nHerefordshire\nHR2 0BG\nEngland",
       "telephone": "+44 (0) 1386 793988",
       "website": "www.crops.uk.com"
     },
     {
+      "@type": "Organization",
       "name": "CUNNING RUNNING SOFTWARE LIMITED",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cunning-running-software-limited/",
-      "category": [
-        "Robotics & Countermeasures",
+      "tag": [
         "Transport Security",
-        "Counter Terrorism & Intelligence",
-        "Unmanned Systems"
+        "Robotics & Countermeasures",
+        "Unmanned Systems",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Bell House\n32 Bell Street\nRomsey\nHampshire\nSO51 8GW\nEngland",
       "telephone": "01794 834750",
       "website": "www.cunningrunning.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "CY4GATE S.p.A.",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cy4gate-s-p-a/",
-      "category": [
+      "tag": [
+        "Cyber Security",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
         "Information Technology",
         "Covert Operations & Capabilities",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Cyber Security",
-        "Command & Control"
+        "Communications"
       ],
       "address": "via Morolo, 92\nRome\nRM\n00131\nItaly",
       "telephone": "+390691503700",
       "website": "www.cy4gate.com"
     },
     {
+      "@type": "Organization",
       "name": "Caminos",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/caminos/",
-      "category": [
-        "Counter Terrorism & Intelligence",
+      "tag": [
         "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence",
         "Training"
       ],
       "address": "Stevensstraat 21\nTielt-Winge\nVlaams-Brabant\n3390\nBelgium",
@@ -287,67 +451,72 @@
       "website": "www.caminos-online.com"
     },
     {
+      "@type": "Organization",
       "name": "Candy Group / Xsun",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/candy-group-xsun/",
-      "category": [
-        "Unmanned Systems",
-        "Data acquisition and analysis",
+      "tag": [
+        "Robotics & Countermeasures",
         "Professional Services",
-        "Transport Security",
         "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Transport Security",
+        "Unmanned Systems",
+        "Incident & Emergency Response",
+        "Data acquisition and analysis"
       ],
       "address": "Kinetic Centre\nTheobald Street\nBorehamwood\nHertfordshire\nWD6 4PJ\nuk",
       "telephone": "07796445444",
       "website": "www.candygroup.com"
     },
     {
+      "@type": "Organization",
       "name": "Cellmetric",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cellmetric/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
-        "Covert Operations & Capabilities"
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "St. John’s Innovation Centre\nCowley Road\nCambridge\nCambridgeshire\nCB4 0WS\nUnited Kingdom",
       "telephone": "01223 265571",
       "website": "www.cellmetric.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Chess Dynamics Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/chess-dynamics-ltd/",
-      "category": [
-        "Unmanned Systems",
-        "Communications",
+      "tag": [
         "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Command & Control",
         "Optics",
         "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Command & Control"
+        "Unmanned Systems",
+        "Communications"
       ],
       "address": "Quadrant House\nNorth Heath Lane Business Park\nNorth Heath Lane\nHorsham\nWest Sussex\nRH12 5QE\nUnited Kingdom",
       "telephone": "01403 249888",
       "website": "www.chess-dynamics.com"
     },
     {
+      "@type": "Organization",
       "name": "Chorus Intelligence",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/chorus-intelligence/",
-      "category": [
+      "tag": [
         "Information Technology",
+        "Comms Data and Digital Forensics",
         "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
-        "Comms Data and Digital Forensics"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "6 Quay Point\nStation Road\nWoodbridge\nSuffolk\nIP12 4AL\nUK",
       "telephone": "07771606614",
       "website": "https://chorusintel.com/"
     },
     {
+      "@type": "Organization",
       "name": "Claresys Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/claresys-ltd/",
-      "category": [
+      "tag": [
         "Covert Operations & Capabilities",
         "Optics"
       ],
@@ -356,51 +525,55 @@
       "website": "www.claresys.com"
     },
     {
+      "@type": "Organization",
       "name": "Cobwebs Technologies",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cobwebs-technologies/",
-      "category": [
-        "Information Technology",
-        "Counter Terrorism & Intelligence",
-        "Forensic Services",
+      "tag": [
         "Cyber Security",
-        "Border and Maritime Security"
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Information Technology",
+        "Forensic Services"
       ],
       "address": "1-2 Charterhouse Mews,\nLondon\nUnited Kingdom\nEC1M 6BB\nUnited Kingdom",
       "telephone": "+353 87 798 3831",
       "website": "www.cobwebs.com"
     },
     {
+      "@type": "Organization",
       "name": "Computer Projects of Illinois",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/computer-projects-of-illinois/",
-      "category": [
-        "Information Technology",
-        "Counter Terrorism & Intelligence",
-        "Communications",
+      "tag": [
         "Command & Control",
+        "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Incident & Emergency Response"
+        "Information Technology",
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "400 Quyadrangle Dr Suite F\nBolingbrook\nIllinois\n60440\nUnited States",
       "telephone": "+1 304 931 8400",
       "website": "https://www.openfox.com"
     },
     {
+      "@type": "Organization",
       "name": "Constella Intelligence",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/constella-intelligence/",
-      "category": [
-        "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
+      "tag": [
+        "Cyber Security",
         "Comms Data and Digital Forensics",
-        "Cyber Security"
+        "Data acquisition and analysis",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "289 S San Antonio Rd\nSuite 110\nLos Altos\nSanta Clara\n94022\nUnited States",
       "telephone": "+44 7492 739 359",
       "website": "www.constellaintelligence.com"
     },
     {
+      "@type": "Organization",
       "name": "Counter-EO UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/counter-eo-uk/",
-      "category": [
+      "tag": [
         "Explosives & Blast Protection",
         "Counter Explosive Ordnance"
       ],
@@ -409,26 +582,42 @@
       "website": "https://www.counter-eo-uk.com/"
     },
     {
+      "@type": "Organization",
       "name": "Covert Technology Suppliers Forum – ADS Group",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/covert-technology-suppliers-forum-ads-group/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Comms Data and Digital Forensics",
-        "Training",
+      "tag": [
         "Cyber Security",
-        "Command & Control"
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Covert Operations & Capabilities",
+        "Training",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU146FD\nUnited Kingdom",
       "telephone": "07921 297207",
       "website": "www.ctsf.org.uk"
     },
     {
+      "@type": "Organization",
+      "name": "Coverty",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/coverty/",
+      "tag": [
+        "Command & Control",
+        "Communications",
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
+      ],
+      "address": "Hayarden Haharari 187\nKarkum\nIsrael\n1292600\nISRAEL",
+      "telephone": "+972545244938",
+      "website": "https://www.coverty-tech.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Covidence A/S",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/covidence-a-s/",
-      "category": [
+      "tag": [
         "Covert Operations & Capabilities"
       ],
       "address": "Strandvejen 2A\nRoende\nSyddjurs\n8410\nDenmark",
@@ -436,27 +625,29 @@
       "website": "www.covidence.com"
     },
     {
+      "@type": "Organization",
       "name": "Cyan",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cyan/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
-        "Comms Data and Digital Forensics"
+        "Comms Data and Digital Forensics",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "CodeBase\n3 Lady Lawson Street\nEdinburgh\nEdinburgh\nEH3 9DR\nUnited Kingdom",
       "telephone": "+44 7732 062 996",
       "website": "www.cyanforensics.com"
     },
     {
+      "@type": "Organization",
       "name": "D-Fend Solutions",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/d-fend-solutions/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Counter Terrorism & Intelligence",
+      "tag": [
         "Cyber Security",
-        "Border and Maritime Security",
         "Robotics & Countermeasures",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
         "Incident & Emergency Response"
       ],
       "address": "1 Northumberland Avenue\nLondon\nEngland\nWC2N 5BW\nUK",
@@ -464,32 +655,62 @@
       "website": "https://www.d-fendsolutions.com/"
     },
     {
+      "@type": "Organization",
+      "name": "Datactics",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/datactics/",
+      "tag": [
+        "Professional Services"
+      ],
+      "address": "One Lanyon Quay\nBelfast\nCo. Antrim\nBT1 3LG\nNorthern Ireland, UK",
+      "telephone": "02890233900",
+      "website": "www.datactics.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Digital Barriers",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/digital-barriers/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Border and Maritime Security",
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Forensic Services",
+        "Covert Operations & Capabilities",
+        "Comms Data and Digital Forensics"
+      ],
+      "address": "Landmark Space 6th Floor\n105 Victoria Street\nLandmark Space 6th Floor\nWestminster\nLondon\nSW1E 6HT\nUnited Kingdom",
+      "telephone": "+442035535888",
+      "website": "www.digitalbarriers.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Domo Tactical Communications (DTC)",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/domo-tactical-communications-dtc/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Communications",
+      "tag": [
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
+        "Command & Control",
+        "Communications"
       ],
       "address": "Fusion 2\n1100 Parkway\nWhiteley\nHampshire\nPO15 7AB\nUnited Kingdom",
       "telephone": "+44 (0) 1489 566750",
       "website": "www.domotactical.com"
     },
     {
+      "@type": "Organization",
       "name": "Drone Evolution",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/drone-evolution/",
-      "category": [
-        "Vehicles",
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
         "Man-guarding & Close Protection",
         "Transport Security",
-        "Counter Terrorism & Intelligence",
+        "Unmanned Systems",
         "Physical Security",
-        "Border and Maritime Security",
-        "Robotics & Countermeasures",
+        "Covert Operations & Capabilities",
+        "Vehicles",
         "Incident & Emergency Response"
       ],
       "address": "Unit 8\nWestern Industrial Estate\nCaerphilly\nCaerphilly\nCF83 1BE\nUnited Kingdom",
@@ -497,147 +718,156 @@
       "website": "https://www.dronevolution.co.uk/skywire/"
     },
     {
+      "@type": "Organization",
       "name": "Drone Platforms and Counter-Drone Group – ADS",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/drone-platforms-and-counter-drone-group-ads/",
-      "category": [
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
         "Counter Terrorism & Intelligence",
-        "Training",
         "Border and Maritime Security",
-        "Robotics & Countermeasures"
+        "Unmanned Systems",
+        "Training"
       ],
       "address": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
       "telephone": "07921297207",
       "website": "https://www.adsgroup.org.uk/membership/groups-committees/drone-platforms-and-counter-drone/"
     },
     {
+      "@type": "Organization",
       "name": "EXFO Homeland Security",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/exfo-homeland-security/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Information Technology",
+        "Covert Operations & Capabilities",
         "Counter Terrorism & Intelligence",
-        "Covert Operations & Capabilities"
+        "Information Technology"
       ],
       "address": "Winchester House, School Lane\nChandlers Ford\nWinchester\nS0534DG\nUK",
       "telephone": "+44 2380 246 800",
       "website": "www.exfo.com"
     },
     {
+      "@type": "Organization",
       "name": "Eagle Eye Innovations Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/eagle-eye-innovations-ltd/",
-      "category": [
-        "Vehicles",
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
         "Professional Services",
+        "Unmanned Systems",
         "Training",
-        "Robotics & Countermeasures"
+        "Vehicles"
       ],
       "address": "Unit D4\nWeaver Road\nThe Point Office Park\nLincoln\nLincs\nLN6 3QN\nUnited Kingdom",
       "telephone": "01522 687681",
       "website": "www.eeinnovationsltd.com"
     },
     {
+      "@type": "Organization",
       "name": "Emergency Protection Limited",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/emergency-protection-limited/",
-      "category": [
-        "Vehicles",
-        "Covert Operations & Capabilities",
-        "Biometrics",
-        "Access Control & Entry Systems",
-        "Man-guarding & Close Protection",
-        "Transport Security",
-        "Custodial",
-        "Counter Terrorism & Intelligence",
+      "tag": [
+        "Robotics & Countermeasures",
         "Personal Protection Equipment",
+        "Counter Terrorism & Intelligence",
+        "Custodial",
+        "Border and Maritime Security",
+        "Man-guarding & Close Protection",
         "Facial Recognition & Imagery",
         "Clothing & Accessories",
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Transport Security",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
         "Physical Security",
         "Training",
-        "CBRNe",
-        "Unmanned Systems",
-        "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Incident & Emergency Response",
+        "Vehicles",
+        "CBRNe"
       ],
       "address": "12 Yeomanry Road\nBattlefield\nShrewsbury\nShropshire\nSY1 3EH\nUnited Kingdom",
       "telephone": "07786040502",
       "website": "www.emergencyprotection.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Enigma – Batteries",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/enigma-batteries/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
+        "CCTV & Video Analytics",
         "Covert Operations & Capabilities",
-        "CCTV & Video Analytics"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Laurel House\nSouthwick Road\nGlapthorn\nOundle\nPeterborough\nNorthamptonshire\nPE8 5BD\nUK",
       "telephone": "01832 274963",
       "website": "http://enigmasecurity.dns-systems.net/"
     },
     {
+      "@type": "Organization",
       "name": "Enterprise Control Systems Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/enterprise-control-systems-ltd/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Man-guarding & Close Protection",
-        "Counter Terrorism & Intelligence",
-        "Physical Security",
-        "Communications",
-        "Training",
-        "Command & Control",
-        "Border and Maritime Security",
+      "tag": [
         "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Man-guarding & Close Protection",
+        "Unmanned Systems",
+        "Physical Security",
+        "Covert Operations & Capabilities",
+        "Training",
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "ECS Technology Park\nWappenham\nTowcester\nNorthants\nNN12 8WJ\nUnited Kingdom",
       "telephone": "+447908644021",
       "website": "enterprisecontrol.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Excelerate Technology",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/excelerate-technology/",
-      "category": [
-        "Vehicles",
-        "Communications",
+      "tag": [
         "CCTV & Video Analytics",
+        "Vehicles",
+        "Incident & Emergency Response",
         "Command & Control",
-        "Incident & Emergency Response"
+        "Communications"
       ],
       "address": "Excelerate Technology Ltd\nWillow House\nPascal Close\nCardiff\nCardiff\nCF3 0LW\nWales, UK",
       "telephone": "0845 658 5747",
       "website": "www.excelerate-group.com"
     },
     {
+      "@type": "Organization",
       "name": "Fischer Connectors",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/fischer-connectors/",
-      "category": [
-        "Vehicles",
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Communications",
+      "tag": [
         "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Command & Control",
         "Optics",
         "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Command & Control"
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
+        "Vehicles",
+        "Communications"
       ],
       "address": "11 The Briars\nWaterberry Drive\nWaterlooville\nHants\nPO7 7YH\nUK",
       "telephone": "023 9245 9600",
       "website": "https://www.fischerconnectors.com/"
     },
     {
+      "@type": "Organization",
       "name": "Flare Bright",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/flare-bright/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
         "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Robotics & Countermeasures",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
         "Incident & Emergency Response"
       ],
       "address": "Building 330, Westcott Venture Park\nAylesbury\nBuckinghamshire\nHP180XB\nUnited Kingdom",
@@ -645,27 +875,68 @@
       "website": "https://flarebright.com/"
     },
     {
-      "name": "Frontier Pitts Ltd",
-      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/frontier-pitts-ltd/",
-      "category": [
-        "Access Control & Entry Systems",
+      "@type": "Organization",
+      "name": "Forsberg Services Ltd.",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/forsberg-services-ltd/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Professional Services",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Custodial",
+        "Border and Maritime Security",
         "Man-guarding & Close Protection",
         "Transport Security",
-        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
         "Physical Security",
-        "Border and Maritime Security"
+        "Training",
+        "Incident & Emergency Response",
+        "Comms Data and Digital Forensics",
+        "Communications"
+      ],
+      "address": "North Quay Offices\nHeysham Port\nHeysham\nLancashire\nLA3 2XF\nUK",
+      "telephone": "01524 383320",
+      "website": "https://forsbergpnt.com/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Frontier Pitts Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/frontier-pitts-ltd/",
+      "tag": [
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Man-guarding & Close Protection",
+        "Access Control & Entry Systems",
+        "Transport Security",
+        "Physical Security"
       ],
       "address": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nCrawley\nWest Sussex\nRH10 9QZ\nUK",
       "telephone": "07931703214",
       "website": "www.frontierpitts.com"
     },
     {
+      "@type": "Organization",
+      "name": "Fuel Cell Systems Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/fuel-cell-systems-ltd/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Professional Services"
+      ],
+      "address": "Station Yard\nHungerford\nBerkshire\nRG17 0DY\nUnited Kingdom",
+      "telephone": "01488507050",
+      "website": "www.fuelcellsystems.co.uk"
+    },
+    {
+      "@type": "Organization",
       "name": "Futurum Consultancy and Training",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/futurum-consultancy-and-training/",
-      "category": [
-        "Covert Operations & Capabilities",
+      "tag": [
         "Professional Services",
         "Counter Terrorism & Intelligence",
+        "Covert Operations & Capabilities",
         "Training",
         "Incident & Emergency Response"
       ],
@@ -674,9 +945,10 @@
       "website": "https://futurumglobal.com/"
     },
     {
+      "@type": "Organization",
       "name": "GWSim Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/gwsim-ltd/",
-      "category": [
+      "tag": [
         "Information Technology",
         "Counter Terrorism & Intelligence"
       ],
@@ -685,163 +957,272 @@
       "website": "www.gwsim.com"
     },
     {
+      "@type": "Organization",
       "name": "Gallagher Security Europe",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/gallagher-security-europe/",
-      "category": [
-        "Biometrics",
-        "Access Control & Entry Systems",
+      "tag": [
+        "Cyber Security",
         "Man-guarding & Close Protection",
-        "Physical Security",
         "Facial Recognition & Imagery",
-        "Cyber Security"
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Physical Security"
       ],
       "address": "Unit 5\nEastboro Fields\nNuneaton\nWarwickshire\nCV11 6GL\nUK",
       "telephone": "+44 2476 64 1234",
       "website": "security.gallagher.com"
     },
     {
+      "@type": "Organization",
+      "name": "HENSOLDT",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/hensoldt/",
+      "address": "6 Mollison Avenue\nEnfield\nVoltage\nEN3 7XQ\nUnited Kingdom",
+      "telephone": "+44 19 9280-5200",
+      "website": "www.hensoldt.net"
+    },
+    {
+      "@type": "Organization",
       "name": "INO",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ino/",
-      "category": [
-        "Data acquisition and analysis",
-        "Man-guarding & Close Protection",
+      "tag": [
         "Custodial",
-        "Physical Security",
         "Optics",
-        "Border and Maritime Security"
+        "Border and Maritime Security",
+        "Man-guarding & Close Protection",
+        "Physical Security",
+        "Data acquisition and analysis"
       ],
       "address": "2740 Einstein\n2740 Einstein\nQuebec City\nQuebec\nG1P 4S4\nCanada",
       "telephone": "1-418-559-2701",
       "website": "https://www.ino.ca/en/"
     },
     {
+      "@type": "Organization",
       "name": "Iceni Labs",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/iceni-labs/",
-      "category": [
-        "Counter Terrorism & Intelligence",
+      "tag": [
+        "Incident & Emergency Response",
         "Covert Operations & Capabilities",
-        "Incident & Emergency Response"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Fuel Tank, Units A05-06, 8-12 Creekside\nLondon\nGreater London\nSE8 3DX\nUnited Kingdom",
       "telephone": "07919 337723",
       "website": "www.icenilabs.com"
     },
     {
+      "@type": "Organization",
+      "name": "Innova",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/innova/",
+      "tag": [
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence",
+        "Training"
+      ],
+      "address": "Via del Follatoio, 12\nTrieste\nFriuli Venezia Giulia\n34147\nItaly",
+      "telephone": "+393455993151",
+      "website": "www.innovatrieste.it"
+    },
+    {
+      "@type": "Organization",
+      "name": "Issured Ltd.",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/issured-ltd/",
+      "tag": [
+        "Cyber Security",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Training",
+        "Data acquisition and analysis",
+        "Communications"
+      ],
+      "address": "First Floor Office Suite, Unit 18\nBradbourne Drive\nMilton Keynes\nBuckinghamshire\nMK7 8BE\nUnited Kingdom",
+      "telephone": "0787 430 6003",
+      "website": "https://issured.com/"
+    },
+    {
+      "@type": "Organization",
       "name": "JSI",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/jsi/",
-      "category": [
+      "tag": [
         "Command & Control",
+        "Data acquisition and analysis",
         "Communications",
-        "Covert Operations & Capabilities",
-        "Data acquisition and analysis"
+        "Covert Operations & Capabilities"
       ],
       "address": "99 Michael Cowpland Drive\nOttawa\nOntario\nK2M 1X3\nCanada",
       "telephone": "703-402-0017",
       "website": "www.jsitelecom.com"
     },
     {
+      "@type": "Organization",
+      "name": "JTOL Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/jtol-ltd/",
+      "address": "12 Dale Road\nRedditch\nWorcs\nB98 8HJ\nEngland",
+      "telephone": "07785500325",
+      "website": "www.jtol.co.uk"
+    },
+    {
+      "@type": "Organization",
       "name": "Jenoptik Light & Safety",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/jenoptik-light-safety/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
+        "CCTV & Video Analytics",
         "Data acquisition and analysis",
-        "CCTV & Video Analytics"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Jenoptik Traffic Solutions UK Ltd\nTen Watchmoor Park,\nRiverside Way\nCamberley\nSurrey\nGU15 3YL\nUnited Kingdom",
       "telephone": "+44 (0)1183 130333",
       "website": "www.jenoptik.co.uk / www.jenoptik.com"
     },
     {
+      "@type": "Organization",
       "name": "Juma Communications Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/juma-communications-ltd/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Clothing & Accessories",
+      "tag": [
         "Personal Protection Equipment",
-        "Communications",
-        "Command & Control"
+        "Clothing & Accessories",
+        "Covert Operations & Capabilities",
+        "Command & Control",
+        "Communications"
       ],
       "address": "Unit 4, Ednaston Home Farm\nBrailsford\nDerbyshire\nDE6 3AY\nUK",
       "telephone": "01335360157",
       "website": "www.jumacommunications.com"
     },
     {
+      "@type": "Organization",
+      "name": "Kinesense Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/kinesense-ltd/",
+      "address": "79 Merrion Square\n79 Merrion Square\nDublin\nDublin\nD02 TN27\nIreland",
+      "telephone": "07973 470786",
+      "website": "www.kinesense-vca.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Kirintec",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/kirintec/",
-      "category": [
+      "tag": [
+        "Robotics & Countermeasures",
+        "Counter Terrorism & Intelligence",
         "Unmanned Systems",
         "Explosives & Blast Protection",
-        "Counter Terrorism & Intelligence",
-        "Counter Explosive Ordnance",
-        "Robotics & Countermeasures"
+        "Counter Explosive Ordnance"
       ],
       "address": "Walter Scott House,\n10 Gloucester Road,\nRoss on Wye\nHerefordshire\nHR9 5PB\nUnited Kingdom",
       "telephone": "07775683832",
       "website": "www.kirintec.com"
     },
     {
+      "@type": "Organization",
+      "name": "Kromek",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/kromek/",
+      "tag": [
+        "Robotics & Countermeasures",
+        "Personal Protection Equipment",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Clothing & Accessories",
+        "Unmanned Systems",
+        "CBRNe"
+      ],
+      "address": "NETPark\nThomas Wright Way\nSedgefield\nCounty Durham\nTS21 3FD\nUnited Kingdom",
+      "telephone": "01740626060",
+      "website": "https://www.kromek.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Landguard Systems Limited",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/landguard-systems-limited/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
         "Man-guarding & Close Protection",
         "Transport Security",
-        "Counter Terrorism & Intelligence",
+        "Unmanned Systems",
         "Physical Security",
-        "Communications",
+        "Covert Operations & Capabilities",
         "Training",
-        "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Command & Control"
+        "Communications"
       ],
       "address": "Semaphore House\nFareham Heights\nStandard Way\nFareham\nHampshire\nPO16 8XT\nUnited Kingdom",
       "telephone": "01329722133",
       "website": "www.landguardsystems.com"
     },
     {
+      "@type": "Organization",
       "name": "Leidos UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/leidos-uk/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Data acquisition and analysis",
-        "Communications",
-        "Facial Recognition & Imagery",
-        "Comms Data and Digital Forensics",
+      "tag": [
         "Cyber Security",
+        "Command & Control",
         "Border and Maritime Security",
-        "Command & Control"
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Information Technology",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "Skypark 1\n8 Elliot Place\nGlasgow\nGlasgow City\nG3 8EP\nScotland",
       "telephone": "07790 899666",
       "website": "http://www.leidos.com/uk"
     },
     {
+      "@type": "Organization",
       "name": "Leonardo",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/leonardo/",
-      "category": [
-        "Unmanned Systems",
-        "Optics",
-        "Communications",
-        "Training",
+      "tag": [
         "Cyber Security",
-        "Border and Maritime Security",
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Command & Control",
+        "Optics",
+        "Border and Maritime Security",
+        "Unmanned Systems",
+        "Training",
+        "Communications"
       ],
       "address": "5th Floor\nOne Eagle Place\nSt James\nLondon\nSW1Y 6AF\nUK",
       "telephone": "+44 (7793) 423446",
-      "website": "www.leonardocompany.com"
+      "website": "https://www.leonardocompany.com/en/media-stories/events/security-and-policing"
     },
     {
+      "@type": "Organization",
+      "name": "Level Peaks",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/level-peaks/",
+      "tag": [
+        "Robotics & Countermeasures",
+        "Personal Protection Equipment",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Optics",
+        "Border and Maritime Security",
+        "Facial Recognition & Imagery",
+        "Clothing & Accessories",
+        "Biometrics",
+        "Explosives & Blast Protection",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
+        "Vehicles",
+        "Incident & Emergency Response",
+        "Counter Explosive Ordnance",
+        "Communications",
+        "CBRNe"
+      ],
+      "address": "Unit 4\nHereford Trade Park\nHereford\nHerefordshire\nHR1 3RQ\nUnited Kingdom",
+      "telephone": "07788140197",
+      "website": "levelpeaks.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Liteye UK Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/liteye-uk-ltd/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence",
         "Optics"
       ],
       "address": "Liteye UK Ltd\n15b Field House\nEarls Colne Business Park\nEarls Colne\nColchester\nEssex\nCO6 2NS\nEngland",
@@ -849,36 +1230,39 @@
       "website": "www.liteye.com/uk"
     },
     {
+      "@type": "Organization",
       "name": "LoughTec",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/loughtec/",
-      "category": [
-        "Information Technology",
-        "Cyber Security"
+      "tag": [
+        "Cyber Security",
+        "Information Technology"
       ],
       "address": "4 Bankmore Business Park\nOmagh\nCo. Tyrone\nBT79 0BQ\nUnited Kingdom",
       "telephone": "+44 (0) 2882 252445",
       "website": "www.loughtec.com"
     },
     {
+      "@type": "Organization",
       "name": "METIS Aerospace Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/metis-aerospace-ltd/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Explosives & Blast Protection",
-        "Counter Explosive Ordnance",
-        "Border and Maritime Security",
+      "tag": [
         "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Border and Maritime Security",
+        "Explosives & Blast Protection",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
+        "Incident & Emergency Response",
+        "Counter Explosive Ordnance"
       ],
       "address": "Booole Technology Centre\nBeevor Street\nLincoln\nLincolnshire\nLN6 7DJ\nUnited Kingdom",
       "telephone": "+44 (0)1522 963125",
       "website": "www.metisaerospace.com"
     },
     {
+      "@type": "Organization",
       "name": "MS Instruments",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ms-instruments/",
-      "category": [
+      "tag": [
         "Forensic Services",
         "Training"
       ],
@@ -887,51 +1271,55 @@
       "website": "www.msinstruments.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "MSAB",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/msab/",
-      "category": [
+      "tag": [
         "Information Technology",
-        "Counter Terrorism & Intelligence",
         "Forensic Services",
-        "Covert Operations & Capabilities"
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "2nd Floor East\nCentral Point 25-31\nLondon Street\nReading\nBerkshire\nRG1 4PS\nUnited Kingdom",
       "telephone": "07717101112",
       "website": "https://www.msab.com/"
     },
     {
+      "@type": "Organization",
       "name": "Magnet Forensics International Inc.",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/magnet-forensics-international-inc/",
-      "category": [
-        "Data acquisition and analysis",
-        "Cyber Security",
+      "tag": [
+        "Incident & Emergency Response",
         "Comms Data and Digital Forensics",
-        "Incident & Emergency Response"
+        "Data acquisition and analysis",
+        "Cyber Security"
       ],
       "address": "2220 University Ave. E., Suite 300\nWaterloo\nOntario\nN2K 0A8\nCanada",
       "telephone": "+447951 562535",
       "website": "https://www.magnetforensics.com/"
     },
     {
+      "@type": "Organization",
       "name": "NP Aerospace",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/np-aerospace/",
-      "category": [
-        "Covert Operations & Capabilities",
+      "tag": [
+        "Personal Protection Equipment",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
         "Clothing & Accessories",
         "Explosives & Blast Protection",
-        "Counter Terrorism & Intelligence",
-        "Personal Protection Equipment",
-        "Counter Explosive Ordnance",
-        "Border and Maritime Security"
+        "Covert Operations & Capabilities",
+        "Counter Explosive Ordnance"
       ],
       "address": "473 Foleshill Road\n473 Foleshill Road\nCoventry\nWest Midlands\nCV6 5AQ\nUnited Kingdom",
       "telephone": "+442476702802",
       "website": "www.npaerospace.com"
     },
     {
+      "@type": "Organization",
       "name": "Nautics Group Technical Surveillance Corporation",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/nautics-group-technical-surveillance-corporation/",
-      "category": [
+      "tag": [
         "Information Technology"
       ],
       "address": "1658 Bedford Highway\nUnit #2220\nBedford\nNova Scotia\nB4A 2X9\nCanada",
@@ -939,37 +1327,54 @@
       "website": "http://www.nauticsgroup.com"
     },
     {
+      "@type": "Organization",
       "name": "Nedap Security Management",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/nedap-security-management/",
-      "category": [
+      "tag": [
         "Biometrics",
-        "Access Control & Entry Systems",
-        "Facial Recognition & Imagery"
+        "Facial Recognition & Imagery",
+        "Access Control & Entry Systems"
       ],
       "address": "1310 Waterside\nArlington Business Park\nTheale\nReading\nBerskshire\nRG7 4SA\nUnited Kingdom",
       "telephone": "07827890531",
       "website": "https://www.nedapsecurity.com/"
     },
     {
+      "@type": "Organization",
+      "name": "NeoSoft AG",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/neosoft-ag/",
+      "tag": [
+        "Cyber Security",
+        "Communications",
+        "Command & Control",
+        "Counter Terrorism & Intelligence"
+      ],
+      "address": "Uetlibergstrasse 132\nZurich\n–\n8045\nSwitzerland",
+      "telephone": "+41445200804",
+      "website": "www.neosoft.ch"
+    },
+    {
+      "@type": "Organization",
       "name": "Network Innovations",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/network-innovations/",
-      "category": [
-        "Information Technology",
-        "Vehicles",
-        "Unmanned Systems",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Comms Data and Digital Forensics",
-        "Command & Control",
+      "tag": [
         "CCTV & Video Analytics",
         "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Unmanned Systems",
+        "Vehicles",
+        "Incident & Emergency Response",
+        "Comms Data and Digital Forensics",
+        "Communications"
       ],
       "address": "Unit D\nHarvey’s Place\nFarncombe Estate\nBroadway\nWorcestershire\nWR12 7LJ\nUnited Kingdom",
       "telephone": "+44.(0)20.8286.6768",
       "website": "www.networkinv.com"
     },
     {
+      "@type": "Organization",
       "name": "Northern Ireland Aerospace & Defence",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/northern-ireland-aerospace-defence/",
       "address": "Bedford Square\nBedford Street\nBelfast\nAntrim\nBT2 7ES\nNorthern Ireland",
@@ -977,95 +1382,109 @@
       "website": "www.investni.com"
     },
     {
+      "@type": "Organization",
       "name": "Northgate Public Services",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/northgate-public-services/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Covert Operations & Capabilities",
-        "Data acquisition and analysis",
+      "tag": [
         "Professional Services",
-        "Custodial",
-        "Communications",
-        "Forensic Services",
-        "Facial Recognition & Imagery",
         "Command & Control",
+        "Custodial",
         "Border and Maritime Security",
-        "Incident & Emergency Response"
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Information Technology",
+        "Forensic Services",
+        "Covert Operations & Capabilities",
+        "Incident & Emergency Response",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "BizSpace\n1st Floor\niMex Centre\n575-599 Maxted Rd\nHemel Hempstead\nHertfordshire\nHP2 7DX\nUnited Kingdom",
       "telephone": "07772490716",
       "website": "https://www.northgateps.com/"
     },
     {
+      "@type": "Organization",
+      "name": "Nuix",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/nuix/",
+      "address": "2nd Floor South\nTimes House\nBravingtons Walk\nBlock B Regent Quarter\nKings Cross\nLondon\nN1 9AW\nUnited Kingdom",
+      "telephone": "+44 203 934 1600",
+      "website": "https://www.nuix.com/"
+    },
+    {
+      "@type": "Organization",
       "name": "Nyxcell",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/nyxcell/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
         "Communications",
-        "Command & Control"
+        "Command & Control",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Pickwood Hall\nLeek\nStaffs\nST13 5BZ\nUK",
       "telephone": "01538388550",
       "website": "https://nyxcell.com/"
     },
     {
+      "@type": "Organization",
       "name": "OpenWorks Engineering Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/openworks-engineering-ltd/",
-      "category": [
-        "Unmanned Systems",
-        "Man-guarding & Close Protection",
-        "Counter Terrorism & Intelligence",
-        "Physical Security",
+      "tag": [
         "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Robotics & Countermeasures"
+        "Man-guarding & Close Protection",
+        "Unmanned Systems",
+        "Physical Security"
       ],
       "address": "OpenWorks Engineering Ltd\nStocksfield Hall\nStocksfield\nNorthumberland\nNE43 7TN\nUnited Kingdom",
       "telephone": "01434400469",
       "website": "www.openworksengineering.com"
     },
     {
+      "@type": "Organization",
       "name": "Operational Solutions Limited",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/operational-solutions-limited/",
-      "category": [
-        "Unmanned Systems",
-        "Communications",
+      "tag": [
         "CCTV & Video Analytics",
-        "Border and Maritime Security",
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Command & Control",
+        "Border and Maritime Security",
+        "Unmanned Systems",
+        "Communications"
       ],
       "address": "Sunnyside Farm\nPadworth Common\nReading\nBerkshire\nRG74QN\nUnited Kingdom",
       "telephone": "07946214311",
       "website": "https://operationalsolutionsltd.co.uk/"
     },
     {
+      "@type": "Organization",
       "name": "Ovation Systems Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ovation-systems-ltd/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
-        "Counter Terrorism & Intelligence",
+        "CCTV & Video Analytics",
         "Covert Operations & Capabilities",
-        "CCTV & Video Analytics"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Springfield Barn\nLondon Road\nSpringfield Barn\nMilton Common\nOxfordshire\nOX9 2JY\nUnited Kingdom",
       "telephone": "+44 1844 279638",
       "website": "www.ovation.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Overview Ltd.",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/overview-ltd/",
-      "category": [
-        "Biometrics",
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Transport Security",
-        "Facial Recognition & Imagery",
+      "tag": [
         "CCTV & Video Analytics",
-        "Border and Maritime Security",
         "Robotics & Countermeasures",
+        "Border and Maritime Security",
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Transport Security",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
         "Incident & Emergency Response"
       ],
       "address": "Overview House\nKingswey Business Park\nForsyth Road\nWoking\nSurrey\nGU21 5SA\nUK",
@@ -1073,92 +1492,122 @@
       "website": "www.overview.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Oxford Wave Research Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/oxford-wave-research-ltd/",
-      "category": [
-        "Biometrics",
+      "tag": [
+        "CCTV & Video Analytics",
         "Counter Terrorism & Intelligence",
-        "Forensic Services",
         "Facial Recognition & Imagery",
+        "Biometrics",
+        "Forensic Services",
         "Training",
-        "Comms Data and Digital Forensics",
-        "CCTV & Video Analytics"
+        "Comms Data and Digital Forensics"
       ],
       "address": "Bagley Croft\nHinksey Hill\nOxford\nOxfordshire\nOX1 5BS\nUnited Kingdom",
       "telephone": "01865955250",
       "website": "www.oxfordwaveresearch.com"
     },
     {
+      "@type": "Organization",
+      "name": "Oxygen Forensics",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/oxygen-forensics/",
+      "tag": [
+        "Data acquisition and analysis"
+      ],
+      "address": "909 N. Washington St, Suite 300\nAlexandria\nUnited States\nVA 22314\nUnited States",
+      "telephone": "+44 (0) 7583 081 214",
+      "website": "www.oxygen-forensic.com"
+    },
+    {
+      "@type": "Organization",
       "name": "PGI – Protection Group International",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/pgi-protection-group-international/",
-      "category": [
-        "Counter Terrorism & Intelligence",
-        "Cyber Security",
+      "tag": [
+        "Incident & Emergency Response",
         "Training",
-        "Incident & Emergency Response"
+        "Counter Terrorism & Intelligence",
+        "Cyber Security"
       ],
       "address": "13-14 Angel Gate\nLondon\nLondon\nEC1V 2PT\nUnited Kingdom",
       "telephone": "+44 845 600 4403",
       "website": "https://www.pgitl.com/"
     },
     {
+      "@type": "Organization",
       "name": "Panoptech Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/panoptech-ltd/",
-      "category": [
-        "Information Technology",
-        "Covert Operations & Capabilities",
-        "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Comms Data and Digital Forensics",
+      "tag": [
         "CCTV & Video Analytics",
         "Command & Control",
-        "Incident & Emergency Response"
+        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Covert Operations & Capabilities",
+        "Incident & Emergency Response",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "Cedar House\nAncells Road\nAncells Business Park\nFleet\nHampshire\nGU51 2UN\nEngland – UK",
       "telephone": "01252 812 055",
       "website": "www.panoptech.co.uk"
     },
     {
+      "@type": "Organization",
+      "name": "Pervade Software",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/pervade-software/",
+      "tag": [
+        "Cyber Security",
+        "Information Technology"
+      ],
+      "address": "Castle Court\n6 Cathedral Road\nCardiff\nGlamorgan\nCF11 9LJ\nUK",
+      "telephone": "+44 (0)7753 573999",
+      "website": "www.pervade-software.com"
+    },
+    {
+      "@type": "Organization",
       "name": "PoliceBox",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/policebox/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Communications",
-        "Facial Recognition & Imagery",
+      "tag": [
         "Command & Control",
         "Border and Maritime Security",
-        "Incident & Emergency Response"
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Information Technology",
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "Boho 5\nBridge Street East\nMiddlesbrough\nNorth Yorkshire\nTS2 1NY\nUnited Kingdom",
       "telephone": "07802234789",
       "website": "www.policebox.com"
     },
     {
+      "@type": "Organization",
       "name": "Principle One",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/principle-one/",
-      "category": [
-        "Professional Services",
-        "Comms Data and Digital Forensics"
+      "tag": [
+        "Comms Data and Digital Forensics",
+        "Professional Services"
       ],
       "address": "Tintagel House\n92 Albert Embankment\nLondon\nGreater London\nSE1 7TY\nUnited Kingdom",
       "telephone": "+4407967203158",
       "website": "www.principleone.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "Pro4sec",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/pro4sec/",
-      "category": [
+      "tag": [
         "CCTV & Video Analytics",
-        "Counter Terrorism & Intelligence",
-        "Covert Operations & Capabilities"
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Juna obala IX. 17\nZagreb\nGrad Zagreb\n10 020\nCroatia",
       "telephone": "+385992724398",
       "website": "www.pro4sec.com"
     },
     {
+      "@type": "Organization",
       "name": "Pro4tech",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/pro4tech/",
       "address": "Ahad Haam 9St., Shalom bldg.\nTel Aviv\nIsrael\n6525101\nIsrael",
@@ -1166,42 +1615,45 @@
       "website": "www.pro4tech.com"
     },
     {
+      "@type": "Organization",
       "name": "Q Electronics Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/q-electronics-ltd/",
-      "category": [
+      "tag": [
+        "CCTV & Video Analytics",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Transport Security",
         "Information Technology",
         "Covert Operations & Capabilities",
         "Data acquisition and analysis",
-        "Transport Security",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "CCTV & Video Analytics",
-        "Border and Maritime Security",
-        "Command & Control"
+        "Communications"
       ],
       "address": "Beck House\nHawksworth Rd\nLeeds\nW Yorkshire\nLS18 4JP\nUnited Kingdom",
       "telephone": "07090111112 or 01132585208",
       "website": "www.qelectronics.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "QinetiQ",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/qinetiq/",
-      "category": [
-        "Unmanned Systems",
-        "Communications",
-        "Comms Data and Digital Forensics",
+      "tag": [
         "Cyber Security",
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Command & Control",
+        "Unmanned Systems",
+        "Comms Data and Digital Forensics",
+        "Communications"
       ],
       "address": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUK",
       "telephone": "+44 (0)1252 392000",
       "website": "www.QinetiQ.com"
     },
     {
+      "@type": "Organization",
       "name": "Research Electronics International",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/research-electronics-international/",
-      "category": [
+      "tag": [
         "Command & Control",
         "Communications",
         "Training"
@@ -1211,244 +1663,320 @@
       "website": "reiusa.net"
     },
     {
+      "@type": "Organization",
+      "name": "Revector",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/revector/",
+      "address": "Revector\nHighground\nJubilee Road\nFinchampstead\nBerkshire\nRG40 3SE\nUnited Kingdom",
+      "telephone": "+44 3300 431784",
+      "website": "www.revector.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Roke",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/roke/",
+      "tag": [
+        "Cyber Security",
+        "Command & Control",
+        "Explosives & Blast Protection",
+        "Comms Data and Digital Forensics",
+        "Counter Explosive Ordnance",
+        "Communications"
+      ],
+      "address": "Roke Manor Research\nOld Salisbury Lane\nRomsey\nHampshire\nSO51 0ZN\nUnited Kingdom",
+      "telephone": "+44 (0)1794 833000",
+      "website": "https://www.roke.co.uk/"
+    },
+    {
+      "@type": "Organization",
+      "name": "SGW Safety & Security Limited",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sgw-safety-security-limited/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Professional Services",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Explosives & Blast Protection",
+        "Training",
+        "Counter Explosive Ordnance"
+      ],
+      "address": "Edwinstowe House,\nHigh Street,\nEdwinstowe,\nMansfield,\nNottinghamshire\nNG21 9PR\nUnited Kingdom",
+      "telephone": "+44 (0)1623 821508",
+      "website": "https://sgw-consulting.co.uk/"
+    },
+    {
+      "@type": "Organization",
       "name": "SITA",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sita/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Data acquisition and analysis",
+      "tag": [
         "Professional Services",
-        "Transport Security",
         "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
         "Facial Recognition & Imagery",
-        "Border and Maritime Security"
+        "Biometrics",
+        "Transport Security",
+        "Information Technology",
+        "Data acquisition and analysis"
       ],
       "address": "Royal Pavilion | Wellesley Road\nAldershot\nHampshire\nGU11 1PZ\nUnited Kingdom",
       "telephone": "+44 (0)7779 273045",
       "website": "https://www.sita.aero/"
     },
     {
+      "@type": "Organization",
       "name": "SS8 Networks",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ss8-networks/",
-      "category": [
+      "tag": [
         "Information Technology",
-        "Data acquisition and analysis",
-        "Comms Data and Digital Forensics"
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis"
       ],
       "address": "750 Tasman Drive\nMilpitas\nCA\n95034\nUnited States",
       "telephone": "1 408-944-0250",
       "website": "www.SS8.com"
     },
     {
+      "@type": "Organization",
       "name": "Sabre Global UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sabre-global-uk/",
-      "category": [
+      "tag": [
+        "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Professional Services",
+        "Personal Protection Equipment",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Optics",
+        "Man-guarding & Close Protection",
+        "Clothing & Accessories",
         "Access Control & Entry Systems",
         "Unmanned Systems",
-        "Man-guarding & Close Protection",
-        "Professional Services",
-        "Clothing & Accessories",
-        "Counter Terrorism & Intelligence",
-        "Personal Protection Equipment",
         "Physical Security",
         "Training",
-        "Communications",
-        "Command & Control",
-        "CCTV & Video Analytics",
-        "Optics",
-        "Robotics & Countermeasures",
-        "Incident & Emergency Response"
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "12 Hamilton Court\nMaitland Drive\nHigh Wycombe\nBuckinghamshire\nHP13 5BN\nUK",
       "telephone": "+44 (0)20 3290 5066",
       "website": "https://www.sabre-global.co.uk/"
     },
     {
+      "@type": "Organization",
       "name": "SaltDNA",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/saltdna/",
-      "category": [
-        "Command & Control",
-        "Communications"
+      "tag": [
+        "Communications",
+        "Command & Control"
       ],
       "address": "6\nClarence Street\n6\nBelfast\nAntrim\nBT2 8DX\nUnited Kingdom",
       "telephone": "02890328114",
       "website": "https://saltdna.com/"
     },
     {
+      "@type": "Organization",
       "name": "Scanna MSC Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/scanna-msc-ltd/",
-      "category": [
+      "tag": [
         "Transport Security",
-        "CBRNe",
         "Explosives & Blast Protection",
-        "Counter Explosive Ordnance"
+        "Counter Explosive Ordnance",
+        "CBRNe"
       ],
       "address": "223 Regent Street\nLondon\nLondon\nW1B 2EB\nUK",
       "telephone": "01793 786045",
       "website": "www.scanna-msc.com"
     },
     {
+      "@type": "Organization",
       "name": "SeeQuestor",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/seequestor/",
-      "category": [
-        "Biometrics",
+      "tag": [
+        "CCTV & Video Analytics",
         "Counter Terrorism & Intelligence",
-        "Forensic Services",
         "Facial Recognition & Imagery",
-        "CCTV & Video Analytics"
+        "Biometrics",
+        "Forensic Services"
       ],
       "address": "The Royal Institution of Great Britain\n21 Albemarle St\nLondon\nLondon\nW1S 4BS\nUK",
       "telephone": "+44 (0) 7899 667905",
       "website": "www.seequestor.com"
     },
     {
+      "@type": "Organization",
       "name": "Smith Myers Communications Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/smith-myers-communications-ltd/",
-      "category": [
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Border and Maritime Security",
+      "tag": [
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Unmanned Systems",
+        "Covert Operations & Capabilities",
+        "Communications"
       ],
       "address": "1 The Omega Center\nStratton Business Park\nBiggleswade\nBedfordshire\nSG188QB\nUnited Kingdom",
       "telephone": "01767601144",
       "website": "www.smithmyers.com"
     },
     {
+      "@type": "Organization",
       "name": "Sonic Communications (Int) Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sonic-communications-int-ltd/",
-      "category": [
+      "tag": [
         "Command & Control",
-        "Counter Terrorism & Intelligence",
         "Communications",
-        "Covert Operations & Capabilities"
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Sonic Communications (Int) Ltd\nBirmingham International Park\nStarley Way\nBickenhill\nBirmingham\nWest Midlands\nB37 7HB\nUnited Kingdom",
       "telephone": "0044 121 781 4400",
       "website": "www.sonic-comms.com"
     },
     {
+      "@type": "Organization",
       "name": "Sopra Steria",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sopra-steria/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Data acquisition and analysis",
-        "Communications",
-        "Facial Recognition & Imagery",
+      "tag": [
         "Cyber Security",
-        "Command & Control"
+        "Command & Control",
+        "Facial Recognition & Imagery",
+        "Biometrics",
+        "Information Technology",
+        "Data acquisition and analysis",
+        "Communications"
       ],
       "address": "Three Cherry Trees Lane\nThree Cherry Trees Lane\nHemel Hempstead\nHertfordshire\nHP2 7HW\nUnited Kingdom",
       "telephone": "07972806677",
       "website": "https://www.soprasteria.co.uk/"
     },
     {
+      "@type": "Organization",
+      "name": "Splunk",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/splunk/",
+      "tag": [
+        "Cyber Security",
+        "Information Technology"
+      ],
+      "address": "Brunel Building, 1&2 Canalside Walk\nLondon\nLondon\nW2 1DG\nUnited Kingdom",
+      "telephone": "07421143552",
+      "website": "www.splunk.com"
+    },
+    {
+      "@type": "Organization",
       "name": "Squarehead Technology AS",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/squarehead-technology-as/",
-      "category": [
-        "Counter Terrorism & Intelligence",
-        "Covert Operations & Capabilities"
+      "tag": [
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Nydalsveien 28\nOslo\nOslo\n0484\nNorway",
       "telephone": "+4741316975",
       "website": "www.sqhead.com"
     },
     {
+      "@type": "Organization",
       "name": "Sure Antennas",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/sure-antennas/",
-      "category": [
+      "tag": [
+        "Command & Control",
+        "Transport Security",
         "Vehicles",
         "Covert Operations & Capabilities",
-        "Transport Security",
-        "Communications",
-        "Command & Control",
-        "Incident & Emergency Response"
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "6, Woodway Court, Thursby Rd,\nBromborough\nMerseyside\nCH62 3PR\nUnited Kingdom",
       "telephone": "0151 334 9160",
       "website": "https://covert-antenna.com/"
     },
     {
+      "@type": "Organization",
       "name": "Surevine",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/surevine/",
-      "category": [
-        "Information Technology",
-        "Cyber Security"
+      "tag": [
+        "Cyber Security",
+        "Information Technology"
       ],
       "address": "PO Box 1136\nGuildford\nSurrey\nGU1 9ND\nUnited Kingdom",
       "telephone": "08454681066",
       "website": "https://www.surevine.com/"
     },
     {
-      "name": "Survitec Defence & Aerspace",
+      "@type": "Organization",
+      "name": "Survitec Defence & Aerospace",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/survitec-defence-aerspace/",
-      "category": [
-        "Clothing & Accessories",
-        "Counter Terrorism & Intelligence",
+      "tag": [
         "Personal Protection Equipment",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Clothing & Accessories",
         "Training",
-        "CBRNe",
-        "Border and Maritime Security"
+        "CBRNe"
       ],
       "address": "1-5 Beaufort Road\nBirkenhead\nMerseyside\nCH41 1HQ\nUnited Kingdom",
       "telephone": "07795603258",
       "website": "https://survitecgroup.com/"
     },
     {
+      "@type": "Organization",
       "name": "Symetrica Security Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/symetrica-security-ltd/",
-      "category": [
-        "Information Technology",
-        "Vehicles",
-        "Covert Operations & Capabilities",
-        "Unmanned Systems",
-        "Data acquisition and analysis",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Training",
-        "CBRNe",
-        "Border and Maritime Security",
+      "tag": [
         "Robotics & Countermeasures",
-        "Command & Control"
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
+        "Border and Maritime Security",
+        "Information Technology",
+        "Unmanned Systems",
+        "Vehicles",
+        "Training",
+        "Covert Operations & Capabilities",
+        "Data acquisition and analysis",
+        "Communications",
+        "CBRNe"
       ],
       "address": "Symetrica Security\nRoman House, 39 Botley Rd\nNorth Baddesley\nSouthampton\nHampshire\nSO52 9AE\nUnited Kingdom",
       "telephone": "(0) 7808 548 028",
       "website": "www.symetrica.com"
     },
     {
+      "@type": "Organization",
       "name": "SystemWare Europe Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/systemware-europe-ltd/",
+      "tag": [
+        "Data acquisition and analysis",
+        "Communications",
+        "Command & Control",
+        "Counter Terrorism & Intelligence"
+      ],
       "address": "Phoenix House\n2 Phoenix Park\nSt Neots\nCambridgeshire\nPE19 8EP\nUnited Kingdom",
       "telephone": "+447447589257",
       "website": "www.sysware-europe.com"
     },
     {
+      "@type": "Organization",
       "name": "Teledyne e2v",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/teledyne-e2v/",
-      "category": [
-        "Vehicles",
-        "Unmanned Systems",
+      "tag": [
+        "Robotics & Countermeasures",
         "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Robotics & Countermeasures"
+        "Unmanned Systems",
+        "Vehicles"
       ],
       "address": "106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
       "telephone": "44 1245 453781",
       "website": "https://www.teledyne-e2v.com/markets/security-rescue/rf-safe-stoptm/"
     },
     {
+      "@type": "Organization",
       "name": "Templar Executives",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/templar-executives/",
-      "category": [
-        "Transport Security",
-        "Counter Terrorism & Intelligence",
-        "Training",
+      "tag": [
         "Cyber Security",
+        "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
+        "Transport Security",
+        "Training",
         "Incident & Emergency Response"
       ],
       "address": "83 Victoria Street\nLondon\nLondon\nSW1H 0HW\nUnited Kingdom",
@@ -1456,49 +1984,52 @@
       "website": "https://www.templarexecs.com"
     },
     {
+      "@type": "Organization",
       "name": "Thales",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/thales/",
-      "category": [
-        "Biometrics",
-        "Access Control & Entry Systems",
-        "Unmanned Systems",
-        "Data acquisition and analysis",
-        "Transport Security",
+      "tag": [
+        "Cyber Security",
+        "CCTV & Video Analytics",
+        "Robotics & Countermeasures",
+        "Command & Control",
         "Custodial",
-        "Communications",
-        "Forensic Services",
+        "Border and Maritime Security",
         "Facial Recognition & Imagery",
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Transport Security",
+        "Unmanned Systems",
+        "Forensic Services",
         "Training",
         "Comms Data and Digital Forensics",
-        "CCTV & Video Analytics",
-        "CBRNe",
-        "Cyber Security",
-        "Border and Maritime Security",
-        "Robotics & Countermeasures",
-        "Command & Control"
+        "Data acquisition and analysis",
+        "Communications",
+        "CBRNe"
       ],
       "address": "350 Longwater Avenue\nGreen Park\nReading\nUK\nRG26GF\nUK",
       "telephone": "+44(0)7976123039",
       "website": "www.thalesgroup.com"
     },
     {
+      "@type": "Organization",
       "name": "The Lava Group",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/the-lava-group/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Access Control & Entry Systems",
+      "tag": [
         "Custodial",
-        "Facial Recognition & Imagery"
+        "Facial Recognition & Imagery",
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Information Technology"
       ],
       "address": "17 Falcon Road\nBelfast\nNorthern Ireland\nBT12 6RD\nUnited Kingdom",
       "telephone": "+44 (0)28 9072 2070",
       "website": "http://www.thelavagroup.co.uk/"
     },
     {
+      "@type": "Organization",
       "name": "The Security Institute",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/the-security-institute/",
-      "category": [
+      "tag": [
         "Professional Services"
       ],
       "address": "Unit 1\nUnit 1\nCaldecote\nWarwickshire\nCV10 0AS\nUnited Kingdom",
@@ -1506,51 +2037,69 @@
       "website": "security-institute.org"
     },
     {
+      "@type": "Organization",
       "name": "Thermoteknix Systems Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/thermoteknix-systems-ltd/",
-      "category": [
+      "tag": [
         "Border and Maritime Security",
+        "Personal Protection Equipment",
         "Clothing & Accessories",
-        "Counter Terrorism & Intelligence",
-        "Personal Protection Equipment"
+        "Counter Terrorism & Intelligence"
       ],
       "address": "Teknix House\n2 Pembroke Avenue\nTeknix House\nCambridge\nCambridgeshire\nCB259QR\nUnited Kingdom",
       "telephone": "07769875422",
       "website": "www.thermoteknix.com"
     },
     {
+      "@type": "Organization",
       "name": "Timespace Technology Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/timespace-technology-ltd/",
-      "category": [
-        "CCTV & Video Analytics",
-        "Transport Security"
+      "tag": [
+        "Transport Security",
+        "CCTV & Video Analytics"
       ],
       "address": "Lakeview Court\nErmine Business Park\nHuntingdon\nCambridgeshire\nPE29 6UA\nUnited Kingdom",
       "telephone": "01480414147",
       "website": "www.tspace.co.uk"
     },
     {
+      "@type": "Organization",
       "name": "UKCloudX",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/ukcloudx/",
-      "category": [
+      "tag": [
+        "Cyber Security",
+        "Professional Services",
+        "Command & Control",
         "Information Technology",
         "Data acquisition and analysis",
-        "Professional Services",
-        "Communications",
-        "Cyber Security",
-        "Command & Control"
+        "Communications"
       ],
       "address": "A8 Cody Technology Park\nIvely Road\nFarnborough\nFarnborough\nHampshire\nGU14 0LX\nEngland",
       "telephone": "01252303300",
       "website": "https://ukcloud.com/ukcloudx/"
     },
     {
+      "@type": "Organization",
+      "name": "VIAVI Solutions",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/viavi-solutions/",
+      "tag": [
+        "Border and Maritime Security",
+        "Communications",
+        "Command & Control",
+        "Cyber Security"
+      ],
+      "address": "10200 W York Street\nWichita\nKansas\n67215\nUnited States",
+      "telephone": "+44 (0)7702 909 432",
+      "website": "http://www.viavisolutions.com"
+    },
+    {
+      "@type": "Organization",
       "name": "VML Technology Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/vml-technology-ltd/",
-      "category": [
+      "tag": [
         "Information Technology",
-        "Communications",
         "Comms Data and Digital Forensics",
+        "Communications",
         "Command & Control"
       ],
       "address": "Callender Buildings\n6a Callender Street\nBelfast\nAntrim\nBT1 5BN\nN.Ireland",
@@ -1558,82 +2107,104 @@
       "website": "www.vmltechnology.com"
     },
     {
+      "@type": "Organization",
       "name": "Verifiable Credentials Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/verifiable-credentials-ltd/",
-      "category": [
-        "Information Technology",
+      "tag": [
+        "Cyber Security",
         "Access Control & Entry Systems",
-        "Cyber Security"
+        "Information Technology"
       ],
       "address": "22 Magnolia Drive\nChartham\nCanterbury\nKent\nCT4 7TG\nUnited Kingdom",
       "telephone": "07796447184",
       "website": "https://verifiablecredentials.info"
     },
     {
+      "@type": "Organization",
       "name": "Videmo Intelligent Video Analysis",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/videmo-intelligent-video-analysis/",
-      "category": [
-        "Information Technology",
-        "Biometrics",
-        "Forensic Services",
+      "tag": [
+        "CCTV & Video Analytics",
         "Facial Recognition & Imagery",
-        "CCTV & Video Analytics"
+        "Biometrics",
+        "Information Technology",
+        "Forensic Services"
       ],
       "address": "Emmy-Noether-Strasse 11\nKarlsruhe\nBaden-Wuerttemberg\n76131\nGermany",
       "telephone": "+49 721 62710197",
       "website": "www.videmo.de/en"
     },
     {
+      "@type": "Organization",
       "name": "Videosoft Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/videosoft-ltd/",
-      "category": [
-        "Information Technology",
-        "Vehicles",
-        "Covert Operations & Capabilities",
-        "Transport Security",
-        "Counter Terrorism & Intelligence",
-        "Communications",
-        "Command & Control",
+      "tag": [
         "CCTV & Video Analytics",
+        "Command & Control",
+        "Counter Terrorism & Intelligence",
         "Border and Maritime Security",
-        "Incident & Emergency Response"
+        "Transport Security",
+        "Information Technology",
+        "Covert Operations & Capabilities",
+        "Vehicles",
+        "Incident & Emergency Response",
+        "Communications"
       ],
       "address": "20-22 Wenlock Road\nLondon\nGtr London\nN1 7GU\nUK",
       "telephone": "+44 (0) 333 242 0563",
       "website": "www.videosoftglobal.com"
     },
     {
+      "@type": "Organization",
+      "name": "Vision-Box",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/vision-box/",
+      "tag": [
+        "Border and Maritime Security",
+        "Facial Recognition & Imagery",
+        "Access Control & Entry Systems",
+        "Biometrics",
+        "Information Technology",
+        "Data acquisition and analysis"
+      ],
+      "address": "Rua Casal do Canas 2, 2790-204 Carnaxide, Portugal\nLisbon\nLisbon\n2790-204 Carnaxide\nPortugal",
+      "telephone": "+351 939 707 125",
+      "website": "https://www.vision-box.com/"
+    },
+    {
+      "@type": "Organization",
       "name": "Vortex Communication Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/vortex-communication-ltd/",
-      "category": [
+      "tag": [
         "Information Technology",
         "Covert Operations & Capabilities",
-        "Communications",
         "Training",
-        "Command & Control"
+        "Command & Control",
+        "Communications"
       ],
       "address": "75 The Grove\nEaling\nEaling\nLondon\nW5 5LL\nUK",
       "telephone": "+44 (0) 20 8579 2743",
       "website": "www.vtx.uk"
     },
     {
+      "@type": "Organization",
       "name": "Web-IQ",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/web-iq/",
-      "category": [
-        "Information Technology",
-        "Data acquisition and analysis",
+      "tag": [
+        "Cyber Security",
         "Counter Terrorism & Intelligence",
+        "Information Technology",
         "Forensic Services",
-        "Cyber Security"
+        "Data acquisition and analysis"
       ],
       "address": "Helperpark 284\nGroningen\nGroningen\n9723 ZA\nThe Netherlands",
       "telephone": "+31 (0) 502 111 622",
       "website": "https://web-iq.com/"
     },
     {
+      "@type": "Organization",
       "name": "XCI A/S",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/xci-a-s/",
-      "category": [
+      "tag": [
         "Data acquisition and analysis"
       ],
       "address": "Alfred Nobels Vej 21C\nAalborg\nDenmark\n9220\nDenmark",
@@ -1641,39 +2212,86 @@
       "website": "www.xci.dk"
     },
     {
+      "@type": "Organization",
       "name": "borwell",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/borwell/",
-      "category": [
-        "Information Technology",
-        "Data acquisition and analysis",
+      "tag": [
+        "Cyber Security",
         "Professional Services",
+        "Information Technology",
         "Training",
-        "Cyber Security"
+        "Data acquisition and analysis"
       ],
       "address": "borwell\nMalvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUK",
       "telephone": "01684377980",
       "website": "www.borwell.com"
     },
     {
+      "@type": "Organization",
       "name": "cellXion",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/cellxion/",
-      "category": [
-        "Counter Terrorism & Intelligence",
-        "Covert Operations & Capabilities"
+      "tag": [
+        "Covert Operations & Capabilities",
+        "Counter Terrorism & Intelligence"
       ],
       "address": "The Watermill\nSpring Lane\nOxted\nSurrey\nRH8 9PG\nUnited Kingdom",
       "telephone": "+44 (0)203 137 1637",
       "website": "www.cellxion.net"
     },
     {
+      "@type": "Organization",
       "name": "foster+freeman",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/fosterfreeman/",
-      "category": [
+      "tag": [
         "Forensic Services"
       ],
       "address": "Vale Park\nEvesham\nWorcestershire\nWR11 1TD\nUnited Kingdom",
       "telephone": "07941302577",
       "website": "www.fosterfreeman.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "idensys",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/idensys/",
+      "tag": [
+        "Information Technology"
+      ],
+      "address": "identilam, a division of CCL Label Limited\nPioneer Way\nCastleford\nYorkshire\nWF10 5QU\nUnited Kingdom",
+      "telephone": "01293 851711",
+      "website": "https://idensys.co.uk/"
+    },
+    {
+      "@type": "Organization",
+      "name": "mh-Service GmbH",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/mh-service-gmbh/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Counter Terrorism & Intelligence",
+        "Information Technology",
+        "Forensic Services",
+        "Vehicles",
+        "Covert Operations & Capabilities",
+        "Comms Data and Digital Forensics",
+        "Data acquisition and analysis"
+      ],
+      "address": "Barthelsmuehlring 24\nKandel\nRheinland-Pfalz\n76870\nGermany",
+      "telephone": "+49-7275-4044456",
+      "website": "www.mh-service.de"
+    },
+    {
+      "@type": "Organization",
+      "name": "uWatch Ltd",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2021/uwatch-ltd/",
+      "tag": [
+        "CCTV & Video Analytics",
+        "Command & Control",
+        "Information Technology",
+        "Data acquisition and analysis",
+        "Communications"
+      ],
+      "address": "Mill Brook House\nCaps Lane\nCholsey\nOxfordshire\nOX10 9HF\nUnited Kingdom",
+      "telephone": "01491 651229",
+      "website": "https://uwatch.co.uk/"
     }
   ]
 }

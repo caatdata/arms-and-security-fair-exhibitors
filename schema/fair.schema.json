@@ -73,6 +73,148 @@
           }
         }
       ]
+    },
+    "virtualLocation": {
+      "type": "object",
+      "required": [
+        "@type",
+        "url"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "@type": {
+          "const": "VirtualLocation"
+        },
+        "url": {
+          "$ref": "#/definitions/urlOrUrlArray"
+        }
+      }
+    },
+    "eventLocation": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/url"
+        },
+        {
+          "$ref": "#/definitions/virtualLocation"
+        }
+      ]
+    },
+    "eventLocationOrLocationArray": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/eventLocation"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/eventLocation"
+          }
+        }
+      ]
+    },
+    "exhibitor": {
+      "type": "object",
+      "required": [
+        "@type",
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "@type": {
+          "const": "Organization"
+        },
+        "name": {
+          "$ref": "#/definitions/text"
+        },
+        "alternateName": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "exhibitorUrl": {
+          "$ref": "#/definitions/url"
+        },
+        "address": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "country": {
+          "$ref": "#/definitions/text"
+        },
+        "website": {
+          "$ref": "#/definitions/urlOrUrlArray"
+        },
+        "telephone": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "social": {
+          "$ref": "#/definitions/socialOrSocialArray"
+        },
+        "tag": {
+          "$ref": "#/definitions/textOrTextArray"
+        }
+      }
+    },
+    "organizer": {
+      "type": "object",
+      "required": [
+        "@type",
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "@type": {
+          "const": "Organization"
+        },
+        "name": {
+          "$ref": "#/definitions/text"
+        },
+        "alternateName": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "organizerUrl": {
+          "$ref": "#/definitions/url"
+        },
+        "address": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "country": {
+          "$ref": "#/definitions/text"
+        },
+        "website": {
+          "$ref": "#/definitions/urlOrUrlArray"
+        },
+        "telephone": {
+          "$ref": "#/definitions/textOrTextArray"
+        },
+        "social": {
+          "$ref": "#/definitions/socialOrSocialArray"
+        }
+      }
+    },
+    "exhibitorOrExhibitorArray": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/exhibitor"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/exhibitor"
+          }
+        }
+      ]
+    },
+    "organizerOrOrganizerArray": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/organizer"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/organizer"
+          }
+        }
+      ]
     }
   },
   "type": "object",
@@ -86,14 +228,55 @@
   },
   "additionalProperties": false,
   "properties": {
+    "@context": {
+      "const": [
+        "http://schema.org/",
+        {
+          "exhibitor": {
+            "@id": "http://schema.org/performer"
+          },
+          "exhibitorListUrl": {
+            "@id": "http://schema.org/url"
+          },
+          "website": {
+            "@id": "http://schema.org/url"
+          },
+          "organizerUrl": {
+            "@id": "http://schema.org/url"
+          },
+          "exhibitorUrl": {
+            "@id": "http://schema.org/url"
+          }
+        }
+      ]
+    },
+    "@type": {
+      "const": [
+        "ExhibitionEvent",
+        "Event"
+      ]
+    },
     "name": {
       "$ref": "#/definitions/text"
     },
-    "alias": {
+    "alternateName": {
       "$ref": "#/definitions/textOrTextArray"
     },
-    "series": {
-      "$ref": "#/definitions/text"
+    "superEvent": {
+      "type": "object",
+      "required": [
+        "@type",
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "@type": {
+          "const": "EventSeries"
+        },
+        "name": {
+          "$ref": "#/definitions/text"
+        }
+      }
     },
     "edition": {
       "$ref": "#/definitions/text"
@@ -104,8 +287,8 @@
     "endDate": {
       "$ref": "#/definitions/dateString"
     },
-    "address": {
-      "$ref": "#/definitions/textOrTextArray"
+    "location": {
+      "$ref": "#/definitions/eventLocationOrLocationArray"
     },
     "country": {
       "$ref": "#/definitions/text"
@@ -119,6 +302,22 @@
     "social": {
       "$ref": "#/definitions/socialOrSocialArray"
     },
+    "eventStatus": {
+      "enum": [
+        "EventCancelled",
+        "EventMovedOnline",
+        "EventPostponed",
+        "EventRescheduled",
+        "EventScheduled"
+      ]
+    },
+    "eventAttendanceMode": {
+      "enum": [
+        "MixedEventAttendanceMode",
+        "OfflineEventAttendanceMode",
+        "OnlineEventAttendanceMode"
+      ]
+    },
     "exhibitorListUrl": {
       "$ref": "#/definitions/url"
     },
@@ -126,43 +325,10 @@
       "$ref": "#/definitions/utcDatetimeString"
     },
     "exhibitor": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "name"
-        ],
-        "additionalProperties": false,
-        "properties": {
-          "name": {
-            "$ref": "#/definitions/text"
-          },
-          "alias": {
-            "$ref": "#/definitions/textOrTextArray"
-          },
-          "exhibitorUrl": {
-            "$ref": "#/definitions/url"
-          },
-          "address": {
-            "$ref": "#/definitions/textOrTextArray"
-          },
-          "country": {
-            "$ref": "#/definitions/text"
-          },
-          "website": {
-            "$ref": "#/definitions/urlOrUrlArray"
-          },
-          "telephone": {
-            "$ref": "#/definitions/textOrTextArray"
-          },
-          "social": {
-            "$ref": "#/definitions/socialOrSocialArray"
-          },
-          "category": {
-            "$ref": "#/definitions/textOrTextArray"
-          }
-        }
-      }
+      "$ref": "#/definitions/exhibitorOrExhibitorArray"
+    },
+    "organizer": {
+      "$ref": "#/definitions/organizerOrOrganizerArray"
     }
   }
 }
