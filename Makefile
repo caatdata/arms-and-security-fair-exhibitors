@@ -11,6 +11,11 @@ sanitize :
 # Dereference Wayback Machine links:
 	grep -RIPl "https://web.archive.org/web/\d{14}/" data | xargs -r sed -i 's_https://web.archive.org/web/[[:digit:]]\{14\}/__'
 	grep -RIPl ":80/" data | xargs -r sed -i 's_:80/_/_'
+	! grep -RIPl '\t' data
+	! grep -RIPl '\xa0' data
+	! grep -RIPl ' ",?$$' data/
+	! grep -RIPl '": " ' data/
+	! grep -RIP '[^\\]"",?$$' data/
 
 summary.csv : $(FAIR_JSON)
 	python/summary.py data/*.json $@
