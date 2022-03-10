@@ -63,6 +63,7 @@ def main():
         "Exhibitor",
         "Delegation",
         "Website",
+        "Alias",
     )
 
     count = {
@@ -93,6 +94,9 @@ def main():
         website = data.get("website", "")
         if website and not isinstance(website, str):
             website = " ".join(website)
+        alias = data.get("alias", "")
+        if alias and not isinstance(alias, str):
+            alias = ";".join(alias)
 
         series = data.get("series", None)
         if series != last_series:
@@ -108,6 +112,7 @@ def main():
             str(exhibitor),
             str(delegation),
             website,
+            alias,
         ))
         count["events"] += 1
 
