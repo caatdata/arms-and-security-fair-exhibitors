@@ -6,11 +6,11 @@ A collaborative project between [Campaign Against Arms Trade](https://caat.org.u
 
 ## Statistics
 
--   **52** series
--   **370** events
--   **101715** exhibitors
--   **405** organisers
--   **1951** delegations
+-   **53** series
+-   **373** events
+-   **101973** exhibitors
+-   **406** organisers
+-   **1983** delegations
 
 
 ## References
