@@ -12,13 +12,10 @@
   "website": "https://www.farnboroughairshow.com/",
   "exhibitorListUrl": "https://www.farnboroughairshow.com/trade/exhibiting/2018-exhibitor-list/",
   "delegationListUrl": "https://www.gov.uk/government/news/farnborough-international-airshow-2018",
-  "exhibitorListDate": "2021-03-11T13:33:03+00:00",
+  "exhibitorListDate": "2022-05-13T14:40:59+00:00",
   "exhibitor": [
     {
       "name": "(UN)MANNED"
-    },
-    {
-      "name": "111111111"
     },
     {
       "name": "2Excel Aviation Ltd"
@@ -51,7 +48,10 @@
     },
     {
       "name": "ÅAC – Clyde",
-      "website": "http://www.aacmicrotec.com www.clyde.space"
+      "website": [
+        "www.clyde.space",
+        "http://www.aacmicrotec.com"
+      ]
     },
     {
       "name": "AAMSI",
@@ -1357,7 +1357,7 @@
     },
     {
       "name": "Constellium",
-      "website": "http://0033 620-253578 (mobile)"
+      "telephone": "0033 620-253578"
     },
     {
       "name": "Consult Avila Ltd",
@@ -2786,7 +2786,7 @@
     },
     {
       "name": "Kenard Engineering Group",
-      "website": "http://0044 1322-421220"
+      "telephone": "0044 1322-421220"
     },
     {
       "name": "Kencoa Aerospace Corporation",
@@ -2924,7 +2924,10 @@
     },
     {
       "name": "Lentus Composites / SST Technology",
-      "website": "http://www.lentuscomposites.co.uk / www.sstubetechnology.com"
+      "website": [
+        "http://www.lentuscomposites.co.uk",
+        "www.sstubetechnology.com"
+      ]
     },
     {
       "name": "Leonardo SpA",
@@ -3515,7 +3518,7 @@
     },
     {
       "name": "Northern Aerospace Limited",
-      "website": "http://www. NorthernAerospace.com"
+      "website": "http://www.NorthernAerospace.com"
     },
     {
       "name": "Northern Composites",

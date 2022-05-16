@@ -16,7 +16,7 @@
     }
   ],
   "exhibitorListUrl": "http://www.milipol.com/dynamic/d_liste_exposants2.php?menu=paris2003_IE&salon=5",
-  "exhibitorListDate": "2022-04-21T13:52:05+00:00",
+  "exhibitorListDate": "2022-05-16T11:16:11+00:00",
   "exhibitor": [
     {
       "name": "3M FRANCE",
@@ -694,7 +694,6 @@
     },
     {
       "name": "COMMISSARIAT DE L'AIR",
-      "website": "www.armée de l'air",
       "country": "France"
     },
     {
@@ -920,7 +919,11 @@
     },
     {
       "name": "DU PONT DE NEMOURS INT SA",
-      "website": "www.dupont.com/nomex & www.dupont.com/cordura ou www.kevlar.com",
+      "website": [
+        "www.dupont.com/nomex",
+        "www.dupont.com/cordura",
+        "www.kevlar.com"
+      ],
       "country": "Switzerland"
     },
     {
@@ -1117,7 +1120,10 @@
     },
     {
       "name": "FEDERAL SIGNAL AT VAMA SA",
-      "website": "www.fedsig.com ET www.fedsig.vama.es",
+      "website": [
+        "www.fedsig.com",
+        "www.fedsig.vama.es"
+      ],
       "country": "Spain"
     },
     {
@@ -1313,7 +1319,10 @@
     },
     {
       "name": "GROUPE MARCK",
-      "website": "www.marck.fr/ www.groupemarck.fr",
+      "website": [
+        "www.marck.fr",
+        "www.groupemarck.fr"
+      ],
       "country": "France"
     },
     {
@@ -1342,7 +1351,10 @@
     },
     {
       "name": "HARDIGG EUROPE LTD",
-      "website": "www.hardigg.com ou www.militarycases.com",
+      "website": [
+        "www.hardigg.com",
+        "www.militarycases.com"
+      ],
       "country": "United Kingdom"
     },
     {
@@ -1546,7 +1558,10 @@
     },
     {
       "name": "ISG THERMAL SYSTEMS LTD",
-      "website": "www.isgfire.co.uk ou www.isgthermalsystems.co.uk",
+      "website": [
+        "www.isgfire.co.uk",
+        "www.isgthermalsystems.co.uk"
+      ],
       "country": "United Kingdom"
     },
     {
@@ -1716,7 +1731,7 @@
     },
     {
       "name": "LE PROTECTEUR",
-      "website": "www le protecteur.com",
+      "website": "www.leprotecteur.com",
       "country": "France"
     },
     {
@@ -2096,7 +2111,7 @@
     },
     {
       "name": "PEZT CO",
-      "website": "www.pezt co.com",
+      "website": "www.peztco.com",
       "country": "Italy"
     },
     {
@@ -2439,7 +2454,10 @@
     },
     {
       "name": "SECURITE CIVILE ET INDUSTRIELLE",
-      "website": "www.fransel.com / www.sitesecurite.com",
+      "website": [
+        "www.fransel.com",
+        "www.sitesecurite.com"
+      ],
       "country": "France"
     },
     {
