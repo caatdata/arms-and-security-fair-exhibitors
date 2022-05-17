@@ -41,10 +41,10 @@
     }
   ],
   "exhibitorListUrl": "https://www.fidae.cl/wp-content/uploads/2022/03/LISTADO-EXPO-F2022.pdf",
-  "exhibitorListDate": "2022-03-31T15:24:31+00:00",
+  "exhibitorListDate": "2022-05-17T14:01:13+00:00",
   "exhibitor": [
     {
-      "name": "A.S. AVIONICS SERVICES SA",
+      "name": "A.S. AVIONICS SERVICES S/A",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
@@ -55,7 +55,10 @@
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ACES SYSTEMS",
@@ -65,18 +68,14 @@
       }
     },
     {
-      "name": "ACHIDE ASOCIACION CHILENA DEL ESPACIO",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
       "name": "ACIT CENTER",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "AEL SISTEMAS",
@@ -90,84 +89,117 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "AEREOHELP SERVICES SAC",
       "country": {
         "text": "PERÚ",
         "iso2": "PE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "AERO TRANSPORT ENGINEERING CONSULTING S.A.",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "AERO TURBINE INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "AEROCARDAL LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "AEROPATROL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "AEROTEC ARG. SA",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
-    },
-    {
-      "name": "AEROTECH SPA",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "AEVEX IKHANA AN AEVEX AEROSPACE COMPANY",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "AGENCIA ARGENTINA DE INVERSIONES Y COMERCIO INTERNACIONAL (FUNDACIÓN EXPORTAR)",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "AGENCIA NACIONAL DE PROMOCION COMERCIAL DE LA REPÚBLICA CHECA -CZECH TRADE",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "AGSUR AVIONES S.A.",
       "country": {
         "text": "URUGUAY",
         "iso2": "UY"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "AIA-AEROSPACE INDUSTRIES ASSOCIATION",
@@ -181,35 +213,55 @@
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "AIRTEC. INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
     },
     {
       "name": "ALAS CHILENAS SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "ALASKA STRUCTURES INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA"
+      ]
     },
     {
       "name": "ALBRECHT BENDER GMBH",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "ALES S.R.O.",
@@ -223,7 +275,25 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
+    },
+    {
+      "name": "ALTEC LTDA",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "OTROS",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "ANACOM ELETRÔNICA LTDA",
@@ -240,6 +310,16 @@
       }
     },
     {
+      "name": "APS SYSTEMS",
+      "country": {
+        "text": "POLONIA",
+        "iso2": "PL"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
+    },
+    {
       "name": "ARES",
       "country": {
         "text": "BRASIL",
@@ -251,98 +331,146 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "ARMADA DE CHILE - ADMISIÓN",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ARMADA DE CHILE - AVIACIÓN NAVAL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ARMADA DE CHILE - DIRECCIÓN DE PROGRAMAS, INVESTIGACIÓN Y DESARROLLO",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ARMADA DE CHILE - DIRECCION GENERAL DE LOS SERVICIOS",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ARMADA DE CHILE - DIRECCIÓN GENERAL DEL TERRITORIO MARÍTIMO Y DE MARINA MERCANTE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ARMERIA WOLF SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "ARMS INTERNATIONAL",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "ARSENAL 2000",
       "country": {
         "text": "BULGARIA",
         "iso2": "BG"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ASELSAN",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
-      "name": "ASESORIAS Y REPRESENTACIONES ALTEC LTDA",
+      "name": "ASOCIACION CHILENA DEL ESPACIO",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "ASOCIACIÓN DE PILOTOS DE AERONAVES NO TRIPULADAS - APANT CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "ASOCIACIÓN DE PILOTOS DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "ASPILSAN",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
     },
     {
       "name": "ASSURE FAA CENTER OF EXCELLENCE FOR UAS",
@@ -356,7 +484,10 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ATECH",
@@ -370,42 +501,67 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "AVIDYNE CORPORATION",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "AXON CABLE",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "BAE SYSTEMS",
       "country": {
         "text": "REINO UNIDO",
         "iso2": "GB"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "BARRACUDA TACTICAL SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "BARRETT COMMUNICATIONS",
       "country": {
         "text": "AUSTRALIA",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "BCA BALLISTIC PROTECTION",
@@ -426,35 +582,55 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "BELLEVILLE BOOTS COMPANY",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "BET SHEMESH ENGINES LTD.",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "BOEING",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
-      "name": "BOEING",
+      "name": "BOEING.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "BRAZILIAN AEROSPACE & DEFENSE CLUSTER - PARQUE TECNOLÓGICO SÃO JOSÉ DOS CAMPOS",
@@ -468,21 +644,32 @@
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "BUILDAIR INGENIERIA Y ARQUITECTURA S.A",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
-      "name": "CAMEROTECH LTD.",
+      "name": "CAMERO/TECH LTD.",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "CAMGIAN",
@@ -496,42 +683,53 @@
       "country": {
         "text": "CANADÁ",
         "iso2": "CA"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CARABINEROS DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
-    },
-    {
-      "name": "CARABINEROS DE CHILE - GRUPO DE ADIESTRAMIENTO CANINO",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "CARABINEROS DE CHILE - PREFECTURA AÉREA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "CARIBALT ELECTRONIC EQUIPMENT OU",
       "country": {
         "text": "ESTONIA",
         "iso2": "EE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "CAXTOR E.I.R.L.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CBC",
@@ -545,168 +743,260 @@
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "CESA HD SPAIN",
+      "name": "CESA /HD SPAIN",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "CESKA ZBROJOVKA S.A.",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "CHIHAN PROTECTION EQUIPMENT LTD.",
       "country": {
         "text": "CHINA",
         "iso2": "CN"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "CHINA NORTH INDUSTRIES CORP. (NORINCO).",
       "country": {
         "text": "CHINA",
         "iso2": "CN"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "CIA MIGUEL CABALLERO SAS",
       "country": {
         "text": "COLOMBIA",
         "iso2": "CO"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "CIAC S.A",
       "country": {
         "text": "COLOMBIA",
         "iso2": "CO"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "CIRRUS AIRCRAFT",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CIRRUS AIRCRAFT CIELO S.A",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "CITY INSIGNIA PAKISTAN",
       "country": {
         "text": "PAKISTÁN",
         "iso2": "PK"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "CK S.A.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "CLEARWAY SERVICIOS DE CAPACITACION Y EDUCACION SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CLUB AÉREO DE SAN FELIPE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "CLUB DE AEROMODELISMO JABALÍ",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "COGNYTE",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "COLLINS AEROSPACE",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "COLT'S",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "COLVIN Y CIA. LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA"
+      ]
     },
     {
       "name": "COMERCIAL F-MARINOVIC LTDA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "COMERCIAL KAUFMANN S.A.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "COMERCIAL RENTACLIMA S.A.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "COMERCIALIZACIÓN CITY INSIGNIA CHILE LIMITADA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
-      "name": "COMMUNICOR",
+      "name": "COMMUNICOR UK",
       "country": {
         "text": "REINO UNIDO",
         "iso2": "GB"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "CONAF - CORPORACION NACIONAL FORESTAL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "CONDOR OUTDOOR PRODUCTS, INC.",
@@ -727,42 +1017,65 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "COSTRUZIONI AERTONAUTHCHE TECNAM S.P.A",
       "country": {
         "text": "ITALIA",
         "iso2": "IT"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CPAT GLOBAL LLC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "CRISTANINI S.P.A",
       "country": {
         "text": "ITALIA",
         "iso2": "IT"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "CS GROUP",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "CS SOFT A.S.",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "CSD",
@@ -783,70 +1096,111 @@
       "country": {
         "text": "PAÍSES BAJOS",
         "iso2": "NL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
     },
     {
       "name": "DAKOTA AIR PARTS INT'L., INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "DECSEF SISTEMAS S.A DE C.V",
       "country": {
         "text": "MÉXICO",
         "iso2": "MX"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "DEFENCE AND AEROSPACE INDUSTRY EXPORTERS’ ASSOCIATION – SSI",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "DEFENSE SECURITY COOPERATION AGENCY",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "DEFENSE TECHNOLOGY EQUIPMENT INC. (DTE)",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "DERCO, A LOCKHEED MARTIN COMPANY",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "DESAROLLO DE TECNOLOGÍAS Y SISTEMAS SPA (DTS)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "DEZ MANUTENCAO",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "DIAGNOSTIC SOLUTIONS INTERNATIONAL",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "DIAMOND AIRCRAFT INDUSTRIES",
@@ -860,14 +1214,20 @@
       "country": {
         "text": "AUSTRIA",
         "iso2": "AT"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "DIEHL DEFENCE GMBH & CO.KG",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "DILLON AERO, INC",
@@ -881,574 +1241,742 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "DIRECCIÓN GENERAL DE MOVILIZACIÓN NACIONAL - DGMN",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "DIVISION TURBOS SRL",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "DLX ENTERPRICES LLC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "DM AIRCRAFT SERVICES",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "DM CHILE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "DMS LOGISTIC CHILE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "DRCL - DRONE RACING CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
+    },
+    {
+      "name": "DREAMLAB TECHNOLOGIES",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "DTA S.A.",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "DYNAMIT NOBEL DEFENCE GMBH",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
+    },
+    {
+      "name": "DYNASAFE",
+      "country": {
+        "text": "SUECIA",
+        "iso2": "SE"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "EAGLE COPTERS SOUTH AMERICA S.A",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "EASA - EUROPEAN UNION AVIATION SAFETY AGENCY",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "OTROS"
+      ]
     },
     {
       "name": "ECM EXPO&CONFERENCE MANAGEMENT GMBH",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EDICONSULT INTERNAZIONALE",
       "country": {
         "text": "ITALIA",
         "iso2": "IT"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - ACADEMIA DE GUERRA DEL EJÉRCITO - ACAGUE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - ACADEMIA POLITÉCNICA MILITAR - ACAPOMIL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - BRIGADA DE AVIACIÓN DE EJÉRCITO (BAVE)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - BRIGADA DE OPERACIONES ESPECIALES - BOE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - CDCIA. GENERAL DE LA GUARNICIÓN REGIÓN METROPOLITANA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "EJÉRCITO DE CHILE - CENTRO DE MODELACIÓN Y SIMULACIÓN DEL EJÉRCITO - CEMSE",
+      "name": "EJÉRCITO DE CHILE - CENTRO DE INVESTIGACIÓN E INNOVACIÓN TECNOLÓGICO - (CIITEC)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "EJÉRCITO DE CHILE - FABRICA Y MAESTRANZA DEL EJÉRCITO (FAMAE)",
+      "name": "EJERCITO DE CHILE - FABRICA Y MAESTRANZA DEL EJÉRCITO (FAMAE)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJERCITO DE CHILE - INSITITUTO DE INVESTIGACIÓN Y CONTROL (IDIC)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EJÉRCITO DE CHILE - INSTITUTO GEOGRÁFICO MILITAR (IGM)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ELA AVIACIÓN S.L.",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "OTROS"
+      ]
     },
     {
       "name": "ELBIT SYSTEMS LTD",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "ELDIS PARDUBICE, S.R.O.",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA"
+      ]
     },
     {
       "name": "ELEMENTO AIRE CHILE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "EMBAJADA DE CANADÁ",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EMBAJADA DE LA REPÚBLICA CHECA",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EMBASSY OF THE REPUBLIC OF INDONESIA IN SANTIAGO",
       "country": {
         "text": "INDONESIA",
         "iso2": "ID"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EMBRAER",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "EMPRESA NACIONAL DE AERONAÚTICA - ENAER",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "ENGARDE BODY ARMOUR",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ENGINEERING S.A.E.C.A.",
       "country": {
         "text": "PARAGUAY",
         "iso2": "PY"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "ESCAPE INTERNATIONAL",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
-      "name": "ESCO SAFRAN ARRESTING SYSTEMS",
+      "name": "ESCO/SAFRAN ARRESTING SYSTEMS",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "ESCUADRILLA DA FUMACA",
+      "name": "ESCUADRILLA DE BANDAS",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "ESCUELA TÉCNICA AERONAÚTICA - ETA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "ESMAX DISTRIBUCIÓN SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
-    },
-    {
-      "name": "ESRI CHILE",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "EXPLORAIR SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "FABRICA ARGENTINA DE AVIONES \"BRIG. SAN MARTÍN\"",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "F-AIR COLOMBIA 2023",
       "country": {
         "text": "COLOMBIA",
         "iso2": "CO"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "FAIR MANAGEMENT LTD",
       "country": {
         "text": "SUIZA",
         "iso2": "CH"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "FAMEX 2023",
       "country": {
         "text": "MÉXICO",
         "iso2": "MX"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "FEDERACIÓN AÉREA DE CHILE (FDN)",
+      "name": "FEDERACIÓN AÉREA DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "FEINDEF",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "FEROUCH - BADAMAX RETAIL S.A.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "FISA S.A. (EXPONAVAL)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "FIXVIEW S.R.L.",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "FLIGHTSAFETY INTERNATIONAL",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "FN HERSTAL",
       "country": {
         "text": "BÉLGICA",
         "iso2": "BE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "FORMA EXPO",
+      "name": "FREQUENTIS",
       "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE ARGENTINA",
-      "country": {
-        "text": "ARGENTINA",
-        "iso2": "AR"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE BRASIL",
-      "country": {
-        "text": "BRASIL",
-        "iso2": "BR"
-      }
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - COMANDO LOGÍSTICO - REGISTRO DE PROVEEDORES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESCUADRILLA DE ALTA ACROBACIA 'HALCONES'",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESCUADRILLA DE PARACAIDISMO BOINAS AZULES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESCUADRILLA DE VUELO SIN MOTOR",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESCUELA DE AVIACIÓN \"CAPITÁN MANUEL ÁVALOS PRADO\"",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESCUELA DE ESPECIALIDADES \"SARGENTO 1° ADOLFO MENADIER ROJAS\"",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - ESTADO MAYOR GENERAL - DIRECCIÓN ESPACIAL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°1 (IQUIQUE)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°10 (SANTIAGO)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°12 (PUNTA ARENAS)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°2 (IQUIQUE)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°3 (IQUIQUE)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°5 (PUERTO MONTT)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°7 (ANTOFAGASTA)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°8 (ANTOFAGASTA)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - GRUPO DE AVIACIÓN N°9 (SANTIAGO)",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - GRUPO DE OPERACIONES ESPACIALES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
-    },
-    {
-      "name": "FUERZA AÉREA DE CHILE - ESCUADRILLA DE BANDAS",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - GRUPO DE PRESENTACIONES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUERZA AEREA DE CHILE - SERVICIO AEROFOTOGRAMETRICO DEL GENERAL JUAN SOLER MANFREDINI",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "FUERZA AÉREA DE CHILE - SERVICIO DE BUSQUEDA Y SALVAMENTO AÉREO",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "FUERZA AÉREA DE USA",
+      "name": "FUERZA AÉREA DE CHILE - UNIDAD BASE DE DESPLIEGUE",
       "country": {
-        "text": "ESTADOS UNIDOS",
-        "iso2": "US"
-      }
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "FUNDACIÓN ARTURO LÓPEZ PÉREZ",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "FUNDACIÓN CHILE ESPAÑA",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "GE AVIATION",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "GENERAL DYNAMICS MISSION SYSTEMS CANADA",
@@ -1476,28 +2004,45 @@
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "GLENAIR, INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "GLOBALE SERVICIOS JURÍDICOS Y COMERCIALES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "GLOBALSAT TELECOMUNICACIONES CHILE LTDA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "GMP MARCATTO INDUSTRIA E COMERCIO DE PEÇAS LTDA",
@@ -1511,14 +2056,22 @@
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "GOLDHOFER AKTIENGESELLSCHAFT",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "GOVERNOR GAVIN NEWSON OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT",
@@ -1532,7 +2085,13 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "GRUPO AKAER",
@@ -1546,63 +2105,106 @@
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
+    },
+    {
+      "name": "GRUPO ESRI CHILE, ESRI CHILE + RASTER 4",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "GUINAULT SA",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "HAIX - SCHUHE PRODUKTIONS- UND VERTRIEBS GMBH",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "HAVELSAN",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "HELICÓPTEROS GUIMBAL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "HELI-ONE",
       "country": {
         "text": "CANADÁ",
         "iso2": "CA"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "HENSOLDT AG",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "HISDESAT",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "HUTCHINSON INDUSTRIES, INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "I2K INFLATABLES",
@@ -1616,63 +2218,94 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "IAI",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "IDEMIA IDENTITY & SECURITY CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "ILIAS A&D B.V.",
       "country": {
         "text": "PAÍSES BAJOS",
         "iso2": "NL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "IMAGESAT INTERNATIONAL",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "IMCO INDUSTRIES LTD",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "IMPORTACIONES Y EXPORTACIONES AIR SEA LAND LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "IMPORTACIONES Y REPRESENTACIONES TRUST LINE LTDA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "IMPORTADORA Y COMERCIALIZADORA AIRSEAL CHILE LIMITADA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "INDIOS PIROTECNIA",
@@ -1686,70 +2319,103 @@
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "INFORMATION & DESIGN SOLUTIONS - IDS",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "INGENIERÍA DE PROTECCIÓN SPA (TARPULÍN)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "INMOBILIARIA JEDIMAR LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "INNOVATION FOR SHELTER SL",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "INSTALAZA S.A",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "INSTITUTO DE INVESTIGACIONES HITÓRICO AERONÁUTICO",
+      "name": "INSTITUTO DE INVESTIGACIONES HISTÓRICO AERONAUTICAS DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "INTEGRATED PROCUREMENT TECHNOLOGIES (IPT)",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "INTERNATIONAL ARMORED GROUP ZIRHLI URUNLERI SAN A.Ş.",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "INVAP SE",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "INVASYS A.S.",
@@ -1763,21 +2429,32 @@
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "ITPS CANADA",
       "country": {
         "text": "CANADÁ",
         "iso2": "CA"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "ITSOFTNET",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "IVECO DEFENCE VEHICLES",
@@ -1791,49 +2468,72 @@
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "JETSMART AIRLINES SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "JOHN COCKERILL",
       "country": {
         "text": "BÉLGICA",
         "iso2": "BE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "KALLMAN WORLDWIDE",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "KAMAN",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "KATADYN PRODUCTS INC.",
       "country": {
         "text": "SUIZA",
         "iso2": "CH"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "KEL-TEC CNC INDUSTRIES INC.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "KILGORE FLARES",
@@ -1847,14 +2547,22 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "KRAMER ELECTRONICS CHILE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY",
+        "OTROS",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "KRYPTUS",
@@ -1868,7 +2576,14 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "LAAD 2023",
@@ -1889,42 +2604,71 @@
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "LATCO SP INT SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "OTROS"
+      ]
     },
     {
       "name": "LEADING EDGE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "LEONARDO",
       "country": {
         "text": "ITALIA",
         "iso2": "IT"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "LIVING HISTORY CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "LOCKHEED MARTIN",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "M&K ASSESSORIA, EXPORTADORA E IMPORTADORA LTDA.",
@@ -1938,7 +2682,10 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "MAC JEE",
@@ -1959,126 +2706,184 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MAURICIO LEON SEPULVEDA TOLEDO",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MAVEN CORPORATION",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MAXAR",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "MBA S.A.",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MBDA",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MC2 TECHNOLOGIES",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "MED-AIR, INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "MEPROLIGHT LTD",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "MILEX, INC",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "MILKOR",
       "country": {
         "text": "REPÚBLICA DE SUDÁFRICA",
         "iso2": "ZA"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "MINISTRY OF DEFENCE, SECTION MARKETING & SALES",
       "country": {
         "text": "PAÍSES BAJOS",
         "iso2": "NL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "MODELISMO PLASTICO IPMS-CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "MÖNCH PUBLISHING GROUP",
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "MUSEO NACIONAL AERONAUTICO Y DEL ESPACIO",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "MUTUALIDAD DEL EJERCITO Y AVIACIÓN",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "NAMMO AS",
       "country": {
         "text": "NORUEGA",
         "iso2": "NO"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "NAVAL GROUP",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "NEOMERCURY S.R.O.",
@@ -2092,7 +2897,14 @@
       "country": {
         "text": "PAÍSES BAJOS",
         "iso2": "NL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "NICOLETTI CONSULTORIA",
@@ -2106,14 +2918,23 @@
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "NIRON SYSTEMS",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "NORTHSTAR",
@@ -2127,35 +2948,53 @@
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "NYCO",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "OCEA",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "OCEAN AIR DEFENSE",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "OGMA",
       "country": {
         "text": "PORTUGAL",
         "iso2": "PT"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "OMNISYS ENGENHARIA LTDA.",
@@ -2169,14 +3008,20 @@
       "country": {
         "text": "REINO UNIDO",
         "iso2": "GB"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "ORBITAL ENGENHARIA S.A.",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "OTIS TECHNOLOGY",
@@ -2190,14 +3035,31 @@
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "OXYGENLABS SRL",
       "country": {
         "text": "ITALIA",
         "iso2": "IT"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
+    },
+    {
+      "name": "PARK AIR SYSTEMS",
+      "country": {
+        "text": "REINO UNIDO",
+        "iso2": "GB"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "PFM MEDICAL",
@@ -2211,147 +3073,240 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "PILATUS AIRCRAFT LIMITED",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "PLASAN",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "POLARIS DEFENSE",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "POLICIA DE INVESTIGACIONES - BRIGADA AEROPOLICIAL",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "POLICIA DE INVESTIGACIONES DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "POLICIA DE INVESTIGACIONES DE CHILE - ESCUELA DE INVESTIGACIONES POLICIALES",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "POLISH INVESTMENT AND TRADE AGENCY",
       "country": {
         "text": "POLONIA",
         "iso2": "PL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "PORTAL AVIADORES",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "POWER HIT S.A. DE C.V.",
       "country": {
         "text": "MÉXICO",
         "iso2": "MX"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "PRATT & WHITNEY",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "PRATT & WHITNEY CANADA",
       "country": {
         "text": "CANADÁ",
         "iso2": "CA"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "PROSIM PROJECTS B.V.",
       "country": {
         "text": "PAÍSES BAJOS",
         "iso2": "NL"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "PROVEEDORES SUR EXPRESS LTDA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "TECNOLOGÍA ESPACIAL",
+        "OTROS"
+      ]
     },
     {
       "name": "RAFAEL",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "RECAERO GROUP",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "OTROS"
+      ]
+    },
+    {
+      "name": "RECAERO GROUP",
+      "country": {
+        "text": "FRANCIA",
+        "iso2": "FR"
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "REDCOM LABORATORIES, INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "REDIMEC SRL.",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "REPKON",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
+    },
+    {
+      "name": "REPRESENTACIONES AEROTECH SPA",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS"
+      ]
     },
     {
       "name": "RESECURITY INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "RETIA A.S.",
       "country": {
         "text": "REPÚBLICA CHECA",
         "iso2": "CZ"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "RF COM SISTEMAS",
@@ -2365,7 +3320,10 @@
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "ROCKWELL COLLINS DO BRASIL (COLLINS AEROSPACE)",
@@ -2379,21 +3337,36 @@
       "country": {
         "text": "ALEMANIA",
         "iso2": "DE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "ROKETSAN ROKET SANAYII VE TICARET A.S",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "RUAG AG",
       "country": {
         "text": "SUIZA",
         "iso2": "CH"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "S3 AERODEFENSE, LLC",
@@ -2407,161 +3380,283 @@
       "country": {
         "text": "SUECIA",
         "iso2": "SE"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SAFRAN",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "SAMSUN YURT SAVUNMA SANAYI VE TIC A.S. - CANIK",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SCAMA AB",
       "country": {
         "text": "SUECIA",
         "iso2": "SE"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "OTROS",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "SCYTALYS S.A",
       "country": {
         "text": "GRECIA",
         "iso2": "GR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SECAMIC",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
     },
     {
       "name": "SEGERS AERO CORPORATION",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "SEMAN PERU",
       "country": {
         "text": "PERÚ",
         "iso2": "PE"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA"
+      ]
+    },
+    {
+      "name": "SERVICIOS AÉREOS Y TERRESTRES AVIASUR S.A.",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DRONES (RPAS)"
+      ]
+    },
+    {
+      "name": "SERVICIOS MEDICOS CRUZ NACIONAL SPA",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "SIBAT ISRAEL MINISTRY OF DEFENSE",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SISDEF LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SK GROUP",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
+    },
+    {
+      "name": "SMITHS DETECTION",
+      "country": {
+        "text": "ESTADOS UNIDOS",
+        "iso2": "US"
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "SOCIEDAD CHILENA DE ASTRONOMIA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "SOCIEDAD DE IMPORTACIÓN Y EXPORTACIÓN IMPROFOR LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "SOLIFOS",
       "country": {
         "text": "SUIZA",
         "iso2": "CH"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "SPEED CHILE LTDA.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "SSB -PRESIDENCY OF DEFENSE INDUSTRIES",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "STANDARDAERO",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "STATE OF MARYLAND",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "STATE OF MISSISSIPPI",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "STREAMLIGHT INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "SURVITEC",
       "country": {
         "text": "REINO UNIDO",
         "iso2": "GB"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "SWITLIK PARACHUTE COMPANY, INC.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "TAE AEROSPACE",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "TAURUS",
@@ -2582,56 +3677,104 @@
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "TECHMER",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "TECNOBIT GRUPO OESIA",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "TEDAE",
       "country": {
         "text": "ESPAÑA",
         "iso2": "ES"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "TEK CHILE S.A",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "TEMPEST",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "TESAM CHILE S.A.",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA"
+      ]
+    },
+    {
+      "name": "TEXTRON AVIATION",
+      "country": {
+        "text": "ESTADOS UNIDOS",
+        "iso2": "US"
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "THALES",
       "country": {
         "text": "FRANCIA",
         "iso2": "FR"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL",
+        "CIBERSEGURIDAD",
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "THE PATRIOT GROUP LLC",
@@ -2645,14 +3788,21 @@
       "country": {
         "text": "GRECIA",
         "iso2": "GR"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     },
     {
       "name": "TİSAŞ",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "TİSAŞ TRABZON SİLAH SANAYİ A.Ş",
@@ -2666,147 +3816,215 @@
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
-    },
-    {
-      "name": "TRUSSUP",
-      "country": {
-        "text": "CHILE",
-        "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "TURKISH AEROSPACE",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES",
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "TUYAP FAIRS AND EXHIBITIONS INC.",
       "country": {
         "text": "TURQUÍA",
         "iso2": "TR"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "UAV ARGENTINA",
       "country": {
         "text": "ARGENTINA",
         "iso2": "AR"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
+    },
+    {
+      "name": "UAV CHILE",
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV COLOMBIA",
       "country": {
         "text": "COLOMBIA",
         "iso2": "CO"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV COSTA RICA",
       "country": {
         "text": "COSTA RICA",
         "iso2": "CR"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV LATAM",
       "country": {
         "text": "PANAMÁ",
         "iso2": "PA"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV MÉXICO",
       "country": {
         "text": "MÉXICO",
         "iso2": "MX"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV PERÚ",
       "country": {
         "text": "PERÚ",
         "iso2": "PE"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UAV REPÚBLICA DOMINICANA",
       "country": {
         "text": "REPÚBLICA DOMINICANA",
         "iso2": "DO"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "UNISCOPE-OPTICAL SYSTEMS",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "UNIVERSIDAD DE CHILE",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "UNIVERSIDAD DE CONCEPCIÓN",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "UNIVERSIDAD MAYOR",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL"
+      ]
     },
     {
       "name": "US ARMY SPACE & MISSILE DEFENSE COMMAND",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "US SPACE FORCE, SPACE OPERATIONS COMMAND",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "USAFA",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "USSPACECOM",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
       "name": "UVISION AIR LTD",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "VERTICAL DO PONTO INDÚSTRIA E COMÉRCIO DE PARAQUEDAS LTDA",
@@ -2820,21 +4038,31 @@
       "country": {
         "text": "SUIZA",
         "iso2": "CH"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "OTROS"
+      ]
     },
     {
       "name": "VISIONA TECNOLOGIA ESPACIAL S.A.",
       "country": {
         "text": "BRASIL",
         "iso2": "BR"
-      }
+      },
+      "category": [
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "VITA INCLINATA TECHNOLOGIES",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "MANTENIMIENTO DE AERONAVES"
+      ]
     },
     {
       "name": "VMI SISTEMAS DE SEGURANÇA",
@@ -2848,105 +4076,108 @@
       "country": {
         "text": "CANADÁ",
         "iso2": "CA"
-      }
+      },
+      "category": [
+        "DRONES (RPAS)"
+      ]
     },
     {
       "name": "VORTEXX (AXIPITER SPA)",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "VORTICE SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "VOYAGER LABS.",
       "country": {
         "text": "ISRAEL",
         "iso2": "IL"
-      }
+      },
+      "category": [
+        "HOMELAND SECURITY",
+        "CIBERSEGURIDAD"
+      ]
     },
     {
       "name": "W.S. DARLEY & CO.",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA"
+      ]
     },
     {
-      "name": "WEIBEL SCIENTIFIC AS",
+      "name": "WEIBEL SCIENTIFIC A/S",
       "country": {
         "text": "DINAMARCA",
         "iso2": "DK"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "DEFENSA",
+        "HOMELAND SECURITY",
+        "TECNOLOGÍA ESPACIAL"
+      ]
     },
     {
       "name": "WORKHARD E.I.R.L",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "AVIACIÓN CIVIL - COMERCIAL",
+        "DEFENSA"
+      ]
     },
     {
       "name": "XIAOMI - MULTIELECTRONICS SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "OTROS"
+      ]
     },
     {
       "name": "YOY TRAINING SPA",
       "country": {
         "text": "CHILE",
         "iso2": "CL"
-      }
+      },
+      "category": [
+        "EQUIPAMIENTOS Y SERVICIOS AEROPORTUARIOS",
+        "OTROS"
+      ]
     },
     {
       "name": "ZEHIRUT INTERNATIONAL",
       "country": {
         "text": "ESTADOS UNIDOS",
         "iso2": "US"
-      }
-    },
-    {
-      "name": "APS SYSTEMS",
-      "country": {
-        "text": "POLONIA",
-        "iso2": "PL"
-      }
-    },
-    {
-      "name": "DYNASFE",
-      "country": {
-        "text": "SUECIA",
-        "iso2": "SE"
-      }
-    },
-    {
-      "name": "FREQUENTIS",
-      "country": {
-        "text": "AUSTRIA",
-        "iso2": "AT"
-      }
-    },
-    {
-      "name": "PARL AIR SYSTEMS",
-      "country": {
-        "text": "REINO UNIDO",
-        "iso2": "GB"
-      }
-    },
-    {
-      "name": "SMITHS DTECTION",
-      "country": {
-        "text": "ESTADOS UNIDOS",
-        "iso2": "US"
-      }
+      },
+      "category": [
+        "DEFENSA",
+        "HOMELAND SECURITY"
+      ]
     }
   ]
 }
