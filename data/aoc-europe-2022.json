@@ -35,7 +35,7 @@
     "name": "Clarion Defence & Security Limited",
     "address": "Bedford House, Fulham High Street, London SW6 3JW, UK"
   },
-  "exhibitorListDate": "2022-03-29T09:53:54+00:00",
+  "exhibitorListDate": "2022-05-17T10:37:37+00:00",
   "exhibitor": [
     {
       "name": "API Technology",
@@ -94,7 +94,18 @@
       "country": {
         "text": "South Africa",
         "iso2": "ZA"
-      }
+      },
+      "website": "https://www.alarisantennas.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://www.linkedin.com/company/alaris-antennas"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cojot"
+        }
+      ]
     },
     {
       "name": "Allen-Vanguard Ltd",
@@ -139,9 +150,52 @@
     {
       "name": "ApisSys",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/apissys",
-      "country": {
-        "text": "France",
-        "iso2": "FR"
+      "address": {
+        "text": "ABC 1-A\nArchamps Technopole\n60, rue Douglas Engelbart\nARCHAMPS\n74160\nFrance",
+        "iso2": "FR",
+        "lat": 46.139107,
+        "lon": 6.118384
+      },
+      "website": "https://www.apissys.fr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://fr.linkedin.com/company/apissys-sas"
+      }
+    },
+    {
+      "name": "Armada International",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/armada-international",
+      "address": {
+        "text": "Media Transasia, 14 Floor, Ocean Tower 2\nSukhumvit 19\nBangkok\nBangkok\n10110\nThailand",
+        "iso2": "TH",
+        "lat": 13.7428205,
+        "lon": 100.5614649
+      },
+      "website": "http://www.armadainternational.com/electronic-warfare/",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "http://www.twitter.com/@amrmagazine"
+        },
+        {
+          "platform": "linkedin",
+          "url": "http://www.linkedin.com/company/armada-international"
+        }
+      ]
+    },
+    {
+      "name": "Avantix",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/atos-international-sas-1",
+      "website": "https://avantix.net",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/avantix-sas"
+      },
+      "address": {
+        "text": "655 avenue Galilée\nAix en Provence\n13100\nFrance",
+        "iso2": "FR",
+        "lat": 43.4853838,
+        "lon": 5.3430775
       }
     },
     {
@@ -160,17 +214,31 @@
     {
       "name": "Babcock Integrated Technology",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/babcock-integrated-technology",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "http://www.babcockinternational.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/babcock-international-group"
+      },
+      "address": {
+        "text": "Building 6\nAshchurch\nTewkesbury\nGloucestershire\nGL20 8LZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9973033,
+        "lon": -2.1073863
       }
     },
     {
       "name": "CACI SystemWare",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/caci-systemware",
-      "country": {
-        "text": ".\n.\nUnited States",
-        "iso2": "US"
+      "website": "https://www.sysware.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "http://linkedin.com/in/gator-dunn-b7443126"
+      },
+      "address": {
+        "text": "7063 Columbia Gateway Drive\nSuite 110\nColumbia\nMD\n21046\nUnited States",
+        "iso2": "US",
+        "lat": 39.1719524,
+        "lon": -76.8085716
       }
     },
     {
@@ -195,12 +263,29 @@
       }
     },
     {
+      "name": "Chemring Countermeasures Ltd",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/chemring-countermeasures-ltd",
+      "website": "https://www.chemring.com/about-us/our-business/chemring-countermeasures-uk",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/Chemring_Group?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/chemring-countermeasures"
+        }
+      ],
+      "address": {
+        "text": "Chemring Countermeasures Ltd\nHigh Post Road\nHigh Post\nSALISBURY\nWiltshire\nsp4 6as\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1305397,
+        "lon": -1.7968569
+      }
+    },
+    {
       "name": "Chevin Technology",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/chevin-technology",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      },
       "website": "https://www.chevintechnology.com",
       "social": [
         {
@@ -211,7 +296,13 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/chevin-technology"
         }
-      ]
+      ],
+      "address": {
+        "text": "The Bradfield Centre\n184 Cambridge Science Park\nMilton Road\nCambridge\nCambridgeshire\nCB4 0GA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2336658,
+        "lon": 0.1462957
+      }
     },
     {
       "name": "Chora A/S",
@@ -227,18 +318,18 @@
       }
     },
     {
-      "name": "Communications Audit UK Ltd.",
+      "name": "CommsAudit",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/communications-audit-uk-ltd",
-      "address": {
-        "text": "Unit A1\nAerotech Business Park\nBamfurlong Lane, Staverton\nCheltenham\nGloucestershire\nGL51 6TU\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.8978487,
-        "lon": -2.1587816
-      },
       "website": "https://www.commsaudit.com",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/10659926"
+      },
+      "address": {
+        "text": "PO Box 78\nCheltenham\nGloucestershire\nGL52 6ZU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9056614,
+        "lon": -2.0820431
       }
     },
     {
@@ -257,34 +348,47 @@
     {
       "name": "Decodio AG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/decodio-ag",
-      "country": {
-        "text": "Switzerland",
-        "iso2": "CH"
+      "website": "https://www.decodio.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/decodio-ag"
+      },
+      "address": {
+        "text": "Heinrichstrasse 147\nZürich\nZürich\n8005\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.3869593,
+        "lon": 8.5262124
       }
     },
     {
       "name": "ELETTRONICA S.P.A.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elettronica-spa",
-      "country": {
-        "text": "Italy",
-        "iso2": "IT"
+      "address": {
+        "text": "Elettronica\nvia Tiburtina Valeria km 13,700\nRoma\n00131\nItaly",
+        "iso2": "IT",
+        "lat": 41.9360331,
+        "lon": 12.6189771
+      },
+      "website": "https://www.elt-roma.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/elettronica-group/"
       }
     },
     {
       "name": "ELTA Systems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elta-systems",
-      "country": {
-        "text": "Israel",
-        "iso2": "IL"
-      }
+      "address": {
+        "text": "100 Yitzhak Ha'nassi Blvd.\nAshdod\nIsrael\nPOB 330, 7710202\nIsrael",
+        "iso2": "IL",
+        "lat": 31.804381,
+        "lon": 34.655314
+      },
+      "website": "https://www.iai.co.il"
     },
     {
       "name": "ERA a.s.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/era-as",
-      "country": {
-        "text": "Czech Republic",
-        "iso2": "CZ"
-      },
       "website": "https://www.era.aero",
       "social": [
         {
@@ -295,7 +399,13 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/era-a-s-"
         }
-      ]
+      ],
+      "address": {
+        "text": "Průmyslová 462\nPardubice\n53003\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0255173,
+        "lon": 15.8020853
+      }
     },
     {
       "name": "ERZIA",
@@ -317,19 +427,24 @@
       ]
     },
     {
-      "name": "Elbit",
+      "name": "Elbit Systems + GeoSpectrum Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elbit-systems-ew-and-sigint",
-      "country": {
-        "text": "Israel",
-        "iso2": "IL"
+      "website": "https://elbitsystems.com/products/ew-and-sigint/",
+      "address": {
+        "text": "Hamerkava 29\nHolon\n5885118\nIsrael",
+        "iso2": "IL",
+        "lat": 32.01503,
+        "lon": 34.808327
       }
     },
     {
       "name": "Eldes",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/eldes-srl",
-      "country": {
-        "text": "Italy",
-        "iso2": "IT"
+      "address": {
+        "text": "Via di Porto, 2/B\nScandicci\n50018\nItaly",
+        "iso2": "IT",
+        "lat": 43.76826740000001,
+        "lon": 11.1541073
       },
       "website": "https://www.eldesradar.com",
       "social": {
@@ -359,27 +474,59 @@
     {
       "name": "Epiq Solutions",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/epiq-solutions",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
-      },
-      "website": "https://epiqsolutions.com"
+      "website": "https://epiqsolutions.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/solutionsepiq"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/epiq-solutions"
+        }
+      ],
+      "address": {
+        "text": "3740 Industrial Avenue\nRolling Meadows\nIL\n60008\nUnited States",
+        "iso2": "US",
+        "lat": 42.0961434,
+        "lon": -88.02814599999999
+      }
     },
     {
       "name": "FS Antennentechnik GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/fs-antennentechnik-gmbh",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
+      "website": "http://www.fs-antennentechnik.de",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/"
+      },
+      "address": {
+        "text": "Bleicherfleck\n3\nIsmaning\nBavaria\n85737\nGermany",
+        "iso2": "DE",
+        "lat": 48.2394879,
+        "lon": 11.6809453
       }
     },
     {
       "name": "Filtronic Broadband",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/filtronic-broadband",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Filtronic, PLEXUS 2\nThomas Wright Way\nSedgefield\nCounty Durham\nTS21 3FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.6702888,
+        "lon": -1.4521645
+      },
+      "website": "https://filtronic.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/Filtronic"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/filtronic"
+        }
+      ]
     },
     {
       "name": "FinFisher GmbH",
@@ -411,10 +558,23 @@
     {
       "name": "Glenair France",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/glenair-france",
-      "country": {
-        "text": "France",
-        "iso2": "FR"
-      }
+      "address": {
+        "text": "7 Avenue Parmentier Central, Parc II\nToulouse\n31200\nFrance",
+        "iso2": "FR",
+        "lat": 43.6142301,
+        "lon": 1.4296305
+      },
+      "website": "http://www.glenair.fr",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://www.linkedin.com/company/glenair-europe/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/glenair-europe/"
+        }
+      ]
     },
     {
       "name": "HENSOLDT Holding Germany GmbH",
@@ -438,9 +598,22 @@
     {
       "name": "Hawkeye 360",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/hawkeye-360",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
+      "website": "https://www.he360.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/hawkeye360"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hawkeye-360"
+        }
+      ],
+      "address": {
+        "text": "196 Van Buren St\n450\nHerndon\nVA\n20170\nUnited States",
+        "iso2": "US",
+        "lat": 38.954032,
+        "lon": -77.387487
       }
     },
     {
@@ -467,25 +640,73 @@
     {
       "name": "Hytem",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/hytem",
-      "country": {
-        "text": ".\n.\nFrance",
-        "iso2": "FR"
-      }
+      "address": {
+        "text": ".\n2 BIS RUE DU BOIS FOURGON\nVilleconin\n91580\nFrance",
+        "iso2": "FR",
+        "lat": 48.5135634,
+        "lon": 2.1277206
+      },
+      "website": "https://www.hytem.net",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/HytemRF"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hytem"
+        }
+      ]
     },
     {
       "name": "INNOSYSTEC",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/innosystec",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
+      "address": {
+        "text": "Am Wasserstall\n16\nSalem-Neufrach\nBaden-Württemberg\n88682\nGermany",
+        "iso2": "DE",
+        "lat": 47.7534195,
+        "lon": 9.3043578
+      },
+      "website": "https://www.innosystec.de",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://de.linkedin.com/company/innosystec"
+      }
+    },
+    {
+      "name": "IZT - RF and DF Solutions",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/izt-rf-and-df-solutions-xlwy",
+      "website": "https://www.izt-labs.de",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://www.twitter.de/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/innovationszentrum-f%C3%BCr-telekommunikationstechnik-gmbh-izt"
+        }
+      ],
+      "address": {
+        "text": "Am Weichselgarten 5\nErlangen\nBavaria\n91058\nGermany",
+        "iso2": "DE",
+        "lat": 49.5436963,
+        "lon": 11.0268236
       }
     },
     {
       "name": "Interface Concept",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/interface-concept",
-      "country": {
-        "text": "France",
-        "iso2": "FR"
+      "address": {
+        "text": "INTERFACE CONCEPT\n3, rue Félix Le Dantec\nQUIMPER\nBrittany\n29000\nFrance",
+        "iso2": "FR",
+        "lat": 47.97881719999999,
+        "lon": -4.1051144
+      },
+      "website": "https://www.interfaceconcept.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "http://www.linkedin.com/company/interface-concept"
       }
     },
     {
@@ -529,20 +750,50 @@
       ]
     },
     {
+      "name": "LS telcom",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/ls-telecom",
+      "address": {
+        "text": "LS telcom\nIm Gewerbegebiet 31-33\nLichtenau\n77839\nGermany",
+        "iso2": "DE",
+        "lat": 48.71919399999999,
+        "lon": 7.997716
+      },
+      "website": "https://www.lstelcom.com/en/home/",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/LS_telcom"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ls-telcom"
+        }
+      ]
+    },
+    {
       "name": "Leonardo MW Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/leonardo-mw-ltd",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.leonardo.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/Leonardo_UK"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/showcase/leonardo-airborne-&-space-systems"
+        }
+      ],
+      "address": {
+        "text": "One Eagle Place\nLondon\nSW1Y 6AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5091788,
+        "lon": -0.1353635
       }
     },
     {
       "name": "MASS",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mass",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      },
       "website": "https://mass.co.uk",
       "social": [
         {
@@ -553,22 +804,33 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/mass"
         }
-      ]
+      ],
+      "address": {
+        "text": "Enterprise House\nGreat North Road\nLittle Paxton\nSt Neots\nCambridgeshire\nPE19 6BN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2533209,
+        "lon": -0.2641665
+      }
     },
     {
       "name": "MBDA FRANCE",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mbda-france",
-      "country": {
-        "text": "France",
-        "iso2": "FR"
+      "website": "http://www.mbda-systems.com",
+      "address": {
+        "text": "MBDA\n1 avenue Reaumur\nLe Plessis Robinson\n92350\nFrance",
+        "iso2": "FR",
+        "lat": 48.7792059,
+        "lon": 2.2406433
       }
     },
     {
       "name": "Microwave Products Group",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/bsc-filters-ltd",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "Dover House\n10-11 Stirling Park\nBleriot Way\nClifton Moor\nYork\nYO30 4WU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.9897702,
+        "lon": -1.0981565
       },
       "website": "https://dovermpg.com",
       "social": {
@@ -608,14 +870,31 @@
     {
       "name": "NSI-MI Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/nsi-mi-technologies",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
+      "address": {
+        "text": "NSI-MI Technologies\n1125 Satellite Blvd., Suite 100\nSuite 100\nSuwanee\nGA\n30024\nUnited States",
+        "iso2": "US",
+        "lat": 34.0142085,
+        "lon": -84.0710819
       },
       "website": "https://www.nsi-mi.com",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/nsi-mitechnologies/"
+      }
+    },
+    {
+      "name": "Narda Safety Test Solutions GmbH",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/narda-safety-test-solutions-gmbh-ozvm",
+      "website": "https://www.narda-sts.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/narda-safety-test-solutions-gmbh/mycompany/?viewAsMember=true"
+      },
+      "address": {
+        "text": "Sandwiesenstrasse 7\nPfullingen\n72793\nGermany",
+        "iso2": "DE",
+        "lat": 48.458053,
+        "lon": 9.230629
       }
     },
     {
@@ -625,7 +904,11 @@
         "text": "Sweden",
         "iso2": "SE"
       },
-      "website": "https://www.novatorsolutions.com%20%26%20www.combitech.com"
+      "website": "https://www.novatorsolutions.com%20%26%20www.combitech.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/novator-solutions-ab/"
+      }
     },
     {
       "name": "Ocupoint",
@@ -651,9 +934,16 @@
     {
       "name": "PLATH Signal Products",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/plath-signal-products",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
+      "website": "https://www.plath-signalproducts.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/plathsignalproducts"
+      },
+      "address": {
+        "text": "Gotenstrasse 18\nGotenstrasse 18\nHamburg\nHamburg\n20097\nGermany",
+        "iso2": "DE",
+        "lat": 53.5493089,
+        "lon": 10.0250663
       }
     },
     {
@@ -672,19 +962,52 @@
     {
       "name": "Patria",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/patria",
-      "country": {
-        "text": "Finland",
-        "iso2": "FI"
+      "website": "https://www.patriagroup.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/PatriaOyj"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/patria/"
+        }
+      ],
+      "address": {
+        "text": "Arkadiankatu 2\nHelsinki\n00100\nFinland",
+        "iso2": "FI",
+        "lat": 60.17080069999999,
+        "lon": 24.9349216
       }
     },
     {
       "name": "Photonis Defense, Inc.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/photonis-defense-inc",
+      "website": "https://photonisdefense.com/power-and-microwave/",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/PhotonisDefence"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/photonis/"
+        }
+      ],
+      "address": {
+        "text": "Photonis Defense\n1000 New Holland Ave\nLancaster\nPennsylvania\n17601\nUnited States",
+        "iso2": "US",
+        "lat": 40.0537417,
+        "lon": -76.2832931
+      }
+    },
+    {
+      "name": "Quest Global",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/quest-global",
       "country": {
-        "text": "United States",
-        "iso2": "US"
-      },
-      "website": "https://photonisdefense.com/power-and-microwave"
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "REFLEX CES",
@@ -708,32 +1031,70 @@
       ]
     },
     {
-      "name": "RUAG Schweiz AG",
+      "name": "RUAG AG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/ruag-schweiz-ag",
-      "country": {
-        "text": "Switzerland",
-        "iso2": "CH"
-      },
       "website": "https://www.ruag.ch/en",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/ruag-ag/"
+      },
+      "address": {
+        "text": "Seetalstrasse 175\nEmmen\nKeine Eingabe erforderlich\n6032\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.0861445,
+        "lon": 8.3089806
       }
     },
     {
       "name": "Rafael",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/rafael",
-      "country": {
-        "text": "Israel",
-        "iso2": "IL"
+      "website": "https://www.rafael.co.il",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/RAFAELdefense"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/14803350/admin/"
+        }
+      ],
+      "address": {
+        "text": "POB 2250\nHAIFA\n3202102\nIsrael",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      }
+    },
+    {
+      "name": "RiVR",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/rivr",
+      "website": "https://rivr.uk",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://mobile.twitter.com/rivr_uk"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/reality-in-virtual-reality/"
+        }
+      ],
+      "address": {
+        "text": "Unit 6E\nSouthfield Road\nSoutham\nWarwickshire\nCV47 0FB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2446652,
+        "lon": -1.3976677
       }
     },
     {
       "name": "Rohde & Schwarz GmbH & Co. KG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/rohde-schwarz-gmbh-co-kg",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
+      "address": {
+        "text": "Muehldorfstr. 15\nMunich\nBavaria\nD-81671\nGermany",
+        "iso2": "DE",
+        "lat": 48.1278668,
+        "lon": 11.6119321
       },
       "website": "https://rohde-schwarz.com",
       "social": [
@@ -790,17 +1151,47 @@
     {
       "name": "SERPIKOM",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/serpikom",
+      "website": "http://www.serpikom.eu",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/serpikom"
+      },
+      "address": {
+        "text": "430 Rue Denis Papin\nZac du Tourillon\nAIX EN PROVENCE\n13100\nFrance",
+        "iso2": "FR",
+        "lat": 43.4969428,
+        "lon": 5.343177799999999
+      }
+    },
+    {
+      "name": "SPL Occitanie Events",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/spl-occitanie-events",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "Safran Data Systems",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/safran-data-systems",
       "country": {
         "text": "France",
         "iso2": "FR"
+      },
+      "website": "https://www.safran-group.com/companies/safran-data-systems",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/showcase/safran-space/"
       }
     },
     {
       "name": "Sch'nhofer Sales and Engineering GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/schnhofer-sales-and-engineering-gmbh",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
+      "address": {
+        "text": "Lindenstraße 92-98\nSiegburg\n53721\nGermany",
+        "iso2": "DE",
+        "lat": 50.7975523,
+        "lon": 7.1910683
       },
       "website": "https://www.schoenhofer.de",
       "social": {
@@ -812,10 +1203,16 @@
       "name": "Spherea",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/spherea",
       "website": "https://www.spherea.com",
-      "social": {
-        "platform": "linkedin",
-        "url": "https://www.linkedin.com/company/spherea/mycompany/verification/"
-      },
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/groupspherea"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/spherea/mycompany/verification/"
+        }
+      ],
       "address": {
         "text": "SPHEREA\n109 Avenue Eisenhower\nCS 42326\nToulouse\nFRANCE\n31023\nFrance",
         "iso2": "FR",
@@ -839,10 +1236,6 @@
     {
       "name": "TCI International",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/tci-international",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
-      },
       "website": "https://www.tcibr.com",
       "social": [
         {
@@ -853,24 +1246,45 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/tci-international-inc"
         }
-      ]
+      ],
+      "address": {
+        "text": "3541 Gateway Blvd\nFremont\nCA 94538\nUnited States",
+        "iso2": "US",
+        "lat": 37.4743127,
+        "lon": -121.941256
+      }
     },
     {
       "name": "TMD Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/tmd-technologies",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "http://www.cpii.com/tmd",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/TMDTechnologies"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/tmd-technology"
+        }
+      ],
+      "address": {
+        "text": "CPI TMD Technologies Ltd\nUnit 3 Swallowfield Way\nHayes\nMiddlesex\nUB3 1DQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5074465,
+        "lon": -0.4345748
       }
     },
     {
       "name": "Teledyne",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/teledyne",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      },
-      "website": "https://www.teledyne.com/what-we-do/aerospace-and-defense-electronics"
+      "website": "https://www.teledyne.com/what-we-do/aerospace-and-defense-electronics",
+      "address": {
+        "text": "106 Waterhouse Lane\n106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7317195,
+        "lon": 0.4562485
+      }
     },
     {
       "name": "Textron Systems",
@@ -921,17 +1335,46 @@
     {
       "name": "Ultra",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/ultra",
+      "website": "http://ultra.group/ultra-ewst",
+      "address": {
+        "text": "Ultra EWST\nA8 Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      }
+    },
+    {
+      "name": "Unseenlabs",
+      "exhibitorUrl": "https://www.aoceurope.org/exhibitors/unseenlabs",
       "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "https://unseenlabs.space",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/unseenlabs/"
       }
     },
     {
       "name": "VIAVI Solutions, Inc.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/viavi-solutions-inc",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
+      "website": "https://www.viavisolutions.com/en-us",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/viavisolutions"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/viavi-solutions/mycompany/verification/"
+        }
+      ],
+      "address": {
+        "text": "10200 W York St\nWichita\nKansas\n67215\nUnited States",
+        "iso2": "US",
+        "lat": 37.6240615,
+        "lon": -97.46046989999999
       }
     },
     {
@@ -961,6 +1404,11 @@
       "country": {
         "text": "Germany",
         "iso2": "DE"
+      },
+      "website": "https://www.comint.info",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sven-boger-199b6393/"
       }
     }
   ]
