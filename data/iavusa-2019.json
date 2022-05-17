@@ -5,7 +5,12 @@
   "alias": "International Armored Vehicles USA 2019",
   "startDate": "2019-06-25",
   "endDate": "2019-05-27",
-  "address": "FOUR SEASONS HOTEL\nAUSTIN\nTX\nUSA",
+  "address": {
+    "text": "FOUR SEASONS HOTEL\nAUSTIN\nTX\nUSA",
+    "iso2": "US",
+    "lat": 30.2617988,
+    "lon": -97.7425384
+  },
   "website": "https://www.internationalarmoredvehiclesusa.iqpc.com",
   "organiser": [
     {
@@ -26,7 +31,7 @@
     },
     {
       "name": "ST Engineering",
-      "website": "https://www.stengg.com/"
+      "website": "https://www.stengg.com"
     },
     {
       "name": "Raytheon"
@@ -44,15 +49,15 @@
     },
     {
       "name": "IAI RAMTA",
-      "website": "http://www.iai.co.il/"
+      "website": "http://www.iai.co.il"
     },
     {
       "name": "Revision Military",
-      "website": "https://www.revisionmilitary.com/"
+      "website": "https://www.revisionmilitary.com"
     },
     {
       "name": "InnaLabs",
-      "website": "http://www.innalabs.com/"
+      "website": "http://www.innalabs.com"
     },
     {
       "name": "Leonardo DRS",
@@ -87,7 +92,7 @@
     },
     {
       "name": "Scepter Canada",
-      "website": "http://mil.sceptermilitary.com/"
+      "website": "http://mil.sceptermilitary.com"
     },
     {
       "name": "SKYDEX"
@@ -119,7 +124,7 @@
     },
     {
       "name": "Bren Tronics",
-      "website": "https://www.bren-tronics.com/"
+      "website": "https://www.bren-tronics.com"
     },
     {
       "name": "Nexter",

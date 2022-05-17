@@ -8,7 +8,12 @@
   ],
   "startDate": "2008-07-14",
   "endDate": "2008-07-20",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.farnborough.com",
   "exhibitorListUrl": "http://www.farnborough.com/Site/Content/Exhibitors/ExhibitorList.aspx",
   "delegationListUrl": "https://www.caat.org.uk/issues/arms-fairs/farnborough/delegations/2008-10-22.ukti-dso.farnborough-2008-invitation-list.pdf"

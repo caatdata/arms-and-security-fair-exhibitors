@@ -7,13 +7,18 @@
   "edition": "2004",
   "startDate": "2004-10-19",
   "endDate": "2004-10-21",
-  "address": "Hilton Hawaiian Village\n2005 Kalia Road\nHonolulu\nHawaii\nUnited States of America",
+  "address": {
+    "text": "Hilton Hawaiian Village\n2005 Kalia Road\nHonolulu\nHawaii\nUnited States of America",
+    "iso2": "US",
+    "lat": 21.282395,
+    "lon": -157.837535
+  },
   "organiser": [
     {
       "name": "Nexus Media Communications Ltd"
     }
   ],
-  "website": "http://www.udt-hawaii.com/",
+  "website": "http://www.udt-hawaii.com",
   "exhibitorListUrl": "http://www.udt-hawaii.com/exhibitors/",
   "exhibitorListDate": "2022-03-06T12:13:13+00:00",
   "exhibitor": [

@@ -8,8 +8,13 @@
   ],
   "startDate": "2022-07-18",
   "endDate": "2022-07-22",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Rd\nFarnborough\nGU14 6FD\nUK",
-  "website": "https://www.farnboroughairshow.com/",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Rd\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
+  "website": "https://www.farnboroughairshow.com",
   "exhibitorListUrl": "https://www.farnboroughairshow.com/media/ivhlmrie/fia2022-exhibitor-list-260422.pdf",
   "exhibitorListDate": "2022-05-09T15:32:04+00:00",
   "exhibitor": [

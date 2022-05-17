@@ -5,7 +5,12 @@
   "alias": "Feria Internacional del Aire y del Espacio",
   "startDate": "1992-03-08",
   "endDate": "1992-03-15",
-  "address": "Los Cerrillos\nSantiago\nChile",
+  "address": {
+    "text": "Los Cerrillos\nSantiago\nChile",
+    "iso2": "CL",
+    "lat": -33.5190593,
+    "lon": -70.717804
+  },
   "website": [
     "http://www.fidaegroup.cl/fidae-1992",
     "https://www.chilecollector.com/archwebfila03/archwebstamp1500/stampset1565.html"

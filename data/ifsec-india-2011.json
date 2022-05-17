@@ -7,7 +7,12 @@
   ],
   "startDate": "2011-11-08",
   "endDate": "2011-11-10",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
   "website": "http://www.ifsecindia.com/Home.aspx?refer=1",
   "organiser": [
     {

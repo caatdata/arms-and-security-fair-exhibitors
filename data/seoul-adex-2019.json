@@ -5,7 +5,12 @@
   "alias": "Seoul International Aerospace & Defense Exhibition 2017",
   "startDate": "2019-10-15",
   "endDate": "2019-10-20",
-  "address": "Seoul Airport\nSeoul\nSouth Korea",
+  "address": {
+    "text": "Seoul Airport\nSeoul\nSouth Korea",
+    "iso2": "KR",
+    "lat": 37.4601908,
+    "lon": 126.4406957
+  },
   "website": "https://seouladex.com/intro.asp",
   "social": [
     {
@@ -18,115 +23,199 @@
   "exhibitor": [
     {
       "name": "3C TAEYANG",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ABACO SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ACE Antenna",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ACEWAVETECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ACT",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "AERO-MAOZ",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AEROSTARSG",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "AEROTECH HERMANNELSON INTERNATIONAL INC.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "ALKAN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ANH Structure",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "APEX Defense Services Inc.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ASB Group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASOA Inc.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ATC",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ATEC - Chindiatech",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ATEN KOREA",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "AUTOIT",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "AVALON 2021",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "AVL List GmbH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AXON CABLE S.A.S",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Access We",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Aero Master Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Aero Precision",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Aerospace & Defense",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Aerospace Professional Training",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Aerosquare",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Aimpoint",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "AirBorn, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Airbus",
@@ -134,1955 +223,3419 @@
     },
     {
       "name": "Alumizone",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Amphenol DaeShin Electronics and Precision",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Argosdyne",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Asian Press Group Pte Ltd",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Aviation Week Network",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Aviation and sport",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Aviosys Technologies",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Awesome Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "B&B",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "B.S. & Company",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "BAE Systems",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BAE Systems International Limited Korea Branch",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Barotech Synergy",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Bell",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BetaForce",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Bird Control Group",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Bird Rex Co,.LTD.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Boeing",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Bollore Logistics Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Bombardier",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Brandywine Communications",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Breton",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "C & Lee Inc.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "C.WORLD",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CALEX",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CBFEZ (Chungbuk Free Economic Zone Authority)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CBOL CORPORATION & CELLTRON INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CEI Microwave Solutions",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CONESYS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CONET SYS Co., LTD.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CORE ELECTRIC CO.,LTD",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "COTS Technology",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CSIR",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "Carling Technologies",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Cecurity",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Chair Meister",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Changwon Industry Promotion Agency",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Chindiatech Co., Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Cirrus Aviation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Cirrusaircraft",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Civil RPAS Research Center (CR2CENT)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Cobham",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Collins Aerospace",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Columbia Helicopters",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Comepa",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Continental Connector",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Contour AS",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Contromax",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Cooper Antennas",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Covis",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Crane Aerospace & Electronics Interpoint",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Crissair",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Crouzet",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Cubic Global Defense",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Curtiss-Wright Controls Defense Solutions",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "D. I. Optical Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DACC CARBON",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DAE-SUNG TECH CO.,LTD.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DAEHWA Aerospace Industries",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DAEJEON TECHNOPARK",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DAEJI PRECISION & INDUSTRIES",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DANAM SYSTEMS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DASAN",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DASSAULT SYSTEMES KOREA",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DCJ",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     },
     {
       "name": "DI OPTICAL, USA INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DMO(Defensie Materieel Organisatie)",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DRGEM Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DSA Exhibition and Conference SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "DSM Dyneema",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DT&CRO",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DT&Investment",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DT&SanoMedics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dabeeo",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Daehan Crystal Global",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Daehan Electric",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Daeho Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dandan",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dandan Optics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dawin Friction Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dbrain",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DeRegt",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Defense Agency for Technology and Quality",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Defense Times Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Delta Electronics Mfg. Corp.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Diehl Defence",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Digitron",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dong Ji Inter-Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dong Sung Electric Machine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DongHwa A.C.M.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dongjin Electric & Machinery",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dongsung TCS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dreamtree",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dt&C",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Dt&C VINA",
-      "country": "Vietnam"
+      "country": {
+        "text": "Vietnam",
+        "iso2": "VN"
+      }
     },
     {
       "name": "Dunlop Aircraft Tyres Ltd.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Dunlop Taikoo(Jinjiang) Aircraft Tyres Co. Ltd.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "DusiTech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "EM Korea (Energy and Machinery Korea)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ENC TECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "EO System",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "EPSILON SYSTEMS SOLUTIONS, INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ERE Industry co.,Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ESPRIT by DP Technology",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ETIENNE LACROIX",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETL",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "EVERSENTECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Economic Leaders Center",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Elbit Systems",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Electro Adapter",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Embry-Riddle Aeronautical University-Asia",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Energy Planet",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Envinode Co., Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Environic Oy",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Eurasia Airshow",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ExOne",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Excalibur Systems Ltd.",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Explorer Cases by GT Line",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FED, Private Joint Stock Company",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "FIDAE",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FIRST SwitchTech",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FLIR Systems",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FRT (Field Robot Technology)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "FS Co.,Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Fine Precision Ind,. Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Firekim",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Firstec",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Fischer Connectors",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "FlightGlobal",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Focus Global Corp.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Focus Optech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Foosung",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Foosung HDS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Forecast International Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Fostec",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "G & H Technology Connectors",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GANAINDUS (Bird Control Korea)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GBLS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GE Additive",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GE Aviation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GE Aviation Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GE Avionics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GE Marine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GEII",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GEROH GmbH & Co. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GF Machining Solutions",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "GILLANIX",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Gecktoe Grip",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Gems Sensors & Controls",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Atomics Aeronautical Systems",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Gifas",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Gladiator Technologies",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Glenair Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Global Business Press",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Green Optics Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Gulfstream",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HAIVISION",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "HANATECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HANGIL C&C",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HANKOOKCNS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HDT",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HENSOLDT",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HOLT IC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HOPEAIRTECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HPI",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HSC",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "HSI",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HUBER+SUHNER AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "HWASEUNG Material",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Han Shin Enterprise",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Haneul Nerin Aviation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hansung ILS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hanwha Aerospace",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hanwha Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hanwha Defense",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hanwha Systems",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Heagang Marine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Honeywell Aerospace",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Hugreen Power",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Huneed Technologies",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hwashin Instrument Co., Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hyeok-Jee Trading",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hylium Industries",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hyundae Electric",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hyundai J-Comm",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hyundai Rotem",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Hyundai Wia",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "I-Spec",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "IAI Seoul Liaison Office",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "IBT",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "IEH Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "IHS Markit / Jane&#39;s",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "INEO Global Support",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INFOVION",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "INNO EYEWEAR",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "INTKOREA",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "IONES",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "IPT (Integrated Procurement Technologies)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ISPark (Infinite Solution Park)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ITW GSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "IWI (Israel Weapon Industries)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IXI Tech",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Inertial Labs, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Inha University",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Innovative Integration",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Insopack",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Institute of Civil-Military Technology Cooperation (ADD)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Intellisense Systems Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "InterCom Electronics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "International Manufacturing Services, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Israel Aerospace Industries",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "J & TECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "J-Lighting",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "JAIN Technology",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "JBT AeroTech Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JCA ITON",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "JEC Group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JOWO - Systemtechnik AG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Jangwoo Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "JinYoung TBX",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Jonal Laboratories",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "K2 Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KB GLOBAL",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KCTL",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KEVA Drone (Korea Electric Vehicle Aerospace Drone)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KIAST (Korea Institute of Aviation Safety Technology)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KIM Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KINETIX",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KIPCO Aerospace & Defense",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KITECH Avionics System Technology Center",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOEL",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOFAS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOLON DACC Composite",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOMRAS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOREAINTERLINK",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KP Aero Industries",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KPC Metal",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KS System",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KSP",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KTL (Korea Testing Laboratory)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Kallman Worldwide",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Kia Motors",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Koduct",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Aerospace Industries, Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Aerospace Research Institute",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Aerospace Technology Research Association",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Aerospace University",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Agency for Infrastructure Technology Advancement",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Aviation Technologies, Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Defense Industry Association",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Electro-Optics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Electronics Technology Institute",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Jig & Fixture Ind Co., Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Lost-Wax",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Non-Ferrous Metals",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Refractories",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Testing & Research Institute",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korea Textile Development Institute",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korean Aerospace Valley",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Korean Air Lines Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Kukdong Telecommunication",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Kyungwon Ind. Co.,Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "L3Harris",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LAB-T",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LC-TEK Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LIG NEX1",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LORD Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LUMENS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LYNRED",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LandForces 2020",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Lees Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Leonardo",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Livinglife",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Lockheed Martin",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MARCH ELECTRONICS INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MBDA France",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "METRAVIB DEFENCE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MJ Trading",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "MMIST Inc.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "MOOG Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MPP System",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "MTG",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "MTU Friedrichshafen GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MUEGGE-GERLING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Marvin Test Solutions",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Mastor Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Media Transasia - Asian Military Review",
-      "country": "Thailand"
+      "country": {
+        "text": "Thailand",
+        "iso2": "TH"
+      }
     },
     {
       "name": "MetaSensing",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "MetaSensing AP Pte Ltd",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "MetaSensing Italia Srl",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MetaVista",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Microchip Technology Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Microchip Technology Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Microtech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Midoriya Electric Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Misslee",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Moog Protokraft",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Moori Technologies",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Myonghwanet",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "N.A.I. (North Atlantic Industries)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NDT Engineering & Aerospace",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "NIDV",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NLR(Royal Netherlands Aerospace Centre)",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NORTH AMERICAN AERODYNAMICS,INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NOVINTEC",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Narajikimi",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Narmi Motors",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Natural Star Korea Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Navcours",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Nes & Tec",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "New Imaging Technologies",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Newbroad Technologies",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Nexcoms",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Nextwill",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Northrop Grumman",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OCEAN C&C",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "OF COMPANY",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "OLZETEK Inc.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "OSI",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "OZRAY Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Olympus Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Ophir Optronics Solutions",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Optisys, LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PABLO AIR",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "PLATOON",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "PSIONdsp",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "PT Dirgantara Indonesia (PERSERO)",
-      "country": "Indonesia"
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
     },
     {
       "name": "PT Napindo Media Ashatama",
-      "country": "Indonesia"
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
     },
     {
       "name": "PTG",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Pamanong Trading",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Parker Aerospace",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Parkor Korea Indus",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Pelican Products",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Peopleworks",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Photonis Netherlands B.V.",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Poongsan Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Poongsan FNS Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Posital",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Positronics Asia Pte Ltd",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Potential Exhibitions & Media Marketing",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Power Engineering",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Power System Technology",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Pratt & Whitney",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Premium Mice",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "RAFAUT Group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RFHIC Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "RFcore",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "RH Focus Corp.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ROTAC",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ROTORTECH 2020",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rafael Advanced Defense Systems",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Raytheon",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Replex",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Rinnai Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Rohau",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Rovostech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Roxtec Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Russian Helicopters",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "S&K Aerospace",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "S&T Dynamics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "S&T Motiv",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "S-TEAM",
-      "country": "Slovakia"
+      "country": {
+        "text": "Slovakia",
+        "iso2": "SK"
+      }
     },
     {
       "name": "S.S. WHITE Technologies",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SAEHWA Trading",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SAERON SNI",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SAFRAN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAP Media",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "SAP Media Worldwide",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SBAS Program Office",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SD Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SEAWOLF Marine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SEF",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SFEX Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SM CNS Corp.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SM Engineering Corp.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SOCOMORE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SONATS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOO",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SP Elemech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SPI Connects - Military & Industrial Connectors",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SST Sensing",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SSTLabs",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "STX Engine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SUNJIN Helicopter",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SY Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Saab AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Saab International Technology Korea Co. Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Safe Soft",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SamTra International",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Samhyun",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Samjeong Turbine",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Samyang Comtech Technology",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Sanju Optical",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Seatech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Semii Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SeoulTech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Seyoung Information & Telecommunication",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Sharp Aviation K, Inc.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Shephard Media",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Shin Kwang Electronics",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ShinSeung Precision",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Shinkwang Safety Corporation",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Shipley Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Silicon Studio Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Skysys",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Smartline",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Smbure",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Smithers-Oasis Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Snap-on Tools Korea Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Solution Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Solvit System",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Soosung Defense Industries",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Space Solutions",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Space and Defence Technologies",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SungWoo Engineering",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Sunkyoung S.T",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Suntech Co.,Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Symphony Imaging",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SynQor",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Sysmate",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Systron Donner Inertial",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TAEKYUNG ELEC. Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TAURUS Systems GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TAURUS Systems Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TBT",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TE Connectivity",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TECHSAN-ENG Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TEX-APPAREL CONNECTION LTD.",
-      "country": "Bangladesh"
+      "country": {
+        "text": "Bangladesh",
+        "iso2": "BD"
+      }
     },
     {
       "name": "TFJ Global",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TIME E&C",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TNO",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "TONE",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     },
     {
       "name": "TOPINS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TRANGO",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TREKSTA",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TROYA TECH DEFENSE LTD.",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "TUALCOM",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Tae Sung Industry",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Taegun Industry",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Teledyne e2v",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Teledyne e2v Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Telephonics",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Terma",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "Texcal Wire & Cable",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Thales",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "The Will-Burt company",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Total Survey Solution(swellprokorea)",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Trijicon",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Turkish Aerospace Industries",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Tusas Engine Industries",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Tzen",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "U-Tel",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "U.S. Commercial Service - U.S. Embassy",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UE Precision Sensors",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UI Helicopter",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "UNIMAX Global",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "UTECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "UTG",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Uconsystem",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Ulti-Mate Connector",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VADATECH",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VOLT Technology Development and Engineering",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "VU:T",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Van Halteren Defence",
-      "country": "Netherland"
+      "country": {
+        "text": "Netherland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Vessel",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Vishay Dale Connectors",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Vision Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Vitzromiltech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Viva",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "WILKO AERO",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Wave Tech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Winus R&A Co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Wireless Power Technology",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "WizenTech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Wonjae Industrial",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Woo Kyung Optics co., Ltd.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YEONHAB PRECISION CO., LTD.",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YJSTECH",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YUNJIN Apparel",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Yabes Enertech",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Young Falcons of Korea",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YoungPoong Electronics Co., Ltd",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "Zhuhai Airshow",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Ziwoo Information & Technology",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ecm berlin",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "i3system",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "iGIS",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "preci-dip connectors",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     }
   ]
 }

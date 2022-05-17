@@ -8,7 +8,12 @@
   "edition": "2014",
   "startDate": "2014-07-14",
   "endDate": "2014-07-15",
-  "address": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+  "address": {
+    "text": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.5005006,
+    "lon": -0.1290725
+  },
   "website": "http://securingasia.com/home.aspx",
   "organiser": [
     {
@@ -25,19 +30,19 @@
   "exhibitor": [
     {
       "name": "Eye watch",
-      "website": "http://eye-watch.in/"
+      "website": "http://eye-watch.in"
     },
     {
       "name": "Indianeye",
-      "website": "http://indianeyesecurity.com/"
+      "website": "http://indianeyesecurity.com"
     },
     {
       "name": "MIL-SIM-FX",
-      "website": "http://www.milsimfx.com/"
+      "website": "http://www.milsimfx.com"
     },
     {
       "name": "Westminster group plc",
-      "website": "http://www.wg-plc.com/"
+      "website": "http://www.wg-plc.com"
     }
   ]
 }

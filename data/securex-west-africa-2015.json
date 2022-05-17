@@ -4,8 +4,13 @@
   "edition": "2015",
   "startDate": "2015-03-24",
   "endDate": "2015-03-25",
-  "address": "Eko Hotel and Convention Centre\nLagos\nNigeria",
-  "website": "http://www.securexwestafrica.com/",
+  "address": {
+    "text": "Eko Hotel and Convention Centre\nLagos\nNigeria",
+    "iso2": "NG",
+    "lat": 6.426582799999999,
+    "lon": 3.4301132
+  },
+  "website": "http://www.securexwestafrica.com",
   "organiser": [
     {
       "name": "Afrocet Montgomery",

@@ -5,542 +5,946 @@
   "edition": "2014",
   "startDate": "2014-07-16",
   "endDate": "2014-07-18",
-  "address": "World Trade Center\nMetro Manila\nPhilippines",
-  "website": "https://www.adas.ph/",
+  "address": {
+    "text": "World Trade Center\nMetro Manila\nPhilippines",
+    "iso2": "PH",
+    "lat": 14.5510219,
+    "lon": 120.9872126
+  },
+  "website": "https://www.adas.ph",
   "exhibitorListUrl": "http://www.adas.ph/exhibition/exhibitor-list.html",
   "exhibitorListDate": "2022-01-28T15:32:07+00:00",
   "exhibitor": [
     {
       "name": "ABLOY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "AEROSPACE VENTURES MEA PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "AGUSTA WESTLAND",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIR TRACTOR",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRBUS DEFENCE & SPACE",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ARCTURUS UAV",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARINC AEROSPACE",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARMS CORPORATION OF THE PHILIPPINES",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "ARMSCOR PRECISION INTERNATIONAL",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARPA EMC S.A.U",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ASIAN DEFENCE DIPLOMACY (AD&D)",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ASIAN DEFENCE JOURNAL",
-      "country": "MALAYSIA"
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      }
     },
     {
       "name": "AURA, s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AVEC CHEM, s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AVON PROTECTION",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AXXONSOFT ASIA PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "BEECHCRAFT DEFENSE COMPANY",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "BELL HELICOPTER",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "BONDSTRONG PTY LTD",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "BRUKER DETECTION",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CESKA ZBROJOVKA",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "COMTECH SYSTEMS, INC",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "CONDOR NON LETHAL TECHNOLOGIES",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CORNER SHOT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "COUNTER TERRORISM PRACTITIONER PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "C-RICH CO., LTD",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CRISTANINI S.P.A.",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CTK INC",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "CZECH TRADE PROMOTION AGENCY / CZECHTRADE",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "DEFENCE AND SECURITY INDUSTRY ASSOCIATION OF THE CZECH REPUBLIC (DSIA)",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "DEFENSE AND PROTECTION SYSTEMS (PHILS), INC.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "DENALI GROUP INC.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "DFNS GROUP / ACHIDATEX NAZARETH ELITE 1977 LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "DONG IN OPTICAL CO., LTD.",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DUPONT PROTECTION TECHNOLOGIES",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "DYNAMIT NOBEL DEFENCE GmbH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EASAT ANTENNAS LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ECA ROBOTICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EGO ZLIN, SPOL. s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ELBIT SYSTEMS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "FALCON COMMUNICATIONS LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FENIX PROTECTOR",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "FILMETRICS CORPORATION",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "FLIR SYSTEMS",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "GILBOA",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "GLOBAL SECURITY ASIA (GSA 2015)",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "GOVERNMENT ARSENAL, DEPARTMENT OF NATIONAL DEFENSE",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "GUMARNY ZUBRI, AKCIOVA SPOLECNOST",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "HALE HAMILTON (VALVES) LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HDT GLOBAL",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "HYTERA COMMUNICATIONS CO.,LTD.",
-      "country": "CHINA"
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      }
     },
     {
       "name": "HYUNDAI HEAVY INDUSTRIES CO., LTD",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ICM X-RAY",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "IMI DEFENSE",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "INDO DEFENCE 2014 - PT. NAPINDO MEDIA ASHATAMA",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "INFOGLOBAL",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "INSITU PACIFIC",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "INSTRADE ASIA PACIFIC CORPORATION",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "ISRAEL AEROSPACE INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "JB DEXTRADE",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "JCB SALES ASIA PACIFIC PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "JSC \"KB RADAR\" - MANAGING COMPANY OF \"RADAR SYSTEMS\" HOLDING",
-      "country": "BELARUS"
+      "country": {
+        "text": "BELARUS",
+        "iso2": "BY"
+      }
     },
     {
       "name": "KESTRAL",
-      "country": "MALAYSIA"
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      }
     },
     {
       "name": "KIA MOTORS CORPORATION",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOREA AEROSPACE INDUSTRIES",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LIOR TEXTILE LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "LOCKHEED MARTIN-MST",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "LSV GLOBAL VENTURES, INC.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "LUNDIN",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "MAEP, s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "MAIN HARDWARE INC.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "MAKİNA VE KİMYA ENDÜSTRİSİ KURUMU ;MKEKͿ",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MDT- ARMOR",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "MENTARI SETIA SDN BHD",
-      "country": "MALAYSIA"
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      }
     },
     {
       "name": "MICRODATA SYSTEMS AND MANAGEMENT INC.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "MKU PVT LTD",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "NAVANTIA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "NEWCON OPTIK",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "NEXEYA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NIGHTLINE, INC.",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTH AMERICAN RESCUE",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTHWEST AERO SOLUTION INCORPORATED",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "OFFICCE OF TRANSPORTATION SECURITY (OTS)",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "OFFICE OF CIVIL DEFENCE",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "ONE COMMERCE ;INT’LͿ CORP.",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "ORITEST SPOL. s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "PANPISCO TECHNOLOGIES INC",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PHILIPPINE AIR FORCE",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PHILIPPINE ARMY",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PHILIPPINE COAST GUARD (PCG)",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PHILIPPINE NAVY",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PLATH GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "POONGSAN CORPORATION",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "PROPMECH CORPORATION",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "PT DIRGANTARA INDONESIA (PERSERO)",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "PT. PAL INDONESIA (PERSERO)",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "PYSER SGI",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "REMINGTON DEFENSE",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ GMBH & CO. KG",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RYCA PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SAAB ASIA PACIFIC CO., LTD",
-      "country": "THAILAND"
+      "country": {
+        "text": "THAILAND",
+        "iso2": "TH"
+      }
     },
     {
       "name": "SABA WIJAYA",
-      "country": "INDONESIA"
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      }
     },
     {
       "name": "SANCHEONG CO., LTD",
-      "country": "REPUBLIC OF KOREA"
+      "country": {
+        "text": "REPUBLIC OF KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SCANNA MSC LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SCS TECHNOLOGIES PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SECURITY RESOURCES",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "SEISMIC ASIA PACIFIC PTY LTD",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "SHEPHARD MEDIA",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SIBAT ISRAEL MINSTRY OF DEFENSE",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIKORSKY AIRCRAFT CORP",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "SILVER SHADOW",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SMART COMMUNICATIONS",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "SPECTEC TRADING",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "STONE OF DAVID CORPORATION",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "STX FRANCE SA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TERMA SINGAPORE PTE LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "TEXTRON AVIATION",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "THALES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THE MONCH PUBLISHING GROUP",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "THEON SENSORS S.A.",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "THERMO FISHER SCIENTIFIC",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "THERMOTEKNIX SYSTEMS LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TRADE AND INVESTMENT PROMOTION SECTION OF THE EMBASSY OF THE REPUBLIC OF POLAND",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TRIJICON",
-      "country": "UNITED STATES"
+      "country": {
+        "text": "UNITED STATES",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRITON COMMUNICATIONS CORPORATION",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "U.S. COMMERCIAL SERVICE, EMBASSY OF THE UNITED STATES OF AMERICA",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "UAB \"LITAK-TAK\"",
-      "country": "LITHUANIA"
+      "country": {
+        "text": "LITHUANIA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "ULTRA ELECTRONICS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "UNITED DEFENSE MANUFACTURING CORP",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "YUNG SUNG",
-      "country": "PHILIPPINES"
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      }
     },
     {
       "name": "ZBROJOVKA BRNO, s.r.o",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ZEPHYR, s.r.o.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     }
   ]
 }

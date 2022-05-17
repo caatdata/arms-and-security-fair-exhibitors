@@ -9,8 +9,13 @@
   ],
   "startDate": "2017-05-06",
   "endDate": "2017-05-08",
-  "address": "Olympia\nLondon\nUnited Kingdom",
-  "website": "https://www.eweurope.com/",
+  "address": {
+    "text": "Olympia\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4963566,
+    "lon": -0.2107637
+  },
+  "website": "https://www.eweurope.com",
   "organiser": {
     "name": "Clarion Defence & Security"
   },
@@ -19,26 +24,26 @@
   "exhibitor": [
     {
       "name": "Abaco",
-      "website": "http://www.abaco.com/"
+      "website": "http://www.abaco.com"
     },
     {
       "name": "Alaris Antennas",
-      "website": "http://www.alarisantennas.com/"
+      "website": "http://www.alarisantennas.com"
     },
     {
       "name": "American Power Systems",
-      "website": "https://www.americanpowerinc.com/"
+      "website": "https://www.americanpowerinc.com"
     },
     {
       "name": "ApisSys",
-      "website": "http://www.apissys.com/"
+      "website": "http://www.apissys.com"
     },
     {
       "name": "Atos"
     },
     {
       "name": "Babcock International Group",
-      "website": "http://www.babcockinternational.com/"
+      "website": "http://www.babcockinternational.com"
     },
     {
       "name": "BAE Systems",
@@ -46,15 +51,15 @@
     },
     {
       "name": "Boger Electronics GmbH",
-      "website": "http://www.boger-electronics.com/"
+      "website": "http://www.boger-electronics.com"
     },
     {
       "name": "Chemring Countermeasures",
-      "website": "http://www.chemringcm.com/"
+      "website": "http://www.chemringcm.com"
     },
     {
       "name": "Chemring Technology Solutions",
-      "website": "http://www.chemringts.com/"
+      "website": "http://www.chemringts.com"
     },
     {
       "name": "Cobham Antenna Systems",
@@ -62,23 +67,23 @@
     },
     {
       "name": "COJOT",
-      "website": "http://www.cojot.com/"
+      "website": "http://www.cojot.com"
     },
     {
       "name": "Communications Audit",
-      "website": "https://commsaudit.com/"
+      "website": "https://commsaudit.com"
     },
     {
       "name": "CRFS",
-      "website": "http://www.crfs.com/"
+      "website": "http://www.crfs.com"
     },
     {
       "name": "D-TA Systems",
-      "website": "http://www.d-ta.com/"
+      "website": "http://www.d-ta.com"
     },
     {
       "name": "Decodio",
-      "website": "http://www.decodio.com/"
+      "website": "http://www.decodio.com"
     },
     {
       "name": "DIT DEFENCE AND SECURITY ORGANISATION"
@@ -89,11 +94,11 @@
     },
     {
       "name": "ERA",
-      "website": "http://www.era.aero/"
+      "website": "http://www.era.aero"
     },
     {
       "name": "Esroe Ltd.",
-      "website": "http://www.esroe.com/"
+      "website": "http://www.esroe.com"
     },
     {
       "name": "ELTA Systems Ltd"
@@ -103,26 +108,26 @@
     },
     {
       "name": "ERZIA",
-      "website": "http://www.erzia.com/"
+      "website": "http://www.erzia.com"
     },
     {
       "name": "EW Simulation Technology"
     },
     {
       "name": "Galleon Embedded Computing",
-      "website": "http://www.galleonec.com/"
+      "website": "http://www.galleonec.com"
     },
     {
       "name": "GEW Technologies",
-      "website": "http://www.gew.co.za/"
+      "website": "http://www.gew.co.za"
     },
     {
       "name": "Glenair UK",
-      "website": "http://www.glenair.co.uk/"
+      "website": "http://www.glenair.co.uk"
     },
     {
       "name": "HENSOLDT",
-      "website": "http://detectandprotect.org/"
+      "website": "http://detectandprotect.org"
     },
     {
       "name": "Horizon Technologies",
@@ -134,19 +139,19 @@
     },
     {
       "name": "Interface Concept",
-      "website": "http://www.interfaceconcept.com/"
+      "website": "http://www.interfaceconcept.com"
     },
     {
       "name": "Innovation Integration",
-      "website": "http://www.innovative-dsp.com/"
+      "website": "http://www.innovative-dsp.com"
     },
     {
       "name": "Intersoft Electronics",
-      "website": "http://www.intersoft-electronics.com/"
+      "website": "http://www.intersoft-electronics.com"
     },
     {
       "name": "IQHQ",
-      "website": "http://www.iqhq.co.uk/"
+      "website": "http://www.iqhq.co.uk"
     },
     {
       "name": "IZT GmbH/ Log.In Ltd",
@@ -154,11 +159,11 @@
     },
     {
       "name": "Keysight Technologies",
-      "website": "http://www.keysight.com/"
+      "website": "http://www.keysight.com"
     },
     {
       "name": "Kirintec",
-      "website": "https://www.kirintec.com/"
+      "website": "https://www.kirintec.com"
     },
     {
       "name": "L-3 Technologies",
@@ -177,7 +182,7 @@
     },
     {
       "name": "LS telcom AG",
-      "website": "http://www.lstelcom.com/"
+      "website": "http://www.lstelcom.com"
     },
     {
       "name": "MASS",
@@ -185,15 +190,15 @@
     },
     {
       "name": "MC Countermeasures",
-      "website": "http://www.mc-cm.com/"
+      "website": "http://www.mc-cm.com"
     },
     {
       "name": "Metamagnetics",
-      "website": "http://www.mtmgx.com/"
+      "website": "http://www.mtmgx.com"
     },
     {
       "name": "Metis Aerospace",
-      "website": "http://www.metisaerospace.com/"
+      "website": "http://www.metisaerospace.com"
     },
     {
       "name": "National Instruments Corporation",
@@ -201,7 +206,7 @@
     },
     {
       "name": "Northrop Grumman",
-      "website": "http://www.northropgrumman.com/"
+      "website": "http://www.northropgrumman.com"
     },
     {
       "name": "Patria",
@@ -213,11 +218,11 @@
     },
     {
       "name": "PLATH GmbH",
-      "website": "http://www.plathgroup.com/"
+      "website": "http://www.plathgroup.com"
     },
     {
       "name": "PROCITEC",
-      "website": "http://www.procitec.de/"
+      "website": "http://www.procitec.de"
     },
     {
       "name": "QinetiQ",
@@ -225,7 +230,7 @@
     },
     {
       "name": "Raytheon Deutschland",
-      "website": "http://www.raytheon.com/"
+      "website": "http://www.raytheon.com"
     },
     {
       "name": "RFEL / Novator",
@@ -233,11 +238,11 @@
     },
     {
       "name": "Rockwell Collins",
-      "website": "http://www.rockwellcollins.com/"
+      "website": "http://www.rockwellcollins.com"
     },
     {
       "name": "Rohde & Schwarz",
-      "website": "https://signals.rohde-schwarz.com/"
+      "website": "https://signals.rohde-schwarz.com"
     },
     {
       "name": "RUAG Schweiz AG",
@@ -245,23 +250,23 @@
     },
     {
       "name": "SAAB",
-      "website": "http://www.saab.com/"
+      "website": "http://www.saab.com"
     },
     {
       "name": "Schönhofer Sales and Engineering",
-      "website": "http://www.schoenhofer.de/"
+      "website": "http://www.schoenhofer.de"
     },
     {
       "name": "SciEngines GmbH",
-      "website": "http://www.sciengines.com/"
+      "website": "http://www.sciengines.com"
     },
     {
       "name": "Steatite Ltd",
-      "website": "http://www.steatite.co.uk/"
+      "website": "http://www.steatite.co.uk"
     },
     {
       "name": "Teledyne Defence & Space",
-      "website": "http://www.teledynedefence.co.uk/"
+      "website": "http://www.teledynedefence.co.uk"
     },
     {
       "name": "Teledyne e2v",
@@ -273,15 +278,15 @@
     },
     {
       "name": "Thales Group",
-      "website": "http://www.thalesgroup.com/"
+      "website": "http://www.thalesgroup.com"
     },
     {
       "name": "Times Microwave",
-      "website": "http://www.timesmicrowave.com/"
+      "website": "http://www.timesmicrowave.com"
     },
     {
       "name": "TMD Technologies",
-      "website": "http://www.tmd.co.uk/"
+      "website": "http://www.tmd.co.uk"
     },
     {
       "name": "Work Microwave GmbH",
@@ -289,7 +294,7 @@
     },
     {
       "name": "Zeta Defense",
-      "website": "http://www.zetasavunma.com/"
+      "website": "http://www.zetasavunma.com"
     }
   ]
 }

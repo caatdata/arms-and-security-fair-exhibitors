@@ -4,7 +4,12 @@
   "edition": "2009",
   "startDate": "2009-11-17",
   "endDate": "2009-11-20",
-  "address": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
+  "address": {
+    "text": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
+    "iso2": "FR",
+    "lat": 48.8335509,
+    "lon": 2.2841096
+  },
   "website": "http://public-prod.milipol.timfair.com/Paris2009/welcome.php?lang=fr&page=home&divers",
   "organiser": [
     {

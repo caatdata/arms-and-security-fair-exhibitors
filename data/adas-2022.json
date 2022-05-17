@@ -5,16 +5,24 @@
   "edition": "2022",
   "startDate": "2022-04-27",
   "endDate": "2022-04-29",
-  "address": "World Trade Center\nMetro Manila\nPhilippines",
-  "website": "https://www.adas.ph/",
+  "address": {
+    "text": "World Trade Center\nMetro Manila\nPhilippines",
+    "iso2": "PH",
+    "lat": 14.5510219,
+    "lon": 120.9872126
+  },
+  "website": "https://www.adas.ph",
   "exhibitorListUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
   "exhibitorListDate": "2022-03-31T13:58:39+00:00",
   "exhibitor": [
     {
       "name": "4M SYSTEMS s.r.o.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.4msystems.cz/",
+      "website": "http://www.4msystems.cz",
       "category": [
         "Belts & Holsters",
         "Body Protection",
@@ -24,18 +32,24 @@
     },
     {
       "name": "A-Tech Security Systems AB",
-      "country": "SWEDEN",
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://a-techsecurity.com/",
+      "website": "http://a-techsecurity.com",
       "category": [
         "Reconnaissance & Surveillance Systems"
       ]
     },
     {
       "name": "ACCESSWE",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.accesswe.co.kr/",
+      "website": "http://www.accesswe.co.kr",
       "category": [
         "Drones & Systems",
         "Intelligence Surveillance Systems",
@@ -45,7 +59,10 @@
     },
     {
       "name": "AERO Vodochody AEROSPACE a.s.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -56,9 +73,12 @@
     },
     {
       "name": "AIRBUS",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.airbus.com/",
+      "website": "http://www.airbus.com",
       "category": [
         "Air Refuelling Systems",
         "Bombers & Systems",
@@ -73,7 +93,10 @@
     },
     {
       "name": "APAC EXPO - Cecelia",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -82,9 +105,12 @@
     },
     {
       "name": "ARQUIMEA",
-      "country": "SPAIN",
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.arquimea.com/",
+      "website": "http://www.arquimea.com",
       "category": [
         "Artificial Intelligence",
         "Command, Control, Communication & Information Systems",
@@ -100,9 +126,12 @@
     },
     {
       "name": "ARQUUS",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.arquus-defense.com/",
+      "website": "https://www.arquus-defense.com",
       "category": [
         "Ambulance",
         "Armoured Vehicles / Personnel Carriers",
@@ -116,9 +145,12 @@
     },
     {
       "name": "AlmaDK",
-      "country": "KAZAKHSTAN",
+      "country": {
+        "text": "KAZAKHSTAN",
+        "iso2": "KZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.almadk.kz/",
+      "website": "http://www.almadk.kz",
       "category": [
         "Ammunition",
         "Area Defence Systems",
@@ -127,7 +159,10 @@
     },
     {
       "name": "Armscor Global Defense, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -137,9 +172,12 @@
     },
     {
       "name": "Arsenal 2000 JSCo",
-      "country": "BULGARIA",
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.arsenal2000.com/",
+      "website": "http://www.arsenal2000.com",
       "category": [
         "Ammunition",
         "Assault Systems",
@@ -149,9 +187,12 @@
     },
     {
       "name": "Aselsan A.S",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://aselsan.com/",
+      "website": "http://aselsan.com",
       "category": [
         "Border Security Systems",
         "Command, Control, Communication & Information Systems",
@@ -167,9 +208,12 @@
     },
     {
       "name": "Askeri Fabriba ve Tersane İşletme A. Ş.",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.asfat.com.tr/",
+      "website": "http://www.asfat.com.tr",
       "category": [
         "Armour Composite Materials",
         "Armoured Vehicles / Personnel Carriers",
@@ -183,7 +227,10 @@
     },
     {
       "name": "Astrophysics Inc.",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -196,9 +243,12 @@
     },
     {
       "name": "Austal",
-      "country": "AUSTRALIA",
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://austal.com/",
+      "website": "http://austal.com",
       "category": [
         "Amphibious & Landing Craft",
         "Coast Guard Vessels & Specialist Systems",
@@ -209,7 +259,10 @@
     },
     {
       "name": "Boston Home Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -220,9 +273,12 @@
     },
     {
       "name": "Brahmos Aerospace",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.brahmos.com/",
+      "website": "http://www.brahmos.com",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Guided Weapons & Guidance Systems",
@@ -231,9 +287,12 @@
     },
     {
       "name": "CAMERO-TECH",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://camero-tech.com/",
+      "website": "http://camero-tech.com",
       "category": [
         "Emergency Preparedness & Response",
         "Police Equipment & Systems",
@@ -243,9 +302,12 @@
     },
     {
       "name": "CZ",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.czub.cz/",
+      "website": "http://www.czub.cz",
       "category": [
         "Ballistics",
         "Hand Guns & Small Arms",
@@ -254,9 +316,12 @@
     },
     {
       "name": "Chaiseri Metal & Rubber Co., Ltd",
-      "country": "THAILAND",
+      "country": {
+        "text": "THAILAND",
+        "iso2": "TH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.chaiseri-defense.com/",
+      "website": "http://www.chaiseri-defense.com",
       "category": [
         "Armoured Vehicles / Personnel Carriers",
         "Unmanned Ground Vehicles"
@@ -264,9 +329,12 @@
     },
     {
       "name": "ClassNK",
-      "country": "JAPAN",
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.classnk.com/",
+      "website": "https://www.classnk.com",
       "category": [
         "Coast Guard Vessels & Specialist Systems",
         "Fighting Ships",
@@ -277,9 +345,12 @@
     },
     {
       "name": "Cristanini S.p.A",
-      "country": "ITALY",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExh.aspx?o=VJatuql/3DDAXlbGmVkgCw==&e=DsJyN3edPFlj%7C%7CS6ZTHQkeQ==",
-      "website": "http://www.cristanini.com/",
+      "website": "http://www.cristanini.com",
       "category": [
         "Decontamination",
         "Emergency Preparedness & Response",
@@ -290,9 +361,12 @@
     },
     {
       "name": "Cukurova Defense",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.cukurovadefence.com/",
+      "website": "http://www.cukurovadefence.com",
       "category": [
         "Drones & Systems",
         "Simulation Systems",
@@ -301,9 +375,12 @@
     },
     {
       "name": "DSA EXHIBITION AND CONFERENCE SDN BHD",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.dsaexhibition.com/",
+      "website": "http://www.dsaexhibition.com",
       "category": [
         "Organization",
         "Publications & Media"
@@ -311,9 +388,12 @@
     },
     {
       "name": "DSME (Daewoo Shipbuilding & Marine Engineering)",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.dsme.co.kr/",
+      "website": "http://www.dsme.co.kr",
       "category": [
         "Fighting Ships",
         "Mines & Countermeasure Systems",
@@ -326,9 +406,12 @@
     },
     {
       "name": "DYNAMIC GROUP",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.dynamicpower.ph%3Bdynacast.ph%3Bdynacastshipyard.ph%3Bdm8composites.ph/",
+      "website": "http://www.dynamicpower.ph%3Bdynacast.ph%3Bdynacastshipyard.ph%3Bdm8composites.ph",
       "category": [
         "Armour Composite Materials",
         "Coast Guard Vessels & Specialist Systems",
@@ -340,9 +423,12 @@
     },
     {
       "name": "Defence Export Promotion Organization (DEPO)",
-      "country": "PAKISTAN",
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://depo.gov.pk/",
+      "website": "http://depo.gov.pk",
       "category": [
         "Ammunition",
         "Big Guns & Cannons",
@@ -353,7 +439,10 @@
     },
     {
       "name": "Diehl Defence GmbH & Co. KG",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -364,9 +453,12 @@
     },
     {
       "name": "ELDIS Pardubice, s.r.o.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.eldis.cz/",
+      "website": "http://www.eldis.cz",
       "category": [
         "Airbase Systems",
         "Command, Control, Communication & Information Systems",
@@ -375,9 +467,12 @@
     },
     {
       "name": "EMBRAER",
-      "country": "BRAZIL",
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.embraer.com.br/",
+      "website": "http://www.embraer.com.br",
       "category": [
         "Access Control & Management",
         "Aerial Defence Systems",
@@ -392,9 +487,12 @@
     },
     {
       "name": "EO SYSTEM",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.eosystem.com/",
+      "website": "http://www.eosystem.com",
       "category": [
         "Night Fighting Systems",
         "Night Vision Devices",
@@ -404,9 +502,12 @@
     },
     {
       "name": "EXCALIBUR ARMY spol. s r.o.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.excaliburarmy.cz/",
+      "website": "http://www.excaliburarmy.cz",
       "category": [
         "Amphibious Vehicles",
         "Armoured Vehicles / Personnel Carriers",
@@ -419,9 +520,12 @@
     },
     {
       "name": "EXPAL SYSTEMS S.A.",
-      "country": "SPAIN",
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.expalsystems.com/",
+      "website": "http://www.expalsystems.com",
       "category": [
         "Artillery, Mortar & Bomb Systems",
         "Bombers & Systems",
@@ -432,9 +536,12 @@
     },
     {
       "name": "Elbit Systems",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.elbitsystems.com/",
+      "website": "http://www.elbitsystems.com",
       "category": [
         "Artillery, Mortar & Bomb Systems",
         "Command, Control, Communication & Information Systems",
@@ -450,7 +557,10 @@
     },
     {
       "name": "Embassy of the Czech Republic in Manila",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http://mzv.cz/manila",
       "category": [
@@ -459,9 +569,12 @@
     },
     {
       "name": "Entegra Systems Company",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.entegra.ph/",
+      "website": "http://www.entegra.ph",
       "category": [
         "Access Control & Management",
         "Body-worn Cameras",
@@ -477,18 +590,24 @@
     },
     {
       "name": "Falcon Dynamics - Sweden",
-      "country": "SWEDEN",
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://falcondynamics.org/",
+      "website": "http://falcondynamics.org",
       "category": [
         "Police Equipment & Systems"
       ]
     },
     {
       "name": "GICAN",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.gican.asso.fr/",
+      "website": "http://www.gican.asso.fr",
       "category": [
         "Association",
         "Organization"
@@ -496,18 +615,24 @@
     },
     {
       "name": "GLOBAL BUSINESS PRESS PTE. LTD.",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExh.aspx?o=yYk/hM0TqG/kGJCltZljfw==&e=I4rVzyAv8YL6g%7C%7CCze093oQ==",
-      "website": "https://gbp.com.sg/",
+      "website": "https://gbp.com.sg",
       "category": [
         "Publications & Media"
       ]
     },
     {
       "name": "GLOCK Ges.m.b.H",
-      "country": "AUSTRIA",
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.glock.com/",
+      "website": "http://www.glock.com",
       "category": [
         "Hand Guns & Small Arms",
         "Police Equipment & Systems",
@@ -516,18 +641,24 @@
     },
     {
       "name": "General Dynamics Mission Systems",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://gdmissionsystems.com/",
+      "website": "http://gdmissionsystems.com",
       "category": [
         "Command, Control, Communication & Information Systems"
       ]
     },
     {
       "name": "Geospectrum Marketing Services",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.geospectrum.com.ph/",
+      "website": "http://www.geospectrum.com.ph",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Intelligence Surveillance Systems",
@@ -537,9 +668,12 @@
     },
     {
       "name": "HAVELSAN",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.havelsan.com.tr/",
+      "website": "http://www.havelsan.com.tr",
       "category": [
         "Aerial Defence Systems",
         "Airborne Early Warning Systems",
@@ -555,7 +689,10 @@
     },
     {
       "name": "Hanwha Systems",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -572,9 +709,12 @@
     },
     {
       "name": "Hindustan Aeronautics Ltd",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.hal-india.co.in/",
+      "website": "http://www.hal-india.co.in",
       "category": [
         "Combat Aircraft",
         "Engines",
@@ -585,7 +725,10 @@
     },
     {
       "name": "Hyundai Heavy Industries (HHI)",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -599,16 +742,22 @@
     },
     {
       "name": "I-Pro",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.i-pro.com/",
+      "website": "http://www.i-pro.com",
       "category": [
         "CCTV & Surveillance"
       ]
     },
     {
       "name": "ITHPP",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "https://www.ithpp-alcen.com/en",
       "category": [
@@ -617,9 +766,12 @@
     },
     {
       "name": "ITPS Canada",
-      "country": "CANADA",
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.itpscanada.com/",
+      "website": "http://www.itpscanada.com",
       "category": [
         "Simulation Systems",
         "Training Systems"
@@ -627,9 +779,12 @@
     },
     {
       "name": "ImageSat International",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.imagesatintl.com/",
+      "website": "https://www.imagesatintl.com",
       "category": [
         "Airborne Early Warning Systems",
         "Anti-Piracy Systems",
@@ -644,7 +799,10 @@
     },
     {
       "name": "Indefatigable Security System Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -660,18 +818,24 @@
     },
     {
       "name": "Invisiron PTE LTD",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.invisiron.com/",
+      "website": "http://www.invisiron.com",
       "category": [
         "Cybersecurity"
       ]
     },
     {
       "name": "Israel Aerospace Industries Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.iai.co.il/",
+      "website": "https://www.iai.co.il",
       "category": [
         "Aerial Defence Systems",
         "Airborne Early Warning Systems",
@@ -686,9 +850,12 @@
     },
     {
       "name": "Israel Shipyards Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.israel-shipyards.com/",
+      "website": "http://www.israel-shipyards.com",
       "category": [
         "Coast Guard Vessels & Specialist Systems",
         "Fighting Ships",
@@ -698,9 +865,12 @@
     },
     {
       "name": "Israel Weapon Industries (IWI)",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://iwi.net/",
+      "website": "http://iwi.net",
       "category": [
         "Body Protection",
         "Hand Guns & Small Arms",
@@ -716,9 +886,12 @@
     },
     {
       "name": "JISR Institute, a.s.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.jisr-institute.org/",
+      "website": "http://www.jisr-institute.org",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Cybersecurity",
@@ -734,9 +907,12 @@
     },
     {
       "name": "JSC ROSOBORONEXPORT",
-      "country": "RUSSIA",
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.roe.ru/",
+      "website": "http://www.roe.ru",
       "category": [
         "Aerial Defence Systems",
         "Ammunition",
@@ -752,7 +928,10 @@
     },
     {
       "name": "KDIA (Korea Defense Industry Association)",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -768,9 +947,12 @@
     },
     {
       "name": "KIA",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://special.kia.com/",
+      "website": "https://special.kia.com",
       "category": [
         "Armoured Vehicles / Personnel Carriers",
         "Special Operations Vehicles & Systems"
@@ -778,16 +960,22 @@
     },
     {
       "name": "Karel Electronics",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.karel.com.tr/",
+      "website": "http://www.karel.com.tr",
       "category": [
         "Command, Control, Communication & Information Systems"
       ]
     },
     {
       "name": "Korea Aerospace Industries (KAI)",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExh.aspx?o=9xDV7S5TFRo8Owh8MDWxfA==&e=1jILiOQ01sx7dXWCfy1WeQ==",
       "website": "http:",
       "category": [
@@ -797,9 +985,12 @@
     },
     {
       "name": "Kyungchang Industry",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.kyungchang.com/",
+      "website": "http://www.kyungchang.com",
       "category": [
         "Ballistics",
         "Body Protection",
@@ -809,9 +1000,12 @@
     },
     {
       "name": "L3Harris Technologies",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.l3harris.com/",
+      "website": "http://www.l3harris.com",
       "category": [
         "Antennae, Towers & Masts",
         "Command, Control, Communication & Information Systems",
@@ -826,9 +1020,12 @@
     },
     {
       "name": "LACROIX",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.lacroix-defense.com/",
+      "website": "https://www.lacroix-defense.com",
       "category": [
         "Area Defence Systems",
         "Electronic Sensors",
@@ -838,9 +1035,12 @@
     },
     {
       "name": "LIG Nex1",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.lignex1.com/",
+      "website": "http://www.lignex1.com",
       "category": [
         "Aerial Defence Systems",
         "Command, Control, Communication & Information Systems",
@@ -856,9 +1056,12 @@
     },
     {
       "name": "Larsen & Toubro Limited",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.larsentoubro.com/",
+      "website": "http://www.larsentoubro.com",
       "category": [
         "Area Defence Systems",
         "Armoured Vehicles / Personnel Carriers",
@@ -874,9 +1077,12 @@
     },
     {
       "name": "Lockheed Martin",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.lockheedmartin.com/",
+      "website": "https://www.lockheedmartin.com",
       "category": [
         "Combat Aircraft",
         "Helicopters"
@@ -884,9 +1090,12 @@
     },
     {
       "name": "MAK Technologies",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://mak.com/",
+      "website": "http://mak.com",
       "category": [
         "Drones & Systems",
         "Simulation Systems",
@@ -895,9 +1104,12 @@
     },
     {
       "name": "MAKİNE VE KİMYA ENDÜSTRİSİ INC. (MKE)",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.mke.gov.tr/",
+      "website": "https://www.mke.gov.tr",
       "category": [
         "Aerial Defence Systems",
         "Ammunition",
@@ -910,9 +1122,12 @@
     },
     {
       "name": "MBDA",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.mbda-systems.com/",
+      "website": "http://www.mbda-systems.com",
       "category": [
         "Aerial Defence Systems",
         "Missiles & Systems"
@@ -920,9 +1135,12 @@
     },
     {
       "name": "MEPROLIGHT",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.meprolight.com/",
+      "website": "http://www.meprolight.com",
       "category": [
         "Infantry Soldier Systems",
         "Laser SystemsLaser Systems",
@@ -935,18 +1153,24 @@
     },
     {
       "name": "MILIPOL ASIA-PACIFIC / COMSEC ASIA 2022",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.milipolasiapacific.com%20%7C%20www.comsecasia.com/",
+      "website": "http://www.milipolasiapacific.com%20%7C%20www.comsecasia.com",
       "category": [
         "Organization"
       ]
     },
     {
       "name": "MITSUBISHI ELECTRIC CORPORATION",
-      "country": "JAPAN",
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.mitsubishielectric.co.jp/",
+      "website": "https://www.mitsubishielectric.co.jp",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Electronic Sensors",
@@ -958,9 +1182,12 @@
     },
     {
       "name": "MKU GmbH",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.mku.com/",
+      "website": "http://www.mku.com",
       "category": [
         "Army Base Systems",
         "Ballistics",
@@ -976,9 +1203,12 @@
     },
     {
       "name": "MKU Limited",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.mku.com/",
+      "website": "http://www.mku.com",
       "category": [
         "Army Base Systems",
         "Ballistics",
@@ -994,9 +1224,12 @@
     },
     {
       "name": "Medtrends Distributors Corp.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.medtecsphilippines.com/",
+      "website": "http://www.medtecsphilippines.com",
       "category": [
         "Body Protection",
         "Fabrics & Accessories",
@@ -1007,9 +1240,12 @@
     },
     {
       "name": "Metravib Defence",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.metravib-defence.com/",
+      "website": "http://www.metravib-defence.com",
       "category": [
         "CCTV & Surveillance",
         "Electronic Sensors",
@@ -1020,9 +1256,12 @@
     },
     {
       "name": "MilSOFT Yazılım Teknolojileri A.Ş.",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.milsoft.com.tr/",
+      "website": "http://www.milsoft.com.tr",
       "category": [
         "Aerial Defence Systems",
         "Command, Control, Communication & Information Systems",
@@ -1037,16 +1276,22 @@
     },
     {
       "name": "Milkor",
-      "country": "SOUTH AFRICA",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.milkor.com/",
+      "website": "https://www.milkor.com",
       "category": [
         "Aerial Defence Systems"
       ]
     },
     {
       "name": "NAVANTIA",
-      "country": "SPAIN",
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "https://www.navantia.es/en/",
       "category": [
@@ -1064,9 +1309,12 @@
     },
     {
       "name": "Naval Group",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.naval-group.com/",
+      "website": "http://www.naval-group.com",
       "category": [
         "Drones & Systems",
         "Fighting Ships",
@@ -1082,9 +1330,12 @@
     },
     {
       "name": "North American Rescue LLC",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.narescue.com/",
+      "website": "http://www.narescue.com",
       "category": [
         "Belts & Holsters",
         "Fabrics & Accessories",
@@ -1095,9 +1346,12 @@
     },
     {
       "name": "Nurol Makina",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.nurolmakina.com.tr/",
+      "website": "http://www.nurolmakina.com.tr",
       "category": [
         "Armour Composite Materials",
         "Armoured Vehicles / Personnel Carriers",
@@ -1113,9 +1367,12 @@
     },
     {
       "name": "Nurol Technologies Inc.",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.nurolteknoloji.com/",
+      "website": "http://www.nurolteknoloji.com",
       "category": [
         "Armour Composite Materials",
         "Body Protection",
@@ -1126,18 +1383,24 @@
     },
     {
       "name": "OOSTO",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.oosto.com/",
+      "website": "http://www.oosto.com",
       "category": [
         "CCTV & Surveillance"
       ]
     },
     {
       "name": "OneMark Engineering Technologies",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.onemark.ph/",
+      "website": "http://www.onemark.ph",
       "category": [
         "Ambulance",
         "Medical Systems"
@@ -1145,9 +1408,12 @@
     },
     {
       "name": "Oneberry Technologies Pte Ltd",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.oneberry.com/",
+      "website": "http://www.oneberry.com",
       "category": [
         "CCTV & Surveillance",
         "Command, Control, Communication & Information Systems",
@@ -1156,9 +1422,12 @@
     },
     {
       "name": "Otokar Otomotiv ve Savunma Sanayi A.S.",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.otokar.com.tr/",
+      "website": "http://www.otokar.com.tr",
       "category": [
         "Amphibious Vehicles",
         "Armoured Vehicles / Personnel Carriers",
@@ -1169,18 +1438,24 @@
     },
     {
       "name": "P&C International",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://pandci.com/",
+      "website": "https://pandci.com",
       "category": [
         "Organization"
       ]
     },
     {
       "name": "PHOTONIS Group S.A.S",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.photonis.com/",
+      "website": "https://www.photonis.com",
       "category": [
         "Night Fighting Systems",
         "Night Vision Devices",
@@ -1190,7 +1465,10 @@
     },
     {
       "name": "Panpisco Technologies, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http://panpisco-technologies.com/defense-ph",
       "category": [
@@ -1208,9 +1486,12 @@
     },
     {
       "name": "Phantom Technologies",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://phantom-technologies.com/",
+      "website": "https://phantom-technologies.com",
       "category": [
         "Electronic Warfare & Countermeasures",
         "Jamming Systems"
@@ -1218,9 +1499,12 @@
     },
     {
       "name": "Philcox Phils. Inc",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.philcox.com/",
+      "website": "http://www.philcox.com",
       "category": [
         "Aerial Defence Systems",
         "Combat Aircraft",
@@ -1229,9 +1513,12 @@
     },
     {
       "name": "Philippine Space Agency",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://philsa.gov.ph/",
+      "website": "http://philsa.gov.ph",
       "category": [
         "Artificial Intelligence",
         "Government",
@@ -1241,7 +1528,10 @@
     },
     {
       "name": "Poongsan",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http://poongsan.co.kr/eng/",
       "category": [
@@ -1250,18 +1540,24 @@
     },
     {
       "name": "Presidency of the Republic of Türkiye Presidency of Defence Industries",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.ssb.gov.tr/",
+      "website": "http://www.ssb.gov.tr",
       "category": [
         "Government"
       ]
     },
     {
       "name": "Primetech Aero Defence and Logistics Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.primetech-aero.net/",
+      "website": "http://www.primetech-aero.net",
       "category": [
         "Amphibious & Landing Craft",
         "CBRN Surveillance & Protection",
@@ -1276,9 +1572,12 @@
     },
     {
       "name": "Propmech Corporation",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.propmech.com/",
+      "website": "http://www.propmech.com",
       "category": [
         "Cables, Connectors & Accessories",
         "Coast Guard Vessels & Specialist Systems",
@@ -1293,9 +1592,12 @@
     },
     {
       "name": "RTSys",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://rtsys.eu/",
+      "website": "https://rtsys.eu",
       "category": [
         "Marines Vehicles & Specialist Systems",
         "Mines & Countermeasure Systems",
@@ -1306,9 +1608,12 @@
     },
     {
       "name": "RUNFLAT TIRE SYSTEMS",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.runflat.in/",
+      "website": "http://www.runflat.in",
       "category": [
         "Amphibious Vehicles",
         "Armoured Vehicles / Personnel Carriers",
@@ -1320,9 +1625,12 @@
     },
     {
       "name": "Rafael",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExh.aspx?o=ad1u2y8ZEtuM3yI9VQkWjQ==&e=dp2ZmwRuiDzDhqafbdiv7A==",
-      "website": "http://www.rafael.co.il/",
+      "website": "http://www.rafael.co.il",
       "category": [
         "Aerial Defence Systems",
         "Area Defence Systems",
@@ -1335,9 +1643,12 @@
     },
     {
       "name": "Rayzone Group Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.rayzone.com/",
+      "website": "http://www.rayzone.com",
       "category": [
         "Antennae, Towers & Masts",
         "Command, Control, Communication & Information Systems",
@@ -1347,9 +1658,12 @@
     },
     {
       "name": "Rohde & Schwarz GmbH & Co. KG",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.rohde-schwarz.com/",
+      "website": "http://www.rohde-schwarz.com",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Cybersecurity",
@@ -1361,9 +1675,12 @@
     },
     {
       "name": "SAMSUN YURT SAVUNMA SAN. VE TIC. A.S.-CANIK",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.canikarms.com/",
+      "website": "http://www.canikarms.com",
       "category": [
         "Belts & Holsters",
         "Future Soldier Systems",
@@ -1379,9 +1696,12 @@
     },
     {
       "name": "SARSILMAZ SILAH SANAYI A.S",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.sarsilmaz.com/",
+      "website": "http://www.sarsilmaz.com",
       "category": [
         "Hand Guns & Small Arms",
         "Rifles & Machine Guns"
@@ -1389,18 +1709,24 @@
     },
     {
       "name": "SFC Energy AG",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.sfc.com/",
+      "website": "http://www.sfc.com",
       "category": [
         "Generators"
       ]
     },
     {
       "name": "SK GROUP",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://sk-g@net/",
+      "website": "http://sk-g@net",
       "category": [
         "Body Protection",
         "Hand Guns & Small Arms",
@@ -1416,9 +1742,12 @@
     },
     {
       "name": "SMPP Private Limited",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.smgroupindia.com/",
+      "website": "http://www.smgroupindia.com",
       "category": [
         "Ammunition",
         "Body Protection",
@@ -1427,18 +1756,24 @@
     },
     {
       "name": "SPECTEHNOMASH SPC LLC",
-      "country": "UKRAINE",
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.stmua.com/",
+      "website": "http://www.stmua.com",
       "category": [
         "Ammunition"
       ]
     },
     {
       "name": "STV GROUP a.s.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.stvgroup.cz/",
+      "website": "http://www.stvgroup.cz",
       "category": [
         "Ammunition",
         "Armoured Vehicles / Personnel Carriers",
@@ -1452,9 +1787,12 @@
     },
     {
       "name": "Saab",
-      "country": "SWEDEN",
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://saab.com/",
+      "website": "http://saab.com",
       "category": [
         "Airborne Early Warning Systems",
         "Combat Aircraft",
@@ -1465,9 +1803,12 @@
     },
     {
       "name": "Safer PH Innovations",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.safer.ph/",
+      "website": "http://www.safer.ph",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Datalink & Radio Systems",
@@ -1483,7 +1824,10 @@
     },
     {
       "name": "Safran Electronics and Defense",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "https://www.safran-group.com/companies/safran-electronics-defense",
       "category": [
@@ -1501,9 +1845,12 @@
     },
     {
       "name": "Safran Vectronix AG",
-      "country": "SWITZERLAND",
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.safran-vectronix.com/",
+      "website": "https://www.safran-vectronix.com",
       "category": [
         "Intelligence Surveillance Systems",
         "Night Vision Devices",
@@ -1515,18 +1862,24 @@
     },
     {
       "name": "Sentient Vision Systems",
-      "country": "AUSTRALIA",
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.sentientvision.com/",
+      "website": "https://www.sentientvision.com",
       "category": [
         "Intelligence Surveillance Systems"
       ]
     },
     {
       "name": "Silvus Technologies",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://silvustechnologies.com/",
+      "website": "https://silvustechnologies.com",
       "category": [
         "Datalink & Radio Systems",
         "Drones & Systems",
@@ -1536,9 +1889,12 @@
     },
     {
       "name": "SpetsTechnoExport",
-      "country": "UKRAINE",
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://spetstechnoexport.com/",
+      "website": "https://spetstechnoexport.com",
       "category": [
         "Armoured Vehicles / Personnel Carriers",
         "Cybersecurity",
@@ -1554,9 +1910,12 @@
     },
     {
       "name": "Systems Engineering and Assessment Ltd",
-      "country": "UNITED KINGDOM",
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.sea.co.uk/",
+      "website": "http://www.sea.co.uk",
       "category": [
         "Command, Control, Communication & Information Systems",
         "Decoy Systems",
@@ -1571,9 +1930,12 @@
     },
     {
       "name": "TAIS SHIPYARDS",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExh.aspx?o=G6oKYKhBhOCnv8uZvSwCjw==&e=c0aBj4S3KatMV1HX3T6rSA==",
-      "website": "http://www.taisshipyards.com/",
+      "website": "http://www.taisshipyards.com",
       "category": [
         "Amphibious & Landing Craft",
         "Inflatable Boats",
@@ -1584,9 +1946,12 @@
     },
     {
       "name": "TERMA",
-      "country": "DENMARK",
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.terma.com/",
+      "website": "http://www.terma.com",
       "category": [
         "Antennae, Towers & Masts",
         "Command, Control, Communication & Information Systems",
@@ -1599,9 +1964,12 @@
     },
     {
       "name": "THUNDER DEFENSE",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.thunderdefense.com/",
+      "website": "http://www.thunderdefense.com",
       "category": [
         "Ammunition",
         "Ballistics",
@@ -1617,9 +1985,12 @@
     },
     {
       "name": "TRD Consultancy Pte Ltd",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.trd.sg/",
+      "website": "http://www.trd.sg",
       "category": [
         "Aerial Defence Systems",
         "Command, Control, Communication & Information Systems",
@@ -1635,9 +2006,12 @@
     },
     {
       "name": "Theon Sensors",
-      "country": "GREECE",
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://www.theon.com/",
+      "website": "https://www.theon.com",
       "category": [
         "Night Vision Devices",
         "Optics & Optronics",
@@ -1646,18 +2020,24 @@
     },
     {
       "name": "UAV Factory",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "https://uavfactory.com/",
+      "website": "https://uavfactory.com",
       "category": [
         "Unmanned Air Vehicles"
       ]
     },
     {
       "name": "Uvision Air Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.uvisionuav.com/",
+      "website": "http://www.uvisionuav.com",
       "category": [
         "Aerial Defence Systems",
         "Missiles & Systems"
@@ -1665,18 +2045,24 @@
     },
     {
       "name": "VICTEK Co., Ltd",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.victek.co.kr/",
+      "website": "http://www.victek.co.kr",
       "category": [
         "Electronic Warfare & Countermeasures"
       ]
     },
     {
       "name": "Viatick Pte Ltd",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
-      "website": "http://www.viatick.com/",
+      "website": "http://www.viatick.com",
       "category": [
         "CCTV & Surveillance",
         "Command, Control, Communication & Information Systems"
@@ -1684,7 +2070,10 @@
     },
     {
       "name": "Woosung Sitek",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [
@@ -1696,7 +2085,10 @@
     },
     {
       "name": "Yeonhab Precision Co.,LTD.",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://www.event-reg.biz/OEM-2022-adas/OnlineExhListing.aspx",
       "website": "http:",
       "category": [

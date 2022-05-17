@@ -4,7 +4,12 @@
   "edition": "2005",
   "startDate": "2005-02-09",
   "endDate": "2005-02-13",
-  "address": "Yelahanka Air Force Station\nBenglauru\nIndia",
+  "address": {
+    "text": "Yelahanka Air Force Station\nBenglauru\nIndia",
+    "iso2": "IN",
+    "lat": 13.1372433,
+    "lon": 77.6102844
+  },
   "website": "https://aeroindia.gov.in",
   "exhibitorListUrl": "http://www.aeroindia.gov.in/indexhibitor.asp",
   "exhibitorListDate": "2005-01-13T05:07:19+00:00",
@@ -257,19 +262,31 @@
     },
     {
       "name": "ACUTRONIC",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "AERONAUTICS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AERONAUTICS DEFENCE SYSTEMS LTD",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AEROSPACE EQUIPMENT CORPORATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "AEROSTAR S.A",
@@ -277,295 +294,518 @@
     },
     {
       "name": "AEREA, SPA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIAD & MOD",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIRBUS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AMPEX DATA INT'L CORPN",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARIANE SPACE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASE, SPA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ATR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVIA EXPORT",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "AVITRONICS",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "BAE SYSTEMS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BOEING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BOMBARDIER",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CFM INTERNATIONAL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CL SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CONSORTIUM MIRAGE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CROUZET AUTOMATISMES SAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BELL HELICOPTER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DASSAULT AVIATION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELBIT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELETTEONICA ASTER",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ELISRA",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "EMBRAER",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EMIT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ESL",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FINMECCANICA COMMUNICATIONS AND INSTITUIONAL RELATIONS",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "GE AIRCRAFT ENGINES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GERMAN AIRFORCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GIFAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GRIPEN",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "GULFSTREAM",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "IAI",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IMI",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "INTERNATIONAL RECTIFIER",
-      "country": "HONG KONG"
+      "country": {
+        "text": "HONG KONG",
+        "iso2": "HK"
+      }
     },
     {
       "name": "IRKUT CORPORATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ITT INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "IUC INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JSC SATURN",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "JSC TBILAVIAMSHENT",
-      "country": "GEORGIA"
+      "country": {
+        "text": "GEORGIA",
+        "iso2": "GE"
+      }
     },
     {
       "name": "LOCKHEED MARTIN",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOGIC SYSTEM AVIONICS",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MCKHNIC AEROSPACE AFTERMARKET ASIA LTD",
-      "country": "HONG CONG"
+      "country": {
+        "text": "HONG CONG",
+        "iso2": "HK"
+      }
     },
     {
       "name": "MIG RAC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MOOG AIRCRAFT GROUP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MOTOR SICH JSC",
-      "country": "UKRAINE"
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      }
     },
     {
       "name": "NORTHROP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NPO SATURN",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ORBIT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PRESCIENTS SYSTEMS TECHNOLOGIES PVT LTD",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PRIME AEROSPACE",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "RAFAEL",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RAYTHEON",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RDI COMMUNICATIONS",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ROLLS ROYCE",
-      "country": "LONDON"
+      "address": {
+        "text": "LONDON",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      }
     },
     {
       "name": "ROSOBORONEXPORT",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RUSSIAN AVIATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SBAC",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SIBAT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIGNATURE INDUSTRIES LTD",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIKORSKY AIRCRAFT CORPN",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SNECMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SPECSYNERGY TECHNOLOGIES",
-      "country": "LONDON"
+      "address": {
+        "text": "LONDON",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      }
     },
     {
       "name": "STATE CORPN VECTOR",
-      "country": "UKRAINE"
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      }
     },
     {
       "name": "STORK FOKKER",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SUKHOI AVIATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "TASHKENT AIRCRAFT PRODUCTION CORP",
-      "country": "UZBEKISTAN"
+      "country": {
+        "text": "UZBEKISTAN",
+        "iso2": "UZ"
+      }
     },
     {
       "name": "TERIS A.S",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "THALES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THE AVIATION AND RADIO ELECTRONICS CAPITAL GROUP",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TRI TELECOM RESEARCH INSTITUTE (PIT)",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "UNITED TECHNOLOGIES CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US ARMED FORCES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US IBC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VSMPOI STORK",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     }
   ]
 }

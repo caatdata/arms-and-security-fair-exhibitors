@@ -5,7 +5,12 @@
   "alias": "Defence Procurement, Research, Technology & Exportability 2021",
   "startDate": "2021-10-05",
   "endDate": "2021-10-05",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUnited Kingdom",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "online": true,
   "website": "https://www.dprte.co.uk",
   "social": [
@@ -29,42 +34,42 @@
   "exhibitor": [
     {
       "name": "Adler and Allan",
-      "website": "https://www.adlerandallan.co.uk/"
+      "website": "https://www.adlerandallan.co.uk"
     },
     {
       "name": "ADS",
-      "website": "https://www.adsgroup.org.uk/"
+      "website": "https://www.adsgroup.org.uk"
     },
     {
       "name": "AECOM",
-      "website": "https://aecom.com/"
+      "website": "https://aecom.com"
     },
     {
       "name": "Air Commercial Team"
     },
     {
       "name": "Applied Integration",
-      "website": "https://www.appliedintegration.co.uk/"
+      "website": "https://www.appliedintegration.co.uk"
     },
     {
       "name": "The British Army",
-      "website": "https://www.army.mod.uk/"
+      "website": "https://www.army.mod.uk"
     },
     {
       "name": "ASL GRP",
-      "website": "https://www.aslgrp.com/"
+      "website": "https://www.aslgrp.com"
     },
     {
       "name": "Astute Electronics",
-      "website": "https://www.astute.global/"
+      "website": "https://www.astute.global"
     },
     {
       "name": "Australian Government, Department of Defence",
-      "website": "https://www1.defence.gov.au/"
+      "website": "https://www1.defence.gov.au"
     },
     {
       "name": "Axnes",
-      "website": "https://www.axnes.com/"
+      "website": "https://www.axnes.com"
     },
     {
       "name": "BAE Systems",
@@ -72,19 +77,19 @@
     },
     {
       "name": "Bastion",
-      "website": "http://www.bastionprotects.com/"
+      "website": "http://www.bastionprotects.com"
     },
     {
       "name": "Blue Tower Services Ltd",
-      "website": "https://bluetowerservices.co.uk/"
+      "website": "https://bluetowerservices.co.uk"
     },
     {
       "name": "BMT",
-      "website": "https://www.bmt.org/"
+      "website": "https://www.bmt.org"
     },
     {
       "name": "Oldbury UK",
-      "website": "https://www.boughtonengineering.com/"
+      "website": "https://www.boughtonengineering.com"
     },
     {
       "name": "Cambridge Consultants",
@@ -92,11 +97,11 @@
     },
     {
       "name": "CDS Defence & Security",
-      "website": "https://www.cdsds.uk/"
+      "website": "https://www.cdsds.uk"
     },
     {
       "name": "Centerprise International",
-      "website": "https://centerprise.co.uk/"
+      "website": "https://centerprise.co.uk"
     },
     {
       "name": "Clevertouch Technologies",
@@ -104,39 +109,39 @@
     },
     {
       "name": "CMCA(UK)",
-      "website": "https://www.cmcauk.co.uk/"
+      "website": "https://www.cmcauk.co.uk"
     },
     {
       "name": "Commerce Decisions",
-      "website": "https://commercedecisions.com/"
+      "website": "https://commercedecisions.com"
     },
     {
       "name": "Comptons 2000",
-      "website": "https://www.comptons2000.co.uk/"
+      "website": "https://www.comptons2000.co.uk"
     },
     {
       "name": "Costain",
-      "website": "https://www.costain.com/"
+      "website": "https://www.costain.com"
     },
     {
       "name": "CP Cases",
-      "website": "https://cpcases.com/"
+      "website": "https://cpcases.com"
     },
     {
       "name": "Cranfield",
-      "website": "https://www.cranfield.ac.uk/"
+      "website": "https://www.cranfield.ac.uk"
     },
     {
       "name": "Crown Commercial Service",
-      "website": "https://www.crowncommercial.gov.uk/"
+      "website": "https://www.crowncommercial.gov.uk"
     },
     {
       "name": "Cyber Essentials",
-      "website": "https://www.cyberessentialsonline.co.uk/"
+      "website": "https://www.cyberessentialsonline.co.uk"
     },
     {
       "name": "DE&S",
-      "website": "https://des.mod.uk/"
+      "website": "https://des.mod.uk"
     },
     {
       "name": "The Defence and Security Accelerator",
@@ -148,7 +153,7 @@
     },
     {
       "name": "MOD Defence Contracts Online",
-      "website": "https://www.contracts.mod.uk/"
+      "website": "https://www.contracts.mod.uk"
     },
     {
       "name": "The Defence Cyber Protection Partnership",
@@ -160,7 +165,7 @@
     },
     {
       "name": "Defence Online",
-      "website": "https://www.defenceonline.co.uk/"
+      "website": "https://www.defenceonline.co.uk"
     },
     {
       "name": "Dell",
@@ -168,11 +173,11 @@
     },
     {
       "name": "US Department of Defense",
-      "website": "https://dod.defense.gov/"
+      "website": "https://dod.defense.gov"
     },
     {
       "name": "Domino Clamps",
-      "website": "https://dominoclamps.com/"
+      "website": "https://dominoclamps.com"
     },
     {
       "name": "DSTL",
@@ -188,35 +193,35 @@
     },
     {
       "name": "G4S Fire & Security",
-      "website": "https://www.g4s.com/"
+      "website": "https://www.g4s.com"
     },
     {
       "name": "GallifordTry",
-      "website": "https://www.gallifordtry.co.uk/"
+      "website": "https://www.gallifordtry.co.uk"
     },
     {
       "name": "Gunnebo",
-      "website": "https://www.gunnebo.com/"
+      "website": "https://www.gunnebo.com"
     },
     {
       "name": "Hellios",
-      "website": "http://www.hellios.com/"
+      "website": "http://www.hellios.com"
     },
     {
       "name": "Helitune",
-      "website": "https://www.helitune.com/"
+      "website": "https://www.helitune.com"
     },
     {
       "name": "Ingleton Wood",
-      "website": "https://www.ingletonwood.co.uk/"
+      "website": "https://www.ingletonwood.co.uk"
     },
     {
       "name": "Ipeco",
-      "website": "https://www.ipeco.com/"
+      "website": "https://www.ipeco.com"
     },
     {
       "name": "Kingsfield",
-      "website": "https://www.kingsfieldit.com/"
+      "website": "https://www.kingsfieldit.com"
     },
     {
       "name": "Klöckner & co",
@@ -228,23 +233,23 @@
     },
     {
       "name": "KME",
-      "website": "http://www.kme.co.uk/"
+      "website": "http://www.kme.co.uk"
     },
     {
       "name": "Kongsberg Gruppen",
-      "website": "https://www.kongsberg.com/"
+      "website": "https://www.kongsberg.com"
     },
     {
       "name": "LCM Environmental",
-      "website": "https://www.lcmenvironmental.com/"
+      "website": "https://www.lcmenvironmental.com"
     },
     {
       "name": "Lincad",
-      "website": "https://www.lincad.co.uk/"
+      "website": "https://www.lincad.co.uk"
     },
     {
       "name": "Maxpack",
-      "website": "https://www.maxpack.co.uk/"
+      "website": "https://www.maxpack.co.uk"
     },
     {
       "name": "MOD",
@@ -252,27 +257,27 @@
     },
     {
       "name": "Megalift",
-      "website": "https://www.megalift.ie/"
+      "website": "https://www.megalift.ie"
     },
     {
       "name": "Mobile ATC",
-      "website": "http://www.mobileatc.com/"
+      "website": "http://www.mobileatc.com"
     },
     {
       "name": "MTJB Engineering",
-      "website": "https://www.mtjb-engineering.com/"
+      "website": "https://www.mtjb-engineering.com"
     },
     {
       "name": "MPI",
-      "website": "https://www.mpi.ltd.uk/"
+      "website": "https://www.mpi.ltd.uk"
     },
     {
       "name": "MSS Environmental",
-      "website": "http://www.themssgroup.co.uk/"
+      "website": "http://www.themssgroup.co.uk"
     },
     {
       "name": "National Composites Centre",
-      "website": "https://www.nccuk.com/"
+      "website": "https://www.nccuk.com"
     },
     {
       "name": "Navantia",
@@ -284,11 +289,11 @@
     },
     {
       "name": "NKT Photonics",
-      "website": "https://www.nktphotonics.com/"
+      "website": "https://www.nktphotonics.com"
     },
     {
       "name": "NP Aerospace",
-      "website": "https://www.npaerospace.com/"
+      "website": "https://www.npaerospace.com"
     },
     {
       "name": "Outdoor and Cycle Concepts",
@@ -296,7 +301,7 @@
     },
     {
       "name": "PASS Procurement",
-      "website": "https://www.passprocurement.co.uk/"
+      "website": "https://www.passprocurement.co.uk"
     },
     {
       "name": "Panasonic",
@@ -304,98 +309,98 @@
     },
     {
       "name": "PCB Piezotronics",
-      "website": "https://www.pcb.com/"
+      "website": "https://www.pcb.com"
     },
     {
       "name": "Multi-Mover UK",
-      "website": "https://www.pontoonanddock.com/"
+      "website": "https://www.pontoonanddock.com"
     },
     {
       "name": "Portakabin",
-      "website": "https://www.portakabin.co.uk/"
+      "website": "https://www.portakabin.co.uk"
     },
     {
       "name": "Primary Networks",
-      "website": "https://www.primarynetworks.co.uk/"
+      "website": "https://www.primarynetworks.co.uk"
     },
     {
       "name": "Pro-Roll Ltd",
-      "website": "http://www.pro-roll.co.uk/"
+      "website": "http://www.pro-roll.co.uk"
     },
     {
       "name": "Racking Solutions",
-      "website": "https://www.rackingsolutions.co.uk/"
+      "website": "https://www.rackingsolutions.co.uk"
     },
     {
       "name": "Rafnar",
-      "website": "https://www.rafnar.uk/"
+      "website": "https://www.rafnar.uk"
     },
     {
       "name": "REDS Group",
-      "website": "https://redsgroup.co.uk/"
+      "website": "https://redsgroup.co.uk"
     },
     {
       "name": "Rope and Sling Specialists Ltd",
-      "website": "https://www.ropeandsling.co.uk/"
+      "website": "https://www.ropeandsling.co.uk"
     },
     {
       "name": "Royal Navy",
-      "website": "https://www.royalnavy.mod.uk/"
+      "website": "https://www.royalnavy.mod.uk"
     },
     {
       "name": "RUD",
-      "website": "https://www.rud.co.uk/"
+      "website": "https://www.rud.co.uk"
     },
     {
       "name": "Securewest",
-      "website": "https://www.securewest.com/"
+      "website": "https://www.securewest.com"
     },
     {
       "name": "Service Graphics",
-      "website": "https://www.servicegraphics.co.uk/"
+      "website": "https://www.servicegraphics.co.uk"
     },
     {
       "name": "Slingsby",
-      "website": "https://www.slingsby.com/"
+      "website": "https://www.slingsby.com"
     },
     {
       "name": "Softcat",
-      "website": "https://www.softcat.com/"
+      "website": "https://www.softcat.com"
     },
     {
       "name": "Stahlwille Tools Ltd",
-      "website": "https://www.stahlwille.co.uk/"
+      "website": "https://www.stahlwille.co.uk"
     },
     {
       "name": "Stanley Security"
     },
     {
       "name": "Steatite",
-      "website": "https://www.steatite.co.uk/"
+      "website": "https://www.steatite.co.uk"
     },
     {
       "name": "Supply2Defence",
-      "website": "https://www.supply2defencetenders.com/"
+      "website": "https://www.supply2defencetenders.com"
     },
     {
       "name": "Team Leidos",
-      "website": "https://www.teamleidos.co.uk/"
+      "website": "https://www.teamleidos.co.uk"
     },
     {
       "name": "Tetra Tech",
-      "website": "https://www.tetratech.com/"
+      "website": "https://www.tetratech.com"
     },
     {
       "name": "TowFLEXX.",
-      "website": "https://towflexx.com/"
+      "website": "https://towflexx.com"
     },
     {
       "name": "Tri-Tech 3D",
-      "website": "https://www.tritech3d.co.uk/"
+      "website": "https://www.tritech3d.co.uk"
     },
     {
       "name": "Truvelo",
-      "website": "https://www.truvelouk.com/"
+      "website": "https://www.truvelouk.com"
     },
     {
       "name": "UK Defence & Security Exports",
@@ -407,7 +412,7 @@
     },
     {
       "name": "UKCloud",
-      "website": "https://ukcloud.com/"
+      "website": "https://ukcloud.com"
     },
     {
       "name": "Vodafone UK",
@@ -415,7 +420,7 @@
     },
     {
       "name": "Workspace Technology",
-      "website": "https://www.workspace-technology.com/"
+      "website": "https://www.workspace-technology.com"
     },
     {
       "name": "WorldFuel Services",

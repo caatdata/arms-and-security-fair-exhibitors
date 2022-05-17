@@ -8,8 +8,13 @@
   "edition": "2007",
   "startDate": "2007-06-05",
   "endDate": "2007-06-07",
-  "address": "Mostra d’Oltremare – International Congress Centre\nNaples\nItaly",
-  "website": "http://www.udt-europe.com/",
+  "address": {
+    "text": "Mostra d’Oltremare – International Congress Centre\nNaples\nItaly",
+    "iso2": "IT",
+    "lat": 40.8244867,
+    "lon": 14.1915723
+  },
+  "website": "http://www.udt-europe.com",
   "organiser": [
     {
       "name": "Nexus Media Communications Ltd"

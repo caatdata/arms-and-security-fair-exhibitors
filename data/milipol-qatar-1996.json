@@ -4,7 +4,12 @@
   "edition": "1996",
   "startDate": "1996-11-09",
   "endDate": "1996-11-12",
-  "address": "Qatar International Exhibition Center\nDoha\nQatar",
+  "address": {
+    "text": "Qatar International Exhibition Center\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.2827886,
+    "lon": 51.5261579
+  },
   "website": "http://www.milipol.com/anglais/qatar/statistiques/chiffres.html",
   "organiser": [
     {
@@ -17,15 +22,26 @@
   "exhibitor": [
     {
       "name": "3M",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "A2CM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABDULLAH ABDULGHANI & Bros. (TOYOTA)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "ACHIDATEX",
@@ -33,27 +49,51 @@
     },
     {
       "name": "ACMAT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AEROSPATIALE MISSILES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AHMED AL SALEH & SONS Co.",
-      "country": "KUW"
+      "country": {
+        "text": "KUW",
+        "iso2": "KW"
+      }
     },
     {
       "name": "AKZO NOBEL",
-      "country": "NDL"
+      "address": {
+        "text": "NDL",
+        "iso2": "GB",
+        "lat": 53.9243922,
+        "lon": -1.3742727
+      }
     },
     {
       "name": "AL BADI TRADING & Cont.  Co. Ltd",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "AL BATEEL TRADING Co",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "AL DEFAYA",
@@ -61,39 +101,72 @@
     },
     {
       "name": "AL MANA GROUP",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "AL MANA MOTORS",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "ALCATEL TELECOM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALFA-COLOMBES (via  STESA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALFARDAN AUTOMOBILES",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "ALIS (via SOFMA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AM GENERAL CORP (via Fahed Trading & Contracting)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMERICAN SCIENCE AND ENGINEERING (via MANNAI Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "APT (via International Security System Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ARAB DEFENCE JOURNAL",
@@ -101,7 +174,10 @@
     },
     {
       "name": "ARES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUDIOGARD INTERNATIONAL LTD",
@@ -109,55 +185,94 @@
     },
     {
       "name": "AV TECHNOLOGY International, LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVS (via C3S/Icare)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BACOU GROUP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BARRINGER INSTRUMENTS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BERLIET (via Camiva)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BIEFFE HELMETS",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BMW (via ALFARDAN Automobiles)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BOLLORE (via SOFRESA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BOSCH",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BOULEAUX S.A",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRITISH AEROSPACE DEFENCE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "C3S/ICARE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CAMIVA (via SOFMA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CARLTSO (via QATAR Trading)",
@@ -165,35 +280,59 @@
     },
     {
       "name": "CCI de L'AISNE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CCS INTERNATIONAL Ltd",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CGF GALLET (via SOFMA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHUBB FIRE (via International Gulf Trading Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CMN (Chantiers Mécaniques de Normandie)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CODUPAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COFREXPORT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMODITEX (BACOU Group)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CRYPTO AG (via MANOCONSULT)",
@@ -201,15 +340,24 @@
     },
     {
       "name": "DASSAULT AVIATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DASSAULT ELECTRONIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFENCE INDUSTRIES ORGANIZATION (DIO)",
-      "country": "IRA"
+      "country": {
+        "text": "IRA",
+        "iso2": "IE"
+      }
     },
     {
       "name": "DEFEX",
@@ -217,15 +365,26 @@
     },
     {
       "name": "DIGITAL EQUIPMENT (via MANNAI Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DLD",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "E T S (via MOTOROLA)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "E.N. BAZAN (via DEFEX)",
@@ -233,19 +392,33 @@
     },
     {
       "name": "EKONT",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "EL NAAEL COMPANY W.L.L",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "ELKOSTA (via International Security System Co)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ELNO (via SOFRESA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ENGINE ENGINEERING Co",
@@ -253,15 +426,26 @@
     },
     {
       "name": "ESSEGI srl",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "EUROMISSILE (via AEROSPATIALE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FAHED TRADING & CONTRACTING",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "FALKEN",
@@ -269,63 +453,118 @@
     },
     {
       "name": "FARGO ELECTRONICS  (via GET)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FEVAM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FICHET-BAUCHE (via MANNAI Trading Co.)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FUJIFILM",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "GAS EQUIPMENT & SERVICES Co",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "GATSO (via QATAR Ccommunications)",
-      "country": "NDL"
+      "address": {
+        "text": "NDL",
+        "iso2": "GB",
+        "lat": 53.9243922,
+        "lon": -1.3742727
+      }
     },
     {
       "name": "GBM / AL MANA Motors)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "GENERAL MONITORS (via QATAR Trading)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GENERAL MOTORS CORP.  (via MANNAI Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GET (Global Entreprise Technologies)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "GEUTEBRUCK (via Int'l Security Systems )",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GIAT INDUSTRIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GUINARD (via Camiva)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GULF CRAFT (via AL-BADI Trading & Cont. Co)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GUY COUACH PLASCOA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HAGOR",
@@ -333,47 +572,80 @@
     },
     {
       "name": "HALMATIC Ltd.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HARLEY DAVIDSON (Via RIDER Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HDE ROBOTICS GROUP (via Int'l Security Systems )",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HECKLER & KOCH (BAe Defence Group)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HEIMANN SYSTEMS GmbH",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HUGHES SERVICES SYSTEMS (via AL-Bateel Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HUNTING",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IBM (via GBM/ALMANA Motors )",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ICARE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IDENTICATOR (via GET)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "IDMATICS (THOMSON-CSF Group)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IES ELECTRONICS INDUSTRIES Ltd",
@@ -385,7 +657,10 @@
     },
     {
       "name": "IIV ENTERPRISES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INSTALAZA",
@@ -393,27 +668,49 @@
     },
     {
       "name": "INTERNATIONAL GULF TRADING Co",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "INTERNATIONAL SECURITY SYST.",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "INTERSEC",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "INVISION TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ION TRACK INSTRUMENTS (International Security System Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IRANIAN MINISTRY OF INTERIOR",
-      "country": "IRA"
+      "country": {
+        "text": "IRA",
+        "iso2": "IE"
+      }
     },
     {
       "name": "ISRAEL EXPORT INSTITUTE",
@@ -425,19 +722,31 @@
     },
     {
       "name": "KERMEL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KEYFILE (via GET)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KUWAIT INT'L GARMENT FACTORY Co.",
-      "country": "KUW"
+      "country": {
+        "text": "KUW",
+        "iso2": "KW"
+      }
     },
     {
       "name": "LABBE (via AL-MANA Motors)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LABOCK - ARMOR INDUSTRIES LTD",
@@ -445,31 +754,54 @@
     },
     {
       "name": "LAND & SEA (via Al Badi Trading & Contracting Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LEHMAN TRIKES Inc",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "LEROUX & LOTZ NAVAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LES HUTTES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LOGICA (via GET)",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "M/S SCANNA (via Al Bateel Trading Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MADELIN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MAGAL",
@@ -477,11 +809,19 @@
     },
     {
       "name": "MAHA EXPORT - FJR GmbH",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MANNAI TRADING COMPANY.",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "MANOCONSULT Hermann Oetiker",
@@ -489,31 +829,52 @@
     },
     {
       "name": "MARINE (via Al Badi Trading & Contracting Co)",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MATRA COMMUNICATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MEGASEAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MERCEDES-BENZ (via Fahed  Trading & Contracting Co)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "METEOREX (via Nasser Bin Khaled Al-Thani & Sons)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MOTOROLA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MTU (via nasser bin khaled & sons)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MULTANOVA (via TELCO International)",
@@ -521,23 +882,40 @@
     },
     {
       "name": "MULTIFORMA INDUSTRIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NASSER BIN KHALED & SONS",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "NBS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NEOTRONICS (via QATAR Trading)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NICO PYROTECHNIK",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NISSAN (via SALEH AL-HAMAD AL-MANA)",
@@ -545,83 +923,149 @@
     },
     {
       "name": "NOIRET-BOHIN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OCEA SA (via SOFRESA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OPEC (via International Security System Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ORGA (Saudi Technology & Communications Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PCSC (via International Security System Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PEUGEOT (via AL- MANA Motors)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PICARDIE REGION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PLASTIMO (via Al Badi Trading & Contracting Co)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "POMPES GUINARD",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PYROTECHNIE SAINT-NICOLAS (DGA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Q.G.P.C (Qatar General Petroleum Corporation)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "QATAR COMMUNICATIONS Ltd.",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "QATAR TRADING",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "RACAL SECURITY GROUP",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RADAR LEATHER DIVISION s.r.l.",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RAIDCO MARINE INT. ( via Leroux & Lotz Group)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RAPISCAN SECURITY PRODUCT (via QATAR Communication)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RAYTEL SECURITY SYSTEMS (via QATAR Communication)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RAYTHEON ELECTRONICS SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RHONE-POULAINC - KERMEL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ROAL",
@@ -629,43 +1073,79 @@
     },
     {
       "name": "ROVER ( ALFARDAN Automobiles)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROYAL ORDNANCE (via BRITISH AEROSPACE DEF.)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RUGGIERI TECHNOLOGIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAGEM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SALEH AL-HAMAD AL-MANA Co. (NISSAN)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "SAUDI COMMERCIAL INDUSTRIAL Co (S.C.I.C)",
-      "country": "SAU"
+      "address": {
+        "text": "SAU",
+        "iso2": "IN",
+        "lat": 28.5852347,
+        "lon": 77.19023020000002
+      }
     },
     {
       "name": "SAUDI TECHNOLOGY AND COMMUNICATIONS",
-      "country": "SAU"
+      "address": {
+        "text": "SAU",
+        "iso2": "IN",
+        "lat": 28.5852347,
+        "lon": 77.19023020000002
+      }
     },
     {
       "name": "SCANNA (via AL BATEEL Trading Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SCHUBB FIRE (via Int'l Gulf Trading Co)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SCHUBERTH HELME",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCINTREX Ltd.",
@@ -677,43 +1157,73 @@
     },
     {
       "name": "SENSORMATIC (via Int'l Security Systems )",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SFIM TRAFIC TRANSPORT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIEMENS NIXDORF (via  GET)",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SKYSHIP",
-      "country": "via Saudi techology & Communication Co (UK"
+      "country": {
+        "text": "via Saudi techology & Communication Co (UK",
+        "iso2": "SA"
+      }
     },
     {
       "name": "SOFINFRA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFMA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFRESA GROUP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOGEDEX (via QATAR Communication)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOGERA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SP DEFENSE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SSANGYONG (via EL NAAEL Company)",
@@ -725,11 +1235,19 @@
     },
     {
       "name": "STESA",
-      "country": "SAU"
+      "address": {
+        "text": "SAU",
+        "iso2": "IN",
+        "lat": 28.5852347,
+        "lon": 77.19023020000002
+      }
     },
     {
       "name": "STOPSON CREATIONS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SUMITOMO TIRES (Abdullah Abdulghani & Bros)",
@@ -737,11 +1255,17 @@
     },
     {
       "name": "SYMBOL TECHNOLOGY (via GET)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "T.COM, L.P",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TEL - KAVIT LTD",
@@ -749,43 +1273,77 @@
     },
     {
       "name": "TELCO INTERNATIONAL",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "THE RIDER TRADING Co",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "THERMEDICS (via NASSER BIN KHALED & SONS)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THOMSON  TRAINING & SIMULATION",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "THOMSON-CSF COMMUNICATIONS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF Missile Electronics",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF NCS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF Optronique",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF Sécurité",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TITANITE SA (via SOFRESA)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TOPPAN PRINTING  (via GET)",
@@ -797,7 +1355,10 @@
     },
     {
       "name": "TRIMBLE (via MANNAI Trading Co)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UTEXBEL S.A",
@@ -805,15 +1366,24 @@
     },
     {
       "name": "UTSCH",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "VOLVO PENTA  (via AL-BADI Trading & Cont. Co)",
-      "country": "SWE"
+      "country": {
+        "text": "SWE",
+        "iso2": "SE"
+      }
     },
     {
       "name": "WESTERN STAR TRUCKS Inc ( Abdullah Abdulghani & Bros)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "YAMAHA ( via AL-BADI Trading Cont. Co)",

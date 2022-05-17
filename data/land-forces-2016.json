@@ -4,7 +4,12 @@
   "edition": "2016",
   "startDate": "2016-09-06",
   "endDate": "2016-09-08",
-  "address": "Adelaide Convention Centre\nAustralia",
+  "address": {
+    "text": "Adelaide Convention Centre\nAustralia",
+    "iso2": "AU",
+    "lat": -34.9207998,
+    "lon": 138.5952676
+  },
   "website": "https://landforces.com.au/Index.asp",
   "social": [
     {
@@ -30,20 +35,33 @@
   "exhibitor": [
     {
       "name": "360 Defence",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "360 Trading Pty Ltd",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "3M Australia Pty Ltd",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "7TG",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "A & B Welding Pty Ltd",
@@ -52,213 +70,380 @@
     },
     {
       "name": "A. Noble & Son Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "AAL",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "Able Industries Engineering",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Adlink Technology Inc",
-      "country": "Taiwan"
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      }
     },
     {
       "name": "ADA Pty Ltd",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Advantage Wollongong",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Aero Parts Australia Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Aerospace Australia Limited",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Aerospace Maritime and Defence Foundation of Australia Limited",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "AeroVironment, Inc.",
-      "address": "CA",
-      "country": "United States"
+      "country": [
+        {
+          "text": "CA",
+          "iso2": "CA"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "Aimpoint",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Aimpoint",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "AIMPOINT AB",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Air Radiators",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Airbus DS Geo Australia",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Airbus DS Optronics GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Airbus Defence and Space",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Airbus Group Australia Pacific",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Airbus Helicopters",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Alakai",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "All Sat Communications",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Amaero Additive Manufacturing",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Amaero Engineering",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Amber Technology",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "AME Systems Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Amphenol Australia Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Amphenol Socapex",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Amphenol Fiber Systems",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "AMTEC CORPORATION",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Anywise Consulting",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "APC Technology",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Apex CLP Australia",
-      "address": "VIC`",
-      "country": "Australia"
+      "address": {
+        "text": "VIC`",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Approval Specialists Pty. Limited",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Aquaterro",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "AQYR Technologies",
-      "address": "NH",
-      "country": "United States"
+      "address": {
+        "text": "NH",
+        "iso2": "US",
+        "lat": 43.1938516,
+        "lon": -71.5723953
+      }
     },
     {
       "name": "Arc'Teryx Equipment",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARGON ELECTRONICS (UK) LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Argosy Partners",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Armor Australia Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "ASC",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Asesepänliike Ase Utra Oy",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Asia Pacific Defence Reporter",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "AST",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "ATEK PTY LTD",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Ausimtech",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "AUSTEST LABORATORIES",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Australian + New Zealand Defence Directory",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Australian Army \"Future Army\"",
@@ -267,13 +452,21 @@
     },
     {
       "name": "Australian Automotive Research Centre",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Australian Defence Apparel (ADA)",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Australian Defence Business Review (Phantom Media)",
@@ -282,186 +475,329 @@
     },
     {
       "name": "Australian Defence Force",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Australian Defence Magazine",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Australian Industry & Defence Network",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Australian Industry & Defence Network (AIDN)- VIC/SA/NT/QLD",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Australian Target Systems Pty Ltd (ATS)",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Austrian Trade Commission",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AVI",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "AVON PROTECTION SYSTEMS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AVS",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Axalta Coating Systems",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Axiom Precision Manufacturing",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "BAC Systems",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "BAE Systems Australia",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Baker Ballistics",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Ballistic & Mechanical Testing",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Barrett",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Bell Helicopter",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Belleville Boot Company",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Benelec Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Beretta Defense Technologies",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Bisalloy Steels Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "BLA Distribution",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "BlackBox Biometrics, Inc.",
-      "address": "NY",
-      "country": "United States"
+      "address": {
+        "text": "NY",
+        "iso2": "US",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+      }
     },
     {
       "name": "Blueye Eyewear Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Boeing Defence Australia Limited",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Bohemia Interactive Australia Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "BOXER, ME",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Braemac Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Breezer Mobile Cooling",
-      "address": "FL",
-      "country": "United States"
+      "address": {
+        "text": "FL",
+        "iso2": "US",
+        "lat": 27.6648274,
+        "lon": -81.5157535
+      }
     },
     {
       "name": "Broadspectrum",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Bruck Textiles Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "BRUHN NEWTECH GROUP",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Bruns",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "Brunton Engineering",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "BullEx Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Byron Group",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "CAE Australia P/L",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "CAE Inc",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Cambridge Technologies",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Capability Matters",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Capability Systems Centre",
@@ -470,22 +806,37 @@
     },
     {
       "name": "Carbonicboats Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "CARBONIX",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Caterpillar Defence",
-      "address": "SHROPSHIRE",
-      "country": "United Kingdom"
+      "address": {
+        "text": "SHROPSHIRE",
+        "iso2": "GB",
+        "lat": 52.7063657,
+        "lon": -2.7417849
+      }
     },
     {
       "name": "Caterpillar Industry Solutions",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "CBG SYSTEMS",
@@ -494,17 +845,28 @@
     },
     {
       "name": "CCA Protect",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "CE & A Co Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Bartlett Manufacturing",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "CEA Technologies Pty Ltd",
@@ -513,52 +875,90 @@
     },
     {
       "name": "Century Engineering",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Century Products (SA) Pty Ltd",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "CeoTronics Inc",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Ceska Zbrojovka",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "CGB Precision Products Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Chemring Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Chemring Energetics UK",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Chemring Ordnance",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Chemring Techology Solutions",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Clarke & Severn Electronics",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "CleanSpace",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Clear Ballistics",
@@ -572,20 +972,33 @@
     },
     {
       "name": "Cobham",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Cobham Antenna Systems",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Codan Defence Electronics",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Codan Radio Communications / Minelab",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Codarra Advanced Systems",
@@ -594,16 +1007,26 @@
     },
     {
       "name": "Colt",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Colt",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Consilium Technology",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Core Equipment",
@@ -612,33 +1035,56 @@
     },
     {
       "name": "Cornell Design",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Covertex Ltd",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "CQC LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "C R Kennedy",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Craig International Ballistics",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "CRISTANINI S.P.A",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Cristek Interconnects",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Crowhurst Engineering",
@@ -647,40 +1093,69 @@
     },
     {
       "name": "CUBIC DEFENCE AUSTRALIA",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Curtiss Wright",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Custom Solutions",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "Customs Agency Services Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Daimler AG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Daronmont Technologies",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "DB Schenker",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Deakin University",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Defcon Technologies Group",
@@ -689,23 +1164,39 @@
     },
     {
       "name": "Defence Communications Ind P/L",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Defence Health Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Defence SA",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Defence Science Institute",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Department of Defence (CASG)",
@@ -724,81 +1215,146 @@
     },
     {
       "name": "Diamond Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Diehl BGT Defence",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Diehl Defence Holding GmbH",
-      "address": "BW",
-      "country": "Germany"
+      "address": {
+        "text": "BW",
+        "iso2": "GB",
+        "lat": 51.5142517,
+        "lon": -0.1021922
+      },
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIGINEXT",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DOK-ING D.O.O.",
-      "country": "Croatia"
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
     },
     {
       "name": "Donaldson Company",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Downs Sheet Metal",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Draeger",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "DRS Technologies Inc",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "DST DEFENCE SERVICE TRACKS GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DST Group",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "DTECH LABS",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Dynamic Shelter Solutions (Veldeman Australia)",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "e2v",
-      "address": "ESSEX",
-      "country": "United Kingdom"
+      "address": {
+        "text": "ESSEX",
+        "iso2": "GB",
+        "lat": 51.57424469999999,
+        "lon": 0.4856781
+      }
     },
     {
       "name": "Economic Development Partnership of North Carolina",
-      "address": "NC",
-      "country": "United States"
+      "address": {
+        "text": "NC",
+        "iso2": "US",
+        "lat": 35.7595731,
+        "lon": -79.01929969999999
+      }
     },
     {
       "name": "Elbit Systems Ltd",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Electro Optic Systems",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "ELPHINSTONE PTY LTD",
@@ -807,45 +1363,78 @@
     },
     {
       "name": "Emona Instruments",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "EnerSys Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Eniquest Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "ENSIGN-BICKFORD AEROSPACE & DEFENSE",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Entech Electronics",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Enterprise Geelong",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Environics Oy",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "EOS Defence Systems",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "EPE",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Evolving Workshop Technologies",
@@ -854,33 +1443,57 @@
     },
     {
       "name": "Eylex Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Ezy-Fit Engineering Group",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Ezy-Fit Marine",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Faun Trackway Limited",
-      "address": "North Wales",
-      "country": "United Kingdom"
+      "address": {
+        "text": "North Wales",
+        "iso2": "GB",
+        "lat": 53.0711149,
+        "lon": -3.8080783
+      }
     },
     {
       "name": "Favcote Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Ferra Engineering",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "FLIR Systems",
@@ -889,8 +1502,12 @@
     },
     {
       "name": "FN HERSTAL",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "FORAGER FOODS PTY LTD",
@@ -899,73 +1516,132 @@
     },
     {
       "name": "Form Cut Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Frazer-Nash Consultancy Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Frontline Safety Australia Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "G&A America, LLC",
-      "address": "NC",
-      "country": "United States"
+      "address": {
+        "text": "NC",
+        "iso2": "US",
+        "lat": 35.7595731,
+        "lon": -79.01929969999999
+      }
     },
     {
       "name": "G.H Varley",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Galleon Embedded Computing",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Garrett Australia",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Geelong Defence Alliance",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "General Atomics Aeronautical Systems Inc",
-      "address": "CA",
-      "country": "United States"
+      "country": [
+        {
+          "text": "CA",
+          "iso2": "CA"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "General Dynamics Ordnance and Tactical Systems",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Dynamics Land Systems (GDLS) - Australia",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "General Dynamics Land Systems (GDLS) - Canada",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "General Dynamics European Land Systems",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Geoplex",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Getac Technology Corp",
-      "country": "Taiwan"
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      }
     },
     {
       "name": "GHD",
@@ -974,40 +1650,69 @@
     },
     {
       "name": "GKM Consulting",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Global Communication Technology LLC",
-      "address": "NC",
-      "country": "United States"
+      "address": {
+        "text": "NC",
+        "iso2": "US",
+        "lat": 35.7595731,
+        "lon": -79.01929969999999
+      }
     },
     {
       "name": "GLOBAL COMMUNICATION TECHNOLOGY LLC.",
-      "address": "NC",
-      "country": "United States"
+      "address": {
+        "text": "NC",
+        "iso2": "US",
+        "lat": 35.7595731,
+        "lon": -79.01929969999999
+      }
     },
     {
       "name": "Global Defence Solutions",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Grycol International Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Habia Cable",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Handheld Europe AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Harris Corporation",
-      "address": "NY",
-      "country": "United States"
+      "address": {
+        "text": "NY",
+        "iso2": "US",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+      }
     },
     {
       "name": "Hastings Deering Darwin",
@@ -1016,100 +1721,176 @@
     },
     {
       "name": "Heatlie BBQs",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Hellweg International Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Herron Security & Sport Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "HESCO BASTION LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Heuch",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Hiab Limited",
-      "address": "SHROPSHIRE",
-      "country": "United Kingdom"
+      "address": {
+        "text": "SHROPSHIRE",
+        "iso2": "GB",
+        "lat": 52.7063657,
+        "lon": -2.7417849
+      }
     },
     {
       "name": "Hide Away Safe Co",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Hirtenberger Defence Systems GmbH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "Holmwood Highgate",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Highgate Engineers",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Holmwood Group",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Huber & Suhner (Australia) Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "IAI Australia",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "ICC Ammo",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "iCOMBAT Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Ideation Product Solutions",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "IDES",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Image Line",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IMI Systems Ltd",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ImmersaView Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Industry Capability Network",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Industry Capability Network Northern Territory (ICN-NT)",
@@ -1118,107 +1899,188 @@
     },
     {
       "name": "Industry Defence and Secuirty Australia Limited",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Infratherm Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Inforce",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Inforce",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Innodisk",
-      "country": "Taiwan"
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      }
     },
     {
       "name": "Innovasys Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Insitu Inc",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Insitu Pacific Limited",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Integrated Design & Engineering Solutions P/L",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "INTEGRATED DESIGN & ENGINEERING SOLUTIONS P/L",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "INTERCONNECT SYSTEMS Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Intercorp",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Invenio Engineering Solutions",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "IrTactical",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Israel Aerospace Industries",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "J&H Williams",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "J3Seven Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "JCS Technologies, Inc.",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Jenkins Engineering Defence Systems",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "JUNGHANS MICROTEC GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KAB Seating Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Kadego",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Kallman Worldwide Inc",
-      "address": "NJ",
-      "country": "United States"
+      "address": {
+        "text": "NJ",
+        "iso2": "US",
+        "lat": 40.0583238,
+        "lon": -74.4056612
+      }
     },
     {
       "name": "Keisan Refrigeration",
@@ -1227,30 +2089,51 @@
     },
     {
       "name": "KELVIN HUGHES LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Kinetic Recruitment",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "KINEXUS",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "KNIGHT'S ARMAMENT COMPANY",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Kongsberg Protech Systems Australia Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Kontron Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Kord Defence Pty Ltd",
@@ -1259,78 +2142,136 @@
     },
     {
       "name": "KVH Industries",
-      "address": "RI",
-      "country": "United States"
+      "address": {
+        "text": "RI",
+        "iso2": "US",
+        "lat": 41.5800945,
+        "lon": -71.4774291
+      }
     },
     {
       "name": "L-3 Communications Australia Ltd",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "L-3 Communications",
-      "address": "NH",
-      "country": "United States"
+      "address": {
+        "text": "NH",
+        "iso2": "US",
+        "lat": 43.1938516,
+        "lon": -71.5723953
+      }
     },
     {
       "name": "L-3 Communications",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "L-3 Communications",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "L-3 GSC",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "L-3 Linkabit",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "L-3 Oceania",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "L-3 TRL Technology",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "L-3 WARRIOR SYSTEMS, INSIGHT TECHNOLOGY",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Land Air Sea Space Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Laserdyne Technologies",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "LASS",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "LED Autolamps",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "LED Technologies",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "LEGEAR Australia",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Lencom Antennas Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Leonardo",
@@ -1339,132 +2280,239 @@
     },
     {
       "name": "LES Australia Pty Ltd",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "Lightforce",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Lock Down Fixings Au & NZ",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Lockheed Martin",
-      "address": "FL",
-      "country": "United States"
+      "address": {
+        "text": "FL",
+        "iso2": "US",
+        "lat": 27.6648274,
+        "lon": -81.5157535
+      }
     },
     {
       "name": "Logistik Unicorp",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Logistic Solutions Australia",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "LOPAC",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Mackay Consolidated Industries",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Mackay Defence",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Marand",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Marathon Targets Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Marathon Tyres",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "MASA GROUP SA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Mason Grogan Industrial",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Mates4Mates",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "MBDA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Med-Eng",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Meggitt Training Systems",
-      "country": "United Systems"
+      "address": {
+        "text": "United Systems",
+        "iso2": "US",
+        "lat": 36.8198525,
+        "lon": -88.3673931
+      }
     },
     {
       "name": "Meggitt Training Systems Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Mercedes-Benz Australia Pacific Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Merlin Power Systems",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Metromatics",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Michael J Vogel & Associates",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Micreo Limited",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "MICROFLOWN AVISA",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Milspec Manufacturing Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Mobile Camera Security",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Mohoc Inc",
-      "address": "CA",
-      "country": "United States"
+      "country": [
+        {
+          "text": "CA",
+          "iso2": "CA"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "MOONRAKER AUSTRALIA",
@@ -1473,73 +2521,128 @@
     },
     {
       "name": "MoTeC Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Motivating Ideas",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Myriad Technologies",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Nammo Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Nammo",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "National Instruments Australia Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Navajo",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "NDZ Industries Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Neuplex",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "New Zealand Defence Industry Association",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "Nezkot Precision Tooling & Engineering",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Nightforce",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Nikon",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "NIOA",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Nobles",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Northern Territory Government",
@@ -1548,22 +2651,37 @@
     },
     {
       "name": "Northrop Grumman",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Northrop Grumman",
-      "address": "FL",
-      "country": "United States"
+      "address": {
+        "text": "FL",
+        "iso2": "US",
+        "lat": 27.6648274,
+        "lon": -81.5157535
+      }
     },
     {
       "name": "Nova Systems",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "NSW Department of Industry",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Nth Degree",
@@ -1572,26 +2690,44 @@
     },
     {
       "name": "Oilpath",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Omni-tuff Group",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "On Duty Group",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "ONE SOURCE SOLUTIONS",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Optical Cable Corporation",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Optical Cable Corporation",
@@ -1600,55 +2736,100 @@
     },
     {
       "name": "OSS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Outdoor Sporting Agencies (OSA)",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Outdoor Tactical",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Owen International Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Palomar Display Products Inc",
-      "address": "CA",
-      "country": "United States"
+      "country": [
+        {
+          "text": "CA",
+          "iso2": "CA"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "Panasonic Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Paskal",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "PBA Defence - Ceska Zbrojovka",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "PEARSON ENGINEERING LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Pelican Products",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Penske Power Systems",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Perrott Engineering",
@@ -1657,34 +2838,58 @@
     },
     {
       "name": "Pewag Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Philips",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Phoenix Australasia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Phosfect",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Photonis Netherlands B.V",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Photonis Night Vision",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PITCH TECHNOLOGIES",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "PIXIA",
@@ -1693,23 +2898,39 @@
     },
     {
       "name": "PJ Bowers Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Platypus Outdoors Group Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Polaris Industries",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Power Breezer",
-      "address": "FL",
-      "country": "United States"
+      "address": {
+        "text": "FL",
+        "iso2": "US",
+        "lat": 27.6648274,
+        "lon": -81.5157535
+      }
     },
     {
       "name": "Power Concepts",
@@ -1718,61 +2939,107 @@
     },
     {
       "name": "Power Test",
-      "address": "WI",
-      "country": "United States"
+      "address": {
+        "text": "WI",
+        "iso2": "US",
+        "lat": 43.7844397,
+        "lon": -88.7878678
+      }
     },
     {
       "name": "PowerJump Technologies Australasia Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "PPG",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Primetake UK",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Project Performance International",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Pro-Motion Simulators Australia Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "PSM GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PWB Anchor Limited",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Qioptiq",
-      "address": "DENBIGHSHIRE",
-      "country": "United Kingdom"
+      "address": {
+        "text": "DENBIGHSHIRE",
+        "iso2": "GB",
+        "lat": 53.1842288,
+        "lon": -3.4224985
+      }
     },
     {
       "name": "Queensland Gaskets",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Queensland Government",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Quik Corp",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Radio Reconnaissance Technologies Inc.",
@@ -1781,37 +3048,64 @@
     },
     {
       "name": "Rafael",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Raytheon Elcan Optical Technologies",
-      "address": "ONTARIO",
-      "country": "Canada"
+      "address": {
+        "text": "ONTARIO",
+        "iso2": "CA",
+        "lat": 51.253775,
+        "lon": -85.3232139
+      }
     },
     {
       "name": "Red Cloud Ltd",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "Red Team",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "REDARC Electronics",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "RedBikini Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Refuel International",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Regulus Global",
@@ -1825,80 +3119,140 @@
     },
     {
       "name": "Rheinmetall AG - Corporate Sector Defence",
-      "address": "NRW",
-      "country": "Germany"
+      "address": {
+        "text": "NRW",
+        "iso2": "DE",
+        "lat": 51.43323669999999,
+        "lon": 7.661593799999999
+      }
     },
     {
       "name": "Rheinmetall Defence",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Rheinmetall Defence Australia",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rheinmetall Denel Munitions",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "Rheinmetall Land Systems",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rheinmetall MAN Military Vehicles",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rheinmetall Simulations Australia",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rheinmetall Weapons & Munitions",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Rhino Linings Austaliasia Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Risk Decisions Pty Ltd",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Rite in the Rain",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Rockwell Collins",
-      "address": "IA",
-      "country": "United States"
+      "address": {
+        "text": "IA",
+        "iso2": "US",
+        "lat": 41.8780025,
+        "lon": -93.097702
+      }
     },
     {
       "name": "ROC-SOLID TECHNOLOGIES",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Rohde & Schwarz (Australia)",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Rojone Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Ronson Gears",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Royal Wolf Trading Australia Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "RPDE",
@@ -1907,81 +3261,141 @@
     },
     {
       "name": "RS Components",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "RUAG Ammotec AG",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "RuggON Corporation",
-      "country": "Taiwan"
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      }
     },
     {
       "name": "Saab AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Saab Australia",
-      "address": "SA",
-      "country": "Australia"
+      "address": {
+        "text": "SA",
+        "iso2": "AU",
+        "lat": -30.0002315,
+        "lon": 136.2091547
+      }
     },
     {
       "name": "Saab Dynamics AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SafeSmart Access",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Safran Electronics & Defense",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFRAN PACIFIC",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "VECTRONIX",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "Sako",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "SANTOVA LOGISTICS PTY LTD",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Santova Logistics Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Savox Communications",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Schenker Australia Pty Ltd",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Schiebel",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "Scott Safety",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Sea to Summit (Camelbak)",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Security & Technology Services",
@@ -1990,45 +3404,78 @@
     },
     {
       "name": "Sekai Electronics",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "SemiConductor Devices",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Sig Sauer",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "SJS Trading Co.",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Small Arms Defense Journal",
-      "address": "NV",
-      "country": "United States"
+      "address": {
+        "text": "NV",
+        "iso2": "US",
+        "lat": 38.8026097,
+        "lon": -116.419389
+      }
     },
     {
       "name": "SMITHS DETECTION (AUSTRALIA)",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "SMS Omni-feed Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Snap-On Tools",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "SOLAR CUBE TECHNOLOGY",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Soldier On",
@@ -2037,83 +3484,143 @@
     },
     {
       "name": "SORD Australia",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Southern Cross Printed Electronics Ltd"
     },
     {
       "name": "Southern Seas Marine",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Spacecraft Components Corp.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Spearpoint Solutions and Technology Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Spill Station Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Staco Systems",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Standard or Specialised Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Steiner eOptics",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Steiner Optic",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Steyr Motors Australia",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Stirling Global Pty Ltd",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "Stott Industrial Supplies",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Strategic Armory Corps",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Supacat",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Supashock",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Surefire",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Synnex",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "SynQor Inc.",
@@ -2122,8 +3629,12 @@
     },
     {
       "name": "SYPAQ",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Systemware Pacific Pty Ltd",
@@ -2132,21 +3643,35 @@
     },
     {
       "name": "System 7 Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Tactical Electronics",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Tactical Support Equipment, Inc.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "TAE Gas Turbines Pty Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Tasmanian Government",
@@ -2155,37 +3680,63 @@
     },
     {
       "name": "TCRT Systems",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "TE CONNECTIVITY",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Thomas Warburton",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Tectonica",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Ted's Camera Stores",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "TenCate Protective Fabrics",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "TenCate Advanced Armour APAC",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "TenCate Advanced Armour Danmark",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "Textron Systems",
@@ -2194,35 +3745,60 @@
     },
     {
       "name": "Thales Global Services SAS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "The University of Newcastle",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "The Boeing Company",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Thomas Global Systems",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Thompson Couplings Ltd",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "ThoroughTec Simulation Pty Ltd",
-      "address": "WA",
-      "country": "Australia"
+      "address": {
+        "text": "WA",
+        "iso2": "AU",
+        "lat": -27.6728168,
+        "lon": 121.6283098
+      }
     },
     {
       "name": "Tidd Ross Todd Ltd",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "Tiger International - Precision Equipment Marketing Services Pty Ltd",
@@ -2236,12 +3812,19 @@
     },
     {
       "name": "Trimcast Products Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "TSE, Inc",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "U.S. Department of Commerce/OTEXA",
@@ -2255,84 +3838,148 @@
     },
     {
       "name": "Unitronix Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Varley",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "VEHiQA Intergrated Vehicle Intelligence",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Ventura Media Asia Pacific Pty Ltd",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Veolia Australia and New Zealand",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Victorian Defence Alliance - Land Systems",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Victorian State Government",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "Victorinox AG",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Volvo Group Governmental Sales Oceania",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Warsash Scientific",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Wave Computation Technologies Inc.",
-      "address": "NC",
-      "country": "United States"
+      "address": {
+        "text": "NC",
+        "iso2": "US",
+        "lat": 35.7595731,
+        "lon": -79.01929969999999
+      }
     },
     {
       "name": "Westbrands",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "WFEL LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "White Industries",
-      "address": "QLD",
-      "country": "Australia"
+      "address": {
+        "text": "QLD",
+        "iso2": "AU",
+        "lat": -22.575197,
+        "lon": 144.0847926
+      }
     },
     {
       "name": "Wilcox Industries",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Wiley X",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Winchester Australia Limited",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "XTEK",
@@ -2341,30 +3988,51 @@
     },
     {
       "name": "Yaffa Media",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Ytek Pty Ltd",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "ZCG Scalar",
-      "address": "VIC",
-      "country": "Australia"
+      "address": {
+        "text": "VIC",
+        "iso2": "AU",
+        "lat": -36.9847807,
+        "lon": 143.3906074
+      }
     },
     {
       "name": "ZF Services Australia",
-      "address": "NSW",
-      "country": "Australia"
+      "address": {
+        "text": "NSW",
+        "iso2": "AU",
+        "lat": -31.2532183,
+        "lon": 146.921099
+      }
     },
     {
       "name": "Zuken Singapore",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Zuken Singapore",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     }
   ]
 }

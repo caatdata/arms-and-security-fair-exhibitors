@@ -9,8 +9,13 @@
   ],
   "startDate": "2015-05-26",
   "endDate": "2015-05-28",
-  "address": "Stockholm Waterfront Congress Centre\nStockholm\nSweden",
-  "website": "http://www.eweurope.com/",
+  "address": {
+    "text": "Stockholm Waterfront Congress Centre\nStockholm\nSweden",
+    "iso2": "SE",
+    "lat": 59.3299581,
+    "lon": 18.0560312
+  },
+  "website": "http://www.eweurope.com",
   "organiser": {
     "name": "Clarion Defence & Security"
   },

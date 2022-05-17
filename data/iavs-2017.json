@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2017",
   "startDate": "2017-01-23",
   "endDate": "2017-01-26",
-  "address": "Twickenham Stadium\nLondon\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": "http://www.internationalarmouredvehicles.com",
   "social": [
     {

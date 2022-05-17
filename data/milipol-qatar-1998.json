@@ -4,7 +4,12 @@
   "edition": "1998",
   "startDate": "1998-10-07",
   "endDate": "1998-10-10",
-  "address": "Qatar International Exhibition Center\nDoha\nQatar",
+  "address": {
+    "text": "Qatar International Exhibition Center\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.2827886,
+    "lon": 51.5261579
+  },
   "website": "http://www.milipol.com/anglais/qatar/visiteurs/visiteurs.html",
   "organiser": [
     {
@@ -22,963 +27,1683 @@
   "exhibitor": [
     {
       "name": "A2CM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AAP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABDULLAH ABDULGHANI & BROS. CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "ACMAT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGLO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AHMED AL SALEH & SONS CO.  ( CCIA)",
-      "country": "KUWAIT"
+      "country": {
+        "text": "KUWAIT",
+        "iso2": "KW"
+      }
     },
     {
       "name": "AIR SURVEILLANCE VEHICULES LTD. (CROW LTD.)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AL AHLI BANK OF QATAR",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "AL BADI TRADING & CONTRACTING",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "AL BATEEL TRADING CO. W.L.L.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "AL DEFAIYA",
-      "country": "LEBANON"
+      "country": {
+        "text": "LEBANON",
+        "iso2": "LB"
+      }
     },
     {
       "name": "AL MISEHAL CO. LTD. (TRIMBLE)     (MANNAI)",
-      "country": "SAUDI ARABIA"
+      "country": {
+        "text": "SAUDI ARABIA",
+        "iso2": "SA"
+      }
     },
     {
       "name": "AL OTHAMAN TRAD. & CONTR. CO. ( AL BATEEL)",
-      "country": "SAUDI ARABIA"
+      "country": {
+        "text": "SAUDI ARABIA",
+        "iso2": "SA"
+      }
     },
     {
       "name": "AL SHAHWANI INDUSTRIAL COMPLEX",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "ALCATEL CIT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALIS (CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALLIEDSIGNAL ( US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALMANA MOTORS CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "ALVIS LOGISTICS Ltd. ( TRELCO)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ALVIS VEHICLES Ltd.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AM GENERAL CORPORATION (FAHED TRADING & CONTR.)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMERICAN SCIENCE &ENGINEERING (TRELCO)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ANTA INTERNATIONAL LTD.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ARAB DEFENSE JOURNAL",
-      "country": "LEBANON"
+      "country": {
+        "text": "LEBANON",
+        "iso2": "LB"
+      }
     },
     {
       "name": "ARES PROTECTION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASEC (AL BATEEL)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AUDI AG (GULF AUTOMOBILES & TRADING CO.)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AUDIOTEL INTERNATIONAL (TRELCO)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "B- JC (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BARRINGER (CCIV)",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "BCB (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BICC PYROTENAX LTD (AL SHAHWANI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BLUE SALON",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "BOULEAUX SA  (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRITISH AEROSPACE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CAMIVA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CARAT DUCHATELET (FAHED TRADING & CONTRACTING)",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "CCIV (CCI VAL D*OISE-YVELINES)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEYLINCO-CISCO SECURITY CORP. PRIVATE LTD.",
-      "country": "SRI LANKA"
+      "country": {
+        "text": "SRI LANKA",
+        "iso2": "LK"
+      }
     },
     {
       "name": "CHINA XINXING",
-      "country": "CHINA"
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CISCO (MANNAI)",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "CITROEN AUTOMOBILES (EL NAEEL CO.)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CIVIL DEFENSE DEPT.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "COFREXPORT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COLVIC CRAFT (QATAR PLAST)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COMPTON WEBB CAREERWEAR LTD. (TRELCO)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COUACH PLASCOA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CRODA KERR LTD (AL SHAHWANI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CROW Ltd.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CRYPTO AG",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "DAIMLER BENZ AG (GERMAN PAVILION)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DARWISH CONTRACTING CO. (KDS)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "DARWISH MECHANICAL & ELECTRICAL CO. (KDS)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "DASSAULT ELECTRONIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DATEL (ELNO - CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DATONG ELECTRONICS LTD. (ANTA)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DELTA FIRE PROTECTION",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "DENEL",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DENEL AVIATION",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DEPT. OF COASTS & BORDERS SECURITY",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "DESCHAMPS (SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEUTSCHE ELNO (ELNO - CCIV)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DGA/DCN RUELLE ( SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DLD SA (CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EASTERN TECHNICAL SERVICES",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "EDWARDS SYSTEMS TECHNOLOGY (DELTA)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EG & G ASTROPHYSICS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "EG & G MIDLE EAST",
-      "country": "SAUDI ARABIA"
+      "country": {
+        "text": "SAUDI ARABIA",
+        "iso2": "SA"
+      }
     },
     {
       "name": "EL NAAEL CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "ELKOSTA (QATAR SECURITY SYSTEMS CO.)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ELNO (CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELNO ELECTRA (ELNO - CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ERICH UTSCH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ERICSSON (KDS GROUP)",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ESDT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETABLISSEMENTS JOCQUIN (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EVIN RUDE MARINE ENGINES (RAFCO)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "F.B.I.I. (QATAR SECURITE SYSTEMS CO.)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FAHED TRADING & CONTRACTING",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "FATS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FEDERAL SIGNAL VAMA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "FICHET (MANNAI)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FIRE PROTECTION SYSTEM (DELTA)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FISHER SKYLIGHT (MIDD)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FORD (ALMANA MOTORS)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FOUR SEASONS SUNROOMS (MIDD)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GAILLON TEXTILES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GALERIE DUBAI (AL BATEEL)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GALLET ( SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GBM Gulf Business Machine",
-      "country": "BAHRAIN"
+      "country": {
+        "text": "BAHRAIN",
+        "iso2": "BH"
+      }
     },
     {
       "name": "GENERAL DYNAMICS ( US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GERMAN PAVILION (CCO)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GEUTEBRUCK (QATAR SECURITY SYSTEMS CO.)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GHANIM BIN SAAD AL SAAD & SONS GROUP",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "GIAT INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOBAL ENTERPRISE TECHNOLOGY",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "GLOBAL SECURITY SYSTEMS (AL BATEEL)",
-      "country": "JORDAN"
+      "country": {
+        "text": "JORDAN",
+        "iso2": "JO"
+      }
     },
     {
       "name": "GLOCK Ges.m.b.H.",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "GMVO GENERAL MOTOR CORPORATION (MANNAI)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GRYPHON GROUP",
-      "country": "KUWAIT"
+      "country": {
+        "text": "KUWAIT",
+        "iso2": "KW"
+      }
     },
     {
       "name": "GULF AUTOMOBILES & TRADING CO. (AUDI)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "GULF FIRE FIGHTING FOAM FACTORY (AL SHAHWANI)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "HALMATIC (FAHED TRADING & CONTRACTING)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HARRIS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HEIMANN (QATAR SECURITY SYSTEMS CO.)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HPS Haute Performance Systeme (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "I 2 LTD.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IDEX / TRIDEX (CODEX)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "IDS Intelligent Detection Systems",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "IMPRIMERIE NATIONALE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INDUSTRIAS TECNOS",
-      "country": "MEXIQUE"
+      "country": {
+        "text": "MEXIQUE",
+        "iso2": "MX"
+      }
     },
     {
       "name": "INTERSEC",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ION TRACK INSTRUMENTS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IRENCO (DIVISION OF DENEL)",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ISRAEL AIRCRAFT INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ISRAEL EXPORT INSTITUTE",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIBAT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "JAIDAH MOTORS & TRADING CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "KALLMAN ASSOCIATES (US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KASCO",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "KAWASAKI HEAVY EQUIPMENT (ABDULLAH ABDULGHANI)",
-      "country": "JAPAN"
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      }
     },
     {
       "name": "KDS GROUP OF COMPANIES",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "KENTRON (DIVISION OF DENEL)",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "KERMEL (NOIRET- BOHAIN CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KOLLSMAN INC  (US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KUWAIT International Garment Factory (CCIA)",
-      "country": "KUWAIT"
+      "country": {
+        "text": "KUWAIT",
+        "iso2": "KW"
+      }
     },
     {
       "name": "LES HUTTES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEXUS VEHICLES (ABDULLAH ABDULGHANI)",
-      "country": "JAPAN"
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      }
     },
     {
       "name": "L*OPTIQUE SCIENTIFIQUE (ELNO-CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LOUIT S.A.",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LR PARIS (CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LUKAS RESCUE EQUIPMENT (DELTA)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MANNAI CORPORATION",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MANNAI ENGINEERING CO. LTD. (MANNAI CORPORATION)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MANNAI MARINE CO. LTD. (MANNAI CORPORATION)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MANSAL OFFSHORE LTD. (MANNAI CORPORATION)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MANWEIR LTD. (MANNAI CORPORATION)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MANWIJS LTD. (MANNAI CORPORATION)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MARCONI ELECTRONIC SYSTEMS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MARINE DEVELOPMENT SERVICES",
-      "country": "OMAN"
+      "country": {
+        "text": "OMAN",
+        "iso2": "OM"
+      }
     },
     {
       "name": "MARINE EQUIPMENT (RAFCO)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MARINE TRADING & CONTRACTING",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MATRA NORTEL COMMUNICATIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MEED",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MERCEDES BENZ (GERMAN PAVILION)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MIDD INTERNATIONAL",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MIDEAST CONSTRUCTORS LTD. (MECON) (MANNAI)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MILIBANK (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MINISTRY OF INTERIOR (STATE OF QATAR)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MMC INTERNATIONAL B.V.",
-      "country": "HOLLAND"
+      "country": {
+        "text": "HOLLAND",
+        "iso2": "NL"
+      }
     },
     {
       "name": "MOBILE INFORMATIQUE (BOULEAUX)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MOTOROLA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MXM INTERNATIONAL LTD. (MANNAI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NASSER BIN KHALED AL THANI & SONS CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "NISSAN (SALEH ALHAMAD AL MANA CO. )",
-      "country": "JAPAN"
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      }
     },
     {
       "name": "NOIRET-BOHAIN (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OMC (HPS - CCIA)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "OSSCO CI ( ANTA)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "P.W. ALLEN (TRELCO)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PAINS WESSEX (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PGM PRECISION (SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PICARDIE REGION (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PMP (DIVISION OF DENEL)",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "POLICE REVIEW PUBLISHING",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PREMIER HAZARD",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PYRONIX  (QATAR SECURITY SYSTEMS CO.)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PYSER SGI",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "QATAR AIRWAYS",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR COMMUNICATIONS CO. LTD. (KDS)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR FIRE EXTINGUISHER FACTORY (AL SHAHWANI)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR GENERAL PETROLEUM CORP. (Q.G.P.C.)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR NATIONAL BANK",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR NATIONAL NAVIGATION & TRANSPORT CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR PLAST",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR PUBLIC TELECOMMUNICATIONS CORP. (Q.TEL)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR SECURITY SYSTEMS CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR SHOOTING ASSOCIATION",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR TECHNICAL INSPECTION CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "QATAR TELECARD (EASTEN TECHNICAL SERVICES)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "RACAL RECORDER (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RADAR LEATHER DIVISION",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RAFCO",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "RAPIDSCAN SECURITY SYSTEM (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RAYTEL SECURITY PRODUCTS LTD. (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RAYTHEON (US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RBR INTERNATIONAL LTD. (MANNAI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RCH REalisations Conseils Hyperbares  (CCIV)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RFD (KDS GROUP)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROSVOOROUZHENIE (RUSSIAN PAVILION)",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ROYAL ORDNANCE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RUSSIAN PAVILION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SAE ALSETEX  (SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFE BARRIER SYSTEM AB ( SOFEMA)",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SAIC (US PAVILION)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SALEH ALHAMAD AL MANA CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "SENSORMATIC (QATAR SECURITY SYSTEMS CO.)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SERT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIBAT (ISRAELI PAVILION)",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIDES (MANNAI)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIGIER-CAPELLE (SOFEMA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFEMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFREMI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFTWARE HOUSE  (QATAR SECURITY SYSTEMS CO.)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SOGEDEX (KDS GROUP)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOLAUFIL (CCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOROLEX (TEYSEER)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOUD BIN KHALID",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "SPECIAL SECURITY FORCES DEPT.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "SSANGYONG MOTOR COMPANY (EL NAAEL)",
-      "country": "KOREA"
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "STOPSON",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SUMITOMO TYRES (Abdullah Abdulghani)",
-      "country": "JAPAN"
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      }
     },
     {
       "name": "SWARTKLIP (DIVISION OF DENEL)",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "SWEDISH BODY ARMOUR GROUP",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "TECHNICAL SERVICES CO. LTD. (MANNAI CORP.)",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "TERRA FOOTWEAR",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "TEYSEER GROUP OF COMPANIES",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "THE COMMERCIAL & INDUSTRIAL Security CO.(MANNAI)",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "THE FIRE SAFETY ENGINEERING COLLEGE",
-      "country": "OMAN"
+      "country": {
+        "text": "OMAN",
+        "iso2": "OM"
+      }
     },
     {
       "name": "THE MIDDLE EAST",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "THE NATIONAL INTELLIGENCE ACADEMY",
-      "country": "WESTINGHOUSE (USA"
+      "country": {
+        "text": "WESTINGHOUSE (USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THE UNITED KINGDOM HYDROGRAPHIC OFFICE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "THOMSON-CSF",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF COMMUNICATIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF OPTRONIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THORN  (QATAR SECURITY SYSTEMS CO.)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TOYOTA MOTOR CORPORATION (Abdullah Abdulghani)",
-      "country": "JAPAN"
+      "country": {
+        "text": "JAPAN",
+        "iso2": "JP"
+      }
     },
     {
       "name": "TRELCO LTD. CO.",
-      "country": "QATAR"
+      "country": {
+        "text": "QATAR",
+        "iso2": "QA"
+      }
     },
     {
       "name": "TRIMBLE (MANNAI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "UK FIRE INTERNATIONAL (SHAHWANI)",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "US EMBASSY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US PAVILION (KALLMAN ASSOCIATES)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "USCL (GHANIM BIN SAAD)",
-      "country": "UAE"
+      "country": {
+        "text": "UAE",
+        "iso2": "AE"
+      }
     },
     {
       "name": "VEKTOR (DIVISION OF DENEL)",
-      "country": "SOUTH  AFRICA"
+      "country": {
+        "text": "SOUTH  AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "VOYAGER MARINE (QATAR NATIONAL NAVIGATION)",
-      "country": "BAHRAIN"
+      "country": {
+        "text": "BAHRAIN",
+        "iso2": "BH"
+      }
     },
     {
       "name": "WALTHER Sportwaffen (GERMAN PAVILION)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "WESTERN STAR TRUCKS (Abdullah Abdulghani)",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "WESTINGHOUSE AUDIO INTELLIGENCE DEVICES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "WORKMASTER PRODUCTS (TEYSEER)",
-      "country": "HONG KONG"
+      "country": {
+        "text": "HONG KONG",
+        "iso2": "HK"
+      }
     },
     {
       "name": "ZAEIM ELECTRONIC INDUSTRIES",
-      "country": "IRAN"
+      "country": {
+        "text": "IRAN",
+        "iso2": "IR"
+      }
     },
     {
       "name": "ZEISS, Carl Zeiss Jena gmbH (GERMAN PAVILION)",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     }
   ]
 }

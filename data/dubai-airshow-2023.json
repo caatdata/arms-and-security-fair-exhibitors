@@ -4,7 +4,12 @@
   "edition": "2023",
   "startDate": "2023-11-12",
   "endDate": "2023-11-16",
-  "address": "DWC\nThe Dubai Airshow Site\nJebel Ali\nDubai",
+  "address": {
+    "text": "DWC\nThe Dubai Airshow Site\nJebel Ali\nDubai",
+    "iso2": "AE",
+    "lat": 24.8952213,
+    "lon": 55.1386806
+  },
   "website": "https://www.dubaiairshow.aero",
   "social": [
     {

@@ -8,7 +8,12 @@
   "edition": "2017",
   "startDate": "2017-04-04",
   "endDate": "2017-04-07",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
   "website": "https://www.laadexpo.com.br",
   "social": [
     {
@@ -38,953 +43,1658 @@
   "exhibitor": [
     {
       "name": "3E",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "5.11 TACTICAL",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "A CASA DO BOMBEIRO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "A.S. AVIONICS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ABIMDE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ABRID (Media Display)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ACTION CARGO (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ADMIRALTY SHIPYARDS (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ADR (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADS GROUP LTD (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEL SISTEMAS S.A",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AEQ",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AERNNOVA (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AERO PRECISION (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AERO VODOCHODY AEROSPACE A.S.",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AEROSPACE BRAZIL CERTIFICATIONS (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AEROSPACE CLUSTER SWEDEN (Pavilhão Suécia)",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "AGRALE",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.agrale.com.br"
     },
     {
       "name": "AIAD",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIMPOINT ABAIMPOINT AB",
-      "country": "Sweden",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
       "website": "www.aimpoint.com"
     },
     {
       "name": "AIR LIQUIDE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AIRBUS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIRSENSE ANALYTICS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AIRSTEP ARMY",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AKAER ENGENHARIA S.A.",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ALARIS ANTENNAS (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ALASKA STRUCTURES (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALIT (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "ALLTEC COMPOSITES",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ALMA (Pavilhão China)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ALTAVE (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AM GENERAL (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMAZUL",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.marinha.mil.br/amazul/homepage"
     },
     {
       "name": "AMPHENOL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "APPLIED SYSTEMS",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "ARCHO SOLUTIONS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ARES AEROESPACIAL E DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ARESET (Czech Trade)",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ARGENTINA (Pavilhão Argentina)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ARMADA INTERNATIONAL (Media Display)",
-      "country": "Thailand"
+      "country": {
+        "text": "Thailand",
+        "iso2": "TH"
+      }
     },
     {
       "name": "ARMSCOR SOC LTD (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ARSENAL 2000 JSCO",
-      "country": "Bulgaria"
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      }
     },
     {
       "name": "ASELSAN (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ASMAR SHIPYARDS (Pavilhão Chile)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "ASSOCIAÇÃO PARQUE TECNOLÓGICO DE SÃO JOSÉ DOS CAMPOS (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ATLAS ELEKTRONIK (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AVEX BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AVIATION WEEK (Media Display)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIBRAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AVICOM ENGENHARIA (Pavilhão Estados Unidos)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AVINC INC./AEROVIRONMENT (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AXON CABLE (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "B&CO PUBLISHING HOUSE",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "BAE SYSTEMS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BARRETT FIREARMS (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BAT (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "BCA TEXTIL LTDA.",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BECKER AVIONICS (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BEIJING HEWEIYONGTAI SCI&TECH CO.,LTD (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "BÉLICA MILITAR/METAL PLASTEC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BELOMO HOLDING",
-      "country": "Belarus"
+      "country": {
+        "text": "Belarus",
+        "iso2": "BY"
+      }
     },
     {
       "name": "BERETTA (Pavilhão Itália)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BERIEV AIRCRAFT COMPANY (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "BERKUT TACTICAL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BETH (Pavilhão Rússia)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "BIOAMERICA",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BLUE FORCE GEAR (State of Georgia/Paviilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BMC (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "BOEING COMPANY (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BRAHMOS AEROSPACE",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "BRASIL AIRCRAFTS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BRASIMPEX",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BREEZE EASTERN",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BSDI (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "CAA",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CAE",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CAME DO BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CAMERO/SK GROUP (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CARABINEROS DE CHILE (Pavilhão Chile)",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CARACAL",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.caracalbrasil.com"
     },
     {
       "name": "CARMENTA (Pavilhão Suécia)",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "CBC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CDB ME/RUBIN/JSC (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "CECADE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CEIA S.P.A. - KRAFTONE DO BRASIL (Pavilhão Israel)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CELLEBRITE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CHINA PAVILION",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CLEMAR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CLIFF'S WAY AEROSPACE (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "CLIMATS (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COBALT LIGHT SYSTEMS (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COBHAM",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COLOMBIA PAVILION",
-      "country": "Colombia"
+      "country": {
+        "text": "Colombia",
+        "iso2": "CO"
+      }
     },
     {
       "name": "CONDOR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CONSUB DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CORDURA (INVISTA)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "COVIDENCE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CPMIEC (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CRISTANINI DO BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CROSSTER",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CSIR (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "CSOC (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CURTISS-WRIGHT (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "CYBAERO (Pavilhão Suécia)",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "CYBER SHIELDS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "CZECH REPUBLIC PAVILLION",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "CZECH TRADE",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "DAMEN SHIPYARDS",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DATRON (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DCD GROUP (Pavlhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DCNS (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DE REGT MARINE CABLES BV (Pavilhão Holanda)",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DEFENCE21 (Media Display)",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "DEFENSE FORCES (Media Display)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEFENSE HOUSE PUBLISHING (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEFENSEA CONSULTORIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DEFESANET",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DEO INDIA (Pavilhão India)",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "DEPARTMENT OF DEFENSE SECURITY COOPERATION (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEPO",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "DESERT TECH (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DESERT WOLF (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DFPC/SFPC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DGS DEFENCE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DIAGNOSTICS SOLUTIONS INTERNATIONAL",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DIEHL DEFENCE (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIT DEFENCE & SECURITY ORGANISATION (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DIVISION TURBOS (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "DORA EXPORT (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DSM DYNEEMA",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "DSIA (Czech Trade)",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "DTA S.A. (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "DTE Defence Technology Equipment (Parque Tecnológico São José dos Campos)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DUPONT DO BRASIL S/A",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DUVEET",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DYNAMIT NOBEL DEFENCE GMBH (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ECA GROUP (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECARYS (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ECOPROTECT (Czech Trade)",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "EID - EMPRESA DE INVESTIGAÇÃO E DESENVOLVIMENTO DE ELECTRÓNICA",
-      "country": "Portugal"
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      }
     },
     {
       "name": "ELBIT SYSTEMA",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELBIT SYSTEMS",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "EMBRAER DEFESA & SEGURANÇA",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.embraerds.com.br"
     },
     {
       "name": "EMBROIDERY EXPORT",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "EMGEPRON",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.marinha.mil.br/emgepron/pt-br"
     },
     {
       "name": "ENAER",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "ENERSYS (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "ENGESIG VEÍCULOS ESPECIAIS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ESRA (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ESSSES CONSULTORIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EUROLAF",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EURONAVAL (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EXÉRCITO BRASILEIRO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EXÉRCITO BRASILEIRO - Gabinete do Comandante",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EXPAL",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "EXPONAVAL 2018 (Pavilhão Chile)",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "EXPOSEGURIDAD (Pavilhão Chile)",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FADEA (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "FARO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FAUN TRACKWAY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FIDAE",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FIELD FORENSICS INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FINCANTIERI SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FIVA (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FISA S.A",
-      "country": "Chile"
+      "country": {
+        "text": "Chile",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FLIGHT SIMULATOR SYSTEM",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FLIR (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLY SISTEMAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FOLHA MILITAR (Media Display)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FORÇA AÉREA BRASILEIRA - Gabinete do Comandante",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FORÇA AÉREA BRASILEIRA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FORÇA AÉREA BRASILEIRA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FSUE/TSENKI (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "FT SISTEMAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "FUERZAS MILITARES DEL MUNDO (Media Display)",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "FUNDACAO EZUTE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GAMPER",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GE AVIATION",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "GEHR INTERNATIONAL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GEM (Pavilhão Itália)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "GENERAL ATOMICS AND AFFILIATED COMPANIES (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "GESPI DEFENSE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GEW TECHNOLOGIES (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "GIBRALTAR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GIFAS (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLAGIO DO BRASIL LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GLOBALSTAR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GLOCK DO BRASIL S.A.",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GM",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GRUPO EDEFA",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GRUPO INBRAFILTRO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GT.LINE (Pavilhão Itália)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "HELIBRAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "HERBER (Parque Tecnológico São José dos Campos)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "HGH INFRARED SYSTEMS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "HIAB LIMITED (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HIRTENBERGER",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HOBECO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "HOLDFAST",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "HONEYWELL (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "HUTCHINSON BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "HYTERA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IACIT",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IMBEL",
-      "country": "Brazil",
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      },
       "website": "www.imbel.gov.br"
     },
     {
       "name": "IMEAR (Pavilhão Itália)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "IMI SYSTEMS (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "INCORE Smart Solutions (Parque Tecnológico São José dos Campos)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IDEX"
     },
     {
       "name": "INDIOS PIROTECNIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "INFODEFENSA.COM (Media Display)",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INSITU INC (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "INVAP (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "INVICTUS TACTICAL & 3",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "INVISIO COMMUNICATIONS",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "IPI DO BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IPT (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "IRKUT CORPORATION (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ISRAEL AEROSPACE INDUSTRIES LTD. (IAI)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ISRAEL DEFENSE",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ITA - ITALIAN TRADE AGENCY",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ITHPP - ALCEN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IVECO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IWI/SK GROUP (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IXBLUE (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JAGID MANAGEMENT",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "JANE'S (Media Display)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JORNAL SEGNEWS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "JPS SOLUTIONS (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "JSC/RIPI (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "JSC/RPA/BAZALT (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "JSC/SIE/RUBIN (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "KAPPA",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KÄRCHER FUTURETECH GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KATMERCILER (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "KERSHIP (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KMW",
-      "country": "Germany",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
       "website": "www.kmweg.com"
     },
     {
@@ -993,815 +1703,1424 @@
     },
     {
       "name": "KYIV ARMORED PLANT (Pavilhão Ucrânia)",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "L3 TECHNOLOGIES",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "LAAD DEFENCE & SECURITY 2019",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LAAD SECURITY 2018",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LACROIX (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LATECOERE (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LEONARDO (Pavilhão Itália)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "LEUPOLD & STEVENS, INC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LIEBHERR AEROSPACE BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LOCKHEED MARTIN (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOGOS IMAGING (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOGSUB SOLUÇÕES LOGÍSTICAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LORD INDUSTRIAL LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LOULAN EXHIBITION SERVICES",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "M&K ASSESSORIA (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MABEY (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MAC JEE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MARINHA DO BRASIL - Gabinete do Comandante",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MARINHA DO BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MBDA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MDC CONTÊINERES INTELIGENTES",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MECAR (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "MECHANIX WEAR (Pavilhão Reino Unido)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "MEPROLIGHT 1990/SK GROUP (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "METAL SHARK BOATS (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "MIG (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MINISTÉRIO DA DEFESA - Gabinete do Ministro",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MISTRAL (Pavilhão Israel)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "MITTLER REPORT",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MKE",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MKU",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "MMIST",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "MOAIS (ASTRO ABC)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MOD (Pavilhão Israel)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MOH-9 ARMOUR CERAMICS (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "MÖNCH PUBLISHING GROUP",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MOTOROLA SOLUTIONS LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MTU FRIEDRICHSHAFEN GMBH (Pavilhão África do Sul)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NAVANTIA",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "NEREIDES SAS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NERO INDUSTRI INC (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "NETHERLANDS INDUSTRIES FOR DEFENCE & SECURITY (Pavilhão Holanda)",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NEW ZEALAND TRADE AND ENTERPRISE - NZTE (Pavilhão Nova Zelândia)",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "NEWCON OPTIK",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "NEWTEC (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "NEXTER",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NICOMATIC (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NIGHT VISION DEVICES (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "NL TECNOLOGIA (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "NONLETHAL TECHNOLOGIES (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORSAFE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "NORTHSTAR ENGINEERING (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "NOVINTEC (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NPO IT (Pavilhão França)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "NSE BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "NUCTECH DO BRASIL LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "NUROL (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "NYCO",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OIP SENSOR SYSTEMS (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "ORBITAL ATK (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ORITEST (Czech Trade)",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "OTOKAR (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "PAVILHÃO ÁFRICA DO SUL",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "PCERJ",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PEARSON ENGINEERING",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PERU DEFENSA Y SEGURIDAD (Media Display)",
-      "country": "Peru"
+      "country": {
+        "text": "Peru",
+        "iso2": "PE"
+      }
     },
     {
       "name": "PHASE ENGENHARIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PIAP",
-      "country": "Poland"
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PMERJ",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "POLSKA (Pavilhão Polônia)",
-      "country": "Poland"
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      }
     },
     {
       "name": "POLY DEFENSOR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "POLY TECHNOLOGIES INC. (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "POLYAMP",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "POLYCASE AMMUNITION LLC (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "PORTAL DEFESA AÉREA & NAVAL (Media Display)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PROCITEC GMBH (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PRODEAL (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PROIOS (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "PROTECH NEW MATERIAL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PROTECTA PROTEÇÃO BALÍSTICA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "QINETIQ NORTH AMERICA (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "QUARTZO (Pavilhão ABIMDE)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RADIOMAR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RADIONOR",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "RADIX",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RAFAEL ADVANCED DEFENSE SYSTEMS (Cluster Cyber)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RAFAEL ADVANCED DEFENSE SYSTEMS (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RAPID MOBILE (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "RED IMPACT (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "REDIMEC (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "REPKON (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "RESHETNEV COMPANY (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "REUTECH (PTY) LTD (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "REVISTA ALAS (Media Display)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "REVISTA FORÇA AÉREA (Media Display)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "REVISTA FORÇAS DE DEFESA/PORTAIS PODER NAVAL, PODER AÉREO E FORÇAS TERRESTRES (Media Display)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "REVISTA SEGURANÇA & DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RF COM SISTEMAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RHINO DEFENSE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RIPPEL EFFECT SYSTEMS (PTY) LTD (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "RITTER&STARK",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "RMT",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROCKWELL COLLINS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROGERSON AIRCRAFT CORP. (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ROKETSAN (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ROSCOSMOS (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ROSOBORONEXPORT (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RSA ENGENHARIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RSC ENERGIA (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RUAG DEFENCE (Pavilhão Suíça)",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "S3 BRASIL (Pavilhão Estados Unidos)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SAAB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SAAB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SABIEX INTERNATIONAL (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SAFRAN ELETRONICS & DEFENSE BRAZIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SASTIND (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SAT (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SAUER COMPRESSORS BRASIL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SAVIS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SCANIA",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SCD (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SCHMIDT & BENDER GMBH & CO KG (Pavilhão Alemanha)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SDT INC. (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SEABURY SOLUTIONS. (Pavilhão Turquia)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "SECAMIC (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SEDECTES (BR Aerospace Cluster)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SENTECH KOREA",
-      "country": "South Korea"
+      "country": {
+        "text": "South Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "SESP (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SHEPHARD MEDIA",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SIBAT (Pavilhão Israel)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIGMA CONSULTING (Pavilhão Israel)",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "SIKORSKY (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SILLINGER (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIMDE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SITMED LIFE TRANSPORT",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SKM ELETRO ELETRONICA LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SLIDELOG",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SM GROUP",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "SMALL ARMS DEFENSE JOURNAL (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SMART POWER DEFESA & SEGURANÇA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SOUTH AFRICAN AEROSPACE MARITIME AND DEFENCE INDUSTRIES ASSOCIATION - AMD (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "SPETSTECHNOEXPORT (Pavilhão Ucrânia)",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "SSAB",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SSI (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SSM (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ST ENGINEERING",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "STATE FIRM \"UKRINMASH\" (Pavilhão Ucrânia)",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "STATE OF GEORGIA (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "STEP BENNS (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SUNTECH (Cluster Cyber)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SUR EMPRENDIMIENTOS TECNOLOGICOS (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "SYNQOR (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SYSTECON (Pavilhão Suíça)",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "TAI (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TAIS (Pavilhão Turquia)",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TAURUS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TECHNICAL COMPLEX PRECISION MECHANICS PLANT (Pavilhão Ucrânia)",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "TECNOAGRO",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TECNOLOGIA & DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TELEDYNE ICM (Pavilhão Bélgica)",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "TELLUMAT (Pavilhão Bélgica)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "TELTRONIC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TEXTRON SYSTEMS (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "THALES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THEON SENSORS",
-      "country": "Greece"
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      }
     },
     {
       "name": "THERMO FISHER SCIENTIFIC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "THYSSENKRUPP MARINE SYSTEMS",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TIANJIN MYWAY INTERNATIONAL TRADING CO.LTD. (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "TNO DEFENCE, SAFETY AND SECURITY (Pavilhão Holanda)",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "TOP DEFENSE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TRELLEBORG OFFSHORE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TREME TERRA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TRIJICON, INC. (Pavilhão Estados Unidos)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRIPLE DRAGON",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "TWIGA SERVICES (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "UAC - UNITED AIRCRAFT CORPORATION (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "UMANIZZARE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "UNASUL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "UNITED INSTRUMENT (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "UNITED SHIPBUILDING CORPORATION (Pavilhão Rússia)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "UTC AEROSPACE SYSTEMS (Pavilhão Reino Unido)",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "VDS VORTEX DESIGN SOLUTIONS (Pavilhão Argentina)",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "VERTICAL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "VICTORINOX DO BRASIL COMERCIO IMP E EXPORTACAO LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "VIKING AIR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "VMI SISTEMAS DE SEGURANCA LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "VNO ORTOPEDIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WAAGNER-BIRO",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "WANDER CASE EMBALAGENS ESPECIAIS LTDA - EPP",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WEATHERHAVEN RCS (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "WEIBEL",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "WELSER ITAGE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WHITE LAKE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WTC INDÚSTRIA DE EQUIPAMENTOS MILITARES",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WUHAN JINTENG MANUFACTURING & TRADING CO.,LTD (Pavilhão China)",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "XCMG",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "YUGOIMPORT",
-      "country": "Serbia"
+      "country": {
+        "text": "Serbia",
+        "iso2": "RS"
+      }
     },
     {
       "name": "ZEBRA ARMOUR (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ZERO INDUSTRIES CC (Pavilhão África do Sul)",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ZLIN AIRCRAFT (Czech Trade)",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ZODIAC AEROSPACE (Pavilhão França)",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ZODIAC MILPRO - MD-BALLY",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     }
   ]
 }

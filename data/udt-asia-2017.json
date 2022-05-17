@@ -5,8 +5,13 @@
   "edition": "2017",
   "startDate": "2017-01-17",
   "endDate": "2017-01-18",
-  "address": "Marina Bay\nSingapore\nSingapore",
-  "website": "http://www.udt-asia.com/",
+  "address": {
+    "text": "Marina Bay\nSingapore\nSingapore",
+    "iso2": "SG",
+    "lat": 1.2877936,
+    "lon": 103.8665551
+  },
+  "website": "http://www.udt-asia.com",
   "organiser": [
     {
       "name": "Clarion Events Ltd"

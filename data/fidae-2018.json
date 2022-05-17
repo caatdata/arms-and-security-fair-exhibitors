@@ -4,7 +4,12 @@
   "edition": "2018",
   "startDate": "2018-04-03",
   "endDate": "2018-04-08",
-  "address": "Aeropuerto Internacional Comodoro Arturo Merino Benítez\nAviador David Fuentes\nPudahuel\nRegión Metropolitana\nChile",
+  "address": {
+    "text": "Aeropuerto Internacional Comodoro Arturo Merino Benítez\nAviador David Fuentes\nPudahuel\nRegión Metropolitana\nChile",
+    "iso2": "CL",
+    "lat": -33.392629,
+    "lon": -70.795316
+  },
   "website": "https://www.fidae.cl",
   "exhibitorListUrl": "https://www.fidae.cl/descargas",
   "exhibitorListDate": "2022-04-01T10:58:41+00:00",

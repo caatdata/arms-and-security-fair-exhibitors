@@ -4,8 +4,13 @@
   "edition": "2006",
   "startDate": "2006-05-08",
   "endDate": "2006-05-11",
-  "address": "NEC\nBirmingham\nUnited Kingdom",
-  "website": "http://www.ifsec.co.uk/",
+  "address": {
+    "text": "NEC\nBirmingham\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 52.45424269999999,
+    "lon": -1.7170151
+  },
+  "website": "http://www.ifsec.co.uk",
   "organiser": [
     {
       "name": "CMP Information",

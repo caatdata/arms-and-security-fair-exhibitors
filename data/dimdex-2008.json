@@ -5,7 +5,12 @@
   "alias": "Doha International Maritime Defence Exhibition and Conference 2008",
   "startDate": "2008-03-17",
   "endDate": "2008-03-19",
-  "address": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+  "address": {
+    "text": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.3204813,
+    "lon": 51.4385756
+  },
   "website": "http://www.dimdex.com",
   "organiser": [
     {

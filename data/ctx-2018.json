@@ -8,8 +8,13 @@
   ],
   "startDate": "2018-03-06",
   "endDate": "2018-03-07",
-  "address": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
-  "website": "https://www.counterterrorexpo.com/",
+  "address": {
+    "text": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4963566,
+    "lon": -0.2107637
+  },
+  "website": "https://www.counterterrorexpo.com",
   "organiser": [
     {
       "name": "Clarion Defence and Security Limited"
@@ -20,12 +25,22 @@
   "exhibitor": [
     {
       "name": "3DX-Ray Ltd",
-      "address": "16 & 18 Hayhill Industrial Estate\nSileby Road\nBarrow Upon Soar\nLeicestershire\nLE12 8LD\nUnited Kingdom",
+      "address": {
+        "text": "16 & 18 Hayhill Industrial Estate\nSileby Road\nBarrow Upon Soar\nLeicestershire\nLE12 8LD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7414336,
+        "lon": -1.1237046
+      },
       "website": "http://www.3dx-ray.com"
     },
     {
       "name": "4SECURE LIMITED",
-      "address": "3 Duncan Close\nMoulton Park\nNorthampton\nNorthamptonshire\nNN36WL\nUnited Kingdom",
+      "address": {
+        "text": "3 Duncan Close\nMoulton Park\nNorthampton\nNorthamptonshire\nNN36WL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.27842829999999,
+        "lon": -0.8792939999999999
+      },
       "social": {
         "platform": "twitter",
         "handle": "4Secure"
@@ -33,7 +48,12 @@
     },
     {
       "name": "5 Stones intelligence",
-      "address": "1521 Alton Road\nMiami Beach\n33139\nUnited States",
+      "address": {
+        "text": "1521 Alton Road\nMiami Beach\n33139\nUnited States",
+        "iso2": "US",
+        "lat": 25.7880664,
+        "lon": -80.1406686
+      },
       "social": {
         "platform": "youtube",
         "url": "https://vimeo.com/182149723"
@@ -41,12 +61,22 @@
     },
     {
       "name": "6ECURITY",
-      "address": "Blokkenstraat\n305\nKorbeek Dijle\n3061\nBelgium",
+      "address": {
+        "text": "Blokkenstraat\n305\nKorbeek Dijle\n3061\nBelgium",
+        "iso2": "BE",
+        "lat": 50.84247999999999,
+        "lon": 4.6401164
+      },
       "website": "http://WWW.6ECURITY.COM"
     },
     {
       "name": "AARONIA AB",
-      "address": "Gewerbegebiet Aaronia AG\nStrickscheid\n54597\nGermany",
+      "address": {
+        "text": "Gewerbegebiet Aaronia AG\nStrickscheid\n54597\nGermany",
+        "iso2": "DE",
+        "lat": 50.14186480000001,
+        "lon": 6.3104293
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCXk1-43PBoYK8aJkzBa78LA/videos"
@@ -54,7 +84,12 @@
     },
     {
       "name": "Abloy UK",
-      "address": "Portobello Works\nSchool Street\nWillenhall\nWV13 3PW\nUnited Kingdom",
+      "address": {
+        "text": "Portobello Works\nSchool Street\nWillenhall\nWV13 3PW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5842293,
+        "lon": -2.0663175
+      },
       "social": {
         "platform": "youtube",
         "url": "http://www.youtube.com/user/AbloyMedia"
@@ -62,7 +97,12 @@
     },
     {
       "name": "Access Data",
-      "address": "3rd Floor\n1 Bedford Street\nLondon\nLondon\nWC2E 9HG\nUnited Kingdom",
+      "address": {
+        "text": "3rd Floor\n1 Bedford Street\nLondon\nLondon\nWC2E 9HG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5097275,
+        "lon": -0.1237135
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/162250"
@@ -73,20 +113,40 @@
     },
     {
       "name": "ACUSTEK Limited",
-      "address": "Chamber Buildings, Suite 8\nNorth Street\nSwords\nCo Dublin\nK67 A3H7\nIreland",
+      "address": {
+        "text": "Chamber Buildings, Suite 8\nNorth Street\nSwords\nCo Dublin\nK67 A3H7\nIreland",
+        "iso2": "IE",
+        "lat": 53.4612375,
+        "lon": -6.2170317
+      },
       "website": "http://www.acustek.com"
     },
     {
       "name": "AirPoint",
-      "address": "Airpoint Limited\nWoodside House\n21-23 Woodside Place\nGlasgow\nGlasgow\nG3 7QF\nUnited Kingdom"
+      "address": {
+        "text": "Airpoint Limited\nWoodside House\n21-23 Woodside Place\nGlasgow\nGlasgow\nG3 7QF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.8672325,
+        "lon": -4.2752836
+      }
     },
     {
       "name": "Akkadia Systems BV",
-      "address": "De Lind 2\n4841 KC\nNetherlands"
+      "address": {
+        "text": "De Lind 2\n4841 KC\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.6048619,
+        "lon": 4.7025425
+      }
     },
     {
       "name": "Amped Software",
-      "address": "loc. Padriciano, 99\nTrieste\nTrieste\n34149\nItaly",
+      "address": {
+        "text": "loc. Padriciano, 99\nTrieste\nTrieste\n34149\nItaly",
+        "iso2": "IT",
+        "lat": 45.6572519,
+        "lon": 13.8286918
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/ampedsoftware"
@@ -94,11 +154,21 @@
     },
     {
       "name": "Apex Security Furniture LTD",
-      "address": "Flint Road Letchworth Garden City\nSG61HJ\nUnited Kingdom"
+      "address": {
+        "text": "Flint Road Letchworth Garden City\nSG61HJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9897193,
+        "lon": -0.2040553
+      }
     },
     {
       "name": "ApolloShield",
-      "address": "2125 Bowdoin St.\nPalo Alto\nCalifornia\n94306\nUnited States",
+      "address": {
+        "text": "2125 Bowdoin St.\nPalo Alto\nCalifornia\n94306\nUnited States",
+        "iso2": "US",
+        "lat": 37.4186516,
+        "lon": -122.1549797
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/10684326/"
@@ -106,12 +176,22 @@
     },
     {
       "name": "Arab Defence Journal / World Security Index",
-      "address": "C/o. UC3 1F Union Court\n20-22 Union Road\nLondon\nSW4 6JP\nUnited Kingdom",
+      "address": {
+        "text": "C/o. UC3 1F Union Court\n20-22 Union Road\nLondon\nSW4 6JP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4693033,
+        "lon": -0.1281247
+      },
       "website": "http://www.arabdefencejournal.com"
     },
     {
       "name": "Arana Security",
-      "address": "SBC HOUSE\nRESTMOR WAY\nWALLINGTON\nSurrey\nSM6 7AH\nUnited Kingdom",
+      "address": {
+        "text": "SBC HOUSE\nRESTMOR WAY\nWALLINGTON\nSurrey\nSM6 7AH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3749591,
+        "lon": -0.1573251
+      },
       "social": {
         "platform": "facebook",
         "url": "https://www.facebook.com/AranaSecure"
@@ -126,7 +206,12 @@
     },
     {
       "name": "ASCOT DOORS LTD",
-      "address": "Brittania Way Industrial Parkunion Road Union Road\nBOLTON\nUK\nBL2 2HE\nUnited Kingdom"
+      "address": {
+        "text": "Brittania Way Industrial Parkunion Road Union Road\nBOLTON\nUK\nBL2 2HE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.5890494,
+        "lon": -2.4193275
+      }
     },
     {
       "name": "ASIS"
@@ -136,12 +221,22 @@
     },
     {
       "name": "Atola Europe",
-      "address": "Gentzgasse 9\nVienna\n1180\nAustria",
+      "address": {
+        "text": "Gentzgasse 9\nVienna\n1180\nAustria",
+        "iso2": "AT",
+        "lat": 48.2261691,
+        "lon": 16.347714
+      },
       "website": "http://www.atola-europe.com"
     },
     {
       "name": "Attestor Forensics GmbH",
-      "address": "Zeppelinstr. 28\nBad Wurzach\n88410\nGermany",
+      "address": {
+        "text": "Zeppelinstr. 28\nBad Wurzach\n88410\nGermany",
+        "iso2": "DE",
+        "lat": 47.8958263,
+        "lon": 9.865746
+      },
       "social": {
         "platform": "facebook",
         "url": "https://www.facebook.com/AttestorForensics/"
@@ -149,7 +244,12 @@
     },
     {
       "name": "Audax Global Solutions Ltd",
-      "address": "Unit 16\nMary Seacole Road\nThe Millfields\nPlymouth\nDevon\nPL1 3FL\nUnited Kingdom",
+      "address": {
+        "text": "Unit 16\nMary Seacole Road\nThe Millfields\nPlymouth\nDevon\nPL1 3FL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.3712489,
+        "lon": -4.1577632
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/audaxglobal"
@@ -157,7 +257,12 @@
     },
     {
       "name": "Avon Protection Systems",
-      "address": "Avon Rubber PLC\nHampton Park West\nSemington Road\nMelksham\nWiltshire\nSN12 6NB\nUnited Kingdom",
+      "address": {
+        "text": "Avon Rubber PLC\nHampton Park West\nSemington Road\nMelksham\nWiltshire\nSN12 6NB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3535772,
+        "lon": -2.1399657
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/AvonProtection"
@@ -165,21 +270,41 @@
     },
     {
       "name": "Axis Communications",
-      "address": "Emdalavägen 14\nLund\nSE-223 69\nSweden",
+      "address": {
+        "text": "Emdalavägen 14\nLund\nSE-223 69\nSweden",
+        "iso2": "SE",
+        "lat": 55.7173323,
+        "lon": 13.2203467
+      },
       "website": "https://www.axis.com/gb/en"
     },
     {
       "name": "AXO Science SAS",
-      "address": "66 BD Niels Bohr\nCEI 1\nVILLEURBANNE\n69100\nFrance",
+      "address": {
+        "text": "66 BD Niels Bohr\nCEI 1\nVILLEURBANNE\n69100\nFrance",
+        "iso2": "FR",
+        "lat": 45.7864021,
+        "lon": 4.8805305
+      },
       "website": "http://www.axoscience.com/solutions/stk/"
     },
     {
       "name": "BAE Systems Surface Ships Limited",
-      "address": "Broad Oak\nThe Airport\nPortsmouth\nHampshire\nPO35PQ\nUnited Kingdom"
+      "address": {
+        "text": "Broad Oak\nThe Airport\nPortsmouth\nHampshire\nPO35PQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8296504,
+        "lon": -1.0559827
+      }
     },
     {
       "name": "Bbi Detection",
-      "address": "Alchemy House\nTom McDonald Avenue\nMedipark\nDundee\nUnited Kingdom\nDD2 1NH\nUnited Kingdom",
+      "address": {
+        "text": "Alchemy House\nTom McDonald Avenue\nMedipark\nDundee\nUnited Kingdom\nDD2 1NH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 56.463291,
+        "lon": -3.049103
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/bbi-detection"
@@ -187,12 +312,22 @@
     },
     {
       "name": "BDEC",
-      "address": "Robert Denholm House\nBletchingley Road\nNutfield\nRedhill\nSurrey\nRH1 4HW\nUnited Kingdom",
+      "address": {
+        "text": "Robert Denholm House\nBletchingley Road\nNutfield\nRedhill\nSurrey\nRH1 4HW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.239222,
+        "lon": -0.122549
+      },
       "website": "http://www.bdec-online.com"
     },
     {
       "name": "Belkasoft",
-      "address": "Lunacharskogo 33A Office 14-H\nSaint Petersburg\nRU-194291\nRussia",
+      "address": {
+        "text": "Lunacharskogo 33A Office 14-H\nSaint Petersburg\nRU-194291\nRussia",
+        "iso2": "RU",
+        "lat": 60.03850689999999,
+        "lon": 30.3508295
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCCC9kAGh2SNQEyvGgr9Kyzw"
@@ -200,11 +335,21 @@
     },
     {
       "name": "Besta Werbeagentur & Messebau GmbH",
-      "address": "Steinstrasse 30\nHaan\nD-42781\nGermany"
+      "address": {
+        "text": "Steinstrasse 30\nHaan\nD-42781\nGermany",
+        "iso2": "DE",
+        "lat": 51.1863758,
+        "lon": 6.997052099999999
+      }
     },
     {
       "name": "Bigneat Limited",
-      "address": "4 & 5 Piper\"S Wood Industrial Park Waterberry Drive Waterlooville\nHampshire\nHampshire\nPO7 7XU\nUnited Kingdom",
+      "address": {
+        "text": "4 & 5 Piper\"S Wood Industrial Park Waterberry Drive Waterlooville\nHampshire\nHampshire\nPO7 7XU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.88407530000001,
+        "lon": -1.0437449
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCPcHu45cTRcbYZ_4bhA7frg"
@@ -212,21 +357,41 @@
     },
     {
       "name": "Bladerunner",
-      "address": "8 Daleham Gardens\nLondon\nNW35DA\nUnited Kingdom"
+      "address": {
+        "text": "8 Daleham Gardens\nLondon\nNW35DA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5479613,
+        "lon": -0.1738833
+      }
     },
     {
       "name": "Blok N Mesh UK Ltd",
-      "address": "Hammond Road\nKnowlsey Industrial Park\nMerseyside\nL33TU7\nUnited Kingdom",
-      "website": "https://www.bloknmesh.com/"
+      "address": {
+        "text": "Hammond Road\nKnowlsey Industrial Park\nMerseyside\nL33TU7\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4874951,
+        "lon": -2.8538989
+      },
+      "website": "https://www.bloknmesh.com"
     },
     {
       "name": "Blucher GmbH",
-      "address": "BLÜCHER GmbH\nMettmanner Str. 25\nErkrath\nNordrhein-Westfalen\n40699\nGermany",
+      "address": {
+        "text": "BLÜCHER GmbH\nMettmanner Str. 25\nErkrath\nNordrhein-Westfalen\n40699\nGermany",
+        "iso2": "DE",
+        "lat": 51.226654,
+        "lon": 6.9203891
+      },
       "website": "http://www.bluecher.com"
     },
     {
       "name": "Bohle Ltd",
-      "address": "Fifth Avenue\nTameside Park Ind Est\nDukinfield\nCheshire\nSK16 4PP\nUnited Kingdom",
+      "address": {
+        "text": "Fifth Avenue\nTameside Park Ind Est\nDukinfield\nCheshire\nSK16 4PP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4751516,
+        "lon": -2.0966116
+      },
       "social": {
         "platform": "twitter",
         "handle": "BohleLtd"
@@ -234,7 +399,12 @@
     },
     {
       "name": "Bonaparte",
-      "address": "Heyendaalseweg 135 room 00.833\nNijmegen\n6525 AJ\nNetherlands",
+      "address": {
+        "text": "Heyendaalseweg 135 room 00.833\nNijmegen\n6525 AJ\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.8240132,
+        "lon": 5.868495100000001
+      },
       "social": {
         "platform": "twitter",
         "handle": "BonaparteDVI"
@@ -242,7 +412,12 @@
     },
     {
       "name": "Bosch Security Systems",
-      "address": "Bosch Security Systems\nBroadwater Park\nNorth Orbital Road\nUxbridge\nUB9 5HJ\nUnited Kingdom",
+      "address": {
+        "text": "Bosch Security Systems\nBroadwater Park\nNorth Orbital Road\nUxbridge\nUB9 5HJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5855975,
+        "lon": -0.4969713
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/BoschSecurity"
@@ -250,7 +425,12 @@
     },
     {
       "name": "Bradbury Group Ltd",
-      "address": "Dunlop Way\nQueensway Industrial Estate\nScunthorpe\nNorth Lincolnshire\nDN16 3RN\nUnited Kingdom",
+      "address": {
+        "text": "Dunlop Way\nQueensway Industrial Estate\nScunthorpe\nNorth Lincolnshire\nDN16 3RN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.569152,
+        "lon": -0.6189368
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCbHQXRPFF-IoySAySBdPymQ"
@@ -258,16 +438,31 @@
     },
     {
       "name": "BrainChip SAS",
-      "address": "65 Enterprise\nAliso Viejo\nCalifornia\n92656\nUnited States"
+      "address": {
+        "text": "65 Enterprise\nAliso Viejo\nCalifornia\n92656\nUnited States",
+        "iso2": "US",
+        "lat": 33.582558,
+        "lon": -117.7276701
+      }
     },
     {
       "name": "Brightbeam Laser",
-      "address": "20D Worlds Fair Drive,\nSomerset\nNew Jersey\n8873\nUnited States",
+      "address": {
+        "text": "20D Worlds Fair Drive,\nSomerset\nNew Jersey\n8873\nUnited States",
+        "iso2": "US",
+        "lat": 40.533424,
+        "lon": -74.5165741
+      },
       "website": "http://www.brightbeamlaser.com"
     },
     {
       "name": "Bristorm",
-      "address": "Bristorm (Hill and Smith Limited),\nSpringvale Business & Industrial Park\nBilston\nWolverhampton\nWest Midlands\nWV14 0QL\nUnited Kingdom",
+      "address": {
+        "text": "Bristorm (Hill and Smith Limited),\nSpringvale Business & Industrial Park\nBilston\nWolverhampton\nWest Midlands\nWV14 0QL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.55906179999999,
+        "lon": -2.0925056
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/10381481/"
@@ -275,36 +470,74 @@
     },
     {
       "name": "Business Continuity Training LTD",
-      "address": "The Old Sawmill Blackpool Road Lytham\nLytham\nFY85PL\nUnited Kingdom"
+      "address": {
+        "text": "The Old Sawmill Blackpool Road Lytham\nLytham\nFY85PL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7393478,
+        "lon": -2.983652
+      }
     },
     {
       "name": "Cabinet Office / Resilience Direct",
-      "address": "35 Great Smith Street\nLondon\nSW1P 3BQ\nUnited Kingdom"
+      "address": {
+        "text": "35 Great Smith Street\nLondon\nSW1P 3BQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.497243,
+        "lon": -0.1289764
+      }
     },
     {
       "name": "Callyo",
-      "address": "402 North Division Street\nCarson City\nNevada\n89703\nUnited States"
+      "address": {
+        "text": "402 North Division Street\nCarson City\nNevada\n89703\nUnited States",
+        "iso2": "US",
+        "lat": 39.16606240000001,
+        "lon": -119.7699731
+      }
     },
     {
       "name": "Camag",
-      "address": "Sonnenmattstrasse 11\nMuttenz\nCH-4132\nSwitzerland",
+      "address": {
+        "text": "Sonnenmattstrasse 11\nMuttenz\nCH-4132\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.5299539,
+        "lon": 7.6503793
+      },
       "website": "http://www.camag.com/dbs"
     },
     {
       "name": "Casualty Resources",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CBNW Xplosive",
-      "address": "15 Heritage House\nSouthgate\nLondon\nN14 5BT\nUnited Kingdom"
+      "address": {
+        "text": "15 Heritage House\nSouthgate\nLondon\nN14 5BT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6330655,
+        "lon": -0.1292904
+      }
     },
     {
       "name": "CCTP Certified Counter Terrorism Board",
-      "address": "11 Beach Rd,\nSingapore\nSingapore\n189675\nSingapore"
+      "address": {
+        "text": "11 Beach Rd,\nSingapore\nSingapore\n189675\nSingapore",
+        "iso2": "SG",
+        "lat": 1.2954054,
+        "lon": 103.8551243
+      }
     },
     {
       "name": "Chemring Technology Solutions Ltd",
-      "address": "Roke Manor\nOld Salisbury Lane\nRomsey\nSouthampton\nHampshire\nSO51 0ZN\nUnited Kingdom",
+      "address": {
+        "text": "Roke Manor\nOld Salisbury Lane\nRomsey\nSouthampton\nHampshire\nSO51 0ZN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9995075,
+        "lon": -1.5186235
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/chemring-technology-solutions"
@@ -312,7 +545,12 @@
     },
     {
       "name": "Chenega Europe",
-      "address": "1 Lanyon Quay\nBelfast\nBT1 3LG\nUnited Kingdom",
+      "address": {
+        "text": "1 Lanyon Quay\nBelfast\nBT1 3LG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.59823249999999,
+        "lon": -5.9211391
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/15252061/"
@@ -320,7 +558,12 @@
     },
     {
       "name": "Chronos Technology",
-      "address": "Stowfield House\nUpper Stowfield\nLydbrook\nGL17 9PD\nUnited Kingdom",
+      "address": {
+        "text": "Stowfield House\nUpper Stowfield\nLydbrook\nGL17 9PD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.85217549999999,
+        "lon": -2.5945827
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/ChronosTechnologyLtd/videos"
@@ -331,12 +574,22 @@
     },
     {
       "name": "Civil Aviation Authority",
-      "address": "Civil Aviation Authority\n7th Floor CAA House\n45-59 Kingsway\nLondon\nWC2B 6TE\nUnited Kingdom",
+      "address": {
+        "text": "Civil Aviation Authority\n7th Floor CAA House\n45-59 Kingsway\nLondon\nWC2B 6TE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5132249,
+        "lon": -0.1176917
+      },
       "website": "https://www.caa.co.uk/home/"
     },
     {
       "name": "Cognitec Systems GmbH",
-      "address": "Grossenhainer Str. 101\nDresden\n01127\nGermany",
+      "address": {
+        "text": "Grossenhainer Str. 101\nDresden\n01127\nGermany",
+        "iso2": "DE",
+        "lat": 51.0822449,
+        "lon": 13.7295187
+      },
       "social": {
         "platform": "twitter",
         "handle": "cognitec"
@@ -344,7 +597,12 @@
     },
     {
       "name": "Compelson",
-      "address": "Na Zertvach 34\nPrague\n180 00\nCzech Republic",
+      "address": {
+        "text": "Na Zertvach 34\nPrague\n180 00\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1046968,
+        "lon": 14.4777323
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/Compelson"
@@ -352,7 +610,12 @@
     },
     {
       "name": "Compelson",
-      "address": "Na Zertvach 34\nPrague\n180 00\nCzech Republic",
+      "address": {
+        "text": "Na Zertvach 34\nPrague\n180 00\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1046968,
+        "lon": 14.4777323
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/Compelson"
@@ -360,7 +623,12 @@
     },
     {
       "name": "Counter Measure Systems Ltd",
-      "address": "Armtec Estate\nThe Street\nIP22 2LR\nUnited Kingdom",
+      "address": {
+        "text": "Armtec Estate\nThe Street\nIP22 2LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4048808,
+        "lon": 0.9923141
+      },
       "website": "http://www.countermeasuresys.com"
     },
     {
@@ -368,11 +636,19 @@
     },
     {
       "name": "Counter Terror Police",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Cranfield University",
-      "address": "College Road\nCranfield\nBedfordshire\nMK430AL\nUnited Kingdom",
+      "address": {
+        "text": "College Road\nCranfield\nBedfordshire\nMK430AL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0791845,
+        "lon": -0.6172992
+      },
       "social": {
         "platform": "instagram",
         "url": "https://www.instagram.com/cranfielduni/"
@@ -380,7 +656,12 @@
     },
     {
       "name": "CRIME SCENE INVESTIGATION EQUIPMENT LTD",
-      "address": "Locard House\nDeethe Farm Estate\nWoburn Sands\nBuckinghamshire\nMK17 8UR\nUnited Kingdom",
+      "address": {
+        "text": "Locard House\nDeethe Farm Estate\nWoburn Sands\nBuckinghamshire\nMK17 8UR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0217362,
+        "lon": -0.6531893
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/CSIEquipmentLtd"
@@ -388,7 +669,12 @@
     },
     {
       "name": "Custom Consoles Ltd",
-      "address": "Leedon House\nBillington Road,\nLeighton Buzzard\nUK\nLU7 4TN\nUnited Kingdom",
+      "address": {
+        "text": "Leedon House\nBillington Road,\nLeighton Buzzard\nUK\nLU7 4TN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9067089,
+        "lon": -0.6521939999999999
+      },
       "social": {
         "platform": "twitter",
         "handle": "CCL_Furniture"
@@ -396,7 +682,12 @@
     },
     {
       "name": "Cyan Forensics",
-      "address": "Codebase Argyle House, 3 Lady Lawson St\nEdinburgh\nEH3 9DR\nUnited Kingdom",
+      "address": {
+        "text": "Codebase Argyle House, 3 Lady Lawson St\nEdinburgh\nEH3 9DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9467975,
+        "lon": -3.201195100000001
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/cyan-forensics"
@@ -404,7 +695,12 @@
     },
     {
       "name": "Darktrace Limited",
-      "address": "One George Street, #07-02\n1\n49145\nSingapore",
+      "address": {
+        "text": "One George Street, #07-02\n1\n49145\nSingapore",
+        "iso2": "SG",
+        "lat": 1.2858117,
+        "lon": 103.8481891
+      },
       "social": {
         "platform": "twitter",
         "handle": "darktrace"
@@ -412,12 +708,22 @@
     },
     {
       "name": "Delta Business Media",
-      "address": "3rd Floor\n207 Regent Street\nLondon\nW1B 3HH\nUnited Kingdom",
+      "address": {
+        "text": "3rd Floor\n207 Regent Street\nLondon\nW1B 3HH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5171976,
+        "lon": -0.1423565
+      },
       "website": "http://deltabusinessmedia.co.uk/publications"
     },
     {
       "name": "DeTect Global, Ltd",
-      "address": "1022 W. 23rd Street, Suite 620\nSuite 620\nPanama City\nBay\n32405\nUnited States",
+      "address": {
+        "text": "1022 W. 23rd Street, Suite 620\nSuite 620\nPanama City\nBay\n32405\nUnited States",
+        "iso2": "US",
+        "lat": 30.1904245,
+        "lon": -85.6774776
+      },
       "social": {
         "platform": "twitter",
         "handle": "detect_inc"
@@ -432,7 +738,12 @@
     },
     {
       "name": "dormakaba",
-      "address": "Lower Moor Way\nTiverton\nDevon\nEX16 6SS\nUnited Kingdom",
+      "address": {
+        "text": "Lower Moor Way\nTiverton\nDevon\nEX16 6SS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9125028,
+        "lon": -3.4638442
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/kabaltduk"
@@ -440,11 +751,21 @@
     },
     {
       "name": "Drone Detection Sys",
-      "address": "4, Place de Neuve Geneva,\nGeneva\nCH-1204\nSwitzerland"
+      "address": {
+        "text": "4, Place de Neuve Geneva,\nGeneva\nCH-1204\nSwitzerland",
+        "iso2": "CH",
+        "lat": 46.200908,
+        "lon": 6.1426333
+      }
     },
     {
       "name": "DRONE VOLT",
-      "address": "14 rue de la Perdrix Lot 201\nROISSY CDG Paris Nord 2\nVillepinte\n93420\nFrance",
+      "address": {
+        "text": "14 rue de la Perdrix Lot 201\nROISSY CDG Paris Nord 2\nVillepinte\n93420\nFrance",
+        "iso2": "FR",
+        "lat": 48.9757764,
+        "lon": 2.5082712
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/c/DRONEVOLT"
@@ -452,20 +773,40 @@
     },
     {
       "name": "DSA Detection",
-      "address": "14 Horseshoe Business Park\nLye Lane\nBricket Wood\nSt Albans\nHerts\nAL2 3TA\nUnited Kingdom",
+      "address": {
+        "text": "14 Horseshoe Business Park\nLye Lane\nBricket Wood\nSt Albans\nHerts\nAL2 3TA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7140928,
+        "lon": -0.3602778
+      },
       "website": "http://ww.dsadetection.com"
     },
     {
       "name": "Eclipse Digital Solutions Ltd",
-      "address": "Pera Business Park\nNottingham Road\nMelton Mowbray\nLeicester\nLeicestershire\nLE13 0PB\nUnited Kingdom"
+      "address": {
+        "text": "Pera Business Park\nNottingham Road\nMelton Mowbray\nLeicester\nLeicestershire\nLE13 0PB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.770125,
+        "lon": -0.8923958
+      }
     },
     {
       "name": "ECS Case",
-      "address": "ECS Case\nP.O. Box 188\nGrants Pass,\nOregon\n97528\nUnited States"
+      "address": {
+        "text": "ECS Case\nP.O. Box 188\nGrants Pass,\nOregon\n97528\nUnited States",
+        "iso2": "US",
+        "lat": 42.44001110000001,
+        "lon": -123.3300261
+      }
     },
     {
       "name": "EFAFLEX Tor- und Sicherheitssysteme GmbH & Co. KG",
-      "address": "Fliederstrasse 14\n84079 Bruckberg\n84079\nGermany",
+      "address": {
+        "text": "Fliederstrasse 14\n84079 Bruckberg\n84079\nGermany",
+        "iso2": "DE",
+        "lat": 48.5132105,
+        "lon": 11.9795515
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCQ2QrfPPotLq97y_4Dv_sGg/videos"
@@ -473,7 +814,12 @@
     },
     {
       "name": "ElcomSoft s.r.o",
-      "address": "Vresovicka 429/1\nPraha 5, Zlicin\nPraha\nPSC 155 21\nCzech Republic",
+      "address": {
+        "text": "Vresovicka 429/1\nPraha 5, Zlicin\nPraha\nPSC 155 21\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0595974,
+        "lon": 14.287034
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCwo1jBK1r-22XXVkr0MZWZA"
@@ -484,15 +830,30 @@
     },
     {
       "name": "Emergency Planning Society",
-      "address": "Hawkhills Drive\nEasingwold\nYorkshire\nYO61 3EG\nUnited Kingdom"
+      "address": {
+        "text": "Hawkhills Drive\nEasingwold\nYorkshire\nYO61 3EG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.1024823,
+        "lon": -1.1815281
+      }
     },
     {
       "name": "Emergency Response Driver Training Ltd",
-      "address": "Duckstone Cottage\nHigh Street\nYork\nYO10 5EB\nUnited Kingdom"
+      "address": {
+        "text": "Duckstone Cottage\nHigh Street\nYork\nYO10 5EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.9440971,
+        "lon": -1.044616
+      }
     },
     {
       "name": "Endeavor Robotics",
-      "address": "19 Alpha Road\nSuite 101\nChelmsford, MA\n01824\nUnited States",
+      "address": {
+        "text": "19 Alpha Road\nSuite 101\nChelmsford, MA\n01824\nUnited States",
+        "iso2": "US",
+        "lat": 42.5926246,
+        "lon": -71.3277102
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UC6fq7WhSuUsAmjHWHb3n72A"
@@ -500,7 +861,12 @@
     },
     {
       "name": "EPC Logistics",
-      "address": "Venture Crescent Great Oakley\nAlfreton\nDerbyshire\nDE55 7RA\nUnited Kingdom",
+      "address": {
+        "text": "Venture Crescent Great Oakley\nAlfreton\nDerbyshire\nDE55 7RA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.0888249,
+        "lon": -1.3824162
+      },
       "social": {
         "platform": "youtube",
         "url": "http://EPC-UK"
@@ -508,7 +874,12 @@
     },
     {
       "name": "ERA Home Security",
-      "address": "Valiant Way (i54)\nWolverhampton\nWest Midlands\nWV9 5GB\nUnited Kingdom",
+      "address": {
+        "text": "Valiant Way (i54)\nWolverhampton\nWest Midlands\nWV9 5GB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6317568,
+        "lon": -2.1408223
+      },
       "social": {
         "platform": "twitter",
         "handle": "erasecurity"
@@ -516,7 +887,12 @@
     },
     {
       "name": "EU Commission",
-      "address": "COV2 3/137\n16 Place Rogier\nBrussels\n1049\nBelgium",
+      "address": {
+        "text": "COV2 3/137\n16 Place Rogier\nBrussels\n1049\nBelgium",
+        "iso2": "BE",
+        "lat": 50.8563866,
+        "lon": 4.3602202
+      },
       "social": {
         "platform": "twitter",
         "handle": "H2020SME"
@@ -524,16 +900,31 @@
     },
     {
       "name": "Europol",
-      "address": "Eisenhowerlaan, 73 2517 KK\nThe Hague\n73 2517\nNetherlands"
+      "address": {
+        "text": "Eisenhowerlaan, 73 2517 KK\nThe Hague\n73 2517\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.0928483,
+        "lon": 4.2815194
+      }
     },
     {
       "name": "Evishield",
-      "address": "Moor Farm Road Airfield Industrial Estate\nAshbourne\nDerbyshire\nDE6 1HD\nUnited Kingdom",
+      "address": {
+        "text": "Moor Farm Road Airfield Industrial Estate\nAshbourne\nDerbyshire\nDE6 1HD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.00743670000001,
+        "lon": -1.7123167
+      },
       "website": "http://www.evishield.com"
     },
     {
       "name": "Expert Witness",
-      "address": "Ivy Business Centre\nCrown Street\nFailsworth\nManchester\nGreater Manchester\nM35 9BJ\nUnited Kingdom",
+      "address": {
+        "text": "Ivy Business Centre\nCrown Street\nFailsworth\nManchester\nGreater Manchester\nM35 9BJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.51201039999999,
+        "lon": -2.1572608
+      },
       "social": {
         "platform": "twitter",
         "handle": "Searchline03"
@@ -541,7 +932,12 @@
     },
     {
       "name": "Explorer Cases by GT Line",
-      "address": "GT Line srl\nVia Del Lavoro 50/52\nLoc Crespellano\nBologna\nValsamoggia\n40053\nItaly",
+      "address": {
+        "text": "GT Line srl\nVia Del Lavoro 50/52\nLoc Crespellano\nBologna\nValsamoggia\n40053\nItaly",
+        "iso2": "IT",
+        "lat": 44.5489676,
+        "lon": 11.1782909
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/explorercases"
@@ -549,7 +945,12 @@
     },
     {
       "name": "Explosive Learning Solutions",
-      "address": "4 The Terraces\nLibrary Ave\nOxfordshire\nOX11 0SG\nUnited Kingdom",
+      "address": {
+        "text": "4 The Terraces\nLibrary Ave\nOxfordshire\nOX11 0SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5769676,
+        "lon": -1.3120185
+      },
       "social": {
         "platform": "linkedin",
         "url": "http://www.linkedin.com/company/718874/"
@@ -557,20 +958,40 @@
     },
     {
       "name": "Faro Technologies UK Ltd",
-      "address": "9-10 Cobalt Centre\nSiskiu Parkway East\nCoventry West Midlands CV3 4PE\nWarwickshire\nUnited Kingdom"
+      "address": {
+        "text": "9-10 Cobalt Centre\nSiskiu Parkway East\nCoventry West Midlands CV3 4PE\nWarwickshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.36406179999999,
+        "lon": -1.4675895
+      }
     },
     {
       "name": "FC Business",
-      "address": "Baltic Publications Ltd\nGEAR House, Saltmeadows Road\nGateshead\nTyne & Wear\nNE8 3AH\nUnited Kingdom"
+      "address": {
+        "text": "Baltic Publications Ltd\nGEAR House, Saltmeadows Road\nGateshead\nTyne & Wear\nNE8 3AH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.966089,
+        "lon": -1.586931
+      }
     },
     {
       "name": "Felcon Limited",
-      "address": "Unit 11, Euro Business Park\nNew Road\nNewhaven\nEast Sussex\nBN9 0DQ\nUnited Kingdom",
+      "address": {
+        "text": "Unit 11, Euro Business Park\nNew Road\nNewhaven\nEast Sussex\nBN9 0DQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7989377,
+        "lon": 0.0541182
+      },
       "website": "http://www.felcon.co.uk"
     },
     {
       "name": "Felix Fund",
-      "address": "Vauxhall Barracks\nFoxhall Road\nDidcot\nOX11 7ES\nUnited Kingdom",
+      "address": {
+        "text": "Vauxhall Barracks\nFoxhall Road\nDidcot\nOX11 7ES\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6115728,
+        "lon": -1.251837
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCX7vnEfhp9fLGlOxOBFiV2Q?view_as=subscriber"
@@ -578,16 +999,31 @@
     },
     {
       "name": "Field Forensics, Inc.",
-      "address": "1601 3rd Street South\nSt Petersburg\nFlorida\nFL\n33701\nUnited States",
+      "address": {
+        "text": "1601 3rd Street South\nSt Petersburg\nFlorida\nFL\n33701\nUnited States",
+        "iso2": "US",
+        "lat": 27.7543425,
+        "lon": -82.6371604
+      },
       "website": "http://www.fieldforensics.com"
     },
     {
       "name": "Fire Times",
-      "address": "Modern Media Communications Ltd\nSuite 7, Big Box Business Centre\nCrowhurst Road\nBrighton\nEast Sussex\nBN1 8AF\nUnited Kingdom"
+      "address": {
+        "text": "Modern Media Communications Ltd\nSuite 7, Big Box Business Centre\nCrowhurst Road\nBrighton\nEast Sussex\nBN1 8AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8672076,
+        "lon": -0.1248573
+      }
     },
     {
       "name": "FLIR Systems",
-      "address": "Luxemburgstraat 2\nMEER\nBELGIUM\n2321\nBelgium",
+      "address": {
+        "text": "Luxemburgstraat 2\nMEER\nBELGIUM\n2321\nBelgium",
+        "iso2": "BE",
+        "lat": 51.4756072,
+        "lon": 4.7285585
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/FLIRThermography"
@@ -598,7 +1034,12 @@
     },
     {
       "name": "Forensic Proficiency Testing Services",
-      "address": "Unit 6, The Stables\nEast Lockinge\nWantage\nOxfordshire\nOX12 8QH\nUnited Kingdom",
+      "address": {
+        "text": "Unit 6, The Stables\nEast Lockinge\nWantage\nOxfordshire\nOX12 8QH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5823404,
+        "lon": -1.3822061
+      },
       "social": {
         "platform": "twitter",
         "handle": "ForensicPTS"
@@ -606,17 +1047,32 @@
     },
     {
       "name": "ForenteQ Ltd",
-      "address": "Pure Offices\nLake View House\nWilton Drive Tournament Fields\nWarwick\nWarwickshire\nCV34 6RG\nUnited Kingdom",
+      "address": {
+        "text": "Pure Offices\nLake View House\nWilton Drive Tournament Fields\nWarwick\nWarwickshire\nCV34 6RG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2651329,
+        "lon": -1.6059304
+      },
       "website": "http://www.forenteq.com"
     },
     {
       "name": "foster+freeman",
-      "address": "Vale Park\nEvesham\nWorcestershire\nWR111TD\nUnited Kingdom",
+      "address": {
+        "text": "Vale Park\nEvesham\nWorcestershire\nWR111TD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.072567,
+        "lon": -1.9379876
+      },
       "website": "http://www.fosterfreeman.com"
     },
     {
       "name": "Frontier Pitts",
-      "address": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nCrawley\nWest Sussex\nRH10 9QZ\nUnited Kingdom",
+      "address": {
+        "text": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nCrawley\nWest Sussex\nRH10 9QZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.12891949999999,
+        "lon": -0.1802964
+      },
       "social": {
         "platform": "youtube",
         "url": "http://FrontierPitts"
@@ -624,12 +1080,22 @@
     },
     {
       "name": "Galliford Try Infrastructure Security",
-      "address": "The Whitehouse\nLeicester Road\nWolvey\nHinckley\nLeicestershire\nLE10 3JF\nUnited Kingdom",
+      "address": {
+        "text": "The Whitehouse\nLeicester Road\nWolvey\nHinckley\nLeicestershire\nLE10 3JF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4906419,
+        "lon": -1.3641099
+      },
       "website": "http://www.gallifordtry.co.uk"
     },
     {
       "name": "Garrett Metal Detectors",
-      "address": "1881 West State Street\nGarland 75042\n75042\nUnited States",
+      "address": {
+        "text": "1881 West State Street\nGarland 75042\n75042\nUnited States",
+        "iso2": "US",
+        "lat": 32.9123843,
+        "lon": -96.6557105
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/GarrettDetectors"
@@ -637,7 +1103,12 @@
     },
     {
       "name": "GCC Forensic Science Conference",
-      "address": "Al Shafar Tower 1\nOffice 1906\nTECOM/Barsha Heights\nDubai\nDubai\n122142\nUnited Arab Emirates",
+      "address": {
+        "text": "Al Shafar Tower 1\nOffice 1906\nTECOM/Barsha Heights\nDubai\nDubai\n122142\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.0984482,
+        "lon": 55.1741736
+      },
       "social": {
         "platform": "instagram",
         "url": "https://www.instagram.com/gccforensic/"
@@ -645,12 +1116,22 @@
     },
     {
       "name": "GE Healthcare",
-      "address": "2650 Crescent Dr., Suite 100\nLafayette\nColorado\n80026\nUnited States",
+      "address": {
+        "text": "2650 Crescent Dr., Suite 100\nLafayette\nColorado\n80026\nUnited States",
+        "iso2": "US",
+        "lat": 39.9667296,
+        "lon": -105.0867042
+      },
       "website": "https://www.gelifesciences.com/shop/forensics"
     },
     {
       "name": "Genetec Europe",
-      "address": "GENETEC EUROPE\n6 rue Daru\nParis\n75008\nFrance",
+      "address": {
+        "text": "GENETEC EUROPE\n6 rue Daru\nParis\n75008\nFrance",
+        "iso2": "FR",
+        "lat": 48.8774327,
+        "lon": 2.3011061
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/genetec"
@@ -658,7 +1139,12 @@
     },
     {
       "name": "German eForensics GmbH",
-      "address": "Universitätsstraße 3, ,\nKoblenz\n56070\nGermany",
+      "address": {
+        "text": "Universitätsstraße 3, ,\nKoblenz\n56070\nGermany",
+        "iso2": "DE",
+        "lat": 50.3624714,
+        "lon": 7.5603897
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCz6uiPOLCmQI71So89VDKxw"
@@ -666,7 +1152,12 @@
     },
     {
       "name": "Glass and Glazing Federation",
-      "address": "Newspaper House\n40 Rushworth Street\nLondon\nEngland\nSE1 0RB\nUnited Kingdom",
+      "address": {
+        "text": "Newspaper House\n40 Rushworth Street\nLondon\nEngland\nSE1 0RB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50099549999999,
+        "lon": -0.1011719
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/glass-and-glazing-federation"
@@ -674,11 +1165,21 @@
     },
     {
       "name": "GoTenna",
-      "address": "81 Willoughby St, Suite 302\nBrooklyn\nPennsylvania\n11201\nUnited States"
+      "address": {
+        "text": "81 Willoughby St, Suite 302\nBrooklyn\nPennsylvania\n11201\nUnited States",
+        "iso2": "US",
+        "lat": 40.6924059,
+        "lon": -73.9860842
+      }
     },
     {
       "name": "Green Light Ltd",
-      "address": "375 Upper Richmond Road West\nEast Sheen\nLondon\nSW14 7NX\nUnited Kingdom",
+      "address": {
+        "text": "375 Upper Richmond Road West\nEast Sheen\nLondon\nSW14 7NX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4644375,
+        "lon": -0.2674152
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/301516/"
@@ -686,11 +1187,21 @@
     },
     {
       "name": "GridSmart",
-      "address": "George Burgess, GridSmart Ltd, 1 River Court\nExeter\nDevon\nEX2 5JL\nUnited Kingdom"
+      "address": {
+        "text": "George Burgess, GridSmart Ltd, 1 River Court\nExeter\nDevon\nEX2 5JL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.691193,
+        "lon": -3.4810999
+      }
     },
     {
       "name": "Griffeye",
-      "address": "Forsta Langgatan 30\nSE 413 27\nGoteborg\nVastra Gotaland County\nSweden",
+      "address": {
+        "text": "Forsta Langgatan 30\nSE 413 27\nGoteborg\nVastra Gotaland County\nSweden",
+        "iso2": "SE",
+        "lat": 57.6993087,
+        "lon": 11.9441039
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/9549286/"
@@ -698,7 +1209,12 @@
     },
     {
       "name": "Guidance Software",
-      "address": "OpenText\n420 Thames Valley Park Drive\nThames Valley Park\nReading\nBerkshire\nRG6 1PT\nUnited Kingdom",
+      "address": {
+        "text": "OpenText\n420 Thames Valley Park Drive\nThames Valley Park\nReading\nBerkshire\nRG6 1PT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4604301,
+        "lon": -0.9310986000000001
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/guidancesoftware"
@@ -706,29 +1222,54 @@
     },
     {
       "name": "H.P.Marketing & Consulting Wüst GmbH",
-      "address": "H.P. Marketing & Consulting Wuest GmbH\nGrootkoppel 9\nReinfeld\n23858\nGermany",
+      "address": {
+        "text": "H.P. Marketing & Consulting Wuest GmbH\nGrootkoppel 9\nReinfeld\n23858\nGermany",
+        "iso2": "DE",
+        "lat": 53.83175,
+        "lon": 10.50527
+      },
       "website": "http://www.hp-jammer.de"
     },
     {
       "name": "Haltbrac Defense",
-      "address": ".Traverse De La Resclave\nSeptenes\nLes Valons\n13240\nFrance"
+      "address": {
+        "text": ".Traverse De La Resclave\nSeptenes\nLes Valons\n13240\nFrance",
+        "iso2": "FR",
+        "lat": 43.3973406,
+        "lon": 5.3656121
+      }
     },
     {
       "name": "Hand Media"
     },
     {
       "name": "Hand Media International",
-      "address": "Elphicks Farm\nWater Lane\nHunton\nMaidstone\nME15 0SG\nUnited Kingdom",
-      "website": "http://www.hand-media.com/"
+      "address": {
+        "text": "Elphicks Farm\nWater Lane\nHunton\nMaidstone\nME15 0SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2120174,
+        "lon": 0.4569748
+      },
+      "website": "http://www.hand-media.com"
     },
     {
       "name": "HARP VISUAL COMMUNICATION SOLUTIONS",
-      "address": "Unit C4 Segensworth Business Centre\nSengensworth Road\nSegensworth\nFareham\nHampshire\nPO15 5RQ\nUnited Kingdom",
+      "address": {
+        "text": "Unit C4 Segensworth Business Centre\nSengensworth Road\nSegensworth\nFareham\nHampshire\nPO15 5RQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8616349,
+        "lon": -1.2466248
+      },
       "website": "http://www.videowall.co.uk"
     },
     {
       "name": "Hermex FX",
-      "address": "2nd Floor\n13-14 Basinghall Street\nLondon\nEC2V 5BQ\nUnited Kingdom",
+      "address": {
+        "text": "2nd Floor\n13-14 Basinghall Street\nLondon\nEC2V 5BQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5157061,
+        "lon": -0.0908471
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/hermex-fx/"
@@ -736,7 +1277,12 @@
     },
     {
       "name": "HGH Infrared Systems",
-      "address": "10 Rue Maryse Bastié\nIgny\n91430\nFrance",
+      "address": {
+        "text": "10 Rue Maryse Bastié\nIgny\n91430\nFrance",
+        "iso2": "FR",
+        "lat": 48.7320099,
+        "lon": 2.2348707
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/HGHinfraredsystems/feed"
@@ -744,7 +1290,12 @@
     },
     {
       "name": "HIDDEN TECHNOLOGY SYSTEMS INTERNATIONAL LIMITED",
-      "address": "5 Cornhouse Buildings\nClaydons Lane\nRAYLEIGH\nEssex\nSS6 7UP\nUnited Kingdom",
+      "address": {
+        "text": "5 Cornhouse Buildings\nClaydons Lane\nRAYLEIGH\nEssex\nSS6 7UP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5755604,
+        "lon": 0.6023687
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/2030321/"
@@ -752,12 +1303,22 @@
     },
     {
       "name": "Hygeco International",
-      "address": "20 boulevard de La Muette\nGarges les gonesse\n95140\nFrance",
+      "address": {
+        "text": "20 boulevard de La Muette\nGarges les gonesse\n95140\nFrance",
+        "iso2": "FR",
+        "lat": 48.9776518,
+        "lon": 2.4098468
+      },
       "website": "http://www.hygeco.com"
     },
     {
       "name": "Hypersight",
-      "address": "27760 Cedar Point Rd\nEaston\n21601\nUnited States",
+      "address": {
+        "text": "27760 Cedar Point Rd\nEaston\n21601\nUnited States",
+        "iso2": "US",
+        "lat": 38.7466619,
+        "lon": -76.1138971
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/11260826/"
@@ -765,7 +1326,12 @@
     },
     {
       "name": "ICOR Technology",
-      "address": "ICOR Technology\n935 Ages Dr\nOttawa\nCanada\nK1G6L3\nCanada",
+      "address": {
+        "text": "ICOR Technology\n935 Ages Dr\nOttawa\nCanada\nK1G6L3\nCanada",
+        "iso2": "CA",
+        "lat": 45.38359639999999,
+        "lon": -75.6129521
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/ICORTechnologyInc"
@@ -773,7 +1339,12 @@
     },
     {
       "name": "Ilasco/Keela",
-      "address": "Nasmyth Road\nSouthfield Industrial Estate\nGlenrothes\nKY6 2SD\nUnited Kingdom",
+      "address": {
+        "text": "Nasmyth Road\nSouthfield Industrial Estate\nGlenrothes\nKY6 2SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 56.1800511,
+        "lon": -3.2018535
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCQDHeKkOD762OtSXKiIEuXw"
@@ -781,30 +1352,44 @@
     },
     {
       "name": "INMM srl us",
-      "address": "44124 Ferrara\nVia Traversagno 33\n44122 Ferrara\nFornace\nItaly"
+      "address": {
+        "text": "44124 Ferrara\nVia Traversagno 33\n44122 Ferrara\nFornace\nItaly",
+        "iso2": "IT",
+        "lat": 44.850112,
+        "lon": 11.5802314
+      }
     },
     {
       "name": "Institute of Explosives Engineers"
     },
     {
       "name": "Instro Precision Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.instro.com"
     },
     {
       "name": "Integrated Design Ltd / FastLane Turnstiles",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "International Security Management Institute (ISMI)"
     },
     {
       "name": "IPSA",
-      "website": "https://www.ipsa.org.uk/"
+      "website": "https://www.ipsa.org.uk"
     },
     {
       "name": "ISS Global",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "http://www.linkedin.com/company/iss-global"
@@ -815,7 +1400,12 @@
     },
     {
       "name": "iStorage Ltd",
-      "address": "iStorage House\n13 Alperton Lane\nUB6 8DH\nUnited Kingdom",
+      "address": {
+        "text": "iStorage House\n13 Alperton Lane\nUB6 8DH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5330423,
+        "lon": -0.3098887
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UC9Y8LnQtGlMf81dFl_JtZ7w"
@@ -823,7 +1413,12 @@
     },
     {
       "name": "IXCG Limited",
-      "address": "18A Warley Hill\nBrentwood\nEssex\nCM14 5HA\nUnited Kingdom",
+      "address": {
+        "text": "18A Warley Hill\nBrentwood\nEssex\nCM14 5HA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6124886,
+        "lon": 0.2990293
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company-beta/5669866/"
@@ -831,31 +1426,53 @@
     },
     {
       "name": "James Fisher Nuclear Ltd",
-      "address": "Uwestraße 12\nHamburg\nGermany\n22525 Hamburg\nUnited Kingdom",
+      "address": {
+        "text": "Uwestraße 12\nHamburg\nGermany\n22525 Hamburg\nUnited Kingdom",
+        "iso2": "DE",
+        "lat": 53.58115129999999,
+        "lon": 9.931319199999999
+      },
       "website": "http://www.jfnhamburg.com"
     },
     {
       "name": "JCPX (FLYOPS)",
-      "address": "CO/ENGECO, ATHOS PALACE\n98000 Monaco\nMonaco\n98000\nMonaco"
+      "address": {
+        "text": "CO/ENGECO, ATHOS PALACE\n98000 Monaco\nMonaco\n98000\nMonaco",
+        "iso2": "MC",
+        "lat": 43.7336539,
+        "lon": 7.424615799999999
+      }
     },
     {
       "name": "JESIP"
     },
     {
       "name": "K9 electronics LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "KBC Networks Ltd.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "KINETIC SIX LIMITED / Patriot One",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "KNect365 Learning",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/11092269/"
@@ -863,12 +1480,22 @@
     },
     {
       "name": "LAB Cube",
-      "address": "An der Rainmühle 9\nKarlsruhe\n76185\nGermany",
+      "address": {
+        "text": "An der Rainmühle 9\nKarlsruhe\n76185\nGermany",
+        "iso2": "DE",
+        "lat": 49.0149768,
+        "lon": 8.3536605
+      },
       "website": "http://mh-service.de/index.php/en/vehicle-construc"
     },
     {
       "name": "Laser Technology, Inc",
-      "address": "6912 S. Quentin Street\nCentennial\nCO\n80112-3945\nUnited States",
+      "address": {
+        "text": "6912 S. Quentin Street\nCentennial\nCO\n80112-3945\nUnited States",
+        "iso2": "US",
+        "lat": 39.5908308,
+        "lon": -104.8450401
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/laser-technology"
@@ -876,7 +1503,12 @@
     },
     {
       "name": "Leec UK Ltd",
-      "address": "Colwick Industrial Estate, Private Road Number 7\nNetherfield\nNottinghamshire\nNG4 2AJ\nUnited Kingdom",
+      "address": {
+        "text": "Colwick Industrial Estate, Private Road Number 7\nNetherfield\nNottinghamshire\nNG4 2AJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9600726,
+        "lon": -1.077708
+      },
       "social": {
         "platform": "twitter",
         "handle": "LEECLtd"
@@ -884,20 +1516,36 @@
     },
     {
       "name": "Life Preservation Technologies",
-      "address": "Meshek 80\nBeirut\n11-143\nLebanon"
+      "address": {
+        "text": "Meshek 80\nBeirut\n11-143\nLebanon",
+        "iso2": "LB",
+        "lat": 33.8937913,
+        "lon": 35.5017767
+      }
     },
     {
       "name": "Lighthouse (UK) Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.lighthouse.uk.com"
     },
     {
       "name": "Lincoln Security",
-      "address": "Whisby Way\nLN6 3LQ\nUnited Kingdom"
+      "address": {
+        "text": "Whisby Way\nLN6 3LQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.20154729999999,
+        "lon": -0.6032809
+      }
     },
     {
       "name": "Locken UK",
-      "country": "France",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UClQ8gkvUBDdWsLCmjWo-8Hw/videos"
@@ -905,7 +1553,12 @@
     },
     {
       "name": "LPCB (Bre Global)",
-      "address": "Bucknells Lane\nWatford\nHertfordshire\nWD25 9XX\nUnited Kingdom",
+      "address": {
+        "text": "Bucknells Lane\nWatford\nHertfordshire\nWD25 9XX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6985934,
+        "lon": -0.3761689
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/BREVideoUK"
@@ -913,11 +1566,17 @@
     },
     {
       "name": "LUKAS Hydraulik GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Lyon Equipment Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/petzlprofessional"
@@ -925,11 +1584,19 @@
     },
     {
       "name": "Madico",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Magnet Forensics Inc",
-      "address": "Unit #2,\n156 Columbia street West\nWaterloo\nOntario\nOntario\nN2L 3L3\nCanada",
+      "address": {
+        "text": "Unit #2,\n156 Columbia street West\nWaterloo\nOntario\nOntario\nN2L 3L3\nCanada",
+        "iso2": "CA",
+        "lat": 43.4772615,
+        "lon": -80.5408066
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/magnetforensics1"
@@ -937,16 +1604,27 @@
     },
     {
       "name": "Maritime Inflatable Solutions Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MAS Zengrange",
-      "address": "Unit A3 Merlin Centre\nAcrewood Way\nSt Albans\nHertfordshire\nAL4 0JY\nUnited Kingdom",
+      "address": {
+        "text": "Unit A3 Merlin Centre\nAcrewood Way\nSt Albans\nHertfordshire\nAL4 0JY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.75081059999999,
+        "lon": -0.2789861000000001
+      },
       "website": "http://www.maszengrange.com"
     },
     {
       "name": "Med-Eng Holdings ULC",
-      "country": "Canada",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
       "social": {
         "platform": "youtube",
         "url": "http://Med-Eng"
@@ -954,12 +1632,20 @@
     },
     {
       "name": "MedTree",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.medtree.co.uk"
     },
     {
       "name": "MEESONS AI LTD",
-      "address": "Cardea House\nSidings Business Park\nBD231TB\nUnited Kingdom",
+      "address": {
+        "text": "Cardea House\nSidings Business Park\nBD231TB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.9576783,
+        "lon": -2.0311688
+      },
       "social": {
         "platform": "pinterest",
         "url": "https://www.pinterest.co.uk/meesonsailtd/pins/"
@@ -967,17 +1653,30 @@
     },
     {
       "name": "Meggitt Training Systems",
-      "address": "Unit 6\nAxiom Orbital Park\nHall Avenue\nAshford\nKent\nTN24 OAA\nUnited Kingdom",
+      "address": {
+        "text": "Unit 6\nAxiom Orbital Park\nHall Avenue\nAshford\nKent\nTN24 OAA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1278023,
+        "lon": 0.900856
+      },
       "website": "http://www.meggitttrainingsystems.com"
     },
     {
       "name": "Metrasens",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.metrasens.com"
     },
     {
       "name": "Metrohm UK Ltd",
-      "address": "Metrohm House,\nEvenwood Close,\nDaresbury Court,\nRuncorn\nCheshire\nWA7 1LZ\nUnited Kingdom",
+      "address": {
+        "text": "Metrohm House,\nEvenwood Close,\nDaresbury Court,\nRuncorn\nCheshire\nWA7 1LZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.34972080000001,
+        "lon": -2.6599504
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCBDrIZt4Bpusw8qv5v2UFxg"
@@ -985,29 +1684,55 @@
     },
     {
       "name": "mh Service GmbH",
-      "address": "An der Rainmühle 9\nKarlsruhe\n76185\nGermany",
+      "address": {
+        "text": "An der Rainmühle 9\nKarlsruhe\n76185\nGermany",
+        "iso2": "DE",
+        "lat": 49.0149768,
+        "lon": 8.3536605
+      },
       "website": "http://www.mh-service.de"
     },
     {
       "name": "MIB Electronic Ltd",
-      "address": "Unit 3H\nCobblers Way\nSt. Peter's Park\nRadstock\nBA3 3BX\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3H\nCobblers Way\nSt. Peter's Park\nRadstock\nBA3 3BX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2821034,
+        "lon": -2.4675829
+      },
       "website": "http://www.mibcam.com"
     },
     {
       "name": "Milestone Systems UK",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Missouri University of Science and Technology",
-      "address": "216 Centennial Hall, 300 W 12th St\nRolla\nMissouri\n65409\nUnited States"
+      "address": {
+        "text": "216 Centennial Hall, 300 W 12th St\nRolla\nMissouri\n65409\nUnited States",
+        "iso2": "US",
+        "lat": 37.95315,
+        "lon": -91.7731283
+      }
     },
     {
       "name": "Mitsubishi",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MMC International BV",
-      "address": "Frankenthalerstraat 16/18\nBreda\n4816KA\nNetherlands",
+      "address": {
+        "text": "Frankenthalerstraat 16/18\nBreda\n4816KA\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.5994448,
+        "lon": 4.8034123
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/MMCTests"
@@ -1022,7 +1747,10 @@
     },
     {
       "name": "Morse Watchmans UK Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/watch?v=X7VGl02EBz4"
@@ -1030,7 +1758,12 @@
     },
     {
       "name": "MSAB",
-      "address": "Hornsbruksgatan 28\nStockholm\nStockholm County\nSE-117 34\nSweden",
+      "address": {
+        "text": "Hornsbruksgatan 28\nStockholm\nStockholm County\nSE-117 34\nSweden",
+        "iso2": "SE",
+        "lat": 59.31612510000001,
+        "lon": 18.0344783
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/msabxry"
@@ -1038,7 +1771,12 @@
     },
     {
       "name": "MyDefence",
-      "address": "92 Cornerstone Dr.\nCary\nNC\n27519\nUnited States",
+      "address": {
+        "text": "92 Cornerstone Dr.\nCary\nNC\n27519\nUnited States",
+        "iso2": "US",
+        "lat": 35.7911401,
+        "lon": -78.85246409999999
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/5068161/"
@@ -1046,26 +1784,47 @@
     },
     {
       "name": "Nanuk Cases UK",
-      "address": "Dudley Road\nCT19 6BY\nUnited Kingdom"
+      "address": {
+        "text": "Dudley Road\nCT19 6BY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0837925,
+        "lon": 1.1889923
+      }
     },
     {
       "name": "NARU",
-      "address": "C/O Rees Professional Services 69 Langdale Rd\nHove\nEast Sussex\nBN3 4HR\nUnited Kingdom"
+      "address": {
+        "text": "C/O Rees Professional Services 69 Langdale Rd\nHove\nEast Sussex\nBN3 4HR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.82977899999999,
+        "lon": -0.1884607
+      }
     },
     {
       "name": "NATO",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NATO"
     },
     {
       "name": "Nexter Robotics",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NIC Instruments Ltd",
-      "address": "Gladstone Road\nCT19 5NF\nUnited Kingdom",
+      "address": {
+        "text": "Gladstone Road\nCT19 5NF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0868265,
+        "lon": 1.1853602
+      },
       "social": {
         "platform": "youtube",
         "url": "http://www.youtube.com/channel/UCoof4V6vInRfpQipTa1LiVw"
@@ -1077,7 +1836,10 @@
     },
     {
       "name": "Novo DR ltd",
-      "country": "Israel",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
       "social": {
         "platform": "youtube",
         "url": "http://NOVO DR"
@@ -1088,7 +1850,12 @@
     },
     {
       "name": "NT Service",
-      "address": "Ateities rd. 34\nKaunas\nLT-52165\nLithuania",
+      "address": {
+        "text": "Ateities rd. 34\nKaunas\nLT-52165\nLithuania",
+        "iso2": "LT",
+        "lat": 54.9106079,
+        "lon": 24.038163
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/nt-service-uab"
@@ -1096,7 +1863,12 @@
     },
     {
       "name": "Oehm und Rehbein GmbH (OR Technology)",
-      "address": "Oehm und Rehbein GmbH\nNeptunallee 7c\nRostock\nGermany\n18057\nGermany",
+      "address": {
+        "text": "Oehm und Rehbein GmbH\nNeptunallee 7c\nRostock\nGermany\n18057\nGermany",
+        "iso2": "DE",
+        "lat": 54.09658,
+        "lon": 12.106944
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/ORTechnology"
@@ -1104,7 +1876,12 @@
     },
     {
       "name": "OR3D Ltd",
-      "address": "2 The Sawmill, Brynkinalt Business Centr\nWrexham\nWrexham\nLL14 5NS\nUnited Kingdom",
+      "address": {
+        "text": "2 The Sawmill, Brynkinalt Business Centr\nWrexham\nWrexham\nLL14 5NS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9349426,
+        "lon": -3.0382808
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCjm5TKtnmkXy1Twqgx0q4NA"
@@ -1112,7 +1889,12 @@
     },
     {
       "name": "Oxygen Forensics",
-      "address": "901 N.Pitt st\nSuite 170\nAlexandria VA\nVA\nVA 22314\nUnited States",
+      "address": {
+        "text": "901 N.Pitt st\nSuite 170\nAlexandria VA\nVA\nVA 22314\nUnited States",
+        "iso2": "US",
+        "lat": 38.8140951,
+        "lon": -77.0422725
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/oxygenforensic"
@@ -1120,7 +1902,12 @@
     },
     {
       "name": "Paraben Corporation",
-      "address": "39344 John Mosby Hwy Ste 277\nAldie\nVirginia\n20105\nUnited States",
+      "address": {
+        "text": "39344 John Mosby Hwy Ste 277\nAldie\nVirginia\n20105\nUnited States",
+        "iso2": "US",
+        "lat": 38.9762322,
+        "lon": -77.643254
+      },
       "social": {
         "platform": "youtube",
         "url": "http://parabenforensics"
@@ -1128,19 +1915,35 @@
     },
     {
       "name": "Pelco by Schneider Electric",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Pelco by Schneider Electric",
-      "address": "Indigo House\nMulberry Business Park\nFishponds Road\nRG412GY\nUnited Kingdom"
+      "address": {
+        "text": "Indigo House\nMulberry Business Park\nFishponds Road\nRG412GY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4027545,
+        "lon": -0.8490171
+      }
     },
     {
       "name": "pensher-skytech",
-      "address": "Northumberland Business Park\nWest Cramlington\nNorthumberland\nNE23 7RH\nUnited Kingdom"
+      "address": {
+        "text": "Northumberland Business Park\nWest Cramlington\nNorthumberland\nNE23 7RH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.065783,
+        "lon": -1.5957143
+      }
     },
     {
       "name": "Pinnacle Response Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCUqT0JejgOvNy4eew_SCKLQ"
@@ -1148,11 +1951,19 @@
     },
     {
       "name": "PITAGONE",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "PIVOT3 UK LIMITED",
-      "address": "21 Brunel Parkway Pride Park\nDERBY\nENGLAND\nDE24 8HR\nUnited Kingdom",
+      "address": {
+        "text": "21 Brunel Parkway Pride Park\nDERBY\nENGLAND\nDE24 8HR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.91230789999999,
+        "lon": -1.4569223
+      },
       "social": {
         "platform": "linkedin",
         "url": "http://@Pivot3"
@@ -1160,7 +1971,12 @@
     },
     {
       "name": "Project Falcon",
-      "address": "Cobalt Square\n1st Floor\n1 South Lambeth Road\nLondon\nSW8 1SU\nUnited Kingdom",
+      "address": {
+        "text": "Cobalt Square\n1st Floor\n1 South Lambeth Road\nLondon\nSW8 1SU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4858683,
+        "lon": -0.1215926
+      },
       "website": "https://www.met.police.uk/fraud"
     },
     {
@@ -1168,7 +1984,10 @@
     },
     {
       "name": "Pure Vista",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UC4F3V9WErBgcvqh7TsuMfkw"
@@ -1176,11 +1995,17 @@
     },
     {
       "name": "QinetiQ",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Quadrant Security Group",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "pinterest",
         "url": "http://www.qsg.co.uk"
@@ -1188,7 +2013,12 @@
     },
     {
       "name": "Qualtrax Europe",
-      "address": "500 Avebury Boulevard\nMilton Keynes\nMilton Keynes\nBuckinghamshire\nMK9 2BE\nUnited Kingdom",
+      "address": {
+        "text": "500 Avebury Boulevard\nMilton Keynes\nMilton Keynes\nBuckinghamshire\nMK9 2BE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.03823,
+        "lon": -0.7582886999999999
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/results?search_query=qualtrax"
@@ -1196,7 +2026,10 @@
     },
     {
       "name": "Radio Hill Technologies",
-      "country": "United States",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
       "social": {
         "platform": "twitter",
         "handle": "radiohilltech"
@@ -1204,7 +2037,12 @@
     },
     {
       "name": "Randox Toxicology",
-      "address": "55 Diamond Road\nCrumlin\nCountry Antrim\nulster\nBT29 4Qy\nUnited Kingdom",
+      "address": {
+        "text": "55 Diamond Road\nCrumlin\nCountry Antrim\nulster\nBT29 4Qy\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.6400222,
+        "lon": -6.2957068
+      },
       "social": {
         "platform": "youtube",
         "url": "http://Randox Toxicology Ltd"
@@ -1212,11 +2050,19 @@
     },
     {
       "name": "Respirex International Limited",
-      "address": "Unit F, Kingsfield Business Centre\nPhilanthropic Road\nRedhill\nRH1 4DP\nUnited Kingdom"
+      "address": {
+        "text": "Unit F, Kingsfield Business Centre\nPhilanthropic Road\nRedhill\nRH1 4DP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2332911,
+        "lon": -0.164672
+      }
     },
     {
       "name": "RFA Security Services Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "facebook",
         "url": "http://http://RFA Security - Explosive Detection Dogs"
@@ -1224,21 +2070,41 @@
     },
     {
       "name": "Rheinmetall",
-      "address": "Rheinmetall Air Defence AG\nBirchstrasse 155\nZurich\n8050\nSwitzerland",
+      "address": {
+        "text": "Rheinmetall Air Defence AG\nBirchstrasse 155\nZurich\n8050\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.4118881,
+        "lon": 8.5376462
+      },
       "website": "https://rheinmetall-defence.com/en/rheinmetall_def"
     },
     {
       "name": "Rhino Doors",
-      "address": "Llewellyns Quay\nPort Talbot\nWest Glamorgan\nSA13 1RF\nUnited Kingdom",
+      "address": {
+        "text": "Llewellyns Quay\nPort Talbot\nWest Glamorgan\nSA13 1RF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5874557,
+        "lon": -3.7814848
+      },
       "website": "http://www.rhinodoors.com"
     },
     {
       "name": "Richmond Defence Systems Ltd",
-      "address": "Armtec Estate\nNorth Lopham\nDiss\nIP222LR\nUnited Kingdom"
+      "address": {
+        "text": "Armtec Estate\nNorth Lopham\nDiss\nIP222LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4042469,
+        "lon": 0.9937387999999999
+      }
     },
     {
       "name": "Riegl Laser Measurement Systems GmbH",
-      "address": "Riedenburgstr. 48, , AUSTRIA\nHorn\n3580\nAustria",
+      "address": {
+        "text": "Riedenburgstr. 48, , AUSTRIA\nHorn\n3580\nAustria",
+        "iso2": "AT",
+        "lat": 48.6594928,
+        "lon": 15.6632456
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/RieglLMS"
@@ -1246,15 +2112,28 @@
     },
     {
       "name": "ROADPHONE NRB",
-      "address": "Pinfold Road\nBourne\nLincolnshire\nPE10 9HT\nUnited Kingdom"
+      "address": {
+        "text": "Pinfold Road\nBourne\nLincolnshire\nPE10 9HT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7694377,
+        "lon": -0.3617754
+      }
     },
     {
       "name": "Roadphone NRB",
-      "address": "Pinfold Road\nBourne\nLincolnshire\nPE10 9HT\nUnited Kingdom"
+      "address": {
+        "text": "Pinfold Road\nBourne\nLincolnshire\nPE10 9HT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7694377,
+        "lon": -0.3617754
+      }
     },
     {
       "name": "Robin Radar",
-      "country": "Netherlands",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/channel/UCNncVW0yPnlW4GzjmaRk17w/featured"
@@ -1262,7 +2141,12 @@
     },
     {
       "name": "ROHDE & SCHWARZ UK Ltd",
-      "address": "ROHDE & SCHWARZ UK Ltd, Ancells Business Park,\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+      "address": {
+        "text": "ROHDE & SCHWARZ UK Ltd, Ancells Business Park,\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29682090000001,
+        "lon": -0.81967
+      },
       "social": {
         "platform": "twitter",
         "handle": "RohdeSchwarz"
@@ -1270,7 +2154,12 @@
     },
     {
       "name": "Royal Arms International Inc",
-      "address": "1420 Highway 99\nLewisburg\nTennessee\n37091\nUnited States",
+      "address": {
+        "text": "1420 Highway 99\nLewisburg\nTennessee\n37091\nUnited States",
+        "iso2": "US",
+        "lat": 35.6066912,
+        "lon": -86.75868559999999
+      },
       "social": {
         "platform": "youtube",
         "url": "http://RoyalArmsIntl"
@@ -1278,7 +2167,12 @@
     },
     {
       "name": "RUSI",
-      "address": "Royal United Services Institute\n61 Whitehall\nLondon\nSW1A 2ET\nUnited Kingdom",
+      "address": {
+        "text": "Royal United Services Institute\n61 Whitehall\nLondon\nSW1A 2ET\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5045811,
+        "lon": -0.1259851
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/RUSIONLINE"
@@ -1286,7 +2180,10 @@
     },
     {
       "name": "SABRE Global Services",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Safety & Security International / Military Technology",
@@ -1294,11 +2191,17 @@
     },
     {
       "name": "Safetyflex Barriers",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Salzer GmBH",
-      "country": "Germany",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/saelzersecurity"
@@ -1306,7 +2209,12 @@
     },
     {
       "name": "SANS institute",
-      "address": "PO Box 124\nSwansea\nSA3 9BB\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 124\nSwansea\nSA3 9BB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5875865,
+        "lon": -4.1937843
+      },
       "social": {
         "platform": "twitter",
         "handle": "SANSEMEA"
@@ -1314,7 +2222,10 @@
     },
     {
       "name": "Scanna MSC Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/scanna-msc-ltd"
@@ -1322,7 +2233,12 @@
     },
     {
       "name": "SceneSafe",
-      "address": "8&9 Burnham Business Park\nMidas House\nSpringfield road\nBurnham-On-Crouch\nEssex\nCM0 8TE\nUnited Kingdom",
+      "address": {
+        "text": "8&9 Burnham Business Park\nMidas House\nSpringfield road\nBurnham-On-Crouch\nEssex\nCM0 8TE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6334802,
+        "lon": 0.8042754
+      },
       "social": {
         "platform": "youtube",
         "url": "http://channel scenesafe"
@@ -1337,12 +2253,20 @@
     },
     {
       "name": "SDS GROUP LIMITED",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.sdsgroupltd.co.uk"
     },
     {
       "name": "SecurCube S.R.L.",
-      "address": "Via Strada Muson, 2/C\nAsolo (Treviso)\nPresso La Fornace\nTreviso\nTreviso\n31011\nItaly",
+      "address": {
+        "text": "Via Strada Muson, 2/C\nAsolo (Treviso)\nPresso La Fornace\nTreviso\nTreviso\n31011\nItaly",
+        "iso2": "IT",
+        "lat": 45.7886059,
+        "lon": 11.9005009
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://it.linkedin.com/company/securcube"
@@ -1350,7 +2274,10 @@
     },
     {
       "name": "Securiclad",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/5081660/"
@@ -1358,22 +2285,33 @@
     },
     {
       "name": "Securify AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Security Industry Authority"
     },
     {
       "name": "Security News Desk",
-      "address": "Goldings\nElphicks Farm, Water Lane\nHunton\nKent,\nME15 0SG\nUnited Kingdom",
-      "website": "http://www.securitynewsdesk.com/"
+      "address": {
+        "text": "Goldings\nElphicks Farm, Water Lane\nHunton\nKent,\nME15 0SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2120174,
+        "lon": 0.4569748
+      },
+      "website": "http://www.securitynewsdesk.com"
     },
     {
       "name": "SecurityClearedJobs"
     },
     {
       "name": "Selectaglaze Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/selectaglazeltd"
@@ -1381,15 +2319,30 @@
     },
     {
       "name": "Servicom",
-      "address": "Servicom, I.O. Centre, Nash Road,\nRedditch\nWorcestershire,\nB98 7AS\nUnited Kingdom"
+      "address": {
+        "text": "Servicom, I.O. Centre, Nash Road,\nRedditch\nWorcestershire,\nB98 7AS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.291633,
+        "lon": -1.912748
+      }
     },
     {
       "name": "SHEERSPEED SHELTERS LIMITED",
-      "address": "Unit 3 Diamond House Reme Drive, Heathpark Industrial Estate\nHONITON\nEX14 1SE\nUnited Kingdom"
+      "address": {
+        "text": "Unit 3 Diamond House Reme Drive, Heathpark Industrial Estate\nHONITON\nEX14 1SE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7917598,
+        "lon": -3.2088134
+      }
     },
     {
       "name": "Shimadzu Corporation",
-      "address": "Mill Court Featherstone Road\nWolverton Mill\nBuckinghamshire\nMK12 5RD\nUnited Kingdom",
+      "address": {
+        "text": "Mill Court Featherstone Road\nWolverton Mill\nBuckinghamshire\nMK12 5RD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.05488339999999,
+        "lon": -0.8322219
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/1109015/"
@@ -1397,11 +2350,21 @@
     },
     {
       "name": "Specialist Response Solutions",
-      "address": "3rd Floor, 86-90 Paul Street\nLondon\nEC2A 4NE\nUnited Kingdom"
+      "address": {
+        "text": "3rd Floor, 86-90 Paul Street\nLondon\nEC2A 4NE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5256447,
+        "lon": -0.08365299999999999
+      }
     },
     {
       "name": "Specim Spectral Imaging Ltd",
-      "address": "Elektroniikkatie 13\nOulu\nPohjois-Pohjanmaa\nFI - 90590\nFinland",
+      "address": {
+        "text": "Elektroniikkatie 13\nOulu\nPohjois-Pohjanmaa\nFI - 90590\nFinland",
+        "iso2": "FI",
+        "lat": 65.0618272,
+        "lon": 25.4380085
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/specimspectral"
@@ -1409,11 +2372,21 @@
     },
     {
       "name": "Spektikor Oy",
-      "address": "Aapistie 1\nOulo\nFI-90220\nFinland"
+      "address": {
+        "text": "Aapistie 1\nOulo\nFI-90220\nFinland",
+        "iso2": "FI",
+        "lat": 65.00548479999999,
+        "lon": 25.5271712
+      }
     },
     {
       "name": "SPHERON-VR AG",
-      "address": "Haupstrasse 186\nWaldfischbach-Burgalben\n67714\nGermany",
+      "address": {
+        "text": "Haupstrasse 186\nWaldfischbach-Burgalben\n67714\nGermany",
+        "iso2": "DE",
+        "lat": 49.28136809999999,
+        "lon": 7.6374949
+      },
       "social": {
         "platform": "twitter",
         "handle": "SpheronVR"
@@ -1424,16 +2397,29 @@
     },
     {
       "name": "SSAFA",
-      "address": "4 St Dunstan's Hill\nLondon\nEC3R 8AD\nUnited Kingdom"
+      "address": {
+        "text": "4 St Dunstan's Hill\nLondon\nEC3R 8AD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5094415,
+        "lon": -0.08282439999999999
+      }
     },
     {
       "name": "Stabilisation Unit",
-      "address": "Foreign and Commonwealth Officer\nKing Charles Street\nWestminster\nLondon\nSW1A 2AH\nUnited Kingdom",
+      "address": {
+        "text": "Foreign and Commonwealth Officer\nKing Charles Street\nWestminster\nLondon\nSW1A 2AH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5023712,
+        "lon": -0.1276443
+      },
       "website": "http://www.gov.uk/stabilisation-unit"
     },
     {
       "name": "Stafford Bridge Doors Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/8681949/"
@@ -1441,7 +2427,12 @@
     },
     {
       "name": "Sumuri LLC",
-      "address": "PO Box 252\nCamden\nDE\n19934\nUnited States",
+      "address": {
+        "text": "PO Box 252\nCamden\nDE\n19934\nUnited States",
+        "iso2": "US",
+        "lat": 39.1134458,
+        "lon": -75.5418687
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/1074652/"
@@ -1449,12 +2440,20 @@
     },
     {
       "name": "Sunray Engineering",
-      "address": "6, Kingsnorth Industrial Estate, Wotton Rd,\nAshford\nKent\nTN23 6LL\nUnited Kingdom",
+      "address": {
+        "text": "6, Kingsnorth Industrial Estate, Wotton Rd,\nAshford\nKent\nTN23 6LL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.131595,
+        "lon": 0.8661974
+      },
       "website": "http://www.sunraydoors.co.uk"
     },
     {
       "name": "Surelock McGill Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/2041087/"
@@ -1462,7 +2461,12 @@
     },
     {
       "name": "Sustainable Criminal Justice Solutions",
-      "address": "1st Floor Chandlery Building\nSchool Lane\nSouthampton\nHampshire\nSO31 4NB\nUnited Kingdom",
+      "address": {
+        "text": "1st Floor Chandlery Building\nSchool Lane\nSouthampton\nHampshire\nSO31 4NB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8510876,
+        "lon": -1.3155405
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company-beta/8284559"
@@ -1470,12 +2474,22 @@
     },
     {
       "name": "T3K-Forensics GmbH",
-      "address": "Julius-Tandler Platz 6/9\nVienna\nVienna\n1090\nAustria",
+      "address": {
+        "text": "Julius-Tandler Platz 6/9\nVienna\nVienna\n1090\nAustria",
+        "iso2": "AT",
+        "lat": 48.2262727,
+        "lon": 16.3630587
+      },
       "website": "http://www.t3k-forensics.com"
     },
     {
       "name": "Tactical Electronics",
-      "address": "Tactical Electronics\n2200N Hemlock Avenue\nBroken Arrow\nOklahoma\n74012\nUnited States",
+      "address": {
+        "text": "Tactical Electronics\n2200N Hemlock Avenue\nBroken Arrow\nOklahoma\n74012\nUnited States",
+        "iso2": "US",
+        "lat": 36.07390609999999,
+        "lon": -95.82252079999999
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/TacticalElectronics"
@@ -1483,12 +2497,20 @@
     },
     {
       "name": "Tarmac",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://tarmac.com"
     },
     {
       "name": "Task Force Distribution LTD",
-      "address": "Unit 1 Burrington Business Park Devon\nDevon\nPL5 3LX\nUnited Kingdom"
+      "address": {
+        "text": "Unit 1 Burrington Business Park Devon\nDevon\nPL5 3LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.40381499999999,
+        "lon": -4.165770999999999
+      }
     },
     {
       "name": "Team Rubicon",
@@ -1499,7 +2521,12 @@
     },
     {
       "name": "Tech-Long Industry Ltd",
-      "address": "Dorset House\nRegent Park\nKingston Road\nLeatherhead\nSurrey\nKT22 7PL\nUnited Kingdom",
+      "address": {
+        "text": "Dorset House\nRegent Park\nKingston Road\nLeatherhead\nSurrey\nKT22 7PL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3102969,
+        "lon": -0.3340446
+      },
       "social": {
         "platform": "youtube",
         "url": "https://youtube/tech-longindustryltd"
@@ -1507,12 +2534,22 @@
     },
     {
       "name": "Technocover Ltd",
-      "address": "Henfaes Lane,\nWelshpool\nPowys, Mid Wales\nSY21 7BE\nUnited Kingdom",
+      "address": {
+        "text": "Henfaes Lane,\nWelshpool\nPowys, Mid Wales\nSY21 7BE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6587497,
+        "lon": -3.1352178
+      },
       "website": "http://www.technocover.co.uk"
     },
     {
       "name": "Technology Networks",
-      "address": "U6 Woodview\nBull Lane\nSudbury\nSuffolk\nCO10 0FD\nUnited Kingdom",
+      "address": {
+        "text": "U6 Woodview\nBull Lane\nSudbury\nSuffolk\nCO10 0FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0792773,
+        "lon": 0.747605
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/1179113/"
@@ -1520,29 +2557,50 @@
     },
     {
       "name": "Teledyne ICM SA",
-      "address": "Rue du Progrès 3\n4821\nBelgium"
+      "address": {
+        "text": "Rue du Progrès 3\n4821\nBelgium",
+        "iso2": "BE",
+        "lat": 50.6292777,
+        "lon": 5.884217599999999
+      }
     },
     {
       "name": "Tele-Traffic UK Ltd",
-      "address": "LaserTec Centre\nHarris Road\nWarwick\nWarwickshire\nCV34 5JU\nUnited Kingdom"
+      "address": {
+        "text": "LaserTec Centre\nHarris Road\nWarwick\nWarwickshire\nCV34 5JU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2909085,
+        "lon": -1.6018927
+      }
     },
     {
       "name": "Templar Executives"
     },
     {
       "name": "Terrafix Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Tetra Scene of Crime",
-      "address": "Unit 14\nCarnival Park\nBasildon\nEssex\nSS14 3WE\nUnited Kingdom"
+      "address": {
+        "text": "Unit 14\nCarnival Park\nBasildon\nEssex\nSS14 3WE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5833919,
+        "lon": 0.4655411
+      }
     },
     {
       "name": "The Security Institute"
     },
     {
       "name": "THE WILL-BURT COMPANY",
-      "country": "United States",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/TheWillBurtCompany"
@@ -1550,7 +2608,10 @@
     },
     {
       "name": "Tindall Engineering Ltd",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/10284467/"
@@ -1558,12 +2619,20 @@
     },
     {
       "name": "TraceTag UK Ltd",
-      "address": "Merton House\nCroescadarn Close\nCardiff\nCF23 8HF\nUnited Kingdom",
+      "address": {
+        "text": "Merton House\nCroescadarn Close\nCardiff\nCF23 8HF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5317905,
+        "lon": -3.1384435
+      },
       "website": "http://www.tracetag.com"
     },
     {
       "name": "Traka",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/TrakaPlc"
@@ -1571,7 +2640,10 @@
     },
     {
       "name": "Trifibre",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "instagram",
         "url": "https://www.instagram.com/trifibre/"
@@ -1579,29 +2651,59 @@
     },
     {
       "name": "TSG Associates LLP",
-      "address": "Albany Works\nLong Lover Lane\nHalifax\nHX1 4QF\nUnited Kingdom"
+      "address": {
+        "text": "Albany Works\nLong Lover Lane\nHalifax\nHX1 4QF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7287308,
+        "lon": -1.8859278
+      }
     },
     {
       "name": "TyTek Industries",
-      "address": "4700 Ashwood Drive\nSuite 445\nCincinnati\nOhio\n4524\nUnited States"
+      "address": {
+        "text": "4700 Ashwood Drive\nSuite 445\nCincinnati\nOhio\n4524\nUnited States",
+        "iso2": "US",
+        "lat": 39.272102,
+        "lon": -84.3744938
+      }
     },
     {
       "name": "University of Central Lancashire",
-      "address": "School of Forensic and Applied Sciences\nUniversity of Central Lancashire\nPreston\nLancashire\nPR12HE\nUnited Kingdom",
+      "address": {
+        "text": "School of Forensic and Applied Sciences\nUniversity of Central Lancashire\nPreston\nLancashire\nPR12HE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7645075,
+        "lon": -2.7083451
+      },
       "website": "http://www.uclan.ac.uk/schools/forensic-applied-sc"
     },
     {
       "name": "University of Central Lancashire",
-      "address": "School of Forensic and Applied Sciences\nUniversity of Central Lancashire\nPreston\nLancashire\nPR12HE\nUnited Kingdom",
+      "address": {
+        "text": "School of Forensic and Applied Sciences\nUniversity of Central Lancashire\nPreston\nLancashire\nPR12HE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7645075,
+        "lon": -2.7083451
+      },
       "website": "http://www.uclan.ac.uk/schools/forensic-applied-sc"
     },
     {
       "name": "University of Salford",
-      "address": "School of Arts and Media\nUniversity of Salford\nMaxwell Building\nManchester\nM5 4WT\nUnited Kingdom"
+      "address": {
+        "text": "School of Arts and Media\nUniversity of Salford\nMaxwell Building\nManchester\nM5 4WT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4867149,
+        "lon": -2.2738008
+      }
     },
     {
       "name": "University of Salford",
-      "address": "School of Arts and Media\nMaxwell Building\nManchester\nM5 4WT\nUnited Kingdom",
+      "address": {
+        "text": "School of Arts and Media\nMaxwell Building\nManchester\nM5 4WT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4867149,
+        "lon": -2.2738008
+      },
       "social": {
         "platform": "linkedin",
         "url": "http://www.linkedin.com/school/university-of-salford/"
@@ -1609,14 +2711,22 @@
     },
     {
       "name": "University of Warwick",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "UNOPS/UNMAS"
     },
     {
       "name": "Verisis",
-      "address": "Kuloglu Street\nNo:4/2-3\nAnkara\nAnkara\n6680\nTurkey",
+      "address": {
+        "text": "Kuloglu Street\nNo:4/2-3\nAnkara\nAnkara\n6680\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8938952,
+        "lon": 32.8555065
+      },
       "social": {
         "platform": "youtube",
         "url": "https://youtu.be/DWUzNvf_lvs"
@@ -1624,20 +2734,36 @@
     },
     {
       "name": "Vessel Arrest Systems / RGES",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Visual UK Ltd",
-      "address": "PO Box 205\nNorwich\nNorfolk\nNR19 9EB\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 205\nNorwich\nNorfolk\nNR19 9EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.68231040000001,
+        "lon": 0.9393771999999998
+      },
       "website": "http://www.vuksupplies.co.uk"
     },
     {
       "name": "Warrior Doors Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "West Technology Systems Ltd",
-      "address": "Dalton House\nGreat Western Business Park Armstrong Way\nYate\nBristol\nBS375NG\nUnited Kingdom",
+      "address": {
+        "text": "Dalton House\nGreat Western Business Park Armstrong Way\nYate\nBristol\nBS375NG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5486285,
+        "lon": -2.433432
+      },
       "social": {
         "platform": "linkedin",
         "url": "http://www.linkedin.com/in/james-price-b67662127"
@@ -1645,7 +2771,10 @@
     },
     {
       "name": "WeyTec",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/results?search_query=wey+technology"
@@ -1653,7 +2782,10 @@
     },
     {
       "name": "Winsted",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/user/winstedcorp"
@@ -1661,7 +2793,10 @@
     },
     {
       "name": "Woodway Engineering LTD",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "social": {
         "platform": "youtube",
         "url": "https://www.youtube.com/watch?v=i8V7ECdHR20"
@@ -1669,11 +2804,19 @@
     },
     {
       "name": "World Security Index",
-      "address": "First Floor\nThe Roller Mill\nMill Lane\nUckfield\nSussex\nTN22 5AA\nUnited Kingdom"
+      "address": {
+        "text": "First Floor\nThe Roller Mill\nMill Lane\nUckfield\nSussex\nTN22 5AA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9686569,
+        "lon": 0.0977431
+      }
     },
     {
       "name": "X-RIS",
-      "country": "Belgium",
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      },
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/6437956/"
@@ -1681,7 +2824,12 @@
     },
     {
       "name": "Yitu Inc",
-      "address": "Unit 846, DOBE E-Manor, 1189 Wuzhong Road,\nMinhang District\nShanghai\n201103\nChina",
+      "address": {
+        "text": "Unit 846, DOBE E-Manor, 1189 Wuzhong Road,\nMinhang District\nShanghai\n201103\nChina",
+        "iso2": "CN",
+        "lat": 31.17787,
+        "lon": 121.38903
+      },
       "website": "http://www.yitutech.com/en/"
     }
   ]

@@ -7,8 +7,13 @@
   "edition": "2014",
   "startDate": "2014-04-08",
   "endDate": "2014-04-09",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
-  "website": "http://www.laadsecurity.com.br/",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
+  "website": "http://www.laadsecurity.com.br",
   "organiser": [
     {
       "name": "Clarion Defence"
@@ -41,346 +46,601 @@
   "exhibitor": [
     {
       "name": "ABIMDE",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Aceco TI",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Aceco TI",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ADS Group Limited",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Advantech Wireless",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Adventure Tech",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AEL Sistemas",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Aeromot",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AGORA Telecom",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "AgustaWestland",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Airbus Defence & Space",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AIRSENSE Analytics GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AIRSTEP BOOTS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ALAS",
-      "country": "Argentina"
+      "country": {
+        "text": "Argentina",
+        "iso2": "AR"
+      }
     },
     {
       "name": "Alaska Structures",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMR Magazine",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Ares",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Armada International Magazine",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Arroyo Footwear",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Axon' Cable",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BBI Detection",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BEIT ALFA TECHNOLOGIES LTD. (BAT)",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Bioamerica Defense Brasil",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Bose Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BR Defesa",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Brasimpex - Equipamentos Esportivos e Segurança",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BRVANT - Soluções Tecnológicas",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Car Station",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CBRNe WORLD",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Cellebrite",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CENTRAL 24 HORAS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Chemring Technology Solutions",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Cmos Drake",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Cobham",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Colt Defense LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Comlab AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "Comtex Indústria e Comércio",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CONDOR S.A. INDÚSTRIA QUÍMICA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CONTROP",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Covidence",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Cristanini do Brasil",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CSECO",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DCI - Defence Conseil International",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFENSE LEADERS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Defense Update",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "DefesaNet",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Detronix - Detectores de Metais",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "DSI Magazine",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "ECO X",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Elite Defense",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Engesig",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Engevix",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Enterprise Control Systems Ltd",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Esri",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EUROLAF",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EUROSATORY 2014 - COGES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EyeLock, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FAB DEFENSE",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "FINEP",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Flash Engenharia",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Flexprin",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Folha Militar",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Ford Caminhões",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "GARRENTT",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Geospotx",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Griffon Hoverwork Ltd",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GRUPO FALCÃO BAUER",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Grupo MILICIA",
-      "country": "Portugal"
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      }
     },
     {
       "name": "Hacking Team",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Hidden Technology Systems International",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HTS/4D Brasil",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Hubei Jiuzhiyang Infrared System CO., LTD",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Hytera",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "IBERIA ESPADAS MILITARES (Atlanta Cutlery Ltda.)"
     },
     {
       "name": "Indian Defence Yearbook",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "INFODEFENSA",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Integrated Microwave Technologies (IMT)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "iRobot Corporation - Defense & Security",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Israel Export Institute",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "JORNAL SEGNEWS",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "L-3 EOTech",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Laser Shot",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LD Software LTDA EPP (Oniria)",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "M1 TECNOLOGIA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Magirus GMBH",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MAN Latin America",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MC JEE",
@@ -388,295 +648,514 @@
     },
     {
       "name": "Memtex Ltd",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Microsoft",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MICROSYSTEMATION",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Milipol Botas Taticas",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MISTRAL GROUP",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Moais",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Modulo Security",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "MT4 TECNOLOGIA LTDA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Multstock",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Mystery Ranch",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Nightlaser",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "NUCTECH COMPANY LIMITED",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Nuntius Tecnologia",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "OAS Defesa",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Ops-Core, Inc",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Oscar Iskin",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Patagonia",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PAUL BOYE TECHNOLOGIES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Per Vices Corporation",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "PHOTONIS Night Vision",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Piexon",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Protecães",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PROTECOP",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Protecta - Coplatex",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RAFAEL",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Redot Tactical",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Renault do Brasil",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Renault Trucks Defence/Acmat/Panhard",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Revista Forças Armadas",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "REVISTA FORÇAS DE DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Revista Operacional",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Rhino Defense",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Rib Norsafe",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Rontan",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SAFETY WALL",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Safran",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Scanna Msc Inc",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Scott Safety",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SEGURANÇA & DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Selex ES",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Senai Cetiqt",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SHEPHARD MEDIA",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Sitmed Life Transport",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "SOSSul Defender",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Spectrolab",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Steelbras Antenas",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Stocktotal",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Stratosphere",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Suntech | Grupo Verint",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Supmar Estaleiro",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Surrey Hi-Tech Inc",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Surrey Satellite Technology Limited",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Takata Protection Systems",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TASER International",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Technical Communications Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TECNOLOGIA & DEFESA",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Telebras",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Telephonics Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Teltronic",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Tencate",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Thermo Fisher Scientific",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Tianjin Myway International Trading Co. Ltd.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Toyota",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Tufoil Brasil",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "UK Trade and Investment - Defense & Security Organisation",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ULTRAMAR",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "US SourceSecurity",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Vislink",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Von Roll do Brasil Ltda",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Wander Case",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "WELSER",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Worldpoint Brasil LLC",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "Zodiac Milpro",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     }
   ]
 }

@@ -4,7 +4,12 @@
   "edition": "2007",
   "startDate": "2007-04-11",
   "endDate": "2007-04-12",
-  "address": "Ottawa Congress Centre\nOttawa\nCanada",
+  "address": {
+    "text": "Ottawa Congress Centre\nOttawa\nCanada",
+    "iso2": "CA",
+    "lat": 45.424197,
+    "lon": -75.691773
+  },
   "website": "http://www.defenceandsecurity.ca/cansec2007/",
   "organiser": [
     {

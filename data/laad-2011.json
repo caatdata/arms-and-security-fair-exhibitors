@@ -9,8 +9,13 @@
   "edition": "2011",
   "startDate": "2011-04-09",
   "endDate": "2011-04-12",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
-  "website": "http://www.laadexpo.com/",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
+  "website": "http://www.laadexpo.com",
   "organiser": [
     {
       "name": "Clarion Defence"

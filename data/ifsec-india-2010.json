@@ -7,8 +7,13 @@
   ],
   "startDate": "2010-11-23",
   "endDate": "2010-11-25",
-  "address": "Bombay Exhibition Centre\nGoregaon (E)\nMumbai",
-  "website": "http://ifsecindia.com/",
+  "address": {
+    "text": "Bombay Exhibition Centre\nGoregaon (E)\nMumbai",
+    "iso2": "IN",
+    "lat": 19.1505016,
+    "lon": 72.8535788
+  },
+  "website": "http://ifsecindia.com",
   "organiser": [
     {
       "name": "UBM India",

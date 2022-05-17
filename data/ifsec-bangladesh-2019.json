@@ -7,7 +7,12 @@
   ],
   "startDate": "2019-04-18",
   "endDate": "2019-04-20",
-  "address": "ICCB\nDhaka\nBangladesh",
+  "address": {
+    "text": "ICCB\nDhaka\nBangladesh",
+    "iso2": "BD",
+    "lat": 23.8277687,
+    "lon": 90.426953
+  },
   "website": "https://www.ifsec.events/bangladesh/",
   "organiser": [
     {

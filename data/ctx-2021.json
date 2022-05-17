@@ -5,7 +5,12 @@
   "edition": "2021",
   "startDate": "2021-09-14",
   "endDate": "2021-09-16",
-  "address": "ExCeL London\nRoyal Victoria Dock\n1 Western Gateway\nLondon E16 1XL",
+  "address": {
+    "text": "ExCeL London\nRoyal Victoria Dock\n1 Western Gateway\nLondon E16 1XL",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
   "website": "https://ctexpo.co.uk",
   "social": [
     {

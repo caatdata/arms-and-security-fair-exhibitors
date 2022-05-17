@@ -8,8 +8,13 @@
   "edition": "2005",
   "startDate": "2005-06-21",
   "endDate": "2005-06-23",
-  "address": "Amsterdam Rai International Exhibition and Congress Center\nAmsterdam\nThe Netherlands",
-  "website": "http://www.udt-europe.com/",
+  "address": {
+    "text": "Amsterdam Rai International Exhibition and Congress Center\nAmsterdam\nThe Netherlands",
+    "iso2": "NL",
+    "lat": 52.3413201,
+    "lon": 4.888265
+  },
+  "website": "http://www.udt-europe.com",
   "organiser": [
     {
       "name": "Nexus Media Communications Ltd"

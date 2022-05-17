@@ -4,8 +4,13 @@
   "edition": "2019",
   "startDate": "2019-05-14",
   "endDate": "2019-05-16",
-  "address": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
-  "website": "https://www.securex.co.za/",
+  "address": {
+    "text": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
+    "iso2": "ZA",
+    "lat": -26.0016667,
+    "lon": 28.1297222
+  },
+  "website": "https://www.securex.co.za",
   "organiser": [
     {
       "name": "Specialised Exhibitions – a division of Montgomery Group",

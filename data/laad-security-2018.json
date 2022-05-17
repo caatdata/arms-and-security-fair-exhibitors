@@ -7,8 +7,13 @@
   "edition": "2018",
   "startDate": "2018-04-10",
   "endDate": "2018-04-12",
-  "address": "Transamerica Expo Center\nAv. Dr. Mário Villas Boas Rodrigues, 387\nSanto Amaro\nSão Paulo\nSP\nBrasil",
-  "website": "http://laadsecurity.com.br/",
+  "address": {
+    "text": "Transamerica Expo Center\nAv. Dr. Mário Villas Boas Rodrigues, 387\nSanto Amaro\nSão Paulo\nSP\nBrasil",
+    "iso2": "BR",
+    "lat": -23.6492342,
+    "lon": -46.71886199999999
+  },
+  "website": "http://laadsecurity.com.br",
   "social": [
     {
       "platform": "linkedin",

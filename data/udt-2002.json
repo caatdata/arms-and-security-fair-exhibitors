@@ -8,7 +8,12 @@
   "edition": "2002",
   "startDate": "2002-06-18",
   "endDate": "2002-06-20",
-  "address": "Palasport\nPALASPEZIA\nVia Federici\n19100 La Spezia\nItaly",
+  "address": {
+    "text": "Palasport\nPALASPEZIA\nVia Federici\n19100 La Spezia\nItaly",
+    "iso2": "IT",
+    "lat": 44.1157118,
+    "lon": 9.8474337
+  },
   "website": "http://www.udtnet.com/europe/",
   "organiser": [
     {

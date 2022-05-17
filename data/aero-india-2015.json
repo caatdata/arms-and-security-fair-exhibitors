@@ -4,7 +4,12 @@
   "edition": "2015",
   "startDate": "2015-02-18",
   "endDate": "2015-02-22",
-  "address": "Yelahanka Air Force Station\nBenglauru\nIndia",
+  "address": {
+    "text": "Yelahanka Air Force Station\nBenglauru\nIndia",
+    "iso2": "IN",
+    "lat": 13.1372433,
+    "lon": 77.6102844
+  },
   "website": "https://aeroindia.gov.in",
   "exhibitorListUrl": "https://idoc.pub/download/aero-india-2015-exhibitors-list-vnd5p2eqyglx",
   "exhibitorListDate": "2019-01-07T08:40:27+00:00",

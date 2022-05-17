@@ -5,8 +5,13 @@
   "edition": "2023",
   "startDate": "2023-12-05",
   "endDate": "2023-12-07",
-  "address": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
-  "website": "https://www.gulfdefense.com/",
+  "address": {
+    "text": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
+    "iso2": "KW",
+    "lat": 29.2660313,
+    "lon": 47.8625634
+  },
+  "website": "https://www.gulfdefense.com",
   "organiser": [
     {
       "name": "Kuwait Ministry of Defense"

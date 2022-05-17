@@ -5,7 +5,12 @@
   "alias": "International Exhibition for Internal State Security, Local Communities and Industrial Site Security, Civil Defence",
   "startDate": "1997-11-24",
   "endDate": "1997-11-28",
-  "address": "Paris-Le Bourget Exhibition Centre\nParis\nFrance.",
+  "address": {
+    "text": "Paris-Le Bourget Exhibition Centre\nParis\nFrance.",
+    "iso2": "FR",
+    "lat": 48.9441442,
+    "lon": 2.4300174
+  },
   "website": [
     "http://www.milipol.com/anglais/paris/paris.html",
     "https://fr.1001mags.com/parution/action-armes-tir/numero-201-jui-aou-1997/page-60-61-texte-integral"
@@ -25,11 +30,17 @@
   "exhibitor": [
     {
       "name": "A2CM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AAP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABARBANEL",
@@ -37,51 +48,87 @@
     },
     {
       "name": "ACAL AURIEMA",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ACIAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACKERGLASS - EUROPRO",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACMAT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGEMA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGEN PAL",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AGLO",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGORA TECHNOLOGIQUES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIGIS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIR LIQUIDE SANTE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIR TASER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AITOR",
@@ -89,23 +136,40 @@
     },
     {
       "name": "AJIDIS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AKAH",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AKZO NOBEL",
-      "country": "NDL"
+      "address": {
+        "text": "NDL",
+        "iso2": "GB",
+        "lat": 53.9243922,
+        "lon": -1.3742727
+      }
     },
     {
       "name": "ALCATEL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALCATEL ISR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALCATEL SEL AG",
@@ -113,23 +177,38 @@
     },
     {
       "name": "ALCEA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALIS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALLEN P.W.",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ALLIANCE REVUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALLIEDSIGNAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALPHA ZAICON TECHNOLOGY INC",
@@ -137,11 +216,17 @@
     },
     {
       "name": "ALSETEX (SAE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALTAMA COMBAT BOOTS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMBASSADE DU CANADA",
@@ -149,31 +234,52 @@
     },
     {
       "name": "AMERICAN BODY ARMOR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMERICAN SCIENCE & ENGINEERING Inc (AS & E)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ANGENIEUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ANTHENA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AO \"TECHSNABEXPORT\"",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "APAVE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APLIX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APPEL INTERNATIONAL",
@@ -185,15 +291,24 @@
     },
     {
       "name": "ARES PROTECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARNOLD ENGINEERING PLASTICS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ARPEGE DEFENSE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASAI AG",
@@ -201,19 +316,31 @@
     },
     {
       "name": "ATET",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ATHANOR (SIVT)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATI ASSMANN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUDIOTEL",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AURATEK",
@@ -221,11 +348,19 @@
     },
     {
       "name": "AUSTRIALPIN",
-      "country": "AUT"
+      "address": {
+        "text": "AUT",
+        "iso2": "NZ",
+        "lat": -36.8536098,
+        "lon": 174.7664805
+      }
     },
     {
       "name": "AUTOMOBILES CITROEN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVIATEX ALMEX TECHNOLOGY",
@@ -233,7 +368,10 @@
     },
     {
       "name": "AXIOME TECHNOLOGIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AZIMUTH TECHNOLOGIES",
@@ -241,7 +379,10 @@
     },
     {
       "name": "BALSAN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BARCO VISUAL SYSTEMS",
@@ -249,7 +390,10 @@
     },
     {
       "name": "BARRINGER EUROPE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BAZAN",
@@ -261,23 +405,38 @@
     },
     {
       "name": "BERETTA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BEX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BIEFFE HELMETS",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BIPALOG",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BIRMINGHAM BARBED TAPE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BKE MEDIA",
@@ -285,7 +444,10 @@
     },
     {
       "name": "BMPM (Bataillon des Marins Pompiers de Marseille)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BMW AG",
@@ -297,19 +459,31 @@
     },
     {
       "name": "BOLLE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BOLLORE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BOULEAUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRITISH AEROSPACE",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BROWNING",
@@ -317,7 +491,10 @@
     },
     {
       "name": "BSPP (Brigade des Sapeurs Pompiers de Paris)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BULLARD GmbH",
@@ -325,31 +502,52 @@
     },
     {
       "name": "CABINES DENIZET",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CAC SYSTEMES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CAMIVA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEES INDUSTRIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEIA INTERNATIONAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CENTURION ORDNANCE INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CEOTRONICS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CESKA-ZBROJOVKA (CZ)",
@@ -357,15 +555,24 @@
     },
     {
       "name": "CHATELARD SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CIBA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CIVIL DEFENCE SUPPLY",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CK TECHNOLOGY",
@@ -373,47 +580,80 @@
     },
     {
       "name": "CODUPAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COFREXPORT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COM 1 SECURITY",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMASEC SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMMISSARIATS TERRE AIR MER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMODITEX GROUPE BACOU",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMSAT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CONFECTION SEVRE VENDEE (CSV)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CRAFTEX",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CRELEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CS SYSTEMES DE SECURITE) C3S",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CUCHILLERIAS DEL NORTE",
@@ -425,27 +665,45 @@
     },
     {
       "name": "DAIMLER-BENZ  AEROSPACE FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DAP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DASSAULT ELECTRONIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DATEL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DCN LORIENT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFENCIV",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFEX",
@@ -453,43 +711,75 @@
     },
     {
       "name": "DEISTER ELECTRONIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DELTANIC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEMINEX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DGA (PYROTECHNIE SAINT-NICOLAS)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DIRICKX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DLD",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DOURSOUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DRAEGER INDUSTRIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DSM HIGH PERFORMANCE FIBERS",
-      "country": "NDL"
+      "address": {
+        "text": "NDL",
+        "iso2": "GB",
+        "lat": 53.9243922,
+        "lon": -1.3742727
+      }
     },
     {
       "name": "DSOA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DU PONT DE NEMOURS",
@@ -497,11 +787,17 @@
     },
     {
       "name": "E.A.R.",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "E.A.S.",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EBINGER",
@@ -509,35 +805,59 @@
     },
     {
       "name": "EPS ADMINISTRATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EG & G",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EKONT",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ELNO",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECLATS ANTIVOLS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EQUIPOL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ERTF",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ESDT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETI A/S",
@@ -545,15 +865,24 @@
     },
     {
       "name": "ETNA PRODUCTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETOILE INTERNATIONAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETRALI",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROFEDOP",
@@ -561,27 +890,45 @@
     },
     {
       "name": "EUROP-SCAN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROPEENNE SECURITE PRIVEE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EXPORT TRADING SERVICES (ETS)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FACE AU RISQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FACIM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FAIVELEY TRANSPORT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FALKEN",
@@ -589,15 +936,24 @@
     },
     {
       "name": "FAPSI",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "FEDERAL  SIGNAL EUROPE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FICHET SECURITE PHYSIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FMS MIGUN",
@@ -609,7 +965,10 @@
     },
     {
       "name": "FNSPF (Fédération Nationale des Sapeurs-Pompiers de France)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FOBUS INTERNATIONAL Ltd",
@@ -625,91 +984,157 @@
     },
     {
       "name": "FOVEA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FRANCE INFORMATIQUE TECHNOLOGIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FRANCE SELECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FRANCE TELECOM RESEAUX ET SERVICES INTERNATIONAUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FRANCLAIR SIGNALISATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FSS OF THE RUSSIA",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "FUJIFILM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "G3S EUROPE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GAILLON TEXTILES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GALLET SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GENDARMERIE NATIONALE (Ministère de la Défense)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GERAND SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GES / MRT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GIAT INDUSTRIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GIAT INDUSTRIES (DEMINEX)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GIE SECTRANS (RATP)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GILLES (BONNETERIES)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GK PRODUCTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOBAL ASSOCIATES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOCK",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GMT MAGLITE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GORE ET ASSOCIES (W.L)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GOTTLIEB BINDER",
@@ -717,7 +1142,10 @@
     },
     {
       "name": "GROUPE DICKSON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GUARNICIOERIA ROAL",
@@ -725,23 +1153,38 @@
     },
     {
       "name": "GUENEAU INDUSTRIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "H. BELIGNE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "H FINE & SON",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HAFFNER TECHNOLOGIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HALBERTHAL ELECTRONIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HATEHOF",
@@ -749,7 +1192,10 @@
     },
     {
       "name": "HEARTLAND GROUP",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HECKLER UND KOCH (HK)",
@@ -769,11 +1215,17 @@
     },
     {
       "name": "HEURE & CONTROLE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HIATTS & CO",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HIGHMARK MANUFACTURING CO",
@@ -781,35 +1233,59 @@
     },
     {
       "name": "HOUSSARD SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HUMBERT - GROUPE NOBEL (SNPE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HURRICANE COMMUNICATIONS",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "HUTCHINSON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HYMATOM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "I2E",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ICARE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ICOM FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IDC SYSTEM AG",
@@ -817,11 +1293,17 @@
     },
     {
       "name": "IDIPS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IDMATICS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IES ELECTRONICS",
@@ -833,11 +1315,17 @@
     },
     {
       "name": "IFRATEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IMPRIMERIE NATIONALE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INFRAMETRICS",
@@ -849,7 +1337,10 @@
     },
     {
       "name": "INSTITUT DE RECHERCHE SPECIALE",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "INTEGRATED SYSTEMS RESEARCH CORP.",
@@ -857,31 +1348,52 @@
     },
     {
       "name": "INTERNATIONAL ADVANCED TECHNOLOGY",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "INTERNATIONAL TELECOMMUNICATIONS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INTERPOL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INTERSEC",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ION TRACK INSTRUMENTS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IRENCO",
-      "country": "RSA"
+      "country": {
+        "text": "RSA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ISOCLIMA",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ISRAEL MILITARY INDUSTRIES",
@@ -889,15 +1401,24 @@
     },
     {
       "name": "ITALIANA PONTI RADIO",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ITS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ITT NIGHT VISION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ITURRI",
@@ -905,11 +1426,17 @@
     },
     {
       "name": "JANE'S INFORMATION GROUP",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JENOPTEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JERVEN",
@@ -917,7 +1444,10 @@
     },
     {
       "name": "JR INTERNATIONAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KATA LTD",
@@ -925,47 +1455,80 @@
     },
     {
       "name": "KERMEL-NYLSTAR-TERGAL FIBRE GROUPE (RHONE POULENC)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KO PROTECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KONTRON ELECTRONIK",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KREUTLER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "L2S",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "L'ESSOR DE LA GENDARMERIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LABBE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LABELEX",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "LACOURT Ets",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LANDIMAT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LASERCARD SYSTEM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEGION MCRAE OF PAGE 84",
@@ -973,59 +1536,101 @@
     },
     {
       "name": "LE PROTECTEUR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEMOINE PERIGNON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LES HUTTES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LITTON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LMCA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LOHR INDUSTRIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LUTETIA PROTECTION RAPPROCHEE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MADELIN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MAGNUM INDUSTRIALE",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MARCK SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MARTEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MASKPOL",
-      "country": "POL"
+      "country": {
+        "text": "POL",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MATERIEL CIVIL ET ADMINISTRATIF",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MATRA COMMUNICATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MEHLER TECHNISCHE TEXTILIEN",
@@ -1033,11 +1638,17 @@
     },
     {
       "name": "MERCURA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "METALIC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "METALLWERK ELISENHUTTE (MEN)",
@@ -1045,11 +1656,17 @@
     },
     {
       "name": "MICHAELS of OREGON",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MIDWEST TRADING CORPORATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MIGOON PERSONAL PROTECTION",
@@ -1057,27 +1674,49 @@
     },
     {
       "name": "MILIPOL QATAR",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "MILS ELECTRONIK",
-      "country": "AUT"
+      "address": {
+        "text": "AUT",
+        "iso2": "NZ",
+        "lat": -36.8536098,
+        "lon": 174.7664805
+      }
     },
     {
       "name": "MINISTERE  FRANCAIS DE L'INTERIEUR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MINISTERE  FRANCAIS DE LA DEFENSE (COMMISSARIATS TERRE - AIR - MER)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MINISTERE FRANCAIS DE L'ECONOMIE ET DES FINANCES (DOUANES)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MINISTERE RUSSE DE L'INTERIEUR",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MONCH PUBLISHING GROUP",
@@ -1085,23 +1724,38 @@
     },
     {
       "name": "MORATEX ITWW",
-      "country": "POL"
+      "country": {
+        "text": "POL",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MOSSBERG & SONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MOTOROLA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NAUTIRAID",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NCV (NEBON CARLE VASSOILLES)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NICE SYSTEMS",
@@ -1113,27 +1767,45 @@
     },
     {
       "name": "NOBEL SECURITE (SNPE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NOIRET BOHAIN SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "O' GARA COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "O' GARA SATELLITE NETWORKS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OFFICIEL DE LA SECURITE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OLSY (OLIVETTI)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ORAN",
@@ -1145,23 +1817,38 @@
     },
     {
       "name": "PAINS WESSEX / CHEMRING",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PANASONIC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PARADE ERAM SECURITE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PARINOR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PAUL BOYE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PAVILLON ALLEMAND / GERMAN PAVILION",
@@ -1169,11 +1856,17 @@
     },
     {
       "name": "PAVILLON AMERICAIN / US PAVILION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PAVILLON BRITANNIQUE / UK PAVILION",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PAVILLON CANADIEN / CANADIAN PAVILION",
@@ -1189,11 +1882,17 @@
     },
     {
       "name": "PAVILLON RUSSE / RUSSIAN PAVILION",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "PENICOT SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PENTEADORA",
@@ -1201,27 +1900,45 @@
     },
     {
       "name": "PERIPHERIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PETZL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PEUGEOT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PEUGEOT CYCLE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PEUGEOT MOTOCYCLE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PGM PRECISION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PHONAK",
@@ -1229,7 +1946,10 @@
     },
     {
       "name": "PIERRE CARDIN MILITARIA HAUTE TECHNOLOGIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PLASAN SASA",
@@ -1237,7 +1957,10 @@
     },
     {
       "name": "PLASCOA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "POINT BLANK BODY ARMOR INC (ZUNBLINDAGE)",
@@ -1245,55 +1968,94 @@
     },
     {
       "name": "POLAROID",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "POLICE REVIEW PUBLISHING",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "POSITIVE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PREMIER HAZARD",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PRETORY",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRINCHIM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROLINE TEXTILES (LAINIERE DE PICARDIE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRONOR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROTECH ARMORED PRODUCTS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PROTEXARMS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PSE FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PUBLIC SAFETY",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PYSER SGI LTD  -  FRANCIS BARKER DIV.",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RABINTEX",
@@ -1301,11 +2063,17 @@
     },
     {
       "name": "RACON EUROPE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RADAR LEATHER DIVISION",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RAMI CERAMICS INDUSTRIES",
@@ -1313,27 +2081,45 @@
     },
     {
       "name": "RATP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RBR INTERNATIONAL Ltd",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "REALISATIONS  & CONSEILS HYPERBARES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "REGION PICARDIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "REICO - EFICCA FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RENAULT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RHEINMETALL JENA IMAGE TECHNOLOGY",
@@ -1341,7 +2127,10 @@
     },
     {
       "name": "RHOVYL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RIOPELE",
@@ -1349,51 +2138,87 @@
     },
     {
       "name": "RITZENTHALER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RIVOLIER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ROGER VIDAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ROVER",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RTS ELECTRONICS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RUGGIERI",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "S2M DISK PACK",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SACEX EUROPE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAF",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAGEM SA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAINT FRERES CONFECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAMSON DIVISION OF DISTRACO SA",
@@ -1401,15 +2226,24 @@
     },
     {
       "name": "SAMU 92",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SANDIA IMAGING SYSTEMS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "S.A.N.D.R.A.",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SANTA BARBARA",
@@ -1417,7 +2251,10 @@
     },
     {
       "name": "SAPL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SCHLEGEL",
@@ -1425,7 +2262,10 @@
     },
     {
       "name": "SCHLUMBERGER TRANSACTIONS ELECTRONIQUES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SCHUBERTH HELME",
@@ -1433,7 +2273,10 @@
     },
     {
       "name": "SCIENTIFIC RESEARCH INSTITUTE OF STEEL",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SCINTREX",
@@ -1441,39 +2284,66 @@
     },
     {
       "name": "SCOPEX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SECURIMAG",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SECURITE ECHOS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SEMA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SERB-REGAIN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SFE FMA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SFIM TRAFIC TRANSPORT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIDAM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIDES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIG SAUER",
@@ -1481,7 +2351,10 @@
     },
     {
       "name": "SIGIER-CAPELLE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SECURITY ISRAEL 98",
@@ -1493,7 +2366,10 @@
     },
     {
       "name": "SILLINGER INTERNATIONAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIM SECURITY ELECTRONIC SYSTEM",
@@ -1501,7 +2377,10 @@
     },
     {
       "name": "SIMOCO FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIMUNITION",
@@ -1509,35 +2388,59 @@
     },
     {
       "name": "SIRAC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIRENA",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "SOCATA GROUPE AEROSPATIAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOCIETE NOUVELLE ICLON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SODIELEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFRAME",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOGERA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SORHEA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOS - SOURCE OF SOUND MAAYANEI HATSLIL Ltd",
@@ -1545,7 +2448,10 @@
     },
     {
       "name": "SPECIAL MATERIALS LTD",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SPECTRONIC",
@@ -1557,27 +2463,47 @@
     },
     {
       "name": "STARLUX BEARANGE",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "STATE OF QATAR (Ministry of Interior)",
-      "country": "QTR"
+      "address": {
+        "text": "QTR",
+        "iso2": "GB",
+        "lat": 51.3757871,
+        "lon": -1.2809188
+      }
     },
     {
       "name": "SWISSPHONE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STOP STICK INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "STOPSON CREATIONS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SULLY PRODUITS SPECIAUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SVOS Sro",
@@ -1585,39 +2511,66 @@
     },
     {
       "name": "SYSECA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "T.T.E.",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TALUX",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TC PRODUCTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TDA ARMEMENT (DEMINEX)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TDA ARMEMENT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TEB LB",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECH UP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECHMATION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TELEROB",
@@ -1625,7 +2578,12 @@
     },
     {
       "name": "TEN-CATE",
-      "country": "NDL"
+      "address": {
+        "text": "NDL",
+        "iso2": "GB",
+        "lat": 53.9243922,
+        "lon": -1.3742727
+      }
     },
     {
       "name": "TERRA FOOT WEAR",
@@ -1633,27 +2591,45 @@
     },
     {
       "name": "THIFAN INDUSTRIE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF COMMUNICATIONS (TCC)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF MISSILES ELECTRONIC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF OPTRONIQUE (TCO)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THOMSON-CSF SECURITE (TSE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TISSU ROTHRIST",
@@ -1661,15 +2637,24 @@
     },
     {
       "name": "TOHANN-FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TOYOTA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TR EQUIPEMENTS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TRAFFIPAX VERTRIEB",
@@ -1677,15 +2662,24 @@
     },
     {
       "name": "TRIJICON",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TROIS PYLONES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TROUILLET CARROSSIER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TSA TELECOM",
@@ -1701,15 +2695,24 @@
     },
     {
       "name": "VD OPTRONIQUE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VERNEY CARRON",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VEYRIER",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VIDISCO Ltd",
@@ -1717,35 +2720,59 @@
     },
     {
       "name": "VISIOM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VON-ROLL ISOLA (UDD-FIM)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VTN INDUSTRIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VYMPEL ASSOCIATION",
-      "country": "RUS"
+      "country": {
+        "text": "RUS",
+        "iso2": "RU"
+      }
     },
     {
       "name": "W.L. GORE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "YAMAHA MOTOR FRANCE (DIVISION MARINE)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "YAMAHA MOTOR FRANCE (DIVISION MOTO)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ZODIAC INTERNATIONAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     }
   ]
 }

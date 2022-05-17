@@ -7,7 +7,12 @@
   "edition": "2016",
   "startDate": "2016-04-12",
   "endDate": "2016-04-14",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
   "website": "http://www.laadsecurity.com.br/2016/",
   "organiser": [
     {

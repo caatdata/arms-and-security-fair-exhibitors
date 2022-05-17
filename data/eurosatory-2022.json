@@ -4,7 +4,12 @@
   "edition": "2022",
   "startDate": "2022-07-13",
   "endDate": "2022-07-17",
-  "address": "Paris Nord Villepinte Exhibition Center\nZAC Paris Nord 2\n93420 Villepinte\nFrance",
+  "address": {
+    "text": "Paris Nord Villepinte Exhibition Center\nZAC Paris Nord 2\n93420 Villepinte\nFrance",
+    "iso2": "FR",
+    "lat": 48.9745216,
+    "lon": 2.5147835
+  },
   "website": "http://www.eurosatory.com",
   "organiser": [
     {
@@ -39,195 +44,339 @@
   "exhibitor": [
     {
       "name": "3M / PELTOR",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "4C EUROPE UK",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "A. HAROLD AND ASSOCIATES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "A2R ELECTRONIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AADS",
-      "country": "GIBRALTAR"
+      "country": {
+        "text": "GIBRALTAR",
+        "iso2": "GI"
+      }
     },
     {
       "name": "AALBORG UNIVERSITET",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "AAR MOBILITY SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AART ELECTRONICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABEILLON",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABMI GROUPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACE INGENIERIE - MEKABOY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACGB SAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACHLEITNER",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ACROMAG",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ACS - ARMOURED CAR SYSTEMS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ACTEMIUM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACTIA TELECOM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACTINBLACK EUROPE",
-      "country": "LUXEMBOURG"
+      "country": {
+        "text": "LUXEMBOURG",
+        "iso2": "LU"
+      }
     },
     {
       "name": "ADDUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADR USINAGE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADS",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ADS GROUP LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ADV2S",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADVANCED ARMOUR ENGINEERING",
-      "country": "UNITED ARAB EMIRATES"
+      "country": {
+        "text": "UNITED ARAB EMIRATES",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AERACCESS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AERIADES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AEROCENTRE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AEROGLOW INTERNATIONAL",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROMAPPER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AERONAUTICS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AEROSPACELAB",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "AEROVIRONMENT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AFDA - ASSOCIATION OF FINNISH DEFENCE & AEROSPACE",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "AGELEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fAGENCIJA ALAN D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "AGENIUM IT & SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGILINK GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGP EUROPE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AGUERIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIAD & M.O.D",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIGA CONCEPT",
-      "country": "PORTUGAL"
+      "country": {
+        "text": "PORTUGAL",
+        "iso2": "PT"
+      }
     },
     {
       "name": "AIM INFRAROT-MODULE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AIMPOINT AB",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "AIRBORN",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIRBORNE SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRBORNE TECHNOLOGIES",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AIRBOSS DEFENSE GROUP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRBUS",
@@ -235,1835 +384,3209 @@
     },
     {
       "name": "AKG FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALASKA STRUCTURES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALCEN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALEPH NETWORKS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALITER TECHNOLOGIES",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "ALLISON TRANSMISSION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALSETEX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALSONS INDUSTRIES (PVT)",
-      "country": "PAKISTAN"
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      }
     },
     {
       "name": "ALSYMEX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALTYTUD",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AM GENERAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMATEC",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AMERICAN POWER SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMETRA GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AMETRA INTEGRATION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AMG PRO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AMPHENOL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ANAVIA",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "ANV KNIVES",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "APAVE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AP-FLYER SP. Z O.O.",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "APLUS SYSTEME AUTOMATION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APPI -TECHNOLOGY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APPLICATIONS COMPOSITES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APS COATING SOLUTIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARCQOR",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ARELIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARES FSS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AREX D.O.O. SENTJERNEJ",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "ARGON CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "\fARKANIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARMAS D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "ARMASSGLASS",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ARMONA SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARMORSOURCE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARMY RECOGNITION",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "ARQUUS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARSENAL 2000 JSCO",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "ART CONCEPT COMPOSITES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASB",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASELEC TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASELSAN",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ASHOKA MANUFACTURING LIMITED",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "ASPEN WATER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ASTECH PARIS REGION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATELIERS ROCHE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATERMES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATESCI",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ATN EUROPE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ATOS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATRI JSC",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "ATS - GROUPE AGS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATS GROUP DOOEL SKOPJE",
-      "country": "NORTH MACEDONIA"
+      "country": {
+        "text": "NORTH MACEDONIA",
+        "iso2": "MK"
+      }
     },
     {
       "name": "ATTAX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUSA (ASSOCIATION OF THE US ARMY)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AUSTRIAN DEFENCE & SECURITY INDUSTRY GROUP",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AUSTRIAN FEDERAL ECONOMIC CHAMBER",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AUTOFLUG",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AUXILIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVANTIX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVEC CHEM",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AVIAGROUP INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVL LIST",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AVNON GROUP",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AVON PROTECTION",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AXNES",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "AXON CABLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AZUR SIEGE FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "B.E. MEYERS & CO.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BACHMANN RDS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BAE SYSTEMS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BARRETT FIREARMS MANUFACTURING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BARRON INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BAUDRY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fB-B SYSTEMTECHNIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BDSV E.V.",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BELLEVILLE BOOT COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BELSS",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "BENELLI ARMI",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BERNIER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BERTIN TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BIEMMEDUE",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BIJOL D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "BIRD AEROSYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "BITTIUM",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "BLACKNED",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BLÜCHER GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BLUEBIRD AERO SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "BMC",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "BODY ARMOR RECYCLER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BOFORS TEST CENTER",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "BOREAL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BOWEN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BREN-TRONICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRISTOL TRUST OÜ",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "BRM INDUSTRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BROWNELL - DIATERO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BRUHN NEWTECH",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "BRUKER OPTICS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BSDI",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "BSST",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BULLET LINER FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BUMHAN FUEL CELL CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "C.E. NIEHOFF & CO",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CALIP GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CAMERO-TECH",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CARINTHIA | GOLDECK TEXTIL",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "CARMENTA GEOSPATIAL TECHNOLOGIES",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "C-ASTRAL D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "CATERPILLAR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CATHYOR ENGINEERING",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "CATOIRE SEMI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CBC DEFENSE",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CBNW",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CCI ALSACE EUROMÉTROPOLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CCI BOURGOGNE FRANCHE COMTE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fCCO CREATIVE CONSULTING",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "CEFA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEGELEC DEFENSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEIA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CELLULAR EXPERT",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "CENTIGON FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CENTRAIR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CENTURY ARMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CEOTRONICS AG",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "CERAMTEC-ETEC",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "CERBAIR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CES ADVANCED COMPOSITE AND DEFENCE TECHNOLOGIES",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "CESKA ZBROJOVKA",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "CHAISERI METAL & RUBBER CO",
-      "country": "THAILAND"
+      "country": {
+        "text": "THAILAND",
+        "iso2": "TH"
+      }
     },
     {
       "name": "CHAMBRE DE COMMERCE DU LUXEMBOURG",
-      "country": "LUXEMBOURG"
+      "country": {
+        "text": "LUXEMBOURG",
+        "iso2": "LU"
+      }
     },
     {
       "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE PARIS IDF",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHAMBRELAN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHANAKYA AEROSPACE, DEFENCE & MARITIME REVIEW",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "CHARLATTE MANUTENTION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHELTON LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CHESS DYNAMICS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CHINA NORTH INDUSTRIES CORP (NORINCO)",
-      "country": "CHINA"
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CHORA",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "CI SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CILAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CIO IVECO OTO MELARA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CIRRA PACKAGING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CISTROM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CLARION DEFENCE & SECURITY",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CLEMESSY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CLP SYSTEM",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "CNH INDUSTRIAL FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CNIM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CNIM AIR SPACE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CODECHAMP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COLLINS AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "COMBITECH",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "COMETE J. PARIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMEXPOSIUM SECURITY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COMROD COMMUNICATION",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "COMU SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CONTOUR ADVANCED SYSTEMS",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "CONTROL SOLUTIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CONTROP PRECISION TECHNOLOGIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "\fCOOK DEFENCE SYSTEMS LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COPTERPIX",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CORDON DS2I",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COREDUX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CORMACH",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CORSO MAGENTA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COUNTER IED-REPORT",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CP CASES LTD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CP FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CPM ELETTRONICA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "C-RICH CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "CRISTANINI",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CROATIAN CHAMBER OF ECONOMY",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "CROSHIELD D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "CS GROUP FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CST - COPENHAGEN SENSOR TECHNOLOGY",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "CSTM EUROPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CTG",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CUBIC MISSION AND PERFORMANCE SOLUTIONS (CMPS)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ÇUKUROVA MAKINA IMALAT VE TICARET",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "CUMMINS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CURTISS-WRIGHT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CYALUME TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CZECHOSLOVAK GROUP",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "D&M HOLDING COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DA-GROUP",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "DAHER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DAIMLER TRUCK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DANIELSON ENGINEERING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DANISH DEFENCE AND SECURITY INDUSTRIES",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DANTHERM",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DARLEY DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DASAN MACHINERIES CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DAT - CON D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "DATA PROFIT INTERNATIONAL LIMITED",
-      "country": "HONG KONG"
+      "country": {
+        "text": "HONG KONG",
+        "iso2": "HK"
+      }
     },
     {
       "name": "DAUDE FABRICATION",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "DAVID BROWN SANTASALO UK",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DBDC INTERNATIONAL DEFENCE PUBLICATIONS",
-      "country": "CYPRUS"
+      "country": {
+        "text": "CYPRUS",
+        "iso2": "CY"
+      }
     },
     {
       "name": "DCI GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DC-SUPPLY",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DECOLLETAGE DU BERRY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFCON 5",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "DEFENCE 21",
-      "country": "LEBANON"
+      "country": {
+        "text": "LEBANON",
+        "iso2": "LB"
+      }
     },
     {
       "name": "DEFENCE EXPORT PROMOTION ORGANIZATION-DEPO",
-      "country": "PAKISTAN"
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      }
     },
     {
       "name": "\fDEFENCE PROCUREMENT INTERNATIONAL",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DEFENDEC OÜ",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "DEFENSPHERE OU",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "DEFENTURE",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DEFSECINTEL SOLUTIONS OÜ",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "DEGOISEY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DELTA DRONE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DENCRYPT",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DERICHEBOURG AERONAUTICS SERVICES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DERIVERY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DESAPRO",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DESAUTEL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DESCHAMPS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DESMAN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEV'UP CENTRE-VAL DE LOIRE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DICOD",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DIEHL DEFENCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIGGER-DTR",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "DIGITAL RESEARCH AND CONSULTING CO.",
-      "country": "THAILAND"
+      "country": {
+        "text": "THAILAND",
+        "iso2": "TH"
+      }
     },
     {
       "name": "DILLINGER HÜTTENWERKE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DILLON AERO",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DIPROMED",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "DIVA ROBOTICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DIXI MICROTECHNIQUES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DOK-ING D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "DOLL FAHRZEUGBAU",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DONG IN OPTICAL CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "DRÄGER FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DREHTAINER",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DRONE VOLT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DST DEFENCE SERVICE TRACKS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DTC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DTU SPACE INSTITUT",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DUNARIT CORP",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "DUPONT INTERNATIONAL OPERATIONS",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "DYNAMIT NOBEL DEFENCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EASYCUBE 4 TRADING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECA GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECONOMAT DES ARMÉES - EDA -",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECOSUN INNOVATIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECRIN SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EDISER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EGIDIUM TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EGO ZLIN SPOL.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "\fEID S.A.",
-      "country": "PORTUGAL"
+      "country": {
+        "text": "PORTUGAL",
+        "iso2": "PT"
+      }
     },
     {
       "name": "EIKOSIM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELAN D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "ELASTOPOLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELAUL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELBIT SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELBIT SYSTEMS OF AMERICA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ELDIM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELDIS PARDUBICE, S.R.O.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ELECTRONIC COMMUNICATIONS OFFICE OF LATVIA SJSC",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "ELECTRONIC DEVICE SOLUTION",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "ELECTROPOLI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELEXO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELIKA TEAM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELMA ELECTRONIC FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELNO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EM.TRONIC D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "EM2 LES EMBALLAGES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EMD",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EMPL FAHRZEUGWERK GES.M.B.H.",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "EMS CONCEPT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ENGINEERED LAND SYSTEMS",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ENGINEERING CENTER STEYR",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ENSIGN-BICKFORD AEROSPACE & DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ENTERPRISE ESTONIA",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "ENTERPRISE LITHUANIA",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "ENVIRONICS OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "EODH SA",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "EOS TECHNOLOGIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EPCI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EPCOTS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EPSI - ITNI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EPSILOR",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ERICH JAEGER FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ESARIS INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ESCRIBANO MECHANICAL & ENGINEERING",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ESRI",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ESSONNE SECURITE / ARMORIC HOLDING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ETHR OÜ",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "EURENCO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EURO BENGALE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EURO SECURITY PRODUCTS",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "EUROPEAN DEFENCE REVIEW",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROPLAST-NYCAST",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "\fEUROSAM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROSATCOM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROSATORY LAB",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROTRADE SA",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "EVERAXIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EVERTZ",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "EVOLVING SYSTEMS CONSULTING",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "EVPU DEFENCE A. S.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "EXCALIBUR ARMY",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "EXCOSYSTEM",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "EXENSOR",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "EXPAL SYSTEMS",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "EXPLEO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EXPLORER CASES BY GT LINE",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "EXTRON",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "EXXELIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "F.W.BREITHAUPT & SOHN",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FACTEM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FAIR MANAGEMENT",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "FALCOM",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "FALKEN S.A.U.",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "FANTASSINS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FASSI GRU",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FAYMONVILLE DISTRIBUTION",
-      "country": "LUXEMBOURG"
+      "country": {
+        "text": "LUXEMBOURG",
+        "iso2": "LU"
+      }
     },
     {
       "name": "FEDERAL-MOGUL SYSTEMS PROTECTION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FFG FLENSBURGER FAHRZEUGBAU GESELLSCHAFT MBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FIBROTEX TECHNOLOGIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "FINGERMIND",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FIOCCHI MUNIZIONI",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FIRECO",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FISCHER CONNECTORS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FISCHER PANDA",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FIXATION TECHNIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FJORD DEFENCE",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "FLEURET",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FLEURY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FLEX CONNECT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FLYING EYE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FMG DEFENCE",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "FMV",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "FN HERSTAL",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "FONDERIE BARBAS ET PLAILLY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FONDIS ELECTRONIC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FORCE MAGAZINE",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "\fFORCE TECHNOLOGY",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "FORCIT OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "FOREIGN TRADE CHAMBER OF BOSNIA AND HERZEGOVINA",
-      "country": "BOSNIA AND HERZEGOVINA"
+      "country": {
+        "text": "BOSNIA AND HERZEGOVINA",
+        "iso2": "BA"
+      }
     },
     {
       "name": "FOSINA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FOX KNIVES - ORESTE FRATI",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FREEMINDTRONIC",
-      "country": "ANDORRA"
+      "country": {
+        "text": "ANDORRA",
+        "iso2": "AD"
+      }
     },
     {
       "name": "FRESTEMS",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "FS CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "FT TECHNOLOGIES",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FUERZASMILITARES.ORG",
-      "country": "COLOMBIA"
+      "country": {
+        "text": "COLOMBIA",
+        "iso2": "CO"
+      }
     },
     {
       "name": "FULLSCALE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FUSION LAB TECHNOLOGIES SÀRL",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "G&H AEROSPACE AND DEFENCE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GABRIEL ET CIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GACHES CHIMIE SPECIALITES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GACI RUGGED SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GALLEON EMBEDDED COMPUTING",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "GALPERTI TECH FORGED PRODUCTS",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "GALVI-LINDA",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "GALVION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GARMIN France",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GARRETT METAL DETECTORS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GATEWATCHER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GAUTHIER CONNECTIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GDI SIMULATION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GEAR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GEFICCA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GEMCO MOBILE SAFETY BV",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "GENASYS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GENERAL DYNAMICS EUROPEAN LAND SYSTEMS",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GENERAL ROBOTICS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "GENTEX CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GEODIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GEORGIA ECONOMIC DEVELOPMENT FOUNDATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GETAC TECHNOLOGY",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GETELEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GICAT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GICAT - ENERGIE OPÉRATIONNELLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GIE DEFENSE NBC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLENAIR FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOBAL BUSINESS PRESS",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "GLOBAL CLEARANCE SOLUTIONS",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "GLOBAL INDUSTRIAL & DEFENCE SOLUTIONS (GIDS)",
-      "country": "PAKISTAN"
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      }
     },
     {
       "name": "\fGLOCK",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "GM DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GMT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GMV AEROSPACE AND DEFENSE",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GOFA GOCHER FAHRZEUGBAU",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GOLDEN ARROW MARINE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GOLEM.AI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GORIZIANE GROUP",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "GRANTA SOLUTIONS",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "GREAT LAKES SOUND AND VIBRATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GRIMONPREZ TRANSMISSION GEARS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "GROUPE 6NAPSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GROUPE ABILIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GROUPE LORENTZ",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GROUPE POMMIER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GROUPE SAGAERT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GROUPEMECA",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "GRUP IMPEKS",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "GUARDIARIS D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "GUS GLASS + SAFETY",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HABIA CABLE",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "HADES DEFENSE SYSTEMS",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "HAIX-SCHUHE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HALGAND",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HANDHELD EUROPE",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "HANWHA",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "HAWKEYE 360",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HEBCO INDUSTRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HECKLER & KOCH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HELI-UNION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HEMERIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HENSOLDT",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HEROPOLIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HETEK LIFT- UND HEBETECHNIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HGH INFRARED SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HIAB LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HIGH PRESSURE INSTRUMENTATION - HPI",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "HIOLLE TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HIRTENBERGER DEFENCE EUROPE",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "HOLÍK INTERNATIONAL",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "HOLOSUN TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HOMELAND SECURITY",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HONEYWELL",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "HONGKONG HIMARK ELECTRON MODEL LIMITED",
-      "country": "HONG KONG"
+      "country": {
+        "text": "HONG KONG",
+        "iso2": "HK"
+      }
     },
     {
       "name": "\fHORIBA MIRA",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HORNET",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HORSTMAN",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HS PRODUKT D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "HTS TENTIQ",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HUBER+SUHNER",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "HURON INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HUTCHINSON SNC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HYDERABAD PRECISION MANUFACTURING COMPANY",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "HYDREMA EXPORT",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "HYUNDAI ROTEM COMPANY",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "I2K DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "I3SYSTEM",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "I-4S GEIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IABG MBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "IAI - ISRAEL AEROSPACE INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IB CONSULTANCY",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "IBEROPTICS",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ICOHUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ICPE",
-      "country": "ROMANIA"
+      "country": {
+        "text": "ROMANIA",
+        "iso2": "RO"
+      }
     },
     {
       "name": "IDEA GROUPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IDOC",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "IGMAN KONJIC",
-      "country": "BOSNIA AND HERZEGOVINA"
+      "country": {
+        "text": "BOSNIA AND HERZEGOVINA",
+        "iso2": "BA"
+      }
     },
     {
       "name": "ILSENBURGER GROBBLECH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "IMCO INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IMEAR",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "IMEMG",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INDIAN CHAMBER OF COMMERCE",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "INDRA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INDUSTEEL ARCELORMITTAL GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INEO DEFENSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INERTIAL LABS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INFODEFENSA.COM",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INNALABS",
@@ -2071,1151 +3594,2012 @@
     },
     {
       "name": "INNODISK EUROPE",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "INSTALAZA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INSTITUT CARNOT MICA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INTEGRATED PROCUREMENT TECHNOLOGIES (IPT)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INTERNATIONAL ARMORED GROUP (FZE)",
-      "country": "UNITED ARAB EMIRATES"
+      "country": {
+        "text": "UNITED ARAB EMIRATES",
+        "iso2": "AE"
+      }
     },
     {
       "name": "INTERNEST",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "INTRACOM DEFENSE SINGLE MEMBER",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "INVERIS TRAINING SOLUTIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INVISIO",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "INVISTA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "\fIR&D",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "IRAUNDI SPECIAL BEARINGS",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "IRDAM",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "IREPA LASER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IRNOVA",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "IRTS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IRVINGQ",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ISD - INGENIERIE SERVICES DEVELOPPEMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ISL - INSTITUT FRANCO-ALLEMAND DE RECHERCHES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ISOCLIMA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ISP SYSTEM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ISRAEL MINISTRY OF DEFENSE - SIBAT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ITALWATT",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ITC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ITHPP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ITS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "IVECO DEFENCE VEHICLES",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "IVF HARTMANN",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "IWI - ISRAEL WEAPON INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IXBLUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "J. BLASCHKE WEHRTECHNIK",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "JACQUES DUBOIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JD'C INNOVATION",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "JEET & JEET GLASS AND CHEM P",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "JENOPTIK OPTICAL SYSTEMS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "JERLAURE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JETCO SOLUTIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JOHN COCKERILL DEFENSE FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JOREAU",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JOWO - SYSTEMTECHNIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "JSC ADOS-TECH",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "JSC AERODIAGNOSTIKA",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "JSC BROLIS SEMICONDUCTORS",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "JSC NT SERVICE",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "KADAR POLAND SP. Z O.O.",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KAHLES GESELLSCHAFT MBH",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "KALEKALIP MAKINA VE KALIP SAN.",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "KALLMAN WORLDWIDE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KAMAN PRECISION PRODUCTS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KAPI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KÄRCHER FUTURETECH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KARODUR-WIRKTELLER",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KEAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KENTUCKY TRAILER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "\fKESSLER+CO.",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KIDDE DEUGRA",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KITRON",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "KM DISTI",
-      "country": "UKRAINE"
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      }
     },
     {
       "name": "KONGSBERG DEFENCE & AEROSPACE",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "KONI - AN ITT COMPANY",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "KÖNIG KOMFORT-U RENNSITZE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KONTRON",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "KOREA CNO TECH CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOREA DEFENSE INDUSTRY ASSOCIATION",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KRAUSS-MAFFEI WEGMANN",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KVH INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "L3HARRIS TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LA GRIFFE",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "LACROIX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LANCO GROUP",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "LAROCHE GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LATÉCOÈRE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LB EQUIPEMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEAFIELD CASES",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "LEITSTANDSYSTEME STEFAN GROISSMEIER",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "LEMO FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEONARDO",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "LEONARDO DRS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LFE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LGM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LHERITIER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LIBERVIT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LIFTKING MANUFACTURING CORP",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "LIFT-TEX HEAVY LIFT SLINGS",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "LINCAD",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "LINDNERHOF-TAKTIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "LISI AEROSPACE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LMB",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LMT DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOCKHEED MARTIN CORPORATION US",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOGIC INSTRUMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LOGIPIX",
-      "country": "HUNGARY"
+      "country": {
+        "text": "HUNGARY",
+        "iso2": "HU"
+      }
     },
     {
       "name": "LORENZ TECHNOLOGY",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "LOTUS INTERNATIONAL COMPANY",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "LUXERI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LYNRED",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "M.D.M.",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "M.E.RIN",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "\fMADES",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "MAFELEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MAGELLIUM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MAHLE INDUSTRIAL THERMAL SYSTEMS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MAISONNEUVE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MAKEL MEKANIK MÜHENDISLIK",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MANITOU BF",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MANKIEWICZ FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MANN+HUMMEL",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MANUFACTURE DU HAUT RHIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MARCK & BALSAN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MARDUK TECHNOLOGIES",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "MARLOW ROPES",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MAROM DOLPHIN",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "MARREL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MARS ARMOR",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "MARSHALL LAND SYSTEMS LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MASA GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MASPEROTECH",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "MASTSYSTEM INTERNATIONAL OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "MATISEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MATRA ELECTRONIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MBDA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MC2 TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MCE-5 DEVELOPMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MCM LEARNING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MDH DEFENCE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MECALECTRO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MECANIQUE 2 L",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MECAPOLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MEDIA TRANSASIA",
-      "country": "THAILAND"
+      "country": {
+        "text": "THAILAND",
+        "iso2": "TH"
+      }
     },
     {
       "name": "MEGGITT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MEHLER ENGINEERED DEFENCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MEHLER VARIO SYSTEM",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MENATEK DEFENSE TECHNOLOGIES",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MEOPTA SYSTEMS",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "MEPROLIGHT",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "MERCEDES-BENZ GROUP",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MERITOR DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "METALHOM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "METALLWERK ELISENHÜTTE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "METRAVIB - GROUPE ACOEM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "METRODAT",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "MICHELIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fMICHIGAN ECONOMIC DEVELOPMENT CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MICROLISE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MICROPOL FIBEROPTIC",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "MICROSOFT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MIGUEL CABALLERO - MC ARMOR",
-      "country": "COLOMBIA"
+      "country": {
+        "text": "COLOMBIA",
+        "iso2": "CO"
+      }
     },
     {
       "name": "MIILUX",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MIKKELSEN ELECTRONICS",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MIKRO-PULSSI",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "MIL SISTEMIKA D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "MILDATA PRODUKSIYON",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MILDEF",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "MILECTRIA EST",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "MILITARY EQUIPMENT DENMARK",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MILLIKEN & COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MILPOWER SAVUNMA SISTEMLERI",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MILREM ROBOTICS",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "MILTON",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MINISTERE DES ARMEES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MIPA SE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MISTRAL GROUP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MITTLER REPORT VERLAG",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MKU",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "MOBIUS PROTECTION SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "MODEST TREE",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "MOHOC, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MONCH MEDIA",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MONKILOWATT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MOOG",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MOS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MOTEC",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MP SEC FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MSA SAFETY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MSI TURKISH DEFENCE REVIEW",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MSM HOLDING",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "MTL ADVANCED LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MULTICUT",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MUSTHANE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MXR TACTICS",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "MYDEFENCE",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "NAMMO",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "NASMYTH GROUP LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NATION SHIELD JOURNAL",
-      "country": "UNITED ARAB EMIRATES"
+      "country": {
+        "text": "UNITED ARAB EMIRATES",
+        "iso2": "AE"
+      }
     },
     {
       "name": "NATO MISSILE FIRING INSTALLATION (NAMFI)",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "NAVANTIA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "\fNECAS A/S",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "NEDINSCO",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NEMS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NEOPOLIA AEROSPACE & DEFENCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NEOTEK",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NETHERLANDS INDUSTRIES FOR DEFENCE AND SECURITY",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NETLINE COMMUNICATIONS TECHNOLOGIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "NEWCON OPTIK",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "NEXTER SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NEXVISION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NFM GROUP",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "NICOLAS INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NICOMATIC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NIJKERK COMPUTER SOLUTIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NLMK EUROPE PLATE",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "NOCTIS TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NONLETHAL TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NOPTEL OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "NORDIC ARMOURY",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "NORLENSE",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "NORMANDIE AEROESPACE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NORTHROP GRUMMAN CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTHROP GRUMMAN LITEF",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NOVAE SA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NOVAKAMP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NOVIUM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NOVORIZON",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NOXANT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NUANCES TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NURJANA TECHNOLOGIES",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "NYCO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OASIS ADVANCED ENGINEERING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OBSERVIS",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "ODJECA",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "ODU FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ODYSSEE SYSTEMES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OERLIKON SURFACE SOLUTIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OIP LAND SYSTEMS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "OIP SENSOR SYSTEMS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "OMP ENGINEERING",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ONEMED",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ONLINE EXPOS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OPHIR OPTRONICS SOLUTIONS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "\fOPPIDA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OPTICOELECTRON GROUP JSC.",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "OPTIMUM VEHICLE LOGISTICS (OVL)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OPTIX",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "ORBITICA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ORITEST SPOL",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "OROLIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ORQA D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "ORTECH DEFENCE SYSTEMS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "OSG",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "OSHKOSH DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OSTARA",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "OTOKAR",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "OTTO ENGINEERING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OVZON",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "OWLINT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OXLEY DEVELOPMENTS COMPANY",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "OZTEK TEKSTIL TERBIYE TESISLERI",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ÖZTIRYAKILER SAVUNMA EKIPMANLARI SAN. VE TIC",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "PACIFIC NORTHWEST DEFENSE COALITION (PNDC)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PACSCI EMC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PAKISTAN ORDNANCE FACTORIES (POF)",
-      "country": "PAKISTAN"
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      }
     },
     {
       "name": "PALFINGER",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "PANASONIC BUSINESS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PANGOLIN DEFENSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PASS MEDIENTECHNIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PATRIA OYJ",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "PAVILLON GICAT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PAXIS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PB SOLUTIONS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PCB PIEZOTRONICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PEARSON ENGINEERING LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PELI PRODUCTS FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PELICO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PERIMETER GLOBAL LOGISTICS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PEWAG AUSTRIA",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "PHANTOM TECHNOLOGIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PHOENIX EQUIPEMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PHOTONIS TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PIAP - INDUSTRIAL RESEARCH INSTITUTE",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PIEDRAFITA SL",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "PIK-AS AUSTRIA",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "PIRON PRECISION COATINGS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "PITAGONE",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "\fPITCH TECHNOLOGIES",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "PLANCY MECA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PLANSEE SE",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "PLASAN SASA",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PLASTICA PANARO",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "PLASTPACK DEFENCE APS",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "PLESIUM",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "P-MTC D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "POINT BLANK ENTERPRISES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "POLARTEC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "POLYTRONIC INTERNATIONAL",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "POONGSAN CORPORATION",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "PORT OF AALBORG",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "POWELL ELECTRONICS BV",
@@ -3223,1019 +5607,1781 @@
     },
     {
       "name": "POWEREX EUROPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "POWERMOON",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PRECICAST",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRECISION TECHNIC DEFENCE A/S",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRELIGENS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRESTOLITE ELECTRIC",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PRETIS VOGOSCA",
-      "country": "BOSNIA AND HERZEGOVINA"
+      "country": {
+        "text": "BOSNIA AND HERZEGOVINA",
+        "iso2": "BA"
+      }
     },
     {
       "name": "PREVENT&DELOZA D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "PRIMUS Défense & Sécurité",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROBATEC",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PROCOMM MMC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROCOTEX CORPORATION",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "PROENGIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROFORCE LIMITED",
-      "country": "NIGERIA"
+      "country": {
+        "text": "NIGERIA",
+        "iso2": "NG"
+      }
     },
     {
       "name": "PROMETHEE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROMODELS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRONAL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRONERGY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROSHOCK",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PRO-SYSTEMS",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "PROTEC GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROTECOP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROTOTYPA - ZM",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "PROVE & RUN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PSM PROJEKT SYSTEM & MANAGEMENT",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "PULSE MC²",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PYROALLIANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "QIOPTIQ",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "QUIRI HYDROMECANIQUE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "QUITTNER & SCHIMEK",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "\fR&DNANO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RADA ELECTRONIC INDUSTRIES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RADAR LEATHER DIVISION",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RADIONOR COMMUNICATIONS",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "RAFAUT GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RAIKKA OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "RAPTOR PHOTONICS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RAY SERVICE",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "RAYTECH VERTRIEBS",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "RCD SRL",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "REDO",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "RELLI TECHNOLOGIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RELLUMIX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "REMORQUES LOUAULT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RENAULT TRUCKS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RENK GROUP",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "REPKON",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "RESA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RESECURITY INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RESSORTS MASSELIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RETIA",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "RFENCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RHEINMETALL",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RICHMOND DEFENCE SYSTEMS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RIOT ENGINEERING",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "RIPENERGY A",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "RIVAL",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "RIVEER ENVIRONMENTAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RIVOLIER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RODA COMPUTER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RODRIGUEZ GMBH FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ROLLS-ROYCE SOLUTIONS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ROTZLER DEUTSCHLAND",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ROXEL FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RPM - POLARIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RUAG",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "RUAG AMMOTEC",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "RUBENA NACHOD",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "RUD KETTEN RIEGER & DIETZ",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RUNFLAT INTERNATIONAL",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "S.G.S. - EXPO",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "S2M EQUPMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAAB",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "\fSAATI",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "SAFE CLUSTER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFRAN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFRAN ELECTRONICS & DEFENSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAHAR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAINT GOBAIN CERAMICS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SAINT-GOBAIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAKO",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "SALTECH",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "SAM HOLDING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAMEL- 90 PLC",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "SAMELIN",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "SAPA PLACENCIA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "SAPEM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAS SPEMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SATAM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAVOX COMMUNICATIONS",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "SCANDEX",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCANFIBER COMPOSITES",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "SCANIA",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SCANIA FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SCD - SEMI CONDUCTOR DEVICES",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SCHEUERLE FAHRZEUGFABRIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCHLEIFRING",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCHMIDT & BENDER",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCHMITZ CARGOBULL",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCHROTH SAFETY PRODUCTS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SCHUNK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCIOTEQ",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SCOPEX",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SCROME",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SCYTALYS",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "SEAT TEC FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SEDI-ATI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SEI INDUSTRIES",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SEKO LOGISTICS",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "SELHA GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SELLIER & BELLOT",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "SEMAWORLD",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SENSUSQ (SENSUS SEPTIMA OÜ)",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "SEPROLEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SEPSON",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SEPTEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fSERT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SESTAN BUSCH D.O.O.",
-      "country": "CROATIA"
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
     },
     {
       "name": "SFC ENERGY",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SHARK ROBOTICS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SHEPHARD MEDIA",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SHERWIN",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SHIELD AI",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SHIJIAZHUANG HONGYU NEW GARMENT CO",
-      "country": "CHINA"
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SHP MEDIA",
-      "country": "MALAYSIA"
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      }
     },
     {
       "name": "SIA \"RIGAS DIZELIS DG\"",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "SIDES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIFCO ASC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIG SAUER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIGNATURE SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIGNIFY",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "SILMACH",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SILYNX",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIMA INNOVATION",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "SIMTECH",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SIO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIOEN BALLISTICS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SISU AXLES",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "SK GROUP",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SKYDEX TECHNOLOGIES, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SKY-HERO",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SKY-WATCH",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "SLOVENIAN DEFENCE INDUSTRY CLUSTER-GOIS",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "SLTS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SMAC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SMAG MOBILE ANTENNA MASTS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SMALL ARMS DEFENSE JOURNAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SMART SHOOTER",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SMITH & WESSON",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SND MECA GROUPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOAIRTECH",
-      "country": "GEORGIA"
+      "country": {
+        "text": "GEORGIA",
+        "iso2": "GE"
+      }
     },
     {
       "name": "SOCIETE DE MECANIQUE CHAMPENOISE - SMC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOCITEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFEMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFRAME",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOGITEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOLCERA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOLIFOS AG",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "SOLUTECH INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOPEMEA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fSOPRA STERIA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOTREM SEO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOUCY DEFENSE",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SOURCE VAGABOND SYSTEMS",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SOUTHCO MANUFACTURING",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SPAFAX INTERNATIONAL LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SPETSTECHNOEXPORT (STE)",
-      "country": "UKRAINE"
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      }
     },
     {
       "name": "SPHEREA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SPINEA",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "SPIRIT SLOVENIJA, PUBLIC AGENCY",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "SPRING",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SPS LAND FORCES",
-      "country": "INDIA"
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      }
     },
     {
       "name": "SRC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SRC BRASA",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "SSAB / ARMOX",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SSZ CAMOUFLAGE TECHNOLOGY",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "ST ENGINEERING",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ST ENGINEERING IDIRECT",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "STAHLWILLE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STAR PACK",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STARNAV",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STARTER GROUPE DLD",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STÄUBLI FAVERGES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STEELE CONNECT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STEINBACH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "STEINER OPTIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "STEYR ARMS",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "STID",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STRATIFORME INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STREAMWIDE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STRUCTURAL FASTENERS FACTORY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STUBELJ D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "STV GROUP",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "SUCHIER",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SUCO ESI NORTH AMERICA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SUDP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SUREFIRE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SVOS SPOL",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "SWAROVSKI OPTIK",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "SWEDISH SECURITY & DEFENCE INDUSTRY",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SWISS CAMOUTECH",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "SWRI",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SYANS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SYKO",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "\fSYMBIO",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SYMETRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SYMLAB",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "SYSNAV",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SYSTECON",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SYSTEMWARE EUROPE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SYT TECHNOLOGIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TARRERIAS BONJEAN / TB OUTDOOR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TASTITALIA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "TATRA EXPORT",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TAURUS",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "TBT",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "TE CONNECTIVITY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TEAM DEFENCE AUSTRALIA",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "TECHNAMM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECHNIC EXPORT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECHNIC SERIGRAPHIE SERVICE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECHWAY",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TECNOBIT",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "TEDAE - ASOCIACION ESPAÑOLA",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "TEIJIN ARAMID",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TEKNOLOGISK INSTITUT",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "TELEDYNE FLIR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TELEDYNE IMAGING",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "TELEFLOW",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TELEPLAN GLOBE",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "TELESPAZIO FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TEMET OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "TENCATE ADVANCED ARMOUR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TENEXIUM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TERFACE SAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TERRAMIL",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "TEXELIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TEXTRON SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THALES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THALES BELGIUM",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "THALES NORWAY",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "THE CZECH MINISTRY OF INDUSTRY AND TRADE",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "THE WILL-BURT COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THEON SENSORS",
-      "country": "GREECE"
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
     },
     {
       "name": "THERMOBILE",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "THERMOBILE France",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THERMOTEKNIX SYSTEMS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "THIOT INGENIERIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "\fTHREOD SYSTEMS",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "TI.SYSTEMS",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TIAG INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TIGBIS, JSC",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "TIMONEY TECHNOLOGY",
@@ -4243,491 +7389,857 @@
     },
     {
       "name": "TIMTEC D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "TITAN DEFENSE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TITOMIC",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "TMD TECHNOLOGIES LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TNO DEFENCE, SAFETY & SECURITY",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "TOCI",
-      "country": "ESTONIA"
+      "country": {
+        "text": "ESTONIA",
+        "iso2": "EE"
+      }
     },
     {
       "name": "TOLERIE JANNIN CARNET",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TOMER",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "T-OPS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TOTAL DEFENCE GROUP",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "TOUTENKAMION GROUP",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TOVEK, SPOL",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TR EQUIPEMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TRAAM",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TRANSMOBIL",
-      "country": "BULGARIA"
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
     },
     {
       "name": "TRANSVARO ELEKTRON ALETLERI SAN VE TIC",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TRELLEBORG INDUSTRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TRENTON SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRIJICON, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRIVAL ANTENE D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "TRUST STAMP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRYAME",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TSS INTERNATIONAL",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "TWI GLOBAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TWO-I",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TYCO ELECTRONICS France",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TYRON RUNFLAT LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "U.S. DEPARTMENT OF COMMERCE (USDOC)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UAVFACTORY",
-      "country": "LATVIA"
+      "country": {
+        "text": "LATVIA",
+        "iso2": "LV"
+      }
     },
     {
       "name": "ULBRICHTS GESMBH",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "UNIS GINEX GORAZDE",
-      "country": "BOSNIA AND HERZEGOVINA"
+      "country": {
+        "text": "BOSNIA AND HERZEGOVINA",
+        "iso2": "BA"
+      }
     },
     {
       "name": "UNITIVE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "UNIVEIRA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "URO",
-      "country": "SPAIN"
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
     },
     {
       "name": "US ORDNANCE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UTILIS SAS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "UVISION",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "UXV TECHNOLOGIES APS",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "VAIZDUOTE, JSC",
-      "country": "LITHUANA"
+      "country": {
+        "text": "LITHUANA",
+        "iso2": "LT"
+      }
     },
     {
       "name": "\fVALHALLA TURRETS D.O.O.",
-      "country": "SLOVENIA"
+      "country": {
+        "text": "SLOVENIA",
+        "iso2": "SI"
+      }
     },
     {
       "name": "VALTRA",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "VAN HALTEREN DEFENCE",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "VÅPENSMIA",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "VEGA HOLSTER",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "VERRE INDUSTRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VICTORINOX",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "VITABRI",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VITEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VODEA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VOLUM-e",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VOLVO DEFENSE",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "VTT OY",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "W&E PLATT MOUNTS",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "WARYME",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "WB GROUP",
-      "country": "POLAND"
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WEBASTO THERMO & COMFORT SE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "WEIBEL SCIENTIFIC",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "WELKIT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "WELP HOLDING",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "WESCOM DEFENCE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WFEL LIMITED",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WITTENSTEIN MOTION CONTROL",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "WOORIBYUL. CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "XENICS NV",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "XTEND REALITY EXPANSION",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "YEONHAB PRECISION CO",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YOUNG POONG ELECTRONICS CO.",
-      "country": "SOUTH KOREA"
+      "country": {
+        "text": "SOUTH KOREA",
+        "iso2": "KR"
+      }
     },
     {
       "name": "YUGOIMPORT-SDPR",
-      "country": "SERBIA"
+      "country": {
+        "text": "SERBIA",
+        "iso2": "RS"
+      }
     },
     {
       "name": "ZARGES",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ZCO ZERO COMPROMISE OPTIC",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ZEPELIN",
-      "country": "SLOVAKIA"
+      "country": {
+        "text": "SLOVAKIA",
+        "iso2": "SK"
+      }
     },
     {
       "name": "ZHENDRE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ZSR PATLAYICI SANAYI",
-      "country": "TURKEY"
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      }
     },
     {
       "name": "CHEBCHEB E.U.",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "DATAMINR",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "EUROSPIKE GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "JUNGHANS DEFENCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AMETEK",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATHONET FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CEV",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOBAL ROBOTICS EUROPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HEATHCOAT FABRICS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JONATHAN ENG. SOLUTIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "\fMETRACOM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NOVATEL NETWORKS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NUMALIS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "WEISS TECHNIK",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "WORKSHOP MOBILE - MECAMINUTE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DELFT DYNAMICS",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "FRONT LINE EMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HI-TECH DETECTION SYSTEMS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LASER TECHNIQUES COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BABCOCK INTERNATIONAL",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ALKO DÉVELOPPEMENT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BROKK FRANCE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CELLUTEC",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CODAN DEFENCE ELECTRONICS",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "DEVERYWARE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EMILE MAURIN COMPOSANTS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OLEDCOMM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RXR PROTECT",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SKYBORNE TECHNOLOGIES",
-      "country": "AUSTRALIA"
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
     },
     {
       "name": "ALMADK",
-      "country": "KAZAKHSTAN"
+      "country": {
+        "text": "KAZAKHSTAN",
+        "iso2": "KZ"
+      }
     },
     {
       "name": "COINTET INDUSTRIES",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CRIBMASTER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DUBUIS ET CIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EPIC GAMES INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EUCLIDE INDUSTRIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LEPAPE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AMETEK AIRTECHNOLOGY GROUP",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BALSEAL ENGINEERING",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "COBHAM SATCOM",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "DEFORM AB",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "DSM DYNEEMA",
-      "country": "NETHERLANDS"
+      "country": {
+        "text": "NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NORDIC RADAR SOLUTIONS APS",
-      "country": "DENMARK"
+      "country": {
+        "text": "DENMARK",
+        "iso2": "DK"
+      }
     },
     {
       "name": "RECOTECH",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SHARKCAGE",
-      "country": "NORWAY"
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
     },
     {
       "name": "WATERPROOF DIVING INTERNATIONAL",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ADOK",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BENDER",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "CLAVISTER",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SERA INGENIERIE",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     }
   ]
 }

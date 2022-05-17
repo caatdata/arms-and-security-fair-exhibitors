@@ -8,8 +8,13 @@
   "edition": "2017",
   "startDate": "2017-05-30",
   "endDate": "2017-06-01",
-  "address": "MESSE BREMEN & ÖVB-Arena\nWFB Wirtschaftsförderung Bremen GmbH\nFindorffstraße 101\n28215 Bremen",
-  "website": "http://www.udt-global.com/",
+  "address": {
+    "text": "MESSE BREMEN & ÖVB-Arena\nWFB Wirtschaftsförderung Bremen GmbH\nFindorffstraße 101\n28215 Bremen",
+    "iso2": "DE",
+    "lat": 53.0866524,
+    "lon": 8.8167942
+  },
+  "website": "http://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",

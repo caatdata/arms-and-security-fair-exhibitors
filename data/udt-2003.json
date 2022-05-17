@@ -8,8 +8,13 @@
   "edition": "2003",
   "startDate": "2003-06-24",
   "endDate": "2003-06-26",
-  "address": "MalmöMässan Exhibition and Conference Centre\nMalmö\nSweden",
-  "website": "http://www.udt-europe.com/",
+  "address": {
+    "text": "MalmöMässan Exhibition and Conference Centre\nMalmö\nSweden",
+    "iso2": "SE",
+    "lat": 55.5669988,
+    "lon": 12.977422
+  },
+  "website": "http://www.udt-europe.com",
   "organiser": [
     {
       "name": "Nexus Media Ltd.",

@@ -8,8 +8,18 @@
   "startDate": "1999-09-14",
   "endDate": "1999-09-17",
   "address": [
-    "Chertsey, Surrey",
-    "Docklands, London"
+    {
+      "text": "Chertsey, Surrey",
+      "iso2": "GB",
+      "lat": 51.386491,
+      "lon": -0.509456
+    },
+    {
+      "text": "Docklands, London",
+      "iso2": "GB",
+      "lat": 51.5072178,
+      "lon": -0.1275862
+    }
   ],
   "website": "http://www.dsei.co.uk",
   "organiser": [

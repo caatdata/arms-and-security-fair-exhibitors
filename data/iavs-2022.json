@@ -5,7 +5,12 @@
   "edition": "2022",
   "startDate": "2022-01-24",
   "endDate": "2022-01-27",
-  "address": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "organiser": {
     "name": "Defence IQ",
     "alias": "IQPC",
@@ -21,12 +26,12 @@
     {
       "name": "AM General",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/am-general",
-      "website": "https://www.amgeneral.com/"
+      "website": "https://www.amgeneral.com"
     },
     {
       "name": "ARTEC GmbH",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/artec-gmbh-2",
-      "website": "http://artec-boxer.com/"
+      "website": "http://artec-boxer.com"
     },
     {
       "name": "Aselsan",
@@ -41,27 +46,27 @@
     {
       "name": "Bren Tronics",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/bren-tronics-4",
-      "website": "https://www.bren-tronics.com/"
+      "website": "https://www.bren-tronics.com"
     },
     {
       "name": "CES Advanced Composites & Defense Technologies",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/ces-advanced-composites-defense-technologies-inc",
-      "website": "https://www.ces.com.tr/"
+      "website": "https://www.ces.com.tr"
     },
     {
       "name": "CTA International",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/cta-international",
-      "website": "https://www.cta-international.com/"
+      "website": "https://www.cta-international.com"
     },
     {
       "name": "Coges Events",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/coges-events",
-      "website": "https://www.cogesevents.com/"
+      "website": "https://www.cogesevents.com"
     },
     {
       "name": "DST Defence Service Tracks",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/dst-defence-service-tracks",
-      "website": "http://www.defence-st.com/"
+      "website": "http://www.defence-st.com"
     },
     {
       "name": "FFG",
@@ -71,17 +76,17 @@
     {
       "name": "FN Herstal",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/fn-herstal-3",
-      "website": "http://www.fnherstal.com/"
+      "website": "http://www.fnherstal.com"
     },
     {
       "name": "FRSN",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/glaucus",
-      "website": "https://frsn.dk/"
+      "website": "https://frsn.dk"
     },
     {
       "name": "FT Technologies",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/ft-technologies",
-      "website": "https://fttechnologies.com/"
+      "website": "https://fttechnologies.com"
     },
     {
       "name": "ITT Corporation",
@@ -91,12 +96,12 @@
     {
       "name": "InnaLabs",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/innalabs",
-      "website": "https://www.innalabs.com/"
+      "website": "https://www.innalabs.com"
     },
     {
       "name": "Invisio",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/invisio",
-      "website": "https://invisio.com/"
+      "website": "https://invisio.com"
     },
     {
       "name": "John Cockerill",
@@ -121,7 +126,7 @@
     {
       "name": "Leonardo DRS",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/leonardo-3",
-      "website": "https://www.leonardodrs.com/"
+      "website": "https://www.leonardodrs.com"
     },
     {
       "name": "MOOG",
@@ -131,7 +136,7 @@
     {
       "name": "Metravib Defence",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/metravib-defence",
-      "website": "https://www.metravib-defence.com/"
+      "website": "https://www.metravib-defence.com"
     },
     {
       "name": "Michelin",
@@ -156,17 +161,17 @@
     {
       "name": "Patria",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/patria",
-      "website": "https://www.patriagroup.com/"
+      "website": "https://www.patriagroup.com"
     },
     {
       "name": "Pearson Engineering",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/pearson-engineering",
-      "website": "http://www.pearson-eng.com/"
+      "website": "http://www.pearson-eng.com"
     },
     {
       "name": "Plasan",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/plasan-2",
-      "website": "https://www.plasan.com/"
+      "website": "https://www.plasan.com"
     },
     {
       "name": "Polaris",
@@ -181,7 +186,7 @@
     {
       "name": "RAFAEL Advanced Defense Systems",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/rafael-advanced-defense-systems",
-      "website": "https://www.rafael.co.il/"
+      "website": "https://www.rafael.co.il"
     },
     {
       "name": "RUAG Defence",
@@ -191,12 +196,12 @@
     {
       "name": "Rheinmetall BAE Systems Land (RBSL)",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/rheinmetall-bae-systems-land-rbsl",
-      "website": "https://rbsl.com/"
+      "website": "https://rbsl.com"
     },
     {
       "name": "Rheinmetall Defence",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/rheinmetall-defence-11",
-      "website": "http://www.rheinmetall-defence.com/"
+      "website": "http://www.rheinmetall-defence.com"
     },
     {
       "name": "SCHROTH",
@@ -209,7 +214,7 @@
     {
       "name": "Saab Barracuda",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/saab-barracuda",
-      "website": "https://www.saab.com/"
+      "website": "https://www.saab.com"
     },
     {
       "name": "Saft",
@@ -229,12 +234,12 @@
     {
       "name": "Teledyne FLIR",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/teledyne-flir",
-      "website": "https://www.flir.com/"
+      "website": "https://www.flir.com"
     },
     {
       "name": "TenCate",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/tencate",
-      "website": "https://www.tencateadvancedarmor.com/"
+      "website": "https://www.tencateadvancedarmor.com"
     },
     {
       "name": "Texelis",
@@ -254,7 +259,7 @@
     {
       "name": "Ultra",
       "exhibitorUrl": "https://www.defenceiq.com/events-internationalarmouredvehicles/sponsors/ultra",
-      "website": "https://www.ultra-pcs.com/"
+      "website": "https://www.ultra-pcs.com"
     },
     {
       "name": "VITEC",

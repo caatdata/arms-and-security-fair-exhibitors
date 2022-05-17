@@ -8,15 +8,20 @@
   ],
   "startDate": "2009-06-30",
   "endDate": "2009-07-02",
-  "address": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
-  "website": "http://www.ifsecsa.com/",
+  "address": {
+    "text": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
+    "iso2": "ZA",
+    "lat": -26.0016667,
+    "lon": 28.1297222
+  },
+  "website": "http://www.ifsecsa.com",
   "organiser": [
     {
       "name": "UBM",
       "website": "http://www.cmpi.biz/ubmlive"
     }
   ],
-  "exhibitorListUrl": "http://www.ifsecsa.com/",
+  "exhibitorListUrl": "http://www.ifsecsa.com",
   "exhibitorListDate": "2022-03-11T16:52:03+00:00",
   "exhibitor": [
     {

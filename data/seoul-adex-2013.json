@@ -3,10 +3,12 @@
   "series": "Seoul ADEX",
   "edition": "2013",
   "alias": "Seoul International Aerospace & Defense Exhibition 2013",
-  "address": [
-    "Cheongju Int'l Airport\nSouth Korea",
-    "KINTEX\nSouth Korea"
-  ],
+  "address": {
+    "text": "Cheongju Int'l Airport\nSouth Korea",
+    "iso2": "KR",
+    "lat": 36.7219682,
+    "lon": 127.4958842
+  },
   "startDate": "2013-10-25",
   "endDate": "2013-11-01",
   "website": "http://www.seouladex.com/eng/#"

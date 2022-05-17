@@ -4,7 +4,12 @@
   "edition": "2018",
   "startDate": "2018-03-06",
   "endDate": "2018-03-08",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.securityandpolicing.co.uk",
   "organiser": [
     {
@@ -28,7 +33,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "PO BOX 556\nNorthampton\nNorthamptonshire\nNN3 6UN\nUnited Kingdom",
+      "address": {
+        "text": "PO BOX 556\nNorthampton\nNorthamptonshire\nNN3 6UN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2555887,
+        "lon": -0.8593392999999999
+      },
       "telephone": "+44 (0)800 043 0101"
     },
     {
@@ -36,7 +46,12 @@
       "category": [
         "CCTV & Video Analytics"
       ],
-      "address": "Unit A9, Deakins Business Park\nEgerton\nBolton\nLancashire\nBL7 9YB\nUnited Kingdom",
+      "address": {
+        "text": "Unit A9, Deakins Business Park\nEgerton\nBolton\nLancashire\nBL7 9YB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.62578000000001,
+        "lon": -2.4424502
+      },
       "telephone": "+441204216162"
     },
     {
@@ -45,7 +60,12 @@
         "Personal Protection Equipment",
         "Clothing & Accessories"
       ],
-      "address": "Geijersgatan 2B\n216 18 Limhamn\nSweden",
+      "address": {
+        "text": "Geijersgatan 2B\n216 18 Limhamn\nSweden",
+        "iso2": "SE",
+        "lat": 55.5913325,
+        "lon": 12.9404855
+      },
       "telephone": "+44(0)7525 233758"
     },
     {
@@ -55,7 +75,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "Gridiron Building\n1 Pancras Square\nKings Cross\nLondon\nN1C 4AG\nUnited Kingdom",
+      "address": {
+        "text": "Gridiron Building\n1 Pancras Square\nKings Cross\nLondon\nN1C 4AG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5330539,
+        "lon": -0.125012
+      },
       "telephone": "+44 (0)845 388 0474"
     },
     {
@@ -65,7 +90,12 @@
         "Information Technology",
         "Forensic Services"
       ],
-      "address": "Matrix House\nGoodman Street\nLeeds\nWest Yorkshire\nLS10 1NZ\nUnited Kingdom",
+      "address": {
+        "text": "Matrix House\nGoodman Street\nLeeds\nWest Yorkshire\nLS10 1NZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7845688,
+        "lon": -1.5299182
+      },
       "telephone": "+44 (0)7980 974781"
     },
     {
@@ -75,7 +105,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "Chambers Building\nNorth Street\nSwords\nCo Dublin\nK67 A3H7\nIreland",
+      "address": {
+        "text": "Chambers Building\nNorth Street\nSwords\nCo Dublin\nK67 A3H7\nIreland",
+        "iso2": "IE",
+        "lat": 53.4623035,
+        "lon": -6.2182639
+      },
       "telephone": "+353 1 558 4076"
     },
     {
@@ -84,7 +119,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Clay House Business Centre\n5 Horninglow Street\nBurton on Trent\nStaffordshire\nDE14 1NG\nUnited Kingdom",
+      "address": {
+        "text": "Clay House Business Centre\n5 Horninglow Street\nBurton on Trent\nStaffordshire\nDE14 1NG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.80682299999999,
+        "lon": -1.6270908
+      },
       "telephone": "+ 44 (0)7765 256375"
     },
     {
@@ -94,7 +134,12 @@
         "Surveillance",
         "CCTV & Video Analytics"
       ],
-      "address": "Unit 1 Church House Farm Estate\nClewers Hill\nWaltham Chase\nSouthampton\nHampshire\nSO32 2LN\nUnited Kingdom",
+      "address": {
+        "text": "Unit 1 Church House Farm Estate\nClewers Hill\nWaltham Chase\nSouthampton\nHampshire\nSO32 2LN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9384876,
+        "lon": -1.2056275
+      },
       "telephone": "+44 (0)1489 892580"
     },
     {
@@ -105,7 +150,12 @@
         "Command & Control",
         "Professional Services"
       ],
-      "address": "The Coach House, Box House Estate\nBox\nCorsham\nWiltshire\nSN13 8AA\nUnited Kingdom",
+      "address": {
+        "text": "The Coach House, Box House Estate\nBox\nCorsham\nWiltshire\nSN13 8AA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4149086,
+        "lon": -2.2566298
+      },
       "telephone": "+44 (0)7715 631736"
     },
     {
@@ -116,7 +166,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "The Barn\nc/o Lower Hitch\nWhitchurch Hill\nBerkshire\nRG8 7NU\nUnited Kingdom",
+      "address": {
+        "text": "The Barn\nc/o Lower Hitch\nWhitchurch Hill\nBerkshire\nRG8 7NU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4980213,
+        "lon": -1.0857105
+      },
       "telephone": "+44 (0)7548 964628"
     },
     {
@@ -126,7 +181,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "5 Coombs Wood Court\nSteelpark Road\nHalesowen\nBirmingham\nWest Midlands\nB62 8BF\nUnited Kingdom",
+      "address": {
+        "text": "5 Coombs Wood Court\nSteelpark Road\nHalesowen\nBirmingham\nWest Midlands\nB62 8BF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4648329,
+        "lon": -2.0459145
+      },
       "telephone": "+44 (0)121 559 6699"
     },
     {
@@ -137,7 +197,12 @@
         "Explosives & Blast Protection",
         "Incident & Emergency Response"
       ],
-      "address": "Unit 5 Chesford Grange\nWoolston\nWarrington\nCheshire\nL30 2PW\nUnited Kingdom",
+      "address": {
+        "text": "Unit 5 Chesford Grange\nWoolston\nWarrington\nCheshire\nL30 2PW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3992714,
+        "lon": -2.5188825
+      },
       "telephone": "+44 (0)7527 307507"
     },
     {
@@ -146,7 +211,12 @@
         "CBRN",
         "Transport Security"
       ],
-      "address": "174 Brook Drive\nMilton Park\nAbingdon\nOxfordshire\nOX14 4SD\nUnited Kingdom",
+      "address": {
+        "text": "174 Brook Drive\nMilton Park\nAbingdon\nOxfordshire\nOX14 4SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6238032,
+        "lon": -1.2816917
+      },
       "telephone": "+44 (0)1235 856555"
     },
     {
@@ -157,7 +227,12 @@
         "Command & Control",
         "Vehicles’"
       ],
-      "address": "Oxford Airport\nLangford Lane\nKidlington\nOxfordshire\nOX51QZ\nEngland",
+      "address": {
+        "text": "Oxford Airport\nLangford Lane\nKidlington\nOxfordshire\nOX51QZ\nEngland",
+        "iso2": "GB",
+        "lat": 51.8301752,
+        "lon": -1.3122211
+      },
       "telephone": "+44 (0)1865 852400"
     },
     {
@@ -168,7 +243,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "Allens House\nBirch Walk\nWest Byfleet\nSurrey\nKT146EJ\nUnited Kingdom",
+      "address": {
+        "text": "Allens House\nBirch Walk\nWest Byfleet\nSurrey\nKT146EJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3390752,
+        "lon": -0.5079163
+      },
       "telephone": "+44 (0)7785 351295"
     },
     {
@@ -179,7 +259,12 @@
         "Clothing & Accessories",
         "Explosives & Blast Protection"
       ],
-      "address": "Allen House (Unit 100 A & B)\nAlexandra Way, Ashchurch Business Centre\nTewkesbury\nGloucestershire\nGL20 8TD\nUnited Kingdom",
+      "address": {
+        "text": "Allen House (Unit 100 A & B)\nAlexandra Way, Ashchurch Business Centre\nTewkesbury\nGloucestershire\nGL20 8TD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9991149,
+        "lon": -2.1178574
+      },
       "telephone": "+1 (613) 288-5636"
     },
     {
@@ -189,7 +274,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "22 St Lawrence Street\nSouthGate\nBath\nSomerset\nBA1 1AN\nUnited Kingdom",
+      "address": {
+        "text": "22 St Lawrence Street\nSouthGate\nBath\nSomerset\nBA1 1AN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.37831749999999,
+        "lon": -2.358039
+      },
       "telephone": "+44 (0)1225 466991"
     },
     {
@@ -199,7 +289,12 @@
         "Surveillance",
         "CCTV & Video Analytics"
       ],
-      "address": "Loc Padriciano 99\nArea Science Park\nTrieste\nUD\n34149\nItaly",
+      "address": {
+        "text": "Loc Padriciano 99\nArea Science Park\nTrieste\nUD\n34149\nItaly",
+        "iso2": "IT",
+        "lat": 45.6569337,
+        "lon": 13.829255
+      },
       "telephone": "+39 0403755333"
     },
     {
@@ -208,7 +303,12 @@
         "Counter Terrorism & Intelligence",
         "Information Technology"
       ],
-      "address": "192.com, 8-10 Quayside Lodge\nWilliam Morris Way\nLondon\nSW6 2UZ\nUnited Kingdom",
+      "address": {
+        "text": "192.com, 8-10 Quayside Lodge\nWilliam Morris Way\nLondon\nSW6 2UZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.47011699999999,
+        "lon": -0.1839797
+      },
       "telephone": "+44 (0)207 909 2151"
     },
     {
@@ -219,7 +319,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "200 Capability Green\n200 Capability Green\nLuton\nBeds\nLU1 3LU\nUnited Kingdom",
+      "address": {
+        "text": "200 Capability Green\n200 Capability Green\nLuton\nBeds\nLU1 3LU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8659565,
+        "lon": -0.4079546
+      },
       "telephone": "+44 (0)7900 255156"
     },
     {
@@ -230,7 +335,12 @@
         "Incident & Emergency Response",
         "Vehicles’"
       ],
-      "address": "Knaves Beech Business Centre\nDavis Way\nLoudwater\nHigh Wycombe\nBuckinghamshire\nHP10 9QR\nUnited Kingdom",
+      "address": {
+        "text": "Knaves Beech Business Centre\nDavis Way\nLoudwater\nHigh Wycombe\nBuckinghamshire\nHP10 9QR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.602059,
+        "lon": -0.6929116000000001
+      },
       "telephone": "+44 (0)1628 535440"
     },
     {
@@ -239,7 +349,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "Antevorte Ltd\nPO Box 6255\nThatcham\nBerkshire\nRG19 9JE\nUnited Kingdom",
+      "address": {
+        "text": "Antevorte Ltd\nPO Box 6255\nThatcham\nBerkshire\nRG19 9JE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.40580500000001,
+        "lon": -1.266468
+      },
       "telephone": "+44 (0)1635 200254"
     },
     {
@@ -247,7 +362,12 @@
       "category": [
         "Custodial"
       ],
-      "address": "53\nCavell Crescent\nDartford\nDartford\nKent\nDA1 5NS\nUnited Kingdom",
+      "address": {
+        "text": "53\nCavell Crescent\nDartford\nDartford\nKent\nDA1 5NS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.45516929999999,
+        "lon": 0.2378967
+      },
       "telephone": "+44 (0)7999 599486"
     },
     {
@@ -257,7 +377,12 @@
         "Biometrics & Imagery",
         "Custodial"
       ],
-      "address": "Witney Business and Innovation Centre\nWindrush Park Road\nWitney\nOxfordshire\nOX29 7DX\nUnited Kingdom",
+      "address": {
+        "text": "Witney Business and Innovation Centre\nWindrush Park Road\nWitney\nOxfordshire\nOX29 7DX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7921577,
+        "lon": -1.5164075
+      },
       "telephone": "+44 (0)1865 989470"
     },
     {
@@ -267,7 +392,12 @@
         "Surveillance",
         "CBRN"
       ],
-      "address": "105 Church Street\nTewkesbury\nGloucestershire\nGL20 5AB\nUnited Kingdom",
+      "address": {
+        "text": "105 Church Street\nTewkesbury\nGloucestershire\nGL20 5AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9923546,
+        "lon": -2.1578914
+      },
       "telephone": "+44 (0)7738 240341"
     },
     {
@@ -277,7 +407,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Chase Mill\nWinchester Road\nBishops Waltham\nSouthampton\nHampshire\nSO32 1AH\nUnited Kingdom",
+      "address": {
+        "text": "Chase Mill\nWinchester Road\nBishops Waltham\nSouthampton\nHampshire\nSO32 1AH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9189566,
+        "lon": -1.2002091
+      },
       "telephone": "+44 (0)1489 808228"
     },
     {
@@ -287,7 +422,12 @@
         "Maritime Security",
         "Vehicles’"
       ],
-      "address": "Scotchells Brook Lane\nSandown\nIsle of Wight\nPO36 0JP\nUK",
+      "address": {
+        "text": "Scotchells Brook Lane\nSandown\nIsle of Wight\nPO36 0JP\nUK",
+        "iso2": "GB",
+        "lat": 50.6487349,
+        "lon": -1.1867588
+      },
       "telephone": "01983 400730"
     },
     {
@@ -296,7 +436,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Unit 1\n51 Industry Place\nWynum\nQueensland\n4178\nAustralia",
+      "address": {
+        "text": "Unit 1\n51 Industry Place\nWynum\nQueensland\n4178\nAustralia",
+        "iso2": "AU",
+        "lat": -27.4257161,
+        "lon": 153.1632913
+      },
       "telephone": "+61 447 205008"
     },
     {
@@ -307,7 +452,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "CoBaCo House\nNorth Florida Road\nHaydock Industrial Estate\nNorth Florida Road\nHaydock\nMerseyside\nWA11 9TP\nUnited Kingdom",
+      "address": {
+        "text": "CoBaCo House\nNorth Florida Road\nHaydock Industrial Estate\nNorth Florida Road\nHaydock\nMerseyside\nWA11 9TP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4731426,
+        "lon": -2.6652632
+      },
       "telephone": "+44 (0)1942 407735"
     },
     {
@@ -317,7 +467,12 @@
         "Surveillance",
         "Custodial"
       ],
-      "address": "Venture House\nArlington Business Centre\nBracknell\nBracknell\nBerkshire\nRG12 1WA\nUnited Kingdom",
+      "address": {
+        "text": "Venture House\nArlington Business Centre\nBracknell\nBracknell\nBerkshire\nRG12 1WA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4153204,
+        "lon": -0.7577088
+      },
       "telephone": "+44 (0)7808 781945"
     },
     {
@@ -326,7 +481,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Chemin Orio 30 A\nRomanel sur Lausanne\nVaud\n1032\nSwitzerland",
+      "address": {
+        "text": "Chemin Orio 30 A\nRomanel sur Lausanne\nVaud\n1032\nSwitzerland",
+        "iso2": "CH",
+        "lat": 46.56634589999999,
+        "lon": 6.605249799999999
+      },
       "telephone": "+41 21 643 7240"
     },
     {
@@ -336,7 +496,12 @@
         "Border Security",
         "Surveillance"
       ],
-      "address": "25 Earlstrees Road\nCorby\nNorthants\nNN17 4AZ\nUnited Kingdom",
+      "address": {
+        "text": "25 Earlstrees Road\nCorby\nNorthants\nNN17 4AZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5110667,
+        "lon": -0.6956340999999999
+      },
       "telephone": "+44 (0)1536 464888"
     },
     {
@@ -346,7 +511,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "Reading Enterprise Centre\nWhiteknights Road\nReading\nBerkshire\nRG6 6BU\nUnited Kingdom",
+      "address": {
+        "text": "Reading Enterprise Centre\nWhiteknights Road\nReading\nBerkshire\nRG6 6BU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4409107,
+        "lon": -0.9347655
+      },
       "telephone": "+44 (0)7412 763578"
     },
     {
@@ -357,7 +527,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Ashton House\nAshton Vale Road\nBristol\nBS3 2HQ\nUnited Kingdom",
+      "address": {
+        "text": "Ashton House\nAshton Vale Road\nBristol\nBS3 2HQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4385114,
+        "lon": -2.629191
+      },
       "telephone": "+44 (0)117 440 8195"
     },
     {
@@ -365,7 +540,12 @@
       "category": [
         "Cyber Security"
       ],
-      "address": "Surrey Research Park\nGuildford\nSurrey\nGU2 7RQ\nUnited Kingdom",
+      "address": {
+        "text": "Surrey Research Park\nGuildford\nSurrey\nGU2 7RQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.23996899999999,
+        "lon": -0.6159209
+      },
       "telephone": "+44 (0)20 3296 5753"
     },
     {
@@ -373,7 +553,12 @@
       "category": [
         "Storage & Containers"
       ],
-      "address": "Unit 3 Two Rivers Industrial Estate\nBraunton Road\nBarnstaple\nDevon\nEX31 1JY\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3 Two Rivers Industrial Estate\nBraunton Road\nBarnstaple\nDevon\nEX31 1JY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0844641,
+        "lon": -4.0709232
+      },
       "telephone": "+44 (0)1271 375197"
     },
     {
@@ -383,7 +568,12 @@
         "Border Security",
         "Forensic Services"
       ],
-      "address": "Lakeside House\n1 Furzeground Way\nStockley Park\nLondon\nMidlesex\nUB11 1BD,\nUnited Kingdom",
+      "address": {
+        "text": "Lakeside House\n1 Furzeground Way\nStockley Park\nLondon\nMidlesex\nUB11 1BD,\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5083559,
+        "lon": -0.4427322
+      },
       "telephone": "+44 (0)7796 946934"
     },
     {
@@ -394,7 +584,12 @@
         "Explosives & Blast Protection",
         "Maritime Security"
       ],
-      "address": "Clydesmuir Road Industrial Estate\nCardiff\nCF24 2QS\nUnited Kingdom",
+      "address": {
+        "text": "Clydesmuir Road Industrial Estate\nCardiff\nCF24 2QS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4902774,
+        "lon": -3.142535
+      },
       "telephone": "+44 (0)29 2043 3700"
     },
     {
@@ -405,7 +600,12 @@
         "Optics",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Unit 1 Trade city\nBrooklands close\nSunbury-on-Thames\nSurrey\nTW16 5LN\nUnited Kingdom",
+      "address": {
+        "text": "Unit 1 Trade city\nBrooklands close\nSunbury-on-Thames\nSurrey\nTW16 5LN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.417733,
+        "lon": -0.4283642
+      },
       "telephone": "+44 (0)1932 781891"
     },
     {
@@ -414,7 +614,12 @@
         "Counter Terrorism & Intelligence",
         "Information Technology"
       ],
-      "address": "50 Broadway\nWestminster\nLondon\nSW1H 0RG\nUnited Kingdom",
+      "address": {
+        "text": "50 Broadway\nWestminster\nLondon\nSW1H 0RG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4999001,
+        "lon": -0.1334791
+      },
       "telephone": "+44 (0)1223 900424"
     },
     {
@@ -425,7 +630,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Unit 4 Duddage Manor Business Park\nBrockeridge Road\nTwyning\nTewkesbury\nGloucestershire\nGL20 6BY\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Duddage Manor Business Park\nBrockeridge Road\nTwyning\nTewkesbury\nGloucestershire\nGL20 6BY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.03049660000001,
+        "lon": -2.1563426
+      },
       "telephone": "+44 (0)1684 628031"
     },
     {
@@ -435,7 +645,12 @@
         "Surveillance",
         "Maritime Security"
       ],
-      "address": "Iceni House\nLondon Road\nGreat Chesterford\nSaffron Walden\nCambridgeshire\nCB10 1NY\nUnited Kingdom",
+      "address": {
+        "text": "Iceni House\nLondon Road\nGreat Chesterford\nSaffron Walden\nCambridgeshire\nCB10 1NY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06214,
+        "lon": 0.1908153
+      },
       "telephone": "+44 (0)1223 491122"
     },
     {
@@ -443,7 +658,12 @@
       "category": [
         "Professional Services"
       ],
-      "address": "Rotterdam House\n116 Quayside\nNewcastle\nTyne and Wear\nNE1 3DY\nUnited Kingdom",
+      "address": {
+        "text": "Rotterdam House\n116 Quayside\nNewcastle\nTyne and Wear\nNE1 3DY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9714119,
+        "lon": -1.5974553
+      },
       "telephone": "+44 (0)20 3948 9400"
     },
     {
@@ -453,7 +673,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "The Officer Mess\nRoyston Road\nDuxford\nCambridge\nEngland\nCB22 4QH\nUnited Kingom",
+      "address": {
+        "text": "The Officer Mess\nRoyston Road\nDuxford\nCambridge\nEngland\nCB22 4QH\nUnited Kingom",
+        "iso2": "GB",
+        "lat": 52.1031873,
+        "lon": 0.1544135
+      },
       "telephone": "+44 (0)7572 668776"
     },
     {
@@ -463,7 +688,12 @@
         "Incident & Emergency Response",
         "Cyber Security"
       ],
-      "address": "210 Lower Bristol Road\nBMT Defence Services\nBath\nSomerset\nBA23DQ\nUnited Kingdom",
+      "address": {
+        "text": "210 Lower Bristol Road\nBMT Defence Services\nBath\nSomerset\nBA23DQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3785223,
+        "lon": -2.3646593
+      },
       "telephone": "+44 (0)1225 473 6005"
     },
     {
@@ -473,7 +703,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "Malvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUK",
+      "address": {
+        "text": "Malvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUK",
+        "iso2": "GB",
+        "lat": 52.1050432,
+        "lon": -2.3108491
+      },
       "telephone": "01684 377980"
     },
     {
@@ -483,7 +718,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "Soane Point\n6-8 Market Place\nReading\nBerkshire\nRG1 2EG\nUnited Kingdom",
+      "address": {
+        "text": "Soane Point\n6-8 Market Place\nReading\nBerkshire\nRG1 2EG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4556949,
+        "lon": -0.9693044999999999
+      },
       "telephone": "+44 (0)118 925 5318"
     },
     {
@@ -494,7 +734,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Unit B, The Outlook\nLing Road\nPoole\nDorset\nBH12 4PY\nUnited Kingdom",
+      "address": {
+        "text": "Unit B, The Outlook\nLing Road\nPoole\nDorset\nBH12 4PY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7468054,
+        "lon": -1.9494048
+      },
       "telephone": "+44 (0)1202 721123"
     },
     {
@@ -504,7 +749,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "Engine Shed\nStation Approach\nTemple Meads\nBristol\nBS1 6QH\nUnited Kingdom",
+      "address": {
+        "text": "Engine Shed\nStation Approach\nTemple Meads\nBristol\nBS1 6QH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.44886760000001,
+        "lon": -2.583555
+      },
       "telephone": "+44 (0)7812 165133"
     },
     {
@@ -514,7 +764,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "Stevensstraat 21\nTielt-Winge\nVlaams-Brabant\n3390\nBelgium",
+      "address": {
+        "text": "Stevensstraat 21\nTielt-Winge\nVlaams-Brabant\n3390\nBelgium",
+        "iso2": "BE",
+        "lat": 50.9320576,
+        "lon": 4.9286216
+      },
       "telephone": "+32 475 28 12 25"
     },
     {
@@ -524,7 +779,12 @@
         "CCTV & Video Analytics",
         "Optics"
       ],
-      "address": "Cockshot Hill\nWoodhatch\nSurrey\nRH2 8BF\nUnited Kingdom",
+      "address": {
+        "text": "Cockshot Hill\nWoodhatch\nSurrey\nRH2 8BF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2241929,
+        "lon": -0.199302
+      },
       "telephone": "+44 (0)1737 220000"
     },
     {
@@ -535,7 +795,12 @@
         "Incident & Emergency Response",
         "CCTV & Video Analytics"
       ],
-      "address": "Methuen Park\nBath Road\nChippenham\nWiltshire\nSN14 0TW\nUnited Kingdom",
+      "address": {
+        "text": "Methuen Park\nBath Road\nChippenham\nWiltshire\nSN14 0TW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4464384,
+        "lon": -2.1449026
+      },
       "telephone": "+44 (0)7725 159067"
     },
     {
@@ -544,7 +809,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "62 The Street\nAshtead\nSurrey\nKT21 1AT\nUnited Kingdom",
+      "address": {
+        "text": "62 The Street\nAshtead\nSurrey\nKT21 1AT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3095803,
+        "lon": -0.2989868
+      },
       "telephone": "+44 (0)1372 802607"
     },
     {
@@ -555,7 +825,12 @@
         "CBRN",
         "Incident & Emergency Response"
       ],
-      "address": "ADS Group Ltd\nShowCentre ETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+      "address": {
+        "text": "ADS Group Ltd\nShowCentre ETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2756346,
+        "lon": -0.7611333
+      },
       "telephone": "+44 (0)7876 897423"
     },
     {
@@ -565,7 +840,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "20 Home End\nFulbourn\nCambridge\nCambridgeshire\nCB21 5BS\nUnited Kingdom",
+      "address": {
+        "text": "20 Home End\nFulbourn\nCambridge\nCambridgeshire\nCB21 5BS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.17880659999999,
+        "lon": 0.2226753
+      },
       "telephone": "+44 (0)7906 624829"
     },
     {
@@ -574,7 +854,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Hallmark House\n2 Timber Hill Road\nCaterham\nSurrey\nCR3 6LD\nUnited Kingdom",
+      "address": {
+        "text": "Hallmark House\n2 Timber Hill Road\nCaterham\nSurrey\nCR3 6LD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2821615,
+        "lon": -0.0760593
+      },
       "telephone": "+44 (0)20 3137 1637"
     },
     {
@@ -583,7 +868,12 @@
         "Training",
         "Professional Services"
       ],
-      "address": "CREST (Centre for Research and Evidence on Security Threats)\nFylde College\nLancaster University\nLancaster\nLancashire\nLA1 4YF\nUnited Kingdom",
+      "address": {
+        "text": "CREST (Centre for Research and Evidence on Security Threats)\nFylde College\nLancaster University\nLancaster\nLancashire\nLA1 4YF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.0087763,
+        "lon": -2.7852628
+      },
       "telephone": "+44 (0)7870 835267"
     },
     {
@@ -593,7 +883,12 @@
         "Training",
         "Forensic Services"
       ],
-      "address": "Create House\n2 Station Road\nWoodbridge\nSuffolk\nIP12 4AU\nUnited Kingdom",
+      "address": {
+        "text": "Create House\n2 Station Road\nWoodbridge\nSuffolk\nIP12 4AU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.09069359999999,
+        "lon": 1.3157464
+      },
       "telephone": "+44 (0)7771 606614"
     },
     {
@@ -602,7 +897,12 @@
         "Biometrics & Imagery",
         "Information Technology"
       ],
-      "address": "2 Burston Road\nPutney\nLondon\nLondon\nSW15 6AR\nUnited Kingdom",
+      "address": {
+        "text": "2 Burston Road\nPutney\nLondon\nLondon\nSW15 6AR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4609074,
+        "lon": -0.2183157
+      },
       "telephone": "07920 844841"
     },
     {
@@ -612,7 +912,12 @@
         "Border Security",
         "Transport Security"
       ],
-      "address": "Institute of Sound and Vibration Research\nUniversity of Southampton\nSouthampton\nHampshire\nSO17 1BJ\nUnited Kingdom",
+      "address": {
+        "text": "Institute of Sound and Vibration Research\nUniversity of Southampton\nSouthampton\nHampshire\nSO17 1BJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9352217,
+        "lon": -1.3937373
+      },
       "telephone": "(+971) 50 654 6637"
     },
     {
@@ -621,7 +926,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "154E Brook Drive\nMilton Park\nAbingdon\nOxfordshire\nOX14 4SD\nUnited Kingdom",
+      "address": {
+        "text": "154E Brook Drive\nMilton Park\nAbingdon\nOxfordshire\nOX14 4SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6244934,
+        "lon": -1.2857219
+      },
       "telephone": "+44 (0)1235 364580"
     },
     {
@@ -630,7 +940,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "Unit 11 Springvale Business Centre\nMillbuck Way\nSandbach\nCheshire\nCW11 3HY\nUnited Kingdom",
+      "address": {
+        "text": "Unit 11 Springvale Business Centre\nMillbuck Way\nSandbach\nCheshire\nCW11 3HY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.1444228,
+        "lon": -2.3952306
+      },
       "telephone": "+44 (0)1270 764751"
     },
     {
@@ -639,7 +954,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "SEZ Unit 1, SDF No. K-12\nNSEZ, Noida – Phase II\nNoida\nUttar Pradesh\n201305\nIndia",
+      "address": {
+        "text": "SEZ Unit 1, SDF No. K-12\nNSEZ, Noida – Phase II\nNoida\nUttar Pradesh\n201305\nIndia",
+        "iso2": "IN",
+        "lat": 28.5391616,
+        "lon": 77.3963189
+      },
       "telephone": "+91 98717 73570"
     },
     {
@@ -650,7 +970,12 @@
         "Command & Control",
         "Incident & Emergency Response"
       ],
-      "address": "11 rue Herms Parc technologique du Canal\nRamonville France\nHaute Garonne\n31520\nFrance",
+      "address": {
+        "text": "11 rue Herms Parc technologique du Canal\nRamonville France\nHaute Garonne\n31520\nFrance",
+        "iso2": "FR",
+        "lat": 43.54990919999999,
+        "lon": 1.485814
+      },
       "telephone": "+33 (0)6 47 01 89 83"
     },
     {
@@ -659,7 +984,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "10200 W York St\nWichita\nKansas\n67215\nUnited States",
+      "address": {
+        "text": "10200 W York St\nWichita\nKansas\n67215\nUnited States",
+        "iso2": "US",
+        "lat": 37.6240615,
+        "lon": -97.46046989999999
+      },
       "telephone": "800-835-2352"
     },
     {
@@ -670,7 +1000,12 @@
         "Command & Control",
         "Incident & Emergency Response"
       ],
-      "address": "Boho 5\nBridge Street East\nMiddlesbrough\nCleveland\nTS2 1NW\nUnited Kingdom",
+      "address": {
+        "text": "Boho 5\nBridge Street East\nMiddlesbrough\nCleveland\nTS2 1NW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.57930320000001,
+        "lon": -1.2314254
+      },
       "telephone": "07802 234789"
     },
     {
@@ -681,7 +1016,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Unit 3 Brickfields Business Park\nWoolpit\nBury St Edmunds\nSuffolk\nIP30 9QS\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3 Brickfields Business Park\nWoolpit\nBury St Edmunds\nSuffolk\nIP30 9QS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2254648,
+        "lon": 0.9021884000000001
+      },
       "telephone": "+44 (0)7795 540400"
     },
     {
@@ -692,7 +1032,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "A. Tumeno St. 4\nVilnius\nVilnius\n01109\nLithuania",
+      "address": {
+        "text": "A. Tumeno St. 4\nVilnius\nVilnius\n01109\nLithuania",
+        "iso2": "LT",
+        "lat": 54.6920182,
+        "lon": 25.2633905
+      },
       "telephone": "+370 5 272 0409"
     },
     {
@@ -701,7 +1046,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "Pickwood Hall\nPickwood Avenue\nLeek\nStaffordshire\nST13 5BZ\nUnited Kingdom",
+      "address": {
+        "text": "Pickwood Hall\nPickwood Avenue\nLeek\nStaffordshire\nST13 5BZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.1023108,
+        "lon": -2.012405
+      },
       "telephone": "+44 (0)7973 200200"
     },
     {
@@ -712,7 +1062,12 @@
         "Clothing & Accessories",
         "Explosives & Blast Protection"
       ],
-      "address": "Hollywood Mansion\nHollywood Lane\nBristol\nBS10 7TW\nUnited Kingdom",
+      "address": {
+        "text": "Hollywood Mansion\nHollywood Lane\nBristol\nBS10 7TW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5285909,
+        "lon": -2.6166799
+      },
       "telephone": "+44 (0)117 379 0150"
     },
     {
@@ -722,7 +1077,12 @@
         "Training",
         "Unmanned Systems & Robotics"
       ],
-      "address": "ADS Group Ltd\nShowCentre ETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+      "address": {
+        "text": "ADS Group Ltd\nShowCentre ETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2756346,
+        "lon": -0.7611333
+      },
       "telephone": "+44 (0)7876 897423"
     },
     {
@@ -732,7 +1092,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "ADS, ‘ShowCentre’\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+      "address": {
+        "text": "ADS, ‘ShowCentre’\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      },
       "telephone": "+44 (0)7919 577950"
     },
     {
@@ -741,7 +1106,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Strandvejen 2A\nRoende\n8410\nDenmark",
+      "address": {
+        "text": "Strandvejen 2A\nRoende\n8410\nDenmark",
+        "iso2": "DK",
+        "lat": 56.3027543,
+        "lon": 10.4643834
+      },
       "telephone": "+45 (0)8880 9000"
     },
     {
@@ -751,7 +1121,12 @@
         "Surveillance",
         "Incident & Emergency Response"
       ],
-      "address": "River Reach\n31-35 High Street\nKingston-upon-Thames\nSurrey\nKT1 1LF\nUnited Kingdom",
+      "address": {
+        "text": "River Reach\n31-35 High Street\nKingston-upon-Thames\nSurrey\nKT1 1LF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4071295,
+        "lon": -0.3074288
+      },
       "telephone": "+44 (0)7903 671141"
     },
     {
@@ -760,7 +1135,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "7200 Cambridge Research Park\nBeach Drive\nCambridge\nCM25 9TL\nUnited Kingdom",
+      "address": {
+        "text": "7200 Cambridge Research Park\nBeach Drive\nCambridge\nCM25 9TL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.292353,
+        "lon": 0.1706348
+      },
       "telephone": "+44 (0)1223 859 500"
     },
     {
@@ -770,7 +1150,12 @@
         "Incident & Emergency Response",
         "Professional Services"
       ],
-      "address": "20-22 Wenlock Road\nLondon\nMiddlesex\nN1 7GU\nUnited Kingdom",
+      "address": {
+        "text": "20-22 Wenlock Road\nLondon\nMiddlesex\nN1 7GU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.530613,
+        "lon": -0.0935057
+      },
       "telephone": "+44 (0)7714 257988"
     },
     {
@@ -780,7 +1165,12 @@
         "Surveillance",
         "Professional Services"
       ],
-      "address": "Unit 24\nStockwood Business Park\nStockwood\nWorcestershire\nB96 6SX\nUnited Kingdom",
+      "address": {
+        "text": "Unit 24\nStockwood Business Park\nStockwood\nWorcestershire\nB96 6SX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2337265,
+        "lon": -2.0044238
+      },
       "telephone": "+44 (0)1386 793988"
     },
     {
@@ -791,7 +1181,12 @@
         "Command & Control",
         "Incident & Emergency Response"
       ],
-      "address": "Lyndling Barn\nPuttenham Lane\nShackleford\nSurrey\nGU8 6AP\nUnited Kingdom",
+      "address": {
+        "text": "Lyndling Barn\nPuttenham Lane\nShackleford\nSurrey\nGU8 6AP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2028468,
+        "lon": -0.6642365
+      },
       "telephone": "+44 (0)1483 813120"
     },
     {
@@ -801,7 +1196,12 @@
         "Forensic Services",
         "CCTV & Video Analytics"
       ],
-      "address": "Unit 4, Woking 8\nForsyth Road\nWoking\nSurrey\nGU21 5SB\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4, Woking 8\nForsyth Road\nWoking\nSurrey\nGU21 5SB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3297099,
+        "lon": -0.5331866
+      },
       "telephone": "+44 (0)1483 770396"
     },
     {
@@ -811,7 +1211,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "Bell House\n32 Bell Street\nRomsey\nHampshire\nSO51 8GW\nUnited Kingdom",
+      "address": {
+        "text": "Bell House\n32 Bell Street\nRomsey\nHampshire\nSO51 8GW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9877569,
+        "lon": -1.4992654
+      },
       "telephone": "+44 (0)1794 834750"
     },
     {
@@ -821,7 +1226,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "CodeBase\nArgyle House\n3 Lady Lawson Street\nEdinburgh\nMidlothian\nEH3 9DR\nUnited Kingdom",
+      "address": {
+        "text": "CodeBase\nArgyle House\n3 Lady Lawson Street\nEdinburgh\nMidlothian\nEH3 9DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9467975,
+        "lon": -3.201195100000001
+      },
       "telephone": "+44 (0)7775 854922"
     },
     {
@@ -831,7 +1241,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "5-7 Gravel Hill\nLeatherhead\nSurrey\nKT22 7HG\nUnited Kingdom",
+      "address": {
+        "text": "5-7 Gravel Hill\nLeatherhead\nSurrey\nKT22 7HG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29610419999999,
+        "lon": -0.3303467
+      },
       "telephone": "+44 (0)1372 375500"
     },
     {
@@ -839,7 +1254,12 @@
       "category": [
         "Surveillance"
       ],
-      "address": "Comtec House, Unit F1\nBramingham Business Park\nEnterprise Way\nLuton\nBedfordshire\nLU3 4BU\nUnited Kingdom",
+      "address": {
+        "text": "Comtec House, Unit F1\nBramingham Business Park\nEnterprise Way\nLuton\nBedfordshire\nLU3 4BU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9206314,
+        "lon": -0.4324422
+      },
       "telephone": "+44 (0)1582 490300"
     },
     {
@@ -849,7 +1269,12 @@
         "Clothing & Accessories",
         "Custodial"
       ],
-      "address": "White House\n80 Main Road\nEarls Barton\nNorthampton\nNorthamptonshire\nNN6 0HJ\nUnited Kingdom",
+      "address": {
+        "text": "White House\n80 Main Road\nEarls Barton\nNorthampton\nNorthamptonshire\nNN6 0HJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.273917,
+        "lon": -0.756805
+      },
       "telephone": "+44 (0)1604 633260"
     },
     {
@@ -860,7 +1285,12 @@
         "Command & Control",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Building 5\nPorton Down\nSalisbury\nWiltshire\nSP4 0JQ\nUnited Kingdom",
+      "address": {
+        "text": "Building 5\nPorton Down\nSalisbury\nWiltshire\nSP4 0JQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1351057,
+        "lon": -1.7002422
+      },
       "telephone": "+44 (0)1980 951975"
     },
     {
@@ -870,7 +1300,12 @@
         "Transport Security",
         "CCTV & Video Analytics"
       ],
-      "address": "Hudson House\nPlatform 1, Victoria Station\nLondon\nSW1V 1JT\nUnited Kingdom",
+      "address": {
+        "text": "Hudson House\nPlatform 1, Victoria Station\nLondon\nSW1V 1JT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4952103,
+        "lon": -0.1438979
+      },
       "telephone": "+44 (0)20 3553 5888"
     },
     {
@@ -880,7 +1315,12 @@
         "Professional Services",
         "Cyber Security"
       ],
-      "address": "Disklabs House\nGalena Close\nTamworth\nStaffordshire\nB77 4AS\nUnited Kingdom",
+      "address": {
+        "text": "Disklabs House\nGalena Close\nTamworth\nStaffordshire\nB77 4AS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.623101,
+        "lon": -1.650777
+      },
       "telephone": "+44 (0)1827 50000"
     },
     {
@@ -891,7 +1331,12 @@
         "Custodial",
         "Incident & Emergency Response"
       ],
-      "address": "Lingen Road\nLudlow Business Park\nLudlow\nShropshire\nSY8 1XD\nUnited Kingdom",
+      "address": {
+        "text": "Lingen Road\nLudlow Business Park\nLudlow\nShropshire\nSY8 1XD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3690464,
+        "lon": -2.6973797
+      },
       "telephone": "+44 (0)1584 874679"
     },
     {
@@ -900,7 +1345,12 @@
         "Counter Terrorism & Intelligence",
         "Border Security"
       ],
-      "address": "26 Charles Street\n26 Charles Street\nHoole\nChester\nCheshire\nCH2 3AY\nUnited Kingdom",
+      "address": {
+        "text": "26 Charles Street\n26 Charles Street\nHoole\nChester\nCheshire\nCH2 3AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.1993143,
+        "lon": -2.8745414
+      },
       "telephone": "01244340684"
     },
     {
@@ -911,12 +1361,22 @@
         "Command & Control",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Fusion 2, 1100 Parkway\nSolent Business Park\nWhiteley\nFareham\nHampshire\nPO15 7AB\nUnited Kingdom",
+      "address": {
+        "text": "Fusion 2, 1100 Parkway\nSolent Business Park\nWhiteley\nFareham\nHampshire\nPO15 7AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8768212,
+        "lon": -1.2477975
+      },
       "telephone": "+44 (0)1489 566750"
     },
     {
       "name": "Drumgrange Ltd",
-      "address": "Unit A, The Forum\nHanworth Lane\nChertsey\nSurrey\nKT16 9JX\nUnited Kingdom",
+      "address": {
+        "text": "Unit A, The Forum\nHanworth Lane\nChertsey\nSurrey\nKT16 9JX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3835401,
+        "lon": -0.5094778999999999
+      },
       "telephone": "01932 581054"
     },
     {
@@ -927,7 +1387,12 @@
         "Border Security",
         "Explosives & Blast Protection"
       ],
-      "address": "2 Chemin du Pavilion\nPO Box 50\nLe Grand-Saconnex\nGeneva\nSwitzerland\nCH-1218\nSwitzerland",
+      "address": {
+        "text": "2 Chemin du Pavilion\nPO Box 50\nLe Grand-Saconnex\nGeneva\nSwitzerland\nCH-1218\nSwitzerland",
+        "iso2": "CH",
+        "lat": 46.2384691,
+        "lon": 6.1221518
+      },
       "telephone": "+41 227175793"
     },
     {
@@ -937,7 +1402,12 @@
         "Counter Terrorism & Intelligence",
         "Transport Security"
       ],
-      "address": "Unit 5, New House Farm\nVicarage Lane\nNorth Weald\nEssex\nCM16 6AP\nUnited Kingdom",
+      "address": {
+        "text": "Unit 5, New House Farm\nVicarage Lane\nNorth Weald\nEssex\nCM16 6AP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7266404,
+        "lon": 0.1740242
+      },
       "telephone": "+44 (0)1992 524800"
     },
     {
@@ -947,7 +1417,12 @@
         "Professional Services",
         "Unmanned Systems & Robotics"
       ],
-      "address": "First Floor Building E1\nThe Point Office Park\nWeaver Road\nLincoln\nLincolnshire\nLN6 3QN\nUnited Kingdom",
+      "address": {
+        "text": "First Floor Building E1\nThe Point Office Park\nWeaver Road\nLincoln\nLincolnshire\nLN6 3QN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2016271,
+        "lon": -0.6123987
+      },
       "telephone": "+44 (0)800 774 7347"
     },
     {
@@ -956,7 +1431,12 @@
         "Personal Protection Equipment",
         "Clothing & Accessories"
       ],
-      "address": "131 Lockwood Road\nHuddersfield\nWest Yorkshire\nHD1 3QW\nUnited Kingdom",
+      "address": {
+        "text": "131 Lockwood Road\nHuddersfield\nWest Yorkshire\nHD1 3QW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.6355039,
+        "lon": -1.7918859
+      },
       "telephone": "+44 (0)1484 888888"
     },
     {
@@ -967,7 +1447,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "16 Forth Street\nMidlothian\nEdinburgh\nMidlothian\nEH1 3LH\nUnited Kingdom",
+      "address": {
+        "text": "16 Forth Street\nMidlothian\nEdinburgh\nMidlothian\nEH1 3LH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9579794,
+        "lon": -3.1873604
+      },
       "telephone": "+44 (0)131 510 0232"
     },
     {
@@ -977,7 +1462,12 @@
         "Transport Security",
         "Storage & Containers"
       ],
-      "address": "Trusley Brook Farm\nSutton-on-the-Hill\nAshbourne\nDerbyshire\nDE6 5JP\nUnited Kingdom",
+      "address": {
+        "text": "Trusley Brook Farm\nSutton-on-the-Hill\nAshbourne\nDerbyshire\nDE6 5JP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9124203,
+        "lon": -1.6117977
+      },
       "telephone": "+44 (0)7852 700619"
     },
     {
@@ -988,7 +1478,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "ECS Technology Park\nWappenham\nNr Towcester\nNorthants\nNN12 8WJ\nUnited Kingdom",
+      "address": {
+        "text": "ECS Technology Park\nWappenham\nNr Towcester\nNorthants\nNN12 8WJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1064737,
+        "lon": -1.0856287
+      },
       "telephone": "+44 (0)7908 644021"
     },
     {
@@ -998,7 +1493,12 @@
         "CBRN",
         "Transport Security"
       ],
-      "address": "PO Box 92\nHuddersfield\nWest Yorkshire\nHD7 4WQ\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 92\nHuddersfield\nWest Yorkshire\nHD7 4WQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.6258285,
+        "lon": -1.8723801
+      },
       "telephone": "+44 (0)1484 641009"
     },
     {
@@ -1009,7 +1509,12 @@
         "Command & Control",
         "Professional Services"
       ],
-      "address": "North Heath Lane\nHorsham\nWest Sussex\nRH12 5UX\nUnited Kingdom",
+      "address": {
+        "text": "North Heath Lane\nHorsham\nWest Sussex\nRH12 5UX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0801537,
+        "lon": -0.3165302
+      },
       "telephone": "+44 (0)1403 273173"
     },
     {
@@ -1018,7 +1523,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "Unit 53 Vincent Carey Road\nRotherwas\nHereford\nHerefordshire\nHR2 6FE\nUnited Kingdom",
+      "address": {
+        "text": "Unit 53 Vincent Carey Road\nRotherwas\nHereford\nHerefordshire\nHR2 6FE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0394793,
+        "lon": -2.6855816
+      },
       "telephone": "+44 (0)1432 355337"
     },
     {
@@ -1028,7 +1538,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "Willen House\nEmerald Gate\nTongwell Steet\nFox Milne\nMilton Keynes\nBuckinghamshire\nMK15 0YS\nUnited Kingdom",
+      "address": {
+        "text": "Willen House\nEmerald Gate\nTongwell Steet\nFox Milne\nMilton Keynes\nBuckinghamshire\nMK15 0YS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.52746029999999,
+        "lon": -0.0916935
+      },
       "telephone": "+44 (0)1908 597960"
     },
     {
@@ -1037,7 +1552,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Willow House\nPascal Close\nSt Mellons\nCardiff\nWales\nCF3 0LW\nUnited Kingdom",
+      "address": {
+        "text": "Willow House\nPascal Close\nSt Mellons\nCardiff\nWales\nCF3 0LW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5298903,
+        "lon": -3.0889664
+      },
       "telephone": "+44 (0)845 658 5747"
     },
     {
@@ -1048,7 +1568,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Winchester House\nSchool Lane\nChandlers Ford\nSouthampton\nSO52 4DG\nUnited Kingdom",
+      "address": {
+        "text": "Winchester House\nSchool Lane\nChandlers Ford\nSouthampton\nSO52 4DG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9785468,
+        "lon": -1.3922538
+      },
       "website": "www.EXFO.com"
     },
     {
@@ -1059,7 +1584,12 @@
         "CBRN",
         "Custodial"
       ],
-      "address": "5 Windmill Court\nGreystone Road\nAntrim\nCounty Antrim\nBT41 2TX\nUnited Kingdom",
+      "address": {
+        "text": "5 Windmill Court\nGreystone Road\nAntrim\nCounty Antrim\nBT41 2TX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.7150472,
+        "lon": -6.1806693
+      },
       "telephone": "+44 (0)2894 428686"
     },
     {
@@ -1070,7 +1600,12 @@
         "Border Security",
         "Incident & Emergency Response"
       ],
-      "address": "Fenton House\n4 Hampstead Gate\n1a Frognal\nLondon\nNW3 6AL\nUnited Kingdom",
+      "address": {
+        "text": "Fenton House\n4 Hampstead Gate\n1a Frognal\nLondon\nNW3 6AL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5503374,
+        "lon": -0.181677
+      },
       "telephone": "+44 (0)20 7433 8595"
     },
     {
@@ -1081,7 +1616,12 @@
         "Border Security",
         "Incident & Emergency Response"
       ],
-      "address": "Fenton House\n4 Hampstead Gate\n1a Frognal\nLondon\nNW3 6AL\nUnited Kingdom",
+      "address": {
+        "text": "Fenton House\n4 Hampstead Gate\n1a Frognal\nLondon\nNW3 6AL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5503374,
+        "lon": -0.181677
+      },
       "telephone": "+44 (0)20 7433 8595"
     },
     {
@@ -1092,7 +1632,12 @@
         "Optics",
         "Unmanned Systems & Robotics"
       ],
-      "address": "11 The Briars\nWaterberry Drive\nWaterlooville\nHampshire\nPO7 7YH\nUnited Kingdom",
+      "address": {
+        "text": "11 The Briars\nWaterberry Drive\nWaterlooville\nHampshire\nPO7 7YH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8856222,
+        "lon": -1.042239
+      },
       "telephone": "+44 (0)2392 459600"
     },
     {
@@ -1102,7 +1647,12 @@
         "Optics",
         "Unmanned Systems & Robotics"
       ],
-      "address": "2 Kings Hill Avenue\nWest Malling\nKent\nME19 4AQ\nUnited Kingdom",
+      "address": {
+        "text": "2 Kings Hill Avenue\nWest Malling\nKent\nME19 4AQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2745458,
+        "lon": 0.3947576
+      },
       "telephone": "+44 (0)1732 220011"
     },
     {
@@ -1112,7 +1662,12 @@
         "Forensic Services",
         "CCTV & Video Analytics"
       ],
-      "address": "Maanlander 14H\nAmersfoort\nUtrecht\n3824 MP\nNetherlands",
+      "address": {
+        "text": "Maanlander 14H\nAmersfoort\nUtrecht\n3824 MP\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.1955908,
+        "lon": 5.3893683
+      },
       "telephone": "+31 85 029 0528"
     },
     {
@@ -1122,7 +1677,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Podnikatelsk 553\nPraha 9\nCzech Republic\n19011\nCzech Republic",
+      "address": {
+        "text": "Podnikatelsk 553\nPraha 9\nCzech Republic\n19011\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0895893,
+        "lon": 14.6125922
+      },
       "telephone": "+420 608 706 907"
     },
     {
@@ -1131,7 +1691,12 @@
         "Border Security",
         "Forensic Services"
       ],
-      "address": "Vale Park\nEvesham\nWorcestershire\nWR11 1TD\nUnited Kingdom",
+      "address": {
+        "text": "Vale Park\nEvesham\nWorcestershire\nWR11 1TD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.072567,
+        "lon": -1.9379876
+      },
       "telephone": "+44 (0)1386 768050"
     },
     {
@@ -1141,7 +1706,12 @@
         "CBRN",
         "Cyber Security"
       ],
-      "address": "The Cube\n1 Lower Lamb Street\nBristol\nCity of Bristol\nBS1 5UD\nUnited Kingdom",
+      "address": {
+        "text": "The Cube\n1 Lower Lamb Street\nBristol\nCity of Bristol\nBS1 5UD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4506569,
+        "lon": -2.6037598
+      },
       "telephone": "+44 (0)117 9226 242"
     },
     {
@@ -1151,7 +1721,12 @@
         "Counter Terrorism & Intelligence",
         "Border Security"
       ],
-      "address": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nCrawley\nWest Sussex\nRH10 9QZ\nUnited Kingdom",
+      "address": {
+        "text": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nCrawley\nWest Sussex\nRH10 9QZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.12891949999999,
+        "lon": -0.1802964
+      },
       "telephone": "+44 (0)7931 703214"
     },
     {
@@ -1162,7 +1737,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Unit 5\nEastboro Fields\nHemdale Business Park\nNuneaton\nWarwickshire\nCV11 6GL\nUnited Kingdom",
+      "address": {
+        "text": "Unit 5\nEastboro Fields\nHemdale Business Park\nNuneaton\nWarwickshire\nCV11 6GL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5220742,
+        "lon": -1.4410683
+      },
       "telephone": "+44 (0)2476 641234"
     },
     {
@@ -1173,7 +1753,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Unit D-G, Porton Business Center\nPorton\nSalisbury\nWiltshire\nSP4 0ND\nUnited Kingdom",
+      "address": {
+        "text": "Unit D-G, Porton Business Center\nPorton\nSalisbury\nWiltshire\nSP4 0ND\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.133479,
+        "lon": -1.7397099
+      },
       "telephone": "+44 (0)1980 611333"
     },
     {
@@ -1181,7 +1766,12 @@
       "category": [
         "Cyber Security"
       ],
-      "address": "117 Waterloo Road\nLondon\nGreater London\nSE1 8UL\nUnited Kingdom",
+      "address": {
+        "text": "117 Waterloo Road\nLondon\nGreater London\nSE1 8UL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5026971,
+        "lon": -0.1102388
+      },
       "telephone": "+44 (0)20 3890 4504"
     },
     {
@@ -1189,7 +1779,12 @@
       "category": [
         "Surveillance"
       ],
-      "address": "Perkunkiemio 4A\nVilnius\nVilnius city\n12126\nLithuania",
+      "address": {
+        "text": "Perkunkiemio 4A\nVilnius\nVilnius city\n12126\nLithuania",
+        "iso2": "LT",
+        "lat": 54.74127230000001,
+        "lon": 25.2226684
+      },
       "telephone": "+37068924965"
     },
     {
@@ -1200,7 +1795,12 @@
         "Clothing & Accessories",
         "Optics"
       ],
-      "address": "Bear House\nConcorde Way\nFareham\nHampshire\nPO15 5RL\nUnited Kingdon",
+      "address": {
+        "text": "Bear House\nConcorde Way\nFareham\nHampshire\nPO15 5RL\nUnited Kingdon",
+        "iso2": "GB",
+        "lat": 50.86984959999999,
+        "lon": -1.2427158
+      },
       "telephone": "+44 (0)1489 579999"
     },
     {
@@ -1210,7 +1810,12 @@
         "Surveillance",
         "Cyber Security"
       ],
-      "address": "Via Agnello 8\nMilan\n20121\nItaly",
+      "address": {
+        "text": "Via Agnello 8\nMilan\n20121\nItaly",
+        "iso2": "IT",
+        "lat": 45.465455,
+        "lon": 9.1936558
+      },
       "telephone": "+39 3485497088"
     },
     {
@@ -1220,7 +1825,12 @@
         "Maritime Security",
         "Vehicles’"
       ],
-      "address": "Merlin Quay\nHazel Road\nWoolston\nSouthampton\nHampshire\nSO19 7GB\nUnited Kingdom",
+      "address": {
+        "text": "Merlin Quay\nHazel Road\nWoolston\nSouthampton\nHampshire\nSO19 7GB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9004826,
+        "lon": -1.3819911
+      },
       "telephone": "+44 (0)2380 686666"
     },
     {
@@ -1230,7 +1840,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "Van der Hoopweg 1\nAlmelo\nOverijssel\n7602PJ\nNetherlands",
+      "address": {
+        "text": "Van der Hoopweg 1\nAlmelo\nOverijssel\n7602PJ\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.373739,
+        "lon": 6.647547299999999
+      },
       "telephone": "+31 (0)546 482 400"
     },
     {
@@ -1240,7 +1855,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "57 Rathbone Street\nLondon\nW1T 1JU\nUnited Kingdom",
+      "address": {
+        "text": "57 Rathbone Street\nLondon\nW1T 1JU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5186789,
+        "lon": -0.1357966
+      },
       "telephone": "+44 (0)7794 735183"
     },
     {
@@ -1249,7 +1869,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Unit 4, The Lansbury Estate\nLower Guildford Road\nKnaphill\nWoking\nSurrey\nGU21 2EP\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4, The Lansbury Estate\nLower Guildford Road\nKnaphill\nWoking\nSurrey\nGU21 2EP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3129855,
+        "lon": -0.6107662
+      },
       "telephone": "+44 (0)1483 485870"
     },
     {
@@ -1258,7 +1883,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "10 Watermark Way\nFoxholes Business Park\nHertford\nHertfordshire\nSG13 7TZ\nUnited Kingdom",
+      "address": {
+        "text": "10 Watermark Way\nFoxholes Business Park\nHertford\nHertfordshire\nSG13 7TZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7961888,
+        "lon": -0.0592142
+      },
       "telephone": "+44 (0)20 7692 4207"
     },
     {
@@ -1268,7 +1898,12 @@
         "CBRN",
         "Incident & Emergency Response"
       ],
-      "address": "The Innovation Centre\nLauriston Park\nPitchill\nEvesham\nWorcestershire\nWR11 8SN\nUnited Kingdom",
+      "address": {
+        "text": "The Innovation Centre\nLauriston Park\nPitchill\nEvesham\nWorcestershire\nWR11 8SN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1627856,
+        "lon": -1.9251675
+      },
       "telephone": "+44 (0)1242 808902"
     },
     {
@@ -1278,7 +1913,12 @@
         "Training",
         "Unmanned Systems & Robotics"
       ],
-      "address": "51 Milltown view\nLondonderry\nBT47 3QN\nNorthern Ireland",
+      "address": {
+        "text": "51 Milltown view\nLondonderry\nBT47 3QN\nNorthern Ireland",
+        "iso2": "GB",
+        "lat": 54.97567009999999,
+        "lon": -7.2855453
+      },
       "telephone": "+44 (0)7496 593146"
     },
     {
@@ -1287,7 +1927,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "Sandridge\nSt Albans\nHerts\nAL4 9HQ\nUnited Kingdom",
+      "address": {
+        "text": "Sandridge\nSt Albans\nHerts\nAL4 9HQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.77832679999999,
+        "lon": -0.2851564
+      },
       "telephone": "01727 816225"
     },
     {
@@ -1297,7 +1942,12 @@
         "Clothing & Accessories",
         "CBRN"
       ],
-      "address": "52-53 Nasmyth Road\nGlenrothes\nFife\nKY6 2SD\nUnited Kingdom",
+      "address": {
+        "text": "52-53 Nasmyth Road\nGlenrothes\nFife\nKY6 2SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 56.1778397,
+        "lon": -3.1985084
+      },
       "telephone": "+44 (0)1592 777000"
     },
     {
@@ -1306,7 +1956,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "Via del Follatoio, 12\nTrieste\nItaly\n34148\nItaly",
+      "address": {
+        "text": "Via del Follatoio, 12\nTrieste\nItaly\n34148\nItaly",
+        "iso2": "IT",
+        "lat": 45.6209529,
+        "lon": 13.8056363
+      },
       "telephone": "+39 366 5892210"
     },
     {
@@ -1316,7 +1971,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "Unit 130\n24-28 St Leonards Road\nWindsor\nBerkshire\nSL4 3BB\nUnited Kingdom",
+      "address": {
+        "text": "Unit 130\n24-28 St Leonards Road\nWindsor\nBerkshire\nSL4 3BB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4792224,
+        "lon": -0.612601
+      },
       "website": "www.intresearch.com"
     },
     {
@@ -1326,7 +1986,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "9101 Guilford Road, Suite 112\nColumbia, MD\nHoward\n21046\nUnited States",
+      "address": {
+        "text": "9101 Guilford Road, Suite 112\nColumbia, MD\nHoward\n21046\nUnited States",
+        "iso2": "US",
+        "lat": 39.1703921,
+        "lon": -76.84666899999999
+      },
       "telephone": "+1 301 498 7590"
     },
     {
@@ -1336,7 +2001,12 @@
         "Training",
         "Professional Services"
       ],
-      "address": "118 Piccadilly\nLondon\nW1J7NW\nUnited Kingdom",
+      "address": {
+        "text": "118 Piccadilly\nLondon\nW1J7NW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5044524,
+        "lon": -0.1479357
+      },
       "telephone": "+44 (0)20 7258 3771"
     },
     {
@@ -1347,7 +2017,12 @@
         "Forensic Services",
         "Professional Services"
       ],
-      "address": "Centre Court\nMeridian Business Park\nLeicester\nLeicestershire\nLE19 1WD\nUnited Kingdom",
+      "address": {
+        "text": "Centre Court\nMeridian Business Park\nLeicester\nLeicestershire\nLE19 1WD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.61190029999999,
+        "lon": -1.1919554
+      },
       "telephone": "+44 (0)116 263 0330"
     },
     {
@@ -1355,7 +2030,12 @@
       "category": [
         "Information Technology"
       ],
-      "address": "The Hub\nStation Road\nHenley-on-Thames\nOxfordshire\nRG9 1AY\nUnited Kingdom",
+      "address": {
+        "text": "The Hub\nStation Road\nHenley-on-Thames\nOxfordshire\nRG9 1AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5344627,
+        "lon": -0.9015239
+      },
       "telephone": "+44 (0)20 3009 0733"
     },
     {
@@ -1365,7 +2045,12 @@
         "Surveillance",
         "Cyber Security"
       ],
-      "address": "Sochorova 36\nBrno\n61600\nCzech Republic",
+      "address": {
+        "text": "Sochorova 36\nBrno\n61600\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.21257749999999,
+        "lon": 16.5656082
+      },
       "telephone": "+420 736 633 122"
     },
     {
@@ -1375,7 +2060,12 @@
         "Biometrics & Imagery",
         "Cyber Security"
       ],
-      "address": "Elizabeth House\n38 York Road\nLondon\nGreater London\nSE1 7NQ\nUnited Kingdom",
+      "address": {
+        "text": "Elizabeth House\n38 York Road\nLondon\nGreater London\nSE1 7NQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5026614,
+        "lon": -0.116271
+      },
       "telephone": "+44 (0)20 7993 2379"
     },
     {
@@ -1386,7 +2076,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Via Monticello, 7\nAprilia\nLT\n04011\nItaly",
+      "address": {
+        "text": "Via Monticello, 7\nAprilia\nLT\n04011\nItaly",
+        "iso2": "IT",
+        "lat": 41.5945514,
+        "lon": 12.6310401
+      },
       "telephone": "+39 0692 710500"
     },
     {
@@ -1396,7 +2091,12 @@
         "Transport Security",
         "Forensic Services"
       ],
-      "address": "Ipsotek Ltd, Tuition House, 27-37\nSt Georges Road, Wimbledon\nLondon\nMerton\nSW19 4EU\nUnited Kingdom",
+      "address": {
+        "text": "Ipsotek Ltd, Tuition House, 27-37\nSt Georges Road, Wimbledon\nLondon\nMerton\nSW19 4EU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4202442,
+        "lon": -0.2089343
+      },
       "telephone": "+44 (0)20 8971 8300"
     },
     {
@@ -1407,7 +2107,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Building 15\nMalvern Technology Park\nSt Andrews Rd\nMalvern\nWorcestershire\nWR14 3PS\nEngland",
+      "address": {
+        "text": "Building 15\nMalvern Technology Park\nSt Andrews Rd\nMalvern\nWorcestershire\nWR14 3PS\nEngland",
+        "iso2": "GB",
+        "lat": 52.0997695,
+        "lon": -2.3200549
+      },
       "telephone": "+44 (0)1684 561250"
     },
     {
@@ -1417,7 +2122,12 @@
         "Training",
         "CBRN"
       ],
-      "address": "The Centre for Homeland Security\nTalbot Hall\nShowCentre\nHeythrop Park\nEnstone\nOxon\nOX7 5UE\nUnited Kingdom",
+      "address": {
+        "text": "The Centre for Homeland Security\nTalbot Hall\nShowCentre\nHeythrop Park\nEnstone\nOxon\nOX7 5UE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9315574,
+        "lon": -1.4726855
+      },
       "telephone": "+44 (0)7876 792689"
     },
     {
@@ -1427,7 +2137,12 @@
         "Border Security",
         "Transport Security"
       ],
-      "address": "Stowting Common\nAshford\nKent\nTN25 6BN\nUnited Kingdom",
+      "address": {
+        "text": "Stowting Common\nAshford\nKent\nTN25 6BN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1531821,
+        "lon": 1.0426484
+      },
       "telephone": "+44 (0)1233 750730"
     },
     {
@@ -1437,7 +2152,12 @@
         "Professional Services",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Unit 13 Sundon Business Park\nDencora Way\nLuton\nBedfordshire\nLU3 3HP\nUnited Kingdom",
+      "address": {
+        "text": "Unit 13 Sundon Business Park\nDencora Way\nLuton\nBedfordshire\nLU3 3HP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9207283,
+        "lon": -0.4763953
+      },
       "telephone": "+44 (0)7803 120025"
     },
     {
@@ -1446,7 +2166,12 @@
         "Access Control & Entry Systems",
         "Surveillance"
       ],
-      "address": "4.3 Frimley Business Park\nFrimley\nSurrey\nGU16 7SG\nUnited Kingdom",
+      "address": {
+        "text": "4.3 Frimley Business Park\nFrimley\nSurrey\nGU16 7SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.313059,
+        "lon": -0.7545786
+      },
       "telephone": "+44 (0)1183 130333"
     },
     {
@@ -1455,7 +2180,12 @@
         "Access Control & Entry Systems",
         "Surveillance"
       ],
-      "address": "4.3 Frimley Business Park\nFrimley\nSurrey\nGU16 7SG\nUnited Kingdom",
+      "address": {
+        "text": "4.3 Frimley Business Park\nFrimley\nSurrey\nGU16 7SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.313059,
+        "lon": -0.7545786
+      },
       "telephone": "+44 (0)1183 130333"
     },
     {
@@ -1466,7 +2196,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "15004 Northridge Drive, Suite 100\nChantilly\nVA\n20151\nUnited States",
+      "address": {
+        "text": "15004 Northridge Drive, Suite 100\nChantilly\nVA\n20151\nUnited States",
+        "iso2": "US",
+        "lat": 38.882219,
+        "lon": -77.465057
+      },
       "telephone": "+ 1 703 466 5220"
     },
     {
@@ -1478,7 +2213,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Unit 4 Ednaston Home Farm Studios\nBrailsford\nAshbourne\nDerbyshire\nDE6 3AY\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Ednaston Home Farm Studios\nBrailsford\nAshbourne\nDerbyshire\nDE6 3AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9793728,
+        "lon": -1.6601716
+      },
       "telephone": "+44 (0)1335 216103"
     },
     {
@@ -1489,7 +2229,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "1 Weston Court\nNewbury Road\nWeston\nBerkshire\nRG20 8JE\nUnited Kingdom",
+      "address": {
+        "text": "1 Weston Court\nNewbury Road\nWeston\nBerkshire\nRG20 8JE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4601763,
+        "lon": -1.4257303
+      },
       "telephone": "+44 (0)1488 648478"
     },
     {
@@ -1500,7 +2245,12 @@
         "Command & Control",
         "Maritime Security"
       ],
-      "address": "Voltage\n6 Mollison Avenue\nEnfield\nLondon\nEN3 7XQ\nUnited Kingdom",
+      "address": {
+        "text": "Voltage\n6 Mollison Avenue\nEnfield\nLondon\nEN3 7XQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6798009,
+        "lon": -0.0298769
+      },
       "telephone": "+44 (0)1992 805200"
     },
     {
@@ -1511,7 +2261,12 @@
         "Command & Control",
         "Maritime Security"
       ],
-      "address": "Voltage\n6 Mollison Avenue\nEnfield\nLondon\nEN3 7XQ\nUnited Kingdom",
+      "address": {
+        "text": "Voltage\n6 Mollison Avenue\nEnfield\nLondon\nEN3 7XQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6798009,
+        "lon": -0.0298769
+      },
       "telephone": "+44 (0)1992 805200"
     },
     {
@@ -1521,7 +2276,12 @@
         "Information Technology",
         "Surveillance"
       ],
-      "address": "Via G.Pezzana 35\nReggio Emilia\n42124\nItaly",
+      "address": {
+        "text": "Via G.Pezzana 35\nReggio Emilia\n42124\nItaly",
+        "iso2": "IT",
+        "lat": 44.71513849999999,
+        "lon": 10.6284209
+      },
       "telephone": "+39 3357 865 046"
     },
     {
@@ -1531,7 +2291,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "7740 Milestone Parkway\nSuite 400\nHanover\nAnne Arundel\n21076\nUnited States",
+      "address": {
+        "text": "7740 Milestone Parkway\nSuite 400\nHanover\nAnne Arundel\n21076\nUnited States",
+        "iso2": "US",
+        "lat": 39.1514472,
+        "lon": -76.74833989999999
+      },
       "telephone": "+1 410 714 1404"
     },
     {
@@ -1541,7 +2306,12 @@
         "Forensic Services",
         "CCTV & Video Analytics"
       ],
-      "address": "79 Merrion Square\nDublin\nD2\nTN27\nIreland",
+      "address": {
+        "text": "79 Merrion Square\nDublin\nD2\nTN27\nIreland",
+        "iso2": "IE",
+        "lat": 53.3392259,
+        "lon": -6.2510074
+      },
       "telephone": "+44 (0)20 7096 1550"
     },
     {
@@ -1552,7 +2322,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Rusint House\nHarvest Crescent\nFleet\nHampshire\nGU512QS\nUK",
+      "address": {
+        "text": "Rusint House\nHarvest Crescent\nFleet\nHampshire\nGU512QS\nUK",
+        "iso2": "GB",
+        "lat": 51.2978684,
+        "lon": -0.8278867999999999
+      },
       "telephone": "07740 248788"
     },
     {
@@ -1560,7 +2335,12 @@
       "category": [
         "Vehicles’"
       ],
-      "address": "Jaguar Land Rover Limited\nAbbey Road\nWhitley\nCoventry\nWest Midlands\nCV3 4LF\nUnited Kingdom",
+      "address": {
+        "text": "Jaguar Land Rover Limited\nAbbey Road\nWhitley\nCoventry\nWest Midlands\nCV3 4LF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.38452090000001,
+        "lon": -1.4908064
+      },
       "telephone": "+44 (0)7876 875509"
     },
     {
@@ -1571,7 +2351,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Semaphore House\nFareham Heights\nStandard Way\nFareham\nHampshire\nPO16 8XT\nUnited Kingdom",
+      "address": {
+        "text": "Semaphore House\nFareham Heights\nStandard Way\nFareham\nHampshire\nPO16 8XT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8595558,
+        "lon": -1.1642708
+      },
       "telephone": "+44 (0)1329 722133"
     },
     {
@@ -1582,7 +2367,12 @@
         "Clothing & Accessories",
         "Maritime Security"
       ],
-      "address": "P.O. Box 328\nSt Albans\nHertfordshire\nAL4 0WA\nUnited Kingdom",
+      "address": {
+        "text": "P.O. Box 328\nSt Albans\nHertfordshire\nAL4 0WA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7476554,
+        "lon": -0.3019492
+      },
       "telephone": "+44 (0)1727 826607"
     },
     {
@@ -1591,7 +2381,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "222\nHennepin\nMinneapolis\nMinnesota\n55402\nUnited States",
+      "address": {
+        "text": "222\nHennepin\nMinneapolis\nMinnesota\n55402\nUnited States",
+        "iso2": "US",
+        "lat": 44.982988,
+        "lon": -93.26828669999999
+      },
       "telephone": "+1 4155 086 618"
     },
     {
@@ -1601,7 +2396,12 @@
         "Border Security",
         "Cyber Security"
       ],
-      "address": "Sigma House\nChristopher Martin Road\nBasildon\nEssex\nSS14 3EL\nUnited Kingdom",
+      "address": {
+        "text": "Sigma House\nChristopher Martin Road\nBasildon\nEssex\nSS14 3EL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.59124389999999,
+        "lon": 0.4980807
+      },
       "telephone": "+44 (0)1268 823400"
     },
     {
@@ -1612,7 +2412,12 @@
         "Optics",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Unit 4\nHereford Trade Park\nHolmer Road\nHereford\nHR4 9SG\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4\nHereford Trade Park\nHolmer Road\nHereford\nHR4 9SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06656410000001,
+        "lon": -2.7202988
+      },
       "telephone": "+44 (0)1432 341686"
     },
     {
@@ -1622,7 +2427,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Unit 15b\nEarls Colne Business Park\nEarls Colne\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+      "address": {
+        "text": "Unit 15b\nEarls Colne Business Park\nEarls Colne\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9085821,
+        "lon": 0.6807529999999999
+      },
       "telephone": "+44 (0)1787 223972"
     },
     {
@@ -1630,7 +2440,12 @@
       "category": [
         "Cyber Security"
       ],
-      "address": "156 Columbia Street West\nUnit 2\nWaterloo\nOntario\nN2L 3L3\nCanada",
+      "address": {
+        "text": "156 Columbia Street West\nUnit 2\nWaterloo\nOntario\nN2L 3L3\nCanada",
+        "iso2": "CA",
+        "lat": 43.4772615,
+        "lon": -80.5408066
+      },
       "telephone": "+1 (844) 638-7884"
     },
     {
@@ -1640,7 +2455,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "41 Lothbury\nLondon\nGreater London\nEC2R 7HF\nUnited Kingdom",
+      "address": {
+        "text": "41 Lothbury\nLondon\nGreater London\nEC2R 7HF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5148618,
+        "lon": -0.08792939999999999
+      },
       "telephone": "+44 (0)7817 719868"
     },
     {
@@ -1651,7 +2471,12 @@
         "Command & Control",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Dovenby Hall\nBalcombe Road\nHorley\nSurrey\nRH6 9UU\nUnited Kingdom",
+      "address": {
+        "text": "Dovenby Hall\nBalcombe Road\nHorley\nSurrey\nRH6 9UU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.16050749999999,
+        "lon": -0.1491966
+      },
       "telephone": "+44 (0)1293 775071"
     },
     {
@@ -1660,7 +2485,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "Enterprise House\nGreat North Road\nLittle Paxton\nSt Neots\nCambridgeshire\nPE19 6BN\nUnited Kingdom",
+      "address": {
+        "text": "Enterprise House\nGreat North Road\nLittle Paxton\nSt Neots\nCambridgeshire\nPE19 6BN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2533209,
+        "lon": -0.2641665
+      },
       "telephone": "+44 (0)1480 222600"
     },
     {
@@ -1670,7 +2500,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "The Courtyard\n30 Worthing Road\nHorsham\nWest Sussex\nRH12 1SL\nUnited Kingdom",
+      "address": {
+        "text": "The Courtyard\n30 Worthing Road\nHorsham\nWest Sussex\nRH12 1SL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0624621,
+        "lon": -0.3336038
+      },
       "telephone": "+44 (0)1403 267176"
     },
     {
@@ -1680,7 +2515,12 @@
         "Surveillance",
         "CCTV & Video Analytics"
       ],
-      "address": "The Palanium Building\nEinat\nCenter\n4880500\nIsrael",
+      "address": {
+        "text": "The Palanium Building\nEinat\nCenter\n4880500\nIsrael",
+        "iso2": "IL",
+        "lat": 32.081948,
+        "lon": 34.937514
+      },
       "telephone": "+972 (3)901 6101"
     },
     {
@@ -1691,7 +2531,12 @@
         "Command & Control",
         "Maritime Security"
       ],
-      "address": "11 Thornhill\nDartmouth\nNS\nB3B 1R9\nCanada",
+      "address": {
+        "text": "11 Thornhill\nDartmouth\nNS\nB3B 1R9\nCanada",
+        "iso2": "CA",
+        "lat": 44.6998877,
+        "lon": -63.5952066
+      },
       "telephone": "+1 9024 682505"
     },
     {
@@ -1701,7 +2546,12 @@
         "Border Security",
         "Custodial"
       ],
-      "address": "Unit 8 Beauchamp Business Centre\nSparrowhawk Close\nMalvern\nWorcestershire\nWR14 1GL\nUnited Kingdom",
+      "address": {
+        "text": "Unit 8 Beauchamp Business Centre\nSparrowhawk Close\nMalvern\nWorcestershire\nWR14 1GL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1279718,
+        "lon": -2.3062601
+      },
       "telephone": "+44 (0)1684 219000"
     },
     {
@@ -1710,7 +2560,12 @@
         "Personal Protection Equipment",
         "Clothing & Accessories"
       ],
-      "address": "Halifax House\nSeaton Ross\nYork\nNorth Yorkshire\nY042 4LU\nUnited Kingdom",
+      "address": {
+        "text": "Halifax House\nSeaton Ross\nYork\nNorth Yorkshire\nY042 4LU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.8646402,
+        "lon": -0.8181427
+      },
       "telephone": "+44 (0)1759 318557"
     },
     {
@@ -1719,7 +2574,12 @@
         "Training",
         "Forensic Services"
       ],
-      "address": "Unit 4 Ravensquay Business Centre\nCray Avenue\nOrpington\nKent\nBR5 4BQ\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Ravensquay Business Centre\nCray Avenue\nOrpington\nKent\nBR5 4BQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3884188,
+        "lon": 0.109541
+      },
       "telephone": "+44 (0)1689 883020"
     },
     {
@@ -1729,7 +2589,12 @@
         "Professional Services",
         "Storage & Containers"
       ],
-      "address": "Seaspace House\nBrighton Road\nHandcross\nHaywards Heath\nWest Sussex\nRH17 6BZ\nUnited Kingdom",
+      "address": {
+        "text": "Seaspace House\nBrighton Road\nHandcross\nHaywards Heath\nWest Sussex\nRH17 6BZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1096709,
+        "lon": -0.191347
+      },
       "telephone": "+44 (0)1444 405170"
     },
     {
@@ -1739,7 +2604,12 @@
         "Professional Services",
         "Storage & Containers"
       ],
-      "address": "Seaspace House\nBrighton Road\nHandcross\nHaywards Heath\nWest Sussex\nRH17 6BZ\nUnited Kingdom",
+      "address": {
+        "text": "Seaspace House\nBrighton Road\nHandcross\nHaywards Heath\nWest Sussex\nRH17 6BZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1096709,
+        "lon": -0.191347
+      },
       "telephone": "+44 (0)1444 405170"
     },
     {
@@ -1749,7 +2619,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Capstan House\n33-35 Broadway\nSalford\nGreater Manchester\nM50 2UW\nUnited Kingdom",
+      "address": {
+        "text": "Capstan House\n33-35 Broadway\nSalford\nGreater Manchester\nM50 2UW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.47581169999999,
+        "lon": -2.294937
+      },
       "telephone": "+44 (0)7446 771414"
     },
     {
@@ -1759,7 +2634,12 @@
         "Information Technology",
         "CCTV & Video Analytics"
       ],
-      "address": "PO BOX 9\nWakefield\nWest Yorkshire\nWF1 3QP\nUnited Kingdom",
+      "address": {
+        "text": "PO BOX 9\nWakefield\nWest Yorkshire\nWF1 3QP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.67988649999999,
+        "lon": -1.4997016
+      },
       "telephone": "+44 (0)1924 878511"
     },
     {
@@ -1769,7 +2649,12 @@
         "Counter Terrorism & Intelligence",
         "CCTV & Video Analytics"
       ],
-      "address": "NDI House\n11 Alvaston Business Park\nMiddlewich Road\nNantwich\nCheshire\nCW5 6PF\nUnited Kingdom",
+      "address": {
+        "text": "NDI House\n11 Alvaston Business Park\nMiddlewich Road\nNantwich\nCheshire\nCW5 6PF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.0798689,
+        "lon": -2.5129317
+      },
       "telephone": "+44 (0)1270 613796"
     },
     {
@@ -1779,7 +2664,12 @@
         "Biometrics & Imagery",
         "Surveillance"
       ],
-      "address": "Athene, Odyssey Business Park\nWest End Road\nSouth Ruislip\nMiddlesex\nHA4 6QE\nUnited Kingdom",
+      "address": {
+        "text": "Athene, Odyssey Business Park\nWest End Road\nSouth Ruislip\nMiddlesex\nHA4 6QE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.55726929999999,
+        "lon": -0.4025298
+      },
       "telephone": "+44 (0)20 8836 2369"
     },
     {
@@ -1790,7 +2680,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Uetlibergstrasse 132\nZurich\n8045\nSwitzerland",
+      "address": {
+        "text": "Uetlibergstrasse 132\nZurich\n8045\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.3604101,
+        "lon": 8.516143399999999
+      },
       "telephone": "+41 44 520 0804"
     },
     {
@@ -1800,7 +2695,12 @@
         "Border Security",
         "Surveillance"
       ],
-      "address": "Unit 10c, Santry Hall Industrial Estate\nSwords Road\nSantry\nDublin 9\nDublin\nD09 CK15\nIreland",
+      "address": {
+        "text": "Unit 10c, Santry Hall Industrial Estate\nSwords Road\nSantry\nDublin 9\nDublin\nD09 CK15\nIreland",
+        "iso2": "IE",
+        "lat": 53.3946751,
+        "lon": -6.249465799999999
+      },
       "telephone": "+353 8775 59134"
     },
     {
@@ -1811,7 +2711,12 @@
         "Forensic Services",
         "Incident & Emergency Response"
       ],
-      "address": "Unit 4, Applied House\nFitzherbert Spur\nFarlington\nPortsmouth\nHampshire\nPO6 1TT\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4, Applied House\nFitzherbert Spur\nFarlington\nPortsmouth\nHampshire\nPO6 1TT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8434176,
+        "lon": -1.0321545
+      },
       "telephone": "+44 (0)2392 389774"
     },
     {
@@ -1822,7 +2727,12 @@
         "Border Security",
         "Maritime Security"
       ],
-      "address": "Appley Lane North\nAppley Bridge\nWigan\nLancashire\nWN6 9AE\nUK",
+      "address": {
+        "text": "Appley Lane North\nAppley Bridge\nWigan\nLancashire\nWN6 9AE\nUK",
+        "iso2": "GB",
+        "lat": 53.5806543,
+        "lon": -2.7209623
+      },
       "telephone": "01257 254444"
     },
     {
@@ -1831,7 +2741,12 @@
         "Training",
         "Professional Services"
       ],
-      "address": "Unit 3 Easter Park\nUnit 3\nEaster Park\nNottingham\nNottinghamshire\nNG7 2PX\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3 Easter Park\nUnit 3\nEaster Park\nNottingham\nNottinghamshire\nNG7 2PX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9518991,
+        "lon": -1.145783
+      },
       "telephone": "+44 (0)1159 248735"
     },
     {
@@ -1841,7 +2756,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "Wethered House\nPound Lane\nMarlow\nLondon\nSL7 2AF\nUnited Kingdom",
+      "address": {
+        "text": "Wethered House\nPound Lane\nMarlow\nLondon\nSL7 2AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5674833,
+        "lon": -0.7823192
+      },
       "telephone": "+34 664 170 021"
     },
     {
@@ -1851,7 +2771,12 @@
         "CCTV & Video Analytics",
         "Optics"
       ],
-      "address": "The Museum Room\nAvington Park\nWinchester\nHampshire\nSO21 1DB\nUnited Kingdom",
+      "address": {
+        "text": "The Museum Room\nAvington Park\nWinchester\nHampshire\nSO21 1DB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.088745,
+        "lon": -1.235577
+      },
       "telephone": "+44 (0)7768 807733"
     },
     {
@@ -1862,7 +2787,12 @@
         "Optics",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Unit 3A\nWhitworth Court\nManor Park\nEpinal Way\nRuncorn\nWarrington\nWA7 1WA\nUnited Kingdon",
+      "address": {
+        "text": "Unit 3A\nWhitworth Court\nManor Park\nEpinal Way\nRuncorn\nWarrington\nWA7 1WA\nUnited Kingdon",
+        "iso2": "GB",
+        "lat": 53.348035,
+        "lon": -2.6621322
+      },
       "telephone": "+44 (0)3300 020640"
     },
     {
@@ -1872,7 +2802,12 @@
         "Professional Services",
         "Unmanned Systems & Robotics"
       ],
-      "address": "4B Stocksfield Hall\nStocksfield\nNorthumberland\nNE43 7TN\nUnited Kingdom",
+      "address": {
+        "text": "4B Stocksfield Hall\nStocksfield\nNorthumberland\nNE43 7TN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9512683,
+        "lon": -1.9169728
+      },
       "telephone": "+44 (0)1434 400469"
     },
     {
@@ -1882,7 +2817,12 @@
         "Surveillance",
         "Professional Services"
       ],
-      "address": "Soanepoint\n6-8 Market Place\nReading\nBerkshire\nRG1 2EG\nUnited Kingdom",
+      "address": {
+        "text": "Soanepoint\n6-8 Market Place\nReading\nBerkshire\nRG1 2EG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4556949,
+        "lon": -0.9693044999999999
+      },
       "telephone": "+44 (0)20 7118 8870"
     },
     {
@@ -1890,7 +2830,12 @@
       "category": [
         "Professional Services"
       ],
-      "address": "11a Tunbridge Wells\nTunbridge Wells\nKent\nTN1 1UL\nUnited Kingdom",
+      "address": {
+        "text": "11a Tunbridge Wells\nTunbridge Wells\nKent\nTN1 1UL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.12900339999999,
+        "lon": 0.2630205
+      },
       "telephone": "+44 (0)7785 569719"
     },
     {
@@ -1898,7 +2843,12 @@
       "category": [
         "Surveillance"
       ],
-      "address": "Springfield Barn\nLondon Road\nMilton Common\nOxfordshire\nOX9 2JY\nUnited Kingdom",
+      "address": {
+        "text": "Springfield Barn\nLondon Road\nMilton Common\nOxfordshire\nOX9 2JY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7356479,
+        "lon": -1.0820996
+      },
       "telephone": "+44 (0)1844 279638"
     },
     {
@@ -1906,7 +2856,12 @@
       "category": [
         "CCTV & Video Analytics"
       ],
-      "address": "Overview Ltd\n55 Bendon Valley\nEarlsfield\nLondon\nGreater London\nSW18 4LZ\nUnited Kingdom",
+      "address": {
+        "text": "Overview Ltd\n55 Bendon Valley\nEarlsfield\nLondon\nGreater London\nSW18 4LZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4465084,
+        "lon": -0.1926855
+      },
       "telephone": "+44 (0)20 8875 0984"
     },
     {
@@ -1916,7 +2871,12 @@
         "Custodial",
         "CCTV & Video Analytics"
       ],
-      "address": "The Sadler Building\nHeatley Road\nOxford Science Park\nOxford\nOxfordshire\nOX4 4GE\nUnited Kingdom",
+      "address": {
+        "text": "The Sadler Building\nHeatley Road\nOxford Science Park\nOxford\nOxfordshire\nOX4 4GE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7158616,
+        "lon": -1.222119
+      },
       "telephone": "+44 (0)1865 781446"
     },
     {
@@ -1926,7 +2886,12 @@
         "Biometrics & Imagery",
         "Training"
       ],
-      "address": "Oxford Wave Research\nClarendon Business Centre, Sandford Gate\nSandy Lane West\nOxford\nOxfordshire\nOX4 6LB\nUnited Kingdom",
+      "address": {
+        "text": "Oxford Wave Research\nClarendon Business Centre, Sandford Gate\nSandy Lane West\nOxford\nOxfordshire\nOX4 6LB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7234872,
+        "lon": -1.215765
+      },
       "telephone": "+44 (0)1865 910345"
     },
     {
@@ -1936,7 +2901,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "Cambridge Technology Centre\nMelbourn\nRoyston\nHertfordshire\nSG8 6DP\nUnited Kingdom",
+      "address": {
+        "text": "Cambridge Technology Centre\nMelbourn\nRoyston\nHertfordshire\nSG8 6DP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0925892,
+        "lon": 0.0324286
+      },
       "telephone": "+44(0)1763 267639"
     },
     {
@@ -1947,7 +2917,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "7073 W Willis Rd\nChandler\nArizona\n85226\nUnited States",
+      "address": {
+        "text": "7073 W Willis Rd\nChandler\nArizona\n85226\nUnited States",
+        "iso2": "US",
+        "lat": 33.2822815,
+        "lon": -111.9634275
+      },
       "telephone": "+44 (0)7712 516780"
     },
     {
@@ -1958,7 +2933,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "Cedar House\nAncells Road\nAncells Business Park\nFleet\nHampshire\nGU51 2UN\nUnited Kingdom",
+      "address": {
+        "text": "Cedar House\nAncells Road\nAncells Business Park\nFleet\nHampshire\nGU51 2UN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29682090000001,
+        "lon": -0.81967
+      },
       "telephone": "+44 (0)1252 812055"
     },
     {
@@ -1968,7 +2948,12 @@
         "Biometrics & Imagery",
         "Forensic Services"
       ],
-      "address": "Queens Road\nTeddington\nMiddlesex\nTW11 0LY\nUnited Kingdom",
+      "address": {
+        "text": "Queens Road\nTeddington\nMiddlesex\nTW11 0LY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4230491,
+        "lon": -0.3387339
+      },
       "telephone": "+44 (0)844 2641 999"
     },
     {
@@ -1977,7 +2962,12 @@
         "Personal Protection Equipment",
         "Clothing & Accessories"
       ],
-      "address": "Unit F\nDurgates Industrial Estate\nWadhurst\nEast Sussex\nTN5 6DF\nUnited Kingdom",
+      "address": {
+        "text": "Unit F\nDurgates Industrial Estate\nWadhurst\nEast Sussex\nTN5 6DF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0661277,
+        "lon": 0.3294356
+      },
       "telephone": "+44 (0)1892 786446"
     },
     {
@@ -1987,7 +2977,12 @@
         "Transport Security",
         "Forensic Services"
       ],
-      "address": "Cairn House\nElgiva Lane\nChesham\nBuckinghamshire\nHP5 2JD\nUnited Kingdom",
+      "address": {
+        "text": "Cairn House\nElgiva Lane\nChesham\nBuckinghamshire\nHP5 2JD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7066624,
+        "lon": -0.6130799
+      },
       "telephone": "+44 (0)1494 257911"
     },
     {
@@ -1998,7 +2993,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "Armstrong Works\nScotswood Road\nNewcastle upon Tyne\nTyne and Wear\nNE15 6UX\nUnited Kingdom",
+      "address": {
+        "text": "Armstrong Works\nScotswood Road\nNewcastle upon Tyne\nTyne and Wear\nNE15 6UX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.96660869999999,
+        "lon": -1.6825385
+      },
       "telephone": "+44 (0)1912 340001"
     },
     {
@@ -2009,7 +3009,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "Harvest House\nPotters Bar\nHertfordshire\nEN6 3JF\nUnited Kingdom",
+      "address": {
+        "text": "Harvest House\nPotters Bar\nHertfordshire\nEN6 3JF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7045842,
+        "lon": -0.2018365
+      },
       "telephone": "+44 (0)1902 796699"
     },
     {
@@ -2019,7 +3024,12 @@
         "Training",
         "Cyber Security"
       ],
-      "address": "Cascades 1\n1190 Park Avenue\nAztec West\nAlmondsbury\nBristol\nBS32 4FP\nUnited Kingdom",
+      "address": {
+        "text": "Cascades 1\n1190 Park Avenue\nAztec West\nAlmondsbury\nBristol\nBS32 4FP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5417649,
+        "lon": -2.5782645
+      },
       "telephone": "+44 (0)747 103 2273"
     },
     {
@@ -2029,7 +3039,12 @@
         "CCTV & Video Analytics",
         "Cyber Security"
       ],
-      "address": "Unit 2\nNine Mile Water Business Park\nNether Wallop\nHampshire\nSO20 8DR\nUnited Kingdom",
+      "address": {
+        "text": "Unit 2\nNine Mile Water Business Park\nNether Wallop\nHampshire\nSO20 8DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1116835,
+        "lon": -1.564215
+      },
       "telephone": "+44 (0)1794 301052"
     },
     {
@@ -2040,7 +3055,12 @@
         "Incident & Emergency Response",
         "Professional Services"
       ],
-      "address": "3 Mount Mews\nHigh Street\nHampton\nMiddlesex\nTW12 2SH\nUnited Kingdom",
+      "address": {
+        "text": "3 Mount Mews\nHigh Street\nHampton\nMiddlesex\nTW12 2SH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4138914,
+        "lon": -0.3623827
+      },
       "telephone": "+44 (0)20 8941 6907"
     },
     {
@@ -2048,7 +3068,12 @@
       "category": [
         "Surveillance"
       ],
-      "address": "9, Ahad Haam st.\nTel Aviv\n6525101\nIsrael",
+      "address": {
+        "text": "9, Ahad Haam st.\nTel Aviv\n6525101\nIsrael",
+        "iso2": "IL",
+        "lat": 32.0641153,
+        "lon": 34.7695928
+      },
       "telephone": "+972 3 681 99 66"
     },
     {
@@ -2058,7 +3083,12 @@
         "Training",
         "Surveillance"
       ],
-      "address": "1 Upper Barn\nGrange Farm, Harewood End\nHereford\nHerefordshire\nHR2 8JS\nUnited Kingdom",
+      "address": {
+        "text": "1 Upper Barn\nGrange Farm, Harewood End\nHereford\nHerefordshire\nHR2 8JS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9491239,
+        "lon": -2.685537
+      },
       "telephone": "+44 (0)1989 730740"
     },
     {
@@ -2068,7 +3098,12 @@
         "Incident & Emergency Response",
         "Vehicles’"
       ],
-      "address": "24 Victoria Way\nBurgess Hill\nWest Sussex\nRH15 9NF\nUnited Kingdom",
+      "address": {
+        "text": "24 Victoria Way\nBurgess Hill\nWest Sussex\nRH15 9NF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9550102,
+        "lon": -0.1433531
+      },
       "telephone": "+44 (0)1444 258980"
     },
     {
@@ -2078,7 +3113,12 @@
         "Incident & Emergency Response",
         "Vehicles’"
       ],
-      "address": "24 Victoria Way\nBurgess Hill\nWest Sussex\nRH15 9NF\nUnited Kingdom",
+      "address": {
+        "text": "24 Victoria Way\nBurgess Hill\nWest Sussex\nRH15 9NF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9550102,
+        "lon": -0.1433531
+      },
       "telephone": "+44 (0)1444 258980"
     },
     {
@@ -2088,7 +3128,12 @@
         "CBRN",
         "Incident & Emergency Response"
       ],
-      "address": "31\nLondon Road\nGrantham\nLincolnshire\nNG31 6EX\nUnited Kingdom",
+      "address": {
+        "text": "31\nLondon Road\nGrantham\nLincolnshire\nNG31 6EX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9088044,
+        "lon": -0.6387986999999999
+      },
       "telephone": "+44 (0)1476 401992"
     },
     {
@@ -2098,12 +3143,22 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Fircroft Way\nEdenbridge\nKent\nTN8 6HA\nUnited Kingdom",
+      "address": {
+        "text": "Fircroft Way\nEdenbridge\nKent\nTN8 6HA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2061145,
+        "lon": 0.0642512
+      },
       "telephone": "+44 (0)1732 864111"
     },
     {
       "name": "Q Electronics Ltd",
-      "address": "Beck House\nHawksworth Road\nHorsforth\nLeeds\nWest Yorkshire\nLS18 4JP\nUnited Kingdom",
+      "address": {
+        "text": "Beck House\nHawksworth Road\nHorsforth\nLeeds\nWest Yorkshire\nLS18 4JP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.83307,
+        "lon": -1.6215897
+      },
       "telephone": "+44 (0)7050 678999"
     },
     {
@@ -2112,7 +3167,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "1 Hind Court\n149 Fleet Street\nLondon\nEC4A 3DL\nUnited Kingdom",
+      "address": {
+        "text": "1 Hind Court\n149 Fleet Street\nLondon\nEC4A 3DL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5144478,
+        "lon": -0.1075317
+      },
       "telephone": "+44 (0)20 7205 2100"
     },
     {
@@ -2122,7 +3182,12 @@
         "Cyber Security",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+      "address": {
+        "text": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      },
       "telephone": "+44 (0)1252 392000"
     },
     {
@@ -2132,7 +3197,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Glascoed Road\nSt. Asaph\nDenbighshire\nLL17 0LL\nUnited Kingdom",
+      "address": {
+        "text": "Glascoed Road\nSt. Asaph\nDenbighshire\nLL17 0LL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2531786,
+        "lon": -3.472457
+      },
       "telephone": "+44 (0)1745 588002"
     },
     {
@@ -2142,7 +3212,12 @@
         "CCTV & Video Analytics",
         "Vehicles’"
       ],
-      "address": "36 New Lane\nHavant\nPortsmouth\nPO9 2JL\nUnited Kingdom",
+      "address": {
+        "text": "36 New Lane\nHavant\nPortsmouth\nPO9 2JL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.861611,
+        "lon": -0.9701232999999999
+      },
       "telephone": "+44 (0)2393 870 057"
     },
     {
@@ -2152,7 +3227,12 @@
         "CBRN",
         "Transport Security"
       ],
-      "address": "Granary House\nStation Road\nGreat Shelford\nCambridge\nCB22 5LR\nUnited Kingdom",
+      "address": {
+        "text": "Granary House\nStation Road\nGreat Shelford\nCambridge\nCB22 5LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1479231,
+        "lon": 0.1390064
+      },
       "telephone": "+44 (0) 7818404577"
     },
     {
@@ -2162,7 +3242,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "18B Ley Court\nBarnwood\nGloucester\nGL4 3RT\nUnited Kingdom",
+      "address": {
+        "text": "18B Ley Court\nBarnwood\nGloucester\nGL4 3RT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.86326460000001,
+        "lon": -2.1971951
+      },
       "telephone": "+44 (0)7775 555483"
     },
     {
@@ -2172,7 +3257,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "18B Ley Court\nBarnwood\nGloucester\nGL4 3RT\nUnited Kingdom",
+      "address": {
+        "text": "18B Ley Court\nBarnwood\nGloucester\nGL4 3RT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.86326460000001,
+        "lon": -2.1971951
+      },
       "telephone": "+44 (0)7775 555483"
     },
     {
@@ -2180,7 +3270,12 @@
       "category": [
         "Surveillance"
       ],
-      "address": "Caldera Business Park, Building B\nVia Caldera 21\nMilano\n20153\nItaly",
+      "address": {
+        "text": "Caldera Business Park, Building B\nVia Caldera 21\nMilano\n20153\nItaly",
+        "iso2": "IT",
+        "lat": 45.4769929,
+        "lon": 9.1021417
+      },
       "telephone": "+39 02 3977 7453"
     },
     {
@@ -2190,7 +3285,12 @@
         "Incident & Emergency Response",
         "CCTV & Video Analytics"
       ],
-      "address": "3 Rosehill Enterprise Park\nCefn Mawr\nWrexham\nLL14 3QA\nUnited Kingdom",
+      "address": {
+        "text": "3 Rosehill Enterprise Park\nCefn Mawr\nWrexham\nLL14 3QA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9778199,
+        "lon": -3.0753522
+      },
       "telephone": "+44 (0)330 223 3801"
     },
     {
@@ -2200,7 +3300,12 @@
         "Incident & Emergency Response",
         "CCTV & Video Analytics"
       ],
-      "address": "3 Rosehill Enterprise Park\nCefn Mawr\nWrexham\nLL14 3QA\nUnited Kingdom",
+      "address": {
+        "text": "3 Rosehill Enterprise Park\nCefn Mawr\nWrexham\nLL14 3QA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9778199,
+        "lon": -3.0753522
+      },
       "telephone": "+44 (0)330 223 3801"
     },
     {
@@ -2210,7 +3315,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Unit B, The Apex\nSt Cross Business Park\nNewport\nIsle of Wight\nPO30 5XW\nUnited Kingdom",
+      "address": {
+        "text": "Unit B, The Apex\nSt Cross Business Park\nNewport\nIsle of Wight\nPO30 5XW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7129578,
+        "lon": -1.2911159
+      },
       "telephone": "+44 (0)1983 216600"
     },
     {
@@ -2221,7 +3331,12 @@
         "Personal Protection Equipment",
         "Clothing & Accessories"
       ],
-      "address": "7 Howard Terrace\nBrighton\nEast Sussex\nBN1 3TR\nUnited Kingdom",
+      "address": {
+        "text": "7 Howard Terrace\nBrighton\nEast Sussex\nBN1 3TR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8318449,
+        "lon": -0.1467617
+      },
       "telephone": "+44 (0)7971 389603"
     },
     {
@@ -2232,7 +3347,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Suite 404, Eagle Tower\nMontpellier Drive\nCheltenham\nGloucestershire\nGL50 1TA\nUK",
+      "address": {
+        "text": "Suite 404, Eagle Tower\nMontpellier Drive\nCheltenham\nGloucestershire\nGL50 1TA\nUK",
+        "iso2": "GB",
+        "lat": 51.8941696,
+        "lon": -2.0769562
+      },
       "telephone": "+44 (0)7376 075604"
     },
     {
@@ -2242,7 +3362,12 @@
         "Surveillance",
         "Unmanned Systems & Robotics"
       ],
-      "address": "38 Rue Jacques Ibert\nLevallois Perret\nHauts de Seine\n92300\nFrance",
+      "address": {
+        "text": "38 Rue Jacques Ibert\nLevallois Perret\nHauts de Seine\n92300\nFrance",
+        "iso2": "FR",
+        "lat": 48.8875532,
+        "lon": 2.2873548
+      },
       "telephone": "+33155242322"
     },
     {
@@ -2252,7 +3377,12 @@
         "CBRN",
         "Cyber Security"
       ],
-      "address": "Colston Tower\nColston Street\nBristol\nBristol\nBS1 4XE\nUnited Kingdom",
+      "address": {
+        "text": "Colston Tower\nColston Street\nBristol\nBristol\nBS1 4XE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4546204,
+        "lon": -2.5973434
+      },
       "telephone": "+44 (0)7584 295147"
     },
     {
@@ -2262,7 +3392,12 @@
         "Border Security",
         "Transport Security"
       ],
-      "address": "Rockwell Collins\nPegasus One, Pegasus Place\nGatwick Road\nCrawley\nWest Sussex\nRH10 9AY\nUnited Kingdom",
+      "address": {
+        "text": "Rockwell Collins\nPegasus One, Pegasus Place\nGatwick Road\nCrawley\nWest Sussex\nRH10 9AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.131107,
+        "lon": -0.1693146
+      },
       "telephone": "+44 (0)1293 641200"
     },
     {
@@ -2273,7 +3408,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Ancells Business Park\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+      "address": {
+        "text": "Ancells Business Park\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29682090000001,
+        "lon": -0.81967
+      },
       "telephone": "+44 (0)1252 818888"
     },
     {
@@ -2284,7 +3424,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Ancells Business Park\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+      "address": {
+        "text": "Ancells Business Park\nFleet\nHampshire\nGU51 2UZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29682090000001,
+        "lon": -0.81967
+      },
       "telephone": "+44 (0)1252 818888"
     },
     {
@@ -2294,7 +3439,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "19 Hollies Business Park\nHollies Park Road\nCannock\nStaffordshire\nWS11 1DB\nUnited Kingdom",
+      "address": {
+        "text": "19 Hollies Business Park\nHollies Park Road\nCannock\nStaffordshire\nWS11 1DB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6890058,
+        "lon": -2.0219018
+      },
       "telephone": "+44 (0)1543 438800"
     },
     {
@@ -2305,7 +3455,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Muelheimer Str 7\nTroisdorf\nNRW\n53840\nGermany",
+      "address": {
+        "text": "Muelheimer Str 7\nTroisdorf\nNRW\n53840\nGermany",
+        "iso2": "DE",
+        "lat": 50.8182653,
+        "lon": 7.1455242
+      },
       "telephone": "+49 2241 12737 49"
     },
     {
@@ -2315,7 +3470,12 @@
         "Counter Terrorism & Intelligence",
         "Border Security"
       ],
-      "address": "unit B, Boston Place\nFoleshill\nCoventry\nWest Midlands\nCV6 5NN\nUnited Kingdom",
+      "address": {
+        "text": "unit B, Boston Place\nFoleshill\nCoventry\nWest Midlands\nCV6 5NN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4330393,
+        "lon": -1.503382
+      },
       "telephone": "+44 (0)2476 662116"
     },
     {
@@ -2324,7 +3484,12 @@
         "Training",
         "CCTV & Video Analytics"
       ],
-      "address": "1000 Centre Green Way\nSuite 200\nCary\nNC\n27513\nUnited States",
+      "address": {
+        "text": "1000 Centre Green Way\nSuite 200\nCary\nNC\n27513\nUnited States",
+        "iso2": "US",
+        "lat": 35.8271184,
+        "lon": -78.7976444
+      },
       "telephone": "+1 (919) 572 6767"
     },
     {
@@ -2334,7 +3499,12 @@
         "Border Security",
         "Transport Security"
       ],
-      "address": "223 Regent Street\nMayfair\nLondon\nW1B 2EB\nUnited Kingdom",
+      "address": {
+        "text": "223 Regent Street\nMayfair\nLondon\nW1B 2EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5137283,
+        "lon": -0.1415283
+      },
       "telephone": "+44 (0)20 7355 3555"
     },
     {
@@ -2345,7 +3515,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Greyfriars House\n30 Greyfriars Road\nReading\nBerkshire\nRG1 1PE\nUnited Kingdom",
+      "address": {
+        "text": "Greyfriars House\n30 Greyfriars Road\nReading\nBerkshire\nRG1 1PE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4577493,
+        "lon": -0.9755777999999999
+      },
       "telephone": "+44 (0)7714 744830"
     },
     {
@@ -2355,7 +3530,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "19-23 Masons Hill\nBromley\nKent\nBR2 9HD\nUnited Kingdom",
+      "address": {
+        "text": "19-23 Masons Hill\nBromley\nKent\nBR2 9HD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3993841,
+        "lon": 0.017989
+      },
       "telephone": "+44 (0)20 8166 0616"
     },
     {
@@ -2365,7 +3545,12 @@
         "Forensic Services",
         "CCTV & Video Analytics"
       ],
-      "address": "Dowgate Hill House\n14-16 Dowgate Hill\nLondon\nEC4R 2SU\nUnited Kingdom",
+      "address": {
+        "text": "Dowgate Hill House\n14-16 Dowgate Hill\nLondon\nEC4R 2SU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5107654,
+        "lon": -0.0915445
+      },
       "telephone": "+44 (0)7454 578068"
     },
     {
@@ -2376,7 +3561,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "9000 Cambridge Research Park\nBeach Drive\nWaterbeach\nCambridge\nCambridgeshire\nCB25 9TL\nUnited Kingdom",
+      "address": {
+        "text": "9000 Cambridge Research Park\nBeach Drive\nWaterbeach\nCambridge\nCambridgeshire\nCB25 9TL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.292353,
+        "lon": 0.1706348
+      },
       "telephone": "+44 (0)1223 876000"
     },
     {
@@ -2387,7 +3577,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Fiskerikajerne 16\nGrenaa\nNorddjurs\n8500\nDenmark",
+      "address": {
+        "text": "Fiskerikajerne 16\nGrenaa\nNorddjurs\n8500\nDenmark",
+        "iso2": "DK",
+        "lat": 56.4084258,
+        "lon": 10.9240762
+      },
       "telephone": "+45 20 29 22 80"
     },
     {
@@ -2397,7 +3592,12 @@
         "Surveillance",
         "CCTV & Video Analytics"
       ],
-      "address": "Lambda House\nFairview Road\nWeyhill\nHampshire\nSP11 0ST\nUnited Kingdom",
+      "address": {
+        "text": "Lambda House\nFairview Road\nWeyhill\nHampshire\nSP11 0ST\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2195004,
+        "lon": -1.5517634
+      },
       "telephone": "+44 (0)1264 774148"
     },
     {
@@ -2407,7 +3607,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "23-25 Crescent Business Park\nLisburn\nAntrim\nBT28 2GN\nUnited Kingdom",
+      "address": {
+        "text": "23-25 Crescent Business Park\nLisburn\nAntrim\nBT28 2GN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.5136392,
+        "lon": -6.0724851
+      },
       "telephone": "+44 (0)2892 605200"
     },
     {
@@ -2417,7 +3622,12 @@
         "Transport Security",
         "Professional Services"
       ],
-      "address": "Innovation Centre\nBletchley Park\nSherwood Drive\nMilton Keynes\nBuckinghamshire\nMK3 6EB\nUnited Kingdom",
+      "address": {
+        "text": "Innovation Centre\nBletchley Park\nSherwood Drive\nMilton Keynes\nBuckinghamshire\nMK3 6EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9976597,
+        "lon": -0.7406863
+      },
       "telephone": "+44 (0)1908 639712"
     },
     {
@@ -2427,7 +3637,12 @@
         "Transport Security",
         "Professional Services"
       ],
-      "address": "Innovation Centre\nBletchley Park\nSherwood Drive\nMilton Keynes\nBuckinghamshire\nMK3 6EB\nUnited Kingdom",
+      "address": {
+        "text": "Innovation Centre\nBletchley Park\nSherwood Drive\nMilton Keynes\nBuckinghamshire\nMK3 6EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9976597,
+        "lon": -0.7406863
+      },
       "telephone": "+44 (0)1908 639712"
     },
     {
@@ -2437,7 +3652,12 @@
         "Surveillance",
         "Forensic Services"
       ],
-      "address": "Chemnitzer Strasse 2\nNeustadt a.d.W.\nRLP\n67433\nGermany",
+      "address": {
+        "text": "Chemnitzer Strasse 2\nNeustadt a.d.W.\nRLP\n67433\nGermany",
+        "iso2": "DE",
+        "lat": 49.3447712,
+        "lon": 8.157409099999999
+      },
       "telephone": "+49 632 191 270"
     },
     {
@@ -2447,7 +3667,12 @@
         "Information Technology",
         "Transport Security"
       ],
-      "address": "Wellesley Road\nAldershot\nHampshire\nGU11 1PZ\nUnited Kingdom",
+      "address": {
+        "text": "Wellesley Road\nAldershot\nHampshire\nGU11 1PZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2516818,
+        "lon": -0.7822221
+      },
       "telephone": "+44 (0)7785 223257"
     },
     {
@@ -2457,7 +3682,12 @@
         "Border Security",
         "Surveillance"
       ],
-      "address": "1 The Omega Center\nStratton Business Park\nBiggleswade\nBedfordshire\nSG188QB\nUnited Kingdom",
+      "address": {
+        "text": "1 The Omega Center\nStratton Business Park\nBiggleswade\nBedfordshire\nSG188QB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0748583,
+        "lon": -0.2409841
+      },
       "telephone": "+44 (0)1767 601144"
     },
     {
@@ -2468,7 +3698,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "Birmingham International Park\nStarley Way\nBickenhill\nBirmingham\nWest Midlands\nB37 7HB\nUnited Kingdom",
+      "address": {
+        "text": "Birmingham International Park\nStarley Way\nBickenhill\nBirmingham\nWest Midlands\nB37 7HB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4587501,
+        "lon": -1.7295848
+      },
       "telephone": "+44 (0)121 781 4400"
     },
     {
@@ -2479,7 +3714,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "Birmingham International Park\nStarley Way\nBickenhill\nBirmingham\nWest Midlands\nB37 7HB\nUnited Kingdom",
+      "address": {
+        "text": "Birmingham International Park\nStarley Way\nBickenhill\nBirmingham\nWest Midlands\nB37 7HB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4587501,
+        "lon": -1.7295848
+      },
       "telephone": "+44 (0)121 781 4400"
     },
     {
@@ -2489,7 +3729,12 @@
         "Training",
         "Cyber Security"
       ],
-      "address": "Sorinteq Limited\nThe Apex\n2 Sheriffs Orchard\nCoventry\nWest Midlands\nCV1 3PP\nUnited Kingdom",
+      "address": {
+        "text": "Sorinteq Limited\nThe Apex\n2 Sheriffs Orchard\nCoventry\nWest Midlands\nCV1 3PP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.40492769999999,
+        "lon": -1.5152077
+      },
       "telephone": "+44 (0)7775 667692"
     },
     {
@@ -2497,7 +3742,12 @@
       "category": [
         "CBRN"
       ],
-      "address": "Scientific House\nThe Henfield Business Park\nShoreham Road\nHenfield\nWest Sussex\nBN5 9SL\nUnited Kingdom",
+      "address": {
+        "text": "Scientific House\nThe Henfield Business Park\nShoreham Road\nHenfield\nWest Sussex\nBN5 9SL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9165808,
+        "lon": -0.2644628
+      },
       "telephone": "+44 (0)1273 497600"
     },
     {
@@ -2508,7 +3758,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Bridge Court Barn\nKingstone\nHerefordshire\nHR2 9ES\nUnited Kingdom",
+      "address": {
+        "text": "Bridge Court Barn\nKingstone\nHerefordshire\nHR2 9ES\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0197989,
+        "lon": -2.8374909
+      },
       "telephone": "+44 (0)845 260 0444"
     },
     {
@@ -2518,7 +3773,12 @@
         "Border Security",
         "Surveillance"
       ],
-      "address": "PO Box 13\nNydalen\nOslo\nNorway\n0410\nNorway",
+      "address": {
+        "text": "PO Box 13\nNydalen\nOslo\nNorway\n0410\nNorway",
+        "iso2": "NO",
+        "lat": 59.94816400000001,
+        "lon": 10.7660652
+      },
       "telephone": "+47 2166 6337"
     },
     {
@@ -2529,7 +3789,12 @@
         "Command & Control",
         "Vehicles’"
       ],
-      "address": "STI Ltd\nOsborn Way\nHook\nHampshire\nRG27 9HX\nUnited Kingdom",
+      "address": {
+        "text": "STI Ltd\nOsborn Way\nHook\nHampshire\nRG27 9HX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.27937259999999,
+        "lon": -0.9587489
+      },
       "telephone": "+44 (0)7887 884431"
     },
     {
@@ -2539,7 +3804,12 @@
         "Incident & Emergency Response",
         "Professional Services"
       ],
-      "address": "6A Graspan Road\nFaberstown\nWiltshire\nSP11 9NY\nUnited Kingdom",
+      "address": {
+        "text": "6A Graspan Road\nFaberstown\nWiltshire\nSP11 9NY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2527508,
+        "lon": -1.6027851
+      },
       "telephone": "+44 (0)1264 790795"
     },
     {
@@ -2550,7 +3820,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "6 Woodway Court\nThursby Road\nBirkenhead\nMerseyside\nCH62 3PR\nUniited Kingdom",
+      "address": {
+        "text": "6 Woodway Court\nThursby Road\nBirkenhead\nMerseyside\nCH62 3PR\nUniited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3358545,
+        "lon": -2.9755649
+      },
       "telephone": "+44 (0)151 334 9160"
     },
     {
@@ -2560,7 +3835,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "31 Chertsey Street\nGuildford\nSurrey\nGU1 4HD\nUnited Kingdon",
+      "address": {
+        "text": "31 Chertsey Street\nGuildford\nSurrey\nGU1 4HD\nUnited Kingdon",
+        "iso2": "GB",
+        "lat": 51.23835580000001,
+        "lon": -0.5710079
+      },
       "telephone": "+44 (0)845 468 1066"
     },
     {
@@ -2571,7 +3851,12 @@
         "CBRN",
         "Incident & Emergency Response"
       ],
-      "address": "1-5 Beaufort Road\n1-5 Beaufort Road\nBirkenhead\nMerseyside\nCH41 1HQ\nUnited Kingdom",
+      "address": {
+        "text": "1-5 Beaufort Road\n1-5 Beaufort Road\nBirkenhead\nMerseyside\nCH41 1HQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4033437,
+        "lon": -3.0504406
+      },
       "telephone": "+44 (0)2890 606157"
     },
     {
@@ -2582,7 +3867,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Roman House\n39 Botley Road\nNorth Baddesley\nHampshire\nSO52 9AE\nUnited Kingdom",
+      "address": {
+        "text": "Roman House\n39 Botley Road\nNorth Baddesley\nHampshire\nSO52 9AE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9814697,
+        "lon": -1.443562
+      },
       "telephone": "+44 (0)7808 548028"
     },
     {
@@ -2593,7 +3883,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "2820 N. Telshor Blvd\nLas Cruces\nNew Mexico\n88011\nUnited States",
+      "address": {
+        "text": "2820 N. Telshor Blvd\nLas Cruces\nNew Mexico\n88011\nUnited States",
+        "iso2": "US",
+        "lat": 32.34893570000001,
+        "lon": -106.7640563
+      },
       "telephone": "+1 202 412 0810"
     },
     {
@@ -2604,7 +3899,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "3-4 Broadfield Close\nSheffield\nSouth Yorkshire\nS8 0XN\nUnited Kingdom",
+      "address": {
+        "text": "3-4 Broadfield Close\nSheffield\nSouth Yorkshire\nS8 0XN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.35712480000001,
+        "lon": -1.4813901
+      },
       "telephone": "+44 (0)114 255 2509"
     },
     {
@@ -2615,7 +3915,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Phoenix House\n2 Phoenix Park\nSt Neots\nBedfordshire\nPE19 8EP\nUK",
+      "address": {
+        "text": "Phoenix House\n2 Phoenix Park\nSt Neots\nBedfordshire\nPE19 8EP\nUK",
+        "iso2": "GB",
+        "lat": 52.2291435,
+        "lon": -0.2654566
+      },
       "telephone": "01480 478770"
     },
     {
@@ -2625,7 +3930,12 @@
         "Incident & Emergency Response",
         "Professional Services"
       ],
-      "address": "Suite E7 William Knox House\nBritannic Way\nLlandarcy\nNeath\nNeath-Port Talbot\nSA10 6EL\nUnited Kingdom",
+      "address": {
+        "text": "Suite E7 William Knox House\nBritannic Way\nLlandarcy\nNeath\nNeath-Port Talbot\nSA10 6EL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.64592469999999,
+        "lon": -3.8531505
+      },
       "telephone": "+44 (0)7852 987349"
     },
     {
@@ -2635,7 +3945,12 @@
         "Border Security",
         "Information Technology"
       ],
-      "address": "71-75 Shelton street\nCovent Garden\nLondon\nLondon\nWC2H 9JQ\nUK",
+      "address": {
+        "text": "71-75 Shelton street\nCovent Garden\nLondon\nLondon\nWC2H 9JQ\nUK",
+        "iso2": "GB",
+        "lat": 51.5149056,
+        "lon": -0.1235464
+      },
       "telephone": "07780717717"
     },
     {
@@ -2646,7 +3961,12 @@
         "Border Security",
         "Custodial"
       ],
-      "address": "111-115 Baltimore Road\nGreat Barr\nBirmingham\nWest Midlands\nB42 1DN\nUnited Kingdom",
+      "address": {
+        "text": "111-115 Baltimore Road\nGreat Barr\nBirmingham\nWest Midlands\nB42 1DN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5273665,
+        "lon": -1.9216519
+      },
       "telephone": "+44 (0)121 357 6363"
     },
     {
@@ -2656,7 +3976,12 @@
         "Forensic Services",
         "Cyber Security"
       ],
-      "address": "PO Box 4420 West Saanich Road\nVictoria\nBritish Columbia\nV8Z7E7\nCanada",
+      "address": {
+        "text": "PO Box 4420 West Saanich Road\nVictoria\nBritish Columbia\nV8Z7E7\nCanada",
+        "iso2": "CA",
+        "lat": 48.4918683,
+        "lon": -123.3879898
+      },
       "telephone": "250-893-6125"
     },
     {
@@ -2666,7 +3991,12 @@
         "Surveillance",
         "Maritime Security"
       ],
-      "address": "106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+      "address": {
+        "text": "106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7317195,
+        "lon": 0.4562485
+      },
       "telephone": "+44 (0)1245 493493"
     },
     {
@@ -2676,7 +4006,12 @@
         "Biometrics & Imagery",
         "CCTV & Video Analytics"
       ],
-      "address": "Hail Weston House\nHail Weston\nSt Neots\nCambridgeshire\nPE19 5JY\nUnited Kingdom",
+      "address": {
+        "text": "Hail Weston House\nHail Weston\nSt Neots\nCambridgeshire\nPE19 5JY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.24566369999999,
+        "lon": -0.2999371
+      },
       "telephone": "+44 (0)1480 215530"
     },
     {
@@ -2685,7 +4020,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Laurel House\nSouthwick Road\nGlapthorn\nOundle\nPeterborough\nNorthamptonshire\nPE8 5BD\nUnited Kingdom",
+      "address": {
+        "text": "Laurel House\nSouthwick Road\nGlapthorn\nOundle\nPeterborough\nNorthamptonshire\nPE8 5BD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4829679,
+        "lon": -0.4694984
+      },
       "telephone": "+44 (0)1832 274963"
     },
     {
@@ -2694,7 +4034,12 @@
         "Training",
         "Professional Services"
       ],
-      "address": "Linkup house\nRoyd’s Lane\nLeeds\nWest Yorkshire\nLS12 6AB\nUnited Kingdom",
+      "address": {
+        "text": "Linkup house\nRoyd’s Lane\nLeeds\nWest Yorkshire\nLS12 6AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.780309,
+        "lon": -1.5905622
+      },
       "telephone": "+44 (0)1132 107806"
     },
     {
@@ -2703,7 +4048,12 @@
         "Border Security",
         "CBRN"
       ],
-      "address": "Thermo Fisher Scientific FSI\nWade Road\nBasingstoke\nHampshire\nRG24 8PW\nUnited Kingdom",
+      "address": {
+        "text": "Thermo Fisher Scientific FSI\nWade Road\nBasingstoke\nHampshire\nRG24 8PW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.28178399999999,
+        "lon": -1.0658667
+      },
       "telephone": "+44 (0)7785 926513"
     },
     {
@@ -2713,7 +4063,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Teknix House\n2 Pembroke Avenue\nWaterbeach\nCambridge\nCambridgeshire\nCB25 9QR\nUnited Kingdom",
+      "address": {
+        "text": "Teknix House\n2 Pembroke Avenue\nWaterbeach\nCambridge\nCambridgeshire\nCB25 9QR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2715202,
+        "lon": 0.1823752
+      },
       "telephone": "+44 (0)1223 204000"
     },
     {
@@ -2724,7 +4079,12 @@
         "Command & Control",
         "Cyber Security"
       ],
-      "address": "Manchester International Office Centre, Suite 13\nStyal Road\nManchester\nLancashire\nM22 5WB\nUnited Kingdom",
+      "address": {
+        "text": "Manchester International Office Centre, Suite 13\nStyal Road\nManchester\nLancashire\nM22 5WB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3638913,
+        "lon": -2.2403319
+      },
       "telephone": "+44 (0)7496 602627"
     },
     {
@@ -2734,7 +4094,12 @@
         "Transport Security",
         "CCTV & Video Analytics"
       ],
-      "address": "Lakeview Court\nErmine Business Park\nHuntingdon\nCambridgeshire\nPE29 6UA\nUnited Kingdom",
+      "address": {
+        "text": "Lakeview Court\nErmine Business Park\nHuntingdon\nCambridgeshire\nPE29 6UA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3464202,
+        "lon": -0.1957356
+      },
       "telephone": "+44 (0)1480 414147"
     },
     {
@@ -2744,7 +4109,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "183a Watling Street West\nTowcester\nNorthamptonshire\nNN12 6BX\nUnited Kingdom",
+      "address": {
+        "text": "183a Watling Street West\nTowcester\nNorthamptonshire\nNN12 6BX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1320776,
+        "lon": -0.9889496
+      },
       "telephone": "+44 (0)7979 014173"
     },
     {
@@ -2754,7 +4124,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Building 275\nMDPGA Wethersfield\nWethersfield\nEssex\nCM7 4AZ\nUnited Kingdom",
+      "address": {
+        "text": "Building 275\nMDPGA Wethersfield\nWethersfield\nEssex\nCM7 4AZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9665222,
+        "lon": 0.489719
+      },
       "telephone": "+44 (0)1371 851197"
     },
     {
@@ -2765,7 +4140,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "P.C. Staalweg 130\nBilthoven\nNL\n3721 TJ\nNetherlands",
+      "address": {
+        "text": "P.C. Staalweg 130\nBilthoven\nNL\n3721 TJ\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.1196071,
+        "lon": 5.176998999999999
+      },
       "telephone": "+31 302 217 788"
     },
     {
@@ -2775,7 +4155,12 @@
         "Clothing & Accessories",
         "Training"
       ],
-      "address": "Unit D1 Egerton Mill\nCawdor Street\nFarnworth\nBolton\nGreater Manchester\nBL4 7LX\nUnited Kingdom",
+      "address": {
+        "text": "Unit D1 Egerton Mill\nCawdor Street\nFarnworth\nBolton\nGreater Manchester\nBL4 7LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.5542169,
+        "lon": -2.4038579
+      },
       "telephone": "+44 (0)1204 576111"
     },
     {
@@ -2786,7 +4171,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "13 Moorfield Road\nOrpington\nKent\nBR6 0HG\nUnited Kingdom",
+      "address": {
+        "text": "13 Moorfield Road\nOrpington\nKent\nBR6 0HG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3800971,
+        "lon": 0.1020011
+      },
       "telephone": "+44 (0)1689 876885"
     },
     {
@@ -2796,7 +4186,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "566 Chiswick HIgh Road\nBuilding 6, 1st floor\nChiswick\nLondon\nW4\nUnited Kingdom",
+      "address": {
+        "text": "566 Chiswick HIgh Road\nBuilding 6, 1st floor\nChiswick\nLondon\nW4\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.49319149999999,
+        "lon": -0.2743782
+      },
       "telephone": "+44 7467 4014"
     },
     {
@@ -2806,7 +4201,12 @@
         "Surveillance",
         "Unmanned Systems & Robotics"
       ],
-      "address": "Malvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+      "address": {
+        "text": "Malvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1050432,
+        "lon": -2.3108491
+      },
       "telephone": "+44 (0)7827 945046"
     },
     {
@@ -2816,7 +4216,12 @@
         "Surveillance",
         "CCTV & Video Analytics"
       ],
-      "address": "Teleware house\nYork road\nThirsk\nNorth Yorkshire\nYO7 3BX\nUnited Kingdom",
+      "address": {
+        "text": "Teleware house\nYork road\nThirsk\nNorth Yorkshire\nYO7 3BX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.2319632,
+        "lon": -1.3322674
+      },
       "telephone": "+44 (0)7454 935786"
     },
     {
@@ -2827,7 +4232,12 @@
         "Command & Control",
         "CCTV & Video Analytics"
       ],
-      "address": "4 Dow Road\nPrestwick International Aerospace Park\nPrestwick\nSouth Ayrshire\nKA9 2TU\nUnited Kingdom",
+      "address": {
+        "text": "4 Dow Road\nPrestwick International Aerospace Park\nPrestwick\nSouth Ayrshire\nKA9 2TU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.5177439,
+        "lon": -4.6089402
+      },
       "telephone": "+44 (0)1292 264967"
     },
     {
@@ -2837,7 +4247,12 @@
         "Border Security",
         "Cyber Security"
       ],
-      "address": "241 Brooklands Road\nWeybridge\nSurrey\nKT13 0RH\nUnited Kingdom",
+      "address": {
+        "text": "241 Brooklands Road\nWeybridge\nSurrey\nKT13 0RH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3547198,
+        "lon": -0.4580131
+      },
       "telephone": "+972 5477 84201"
     },
     {
@@ -2847,7 +4262,12 @@
         "Forensic Services",
         "Professional Services"
       ],
-      "address": "11111 Flintkote Avenue\nSan Diego\nCalifornia\n92121\nUnited States",
+      "address": {
+        "text": "11111 Flintkote Avenue\nSan Diego\nCalifornia\n92121\nUnited States",
+        "iso2": "US",
+        "lat": 32.9044784,
+        "lon": -117.2315558
+      },
       "telephone": "07584700834"
     },
     {
@@ -2858,7 +4278,12 @@
         "Physical Security",
         "Man-guarding & Close Protection"
       ],
-      "address": "Unit 4, Century Way\nMarch\nCambridgeshire\nPE15 8QW\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4, Century Way\nMarch\nCambridgeshire\nPE15 8QW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5633922,
+        "lon": 0.08214719999999999
+      },
       "telephone": "+44 (0)7572 353596"
     },
     {
@@ -2866,7 +4291,12 @@
       "category": [
         "Information Technology"
       ],
-      "address": "Victoria Forms\nSentry House\nNorthgate Street\nBury St Edmunds\nSuffolk\nIP33 1HP\nUnited Kingdom",
+      "address": {
+        "text": "Victoria Forms\nSentry House\nNorthgate Street\nBury St Edmunds\nSuffolk\nIP33 1HP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.24826119999999,
+        "lon": 0.7167538
+      },
       "telephone": "+44 (0)1284 701000"
     },
     {
@@ -2877,7 +4307,12 @@
         "Surveillance",
         "Optics"
       ],
-      "address": "Summerbridge\nHarrogate\nNorth Yorkshire\nHG3 4BW\nUnited Kingdom",
+      "address": {
+        "text": "Summerbridge\nHarrogate\nNorth Yorkshire\nHG3 4BW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.0618907,
+        "lon": -1.7024029
+      },
       "telephone": "+44 (0)1423 780810"
     },
     {
@@ -2888,7 +4323,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Berol House\n25 Ashley Road\nLondon\nN17 9LJ\nUnited Kingdom",
+      "address": {
+        "text": "Berol House\n25 Ashley Road\nLondon\nN17 9LJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5901441,
+        "lon": -0.06119040000000001
+      },
       "telephone": "+44 (0)20 3376 7710"
     },
     {
@@ -2899,7 +4339,12 @@
         "Communications",
         "Command & Control"
       ],
-      "address": "Waterside House\nEarls Colne Business Park\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+      "address": {
+        "text": "Waterside House\nEarls Colne Business Park\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9085821,
+        "lon": 0.6807529999999999
+      },
       "telephone": "+44 (0)1787 223300"
     },
     {
@@ -2910,7 +4355,12 @@
         "Command & Control",
         "Professional Services"
       ],
-      "address": "75 The Grove\nEaling\nLondon\nW5 5LL\nUnited Kingdom",
+      "address": {
+        "text": "75 The Grove\nEaling\nLondon\nW5 5LL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5111123,
+        "lon": -0.3014463
+      },
       "telephone": "+44 (0)20 8579 2743"
     },
     {
@@ -2920,7 +4370,12 @@
         "Explosives & Blast Protection",
         "Training"
       ],
-      "address": "PO Box 143\nFlint\nFlintshire\nCH8 9DF\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 143\nFlint\nFlintshire\nCH8 9DF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.248236,
+        "lon": -3.13577
+      },
       "telephone": "+44 (0)1745 561166"
     },
     {
@@ -2930,7 +4385,12 @@
         "Border Security",
         "Biometrics & Imagery"
       ],
-      "address": "78 Alexander Street\nSuite D\nCharleston\n29403\nUnited States",
+      "address": {
+        "text": "78 Alexander Street\nSuite D\nCharleston\n29403\nUnited States",
+        "iso2": "US",
+        "lat": 32.7896501,
+        "lon": -79.9301572
+      },
       "telephone": "+1 843 793 3030"
     },
     {
@@ -2940,7 +4400,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "Helperpark 284\nGroningen\n9723 ZA\nNetherlands",
+      "address": {
+        "text": "Helperpark 284\nGroningen\n9723 ZA\nNetherlands",
+        "iso2": "NL",
+        "lat": 53.2040349,
+        "lon": 6.5895443
+      },
       "telephone": "+31 50 21 11 622"
     },
     {
@@ -2950,7 +4415,12 @@
         "Professional Services",
         "Vehicles’"
       ],
-      "address": "Grove\nWantage\nOxfordshire\nOX12 0DQ\nUnited Kingdom",
+      "address": {
+        "text": "Grove\nWantage\nOxfordshire\nOX12 0DQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6184863,
+        "lon": -1.4119465
+      },
       "telephone": "+44 (0)7483 016146"
     },
     {
@@ -2960,7 +4430,12 @@
         "Incident & Emergency Response",
         "CCTV & Video Analytics"
       ],
-      "address": "Charles Babbage House\nCharles Babbage Avenue\nKingsway Business Park\nRochdale\nLancashire\nOL16 4NW\nUnited Kingdom",
+      "address": {
+        "text": "Charles Babbage House\nCharles Babbage Avenue\nKingsway Business Park\nRochdale\nLancashire\nOL16 4NW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.6007877,
+        "lon": -2.1230047
+      },
       "telephone": "+44 (0)800 470 4630"
     },
     {
@@ -2969,7 +4444,12 @@
         "Counter Terrorism & Intelligence",
         "Surveillance"
       ],
-      "address": "Skudehavnsvej 17\nNordhavn\nCopenhagen\nCopenhagen County\n2150\nDenmark",
+      "address": {
+        "text": "Skudehavnsvej 17\nNordhavn\nCopenhagen\nCopenhagen County\n2150\nDenmark",
+        "iso2": "DK",
+        "lat": 55.71633449999999,
+        "lon": 12.5990795
+      },
       "telephone": "+45 392 768 61"
     },
     {
@@ -2979,7 +4459,12 @@
         "Biometrics & Imagery",
         "Cyber Security"
       ],
-      "address": "Fountain House\n130 Fenchurch Street\nLondon\nLondon\nEC3M 5DJ\nUK",
+      "address": {
+        "text": "Fountain House\n130 Fenchurch Street\nLondon\nLondon\nEC3M 5DJ\nUK",
+        "iso2": "GB",
+        "lat": 51.5118644,
+        "lon": -0.0816457
+      },
       "telephone": "0044 7727248663"
     },
     {
@@ -2989,7 +4474,12 @@
         "Information Technology",
         "Cyber Security"
       ],
-      "address": "Brook House\n4th Floor, North Wing\n229-243 Shepherd’s Bush Road\nParkham Street\nLondon\nW6 7AN\nUnited Kingdom",
+      "address": {
+        "text": "Brook House\n4th Floor, North Wing\n229-243 Shepherd’s Bush Road\nParkham Street\nLondon\nW6 7AN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.49373139999999,
+        "lon": -0.2237241
+      },
       "telephone": "+44 (0)7833 471744"
     }
   ],

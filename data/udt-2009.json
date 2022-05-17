@@ -8,7 +8,12 @@
   "edition": "2009",
   "startDate": "2009-06-09",
   "endDate": "2009-06-11",
-  "address": "The Palais des Festivals et des Congrès\nCannes\nFrance",
+  "address": {
+    "text": "The Palais des Festivals et des Congrès\nCannes\nFrance",
+    "iso2": "FR",
+    "lat": 43.5507813,
+    "lon": 7.017962199999999
+  },
   "website": "http://www.udt-europe.com/homepage.asp",
   "organiser": [
     {

@@ -5,7 +5,12 @@
   "alias": "Doha International Maritime Defence Exhibition and Conference 2018",
   "startDate": "2018-03-12",
   "endDate": "2018-03-14",
-  "address": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+  "address": {
+    "text": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.3204813,
+    "lon": 51.4385756
+  },
   "website": "http://www.dimdex.com",
   "social": [
     {
@@ -31,618 +36,1252 @@
   "exhibitor": [
     {
       "name": "3M Gulf",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "A101 (a101)",
-      "address": "Dooha\nSalam Tower 14th Floor\n11596,\nQatar"
+      "address": {
+        "text": "Dooha\nSalam Tower 14th Floor\n11596,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3184461,
+        "lon": 51.530286
+      }
     },
     {
       "name": "Aeromag",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "AIAD",
-      "address": "ROME\nVIA NAZIONALE, 54\nItaly"
+      "address": {
+        "text": "ROME\nVIA NAZIONALE, 54\nItaly",
+        "iso2": "IT",
+        "lat": 41.8996697,
+        "lon": 12.4919371
+      }
     },
     {
       "name": "Air Defence - Leonardo",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIRBUS",
-      "address": "Doha\nWest Bay area, Al Zabadi street 105, Villa 108\n24682,\nFrance",
+      "address": {
+        "text": "Doha\nWest Bay area, Al Zabadi street 105, Villa 108\n24682,\nFrance",
+        "iso2": "QA",
+        "lat": 25.3217501,
+        "lon": 51.5334078
+      },
       "website": "http://www.airbus.com"
     },
     {
       "name": "Akademi Sancak",
-      "address": "ANKARA\nANITTEPE MAH. TURGUT REIS CAD. NO:21/2 ÇANKAYA\nTurkey"
+      "address": {
+        "text": "ANKARA\nANITTEPE MAH. TURGUT REIS CAD. NO:21/2 ÇANKAYA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.930631,
+        "lon": 32.839925
+      }
     },
     {
       "name": "Aksa Run Flat (Tek Can Grup)",
-      "address": "Ankara\nİvedik O.S.B 1465 Cadde No:13 Yenimahalle\nTurkey",
+      "address": {
+        "text": "Ankara\nİvedik O.S.B 1465 Cadde No:13 Yenimahalle\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9929633,
+        "lon": 32.7329308
+      },
       "website": "http://www.aksarunflat.com.tr"
     },
     {
       "name": "Al Defaiya",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Al Faisal International Business & Security Services",
-      "address": "Doha\nAl-Jazira Al-Arabiya Street Madinat Khalifa South\n17683,\nQatar"
+      "address": {
+        "text": "Doha\nAl-Jazira Al-Arabiya Street Madinat Khalifa South\n17683,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3074254,
+        "lon": 51.4811309
+      }
     },
     {
       "name": "Al Maria United Trading and contracting Co.",
-      "address": "Doha, West Bay\nPalm Twin Towers\nOffice No: 1905\nFloor no: 19\nStreel Address: Majlis Al Taawon , Tel : +974-44936646\nQatar"
+      "address": {
+        "text": "Doha, West Bay\nPalm Twin Towers\nOffice No: 1905\nFloor no: 19\nStreel Address: Majlis Al Taawon , Tel : +974-44936646\nQatar",
+        "iso2": "QA",
+        "lat": 25.3186894,
+        "lon": 51.5267636
+      }
     },
     {
       "name": "Ali Bin Ali",
-      "address": "Doha\nQatar"
+      "address": {
+        "text": "Doha\nQatar",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "Al-Talaya magazine",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "AN Grup",
-      "address": "Golbasi\nGazi Universitesi Golbasi Kampusu Teknoplaza Binasi C Blok No: CZ12\nTurkey"
+      "address": {
+        "text": "Golbasi\nGazi Universitesi Golbasi Kampusu Teknoplaza Binasi C Blok No: CZ12\nTurkey",
+        "iso2": "TR",
+        "lat": 39.7803461,
+        "lon": 32.8097565
+      }
     },
     {
       "name": "Ankaref",
-      "address": "ANKARA\nUniversiteler Mah. Ihsan Dogramacı Bulv. Ikiz Bloklar Kat:! No:3 ODTU/TEKNOKENT CANKAYA/ANKARA\nTurkey",
-      "website": "http://www.ankaref.com/"
+      "address": {
+        "text": "ANKARA\nUniversiteler Mah. Ihsan Dogramacı Bulv. Ikiz Bloklar Kat:! No:3 ODTU/TEKNOKENT CANKAYA/ANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8716891,
+        "lon": 32.7649963
+      },
+      "website": "http://www.ankaref.com"
     },
     {
       "name": "Ares Shipyard Inc.",
-      "address": "ANTALYA\nANTALYA FREE ZONE -KONYAALTI-TURKEY\n07070,\nQatar",
+      "address": {
+        "text": "ANTALYA\nANTALYA FREE ZONE -KONYAALTI-TURKEY\n07070,\nQatar",
+        "iso2": "TR",
+        "lat": 36.878145,
+        "lon": 30.6530644
+      },
       "website": "http://www.ares.com.tr"
     },
     {
       "name": "Armada International",
-      "address": "Bangkok 10330\n14 Floor, Ocean Tower 2, Soi Sukhumvit 19\nThailand"
+      "address": {
+        "text": "Bangkok 10330\n14 Floor, Ocean Tower 2, Soi Sukhumvit 19\nThailand",
+        "iso2": "TH",
+        "lat": 13.7428205,
+        "lon": 100.5614649
+      }
     },
     {
       "name": "Aselsan",
-      "address": "Ankara\nMehmet Akif Ersoy Mah. 296. Cd. No:16\n1,\nTurkey",
+      "address": {
+        "text": "Ankara\nMehmet Akif Ersoy Mah. 296. Cd. No:16\n1,\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9738168,
+        "lon": 32.7660114
+      },
       "website": "http://www.aselsan.com"
     },
     {
       "name": "ATKINS – Member of the SNC-Lavalin Group",
-      "address": "Doha\n26th floor, Burj Doha Tower\nAl Corniche Street,\nWest Bay\nPO Box 24656,\nUnited Kingdom",
-      "website": "http://www.atkinsglobal.com"
+      "website": "http://www.atkinsglobal.com",
+      "country": {
+        "text": "Doha\n26th floor, Burj Doha Tower\nAl Corniche Street,\nWest Bay\nPO Box 24656,\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AVS Defense Textile",
-      "address": "Ankara -\nEskisehir Yolu Dumlupınar Bulvari Tepe Prime Business Center A Block No: 266 / 91 Cankaya\n06800 , Tel :+903123971575,\nTurkey"
+      "address": {
+        "text": "Ankara -\nEskisehir Yolu Dumlupınar Bulvari Tepe Prime Business Center A Block No: 266 / 91 Cankaya\n06800 , Tel :+903123971575,\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8707275,
+        "lon": 32.6434882
+      }
     },
     {
       "name": "Babcock International",
-      "address": "Bristol\nAshton House\nAshton Vale Road\nUnited Kingdom"
+      "address": {
+        "text": "Bristol\nAshton House\nAshton Vale Road\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4385114,
+        "lon": -2.629191
+      }
     },
     {
       "name": "BAE Systems",
-      "address": "Farnborough\nWarwick House\nFarnborough Aerospace Centre\nPO Box 87,\nUnited Kingdom",
-      "website": "http://www.baesystems.com/"
+      "address": {
+        "text": "Farnborough\nWarwick House\nFarnborough Aerospace Centre\nPO Box 87,\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.27353429999999,
+        "lon": -0.765142
+      },
+      "website": "http://www.baesystems.com"
     },
     {
       "name": "BARQ",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Barzan Holdings",
-      "address": "Doha\nDoha Tower, West Bay\nQatar"
+      "address": {
+        "text": "Doha\nDoha Tower, West Bay\nQatar",
+        "iso2": "QA",
+        "lat": 25.3174749,
+        "lon": 51.5283966
+      }
     },
     {
       "name": "Barzan Majlis",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "BENELLI ARMI SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Beretta Defense Technologies",
-      "address": "GARDONE VALTROMPIA-BRESCIA\nVia Beretta 18\nItaly"
+      "address": {
+        "text": "GARDONE VALTROMPIA-BRESCIA\nVia Beretta 18\nItaly",
+        "iso2": "IT",
+        "lat": 45.6907507,
+        "lon": 10.1841303
+      }
     },
     {
       "name": "BIEWU International Trading",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "BK Systems",
-      "address": "Kongsberg\nKirkegaardsveien 45\nP.O.Box 1003,\nNorway",
-      "website": "http://www.kongsberg.com/"
+      "address": {
+        "text": "Kongsberg\nKirkegaardsveien 45\nP.O.Box 1003,\nNorway",
+        "iso2": "NO",
+        "lat": 59.65348160000001,
+        "lon": 9.644131
+      },
+      "website": "http://www.kongsberg.com"
     },
     {
       "name": "BMC Otomotiv Sanayi Ve Ticaret A.S.",
-      "address": "ISTANBUL\nGeneral Directorate\nOruç Reis Mahallesi Tem Otoyolu Atış Alanı Mevkii Tekstilkent Caddesi No:12 Koza Plaza A Blok 4.Kat No:1004 Esenler, İstanbul – Türkiye\nQatar"
+      "address": {
+        "text": "ISTANBUL\nGeneral Directorate\nOruç Reis Mahallesi Tem Otoyolu Atış Alanı Mevkii Tekstilkent Caddesi No:12 Koza Plaza A Blok 4.Kat No:1004 Esenler, İstanbul – Türkiye\nQatar",
+        "iso2": "TR",
+        "lat": 41.0685657,
+        "lon": 28.8646868
+      }
     },
     {
       "name": "BQ Solutions",
-      "address": "Doha\nQatar Science and Technology Park\n7178,\nQatar"
+      "address": {
+        "text": "Doha\nQatar Science and Technology Park\n7178,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      }
     },
     {
       "name": "C2TECH",
-      "address": "İstanbul\nTeknopark İstanbul, Teknoloji Geliştirme Bölgesi, Sanayi Mah. Teknopark Bulvarı No:1, A Blok, Kat:2, Kurtköy-Pendik 34912 İstanbul, Turkiye\nTurkey",
+      "address": {
+        "text": "İstanbul\nTeknopark İstanbul, Teknoloji Geliştirme Bölgesi, Sanayi Mah. Teknopark Bulvarı No:1, A Blok, Kat:2, Kurtköy-Pendik 34912 İstanbul, Turkiye\nTurkey",
+        "iso2": "TR",
+        "lat": 40.9201024,
+        "lon": 29.3137833
+      },
       "website": "http://www.ctech.com.tr"
     },
     {
       "name": "CAE",
-      "address": "Montreal\n8585 Cote de Liesse\nCanada"
+      "address": {
+        "text": "Montreal\n8585 Cote de Liesse\nCanada",
+        "iso2": "CA",
+        "lat": 45.4759663,
+        "lon": -73.70591519999999
+      }
     },
     {
       "name": "CEGELEC DEFENSE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Chanakya Aerospace, Defence & Maritime Review Magazine",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "China National Precision Machinery Import & Export Corporation",
-      "address": "BEIJING\nADD.Bldg.B,No30.Haidian Nanlu,Beijing,100080,China\nChina"
+      "address": {
+        "text": "BEIJING\nADD.Bldg.B,No30.Haidian Nanlu,Beijing,100080,China\nChina",
+        "iso2": "CN",
+        "lat": 39.904211,
+        "lon": 116.407395
+      }
     },
     {
       "name": "Cobham",
-      "address": "Doha\nBurj Doha\nFloor 21\nCity Centre\nCorniche West Bay\n27110,\nUnited Kingdom"
+      "country": {
+        "text": "Doha\nBurj Doha\nFloor 21\nCity Centre\nCorniche West Bay\n27110,\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Dahra Technologies & Consultancy Services W.L.L",
-      "address": "Doha\nPO BOX 4404, Petrofac Qatar Building, C-Ring Road, Doha - Qatar\nQatar"
+      "address": {
+        "text": "Doha\nPO BOX 4404, Petrofac Qatar Building, C-Ring Road, Doha - Qatar\nQatar",
+        "iso2": "QA",
+        "lat": 25.2643353,
+        "lon": 51.5442956
+      }
     },
     {
       "name": "Dearsan",
-      "address": "ISTANBUL\nDEARSAN SHIPYARD A.S.\nAYDINTEPE MAH. RAUF ORBAY CAD. NO:2 34940 TUZLA\nTurkey"
+      "address": {
+        "text": "ISTANBUL\nDEARSAN SHIPYARD A.S.\nAYDINTEPE MAH. RAUF ORBAY CAD. NO:2 34940 TUZLA\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8202998,
+        "lon": 29.2883352
+      }
     },
     {
       "name": "Defence 21",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Defence Turkey",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Defense News",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Department for International Trade DSO",
-      "address": "London\nDepartment for International Trade - Defence and Security Organisation\n3 Whitehall Place\nUnited Kingdom"
+      "address": {
+        "text": "London\nDepartment for International Trade - Defence and Security Organisation\n3 Whitehall Place\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5071222,
+        "lon": -0.1272052
+      }
     },
     {
       "name": "DESAN SHIPYARD",
-      "address": "Tuzla\nTersaneler Cad. No:36\nTurkey",
+      "address": {
+        "text": "Tuzla\nTersaneler Cad. No:36\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8358054,
+        "lon": 29.2705763
+      },
       "website": "http://www.desan-shipyard.com"
     },
     {
       "name": "DIMDEX 2020",
-      "address": "Doha\nAl Ghazlaniya Street, Al Gharafa, Doha – Qatar\nQatar",
+      "address": {
+        "text": "Doha\nAl Ghazlaniya Street, Al Gharafa, Doha – Qatar\nQatar",
+        "iso2": "QA",
+        "lat": 25.3560675,
+        "lon": 51.4429551
+      },
       "website": "http://www.dimdex.com"
     },
     {
       "name": "Directorate of Defence Communication",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "ELETTRONICA SPA",
-      "address": "Roma\nVia Tiburtina Valeria Km 13.7\nItaly"
+      "address": {
+        "text": "Roma\nVia Tiburtina Valeria Km 13.7\nItaly",
+        "iso2": "IT",
+        "lat": 41.9257409,
+        "lon": 12.5738986
+      }
     },
     {
       "name": "FINCANTIERI SPA",
-      "address": "Trieste\nVia Genova 1\nItaly",
+      "address": {
+        "text": "Trieste\nVia Genova 1\nItaly",
+        "iso2": "IT",
+        "lat": 45.6520988,
+        "lon": 13.769963
+      },
       "website": "http://www.fincantieri.com/en/"
     },
     {
       "name": "FWS",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Garanti Giyim",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "GEM ELETTRONICA SRL",
-      "address": "San Benedetto del Tronto\nVia Amerigo Vespucci, 9\n212,\nItaly"
+      "address": {
+        "text": "San Benedetto del Tronto\nVia Amerigo Vespucci, 9\n212,\nItaly",
+        "iso2": "IT",
+        "lat": 42.9602224,
+        "lon": 13.8822172
+      }
     },
     {
       "name": "General Directorate of Coasts & Borders Security",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "General Dynamics",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GICAN",
-      "address": "PARIS\n60 RUE DE MONCEAU\nFrance"
+      "address": {
+        "text": "PARIS\n60 RUE DE MONCEAU\nFrance",
+        "iso2": "FR",
+        "lat": 48.87848409999999,
+        "lon": 2.3126283
+      }
     },
     {
       "name": "Gul Otomotiv",
-      "address": "Istanbul (Europe)\nBESYOL MAH, BIRLIK CAD, ALIAGA SOK 4/1 K.CEKMECE\nSEFAKOY\nTurkey"
+      "address": {
+        "text": "Istanbul (Europe)\nBESYOL MAH, BIRLIK CAD, ALIAGA SOK 4/1 K.CEKMECE\nSEFAKOY\nTurkey",
+        "iso2": "TR",
+        "lat": 40.9931079,
+        "lon": 28.7958417
+      }
     },
     {
       "name": "Gulf Bridge International (GBI)",
-      "address": "Doha\n, Qatar Science & Technology Park Tech 1, Level 2 Al Gharaffa Street, Al Rayyan, Tel : +971564743933\nQatar"
+      "address": {
+        "text": "Doha\n, Qatar Science & Technology Park Tech 1, Level 2 Al Gharaffa Street, Al Rayyan, Tel : +971564743933\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      }
     },
     {
       "name": "Havelsan",
-      "address": "Ankara\nMustafa Kemal Mahallesi 2120. Cad No:39\nTurkey"
+      "address": {
+        "text": "Ankara\nMustafa Kemal Mahallesi 2120. Cad No:39\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9138163,
+        "lon": 32.775598
+      }
     },
     {
       "name": "INTERMARINE SPA",
-      "address": "Sarzana (SP)\nVia Alta n.100\nItaly"
+      "address": {
+        "text": "Sarzana (SP)\nVia Alta n.100\nItaly",
+        "iso2": "IT",
+        "lat": 44.0837648,
+        "lon": 9.9903157
+      }
     },
     {
       "name": "International Trading and Technical Services. Co. W.L.L. (Inter-tech)",
-      "address": "Doha\n4th Floor Tower A, Al-Rayyan COmplex, Al-Rayyan Road, Doha, Qatar\nP.O. Box 22226,\nQatar"
+      "address": {
+        "text": "Doha\n4th Floor Tower A, Al-Rayyan COmplex, Al-Rayyan Road, Doha, Qatar\nP.O. Box 22226,\nQatar",
+        "iso2": "QA",
+        "lat": 25.2882884,
+        "lon": 51.52204709999999
+      }
     },
     {
       "name": "Inzpire Ltd.",
-      "address": "Lincoln\nInzpire Limited, Unit 1B Alpha Court, Kingsley Road - Tel : 001 522 688 231\nUnited Kingdom"
+      "address": {
+        "text": "Lincoln\nInzpire Limited, Unit 1B Alpha Court, Kingsley Road - Tel : 001 522 688 231\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.17412359999999,
+        "lon": -0.4503154
+      }
     },
     {
       "name": "İsbir",
-      "address": "Balikesir\nCayirhisar Mevkii\nTurkey"
+      "address": {
+        "text": "Balikesir\nCayirhisar Mevkii\nTurkey",
+        "iso2": "TR",
+        "lat": 39.614824,
+        "lon": 27.901496
+      }
     },
     {
       "name": "IXBLUE",
-      "address": "Saint-Germain-en-Laye\n34 rue de la croix de fer\nFrance"
+      "address": {
+        "text": "Saint-Germain-en-Laye\n34 rue de la croix de fer\nFrance",
+        "iso2": "FR",
+        "lat": 48.899423,
+        "lon": 2.0640214
+      }
     },
     {
       "name": "Jassim Ahmed Al-Lingawi Trading Est.",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "JSC Rosoboronexport",
-      "address": "Moscow\nStromynka St. 27\n107076,\nRussia"
+      "address": {
+        "text": "Moscow\nStromynka St. 27\n107076,\nRussia",
+        "iso2": "RU",
+        "lat": 55.79566699999999,
+        "lon": 37.701605
+      }
     },
     {
       "name": "Kale Aero",
-      "address": "İstanbul\nIstanbul Endustri ve Ticaret Serbest Bolgesi, Aydinli Serbest Bolge Mah. 6. Sok. No:5 34957 Tuzla – Istanbul / Turkey\nTurkey"
+      "address": {
+        "text": "İstanbul\nIstanbul Endustri ve Ticaret Serbest Bolgesi, Aydinli Serbest Bolge Mah. 6. Sok. No:5 34957 Tuzla – Istanbul / Turkey\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8837947,
+        "lon": 29.389441
+      }
     },
     {
       "name": "Kale Kalip",
-      "address": "İstanbul\nSefakoy; Tevfikbey mah. Istiklal cad. No:29 34295 Kucukcekmece\nTurkey"
+      "address": {
+        "text": "İstanbul\nSefakoy; Tevfikbey mah. Istiklal cad. No:29 34295 Kucukcekmece\nTurkey",
+        "iso2": "TR",
+        "lat": 41.0148823,
+        "lon": 28.7956475
+      }
     },
     {
       "name": "Kallman Worldwide",
-      "address": "Waldwick\n4 North Street\nSuite 800\nUnited States",
+      "address": {
+        "text": "Waldwick\n4 North Street\nSuite 800\nUnited States",
+        "iso2": "US",
+        "lat": 41.0175115,
+        "lon": -74.12310409999999
+      },
       "website": "http://www.kallman.com"
     },
     {
       "name": "Kelvin Hughes",
-      "address": "London\nVoltage 6, Mollison Avenue, EN3 7XQ\nUnited Kingdom",
+      "address": {
+        "text": "London\nVoltage 6, Mollison Avenue, EN3 7XQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6798009,
+        "lon": -0.0298769
+      },
       "website": "http://www.kelvinhughes.co.uk"
     },
     {
       "name": "KNDS │ KMW+NEXTER Defense Systems",
-      "address": "Amsterdam\n.\nNetherlands"
+      "address": {
+        "text": "Amsterdam\n.\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.3675734,
+        "lon": 4.9041389
+      }
     },
     {
       "name": "Krauss-Maffei Wegmann GmbH & Co.KG",
-      "address": "Munich\nKrauss-Maffei Str. 11\nGermany"
+      "address": {
+        "text": "Munich\nKrauss-Maffei Str. 11\nGermany",
+        "iso2": "DE",
+        "lat": 48.19361960000001,
+        "lon": 11.4695279
+      }
     },
     {
       "name": "L3 Technologies",
-      "address": "Camden\n1 Federal Street\n08103,\nUnited States"
+      "address": {
+        "text": "Camden\n1 Federal Street\n08103,\nUnited States",
+        "iso2": "US",
+        "lat": 39.9464829,
+        "lon": -75.1278122
+      }
     },
     {
       "name": "LACROIX",
-      "address": "Muret\n6, boulevard de Joffrery.\nFrance",
-      "website": "http://www.lacroix-defense.com/"
+      "address": {
+        "text": "Muret\n6, boulevard de Joffrery.\nFrance",
+        "iso2": "FR",
+        "lat": 43.4750609,
+        "lon": 1.333001
+      },
+      "website": "http://www.lacroix-defense.com"
     },
     {
       "name": "LEONARDO",
-      "address": "Rome\nPiazza Monte Grappa, 4\nItaly"
+      "address": {
+        "text": "Rome\nPiazza Monte Grappa, 4\nItaly",
+        "iso2": "IT",
+        "lat": 41.9185778,
+        "lon": 12.4681985
+      }
     },
     {
       "name": "Lockheed Martin",
-      "address": "Bethesda, MD 20817\n6801 Rockledge Drive\nUnited States"
+      "address": {
+        "text": "Bethesda, MD 20817\n6801 Rockledge Drive\nUnited States",
+        "iso2": "US",
+        "lat": 39.030957,
+        "lon": -77.1388991
+      }
     },
     {
       "name": "MAN Diesel & Turbo",
-      "address": "Augsburg\nStadtbachstraße 1\n86224 Augsburg, Germany,\nGermany",
-      "website": "http://www.marine.mandieselturbo.com/"
+      "address": {
+        "text": "Augsburg\nStadtbachstraße 1\n86224 Augsburg, Germany,\nGermany",
+        "iso2": "DE",
+        "lat": 48.38043200000001,
+        "lon": 10.8990669
+      },
+      "website": "http://www.marine.mandieselturbo.com"
     },
     {
       "name": "MANAS DEFENCE SYSTEMS INC",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MBDA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MBDA",
-      "address": "Le Plessis Robinson\n1, Avenue Reaumur\nFrance"
+      "address": {
+        "text": "Le Plessis Robinson\n1, Avenue Reaumur\nFrance",
+        "iso2": "FR",
+        "lat": 48.7792059,
+        "lon": 2.2406432
+      }
     },
     {
       "name": "Medyacity",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Meteksan Savunma Sanayii A.Ş.",
-      "address": "Ankara\nCyberpark F Blok Beytepe Lodumlu Köyü Yolu\nNo:85/A Bilkent-Çankaya\nTurkey",
+      "address": {
+        "text": "Ankara\nCyberpark F Blok Beytepe Lodumlu Köyü Yolu\nNo:85/A Bilkent-Çankaya\nTurkey",
+        "iso2": "TR",
+        "lat": 39.880084,
+        "lon": 32.7473945
+      },
       "website": "http://www.meteksan.com"
     },
     {
       "name": "Milaha",
-      "address": "Doha\nUm Al Saneem – Street no.: 523\nEast Industrial Road – Zone 56, building 31\n153,\nQatar",
+      "address": {
+        "text": "Doha\nUm Al Saneem – Street no.: 523\nEast Industrial Road – Zone 56, building 31\n153,\nQatar",
+        "iso2": "QA",
+        "lat": 25.2229809,
+        "lon": 51.469122
+      },
       "website": "http://www.milaha.com"
     },
     {
       "name": "MilSOFT Software Technologies",
-      "address": "Ankara\nODTU Teknokent, 06800\nTurkey"
+      "address": {
+        "text": "Ankara\nODTU Teknokent, 06800\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8984053,
+        "lon": 32.7762277
+      }
     },
     {
       "name": "Mine Kafon",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "MKEK",
-      "address": "ANKARA\nDegol Street. Anadolu Square. No:4 06330 Yenimahalle/ANKARA\n06330,\nTurkey"
+      "address": {
+        "text": "ANKARA\nDegol Street. Anadolu Square. No:4 06330 Yenimahalle/ANKARA\n06330,\nTurkey",
+        "iso2": "TR",
+        "lat": 40.0112919,
+        "lon": 32.7753509
+      }
     },
     {
       "name": "MSI – Defence Systems Ltd",
-      "address": "NORWICH\nSALHOUSE ROAD\nUnited Kingdom"
+      "address": {
+        "text": "NORWICH\nSALHOUSE ROAD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6529191,
+        "lon": 1.3525181
+      }
     },
     {
       "name": "Nakilat",
-      "address": "Doha\nShoumoukh Towers\nAl Sadd Street\nQatar"
+      "address": {
+        "text": "Doha\nShoumoukh Towers\nAl Sadd Street\nQatar",
+        "iso2": "QA",
+        "lat": 25.2811263,
+        "lon": 51.5074847
+      }
     },
     {
       "name": "Navantia",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Navy Recognition",
-      "address": "Ramilies\nArmy Recognition Group\nRue des Bourlottes, 5\n1367 Ramillies\nBelgium\nBelgium",
+      "address": {
+        "text": "Ramilies\nArmy Recognition Group\nRue des Bourlottes, 5\n1367 Ramillies\nBelgium\nBelgium",
+        "iso2": "BE",
+        "lat": 50.6304217,
+        "lon": 4.8649853
+      },
       "website": "http://www.navyrecognition.com"
     },
     {
       "name": "NBK International",
-      "address": "Doha\n6002,\nQatar"
+      "address": {
+        "text": "Doha\n6002,\nQatar",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "Nexter Group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NEXTER SYSTEMS",
-      "address": "Versailles\n13 Route de la Minière\nFrance"
+      "address": {
+        "text": "Versailles\n13 Route de la Minière\nFrance",
+        "iso2": "FR",
+        "lat": 48.7838304,
+        "lon": 2.1033335
+      }
     },
     {
       "name": "Nurol Makina",
-      "address": "Ankara\nAnkara Organize Sanayi Bolgesi Avrupa Hun Caddesi No:6 Sincan\nTurkey",
+      "address": {
+        "text": "Ankara\nAnkara Organize Sanayi Bolgesi Avrupa Hun Caddesi No:6 Sincan\nTurkey",
+        "iso2": "TR",
+        "lat": 39.97527300000001,
+        "lon": 32.549823
+      },
       "website": "http://www.nurolmakina.com.tr"
     },
     {
       "name": "Orbital ATK",
-      "address": "Dulles\n45101 Warp Drive\nUnited States",
+      "address": {
+        "text": "Dulles\n45101 Warp Drive\nUnited States",
+        "iso2": "US",
+        "lat": 39.0122735,
+        "lon": -77.4315599
+      },
       "website": "http://www.orbitalatk.com"
     },
     {
       "name": "Patria",
-      "address": "Helsinki\nKaivokatu 10\nFinland",
+      "address": {
+        "text": "Helsinki\nKaivokatu 10\nFinland",
+        "iso2": "FI",
+        "lat": 60.1701776,
+        "lon": 24.9401519
+      },
       "website": "http://www.patria.fi/en"
     },
     {
       "name": "Patron Network",
-      "address": "Doha\nSuite # 99, Floor # 19, Al Reem Tower\nWest Bay,\nQatar",
-      "website": "http://www.patronnetwork.com/"
+      "address": {
+        "text": "Doha\nSuite # 99, Floor # 19, Al Reem Tower\nWest Bay,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3259788,
+        "lon": 51.5265092
+      },
+      "website": "http://www.patronnetwork.com"
     },
     {
       "name": "Plan B",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Protection Group International",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Qatar Building Company (QBC)",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Cyber Academy",
-      "address": "Marlborough, Massachusetts\n1001 Boston Post Road\nQatar",
+      "address": {
+        "text": "Marlborough, Massachusetts\n1001 Boston Post Road\nQatar",
+        "iso2": "US",
+        "lat": 42.345194,
+        "lon": -71.4915273
+      },
       "website": "http://www.raytheon.com/cyber/"
     },
     {
       "name": "Qatar Development and Trading Co.",
-      "address": "DOHA\nAL MARKHIYA ST. HAZM ALMARKHIYA BUILDING 25\n22197,\nQatar"
+      "address": {
+        "text": "DOHA\nAL MARKHIYA ST. HAZM ALMARKHIYA BUILDING 25\n22197,\nQatar",
+        "iso2": "QA",
+        "lat": 25.334527,
+        "lon": 51.49476929999999
+      }
     },
     {
       "name": "Qatar Emiri Naval Forces",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Sub",
-      "address": "Doha\nSouq waqif. Shop # 24\nQatar"
+      "address": {
+        "text": "Doha\nSouq waqif. Shop # 24\nQatar",
+        "iso2": "QA",
+        "lat": 25.2880647,
+        "lon": 51.531828
+      }
     },
     {
       "name": "QSUR Trading W.L.L",
-      "address": "Doha\nAl-Fardan Office Tower,\n19th Floor,\nWest Bay\n11758,\nQatar"
+      "address": {
+        "text": "Doha\nAl-Fardan Office Tower,\n19th Floor,\nWest Bay\n11758,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3286007,
+        "lon": 51.5310254
+      }
     },
     {
       "name": "Quantum Marine Stabilizers",
-      "address": "Ft. Lauderdale\n3685 SW 30th Ave.\nUnited States",
+      "address": {
+        "text": "Ft. Lauderdale\n3685 SW 30th Ave.\nUnited States",
+        "iso2": "US",
+        "lat": 26.0755725,
+        "lon": -80.1816216
+      },
       "website": "http://www.quantumstabilizers.com"
     },
     {
       "name": "RAFALE INTERNATIONAL (Dassault Aviation)",
-      "address": "Saint-Cloud\n78 quai Marcel Dassault\nFrance"
+      "address": {
+        "text": "Saint-Cloud\n78 quai Marcel Dassault\nFrance",
+        "iso2": "FR",
+        "lat": 48.85903709999999,
+        "lon": 2.2238441
+      }
     },
     {
       "name": "RAM-System GmbH",
-      "address": "Munich\n81663,\nGermany"
+      "address": {
+        "text": "Munich\n81663,\nGermany",
+        "iso2": "DE",
+        "lat": 48.1351253,
+        "lon": 11.5819806
+      }
     },
     {
       "name": "Range Systems",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Raytheon Co.",
-      "country": "United States",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
       "website": "http://https://www.raytheon.com/"
     },
     {
       "name": "Raytheon Co.",
-      "country": "United States",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
       "website": "http://https://www.raytheon.com/"
     },
     {
       "name": "RENK",
-      "address": "Augsburg\nGögginger Strasse 73\nGermany"
+      "address": {
+        "text": "Augsburg\nGögginger Strasse 73\nGermany",
+        "iso2": "DE",
+        "lat": 48.3536907,
+        "lon": 10.8831264
+      }
     },
     {
       "name": "Rheinmetall Barzan Advanced Technologies",
-      "address": "Doha\nOffice 207, Tech 1, Qatar Science and Technology Park , Tel: +974 7474 7559\nQatar"
+      "address": {
+        "text": "Doha\nOffice 207, Tech 1, Qatar Science and Technology Park , Tel: +974 7474 7559\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      }
     },
     {
       "name": "Roketsan",
-      "address": "ANKARA\nKEMALPASA MAH. SEHIT YUZBASI ADEM KUTLU SOK. NO:21 ELMADAG\n06780,\nTurkey"
+      "address": {
+        "text": "ANKARA\nKEMALPASA MAH. SEHIT YUZBASI ADEM KUTLU SOK. NO:21 ELMADAG\n06780,\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9104857,
+        "lon": 33.2344758
+      }
     },
     {
       "name": "Ruwais Marine Services WLL (RMS)",
-      "address": "Doha\n55121,\nQatar"
+      "address": {
+        "text": "Doha\n55121,\nQatar",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "Safe Boats International",
-      "address": "Bremerton\n8800 SW Barney White Road\nUnited States"
+      "address": {
+        "text": "Bremerton\n8800 SW Barney White Road\nUnited States",
+        "iso2": "US",
+        "lat": 47.50291989999999,
+        "lon": -122.7671222
+      }
     },
     {
       "name": "SAFRAN",
-      "address": "Boulogne-Billancourt\n18-20 quai du point du jour\nFrance"
+      "address": {
+        "text": "Boulogne-Billancourt\n18-20 quai du point du jour\nFrance",
+        "iso2": "FR",
+        "lat": 48.8322993,
+        "lon": 2.2585001
+      }
     },
     {
       "name": "SAKO LTD",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Sarsilmaz",
-      "address": "Istanbul\nBurhaniye Mah. Kanuni Sultan Suleyman Sk.\nMabeyin Konakları Villa C Uskudar\nTurkey",
+      "address": {
+        "text": "Istanbul\nBurhaniye Mah. Kanuni Sultan Suleyman Sk.\nMabeyin Konakları Villa C Uskudar\nTurkey",
+        "iso2": "TR",
+        "lat": 41.0241693,
+        "lon": 29.0534251
+      },
       "website": "http://www.sarsilmaz.com"
     },
     {
       "name": "SBI",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SD Arabia",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "SDT",
-      "address": "Ankara\nSATGEB-2 Titanyum C Blok Üniversiteler Mah. İhsan Doğramacı Bulvarı Bina No: 37 No: 1, -1/1 ODTÜ Teknokent Çankaya Ankara / Türkiye\nTurkey"
+      "address": {
+        "text": "Ankara\nSATGEB-2 Titanyum C Blok Üniversiteler Mah. İhsan Doğramacı Bulvarı Bina No: 37 No: 1, -1/1 ODTÜ Teknokent Çankaya Ankara / Türkiye\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8972275,
+        "lon": 32.7762592
+      }
     },
     {
       "name": "SHOXS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SimBT",
-      "address": "Ankara\nODTÜ Teknokent MET YERLEŞKESİ Mustafa Kemal Mah. Dumlupınar Blv. No: 280 E Blok No:1 06510 Çankaya/ANKARA\nSimBT Simulation and Technologies Inc.\nTurkey"
+      "address": {
+        "text": "Ankara\nODTÜ Teknokent MET YERLEŞKESİ Mustafa Kemal Mah. Dumlupınar Blv. No: 280 E Blok No:1 06510 Çankaya/ANKARA\nSimBT Simulation and Technologies Inc.\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9075622,
+        "lon": 32.7548149
+      }
     },
     {
       "name": "SOFRESUD",
-      "address": "LA SEYNE SUR MER\n777 AVENUE DE BRUXELLES, Tel: +33 4 94 11 57 00\nFrance"
+      "address": {
+        "text": "LA SEYNE SUR MER\n777 AVENUE DE BRUXELLES, Tel: +33 4 94 11 57 00\nFrance",
+        "iso2": "FR",
+        "lat": 43.1102706,
+        "lon": 5.8507566
+      }
     },
     {
       "name": "SSİ",
-      "address": "ANKARA\nCEYHUN ATUF KANSU CAD. NO:120 BALGAT\nTurkey"
+      "address": {
+        "text": "ANKARA\nCEYHUN ATUF KANSU CAD. NO:120 BALGAT\nTurkey",
+        "iso2": "TR",
+        "lat": 39.891101,
+        "lon": 32.8158699
+      }
     },
     {
       "name": "SSM",
-      "address": "ANKARA\nDevlet Mahallesi Süleyman Emin Caddesi No:6-7 06420 Çankaya / ANKARA / TÜRKİYE\nTurkey",
+      "address": {
+        "text": "ANKARA\nDevlet Mahallesi Süleyman Emin Caddesi No:6-7 06420 Çankaya / ANKARA / TÜRKİYE\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9043064,
+        "lon": 32.83665560000001
+      },
       "website": "http://www.ssm.gov.tr"
     },
     {
       "name": "STEINER",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "STM",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Strategic Technical Services & Trading W.L.L.",
-      "address": "Doha\nB1/110, Retaj Complex, Salwa Road\n37641,\nQatar"
+      "address": {
+        "text": "Doha\nB1/110, Retaj Complex, Salwa Road\n37641,\nQatar",
+        "iso2": "QA",
+        "lat": 25.253935,
+        "lon": 51.4806697
+      }
     },
     {
       "name": "StreamWIDE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TAIS SHIPYARDS",
-      "address": "İSTANBUL\nTAIS GEMİ İNŞA VE PAZARLAMA A.Ş.\nPostane Mah. Rauf Orbay Cad. No:119/1 Tuzla /\nTurkey"
+      "address": {
+        "text": "İSTANBUL\nTAIS GEMİ İNŞA VE PAZARLAMA A.Ş.\nPostane Mah. Rauf Orbay Cad. No:119/1 Tuzla /\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8229249,
+        "lon": 29.2896784
+      }
     },
     {
       "name": "Textron Systems",
-      "address": "Providence\n40 Westminster Street\nUnited States"
+      "address": {
+        "text": "Providence\n40 Westminster Street\nUnited States",
+        "iso2": "US",
+        "lat": 41.8249048,
+        "lon": -71.4092955
+      }
     },
     {
       "name": "THALES",
-      "address": "DOHA\nKIA Building 4th Floor\nAl Rayyan Road\nFrance"
+      "country": {
+        "text": "DOHA\nKIA Building 4th Floor\nAl Rayyan Road\nFrance",
+        "iso2": "FR"
+      }
     },
     {
       "name": "The Boeing Company",
-      "address": "Arlington\n929 Long Bridge Drive\nUnited States",
+      "address": {
+        "text": "Arlington\n929 Long Bridge Drive\nUnited States",
+        "iso2": "US",
+        "lat": 38.8642623,
+        "lon": -77.05006
+      },
       "website": "http://www.boeing.com"
     },
     {
       "name": "Transvaro",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TÜBİTAK BİLGEM Informatics and Information Security Research...",
-      "address": "Kocaeli\nTÜBİTAK BİLGEM, PK: 74, 41470, Gebze\nTurkey"
+      "address": {
+        "text": "Kocaeli\nTÜBİTAK BİLGEM, PK: 74, 41470, Gebze\nTurkey",
+        "iso2": "TR",
+        "lat": 40.7859799,
+        "lon": 29.4471021
+      }
     },
     {
       "name": "TÜBİTAK SAGE",
-      "address": "Mamak/Ankara , Tel: 0090 0312 590 90 00\nTurkey"
+      "address": {
+        "text": "Mamak/Ankara , Tel: 0090 0312 590 90 00\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9124056,
+        "lon": 33.0563914
+      }
     },
     {
       "name": "Turmaks",
-      "address": "Ankara\nRefik Belendir 46/3 Yukari Ayranci, Cankaya, Ankara/TURKEY, Tel: +903124419941\nTurkey"
+      "address": {
+        "text": "Ankara\nRefik Belendir 46/3 Yukari Ayranci, Cankaya, Ankara/TURKEY, Tel: +903124419941\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9411345,
+        "lon": 32.8154719
+      }
     },
     {
       "name": "UNIFO",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "United Engineering Services LLC",
-      "country": "Oman"
+      "country": {
+        "text": "Oman",
+        "iso2": "OM"
+      }
     },
     {
       "name": "United Industrial Edition",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "UTC Aerospace Systems",
-      "address": "Malvern\nMHSP\nGeraldine Road\nUnited Kingdom"
+      "address": {
+        "text": "Malvern\nMHSP\nGeraldine Road\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1050432,
+        "lon": -2.3108491
+      }
     },
     {
       "name": "Vodafone Qatar",
-      "address": "Doha\nQatar Science and Technology Park - Tech 2\nAl Gharafa Street\n27727,\nQatar",
+      "address": {
+        "text": "Doha\nQatar Science and Technology Park - Tech 2\nAl Gharafa Street\n27727,\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      },
       "website": "http://www.vodafone.qa"
     },
     {
       "name": "Wilcox",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Yonca-Onuk JV",
-      "address": "İstanbul\nKızılçam Sokak, 8/2 Aydıntepe, Tuzla\nTurkey"
+      "address": {
+        "text": "İstanbul\nKızılçam Sokak, 8/2 Aydıntepe, Tuzla\nTurkey",
+        "iso2": "TR",
+        "lat": 41.0248971,
+        "lon": 29.2591021
+      }
     },
     {
       "name": "Zen Technologies Limited",
-      "address": "Hyderabad\nB-42, Industrial Estate, Sanath Nagar\nIndia"
+      "address": {
+        "text": "Hyderabad\nB-42, Industrial Estate, Sanath Nagar\nIndia",
+        "iso2": "IN",
+        "lat": 17.4562544,
+        "lon": 78.4439295
+      }
     },
     {
       "name": "ZODIAC MILPRO",
-      "address": "Paris\n32 bis boulevard Haussmann\nFrance",
+      "address": {
+        "text": "Paris\n32 bis boulevard Haussmann\nFrance",
+        "iso2": "FR",
+        "lat": 48.8729407,
+        "lon": 2.3343972
+      },
       "website": "http://www.zodiacmilpro.com"
     }
   ]

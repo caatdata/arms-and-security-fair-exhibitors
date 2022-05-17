@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2014",
   "startDate": "2014-02-20",
   "endDate": "2014-02-23",
-  "address": "FIVE\nFarnborough\nUK",
+  "address": {
+    "text": "FIVE\nFarnborough\nUK",
+    "iso2": "GB",
+    "lat": 51.2753235,
+    "lon": -0.7665162999999999
+  },
   "website": [
     "http://www.internationalarmouredvehicles.com",
     "http://internationalarmouredvehicles.wordpress.com"
@@ -48,43 +53,43 @@
     },
     {
       "name": "KTK",
-      "website": "http://www.ktk-gmbh.eu/"
+      "website": "http://www.ktk-gmbh.eu"
     },
     {
       "name": "Lorica Systems UK Limited",
-      "website": "http://www.loricasystemsuk.com/"
+      "website": "http://www.loricasystemsuk.com"
     },
     {
       "name": "MJ Services aka ThermBright",
-      "website": "http://www.thermbright.com/"
+      "website": "http://www.thermbright.com"
     },
     {
       "name": "PROENGIN Biological and Chemical Detection Systems",
-      "website": "http://www.proengin.com/"
+      "website": "http://www.proengin.com"
     },
     {
       "name": "Ruag AG",
-      "website": "http://www.ruag.com/"
+      "website": "http://www.ruag.com"
     },
     {
       "name": "SCHROTH Safety Products GmbH",
-      "website": "http://www.schroth.com/"
+      "website": "http://www.schroth.com"
     },
     {
       "name": "Sika",
-      "website": "http://www.sika.com/"
+      "website": "http://www.sika.com"
     },
     {
       "name": "Streit Group",
-      "website": "http://www.armored-cars.com/"
+      "website": "http://www.armored-cars.com"
     },
     {
       "name": "Timoney Techonolgy",
-      "website": "http://www.timoneygroup.com/"
+      "website": "http://www.timoneygroup.com"
     },
     {
       "name": "Tyron",
-      "website": "http://www.tyron.com/"
+      "website": "http://www.tyron.com"
     }
   ]
 }

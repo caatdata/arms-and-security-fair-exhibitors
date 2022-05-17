@@ -5,14 +5,19 @@
   "alias": "Defence Procurement, Research, Technology & Exportability 2021",
   "startDate": "2022-05-05",
   "endDate": "2022-05-05",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUnited Kingdom",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "https://www.dprte.co.uk",
   "exhibitorListUrl": "https://www.dprte.co.uk/exhibitors/",
   "exhibitorListDate": "2022-03-22T10:25:08+00:00",
   "exhibitor": [
     {
       "name": "ACS",
-      "website": "https://www.hearingprotection.co.uk/"
+      "website": "https://www.hearingprotection.co.uk"
     },
     {
       "name": "Adler and Allan",
@@ -23,14 +28,14 @@
     },
     {
       "name": "AECOM",
-      "website": "https://aecom.com/"
+      "website": "https://aecom.com"
     },
     {
       "name": "The Air Commercial Team, Royal Air Force."
     },
     {
       "name": "Ameresco",
-      "website": "https://www.ameresco.com/"
+      "website": "https://www.ameresco.com"
     },
     {
       "name": "ARES PRISM"
@@ -43,14 +48,14 @@
     },
     {
       "name": "Aviation Week Network",
-      "website": "https://aviationweek.com/"
+      "website": "https://aviationweek.com"
     },
     {
       "name": "Blue Tower"
     },
     {
       "name": "Butyl Products Group",
-      "website": "https://www.butylproducts.co.uk/"
+      "website": "https://www.butylproducts.co.uk"
     },
     {
       "name": "Catax"
@@ -97,15 +102,15 @@
     },
     {
       "name": "Euroquartz Ltd",
-      "website": "https://www.euroquartz.co.uk/"
+      "website": "https://www.euroquartz.co.uk"
     },
     {
       "name": "Galliford Try",
-      "website": "https://www.gallifordtry.co.uk/"
+      "website": "https://www.gallifordtry.co.uk"
     },
     {
       "name": "Ingleton Wood",
-      "website": "https://www.ingletonwood.co.uk/"
+      "website": "https://www.ingletonwood.co.uk"
     },
     {
       "name": "Innovate UK, part of UK Research and Innovation"
@@ -126,21 +131,21 @@
     },
     {
       "name": "Optima Systems Consultancy",
-      "website": "https://www.optimasc.co.uk/"
+      "website": "https://www.optimasc.co.uk"
     },
     {
       "name": "Pass Procurement"
     },
     {
       "name": "Reds10",
-      "website": "https://www.reds10.com/"
+      "website": "https://www.reds10.com"
     },
     {
       "name": "Royal Navy"
     },
     {
       "name": "RUD",
-      "website": "https://www.rud.co.uk/"
+      "website": "https://www.rud.co.uk"
     },
     {
       "name": "Supply2Defence"
@@ -151,21 +156,21 @@
     },
     {
       "name": "Sellox",
-      "website": "https://sellox.co.uk/"
+      "website": "https://sellox.co.uk"
     },
     {
       "name": "Sierra Nevada Corporation Mission Systems UK"
     },
     {
       "name": "Softcat",
-      "website": "https://www.softcat.com/"
+      "website": "https://www.softcat.com"
     },
     {
       "name": "Secure Systems & Technologies Ltd (SST)"
     },
     {
       "name": "Steatite",
-      "website": "https://www.steatite.co.uk/"
+      "website": "https://www.steatite.co.uk"
     },
     {
       "name": "Submarine Delivery Agency"
@@ -175,11 +180,11 @@
     },
     {
       "name": "Tetra Tech",
-      "website": "https://www.tetratech.com/"
+      "website": "https://www.tetratech.com"
     },
     {
       "name": "Thorlux Lighting",
-      "website": "https://www.thorlux.com/"
+      "website": "https://www.thorlux.com"
     },
     {
       "name": "UK Defence and Security Exports",
@@ -208,7 +213,7 @@
     },
     {
       "name": "Kognitiv Spark",
-      "website": "https://www.kognitivspark.com/"
+      "website": "https://www.kognitivspark.com"
     },
     {
       "name": "Passenger Lift Services"

@@ -5,7 +5,12 @@
   "alias": "International Fire & Security Exhibition and Conference India",
   "startDate": "2018-12-05",
   "endDate": "2018-12-07",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
   "website": "https://www.ifsec.events/india/",
   "organiser": [
     {

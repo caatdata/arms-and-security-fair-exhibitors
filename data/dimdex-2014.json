@@ -5,7 +5,12 @@
   "alias": "Doha International Maritime Defence Exhibition and Conference 2014",
   "startDate": "2014-03-25",
   "endDate": "2014-03-27",
-  "address": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+  "address": {
+    "text": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.3204813,
+    "lon": 51.4385756
+  },
   "website": "http://www.dimdex.com",
   "organiser": [
     {
@@ -20,715 +25,1249 @@
   "exhibitor": [
     {
       "name": "Abu Dhabi Shipbuilding",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ADIK",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Aeromag",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Agusta Westland",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Airbus Group",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Al Defaiya",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Al Seer Marine Supplies & Equipment",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Al Sharq Media Management",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Alenia Aermacchi",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Alewijnse Marine Technology",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Al-Udeid Boats Factory W.L.L",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Aqeri",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Ares",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Armstrong Marine",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Aselsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Atkins",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Atlas Elektronik",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Atlas Elektronik UK",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Austal",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "BAE Systems",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Baykar",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "BCB International",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Bites",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Boeing",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Brunswick Commercial and Government Products",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "BULL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "CAE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Chanakya",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Civitanavi Systems",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Clarion",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Colt",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Comnet Naval Communication",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "CPMIEC",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Crewshield",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Dahra",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Damen Shelde Naval Shipbuilding",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DCI",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DCNS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Dearsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Defence 21",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Defence Procurement International",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Defense News",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Diginext",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Dytecna",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "E2V",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ECA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Edgetech",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "EITEC International",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Elcome",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Esri",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "ETC-IS A.Ş",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Euronaval",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Exalto Emirates",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EXPLORER CASES by GT Line",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FINCANTIERI",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Finmeccanica",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FLIR Systems",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Foster Group",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Fr. Luerssen Werft GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Gate Elektronik San. Ve Tic. A.Ş.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "GEM Elettronica",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "General Atomics Aeronautical",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Dynamics Advanced Information Systems",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Geobrugg AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "German Meeting Point",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GICAN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Global Aviation Services",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "GMA Axitude",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Gondan Shipyard",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Grange Shipping",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Harbor Offshore Barriers",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Havelsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Havelsan Teknoloji Radar",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "IHS Janes",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Imenco",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Imtech Marine",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Insitu",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Institute of Metal Science, Equipment and Technologies",
-      "country": "Bulgaria"
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      }
     },
     {
       "name": "IVECO Defence Vehicles",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "James Fisher Defence",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Karachi Shipyard / DEPO",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "Karel Electronics",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Kelvin Hughes",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Kestral Holding Ltd",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "KMW",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Kongsberg",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Kuwait International Defence Exhibition and Conference",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "KVH Industries",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Kvichak Marine Industries, Inc.",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "L3 Communications",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Lacroix",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Lingawi",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Lloyds Register",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Lockheed Martin",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Loyd Shipyard",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Makel Technology Company",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Marine Jet Power",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Masraf Al Rayan",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MBDA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Media Transasia",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "MET Office",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Meteksan Savunma Sanayii A.Ş.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Milaha",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Milsoft",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MSC",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "MSI Defence Systems",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MTU",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Nakilat",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Nakilat Damen Shipyards Qatar (NDSQ)",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Nakilat-Keppel Offshore & Marine (N-KOM)",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "NAPT",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "National Security Shield",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Naval Forces",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Navantia",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Navy Recognition",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Nekton Bot A.S.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Nexter Systems",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NH Industries",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Ningbo",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Northrop Grumman",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "OCEA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Octinc",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ODTU TEKNOKENT",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Oto Melara",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Piening Propeller",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Prometheus Medical Ltd (MENA)",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Armed Forces",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Coast Guard",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Meteorology Department",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Qatar Security & Guarding Services",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Rafale International",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RAM-System GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Raytheon",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Rheinmetall",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RMK Marine Gemi Yapim Sanayii",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Roketsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Saab",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SAIC",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Savronik A.Ş.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Scot Seats",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SD Arabia",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "SeaBotix Inc",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Security Review",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SeeByte",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Selah Shipyard",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Selex ES",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Shephard Media",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SITEP Italia SpA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Society of Maritime Industries",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Sofia Trading",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SOLIANI EMC SRL",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Sonardyne",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SSM",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "STM",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SUR Military Clothing",
-      "country": "Sudan"
+      "country": {
+        "text": "Sudan",
+        "iso2": "SD"
+      }
     },
     {
       "name": "Terma",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "Thales",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Thales Air Defence",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "The Navy League of the United States",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "ThyssenKrupp Marine Systems GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Timsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Transas Middle East",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Transvaro",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Tubitak Bilgem",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "UKTI Defence & Security Organisation",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Ullman Dynamics AB / H.HENRIKSEN A/S, REBS",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "United Engineering Services LLC",
-      "country": "Oman"
+      "country": {
+        "text": "Oman",
+        "iso2": "OM"
+      }
     },
     {
       "name": "UTC Aerospace Systems",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "VEKA RIBS BV",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "ViaSat, Inc",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Visio Ingenii Limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Voovio",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Wallop Defence Systems",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WASS",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "World Security & Aerospace",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Yakupoglu",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Yaltes",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Yonca Onuk",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     }
   ]
 }

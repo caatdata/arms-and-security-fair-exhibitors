@@ -5,7 +5,12 @@
   "edition": "2011",
   "startDate": "2011-05-10",
   "endDate": "2011-05-13",
-  "address": "Brno Exhibition Centre\nBrno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nBrno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "http://www.bvv.cz/en/idet/idet-2011/",
   "organiser": [
     {

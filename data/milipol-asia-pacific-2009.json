@@ -9,8 +9,13 @@
   ],
   "startDate": "2009-03-17",
   "endDate": "2009-03-19",
-  "address": "Singapore Expo\nSingapore",
-  "website": "http://www.globalsecasia.com/",
+  "address": {
+    "text": "Singapore Expo\nSingapore",
+    "iso2": "SG",
+    "lat": 1.3335251,
+    "lon": 103.959537
+  },
+  "website": "http://www.globalsecasia.com",
   "organiser": [
     {
       "name": "GSA Exhibitions Pte Ltd",
@@ -50,7 +55,12 @@
     },
     {
       "name": "Area",
-      "country": "http://www.area.it/"
+      "address": {
+        "text": "http://www.area.it/",
+        "iso2": "LV",
+        "lat": 56.949564,
+        "lon": 24.129478
+      }
     },
     {
       "name": "AridTec Pte Ltd",
@@ -66,7 +76,12 @@
     },
     {
       "name": "Asian Defence Journal",
-      "country": "http://www.shpmedia.com/"
+      "address": {
+        "text": "http://www.shpmedia.com/",
+        "iso2": "GB",
+        "lat": 51.5199811,
+        "lon": -0.1199351
+      }
     },
     {
       "name": "Asian Military Review",
@@ -78,7 +93,12 @@
     },
     {
       "name": "ATG Access Ltd (Stand Sharer, Lai Yew Seng Pte Ltd)",
-      "country": "http://www.atgaccess.com/"
+      "address": {
+        "text": "http://www.atgaccess.com/",
+        "iso2": "GB",
+        "lat": 53.4733695,
+        "lon": -2.6683819
+      }
     },
     {
       "name": "ATIS Systems Gmbh",
@@ -126,7 +146,12 @@
     },
     {
       "name": "CBRNe World",
-      "country": "http://www.cbrneworld.com/"
+      "address": {
+        "text": "http://www.cbrneworld.com/",
+        "iso2": "GB",
+        "lat": 51.0665474,
+        "lon": -1.2971341
+      }
     },
     {
       "name": "Cellebrite Mobile Synchronization",
@@ -158,7 +183,10 @@
     },
     {
       "name": "Datong PLC",
-      "country": "http://www.datong.co.uk/"
+      "country": {
+        "text": "http://www.datong.co.uk/",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Debraneys",
@@ -174,7 +202,12 @@
     },
     {
       "name": "EADS Defence & Security",
-      "country": "http://www.eads.com/"
+      "address": {
+        "text": "http://www.eads.com/",
+        "iso2": "IN",
+        "lat": 26.8987206,
+        "lon": 80.9904662
+      }
     },
     {
       "name": "Elbit Systems Ltd.",
@@ -238,23 +271,46 @@
     },
     {
       "name": "IEI",
-      "country": "http://www.export.gov.il/"
+      "country": {
+        "text": "http://www.export.gov.il/",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Integeo Pty Ltd",
-      "country": "http://www.integeo.com/"
+      "address": {
+        "text": "http://www.integeo.com/",
+        "iso2": "US",
+        "lat": 34.0109505,
+        "lon": -84.07069299999999
+      }
     },
     {
       "name": "Intelagard",
-      "country": "http://www.intelagard.com/"
+      "address": {
+        "text": "http://www.intelagard.com/",
+        "iso2": "US",
+        "lat": 39.9225119,
+        "lon": -105.1036449
+      }
     },
     {
       "name": "Invisio Headsets",
-      "country": "http://www.invsioheadsets.com/"
+      "address": {
+        "text": "http://www.invsioheadsets.com/",
+        "iso2": "DK",
+        "lat": 55.6147985,
+        "lon": 12.4771591
+      }
     },
     {
       "name": "iOmniscient Pty Ltd",
-      "country": "http://www.iomniscient.com/"
+      "address": {
+        "text": "http://www.iomniscient.com/",
+        "iso2": "AU",
+        "lat": -33.796021,
+        "lon": 151.179544
+      }
     },
     {
       "name": "IPS Securex Pte Ltd",
@@ -270,11 +326,21 @@
     },
     {
       "name": "Karcher Futuretech",
-      "country": "http://www.kaercher-futuretech.com/"
+      "address": {
+        "text": "http://www.kaercher-futuretech.com/",
+        "iso2": "DE",
+        "lat": 48.8668632,
+        "lon": 9.3579101
+      }
     },
     {
       "name": "Kommlabs Dezign Pvt Ltd",
-      "country": "<span class=\"bodytext\">http://www.kommlabs.com/"
+      "address": {
+        "text": "<span class=\"bodytext\">http://www.kommlabs.com/",
+        "iso2": "IN",
+        "lat": 28.5825226,
+        "lon": 77.3221895
+      }
     },
     {
       "name": "Kongsberg Mesotech Ltd",
@@ -294,7 +360,12 @@
     },
     {
       "name": "Lai Yew Seng Pte Ltd",
-      "country": "http://www.laiyewseng.com.sg/"
+      "address": {
+        "text": "http://www.laiyewseng.com.sg/",
+        "iso2": "SG",
+        "lat": 1.3364493,
+        "lon": 103.8607789
+      }
     },
     {
       "name": "LEC",
@@ -310,7 +381,10 @@
     },
     {
       "name": "Ministry of Home Affairs",
-      "country": "http://www.mha.gov.sg/index.aspx"
+      "country": {
+        "text": "http://www.mha.gov.sg/index.aspx",
+        "iso2": "SG"
+      }
     },
     {
       "name": "Motorola Electronics Pte Ltd",
@@ -326,7 +400,12 @@
     },
     {
       "name": "NDT Instruments Pte Ltd",
-      "country": "http://www.ndt-instruments.com/"
+      "address": {
+        "text": "http://www.ndt-instruments.com/",
+        "iso2": "SG",
+        "lat": 1.33144,
+        "lon": 103.8955428
+      }
     },
     {
       "name": "NEC Asia Pte Ltd",
@@ -338,7 +417,12 @@
     },
     {
       "name": "NICE",
-      "country": "http://www.nice.com/"
+      "address": {
+        "text": "http://www.nice.com/",
+        "iso2": "BE",
+        "lat": 50.8392698,
+        "lon": 4.4350189
+      }
     },
     {
       "name": "Nitor Projects (Asia) Pte Ltd",
@@ -346,7 +430,12 @@
     },
     {
       "name": "Nivisys Industries LLC",
-      "country": "http://www.nivisys.com/"
+      "address": {
+        "text": "http://www.nivisys.com/",
+        "iso2": "US",
+        "lat": 31.7073316,
+        "lon": -106.2973795
+      }
     },
     {
       "name": "Noggin IT",
@@ -354,7 +443,12 @@
     },
     {
       "name": "NSW Department of State & Regional Development",
-      "country": "http://www.business.nsw.gov.au/"
+      "address": {
+        "text": "http://www.business.nsw.gov.au/",
+        "iso2": "AU",
+        "lat": -33.8382824,
+        "lon": 151.209891
+      }
     },
     {
       "name": "ODF Optronics",
@@ -366,7 +460,12 @@
     },
     {
       "name": "Optelecom-nkf",
-      "country": "http://www.optelecom-nkf.com/"
+      "address": {
+        "text": "http://www.optelecom-nkf.com/",
+        "iso2": "GB",
+        "lat": 53.32311199999999,
+        "lon": -1.159271
+      }
     },
     {
       "name": "OWR",
@@ -382,11 +481,21 @@
     },
     {
       "name": "PCS Security Pte Ltd",
-      "country": "http://www.pcs-security.com/"
+      "address": {
+        "text": "http://www.pcs-security.com/",
+        "iso2": "SG",
+        "lat": 1.34312,
+        "lon": 103.944123
+      }
     },
     {
       "name": "Perajurit",
-      "country": "http://www.shpmedia.com/"
+      "address": {
+        "text": "http://www.shpmedia.com/",
+        "iso2": "GB",
+        "lat": 51.5199811,
+        "lon": -0.1199351
+      }
     },
     {
       "name": "Phonak Communications AG",
@@ -394,19 +503,39 @@
     },
     {
       "name": "Plextek Ltd",
-      "country": "http://www.plextek.co.uk/"
+      "address": {
+        "text": "http://www.plextek.co.uk/",
+        "iso2": "GB",
+        "lat": 52.06246179999999,
+        "lon": 0.1911454
+      }
     },
     {
       "name": "Portman Security Systems (USA) Ltd.",
-      "country": "http://www.portmansecurity.com/"
+      "address": {
+        "text": "http://www.portmansecurity.com/",
+        "iso2": "US",
+        "lat": 42.6668522,
+        "lon": -71.1164988
+      }
     },
     {
       "name": "Proengin",
-      "country": "http://www.proengin.com/"
+      "address": {
+        "text": "http://www.proengin.com/",
+        "iso2": "FR",
+        "lat": 48.7961381,
+        "lon": 2.0564847
+      }
     },
     {
       "name": "Pyser-SGI (Asia) Pte Ltd",
-      "country": "http://www.pyser-sgi.com/"
+      "address": {
+        "text": "http://www.pyser-sgi.com/",
+        "iso2": "GB",
+        "lat": 51.206805,
+        "lon": 0.06347599999999999
+      }
     },
     {
       "name": "RAE Systems ( Hong Kong ) Limited",
@@ -422,11 +551,19 @@
     },
     {
       "name": "Remploy Frontline",
-      "country": "http://www.remployfrontline.co.uk/"
+      "country": {
+        "text": "http://www.remployfrontline.co.uk/",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Research Electronics  International",
-      "country": "http://www.researchelectronics.com/"
+      "address": {
+        "text": "http://www.researchelectronics.com/",
+        "iso2": "CA",
+        "lat": 43.5049967,
+        "lon": -80.53051839999999
+      }
     },
     {
       "name": "Revision Eyewear",
@@ -478,7 +615,10 @@
     },
     {
       "name": "Singapore Visitors Centre",
-      "country": "http://www.visitsingapore.com/"
+      "country": {
+        "text": "http://www.visitsingapore.com/",
+        "iso2": "SG"
+      }
     },
     {
       "name": "S K Fire Pte Ltd",
@@ -494,7 +634,12 @@
     },
     {
       "name": "SS8 Networks",
-      "country": "http://www.ss8.com/"
+      "address": {
+        "text": "http://www.ss8.com/",
+        "iso2": "CA",
+        "lat": 43.6388773,
+        "lon": -79.84128559999999
+      }
     },
     {
       "name": "Stratsec.net Pty Ltd",
@@ -550,7 +695,12 @@
     },
     {
       "name": "TMI Technologies Pte Ltd",
-      "country": "http://www.tmitechnologies.com/"
+      "address": {
+        "text": "http://www.tmitechnologies.com/",
+        "iso2": "SG",
+        "lat": 1.3167224,
+        "lon": 103.9024561
+      }
     },
     {
       "name": "Toshiba Corporation - Display Devices & Components Control Centre",
@@ -574,7 +724,10 @@
     },
     {
       "name": "UKTI",
-      "country": "https://www.uktradeinvest.gov.uk/"
+      "country": {
+        "text": "https://www.uktradeinvest.gov.uk/",
+        "iso2": "GB"
+      }
     },
     {
       "name": "University of Hawaii/Pacific Disaster Center",
@@ -618,7 +771,12 @@
     },
     {
       "name": "World Security Index",
-      "country": "http://www.worldsecurity-index.com/"
+      "address": {
+        "text": "http://www.worldsecurity-index.com/",
+        "iso2": "AE",
+        "lat": 24.966013,
+        "lon": 55.0782611
+      }
     },
     {
       "name": "X-pect Software",

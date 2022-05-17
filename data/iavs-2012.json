@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2012",
   "startDate": "2012-02-20",
   "endDate": "2012-02-23",
-  "address": "FIVE\nFarnborough\nUK",
+  "address": {
+    "text": "FIVE\nFarnborough\nUK",
+    "iso2": "GB",
+    "lat": 51.2753235,
+    "lon": -0.7665162999999999
+  },
   "website": [
     "http://www.internationalarmouredvehicles.com",
     "http://internationalarmouredvehicles.wordpress.com"

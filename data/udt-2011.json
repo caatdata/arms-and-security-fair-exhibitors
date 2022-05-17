@@ -8,8 +8,13 @@
   "edition": "2011",
   "startDate": "2011-06-07",
   "endDate": "2011-06-09",
-  "address": "ExCeL\nLondon\nUnited Kingdom",
-  "website": "http://www.udt-europe.com/",
+  "address": {
+    "text": "ExCeL\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
+  "website": "http://www.udt-europe.com",
   "organiser": [
     {
       "name": "Clarion Events",

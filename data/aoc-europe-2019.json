@@ -9,7 +9,12 @@
   ],
   "startDate": "2019-06-05",
   "endDate": "2019-06-07",
-  "address": "Stockhomsmässan\nSweden",
+  "address": {
+    "text": "Stockhomsmässan\nSweden",
+    "iso2": "SE",
+    "lat": 59.2773581,
+    "lon": 18.0152906
+  },
   "website": "https://www.eweurope.com/welcome",
   "organiser": {
     "name": "Clarion Defence & Security"

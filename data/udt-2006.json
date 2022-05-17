@@ -8,7 +8,12 @@
   "edition": "2006",
   "startDate": "2006-06-27",
   "endDate": "2006-06-29",
-  "address": "CCH – Congress Centrum Hamburg\nHamburg\nGermany",
+  "address": {
+    "text": "CCH – Congress Centrum Hamburg\nHamburg\nGermany",
+    "iso2": "DE",
+    "lat": 53.5623012,
+    "lon": 9.9856614
+  },
   "website": "http://www.udt-europe.com/exhibition/",
   "organiser": [
     {

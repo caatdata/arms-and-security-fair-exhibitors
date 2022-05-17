@@ -4,8 +4,13 @@
   "edition": "2021",
   "startDate": "2021-11-03",
   "endDate": "2021-11-05",
-  "address": "IFEMA Madrid Fair, Pavilion 8 & 10, Madrid, Spain",
-  "website": "http://feindef.com/",
+  "address": {
+    "text": "IFEMA Madrid Fair, Pavilion 8 & 10, Madrid, Spain",
+    "iso2": "ES",
+    "lat": 40.4678224,
+    "lon": -3.617241099999999
+  },
+  "website": "http://feindef.com",
   "social": [
     {
       "platform": "twitter",

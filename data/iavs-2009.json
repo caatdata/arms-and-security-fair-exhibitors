@@ -8,7 +8,12 @@
   ],
   "startDate": "2009-02-02",
   "endDate": "2009-02-06",
-  "address": "Queen Elizabeth II Conference Centre\nLondon\nUK",
+  "address": {
+    "text": "Queen Elizabeth II Conference Centre\nLondon\nUK",
+    "iso2": "GB",
+    "lat": 51.5005006,
+    "lon": -0.1290725
+  },
   "website": "http://www.site-members.com/LAV/index.php",
   "organiser": [
     {
@@ -25,42 +30,42 @@
   "exhibitor": [
     {
       "name": "01db-Metravib",
-      "website": "http://www.01db-metravib.com/"
+      "website": "http://www.01db-metravib.com"
     },
     {
       "name": "AML UL",
-      "website": "http://www.amluk.com/"
+      "website": "http://www.amluk.com"
     },
     {
       "name": "Allen Vanguard",
-      "website": "http://www.allenvanguard.com/"
+      "website": "http://www.allenvanguard.com"
     },
     {
       "name": "Autoflug",
-      "website": "http://www.autoflug.com/"
+      "website": "http://www.autoflug.com"
     },
     {
       "name": "BAE Systems",
-      "website": "http://www.baesystems.com/"
+      "website": "http://www.baesystems.com"
     },
     {
       "name": "Barco",
-      "website": "http://www.barco.com/"
+      "website": "http://www.barco.com"
     },
     {
       "name": "Benteler",
-      "website": "http://www.benteler.com/"
+      "website": "http://www.benteler.com"
     },
     {
       "name": "Beth El LAVS"
     },
     {
       "name": "CST",
-      "website": "http://www.copst.com/"
+      "website": "http://www.copst.com"
     },
     {
       "name": "Elbit Systems",
-      "website": "http://www.elbitsystems.com/"
+      "website": "http://www.elbitsystems.com"
     },
     {
       "name": "Flir",
@@ -68,11 +73,11 @@
     },
     {
       "name": "General Dynamics",
-      "website": "http://www.generaldynamics.uk.com/"
+      "website": "http://www.generaldynamics.uk.com"
     },
     {
       "name": "IBD - Diesenroth Engineering",
-      "website": "http://www.ibd-deisenroth-engineering.de/"
+      "website": "http://www.ibd-deisenroth-engineering.de"
     },
     {
       "name": "Iveco",
@@ -80,19 +85,19 @@
     },
     {
       "name": "Jankel",
-      "website": "http://www.jankel.com/"
+      "website": "http://www.jankel.com"
     },
     {
       "name": "Konsberg",
-      "website": "http://www.kongsberg.com/"
+      "website": "http://www.kongsberg.com"
     },
     {
       "name": "Lockheed Martin",
-      "website": "http://www.lockheedmartin.com/"
+      "website": "http://www.lockheedmartin.com"
     },
     {
       "name": "MKU",
-      "website": "http://www.mku.com/"
+      "website": "http://www.mku.com"
     },
     {
       "name": "Oto Melara",
@@ -100,47 +105,47 @@
     },
     {
       "name": "Patria",
-      "website": "http://www.patria.fi/"
+      "website": "http://www.patria.fi"
     },
     {
       "name": "Plasan",
-      "website": "http://www.plasansasa.com/"
+      "website": "http://www.plasansasa.com"
     },
     {
       "name": "RUAG",
-      "website": "http://www.ruag.com/"
+      "website": "http://www.ruag.com"
     },
     {
       "name": "Raytheon Systems Limited",
-      "website": "http://www.raytheon.co.uk/"
+      "website": "http://www.raytheon.co.uk"
     },
     {
       "name": "ST Kinetics",
-      "website": "http://www.stengg.com/"
+      "website": "http://www.stengg.com"
     },
     {
       "name": "Saab",
-      "website": "http://www.saabgroup.com/"
+      "website": "http://www.saabgroup.com"
     },
     {
       "name": "Synectics",
-      "website": "http://www.synx.com/"
+      "website": "http://www.synx.com"
     },
     {
       "name": "TNO",
-      "website": "http://www.tno.nlm/"
+      "website": "http://www.tno.nlm"
     },
     {
       "name": "Tencate Advanced Armour",
-      "website": "http://www.tencate.com/"
+      "website": "http://www.tencate.com"
     },
     {
       "name": "Timoney Mobile Systems",
-      "website": "http://www.timoneygroup.com/"
+      "website": "http://www.timoneygroup.com"
     },
     {
       "name": "Warn",
-      "website": "http://www.warn.com/"
+      "website": "http://www.warn.com"
     }
   ]
 }

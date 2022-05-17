@@ -4,7 +4,12 @@
   "edition": "2009",
   "startDate": "2009-11-15",
   "endDate": "2009-11-19",
-  "address": "Airport Expo, Dubai",
+  "address": {
+    "text": "Airport Expo, Dubai",
+    "iso2": "AE",
+    "lat": 25.2369202,
+    "lon": 55.3808967
+  },
   "website": "https://www.dubaiairshow.aero",
   "organiser": [
     {
@@ -31,459 +36,801 @@
   "exhibitor": [
     {
       "name": "AAR CORP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AAXICO",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ABC",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ABU DHABI AIRCRAFT TECHNOLOGIES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ABU DHABI AIRPORTS COMPANY - ADAC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ABU DHABI AVIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ACADEMY OF TECHNICAL TRAINING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ACB",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACE INGENIERIE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACTION AVIATION",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AC-U-KWIK INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ADAMS RITE AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ADASI",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ADCOM GROUP",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ADNOC DISTRIBUTION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ADPI",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ADTS 2010",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ADVANCED ELECTRONICS COMPANY (AEC)",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "AEM LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AERION CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AERO KOOL CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AERO PRECISION INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AERO TOY STORE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AEROCONSEIL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AEROLUX LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROMEDIC INNOVATIONS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROPIA",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROSPACE AUSTRALIA LTD",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "Aerospace Design & Certification Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROSPACE INDUSTRIES ASSOCIATION OF AMERICA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AEROSPACE INTERNATIONAL",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROSPACE PRODUCTS INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AEROSTAR LTD.",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "AEROSTAR S.A",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "AEROTEST LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AEROTEST LLC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AGILITY DEFENSE & GOVERNMENT SERVICES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AGSE CORP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AGUSTAWESTLAND",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AgustaWestland, Italy",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AHS CONSULTANCY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIM AVIATION (HENSHALLS) LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIME 2010",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AIN CONVENTION NEWS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIR AMBULANCE TECHNOLOGY GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AIR ARABIA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AIR BP - MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AIR CHARTER GUIDE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIR COST CONTROL MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AIR DATA LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIR FRANCE INDUSTRIES / KLM E & M",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIR LIVERY PLC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIR MARK",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "AIR TECHNOLOGY INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Air Transport World",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRBIZ CONSULTANTS FZC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Airborne Technologies GmbH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AIRBUS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Airbus Freighter Conversion GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AIRCELLE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Aircraft Component Repair, Inc",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRCRAFT CONVERSIONS BV",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "AIRCRAFT MANUFACTURING FACTORY",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "AIRDATA INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRFREIGHT AVIATION LIMITED",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AIRLINE BUSINESS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIS - AEROSPACE INTERNATIONAL SERVICES",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AIS GERMANY",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AIS MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AJA PRIVATE JETS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AJWAA ALALAM HOLDING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AKZO NOBEL AEROSPACE COATINGS",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "AL DEFAIYA",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "AL JUNDI JOURNAL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AL MAJALIS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AL RAHA GROUP FOR TECHNICAL SERVICES (RGTS)",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "ALCOA FASTENING SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALENIA AERMACCHI",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ALENIA AERONAUTICA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ALKAN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALLIANCE GROUND POWER",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ALL-SYSTEM AEROSPACE INTL INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALMULLA JEWELLERY CO LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ALSALAM AIRCRAFT CO",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "ALTITUDES ARABIA/LUXMEDIA ME",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ALTITUDES EUROPE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ALTITUDES MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ALTITUDES RUSSIA",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "AMERON GLOBAL PRODUCT SUPPORT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMETEK MRO EUROPE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AMH AVIATION (DIAMOND AIRCRAFT DISTRIBUTOR)",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "AMIS (FZE)",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AMSAFE BRIDPORT",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ANTAVIA",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ANTONOV ASTC",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "ARAB DEFENCE JOURNAL",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ARAB WINGS",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "ARABASCO",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "ARABIAN AEROSPACE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ARABIAN KNIGHT",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "ARGE OFFSET",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ARGOS VIP PRIVATE HANDLING",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ARIANE INFORMATION",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "ASE GROUP",
-      "country": "Egypt"
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
     },
     {
       "name": "ASSCOM AERONAUTICS SUPPORT SERVICES GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ASTRIUM",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ASTRONICS DME CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ATLANTIC INERTIAL SYSTEMS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ATR",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUSTRIAN FEDERAL ECONOMIC CHAMBER",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AUVSI - ASSOC. FOR UNMANNED VEHICLE SYSTEMS INTL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AV CARD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AVBORNE ACCESSORY GROUP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVECO LIMITED",
@@ -491,2171 +838,3797 @@
     },
     {
       "name": "AVENTURE AVIATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIALL INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATION & AVIATOR",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVIATION GUIDE - EMERGING MARKETS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVIATION INTERNATIONAL NEWS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATION LEASE BROKERS GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "AVIATION RISK MANAGERS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVIATION SERVICES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVIATION SERVICES MANAGEMENT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVIATION TECHNOLOGICAL ACADEMY (ATA)",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "AVIATION WEEK",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATOR / TRANSAERO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVICORP MIDDLE EAST (AME)",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVIO-DIEPEN B.V.",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "AVISA-GULF",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVJET ROUTING SUDAN",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "AVTRAC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AYLA AVIATION ACADEMY",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "AZAIRTECHSERVICE CO",
-      "country": "Azerbaijan"
+      "country": {
+        "text": "Azerbaijan",
+        "iso2": "AZ"
+      }
     },
     {
       "name": "B/E AEROSPACE INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "B+S AIRCRAFT PARTS & ACCESSORIES",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BAE SYSTEMS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BAE SYSTEMS (OPERATIONS) LTD.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BARDAWIL AVIATION CO S.A.L.",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "BASE OPS INTERNATIONAL INC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BCT GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "BDLI e.V. German Aerospace Industries Assoiciation",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Beldam Crossley Limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BELGIAN AEROSPACE/A. DERICUM PGMBH",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "BELGRAVER BV",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "BELL HELICOPTER TEXTRON",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BERGAMO ITALY",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BLENHEIM CAPITAL PARTNERS LTD.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BOEING COMPANY (THE)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BOMBARDIER AEROSPACE",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "BREEZE-EASTERN",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BRITTEN-NORMAN",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BRUCE AEROPSACE INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "B-TECH Eng Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BUREAU VERITAS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BUSINESS & COMMERCIAL AVIATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BUSINESS AIR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BUSINESS AIR INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BUSINESS JET TRAVELER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BYTZSOFT TECHNOLOGIES",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "CAE",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CANADA PAVILION",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CANADIAN AIR FORCE",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Celeste Industries Limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CERT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "CESSNA AIRCRAFT COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CFM INTERNATIONAL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHABOK AVIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "CHEMRING COUNTERMEASURES LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CHEMRING GROUP",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CHEVRON",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "CHINA NATIONAL AERO TECHNOLOGY IMPORT & EXPORT COR",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CIT Group Ltd.",
-      "country": "Belarus"
+      "country": {
+        "text": "Belarus",
+        "iso2": "BY"
+      }
     },
     {
       "name": "CMC ELECTRONICS INC.",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "CMR LTDA",
-      "country": "Columbia"
+      "country": {
+        "text": "Columbia",
+        "iso2": "CO"
+      }
     },
     {
       "name": "COBHAM PLC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Combined Composite Technologies Ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COMPOSITE INDUSTRIE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CRANE AEROSPACE & ELECTRONICS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CTT SYSTEMS AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "D. MARCHIORI",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "DAC INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DAE AIRPORTS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAE CAPITAL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAE ENGINEERING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAE FLIGHT ACADEMY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAE MANUFACTURING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAE SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAHRA LOGISTICS & MARKETING L.L.C.",
-      "country": "Oman"
+      "country": {
+        "text": "Oman",
+        "iso2": "OM"
+      }
     },
     {
       "name": "DANA EXECUTIVE JETS LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DAR AL-HANDASAH",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DASSAULT AVIATION",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DB SCHENKER",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DEDIENNE AERO",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFENCE & SECURITY",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DEFENCE MATERIEL ORGANISATION",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DEFENSE CONSEIL INTERNATIONAL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DEFENSE NEWS MEDIA GROUP",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEFENSE TECHNOLOGY INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DESTINATION AIR ARABIA",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIAMOND AIRCRAFT INDUSTRIES",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "DIEHL AEROSPACE GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIEHL BGT DEFENCE GMBH & CO. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIEHL DEFENCE HOLDING GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIEHL RAYTHEON MISSILE SYSTEME GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DNATA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DRAKEAIR INC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DRIESSEN AEROSPACE GROUP",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DSE, INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DUBAI AEROSPACE ENTERPRISE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DUBAI AIRPORT FREEZONE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DUBAI AIRPORTS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DUBAI AIRSHOW 2009",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DUBAI AIRSHOW 2011",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DUBAI DUTY FREE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DUNLOP EQUIPMENT",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DWC - AVIATION CITY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "DYNCORP INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "E.I.S AIRCRAFT GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EAD Aerospace",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EADS",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "EADS Astrium",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EADS Defence and Security",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EADS EFW (Elbe Flugzeugwerke GmbH)",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EAGLE TUGS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EAGLES AVIATION MANAGEMENT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EASTERN AERO MARINE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EASTERN SKYJETS FZCO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EDUARD WILLE GMBH & CO KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EGYPTAIR",
-      "country": "Egypt"
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
     },
     {
       "name": "EGYPTAIR MAINTENANCE & TECHNICAL",
-      "country": "Egypt"
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
     },
     {
       "name": "EGYPTAIR TRAINING CENTER",
-      "country": "Egypt"
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
     },
     {
       "name": "ELETTRONICA SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ELITE JETS FZCO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ELT GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ELTA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELTBAT LLC",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "EMBRAER",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EMBRY RIDDLE AERONAUTICAL UNIVERSITY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EMIRATES AIRLINE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES AVIATION COLLEGE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES AVIATION SERVICES LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES AVIATION SUPPLY CENTRE (EASC)",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES ENGINEERING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES INSTITUTION ADVANCED SCIENCE & TECHNOLOGY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES OFFICIAL STORE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMIRATES SKY CARGO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMOJET",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMPIRE AVIATION GROUP",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EMS SATCOM",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "ENGINE ALLIANCE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ENOC (EMIRATES NATIONAL OIL COMPANY LTD)",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ENTERPRISE FLORIDA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EPIC AVIATION INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ETIHAD AIRWAYS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ETPS - QINETIQ LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "EURAVIA ENGINEERING & SUPPLY CO. LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "EUREP INDUSTRIES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EURO AVIONICS NAVIGATIONSSYSTERNE GMBH & CO KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EUROCOPTER",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROFIGHTER",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EUROPE AVIATION",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROPE AVIATION FUJAIRAH",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EXCEL INDUSTRIAL CO. LTD.",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EXECUJET MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "EXECUTIVE FLIGHT CENTER",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "F&E AEROSPACE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "F-6 REBUILD FACTORY",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "FAC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FARNBOROUGH INTERNATIONAL 2010",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FAST RENT A CAR",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FEDEX EXPRESS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FIA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FIGHTER GIFTS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FINMECCANICA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FINMECCANICA SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FLEET CANADA INC.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "FLIGHT",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FLIGHT DAILY NEWS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FLIGHTSAFETY INTERNATIONAL",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FLIR SYSTEMS LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FLY AVIA JSC",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "FLY AVIATION SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "FLYING-CAM SA",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "FLYWELL POWER UK LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FOKKER AEROTRON",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "FOKKER AIRINC",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "FOKKER SERVICES B.V.",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "FOOD AND FEEL CATERING DELUXE",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FORTIS WATCHES LTD",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "FRANCE 24",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FRASCA INTERNATIONAL INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FRIENDLY SKIES LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FTO HOLDINGS",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "FUJAIRAH INTERNATIONAL AIRPORT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GAINJET AVIATION S.A.",
-      "country": "Greece"
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      }
     },
     {
       "name": "GAZPROMBANK",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "GE AVIATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GECI",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GEMS WORLD JEWELLRY & WATCHES",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "GENERAL ATOMICS AERONAUTICAL SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GENERAL CIVIL AVIATION AUTHORITY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GERBER TECHNOLOGY USA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GERMAN PAVILION/MESSE BERLIN GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GIFAS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOBAL AEROSPACE LOGISTICS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GLOBAL JET",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GMF AERO ASIA",
-      "country": "Indonesia"
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
     },
     {
       "name": "GMT GUMMI-METAL-TECNIK GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GOODRICH",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GORE DESIGN COMPLETIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GRANITIZE AVIATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GROB AEROSPACE",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "GSE MAINTENANCE ITEMS & KITS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GULFJET LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "GULFSTREAM",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "G�NZBURGER STEIGTECHNIK GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HAAS MENA",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HAAS TCM",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HADID INTERNATIONAL AVIATION SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Hale Hamilton (Valves) Limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HAMILTON SUNDSTRAND",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HANGAIR LOGISTICS, INC.",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Hangxin Technology Group",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "HAPPY DESIGN STUDIO",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "HAWKER BEECHCRAFT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HAWKER PACIFIC AIRSERVICES LTD",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "HAWKER PACIFIC AVIONICS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "HAWKER PACIFIC HYDRAULICS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "HEARTLAND COMMUNICATIONS GROUP LTD.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HEICO AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HELISOTA LTD",
-      "country": "Lithuania"
+      "country": {
+        "text": "Lithuania",
+        "iso2": "LT"
+      }
     },
     {
       "name": "HELLENIC AEROSPACE INDUSTRY",
-      "country": "Greece"
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      }
     },
     {
       "name": "HIGHER COLLEGES OF TECHNOLOGY / CERT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "HONEYWELL AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Horizon International Flight Academy",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "HPH",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "HPH AVECO",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "HUBEI HUDIEQIAN PLASTIC PRODUCTS CO.LTD",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "HYDRO SYSTEMS KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HYPERCOAT AVIATION SUPPLIES FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "IACOBUCCI HF ELECTRONICS SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "IAL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "IDEX 2011",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "IHS JANES INFORMATION GROUP",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ILYUSHIN FINANCE CO.",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "IMS FLIGHT DECK",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INEGMA - INSTITUTE FOR NEAR EAST & GULF MILITARY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "INTERNATIONAL AERO ENGINES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INTERNATIONAL AEROSPACE",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "INTERNATIONAL DEFENCE REVIEW",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "INTERTURBINE AVIO DIEPEN SERVICES FZE",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "INTERTURBINE GROUP OF COMPANIES",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "INTERTURBINE TECHNOLOGIES GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "INTERTURBINE TRANSPORT SERVICE GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ITP BUSINESS PUBLISHING",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ITP GROUP,INDUSTRIA DE TURBO PROPULSORES,SA",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "JADWALEAN - VITROCISET G. LTD.",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "JAFZA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "JANES DEFENCE INDUSTRY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JANES DEFENCE WEEKLY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JANES INFORMATION GROUP",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JBT AEROTECH",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JDS INTERNATIONAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JET AVIATION MANAGEMENT AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "JET INNOVATIONS DAFZ",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Jet Professionals",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "JET SUPPORT SERVICES INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Jetaire Aerospace & Technology",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JETEX FLIGHT SUPPORT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "JMV AVIATION",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "JORDAN AERONAUTICAL SYSTEMS COMPANY (JAC)",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JORDAN AEROSPACE INDUSTRIES",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JORDAN AIRCRAFT MAINTENANCE LTD (JORAMCO)",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JORDAN AIRLINE TRAINING & SIMULATION (JATS)",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JORDAN AIRMOTIVE",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JP JETS JORDANIAN PRIVATE JETS SERVICES",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "JUNKERS",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "KAHR BEARING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KALLMAN WORLDWIDE INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KAMRA AVIONICS & RADAR FACTORY",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "KARL STORZ ENDOSKOPE GMBH & CO",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "KBR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KEARSLEY AIRWAYS LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "KELLSTROM INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KILGORE FLARES COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KITCO INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KOREA AEROSPACE INDUSTRIES",
-      "country": "Korea"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KSA KUGELSTRAHLZENTRUM AACHEN GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "L&G Technology Services",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "L3 COMMUNICATIONS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LACROIX DEFENCE & SECURITY",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LAVERSAB INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LEKI AVIATION PTE. LTD.",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "LEKTRO, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LLC RPC \"\"OPTOLINK\"\"",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "LOCKHEED MARTIN CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LUFTHANSA TECHNIK AG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Lufthansa Technik Budapest",
-      "country": "Hungary"
+      "country": {
+        "text": "Hungary",
+        "iso2": "HU"
+      }
     },
     {
       "name": "Lufthansa Technik Switzerland",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "LUPA AIRCRAFT MODELS",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "LUXMEDIA MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MAE AIRCRAFT MANAGEMENT WLL",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MAE JET CHARTER CO WLL",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MAE Jet Charters Co. WLL",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Magnolia Plastics, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MAIRION AVIATION CORP.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MAJESTIC EXECUTIVE AVIATION & LUXURY TRAVEL LLC.",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Majestic Executive Aviation AG",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "MANKIEWICZ GEBR AND CO",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MARION AIRCRAFT INTERIORS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MARTIN BAKER AIRCRAFT COMPANY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MASONLITE SIGN SUPPLIES & EQUIPMENT",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MAXIMUS AIR CARGO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MB AEROSPACE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MBDA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MEBA 2010",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MEBAA - MIDDLE EAST BUSINESS AVIATION ASSOCIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MECHTRONIX SYSTEMS, INC",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "MEDIA ONE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MEDIA PRIMA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MEGADOOR",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MEGGITT",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MENA Aerospace Group",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "MENA TRADING & AGENCIES",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "MESSIER SERVICES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MICUS /SAS TECH",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Micus AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "MIDDLE EAST PROPULSION COMPANY - MEPC",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "MIDEX",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MIDEX AIRLINES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MIDEX INTERNATIONAL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MIG RUSSIAN AIRCRAFT CORPORATION",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MILITARY TRANSPORT AIRCRAFT",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "MILLENIUM SYSTEMS INTERNATIONAL LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MINILINER-CARGO AIRLINES",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "MINISTRY OF INTERIOR",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MIRAGE REBUILD FACTORY",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "MNG Jet",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MONCH PUBLISHING GROUP",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MOSCOW DESIGN BUREAU \"\"COMPAS\"\" OJSC",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MOTOR SICH",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "MRO 2010",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MRO Middle East",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MSI GMBH & CO. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MTU AERO ENGINES",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MTU MAINTENANCE BERLIN-BRANDENBURG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MUBADALA DEVELOPMENT COMPANY",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MUIRHEAD AVIONICS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MUTHAHIDA AIRWAYS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "MY TECHNIC",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "NATION SHIELD",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "NAVAERO AB",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NCIM GROUP",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NETHERLANDS AEROSPACE GROUP",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "NETJETS MIDDLE EAST",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "NEWPORT AERONAUTICAL SALES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORDIC GROUND SERVICE EQUIPMENT AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "NORDISK AVIATION",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NORTH AMERICAN SURVEILLANCE SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTHROP GRUMMAN CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTHROP GRUMMAN ITALIA S.P.A",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "NOVAE TECHNOLOGY",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "OFFSET PROGRAM BUREAU",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "OGMA",
-      "country": "Portugal"
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      }
     },
     {
       "name": "OLYMPUS CORPORATION",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "OLYMPUS INDUSTRIAL",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "OMRAN LEATHER INDUSTRIES",
-      "country": "Iran"
+      "country": {
+        "text": "Iran",
+        "iso2": "IR"
+      }
     },
     {
       "name": "OVERHAUL & MAINTENANCE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PAKISTAN AERONAUTICAL COMPLEX",
-      "country": "Pakistan"
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      }
     },
     {
       "name": "PALM AVIATION FZCO",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PAN AMERICAN TOOL CORP.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PARIS AIRSHOW 2011/ SIAE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PARKER AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PARTS AND REPAIR TECHNICAL SERVICES, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PARTSBASE INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PATRIA HELICOPTERS",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "PERLA AVIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PERLA GROUP INTERNATIONAL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PERMAGARD FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PETERS ENGINEERING SOLUTIONS GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "PGA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PILATUS AIRCRAFT LTD",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "PolyStone Creations",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "POWERVAMP LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PPG AEROSPACE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PRATT & WHITNEY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PRATT & WHITNEY CANADA",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "PRESIDENTIAL AIRWAYS, INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PRESTIGE JET RENTAL LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PRIME AEROSPACE MID EAST FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "PRIME AEROSPACE PTE LTD.",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PRIORITY AERO MAINTENANCE (SE) AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "PRIVATAIR",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "PROVINCIAL AEROSPACE LTD.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "QATAR AIRWAYS",
-      "country": "Qatar"
+      "country": {
+        "text": "Qatar",
+        "iso2": "QA"
+      }
     },
     {
       "name": "Queen Noor Civil Aviation Technical College",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "RAFALE INTERNATIONAL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RASHED ABDUL RAHMAN AL RASHED & SONS - GOODYEAR",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "RAYAJET",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "RAYTHEON COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RBI HAWKER LTD",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "RECON KEYTRONIC GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "REGIONE CAMPANIA-CAMPANIA AEROSPACE",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RISDE (FSUE)",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RJAF",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "ROCKWELL COLLINS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROGERSON KRATOS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROLLS-ROYCE PLC",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "RO-RA PRODUCKTIONS",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ROSOBORONEXPORT - FEDERAL STATE UNITARY ENTERPRISE",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ROYAL AERONAUTICAL SOCIETY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROYAL JET",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "RUAG AEROSPACE",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "RUDOLF WULFMEYER AIRCRAFT INTERIOR GMBH & CO KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RUSSIAN HELICOPTERS JSC",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RUSSIAN TECHNOLOGIES STATE CORPORATION",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "S.A.B.C.A.",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "S3 INTERNATIONAL, LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SA MENA AVIONICS WLL",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "SAAB AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SABENA TECHNICS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFI AIRWAYS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SAFRAN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAFT",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAGEM",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SALUT FSUE\"\" MMPP\"\"",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SAMP",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SARGENT AIRTOMIC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SARGENT AVBORNE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SARGENT CANADA",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SARGENT CONTROLS & AEROSPACE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SAS Tech AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Satair A/S",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "SATCOM1",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "SATCOM1 SARL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SE IVCHENKO PROGRESS",
-      "country": "Ukraine"
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
     },
     {
       "name": "SEAL DYNAMICS UK",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SEGERS AVIATION SA",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SELEX COMMUNICATIONS",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "SELEX GALILEO",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SENNHEISER ELECTRONIC GMBH & CO. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SERCK AVIATION",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SERCO MIDDLE EAST",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SHANTOU REALJET MODEL & GIFT FACTORY",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SHARAVAN AERO TECHNOLOGIES PVT LTD",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "SHELL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SHOWCASE CANADA C/O EAS",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SHOWNEWS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SI ATM",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Si ATM AB",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "SICMA AERO SEAT",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SIKORSKY AEROSPACE SERVICES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIKORSKY AIRCRAFT CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SILENTIUM AIR",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SILVER AIR",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SITTIG INDUSTRIE-ELEKTRONIK",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SKA AIR & LOGISTICS FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SKOL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SKY AVIATION SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SKYPLAN FZC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SKYPLAN SERVICES LTD.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SKYWARDS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SKYWIN WALLONIE",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "SNAP ON TOOLS INTERNATIONAL",
-      "country": "Greece"
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      }
     },
     {
       "name": "SNECMA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SOFAB TRUST MIDDLE EAST",
-      "country": "Saudi Arabia"
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      }
     },
     {
       "name": "SOGITEC",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SONIC INDUSTRIES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SONIC JET FZC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SOUTHERN AEROPARTS INC.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SPACE IMAGING MIDDLE EAST LLC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "SpeedNews",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SPIDERTRACKS LTD",
-      "country": "New Zealand"
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "SPOT AIR",
-      "country": "Egypt"
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
     },
     {
       "name": "STAR AVIATION GROUP",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "STAR ENGINEERING",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "STAR NAVIGATION SYSTEMS GROUP LTD.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "STATE OF GEORGIA",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "STRATOS 07",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "SUKHOI AVIATION HOLDING COMPANY",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SUKHOI CIVIL AIRCRAFT COMPANY",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SUN TEST SYSTEMS",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "SUNAERO",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SWEDISH AVIATION GROUP",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "TAG AERONAUTICS LTD.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "TAG Aircraft Interiors Ltd.",
-      "country": "Luxembourg"
+      "country": {
+        "text": "Luxembourg",
+        "iso2": "LU"
+      }
     },
     {
       "name": "TAM (TBILAVIAMSHENI )",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TAP MAINTENANCE & ENGINEERING",
-      "country": "Portugal"
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      }
     },
     {
       "name": "TASC AVIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TDH VISIONS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TECHNICAL SOLUTIONS INTL",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TECHNO SKY",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "TECHSPACE AERO SA",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "Telex - Bosch Communications Systems",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TEST-FUCHS",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "TEXTRON SYSTEMS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THALES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "THALES ALENIA SPACE",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "THE COOL TOOL GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "THE IMS COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THERMAL PRINTERS",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "THRANE & THRANE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TIMKEN",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TITAN AVIATION",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TL ELEKTRONIC",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TRANSAERO INC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Transupport, Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRANSWORLD AVIATION FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TRAVCON",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "TREVIRA GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "TRIPLE S AVIATION LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRIUMPH THERMAL SYSTEMS INC.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TTL TOOLROOM TECHNOLOGY LTD.",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TURBOMECA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TURKISH ENGINE CENTER",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TURKISH TECHNIC INC.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "UKTI DSO",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "UNITED AVIATION SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "UNITED NATIONS WORLD FOOD PROGRAMME",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "UNITED TECHNOLOGIES CORPORATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Unitron Power Systems",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNIVERSAL AVIONICS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNIVERSAL JET AVIATION",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US COMMERCIAL SERVICE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "US DEPARTMENT OF COMMERCE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US DEPARTMENT OF DEFENSE",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "US DEPARTMENT OF DEFENSE, AIRCRAFT & EQUIPMENT",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VALLIERE AVIATION GROUP",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "VAUTH & SOHN GMBH & CO. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "VCSIMS",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "VECTOR AEROSPACE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "VEM MAINTENANCE & ENGINEERING",
-      "country": "Portugal"
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      }
     },
     {
       "name": "VERTICAL DE AVIACION LTDA",
-      "country": "Columbia"
+      "country": {
+        "text": "Columbia",
+        "iso2": "CO"
+      }
     },
     {
       "name": "VIKING AIR LIMITED",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Virtual-human resources",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "VISTAJET LUFTFAHRTUNTERNEHMEN GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "VITROCISET S.P.A",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "VOLGA DNEPR GULF (UAE) FZC",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "VSI (VISION SYSTEMS INTERNATIONAL,LLC)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VULCANAIR S.P.A.",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "WALLONIE AEROTRAINING NETWORK",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "WAVES JET",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "W-BACCS",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "WEBER AIRCRAFT LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "WHITTAKER CONTROLS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "WINSLOW LIFERAFT COMPANY",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "WORLD AIRCRAFT SALES MAGAZINE",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WORLD AIRLINE SERVICES",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "WORLD FUEL SERVICES",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WUNDERWERK DIGITALE MEDIEN PRODUKTION GMBH",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "WWW.AVBUYER.COM",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "YONDER ME",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "ZACHER GMBH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ZIP-CHEM PRODUCTS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ZODIAC SEATS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     }
   ]
 }

@@ -3,7 +3,12 @@
   "series": "Seoul ADEX",
   "edition": "2007",
   "alias": "6th Seoul International Aerospace & Defense Exhibition 2007",
-  "address": "Seoul Airport\nSouth Korea",
+  "address": {
+    "text": "Seoul Airport\nSouth Korea",
+    "iso2": "KR",
+    "lat": 37.4601908,
+    "lon": 126.4406957
+  },
   "startDate": "2007-10-16",
   "endDate": "2007-10-21",
   "website": "http://www.seouladex.com/eng/about/history.php"

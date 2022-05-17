@@ -5,7 +5,12 @@
   "alias": "Land, Naval & Internal Security Systems Exhibition",
   "startDate": "2012-03-29",
   "endDate": "2012-04-01",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
   "website": "http://defexpoindia.in",
   "organiser": [
     {

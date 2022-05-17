@@ -14,7 +14,12 @@
   ],
   "startDate": "2019-01-30",
   "endDate": "2019-01-31",
-  "address": "Marina Bay Sands\n10 Bayfront Avenue\nSingapore 018956",
+  "address": {
+    "text": "Marina Bay Sands\n10 Bayfront Avenue\nSingapore 018956",
+    "iso2": "SG",
+    "lat": 1.2846547,
+    "lon": 103.8609937
+  },
   "website": "https://www.asia-decs.com",
   "social": [
     {

@@ -8,7 +8,12 @@
   ],
   "startDate": "2011-09-06",
   "endDate": "2011-09-08",
-  "address": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
+  "address": {
+    "text": "Gallagher Convention Centre\n19 Richards Drive\nMidrand\nJohannesburg\nSouth Africa",
+    "iso2": "ZA",
+    "lat": -26.0016667,
+    "lon": 28.1297222
+  },
   "website": "http://www.ifsecsa.com/EN/Content/Pages/HOME",
   "organiser": [
     {
@@ -79,7 +84,7 @@
     },
     {
       "name": "C3 Shared Services",
-      "website": "http://www.c3ss.co.za/"
+      "website": "http://www.c3ss.co.za"
     },
     {
       "name": "Esquire",

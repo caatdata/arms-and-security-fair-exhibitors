@@ -5,8 +5,13 @@
   "alias": "10th International Event for Homeland Security and Civil Defence",
   "startDate": "2014-10-20",
   "endDate": "2014-11-22",
-  "address": "Doha Exhibition Center\nQatar",
-  "website": "http://www.milipolqatar.com/",
+  "address": {
+    "text": "Doha Exhibition Center\nQatar",
+    "iso2": "QA",
+    "lat": 25.323225,
+    "lon": 51.53000249999999
+  },
+  "website": "http://www.milipolqatar.com",
   "social": [
     {
       "platform": "linkedin",

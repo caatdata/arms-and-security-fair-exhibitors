@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2019",
   "startDate": "2019-01-21",
   "endDate": "2019-01-24",
-  "address": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": "https://www.internationalarmouredvehicles.com",
   "social": [
     {
@@ -46,11 +51,11 @@
     },
     {
       "name": "General Dynamics Land Systems",
-      "website": "http://gdls.com/"
+      "website": "http://gdls.com"
     },
     {
       "name": "Oshkosh Defense",
-      "website": "https://oshkoshdefense.com/"
+      "website": "https://oshkoshdefense.com"
     },
     {
       "name": "Nexter",
@@ -58,11 +63,11 @@
     },
     {
       "name": "ST Engineering",
-      "website": "https://www.stengg.com/"
+      "website": "https://www.stengg.com"
     },
     {
       "name": "Rheinmetall Defence",
-      "website": "http://www.rheinmetall-defence.com/"
+      "website": "http://www.rheinmetall-defence.com"
     },
     {
       "name": "BAE Systems",
@@ -78,7 +83,7 @@
     },
     {
       "name": "IBD Deisenroth Engineering",
-      "website": "http://www.ibd-deisenroth-engineering.de/"
+      "website": "http://www.ibd-deisenroth-engineering.de"
     },
     {
       "name": "Safran",
@@ -110,7 +115,7 @@
     },
     {
       "name": "Revision Military",
-      "website": "https://www.revisionmilitary.com/"
+      "website": "https://www.revisionmilitary.com"
     },
     {
       "name": "Soucy Defense",
@@ -134,11 +139,11 @@
     },
     {
       "name": "American Panel Corporation",
-      "website": "http://american-panel.com/"
+      "website": "http://american-panel.com"
     },
     {
       "name": "ARTEC GmbH",
-      "website": "http://artec-boxer.com/"
+      "website": "http://artec-boxer.com"
     },
     {
       "name": "EnerSys",
@@ -150,15 +155,15 @@
     },
     {
       "name": "InnaLabs",
-      "website": "http://www.innalabs.com/"
+      "website": "http://www.innalabs.com"
     },
     {
       "name": "Metravib",
-      "website": "https://www.metravib-defence.com/"
+      "website": "https://www.metravib-defence.com"
     },
     {
       "name": "Palomar Display Products, Inc.",
-      "website": "http://www.palomardisplays.com/"
+      "website": "http://www.palomardisplays.com"
     },
     {
       "name": "Ultra Electronics Precision Control Systems",
@@ -191,7 +196,7 @@
     },
     {
       "name": "Bren Tronics",
-      "website": "https://www.bren-tronics.com/"
+      "website": "https://www.bren-tronics.com"
     },
     {
       "name": "Caterpillar Defence Products",
@@ -199,11 +204,11 @@
     },
     {
       "name": "Epsilor",
-      "website": "https://www.epsilor.com/"
+      "website": "https://www.epsilor.com"
     },
     {
       "name": "FN Herstal",
-      "website": "http://www.fnherstal.com/"
+      "website": "http://www.fnherstal.com"
     },
     {
       "name": "ITT Corporation",
@@ -215,15 +220,15 @@
     },
     {
       "name": "Michelin Tires",
-      "website": "http://www.michelin.ie/"
+      "website": "http://www.michelin.ie"
     },
     {
       "name": "Pearson Engineering",
-      "website": "http://www.pearson-eng.com/"
+      "website": "http://www.pearson-eng.com"
     },
     {
       "name": "Proengin",
-      "website": "http://www.proengin.com/"
+      "website": "http://www.proengin.com"
     },
     {
       "name": "QinetiQ",
@@ -231,7 +236,7 @@
     },
     {
       "name": "Radnor",
-      "website": "http://radnor.org.uk/"
+      "website": "http://radnor.org.uk"
     },
     {
       "name": "TenCate Advanced Armour",
@@ -246,23 +251,23 @@
     },
     {
       "name": "Plasan",
-      "website": "https://www.plasan.com/"
+      "website": "https://www.plasan.com"
     },
     {
       "name": "Saab",
-      "website": "http://saab.com/"
+      "website": "http://saab.com"
     },
     {
       "name": "Scepter Canada",
-      "website": "http://mil.sceptermilitary.com/"
+      "website": "http://mil.sceptermilitary.com"
     },
     {
       "name": "Curtiss-Wright",
-      "website": "https://www.curtisswrightds.com/"
+      "website": "https://www.curtisswrightds.com"
     },
     {
       "name": "Beth-El Zikhron Yaaqov Industries Ltd.",
-      "website": "http://www.beind.com/"
+      "website": "http://www.beind.com"
     },
     {
       "name": "CTA International",

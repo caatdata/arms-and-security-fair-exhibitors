@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2015",
   "startDate": "2015-02-20",
   "endDate": "2015-02-23",
-  "address": "Twickenham Stadium\nLondon\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": [
     "http://www.internationalarmouredvehicles.com",
     "http://internationalarmouredvehicles.wordpress.com"
@@ -42,47 +47,47 @@
     },
     {
       "name": "AxleTech International",
-      "website": "http://www.axletech.com/"
+      "website": "http://www.axletech.com"
     },
     {
       "name": "BAE Systems",
-      "website": "http://www.baesystems.com/"
+      "website": "http://www.baesystems.com"
     },
     {
       "name": "Bren-Tronics",
-      "website": "http://www.bren-tronics.com/"
+      "website": "http://www.bren-tronics.com"
     },
     {
       "name": "CMI",
-      "website": "http://www.cmigroupe.com/"
+      "website": "http://www.cmigroupe.com"
     },
     {
       "name": "Cinch",
-      "website": "http://www.cinch.com/"
+      "website": "http://www.cinch.com"
     },
     {
       "name": "Climetal",
-      "website": "http://www.climetal.com/"
+      "website": "http://www.climetal.com"
     },
     {
       "name": "DRS Technologies",
-      "website": "http://www.drs.com/"
+      "website": "http://www.drs.com"
     },
     {
       "name": "DSM Dyneema",
-      "website": "http://www.dyneema.com/"
+      "website": "http://www.dyneema.com"
     },
     {
       "name": "FN Herstal",
-      "website": "http://www.fnherstal.com/"
+      "website": "http://www.fnherstal.com"
     },
     {
       "name": "Global Seating Systems LLC",
-      "website": "http://www.globalseating.com/"
+      "website": "http://www.globalseating.com"
     },
     {
       "name": "Hitek Electronic Materials",
-      "website": "http://www.hitek-ltd.co.uk/"
+      "website": "http://www.hitek-ltd.co.uk"
     },
     {
       "name": "ITT Corporation",
@@ -90,23 +95,23 @@
     },
     {
       "name": "Iveco Defence Vehicles",
-      "website": "http://www.iveco.com/"
+      "website": "http://www.iveco.com"
     },
     {
       "name": "KALLER",
-      "website": "http://www.kaller.com/"
+      "website": "http://www.kaller.com"
     },
     {
       "name": "Kent Periscopes",
-      "website": "http://www.kentperiscopes.co.uk/"
+      "website": "http://www.kentperiscopes.co.uk"
     },
     {
       "name": "Microflown Avisa",
-      "website": "http://www.microflown-avisa.com/"
+      "website": "http://www.microflown-avisa.com"
     },
     {
       "name": "Milspray Military Technologies",
-      "website": "http://www.milspray.com/"
+      "website": "http://www.milspray.com"
     },
     {
       "name": "Nexter Systems",
@@ -114,11 +119,11 @@
     },
     {
       "name": "PPG",
-      "website": "http://www.ppg.com/"
+      "website": "http://www.ppg.com"
     },
     {
       "name": "Plasan",
-      "website": "http://www.plasan.com/"
+      "website": "http://www.plasan.com"
     },
     {
       "name": "Proengin",
@@ -126,35 +131,35 @@
     },
     {
       "name": "QinetiQ Ltd",
-      "website": "http://www.qinetiq.com/"
+      "website": "http://www.qinetiq.com"
     },
     {
       "name": "Raytheon EAGLE",
-      "website": "http://www.raytheoneagle.com/"
+      "website": "http://www.raytheoneagle.com"
     },
     {
       "name": "Ruag AG",
-      "website": "http://www.ruag.com/"
+      "website": "http://www.ruag.com"
     },
     {
       "name": "Saab Barracuda",
-      "website": "http://www.saabgroup.com/"
+      "website": "http://www.saabgroup.com"
     },
     {
       "name": "Soucy",
-      "website": "http://www.soucy-group.com/"
+      "website": "http://www.soucy-group.com"
     },
     {
       "name": "SpanSet",
-      "website": "http://www.spanset.co.uk/"
+      "website": "http://www.spanset.co.uk"
     },
     {
       "name": "Streit Group FZE",
-      "website": "http://www.armored-cars.com/"
+      "website": "http://www.armored-cars.com"
     },
     {
       "name": "Textron",
-      "website": "http://www.textronmarineandland.com/"
+      "website": "http://www.textronmarineandland.com"
     },
     {
       "name": "Timoney Technology",
@@ -166,7 +171,7 @@
     },
     {
       "name": "Tyron",
-      "website": "http://www.tyron.com/"
+      "website": "http://www.tyron.com"
     },
     {
       "name": "Ultra Electronics",

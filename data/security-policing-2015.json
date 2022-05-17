@@ -4,7 +4,12 @@
   "edition": "2015",
   "startDate": "2015-03-10",
   "endDate": "2015-03-12",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.securityandpolicing.co.uk",
   "organiser": [
     {

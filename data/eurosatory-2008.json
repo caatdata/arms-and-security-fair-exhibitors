@@ -4,7 +4,12 @@
   "edition": "2008",
   "startDate": "2008-06-16",
   "endDate": "2008-06-20",
-  "address": "Viparis Nord Villepinte Exhibition Center\nParis\nFrance",
+  "address": {
+    "text": "Viparis Nord Villepinte Exhibition Center\nParis\nFrance",
+    "iso2": "FR",
+    "lat": 48.972348,
+    "lon": 2.516543
+  },
   "website": "http://www.eurosatory.com",
   "organiser": [
     {

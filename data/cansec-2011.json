@@ -4,7 +4,12 @@
   "edition": "2011",
   "startDate": "2011-06-01",
   "endDate": "2011-06-02",
-  "address": "Lansdowne Park\nOttawa\nCanada",
+  "address": {
+    "text": "Lansdowne Park\nOttawa\nCanada",
+    "iso2": "CA",
+    "lat": 45.3994667,
+    "lon": -75.68113129999999
+  },
   "website": "https://www.defenceandsecurity.ca/index.php?action=cansec2011.exhibitors",
   "organiser": [
     {

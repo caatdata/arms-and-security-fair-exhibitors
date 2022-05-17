@@ -4,8 +4,13 @@
   "edition": "2014",
   "startDate": "2014-05-22",
   "endDate": "2014-05-23",
-  "address": "WOW Istanbul Convention Centre\nIstanbul\nTurkey",
-  "website": "http://www.ifsec-istanbul.com/",
+  "address": {
+    "text": "WOW Istanbul Convention Centre\nIstanbul\nTurkey",
+    "iso2": "TR",
+    "lat": 40.9887145,
+    "lon": 28.83009759999999
+  },
+  "website": "http://www.ifsec-istanbul.com",
   "organiser": [
     {
       "name": "UBM",

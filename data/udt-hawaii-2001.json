@@ -7,7 +7,12 @@
   "edition": "2001",
   "startDate": "2001-10-30",
   "endDate": "2001-11-01",
-  "address": "Hilton Hawaiian Village\n2005 Kalia Road\nHonolulu\nHawaii\nUnited States of America",
+  "address": {
+    "text": "Hilton Hawaiian Village\n2005 Kalia Road\nHonolulu\nHawaii\nUnited States of America",
+    "iso2": "US",
+    "lat": 21.282395,
+    "lon": -157.837535
+  },
   "organiser": [
     {
       "name": "Nexus Media Ltd"

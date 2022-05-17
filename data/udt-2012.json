@@ -8,8 +8,13 @@
   "edition": "2012",
   "startDate": "2012-05-29",
   "endDate": "2012-05-31",
-  "address": "IFA exhibition center\nAlicante\nSpain",
-  "website": "http://www.udt-global.com/",
+  "address": {
+    "text": "IFA exhibition center\nAlicante\nSpain",
+    "iso2": "ES",
+    "lat": 38.3452046,
+    "lon": -0.486221
+  },
+  "website": "http://www.udt-global.com",
   "organiser": [
     {
       "name": "Clarion Events Ltd"

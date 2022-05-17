@@ -4,7 +4,12 @@
   "edition": "1999",
   "startDate": "1999-11-23",
   "endDate": "1999-11-26",
-  "address": "Paris-Le Bourget Exhibition Centre\nParis\nFrance.",
+  "address": {
+    "text": "Paris-Le Bourget Exhibition Centre\nParis\nFrance.",
+    "iso2": "FR",
+    "lat": 48.9441442,
+    "lon": 2.4300174
+  },
   "website": "http://www.milipol.com/anglais/paris/paris99/paris.html",
   "organiser": [
     {
@@ -17,67 +22,115 @@
   "exhibitor": [
     {
       "name": "A2CM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "A7 PROTECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AAP",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AB3S",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACC LA JONCHERE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACCURACY INTERNATIONAL",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ACIAL",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ACTIV CARD",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ADAMS ELECTRONICS",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ADHERSIS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AERO PELTOR (ex EAR Cabot Safety)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AFS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGILENT TECHNOLOGIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGLO",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGORA TEC",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AGS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIMPOINT",
@@ -89,7 +142,10 @@
     },
     {
       "name": "AKAH FRANCE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALIARMO SISTEMOS\"",
@@ -97,23 +153,38 @@
     },
     {
       "name": "ALLEN P.W",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ALLIED SIGNAL",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALPHA MEDIA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALSETEX SAE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ALTAMA FOOTWEAR",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMBASSADE DU CANADA",
@@ -121,35 +192,59 @@
     },
     {
       "name": "ANPE (dans le domaine de la sécurité)",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ANTENOR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ANTHENA",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "APDS",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AQSACOM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARES PROTECTION",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARMES EQUIPEMENT DEFENSE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARMOR HOLDINGS",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARMS MORAVIA LTD",
@@ -157,39 +252,66 @@
     },
     {
       "name": "ARPEGE DEFENSE",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ARSENAL",
-      "country": "BUL"
+      "country": {
+        "text": "BUL",
+        "iso2": "BG"
+      }
     },
     {
       "name": "AS & E",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ASSMANN TELECOM",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATELIS TECHNOLOGIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATET",
-      "country": "ITA"
+      "country": {
+        "text": "ITA",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ATHANOR - SIVT",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATI ASSMANN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUDI AG",
-      "country": "GER"
+      "country": {
+        "text": "GER",
+        "iso2": "DE"
+      }
     },
     {
       "name": "AURATEK/I4S",
@@ -197,19 +319,31 @@
     },
     {
       "name": "AUTOBAR",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AUTOMOBILES CITROEN",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AVIATION SECURITY INTERNATIONAL",
-      "country": "UK"
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AXIOME TECHNOLOGIES",
-      "country": "FRA"
+      "country": {
+        "text": "FRA",
+        "iso2": "FR"
+      }
     }
   ]
 }

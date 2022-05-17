@@ -8,7 +8,12 @@
   "edition": "2001",
   "startDate": "2001-04-24",
   "endDate": "2001-04-27",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
   "website": "http://www.laadexpo.com/lad2001.php",
   "organiser": [
     {

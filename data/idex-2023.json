@@ -5,8 +5,13 @@
   "alias": "International Defence Exhibition and Conference",
   "startDate": "2023-02-20",
   "endDate": "2023-02-24",
-  "address": "Abu Dhabi National Exhibition Centre (ADNEC)\nAbu Dhabi\nUnited Arab Emirates",
-  "website": "https://www.idexuae.ae/",
+  "address": {
+    "text": "Abu Dhabi National Exhibition Centre (ADNEC)\nAbu Dhabi\nUnited Arab Emirates",
+    "iso2": "AE",
+    "lat": 24.419814,
+    "lon": 54.437269
+  },
+  "website": "https://www.idexuae.ae",
   "social": [
     {
       "platform": "twitter",

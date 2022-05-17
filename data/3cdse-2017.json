@@ -9,7 +9,12 @@
   ],
   "startDate": "2017-02-01",
   "endDate": "2017-02-01",
-  "address": "Courtyard Theatre\nHereford",
+  "address": {
+    "text": "Courtyard Theatre\nHereford",
+    "iso2": "GB",
+    "lat": 52.0610466,
+    "lon": -2.7187624
+  },
   "website": "http://www.hdse.co.uk",
   "organiser": [
     {

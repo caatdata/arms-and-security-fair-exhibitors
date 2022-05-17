@@ -9,8 +9,13 @@
   ],
   "startDate": "2015-03-03",
   "endDate": "2015-03-05",
-  "address": "Suntec Singapore Convention & Exhibition Centre",
-  "website": "http://www.globalsecasia.com/",
+  "address": {
+    "text": "Suntec Singapore Convention & Exhibition Centre",
+    "iso2": "SG",
+    "lat": 1.2936739,
+    "lon": 103.8572447
+  },
+  "website": "http://www.globalsecasia.com",
   "social": [
     {
       "platform": "facebook",
@@ -35,15 +40,24 @@
   "exhibitor": [
     {
       "name": "3i-MIND TECHNOLOGIES GmbH",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "AAEON TECHNOLOGY SINGAPORE PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ABT FOAM LLC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ACUSTEK LIMITED",
@@ -51,727 +65,1270 @@
     },
     {
       "name": "ADANI",
-      "country": "Belarus"
+      "country": {
+        "text": "Belarus",
+        "iso2": "BY"
+      }
     },
     {
       "name": "ADLERTECH SYSTEMS PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ADVANCED DETECTION TECHNOLOGY",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AERO INNOVATIONS LIMITED",
-      "country": "Philippines"
+      "country": {
+        "text": "Philippines",
+        "iso2": "PH"
+      }
     },
     {
       "name": "AGILEMESH INC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ALCOHOL COUNTERMEASURE SYSTEMS CORP",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "ALTRUS PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "AMETEK - ORTEC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMMERTEX",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "AMPED SRL",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ANALYTICAL TECHNOLOGIES PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ANSELL PROTECTIVE SOLUTIONS SINGAPORE PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "APM GLOBAL PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ASIA INFRARED SYSTEMS",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ASIAN DEFENCE AND SECURITY 2016 (ADAS 2016)",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ASIAN DEFENCE JOURNAL (ADJ)",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ASIAN MILITARY REVIEW (AMR)",
-      "country": "Thailand"
+      "country": {
+        "text": "Thailand",
+        "iso2": "TH"
+      }
     },
     {
       "name": "ASIS INTERNATIONAL SINGAPORE CHAPTER",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ASSOCIATION OF AEROSPACE INDUSTRIES (SINGAPORE)",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ATG ACCESS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AUTOCLEAR",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "AVEC CHEM ASIA PACIFIC PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "AVIGILON",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "AVON PROTECTION SYSTEMS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "B&W TEK, INC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BEA S.r.l",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "BERTIN TECHNOLOGIES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "BIOFIRE DEFENSE",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "BLUE SKY PACIFIC PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "BTT LTD",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "CBRNE WORLD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CCPIT-ECC",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "CELLEBRITE",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "CHIPOTLE PUBLISHING, LLC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "CLARESYS LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COBHAM COMMUNICATIONS & CONNECTIVITY",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COFREXPORT",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "COLT'S MANUFACTURING COMPANY LLC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "COMMESH",
-      "country": "Lithuania"
+      "country": {
+        "text": "Lithuania",
+        "iso2": "LT"
+      }
     },
     {
       "name": "COMPOSITE TECHNICAL SYSTEMS SPA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CONDOR NON-LETHAL TECHNOLOGIES",
-      "country": "Brazil"
+      "country": {
+        "text": "Brazil",
+        "iso2": "BR"
+      }
     },
     {
       "name": "CORNERSTONE TECHNICA PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "COVIDENCE",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     },
     {
       "name": "CQC LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CRISTANINI",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "CT-VIDEO GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DALLMEIER INTERNATIONAL (SINGAPORE) PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "DASCO STORAGE SOLUTIONS",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "DEFENSE TECHNOLOGY",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "D-RON SINGAPORE PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "DVTEL, INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "EA MSC SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ECA GROUP",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ECONOMIC DEVELOPMENT PARTNERSHIP OF NORTH CAROLINA",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "ELS DEFENSE EQUIPMENT PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ENVIRONICS OY",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "EREZ PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ESKAN ELECTRONICS LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ESRI",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "EXPLORER CASES BY GT LINE",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FinFisher GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FISHER LAB",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLIR SYSTEMS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FORTEM",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "FOUNDATION FUTURISTIC TECHNOLOGIES",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "FRASER OPTICS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FUTURE FIBRE TECHNOLOGIES PTY LTD",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "G & A AMERICA LLC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "GAMMA GROUP",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GEOTECH",
-      "country": "Russian Federation"
+      "country": {
+        "text": "Russian Federation",
+        "iso2": "RU"
+      }
     },
     {
       "name": "GK PROFESSIONAL",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOCK ASIA - PACIFIC",
-      "country": "Hong Kong"
+      "country": {
+        "text": "Hong Kong",
+        "iso2": "HK"
+      }
     },
     {
       "name": "GOLDFISH BOAT A/S",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "H.HENRIKSEN AS",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "HAZTEC INTERNATIONAL LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HEALD LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HT SRL",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ICM S.A.",
-      "country": "Belgium"
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      }
     },
     {
       "name": "IMAGE SCAN PLC-3DX-RAY LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IMPERIUM GLOBAL PARTNERS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "INTELLIGENT DEVICES INC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "iOMNISCIENT",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "IP-TRIBE",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "iROBOT CORPORATION",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "JAPAN CELL CO.,LTD.",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     },
     {
       "name": "KÄRCHER FUTURETECH GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KJ TECH",
-      "country": "Korea, Republic of"
+      "country": {
+        "text": "Korea, Republic of",
+        "iso2": "KR"
+      }
     },
     {
       "name": "KOMMLABS PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "KUMAHIRA CO., LTD.",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     },
     {
       "name": "LAI YEW SENG PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "LASER SHOT INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LEMO ASIA PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "LIND ELECTRONICS",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOCKHEED MARTIN",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOSBERGER RAPID DEPLOYMENT SYSTEMS",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MARVID INTERNATIONAL PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "MB TELECOM LTD",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "MFF-OPS",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "MILIPOL ASIA-PACIFIC INCORPORATING GLOBAL SECURITY ASIA 2017",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "MILIPOL NETWORK",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MIRION TECHNOLOGIES (MGPI) SA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MOBILARIS AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "MUSTANG SURVIVAL",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "NCTECH LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NEOSOFT AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "NET LINK LTD",
-      "country": "Korea, Republic of"
+      "country": {
+        "text": "Korea, Republic of",
+        "iso2": "KR"
+      }
     },
     {
       "name": "NETLINE COMMUNICATIONS TECHNOLOGIES (NCT) LTD.",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "NEWCON OPTIK",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "NORINCO EQUIPMENT",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "OBSERVANT-INNOVATIONS",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "OMNI INTEGER PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "OMNISENSE SYSTEMS PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "OVATION SYSTEMS LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PACIFIC-TEC SCIENTIFIC PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PASSPORT SYSTEMS INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "PATH AR, LLC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "PELICAN PRODUCTS INC.",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "PENTA-KOHDEN MARKETING PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PHONAK COMMUNICATIONS AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "PHOTONIS ASIA PACIFIC PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PRO4TECH LTD.",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PROENGIN",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROTECH TACTICAL",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "PROTECOP",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROVIDENCE AUSTRALASIA PTY LTD",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "PYSER-SGI (ASIA) PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "QNX SOFTWARE SYSTEM LIMITED",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "RAFAEL",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RESEARCH ELECTRONICS INTERNATIONAL (REI)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "RIGAKU RAMAN TECHNOLOGIES",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "RING POWER CORPORATION",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "RINI TECHNOLOGIES",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SAAB ASIA PACIFIC",
-      "country": "Australia"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "SAFE GUARDING LAW ENFORCEMENT",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SCANNA MSC LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SCOTT SAFETY C/O TEPG PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SECURICO CO., LTD.",
-      "country": "Japan"
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      }
     },
     {
       "name": "SECURITY SOLUTIONS TODAY (SST)",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SECURITY TECHNOLOGIES CLUSTER ASSOCIATION",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "SENSTAR CORPORATION",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SEVEN TECHNOLOGIES GROUP LIMITED",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SHENZHEN TANGREAT TECHNOLOGY CO.,LTD.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SHEPHARD MEDIA",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SIG SAUER",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "SILVERBACK INDUSTRIES PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SIM SECURE INFORMATION MANAGEMENT GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SIMULATION SOFTWARE & TECHNOLOGIES (S2T) PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "sInfraRed PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SINGAPORE AEROSPACE & AVIATION SERVICES PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "SMALL ARMS DEFENSE JOURNAL (SADJ)",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "STALKER RADAR",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "STEINER",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "STERIS SINGAPORE PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "STRATIGN FZE",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "TACTICAL COMMAND INDUSTRIES INC.",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "TAC-UP BV",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "TAR IDEAL CONCEPT",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "TECHKINETICS PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "TEIJIN ARAMID ASIA CO., LTD.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "THE COUNTER TERRORIST MAGAZINE, AP EDITION",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "THE SAFARILAND GROUP",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "THERMO FISHER SCIENTIFIC PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "THERMOTEKNIX SYSTEMS LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TJ SYSTEMS (S) PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "TORREY PINES LOGIC, INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "TRIJICON INC",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "TT INNOVATION AND TECHNOLOGY PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ULGEN INDUSTRIAL SYSTEMS CO. LTD.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ULLMAN DYNAMICS",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ULMER AERONAUTIQUE",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "UTIMACO TS GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "VERINT SYSTEMS",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "VIDISCO LTD.",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "VITROCISET",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "VUWALL",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "W.H BRENNAN & CO PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "WAGTAIL UK LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WELLCROWN INTERNATIONAL RESOURCES LIMITED",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "WINKELMANN LTD",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WIRELESS MARKETING PTE LTD",
-      "country": "Singapore"
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
     },
     {
       "name": "WIREONAIR A/S",
-      "country": "Denmark"
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      }
     }
   ]
 }

@@ -4,7 +4,12 @@
   "edition": "2006",
   "startDate": "2006-04-05",
   "endDate": "2006-04-06",
-  "address": "Ottawa Congress Centre\nOttawa\nCanada",
+  "address": {
+    "text": "Ottawa Congress Centre\nOttawa\nCanada",
+    "iso2": "CA",
+    "lat": 45.424197,
+    "lon": -75.691773
+  },
   "website": "https://www.defenceandsecurity.ca",
   "organiser": [
     {

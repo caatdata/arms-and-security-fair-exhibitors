@@ -5,7 +5,12 @@
   "edition": "2019",
   "startDate": "2019-05-29",
   "endDate": "2019-05-31",
-  "address": "Brno Exhibition Centre\nVystaviště 1, Brno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nVystaviště 1, Brno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "https://www.bvv.cz/en/idet/",
   "organiser": [
     {
@@ -36,868 +41,1738 @@
   "exhibitor": [
     {
       "name": "Advenica GmbH",
-      "address": "Tuchlauben 7A\n1010, Wien\nAustria",
+      "address": {
+        "text": "Tuchlauben 7A\n1010, Wien\nAustria",
+        "iso2": "AT",
+        "lat": 48.210375,
+        "lon": 16.3694621
+      },
       "telephone": "+43-12530025270"
     },
     {
       "name": "AERO Vodochody AEROSPACE a.s.",
-      "address": "U Letiště 374\n250 70, Odolena Voda\nCzech Republic",
+      "address": {
+        "text": "U Letiště 374\n250 70, Odolena Voda\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.22045500000001,
+        "lon": 14.4074204
+      },
       "telephone": "+420-255762542"
     },
     {
       "name": "AGADOS, spol. s r.o.",
-      "address": "Průmyslová 2081\n594 01, Velké Meziříčí\nCzech Republic",
+      "address": {
+        "text": "Průmyslová 2081\n594 01, Velké Meziříčí\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.3423131,
+        "lon": 16.0367106
+      },
       "telephone": "+420-566653311"
     },
     {
       "name": "AKERMANN ELECTRONIC PRAHA, spol. s r.o.",
-      "address": "Moskevská 949/86\n100 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Moskevská 949/86\n100 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0648239,
+        "lon": 14.4616076
+      },
       "telephone": "+420-283023170"
     },
     {
       "name": "ALES, s.r.o.",
-      "address": "Na hřebenech II 1718/10\n140 00, Praha 4 - Nusle\nCzech Republic",
+      "address": {
+        "text": "Na hřebenech II 1718/10\n140 00, Praha 4 - Nusle\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0520301,
+        "lon": 14.4312811
+      },
       "telephone": "+420-222271111 +420-724731650"
     },
     {
       "name": "ALFAVARIA Group s.r.o.",
-      "address": "Pobřežní 28\n463 31, Chrastava\nCzech Republic",
+      "address": {
+        "text": "Pobřežní 28\n463 31, Chrastava\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.816031,
+        "lon": 14.9539253
+      },
       "telephone": "+420-485100303"
     },
     {
       "name": "Aliter Technologies, a.s.",
-      "address": "Turčianska 16\n821 09, Bratislava\nSlovakia",
+      "address": {
+        "text": "Turčianska 16\n821 09, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.1475651,
+        "lon": 17.1375088
+      },
       "telephone": "+421-255646350"
     },
     {
       "name": "ARGE Sicherheit und Wirtschaft",
-      "address": "Wiedner Hauptstrasse 63\n1045, Wien\nAustria",
+      "address": {
+        "text": "Wiedner Hauptstrasse 63\n1045, Wien\nAustria",
+        "iso2": "AT",
+        "lat": 48.1904146,
+        "lon": 16.3668897
+      },
       "telephone": "+43-5909003455"
     },
     {
       "name": "ARGUN s.r.o.",
-      "address": "Jana Krušinky 1693/4\n500 02, Hradec Králové\nCzech Republic",
+      "address": {
+        "text": "Jana Krušinky 1693/4\n500 02, Hradec Králové\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.2201782,
+        "lon": 15.816345
+      },
       "telephone": "+420-495532555 +420-734806251"
     },
     {
       "name": "Army Recognition Group SPRL",
-      "address": "Rue des Bourlottes 5\n1367, Ramillies\nBelgium",
+      "address": {
+        "text": "Rue des Bourlottes 5\n1367, Ramillies\nBelgium",
+        "iso2": "BE",
+        "lat": 50.6304217,
+        "lon": 4.8649853
+      },
       "telephone": "+32-474791601"
     },
     {
       "name": "ARQUUS",
-      "address": "15 bis Allée des Marronniers\n78000, Versailles\nFrance",
+      "address": {
+        "text": "15 bis Allée des Marronniers\n78000, Versailles\nFrance",
+        "iso2": "FR",
+        "lat": 48.78492199999999,
+        "lon": 2.097765
+      },
       "telephone": "+420-777131308"
     },
     {
       "name": "Asociace obranného a bezpečnostního průmyslu ČR",
-      "address": "Washingtonova 25\n110 00, Praha 1\nCzech Republic",
+      "address": {
+        "text": "Washingtonova 25\n110 00, Praha 1\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0825417,
+        "lon": 14.432012
+      },
       "telephone": "+420-224235320"
     },
     {
       "name": "Atos IT Solutions and Services, s. r. o.",
-      "address": "Doudlebská 1699/5\n140 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Doudlebská 1699/5\n140 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.05163959999999,
+        "lon": 14.4427935
+      },
       "telephone": "+420-773591220"
     },
     {
       "name": "ATS-TELCOM PRAHA, a.s.",
-      "address": "Nad elektrárnou 1526/45\n106 00, Praha 10 - Michle\nCzech Republic",
+      "address": {
+        "text": "Nad elektrárnou 1526/45\n106 00, Praha 10 - Michle\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0597065,
+        "lon": 14.4824284
+      },
       "telephone": "+420-283003111"
     },
     {
       "name": "AURA, s.r.o.",
-      "address": "Úvoz 499/56\n602 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Úvoz 499/56\n602 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.196821,
+        "lon": 16.5944487
+      },
       "telephone": "+420-544508111"
     },
     {
       "name": "Aviation Technologies Holdings s. r. o.",
-      "address": "Beranových 65\n199 00, Praha 9\nCzech Republic",
+      "address": {
+        "text": "Beranových 65\n199 00, Praha 9\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1349175,
+        "lon": 14.5142908
+      },
       "telephone": "+420-226208004"
     },
     {
       "name": "Axon' Cable",
-      "address": "Külső-Szegedi út 104.\n6000, Kecskemét\nHungary",
+      "address": {
+        "text": "Külső-Szegedi út 104.\n6000, Kecskemét\nHungary",
+        "iso2": "HU",
+        "lat": 46.8795969,
+        "lon": 19.7110995
+      },
       "telephone": "+36-76508195"
     },
     {
       "name": "B.O.I.S. - FILTRY, spol. s r.o.",
-      "address": "Staňkova 103/18\n602 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Staňkova 103/18\n602 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.21220599999999,
+        "lon": 16.603741
+      },
       "telephone": "+420-516410560"
     },
     {
       "name": "BAE SYSTEMS",
-      "address": "náměstí Před bateriemi 18\n162 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "náměstí Před bateriemi 18\n162 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0913596,
+        "lon": 14.3734307
+      },
       "telephone": "+420-220511778"
     },
     {
       "name": "BBI int., a.s.",
-      "address": "Röntgenova 28\n851 01, Bratislava\nSlovakia",
+      "address": {
+        "text": "Röntgenova 28\n851 01, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.1232967,
+        "lon": 17.0995866
+      },
       "telephone": "+421-903178629"
     },
     {
       "name": "BDSV Exhibitions",
-      "address": "Friedrichstrasse 60\n10117, Berlin\nGermany",
+      "address": {
+        "text": "Friedrichstrasse 60\n10117, Berlin\nGermany",
+        "iso2": "DE",
+        "lat": 52.5105977,
+        "lon": 13.3901443
+      },
       "telephone": "+49-3020618990"
     },
     {
       "name": "BEATRONIC SUPPLY s.r.o.",
-      "address": "Výstaviště 1\n648 37, Brno\nCzech Republic",
+      "address": {
+        "text": "Výstaviště 1\n648 37, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1860653,
+        "lon": 16.5752497
+      },
       "telephone": "+420-541235516"
     },
     {
       "name": "Beth-El Zikhron Ya'akov Industries Ltd.",
-      "address": "Avshalom Road 1, P.O. Box 166\n30951, Zikhron Yaagov\nIsrael",
+      "address": {
+        "text": "Avshalom Road 1, P.O. Box 166\n30951, Zikhron Yaagov\nIsrael",
+        "iso2": "IL",
+        "lat": 32.573905,
+        "lon": 34.951977
+      },
       "telephone": "+972-46299999 +972-46299904"
     },
     {
       "name": "BIRD Aerosystems",
-      "address": "10 Hasadnaot Street\nPO BOX 4038\n4614001, Herzliya\nIsrael",
+      "address": {
+        "text": "10 Hasadnaot Street\nPO BOX 4038\n4614001, Herzliya\nIsrael",
+        "iso2": "IL",
+        "lat": 32.1609354,
+        "lon": 34.8063115
+      },
       "telephone": "+972-99725700 +972-549992611"
     },
     {
       "name": "Birdon Group Pty Ltd",
-      "address": "4 Glen Ewan Rd\nPO BOX 739\n2446, Sancrox\nAustralia",
+      "address": {
+        "text": "4 Glen Ewan Rd\nPO BOX 739\n2446, Sancrox\nAustralia",
+        "iso2": "AU",
+        "lat": -31.4117518,
+        "lon": 152.8217975
+      },
       "telephone": "+61-265899100"
     },
     {
       "name": "Bo Gwang Textile Co., Ltd.",
-      "address": "24, Gukchaebosang-ro 20-gil, Seo-gu\n41841, Daegu\nSouth Korea",
+      "address": {
+        "text": "24, Gukchaebosang-ro 20-gil, Seo-gu\n41841, Daegu\nSouth Korea",
+        "iso2": "KR",
+        "lat": 35.86653400000001,
+        "lon": 128.5405042
+      },
       "telephone": "+82-1035365052"
     },
     {
       "name": "Centrum české historie, o. p. s.",
-      "address": "Banskobystrická 11\n160 00, Praha\nCzech Republic",
+      "address": {
+        "text": "Banskobystrická 11\n160 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1000267,
+        "lon": 14.3916502
+      },
       "telephone": "+420-603548872"
     },
     {
       "name": "CLUTEX - klastr technické textilie",
-      "address": "1. máje 97/25\n460 01, Liberec\nCzech Republic",
+      "address": {
+        "text": "1. máje 97/25\n460 01, Liberec\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.7645065,
+        "lon": 15.0512469
+      },
       "telephone": "+420-485228371"
     },
     {
       "name": "CSG AEROSPACE, a.s.",
-      "address": "Pod Hájkem 406/1a\n180 00, Praha\nCzech Republic",
+      "address": {
+        "text": "Pod Hájkem 406/1a\n180 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1060353,
+        "lon": 14.4790115
+      },
       "telephone": "+420-734283140"
     },
     {
       "name": "CTA INTERNATIONAL",
-      "address": "7 route de Guerry – CS 90328\n18023, Bourges Cedex\nFrance",
+      "address": {
+        "text": "7 route de Guerry – CS 90328\n18023, Bourges Cedex\nFrance",
+        "iso2": "FR",
+        "lat": 47.0720019,
+        "lon": 2.4251515
+      },
       "telephone": "+33-248219405"
     },
     {
       "name": "Česká letecká servisní a. s.",
-      "address": "Mladoboleslavská 1081 - Letiště Kbely\n197 21, Praha 9 - Kbely\nCzech Republic",
+      "address": {
+        "text": "Mladoboleslavská 1081 - Letiště Kbely\n197 21, Praha 9 - Kbely\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.12803419999999,
+        "lon": 14.5409438
+      },
       "telephone": "+420-734689129"
     },
     {
       "name": "Česká zbrojovka a.s.",
-      "address": "Svatopluka Čecha 1283\n688 01, Uherský Brod\nCzech Republic",
+      "address": {
+        "text": "Svatopluka Čecha 1283\n688 01, Uherský Brod\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.0259559,
+        "lon": 17.6340333
+      },
       "telephone": "+420-572651111"
     },
     {
       "name": "České vysoké učení technické v Praze",
-      "address": "Jugoslávských partyzánů 1580/3\n160 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Jugoslávských partyzánů 1580/3\n160 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1041971,
+        "lon": 14.3945687
+      },
       "telephone": "+420-224353427"
     },
     {
       "name": "Český svaz letectví",
-      "address": "Letiště Kbely\n197 06, Praha 9\nCzech Republic",
+      "address": {
+        "text": "Letiště Kbely\n197 06, Praha 9\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.111297,
+        "lon": 14.5025507
+      },
       "telephone": "+420-737910598 +420-543214968"
     },
     {
       "name": "DAJBYCH, s.r.o.",
-      "address": "Weberova 1234/1a\n150 00, Praha 5\nCzech Republic",
+      "address": {
+        "text": "Weberova 1234/1a\n150 00, Praha 5\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0735816,
+        "lon": 14.352285
+      },
       "telephone": "+420-257222130"
     },
     {
       "name": "Dantherm A/S",
-      "address": "Marienlystvej 65\n7800, Skive\nDenmark",
+      "address": {
+        "text": "Marienlystvej 65\n7800, Skive\nDenmark",
+        "iso2": "DK",
+        "lat": 56.6002838,
+        "lon": 9.021769899999999
+      },
       "telephone": "+45-99149000 +45-96143700"
     },
     {
       "name": "Defence Industry Association of Hungary",
-      "address": "Illatos út 9.\n1097, Budapest\nHungary",
+      "address": {
+        "text": "Illatos út 9.\n1097, Budapest\nHungary",
+        "iso2": "HU",
+        "lat": 47.4541653,
+        "lon": 19.0968587
+      },
       "telephone": "+36-12644283"
     },
     {
       "name": "DEKONTA, a.s.",
-      "address": "Dřetovice 109\n273 42, Stehelčeves\nCzech Republic",
+      "address": {
+        "text": "Dřetovice 109\n273 42, Stehelčeves\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.18461,
+        "lon": 14.2065652
+      },
       "telephone": "+420-235522252"
     },
     {
       "name": "DELINFO, spol. s r.o.",
-      "address": "Londýnské náměstí 856/2\n639 00, Brno - Štýřice\nCzech Republic",
+      "address": {
+        "text": "Londýnské náměstí 856/2\n639 00, Brno - Štýřice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1718778,
+        "lon": 16.5987443
+      },
       "telephone": "+420-222272111"
     },
     {
       "name": "Dependable Solutions s.r.o.",
-      "address": "Na Vyhlídce 427\n252 45, Březová-Oleško\nCzech Republic",
+      "address": {
+        "text": "Na Vyhlídce 427\n252 45, Březová-Oleško\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.9125203,
+        "lon": 14.4078682
+      },
       "telephone": "+420-774444111"
     },
     {
       "name": "DMD Group, a.s.",
-      "address": "Lieskovec 575/25\n018 41, Dubnica nad Váhom\nSlovakia",
+      "address": {
+        "text": "Lieskovec 575/25\n018 41, Dubnica nad Váhom\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.9662175,
+        "lon": 18.2100074
+      },
       "telephone": "+421-422852211"
     },
     {
       "name": "Drone Defense Solutions s.r.o.",
-      "address": "Oderská 333/5\n196 00, Praha\nCzech Republic",
+      "address": {
+        "text": "Oderská 333/5\n196 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1498132,
+        "lon": 14.5322308
+      },
       "telephone": "+420-603551024"
     },
     {
       "name": "DST Defence Service Tracks GmbH",
-      "address": "Vieringhausen 118\n42857, Remscheid\nGermany",
+      "address": {
+        "text": "Vieringhausen 118\n42857, Remscheid\nGermany",
+        "iso2": "DE",
+        "lat": 51.17243970000001,
+        "lon": 7.1613196
+      },
       "telephone": "+420-572434600"
     },
     {
       "name": "Dynamit Nobel Defence",
-      "address": "Dr. - Hermann - Fleck - Allee 8\n57299, Burbach\nGermany",
+      "address": {
+        "text": "Dr. - Hermann - Fleck - Allee 8\n57299, Burbach\nGermany",
+        "iso2": "DE",
+        "lat": 50.76457,
+        "lon": 8.13314
+      },
       "telephone": "+49-2736462014"
     },
     {
       "name": "e. sigma, s. r. o.",
-      "address": "Na Poříčí 1047/26\n110 00, Praha\nCzech Republic",
+      "address": {
+        "text": "Na Poříčí 1047/26\n110 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0889456,
+        "lon": 14.4339555
+      },
       "telephone": "+420-736241292"
     },
     {
       "name": "EAF protect s.r.o.",
-      "address": "Podnikatelská 160/4\n350 02, Cheb\nCzech Republic",
+      "address": {
+        "text": "Podnikatelská 160/4\n350 02, Cheb\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0863111,
+        "lon": 12.405575
+      },
       "telephone": "+420-777210189"
     },
     {
       "name": "ELDIS Pardubice, s.r.o.",
-      "address": "Dělnická 469, Pardubičky\n533 01, Pardubice\nCzech Republic",
+      "address": {
+        "text": "Dělnická 469, Pardubičky\n533 01, Pardubice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0244685,
+        "lon": 15.8223345
+      },
       "telephone": "+420-466052443"
     },
     {
       "name": "ELEDUS s.r.o.",
-      "address": "Podnikatelská 2956/6\n612 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Podnikatelská 2956/6\n612 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.2287581,
+        "lon": 16.5776718
+      },
       "telephone": "+420-778778442 +420-721428205"
     },
     {
       "name": "ELVAC a.s.",
-      "address": "Hasičská 53\n700 30, Ostrava - Hrabůvka\nCzech Republic",
+      "address": {
+        "text": "Hasičská 53\n700 30, Ostrava - Hrabůvka\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.7912095,
+        "lon": 18.260932
+      },
       "telephone": "+420-597407300"
     },
     {
       "name": "EMBRAER",
-      "address": "Av. Pres. J.Kubitschek 1909, 14 fl.,Torre Norte\n04543-907, Sao Paulo\nBrazil",
+      "address": {
+        "text": "Av. Pres. J.Kubitschek 1909, 14 fl.,Torre Norte\n04543-907, Sao Paulo\nBrazil",
+        "iso2": "BR",
+        "lat": -23.5670512,
+        "lon": -46.3953992
+      },
       "telephone": "+55-1138416078"
     },
     {
       "name": "ERA, a.s.",
-      "address": "Průmyslová 462\n530 03, Pardubice\nCzech Republic",
+      "address": {
+        "text": "Průmyslová 462\n530 03, Pardubice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0255173,
+        "lon": 15.8020853
+      },
       "telephone": "+420-467004253"
     },
     {
       "name": "European Air Services s.r.o.",
-      "address": "Sokolovská 675/9\n186 00, Praha 8 - Karlín\nCzech Republic",
+      "address": {
+        "text": "Sokolovská 675/9\n186 00, Praha 8 - Karlín\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0917422,
+        "lon": 14.4393681
+      },
       "telephone": "+420-774311399"
     },
     {
       "name": "Europlast - Nycast GmbH",
-      "address": "Industriestrasse 47\n42551, Velbert\nGermany",
+      "address": {
+        "text": "Industriestrasse 47\n42551, Velbert\nGermany",
+        "iso2": "DE",
+        "lat": 51.3432831,
+        "lon": 7.0648126
+      },
       "telephone": "+49-20513143713"
     },
     {
       "name": "evolving systems consulting s.r.o., an esc Aerospace company",
-      "address": "nám. Dr. Holého 1052/11\n180 00, Praha 8\nCzech Republic",
+      "address": {
+        "text": "nám. Dr. Holého 1052/11\n180 00, Praha 8\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1064423,
+        "lon": 14.4743893
+      },
       "telephone": "+420-604347014 +420-284683784"
     },
     {
       "name": "EVPÚ a.s.",
-      "address": "Trenčianska 19\n018 51, Nová Dubnica\nSlovakia",
+      "address": {
+        "text": "Trenčianska 19\n018 51, Nová Dubnica\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.9370701,
+        "lon": 18.1354639
+      },
       "telephone": "+421-424409111"
     },
     {
       "name": "EVPÚ Defence a.s.",
-      "address": "Jaktáře 1781\n686 01, Uherské Hradiště\nCzech Republic",
+      "address": {
+        "text": "Jaktáře 1781\n686 01, Uherské Hradiště\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.08057410000001,
+        "lon": 17.484082
+      },
       "telephone": "+420-572557542"
     },
     {
       "name": "EXCALIBUR ARMY spol. s r.o.",
-      "address": "Kodaňská 521\n101 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Kodaňská 521\n101 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0709033,
+        "lon": 14.4594769
+      },
       "telephone": "+420-585083111"
     },
     {
       "name": "EXPLOSIA, a.s.",
-      "address": "Semtín 107\n530 02, Pardubice\nCzech Republic",
+      "address": {
+        "text": "Semtín 107\n530 02, Pardubice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.06331429999999,
+        "lon": 15.7274933
+      },
       "telephone": "+420-466825198"
     },
     {
       "name": "Factory of Rescue Equipment and Miner's Lamps",
-      "address": "Nakielska 42/44\n42-600, Tarnowskie Góry\nPoland",
+      "address": {
+        "text": "Nakielska 42/44\n42-600, Tarnowskie Góry\nPoland",
+        "iso2": "PL",
+        "lat": 50.4423424,
+        "lon": 18.8730012
+      },
       "telephone": "+48-322850777"
     },
     {
       "name": "FENIX Protector s.r.o.",
-      "address": "č. p. 30\n262 03, Mokrovraty\nCzech Republic",
+      "address": {
+        "text": "č. p. 30\n262 03, Mokrovraty\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.795672,
+        "lon": 14.2501299
+      },
       "telephone": "+420-318593641"
     },
     {
       "name": "Flir Systems AB",
-      "address": "Antennvägen 6\nPO BOX P.O. Box 7346\n187 66, Täby\nSweden",
+      "address": {
+        "text": "Antennvägen 6\nPO BOX P.O. Box 7346\n187 66, Täby\nSweden",
+        "iso2": "SE",
+        "lat": 59.4631704,
+        "lon": 18.1326444
+      },
       "telephone": "+46-87532500"
     },
     {
       "name": "Foss Fibre Optics s.r.o.",
-      "address": "Odborárska 52\n831 02, Bratislava\nSlovakia",
+      "address": {
+        "text": "Odborárska 52\n831 02, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.1787258,
+        "lon": 17.1384543
+      },
       "telephone": "+421-248205200"
     },
     {
       "name": "GARED s.r.o.",
-      "address": "Družstevní 278\n517 01, Solnice\nCzech Republic",
+      "address": {
+        "text": "Družstevní 278\n517 01, Solnice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.20277900000001,
+        "lon": 16.2361921
+      },
       "telephone": "+420-494596110"
     },
     {
       "name": "GENERAL DYNAMICS European Land Systems - Czech s.r.o.",
-      "address": "Náchodská 137/469\n193 00, Praha\nCzech Republic",
+      "address": {
+        "text": "Náchodská 137/469\n193 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1169659,
+        "lon": 14.6222574
+      },
       "telephone": "+420-724650663"
     },
     {
       "name": "GEROH GmbH & Co. KG",
-      "address": "Fischergasse 25\n91344, Waischenfeld\nGermany",
+      "address": {
+        "text": "Fischergasse 25\n91344, Waischenfeld\nGermany",
+        "iso2": "DE",
+        "lat": 49.8464463,
+        "lon": 11.3455687
+      },
       "telephone": "+49-92021843"
     },
     {
       "name": "GKN Aerospace Sweden AB",
-      "address": "Flygmotorvägen 1\n461 81, Trollhättan\nSweden",
+      "address": {
+        "text": "Flygmotorvägen 1\n461 81, Trollhättan\nSweden",
+        "iso2": "SE",
+        "lat": 58.31006960000001,
+        "lon": 12.3239911
+      },
       "telephone": "+46-52094000"
     },
     {
       "name": "GLOMEX Military Supplies",
-      "address": "Pomněnková 61\n106 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Pomněnková 61\n106 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0583664,
+        "lon": 14.5025712
+      },
       "telephone": "+420-222541719"
     },
     {
       "name": "Goldeck Textil GmbH - CARINTHIA",
-      "address": "Seebacherstrasse 11-13\n9871, Seeboden\nAustria",
+      "address": {
+        "text": "Seebacherstrasse 11-13\n9871, Seeboden\nAustria",
+        "iso2": "AT",
+        "lat": 46.8184301,
+        "lon": 13.4971842
+      },
       "telephone": "+43-476251010"
     },
     {
       "name": "Hammar Maskiner",
-      "address": "Muskötgatan 12\n254 66, Helsingborg\nSweden",
+      "address": {
+        "text": "Muskötgatan 12\n254 66, Helsingborg\nSweden",
+        "iso2": "SE",
+        "lat": 56.0747112,
+        "lon": 12.7250661
+      },
       "telephone": "+46-703290017"
     },
     {
       "name": "Havel metal foam GmbH",
-      "address": "Am Gleisdreieck 10\n14774, Brandenburg an der Havel\nGermany",
+      "address": {
+        "text": "Am Gleisdreieck 10\n14774, Brandenburg an der Havel\nGermany",
+        "iso2": "DE",
+        "lat": 52.3877387,
+        "lon": 12.4094199
+      },
       "telephone": "+49-338180438880"
     },
     {
       "name": "HellermannTyton GmbH",
-      "address": "Rennbahnweg 65\n1220, Wien\nAustria",
+      "address": {
+        "text": "Rennbahnweg 65\n1220, Wien\nAustria",
+        "iso2": "AT",
+        "lat": 48.2554108,
+        "lon": 16.4635866
+      },
       "telephone": "+43-12599955"
     },
     {
       "name": "High security products",
-      "address": "č. p. 167\n951 24, Malé Zálužie\nSlovakia",
+      "address": {
+        "text": "č. p. 167\n951 24, Malé Zálužie\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.4359812,
+        "lon": 17.9863254
+      },
       "telephone": "+421-910187361 +421-903193798"
     },
     {
       "name": "Hirtenberger Defence Systems GmbH",
-      "address": "Leobersdorfer Strasse 31-33\n2552, Hirtenberg\nAustria",
+      "address": {
+        "text": "Leobersdorfer Strasse 31-33\n2552, Hirtenberg\nAustria",
+        "iso2": "AT",
+        "lat": 47.9317821,
+        "lon": 16.1837414
+      },
       "telephone": "+43-2256811840"
     },
     {
       "name": "IAI - Israel Aerospace Industries",
-      "address": "Ben-Gurion International Airport\n701 00, Lod\nIsrael",
+      "address": {
+        "text": "Ben-Gurion International Airport\n701 00, Lod\nIsrael",
+        "iso2": "IL",
+        "lat": 32.005532,
+        "lon": 34.8854112
+      },
       "telephone": "+972-39353935 +972-39731111"
     },
     {
       "name": "ICZ a.s.",
-      "address": "Na hřebenech II 1718/10\n140 00, Praha 4\nCzech Republic",
+      "address": {
+        "text": "Na hřebenech II 1718/10\n140 00, Praha 4\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0520301,
+        "lon": 14.4312811
+      },
       "telephone": "+420-222271111"
     },
     {
       "name": "INTERLINK CS, spol. s r.o.",
-      "address": "Lomená 9\n162 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Lomená 9\n162 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0943731,
+        "lon": 14.3779382
+      },
       "telephone": "+420-233343220 +420-724830070"
     },
     {
       "name": "Intracom Defense Electronics",
-      "address": "21km Markopoulou Avenue\n19441, Athens, Attiki\nGreece",
+      "address": {
+        "text": "21km Markopoulou Avenue\n19441, Athens, Attiki\nGreece",
+        "iso2": "GR",
+        "lat": 37.9295471,
+        "lon": 23.8624849
+      },
       "telephone": "+420-572434600"
     },
     {
       "name": "Ivo Štorek - FIRMA NIMROD",
-      "address": "Pod Černým vrchem 5747\n430 01, Chomutov\nCzech Republic",
+      "address": {
+        "text": "Pod Černým vrchem 5747\n430 01, Chomutov\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.4604597,
+        "lon": 13.3801577
+      },
       "telephone": "+420-603341832"
     },
     {
       "name": "Jagello 2000",
-      "address": "Mariánské náměstí 10\n709 00, Ostrava 9\nCzech Republic",
+      "address": {
+        "text": "Mariánské náměstí 10\n709 00, Ostrava 9\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.8288154,
+        "lon": 18.2587065
+      },
       "telephone": "+420-597479208"
     },
     {
       "name": "John Cockerill Defense",
-      "address": "44 Rue Alfred Deponthiére\n4431, Loncin\nBelgium"
+      "address": {
+        "text": "44 Rue Alfred Deponthiére\n4431, Loncin\nBelgium",
+        "iso2": "BE",
+        "lat": 50.6654312,
+        "lon": 5.4961531
+      }
     },
     {
       "name": "Kärcher-Futuretech",
-      "address": "č. p. 141\n251 01, Modletice\nCzech Republic",
+      "address": {
+        "text": "č. p. 141\n251 01, Modletice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.9699476,
+        "lon": 14.5930564
+      },
       "telephone": "+420-323606014 +420-602226104"
     },
     {
       "name": "KNDS - KMW + NEXTER Defense Systems",
-      "address": "Gustav Mahlerlaan 1017\n1082 MK, Amsterdam\nNetherlands",
+      "address": {
+        "text": "Gustav Mahlerlaan 1017\n1082 MK, Amsterdam\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.33652499999999,
+        "lon": 4.869306
+      },
       "telephone": "+31-202184710"
     },
     {
       "name": "KONGSBERG",
-      "address": "Kirkegaardsveien 45\n3613, Kongsberg\nNorway",
+      "address": {
+        "text": "Kirkegaardsveien 45\n3613, Kongsberg\nNorway",
+        "iso2": "NO",
+        "lat": 59.6590328,
+        "lon": 9.650002299999999
+      },
       "telephone": "+47-32288200"
     },
     {
       "name": "Krauss-Maffei Wegmann GmbH & Co. KG",
-      "address": "Krauss-Maffei-Str.11\n80997, München\nGermany",
+      "address": {
+        "text": "Krauss-Maffei-Str.11\n80997, München\nGermany",
+        "iso2": "DE",
+        "lat": 48.19361960000001,
+        "lon": 11.4695279
+      },
       "telephone": "+49-89814050"
     },
     {
       "name": "Letecké opravovne Trenčín, a.s.",
-      "address": "Legionárska 160\n911 04, Trenčín\nSlovakia",
+      "address": {
+        "text": "Legionárska 160\n911 04, Trenčín\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.88071850000001,
+        "lon": 18.0283591
+      },
       "telephone": "+421-326565200 +421-326565262"
     },
     {
       "name": "LIAZ a. s.",
-      "address": "Kamenická 743\n463 12, Liberec\nCzech Republic",
+      "address": {
+        "text": "Kamenická 743\n463 12, Liberec\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.7430178,
+        "lon": 15.0648549
+      },
       "telephone": "+420-485130448"
     },
     {
       "name": "Lindnerhof - Taktik GmbH",
-      "address": "Isarring 7\n83661, Lenggries\nGermany",
+      "address": {
+        "text": "Isarring 7\n83661, Lenggries\nGermany",
+        "iso2": "DE",
+        "lat": 47.67446289999999,
+        "lon": 11.5734963
+      },
       "telephone": "+49-804250390"
     },
     {
       "name": "Lockheed Martin",
-      "address": "7501A Calmont Avenue\nTX 76116, Fort Worth\nUSA",
+      "address": {
+        "text": "7501A Calmont Avenue\nTX 76116, Fort Worth\nUSA",
+        "iso2": "US",
+        "lat": 32.7333441,
+        "lon": -97.4451076
+      },
       "telephone": "+1-8178797256"
     },
     {
       "name": "LOM PRAHA s.p.",
-      "address": "Tiskařská 270/8\n108 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Tiskařská 270/8\n108 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0806055,
+        "lon": 14.5264501
+      },
       "telephone": "+420-296505551 +420-296505608"
     },
     {
       "name": "M.R.S. Industrievertretungen und HandelsgesmbH",
-      "address": "Wehlistraße 27\n1200, Wien\nAustria",
+      "address": {
+        "text": "Wehlistraße 27\n1200, Wien\nAustria",
+        "iso2": "AT",
+        "lat": 48.2476069,
+        "lon": 16.3793594
+      },
       "telephone": "+43-3308395"
     },
     {
       "name": "MAGNET PRESS, SLOVAKIA s.r.o.",
-      "address": "Šustekova 8\n851 04, Bratislava\nSlovakia",
+      "address": {
+        "text": "Šustekova 8\n851 04, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.1294268,
+        "lon": 17.1242257
+      },
       "telephone": "+421-267201941"
     },
     {
       "name": "MarS a.s.",
-      "address": "Okružní II 239\n569 43, Jevíčko\nCzech Republic",
+      "address": {
+        "text": "Okružní II 239\n569 43, Jevíčko\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.63287589999999,
+        "lon": 16.7156947
+      },
       "telephone": "+420-461353841 +420-731572957"
     },
     {
       "name": "MBDA",
-      "address": "1, Avenue Réaumur\n92358, Le Plessis Robinson cedex\nFrance",
+      "address": {
+        "text": "1, Avenue Réaumur\n92358, Le Plessis Robinson cedex\nFrance",
+        "iso2": "FR",
+        "lat": 48.7792059,
+        "lon": 2.2406432
+      },
       "telephone": "+33-171541000"
     },
     {
       "name": "MEHLER ENGINEERED DEFENCE GmbH",
-      "address": "Kupfermühlenberg 2\n38154, Königslutter\nGermany",
+      "address": {
+        "text": "Kupfermühlenberg 2\n38154, Königslutter\nGermany",
+        "iso2": "DE",
+        "lat": 52.2578474,
+        "lon": 10.8222084
+      },
       "telephone": "+49-5353919310"
     },
     {
       "name": "Mehler Vario System GmbH",
-      "address": "Edelzeller Str. 51\n36043, Fulda\nGermany",
+      "address": {
+        "text": "Edelzeller Str. 51\n36043, Fulda\nGermany",
+        "iso2": "DE",
+        "lat": 50.5444212,
+        "lon": 9.6839023
+      },
       "telephone": "+49-661103555"
     },
     {
       "name": "Meopta Systems, s.r.o.",
-      "address": "Kabelíkova 1\n750 02, Přerov\nCzech Republic",
+      "address": {
+        "text": "Kabelíkova 1\n750 02, Přerov\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.4548208,
+        "lon": 17.4726575
+      },
       "telephone": "+420-581241111"
     },
     {
       "name": "Mercedes-Benz Trucks Česká republika s.r.o.",
-      "address": "Bavorská 2666/16\n155 00, Praha 5 - Stodůlky\nCzech Republic"
+      "address": {
+        "text": "Bavorská 2666/16\n155 00, Praha 5 - Stodůlky\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0548746,
+        "lon": 14.3152697
+      }
     },
     {
       "name": "MESIT",
-      "address": "Sokolovská 573, Mařatice\n686 01, Uherské Hradiště\nCzech Republic",
+      "address": {
+        "text": "Sokolovská 573, Mařatice\n686 01, Uherské Hradiště\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.0764062,
+        "lon": 17.4783856
+      },
       "telephone": "+420-572522100"
     },
     {
       "name": "Microwave systems, s. r. o.",
-      "address": "Spoločenská 7\n821 04, Bratislava\nSlovakia",
+      "address": {
+        "text": "Spoločenská 7\n821 04, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.17095820000001,
+        "lon": 17.1645545
+      },
       "telephone": "+421-905187888"
     },
     {
       "name": "MilDef AB",
-      "address": "Muskötgatan 12\n254 66, Helsingborg\nSweden",
+      "address": {
+        "text": "Muskötgatan 12\n254 66, Helsingborg\nSweden",
+        "iso2": "SE",
+        "lat": 56.0747112,
+        "lon": 12.7250661
+      },
       "telephone": "+46-42250000"
     },
     {
       "name": "Ministerstvo obrany ČR",
-      "address": "Tychonova 1\n160 01, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Tychonova 1\n160 01, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.09530789999999,
+        "lon": 14.4030947
+      },
       "telephone": "+420-973201111"
     },
     {
       "name": "MINISTERSTVO OBRANY SLOVENSKÉ REPUBLIKY",
-      "address": "Kutuzovova 8\n832 47, Bratislava\nSlovakia",
+      "address": {
+        "text": "Kutuzovova 8\n832 47, Bratislava\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.1654326,
+        "lon": 17.1303248
+      },
       "telephone": "+421-903820031 +421-960112233"
     },
     {
       "name": "Mittler Report Verlag GmbH",
-      "address": "Baunscheidtstr. 11\n53113, Bonn\nGermany",
+      "address": {
+        "text": "Baunscheidtstr. 11\n53113, Bonn\nGermany",
+        "iso2": "DE",
+        "lat": 50.7105776,
+        "lon": 7.1227445
+      },
       "telephone": "+49-2283500880 +49-2283500877"
     },
     {
       "name": "MoD CURRUS Combat Vehicle Technique Co. Ltd.",
-      "address": "Isaszegi út. 179\n2100, Gödöllö\nHungary",
+      "address": {
+        "text": "Isaszegi út. 179\n2100, Gödöllö\nHungary",
+        "iso2": "HU",
+        "lat": 47.5600432,
+        "lon": 19.3800602
+      },
       "telephone": "+36-28420122"
     },
     {
       "name": "Modelárna Liaz spol. s r.o.",
-      "address": "Kamenická 743\n460 06, Liberec\nCzech Republic",
+      "address": {
+        "text": "Kamenická 743\n460 06, Liberec\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.7430178,
+        "lon": 15.0648549
+      },
       "telephone": "+420-485130448"
     },
     {
       "name": "MOLPIR GROUP CZ a.s.",
-      "address": "Technologická 838/14\n779 00, Olomouc - Holice\nCzech Republic",
+      "address": {
+        "text": "Technologická 838/14\n779 00, Olomouc - Holice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.5776002,
+        "lon": 17.2816051
+      },
       "telephone": "+420-585315017 +420-585315018"
     },
     {
       "name": "Mönch Publishing Group",
-      "address": "Christine-Demmer-Str. 7\n53474, Bad Neuenahr Ahrweiler\nGermany",
+      "address": {
+        "text": "Christine-Demmer-Str. 7\n53474, Bad Neuenahr Ahrweiler\nGermany",
+        "iso2": "DE",
+        "lat": 50.5479919,
+        "lon": 7.1157404
+      },
       "telephone": "+49-264137030"
     },
     {
       "name": "MPI Group, s.r.o.",
-      "address": "Holečkova 103/31\n150 00, Praha 5\nCzech Republic",
+      "address": {
+        "text": "Holečkova 103/31\n150 00, Praha 5\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0721461,
+        "lon": 14.3873518
+      },
       "telephone": "+420-257326076 +420-257310918"
     },
     {
       "name": "MS Line, s.r.o. - Publishing house",
-      "address": "Vykáň 82\n289 15, Kounice\nCzech Republic",
+      "address": {
+        "text": "Vykáň 82\n289 15, Kounice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1207131,
+        "lon": 14.8144749
+      },
       "telephone": "+420-773990626"
     },
     {
       "name": "MSM GROUP",
-      "address": "Štúrova 925/27\n018 41, Dubnica nad Váhom\nSlovakia",
+      "address": {
+        "text": "Štúrova 925/27\n018 41, Dubnica nad Váhom\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.9530927,
+        "lon": 18.1828303
+      },
       "telephone": "+421-904744305"
     },
     {
       "name": "MSPO 2019, KIELCE, POLAND",
-      "address": "ul. Zakładowa 1\nPO BOX 25-672\n25-672, Kielce\nPoland",
+      "address": {
+        "text": "ul. Zakładowa 1\nPO BOX 25-672\n25-672, Kielce\nPoland",
+        "iso2": "PL",
+        "lat": 50.8998777,
+        "lon": 20.5890132
+      },
       "telephone": "+48-413651249 +48-413651425"
     },
     {
       "name": "MSR Engines s.r.o.",
-      "address": "č. p. 864\n664 47, Střelice\nCzech Republic",
+      "address": {
+        "text": "č. p. 864\n664 47, Střelice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1522121,
+        "lon": 16.50399
+      },
       "telephone": "+420-602457897"
     },
     {
       "name": "National Defence Industries Association",
-      "address": "Sauletekio 15\n1486, Vilnius\nLithuania",
+      "address": {
+        "text": "Sauletekio 15\n1486, Vilnius\nLithuania",
+        "iso2": "LT",
+        "lat": 54.7234482,
+        "lon": 25.3379644
+      },
       "telephone": "+370-52153533"
     },
     {
       "name": "Nexter Systems",
-      "address": "13 Route de la Miniere\n78034, Versailles Cedex\nFrance",
+      "address": {
+        "text": "13 Route de la Miniere\n78034, Versailles Cedex\nFrance",
+        "iso2": "FR",
+        "lat": 48.7838304,
+        "lon": 2.1033335
+      },
       "telephone": "+33-130973681"
     },
     {
       "name": "NIDES s.r.o.",
-      "address": "Hlinky 487/35, Pisárky\n603 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Hlinky 487/35, Pisárky\n603 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1890715,
+        "lon": 16.584739
+      },
       "telephone": "+420-773550795 +420-773222460"
     },
     {
       "name": "NIXUS",
-      "address": "Gen. M. R. Štefánika 7061\n911 01, Trenčín\nSlovakia",
+      "address": {
+        "text": "Gen. M. R. Štefánika 7061\n911 01, Trenčín\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.8945353,
+        "lon": 18.0613297
+      },
       "telephone": "+421-326551187"
     },
     {
       "name": "Nortec Electronics GmbH & Co. KG",
-      "address": "An der Strusbek 32 B\n22926, Ahrensburg\nGermany",
+      "address": {
+        "text": "An der Strusbek 32 B\n22926, Ahrensburg\nGermany",
+        "iso2": "DE",
+        "lat": 53.6868838,
+        "lon": 10.2675306
+      },
       "telephone": "+49-410242002"
     },
     {
       "name": "Northrop Grumman LITEF GmbH",
-      "address": "Lörracher Str. 18\n79115, Freiburg\nGermany",
+      "address": {
+        "text": "Lörracher Str. 18\n79115, Freiburg\nGermany",
+        "iso2": "DE",
+        "lat": 47.9806444,
+        "lon": 7.820127999999999
+      },
       "telephone": "+49-76149010"
     },
     {
       "name": "OLYMPUS Czech Group, s.r.o., člen koncernu",
-      "address": "Evropská 176/16\n160 41, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Evropská 176/16\n160 41, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0952439,
+        "lon": 14.3411965
+      },
       "telephone": "+420-221985211"
     },
     {
       "name": "OMNIPOL a. s.",
-      "address": "Nekázanka 880/11\n112 21, Praha 1\nCzech Republic",
+      "address": {
+        "text": "Nekázanka 880/11\n112 21, Praha 1\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0848641,
+        "lon": 14.4283718
+      },
       "telephone": "+420-224011111 +420-224012249"
     },
     {
       "name": "OPTOKON, a.s.",
-      "address": "Červený Kříž 250\n586 01, Jihlava\nCzech Republic",
+      "address": {
+        "text": "Červený Kříž 250\n586 01, Jihlava\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.4576222,
+        "lon": 15.6061997
+      },
       "telephone": "+420-564040111"
     },
     {
       "name": "ORITEST spol. s r.o.",
-      "address": "Nábřežní 90/4\n150 00, Praha 5\nCzech Republic",
+      "address": {
+        "text": "Nábřežní 90/4\n150 00, Praha 5\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0761242,
+        "lon": 14.4089696
+      },
       "telephone": "+420-257311639"
     },
     {
       "name": "PALFINGER AG",
-      "address": "Lamprechtshausener Bundesstraße 8\n5101, Bergheim\nAustria",
+      "address": {
+        "text": "Lamprechtshausener Bundesstraße 8\n5101, Bergheim\nAustria",
+        "iso2": "AT",
+        "lat": 47.8430001,
+        "lon": 13.0362488
+      },
       "telephone": "+43-774622810"
     },
     {
       "name": "PAMCO INT. a.s.",
-      "address": "Na Strži 241/28\n140 00, Praha 4\nCzech Republic",
+      "address": {
+        "text": "Na Strži 241/28\n140 00, Praha 4\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0429133,
+        "lon": 14.4391102
+      },
       "telephone": "+420-241001811 +420-241001862"
     },
     {
       "name": "PATRIA",
-      "address": "Kaivokatu 10 A\n00100, Helsinki\nFinland",
+      "address": {
+        "text": "Kaivokatu 10 A\n00100, Helsinki\nFinland",
+        "iso2": "FI",
+        "lat": 60.1699567,
+        "lon": 24.9405639
+      },
       "telephone": "+358-204691"
     },
     {
       "name": "PBS",
-      "address": "Vlkovská 279\n595 01, Velká Bíteš\nCzech Republic",
+      "address": {
+        "text": "Vlkovská 279\n595 01, Velká Bíteš\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.2997512,
+        "lon": 16.2147603
+      },
       "telephone": "+420-566822304 +420-566822111"
     },
     {
       "name": "Pewag Austria GmbH",
-      "address": "Smetanovo nábřeží 934\n517 54, Vamberk\nCzech Republic",
+      "address": {
+        "text": "Smetanovo nábřeží 934\n517 54, Vamberk\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1193538,
+        "lon": 16.2888991
+      },
       "telephone": "+43-03166070240"
     },
     {
       "name": "PIK-AS AUSTRIA e.U.",
-      "address": "Hochstrasse 140\n7433, Mariasdorf\nAustria",
+      "address": {
+        "text": "Hochstrasse 140\n7433, Mariasdorf\nAustria",
+        "iso2": "AT",
+        "lat": 47.3656499,
+        "lon": 16.2318325
+      },
       "telephone": "+43-33537613"
     },
     {
       "name": "Prabos plus a.s.",
-      "address": "Komenského 9\n763 21, Slavičín\nCzech Republic",
+      "address": {
+        "text": "Komenského 9\n763 21, Slavičín\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.0913049,
+        "lon": 17.8723572
+      },
       "telephone": "+420-577303283"
     },
     {
       "name": "PRAGA-Export s.r.o.",
-      "address": "U Císařské cesty 219\n103 00, Praha\nCzech Republic",
+      "address": {
+        "text": "U Císařské cesty 219\n103 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0152911,
+        "lon": 14.6062654
+      },
       "telephone": "+420-739586147"
     },
     {
       "name": "PRAMACOM-HT, spol. s r.o.",
-      "address": "Na Pískách 1667/36\n160 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Na Pískách 1667/36\n160 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1049481,
+        "lon": 14.3730027
+      },
       "telephone": "+420-220199520 +420-588188401"
     },
     {
       "name": "PRIMOCO UAV SE",
-      "address": "Výpadová 1563/29f\n153 00, Praha 5\nCzech Republic",
+      "address": {
+        "text": "Výpadová 1563/29f\n153 00, Praha 5\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.9903324,
+        "lon": 14.3751862
+      },
       "telephone": "+420-731435509"
     },
     {
       "name": "PSM Projekt System & Management GmbH/Gröning Jens",
-      "address": "Wilhelmshöher Allee 262\n34131, Kassel\nGermany",
+      "address": {
+        "text": "Wilhelmshöher Allee 262\n34131, Kassel\nGermany",
+        "iso2": "DE",
+        "lat": 51.3138035,
+        "lon": 9.4458273
+      },
       "telephone": "+49-56151070"
     },
     {
       "name": "Quittner & Schimek s.r.o.",
-      "address": "Komenského 304\n509 01, Nová Paka\nCzech Republic",
+      "address": {
+        "text": "Komenského 304\n509 01, Nová Paka\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.4928462,
+        "lon": 15.5199231
+      },
       "telephone": "+420-493766111"
     },
     {
       "name": "Rakouské velvyslanectví - Obchodní oddělení",
-      "address": "Krakovská 7\nPO BOX 493\n111 21, Praha 1\nCzech Republic",
+      "address": {
+        "text": "Krakovská 7\nPO BOX 493\n111 21, Praha 1\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0778946,
+        "lon": 14.4273548
+      },
       "telephone": "+420-222210255"
     },
     {
       "name": "Ray Service, a.s.",
-      "address": "Huštěnovská 2022\n686 03, Staré Město\nCzech Republic",
+      "address": {
+        "text": "Huštěnovská 2022\n686 03, Staré Město\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.0841954,
+        "lon": 17.4487634
+      },
       "telephone": "+420-572434311"
     },
     {
       "name": "RETIA, a.s.",
-      "address": "Pražská 341\n530 02, Pardubice\nCzech Republic",
+      "address": {
+        "text": "Pražská 341\n530 02, Pardubice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0276254,
+        "lon": 15.7544234
+      },
       "telephone": "+420-466852111"
     },
     {
       "name": "Rheinmetall AG",
-      "address": "Rheinmetall Platz 1\n40476, Düsseldorf\nGermany",
+      "address": {
+        "text": "Rheinmetall Platz 1\n40476, Düsseldorf\nGermany",
+        "iso2": "DE",
+        "lat": 51.2534618,
+        "lon": 6.7855401
+      },
       "telephone": "+49-21147301"
     },
     {
       "name": "RMT vision s. r. o.",
-      "address": "Zahradní 224\n739 21, Paskov\nCzech Republic",
+      "address": {
+        "text": "Zahradní 224\n739 21, Paskov\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.7207734,
+        "lon": 18.2927531
+      },
       "telephone": "+420-604609332 +420-558640211"
     },
     {
       "name": "ROHDE & SCHWARZ - Praha, s.r.o.",
-      "address": "Evropská 2590/33c\n160 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Evropská 2590/33c\n160 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0979579,
+        "lon": 14.3592783
+      },
       "telephone": "+420-224311232"
     },
     {
       "name": "S.ICZ a.s.",
-      "address": "Na hřebenech II 1718/10\n140 00, Praha 4\nCzech Republic",
+      "address": {
+        "text": "Na hřebenech II 1718/10\n140 00, Praha 4\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0520301,
+        "lon": 14.4312811
+      },
       "telephone": "+420-222272111"
     },
     {
       "name": "SAAB AB",
-      "address": "PO BOX 1026\n831 29, Östersund\nSweden"
+      "address": {
+        "text": "PO BOX 1026\n831 29, Östersund\nSweden",
+        "iso2": "SE",
+        "lat": 63.1766832,
+        "lon": 14.6360681
+      }
     },
     {
       "name": "Safran Electronics and Defence",
-      "address": "Quai du Pont du jour\n92100, Boulogne Billancourt\nFrance",
+      "address": {
+        "text": "Quai du Pont du jour\n92100, Boulogne Billancourt\nFrance",
+        "iso2": "FR",
+        "lat": 48.8292525,
+        "lon": 2.2551109
+      },
       "telephone": "+33-470081389"
     },
     {
       "name": "Samsung Electronics America, Inc.",
-      "address": "700 Pennsylvania Ave suite 600\n20003, Washington\nUSA",
+      "address": {
+        "text": "700 Pennsylvania Ave suite 600\n20003, Washington\nUSA",
+        "iso2": "US",
+        "lat": 38.8850381,
+        "lon": -76.9957982
+      },
       "telephone": "+1-2026894156"
     },
     {
       "name": "Security Media, s.r.o.",
-      "address": "Heinemannova 2695/6\n160 00, Praha 6\nCzech Republic",
+      "address": {
+        "text": "Heinemannova 2695/6\n160 00, Praha 6\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1125054,
+        "lon": 14.3917806
+      },
       "telephone": "+420-606653084"
     },
     {
       "name": "Sellier & Bellot a.s.",
-      "address": "Lidická 667\n258 01, Vlašim\nCzech Republic",
+      "address": {
+        "text": "Lidická 667\n258 01, Vlašim\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.6951202,
+        "lon": 14.9104301
+      },
       "telephone": "+420-317892491"
     },
     {
       "name": "SFC Energy AG",
-      "address": "Eugen-Sänger-Ring 7\n85649, Brunnthal\nGermany",
+      "address": {
+        "text": "Eugen-Sänger-Ring 7\n85649, Brunnthal\nGermany",
+        "iso2": "DE",
+        "lat": 48.0414867,
+        "lon": 11.665283
+      },
       "telephone": "+49-896735920"
     },
     {
       "name": "SCHMACHTL CZ, spol. s r.o.",
-      "address": "Vídeňská 185\n252 50, Vestec\nCzech Republic",
+      "address": {
+        "text": "Vídeňská 185\n252 50, Vestec\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.9818885,
+        "lon": 14.4944861
+      },
       "telephone": "+420-244001500"
     },
     {
       "name": "STV GROUP a.s.",
-      "address": "Hvězdova 1716/2b\n140 78, Praha\nCzech Republic",
+      "address": {
+        "text": "Hvězdova 1716/2b\n140 78, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0516089,
+        "lon": 14.4374271
+      },
       "telephone": "+420-274012201"
     },
     {
       "name": "SVOS, spol. s r.o.",
-      "address": "Chrudimská 1663\n535 01, Přelouč\nCzech Republic",
+      "address": {
+        "text": "Chrudimská 1663\n535 01, Přelouč\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0339501,
+        "lon": 15.5787518
+      },
       "telephone": "+420-466955743"
     },
     {
       "name": "Swedish Security and Defence Industry Association",
-      "address": "PO BOX 5510\n114 85, Stockholm\nSweden",
+      "address": {
+        "text": "PO BOX 5510\n114 85, Stockholm\nSweden",
+        "iso2": "SE",
+        "lat": 59.32932349999999,
+        "lon": 18.0685808
+      },
       "telephone": "+46-87820873"
     },
     {
       "name": "ŠKODA AUTO a.s.",
-      "address": "Tř. Václava Klementa 869\n293 60, Mladá Boleslav\nCzech Republic",
+      "address": {
+        "text": "Tř. Václava Klementa 869\n293 60, Mladá Boleslav\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.4268477,
+        "lon": 14.9218555
+      },
       "telephone": "+420-326811111 +420-326817056"
     },
     {
       "name": "T-CZ, a.s.",
-      "address": "Na Strži 28\n140 00, Praha 4\nCzech Republic",
+      "address": {
+        "text": "Na Strži 28\n140 00, Praha 4\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.04289230000001,
+        "lon": 14.4390069
+      },
       "telephone": "+420-466034501"
     },
     {
       "name": "TATRA DEFENCE VEHICLE, a.s.",
-      "address": "Kodaňská 521/57\n101 00, Praha\nCzech Republic"
+      "address": {
+        "text": "Kodaňská 521/57\n101 00, Praha\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0709033,
+        "lon": 14.4594769
+      }
     },
     {
       "name": "TATRA EXPORT s.r.o.",
-      "address": "Areál Tatry 1450/1\n742 21, Kopřivnice\nCzech Republic",
+      "address": {
+        "text": "Areál Tatry 1450/1\n742 21, Kopřivnice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.598479,
+        "lon": 18.1504978
+      },
       "telephone": "+420-556491111"
     },
     {
       "name": "TenCate Advanced Armour",
-      "address": "50 Route de Louvier\n38270, Primarette\nFrance",
+      "address": {
+        "text": "50 Route de Louvier\n38270, Primarette\nFrance",
+        "iso2": "FR",
+        "lat": 45.4043425,
+        "lon": 5.0182349
+      },
       "telephone": "+33-474795050"
     },
     {
       "name": "TENEO 3000, s.r.o.",
-      "address": "Hlavní 986\n468 51, Smržovka\nCzech Republic",
+      "address": {
+        "text": "Hlavní 986\n468 51, Smržovka\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.7366585,
+        "lon": 15.2887683
+      },
       "telephone": "+420-483394386 +420-777771188"
     },
     {
       "name": "TESLA, akciová společnost",
-      "address": "Poděbradská 186/56\n198 00, Praha 9 - Hloubětín\nCzech Republic",
+      "address": {
+        "text": "Poděbradská 186/56\n198 00, Praha 9 - Hloubětín\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.10343049999999,
+        "lon": 14.5230391
+      },
       "telephone": "+420-266107417 +420-603177202"
     },
     {
       "name": "Trade FIDES, a.s.",
-      "address": "Dornych 57\n617 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Dornych 57\n617 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1835765,
+        "lon": 16.6220968
+      },
       "telephone": "+420-545536111"
     },
     {
       "name": "TRUCK SERVICE GROUP s.r.o.",
-      "address": "Sokolovská 675/9\n186 00, Praha 8\nCzech Republic",
+      "address": {
+        "text": "Sokolovská 675/9\n186 00, Praha 8\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0917422,
+        "lon": 14.4393681
+      },
       "telephone": "+420-777708257"
     },
     {
       "name": "TTC TELEKOMUNIKACE, s.r.o.",
-      "address": "Třebohostická 987/5\n100 00, Praha 10\nCzech Republic",
+      "address": {
+        "text": "Třebohostická 987/5\n100 00, Praha 10\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.07650890000001,
+        "lon": 14.5102914
+      },
       "telephone": "+420-234051001"
     },
     {
       "name": "Univerzita obrany Brno",
-      "address": "Kounicova 65\n662 10, Brno\nCzech Republic",
+      "address": {
+        "text": "Kounicova 65\n662 10, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.2077317,
+        "lon": 16.5947985
+      },
       "telephone": "+420-973442102"
     },
     {
       "name": "UTILCELL, s.r.o.",
-      "address": "nám. V. Mrštíka 40\n664 81, Ostrovačice\nCzech Republic",
+      "address": {
+        "text": "nám. V. Mrštíka 40\n664 81, Ostrovačice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.2103785,
+        "lon": 16.410539
+      },
       "telephone": "+420-546427053 +420-546427059"
     },
     {
       "name": "Vojenský technický ústav, s.p. (VTÚ)",
-      "address": "Mladoboleslavská 944\n197 00, Praha 9 - Kbely\nCzech Republic",
+      "address": {
+        "text": "Mladoboleslavská 944\n197 00, Praha 9 - Kbely\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.126138,
+        "lon": 14.5323451
+      },
       "telephone": "+420-910105111"
     },
     {
       "name": "Vojenský výzkumný ústav, s. p., Brno",
-      "address": "Veslařská 230\n637 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Veslařská 230\n637 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.1975217,
+        "lon": 16.565974
+      },
       "telephone": "+420-543562101 +420-543562107"
     },
     {
       "name": "VOP CZ, s.p.",
-      "address": "Dukelská 102\n742 42, Šenov u Nového Jičína\nCzech Republic",
+      "address": {
+        "text": "Dukelská 102\n742 42, Šenov u Nového Jičína\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.6151884,
+        "lon": 17.9932891
+      },
       "telephone": "+420-556783111"
     },
     {
       "name": "VR Group, a.s.",
-      "address": "Tiskařská 270/8\n108 00, Praha 10 - Malešice\nCzech Republic",
+      "address": {
+        "text": "Tiskařská 270/8\n108 00, Praha 10 - Malešice\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0806055,
+        "lon": 14.5264501
+      },
       "telephone": "+420-296505790"
     },
     {
       "name": "Vysoké učení technické v Brně",
-      "address": "Antonínská 1\n601 90, Brno\nCzech Republic",
+      "address": {
+        "text": "Antonínská 1\n601 90, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.2016411,
+        "lon": 16.6038216
+      },
       "telephone": "+420-541141111"
     },
     {
       "name": "Wastewater Solutions Group GmbH",
-      "address": "Unterseling 19\n4672, Bachmanning\nAustria",
+      "address": {
+        "text": "Unterseling 19\n4672, Bachmanning\nAustria",
+        "iso2": "AT",
+        "lat": 48.1215222,
+        "lon": 13.8005191
+      },
       "telephone": "+43-720850100"
     },
     {
       "name": "WB GROUP",
-      "address": "Poznańska 129/133\n05-850, Ożarów Mazowiecki\nPoland",
+      "address": {
+        "text": "Poznańska 129/133\n05-850, Ożarów Mazowiecki\nPoland",
+        "iso2": "PL",
+        "lat": 52.20752,
+        "lon": 20.816421
+      },
       "telephone": "+48-227312500"
     },
     {
       "name": "ZÁHOŘÍ TRADE s.r.o.",
-      "address": "Přerovská 38\n768 61, Bystřice pod Hostýnem\nCzech Republic",
+      "address": {
+        "text": "Přerovská 38\n768 61, Bystřice pod Hostýnem\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.3999508,
+        "lon": 17.6657935
+      },
       "telephone": "+420-573379670 +420-739244572"
     },
     {
       "name": "ZDRUŽENIE BEZPEČNOSTNÉHO A OBRANNÉHO PRIEMYSLU SLOVENSKEJ REPUBLIKY",
-      "address": "Hurbanova 42\n911 01, Trenčín\nSlovakia",
+      "address": {
+        "text": "Hurbanova 42\n911 01, Trenčín\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.9001149,
+        "lon": 18.0515987
+      },
       "telephone": "+421-326421259"
     },
     {
       "name": "ZETOR ENGINEERING SLOVAKIA a.s.",
-      "address": "1. mája 71/36\n014 83, Bytča\nSlovakia",
+      "address": {
+        "text": "1. mája 71/36\n014 83, Bytča\nSlovakia",
+        "iso2": "SK",
+        "lat": 49.21925290000001,
+        "lon": 18.5528015
+      },
       "telephone": "+421-904544962"
     },
     {
       "name": "Zetor Engineering, s.r.o.",
-      "address": "Trnkova 111\n628 00, Brno\nCzech Republic",
+      "address": {
+        "text": "Trnkova 111\n628 00, Brno\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 49.19917179999999,
+        "lon": 16.6728066
+      },
       "telephone": "+420-533430111 +420-533430633"
     }
   ]

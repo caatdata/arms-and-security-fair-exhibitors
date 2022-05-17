@@ -5,7 +5,12 @@
   "edition": "2009",
   "startDate": "2009-05-05",
   "endDate": "2009-05-07",
-  "address": "Brno Exhibition Centre\nBrno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nBrno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "http://www.bvv.cz/idet-gb",
   "organiser": [
     {
@@ -54,7 +59,10 @@
     },
     {
       "name": "Allen - Vanguard Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ALLSAT s.r.o.",
@@ -170,7 +178,10 @@
     },
     {
       "name": "COLT CANADA CORPORATION",
-      "country": "CA"
+      "country": {
+        "text": "CA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CROY s.r.o.",
@@ -218,7 +229,10 @@
     },
     {
       "name": "Datron World Communications",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "DELINFO, spol. s r.o.",
@@ -262,7 +276,10 @@
     },
     {
       "name": "DSM Dyneema",
-      "country": "NL"
+      "country": {
+        "text": "NL",
+        "iso2": "NL"
+      }
     },
     {
       "name": "DUPLER, s.r.o.",
@@ -294,7 +311,12 @@
     },
     {
       "name": "Elbit Systems Ltd.",
-      "country": "IL"
+      "address": {
+        "text": "IL",
+        "iso2": "US",
+        "lat": 40.6331249,
+        "lon": -89.3985283
+      }
     },
     {
       "name": "ELDIS Pardubice, s.r.o.",
@@ -310,7 +332,10 @@
     },
     {
       "name": "ERA USA",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "ERA, a.s. An SRA International Subsidiary",
@@ -374,7 +399,10 @@
     },
     {
       "name": "FIDELITY TECHNOLOGIES CORPORATION",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "FIEDLER-MÁGR Ing. Jindřích FIEDLER",
@@ -522,7 +550,10 @@
     },
     {
       "name": "INTERNATIONAL FLOOD CONTROL CORP.",
-      "country": "CA"
+      "country": {
+        "text": "CA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "INTV",
@@ -534,7 +565,10 @@
     },
     {
       "name": "ITAR-TASS NEWS AGENCY",
-      "country": "RU"
+      "country": {
+        "text": "RU",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Jagello 2000",
@@ -574,7 +608,10 @@
     },
     {
       "name": "L-3 Communications TRL Technology",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Lanex, a.s.",
@@ -610,7 +647,10 @@
     },
     {
       "name": "Lockheed Martin",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOM PRAHA, s.p.",
@@ -618,7 +658,10 @@
     },
     {
       "name": "LORTON Ltd.",
-      "country": "BG"
+      "country": {
+        "text": "BG",
+        "iso2": "BG"
+      }
     },
     {
       "name": "MAGNET PRESS, SLOVAKIA s.r.o.",
@@ -666,7 +709,10 @@
     },
     {
       "name": "MILITARY PARADE Ltd.",
-      "country": "RU"
+      "country": {
+        "text": "RU",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Ministerstvo obrany - Generální štáb AČR",
@@ -750,7 +796,12 @@
     },
     {
       "name": "NAMSA (NATO Maintenance and Supply Agency)",
-      "country": "LU"
+      "address": {
+        "text": "LU",
+        "iso2": "IN",
+        "lat": 26.8633208,
+        "lon": 80.93601970000002
+      }
     },
     {
       "name": "NATOAKTUAL.CZ",
@@ -846,7 +897,10 @@
     },
     {
       "name": "Primetake Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PROTOTYPA - ZM, s.r.o.",
@@ -874,7 +928,12 @@
     },
     {
       "name": "RAFAEL - ADVANCED DEFENSE SYSTEMS LTD.",
-      "country": "IL"
+      "address": {
+        "text": "IL",
+        "iso2": "US",
+        "lat": 40.6331249,
+        "lon": -89.3985283
+      }
     },
     {
       "name": "RAMET C.H.M. a.s.",
@@ -886,7 +945,10 @@
     },
     {
       "name": "Raytheon Company",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "REAL TRADE PRAHA a.s.",
@@ -898,7 +960,10 @@
     },
     {
       "name": "REVISION EYEWEAR",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ - Praha, s.r.o.",
@@ -906,7 +971,10 @@
     },
     {
       "name": "RUGGED SYSTEMS Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Saab AB",
@@ -978,11 +1046,19 @@
     },
     {
       "name": "Soltam Systems Ltd.",
-      "country": "IL"
+      "address": {
+        "text": "IL",
+        "iso2": "US",
+        "lat": 40.6331249,
+        "lon": -89.3985283
+      }
     },
     {
       "name": "SOUTH MIDLANDS COMMUNICATIONS Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SPEEL PRAHA s.r.o.",
@@ -1098,7 +1174,10 @@
     },
     {
       "name": "ULTRALIFE",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Univerzita obrany v Brně",
@@ -1202,7 +1281,10 @@
     },
     {
       "name": "WFEL Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ZDRUŽENIE OBRANNÉHO PRIEMYSLU SLOVENSKEJ REPUBLIKY",

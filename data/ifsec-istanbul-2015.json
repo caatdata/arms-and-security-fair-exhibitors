@@ -4,7 +4,12 @@
   "edition": "2015",
   "startDate": "2015-05-22",
   "endDate": "2015-05-23",
-  "address": "Lütfi Kirdar Exhibition Centre\nIstanbul\nTurkey",
+  "address": {
+    "text": "Lütfi Kirdar Exhibition Centre\nIstanbul\nTurkey",
+    "iso2": "TR",
+    "lat": 41.0473427,
+    "lon": 28.9895476
+  },
   "website": "http://www.ifsec-istanbul.com/page.cfm/ID=1",
   "organiser": [
     {

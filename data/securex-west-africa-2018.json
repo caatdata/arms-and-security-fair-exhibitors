@@ -4,8 +4,13 @@
   "edition": "2018",
   "startDate": "2018-03-20",
   "endDate": "2018-03-21",
-  "address": "The Landmark Centre\nWater Corporation Drive\nOff Ligali Ayorinde\nOniru\nVictoria Island\nLagos\nNigeria",
-  "website": "https://www.securexwestafrica.com/",
+  "address": {
+    "text": "The Landmark Centre\nWater Corporation Drive\nOff Ligali Ayorinde\nOniru\nVictoria Island\nLagos\nNigeria",
+    "iso2": "NG",
+    "lat": 6.4235715,
+    "lon": 3.4448347
+  },
+  "website": "https://www.securexwestafrica.com",
   "organiser": [
     {
       "name": "Afrocet Montgomery",

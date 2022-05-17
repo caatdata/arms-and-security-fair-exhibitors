@@ -4,8 +4,13 @@
   "edition": "2016",
   "startDate": "2016-03-01",
   "endDate": "2016-03-03",
-  "address": "The Landmark Centre\nLagos\nNigeria",
-  "website": "http://www.securexwestafrica.com/",
+  "address": {
+    "text": "The Landmark Centre\nLagos\nNigeria",
+    "iso2": "NG",
+    "lat": 6.4235715,
+    "lon": 3.4448347
+  },
+  "website": "http://www.securexwestafrica.com",
   "organiser": [
     {
       "name": "Afrocet Montgomery",

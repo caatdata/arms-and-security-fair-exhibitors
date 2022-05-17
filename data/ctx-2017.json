@@ -8,8 +8,13 @@
   ],
   "startDate": "2017-05-03",
   "endDate": "2017-05-04",
-  "address": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
-  "website": "https://www.counterterrorexpo.com/",
+  "address": {
+    "text": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4963566,
+    "lon": -0.2107637
+  },
+  "website": "https://www.counterterrorexpo.com",
   "social": [
     {
       "platform": "twitter",

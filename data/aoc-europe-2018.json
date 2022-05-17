@@ -9,8 +9,13 @@
   ],
   "startDate": "2018-06-05",
   "endDate": "2018-06-07",
-  "address": "Congrès Beaulieu\nLausanne\nSwitzerland",
-  "website": "https://www.eweurope.com/",
+  "address": {
+    "text": "Congrès Beaulieu\nLausanne\nSwitzerland",
+    "iso2": "CH",
+    "lat": 46.5287017,
+    "lon": 6.6259245
+  },
+  "website": "https://www.eweurope.com",
   "organiser": {
     "name": "Clarion Defence & Security"
   }

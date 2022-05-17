@@ -5,8 +5,13 @@
   "edition": "2019",
   "startDate": "2019-03-26",
   "endDate": "2019-03-30",
-  "address": "Jalan Lima\nPadang Matsirat Kedah\nLangkawi\nMalaysian Islands 07000\nMalaysia.",
-  "website": "http://www.limaexhibition.com/",
+  "address": {
+    "text": "Jalan Lima\nPadang Matsirat Kedah\nLangkawi\nMalaysian Islands 07000\nMalaysia.",
+    "iso2": "MY",
+    "lat": 6.352056999999999,
+    "lon": 99.733603
+  },
+  "website": "http://www.limaexhibition.com",
   "social": [
     {
       "platform": "facebook",

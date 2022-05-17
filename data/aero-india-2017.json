@@ -4,7 +4,12 @@
   "edition": "2017",
   "startDate": "2017-02-14",
   "endDate": "2017-02-18",
-  "address": "Yelahanka Air Force Station\nBenglauru\nIndia",
+  "address": {
+    "text": "Yelahanka Air Force Station\nBenglauru\nIndia",
+    "iso2": "IN",
+    "lat": 13.1372433,
+    "lon": 77.6102844
+  },
   "website": "https://aeroindia.gov.in",
   "exhibitorListUrl": "http://aeroindia.in/CompanyAICountryWiseSearch.aspx",
   "exhibitorListDate": "2017-02-17T20:51:10+00:00",

@@ -8,8 +8,13 @@
   "edition": "2004",
   "startDate": "2004-06-23",
   "endDate": "2004-06-25",
-  "address": "Acropolis Conference & Exhibition Centre\nNice\nFrance",
-  "website": "http://www.udt-europe.com/",
+  "address": {
+    "text": "Acropolis Conference & Exhibition Centre\nNice\nFrance",
+    "iso2": "FR",
+    "lat": 43.7052109,
+    "lon": 7.281529700000001
+  },
+  "website": "http://www.udt-europe.com",
   "organiser": [
     {
       "name": "Nexus Media Ltd.",

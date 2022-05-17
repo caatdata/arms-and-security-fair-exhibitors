@@ -5,8 +5,13 @@
   "edition": "2017",
   "startDate": "2017-12-12",
   "endDate": "2017-12-14",
-  "address": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
-  "website": "https://www.gulfdefense.com/",
+  "address": {
+    "text": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
+    "iso2": "KW",
+    "lat": 29.2660313,
+    "lon": 47.8625634
+  },
+  "website": "https://www.gulfdefense.com",
   "organiser": [
     {
       "name": "Kuwait Int'l Fair"
@@ -20,483 +25,771 @@
   "exhibitor": [
     {
       "name": "Jotov & Son Bulgaria Ltd.",
-      "country": "Bulgaria",
-      "website": "http://www.jotovandson.com/"
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      },
+      "website": "http://www.jotovandson.com"
     },
     {
       "name": "Shanghai China Best Source Industrial Development Co. Ltd.",
-      "country": "China",
-      "website": "http://www.police-military.com/"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      },
+      "website": "http://www.police-military.com"
     },
     {
       "name": "Défense Conseil International – DCI",
-      "country": "France",
-      "website": "http://www.groupedci.com/"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.groupedci.com"
     },
     {
       "name": "ECA Group",
-      "country": "France",
-      "website": "http://www.ecagroup.com/"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.ecagroup.com"
     },
     {
       "name": "NAVAL-GROUP",
-      "country": "France",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "website": "https://www.naval-group.com/en/"
     },
     {
       "name": "MBDA Missile Systems",
-      "country": "France",
-      "website": "http://www.mbda-systems.com/"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.mbda-systems.com"
     },
     {
       "name": "Renault Trucks Defense SAS",
-      "country": "France",
-      "website": "http://www.renault-trucks-defense.com/"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.renault-trucks-defense.com"
     },
     {
       "name": "THALES",
-      "country": "France",
-      "website": "http://www.thalesgroup.com/"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.thalesgroup.com"
     },
     {
       "name": "Creative Consulting GmbH – CCO",
-      "country": "Germany",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
       "website": "http://www.cco-germany.eu/en/"
     },
     {
       "name": "Diehl Defence GmbH & Co. KG",
-      "country": "Germany",
-      "website": "http://www.diehl-defence.com/"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.diehl-defence.com"
     },
     {
       "name": "Eurofighter Jagdflugzeug GmbH",
-      "country": "Germany",
-      "website": "http://www.eurofighter.com/"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.eurofighter.com"
     },
     {
       "name": "Luerssen Werft GmbH & Co. KG",
-      "country": "Germany",
-      "website": "http://www.luerssen.de/"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.luerssen.de"
     },
     {
       "name": "RAM-System GmbH",
-      "country": "Germany",
-      "website": "http://www.ramsys.de/"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.ramsys.de"
     },
     {
       "name": "Rohde & Schwarz GmbH & Co. KG",
-      "country": "Germany",
-      "website": "http://www.rohde-schwarz.com/"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.rohde-schwarz.com"
     },
     {
       "name": "Elettronica",
-      "country": "Italy",
-      "website": "http://www.elt-roma.com/"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.elt-roma.com"
     },
     {
       "name": "Eurofighter",
-      "country": "Italy",
-      "website": "http://www.eurofighter.com/"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.eurofighter.com"
     },
     {
       "name": "Leonardo",
-      "country": "Italy",
-      "website": "http://www.leonardocompany.com/"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.leonardocompany.com"
     },
     {
       "name": "Leonardo Aircraft",
-      "country": "Italy",
-      "website": "http://www.leonardocompany.com/"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.leonardocompany.com"
     },
     {
       "name": "Leonardo Defence Systems",
-      "country": "Italy",
-      "website": "http://www.leonardocompany.com/"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.leonardocompany.com"
     },
     {
       "name": "TNT Productions Kazakhstan",
-      "country": "Kazakhstan",
-      "website": "http://www.tntexpo.com/"
+      "country": {
+        "text": "Kazakhstan",
+        "iso2": "KZ"
+      },
+      "website": "http://www.tntexpo.com"
     },
     {
       "name": "D. I. Optical",
-      "country": "Korea",
-      "website": "http://www.donginoptical.com/"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      },
+      "website": "http://www.donginoptical.com"
     },
     {
       "name": "Hanwha Systems",
-      "country": "Korea",
-      "website": "http://www.hanwhasystems.com/"
+      "country": {
+        "text": "Korea",
+        "iso2": "KR"
+      },
+      "website": "http://www.hanwhasystems.com"
     },
     {
       "name": "Al Gannas Gulf for Training and Contracting",
-      "country": "Kuwait",
-      "website": "http://www.algannas-group.com/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.algannas-group.com"
     },
     {
       "name": "Kuwait Civil Defense Authority",
-      "country": "Kuwait",
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
       "website": "https://www.moi.gov.kw/civildefense/en/calling.aspx"
     },
     {
       "name": "Kuwait Fire Service Directorate",
-      "country": "Kuwait",
-      "website": "http://www.kfsd.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.kfsd.gov.kw"
     },
     {
       "name": "Kuwait Ministry of Defense",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Kuwait Ministry of Interior",
-      "country": "Kuwait",
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
       "website": "https://www.moi.gov.kw/portal/venglish/"
     },
     {
       "name": "Kuwait MoD – Air Forces",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Kuwait MoD – Land Forces",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Kuwait MoD – Logistic Department",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Kuwait MoD – Navy Forces",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Kuwait National Guard",
-      "country": "Kuwait",
-      "website": "https://www.kng.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "https://www.kng.gov.kw"
     },
     {
       "name": "Kuwait Special Forces Explosive Department",
-      "country": "Kuwait",
-      "website": "http://www.mod.gov.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.mod.gov.kw"
     },
     {
       "name": "Sultan Telecom",
-      "country": "Kuwait",
-      "website": "http://www.sultantelecom.com.kw/"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      },
+      "website": "http://www.sultantelecom.com.kw"
     },
     {
       "name": "LiTak-Tak",
-      "country": "Lithuania",
-      "website": "http://www.litaktak.com/"
+      "country": {
+        "text": "Lithuania",
+        "iso2": "LT"
+      },
+      "website": "http://www.litaktak.com"
     },
     {
       "name": "Damen Shipyards Group",
-      "country": "Netherlands",
-      "website": "http://www.damen.com/"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.damen.com"
     },
     {
       "name": "Kongsberg Defence & Aerospace AS",
-      "country": "Norway",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
       "website": "http://www.kongsberg.com/en/kds/"
     },
     {
       "name": "Kongsberg Integrated Defence Systems",
-      "country": "Norway",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
       "website": "http://www.kongsberg.com/en/kds/"
     },
     {
       "name": "Arsenal Resita *",
-      "country": "Romania",
-      "website": "http://www.arsenal.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.arsenal.ro"
     },
     {
       "name": "Carfil *",
-      "country": "Romania",
-      "website": "http://www.carfil.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.carfil.ro"
     },
     {
       "name": "Electromecanica Ploiesti *",
-      "country": "Romania",
-      "website": "http://www.elmecph.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.elmecph.ro"
     },
     {
       "name": "Fabrica de Arme Cugir *",
-      "country": "Romania",
-      "website": "http://www.facugir.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.facugir.ro"
     },
     {
       "name": "Fabrica de Pulberi Fagaras *",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.romarm.ro/en/"
     },
     {
       "name": "Metrom *",
-      "country": "Romania",
-      "website": "http://www.metrom.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.metrom.ro"
     },
     {
       "name": "Pirochim Victoria *",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.romarm.ro/en/"
     },
     {
       "name": "Romaero S.A.",
-      "country": "Romania",
-      "website": "http://www.romaero.com/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.romaero.com"
     },
     {
       "name": "Romarm S.A.",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.romarm.ro/en/"
     },
     {
       "name": "Romtehnica S.A.",
-      "country": "Romania",
-      "website": "http://www.romtehnica.com.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.romtehnica.com.ro"
     },
     {
       "name": "Uzina Automecanica Moreni *",
-      "country": "Romania",
-      "website": "http://www.uamoreni.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.uamoreni.ro"
     },
     {
       "name": "Uzina de Produse Speciale (UPS) Dragomiresti",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.romarm.ro/en/"
     },
     {
       "name": "Uzina Mecanica Bucuresti *",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.romarm.ro/en/"
     },
     {
       "name": "Uzina Mecanica Cugir *",
-      "country": "Romania",
-      "website": "http://www.umcugir.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.umcugir.ro"
     },
     {
       "name": "Uzina Mecanica Mija *",
-      "country": "Romania",
-      "website": "http://www.ummija.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.ummija.ro"
     },
     {
       "name": "Uzina Mecanica Plopeni *",
-      "country": "Romania",
-      "website": "http://www.ump.ro/"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
+      "website": "http://www.ump.ro"
     },
     {
       "name": "Uzina Mecanica Sadu *",
-      "country": "Romania",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      },
       "website": "http://www.umsadu.ro/acasa/"
     },
     {
       "name": "Experimental Machine-Design Bureau “Novator” JSC",
-      "country": "Russia",
-      "website": "http://www.okb-novator.ru/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.okb-novator.ru"
     },
     {
       "name": "JSC “Concern “Sozvezdie”",
-      "country": "Russia",
-      "website": "http://www.sozvezdie.su/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.sozvezdie.su"
     },
     {
       "name": "JSC “NIMI named after V.V. Bahirev”",
-      "country": "Russia",
-      "website": "http://www.nimi.it-ix.ru/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.nimi.it-ix.ru"
     },
     {
       "name": "JSC “SPLAV Scientific Production Association” (JSC “SPLAV SPA”)",
-      "country": "Russia",
-      "website": "http://www.splav.org/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.splav.org"
     },
     {
       "name": "KBP named after Academician A. Shipunov, JSC",
-      "country": "Russia",
-      "website": "http://www.kbptula.ru/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.kbptula.ru"
     },
     {
       "name": "PF Logos",
-      "country": "Russia",
-      "website": "http://www.logos-sim.com/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.logos-sim.com"
     },
     {
       "name": "Rosoboronexport, JSC",
-      "country": "Russia",
-      "website": "http://www.roe.ru/"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://www.roe.ru"
     },
     {
       "name": "Saab",
-      "country": "Sweden",
-      "website": "http://www.saab.com/"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "http://www.saab.com"
     },
     {
       "name": "Saab Defence & Security",
-      "country": "Sweden",
-      "website": "http://www.saab.com/"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "http://www.saab.com"
     },
     {
       "name": "3EEOS",
-      "country": "Turkey",
-      "website": "http://www.3eeos.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.3eeos.com"
     },
     {
       "name": "AKSA Run Flat",
-      "country": "Turkey",
-      "website": "http://www.aksarunflat.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.aksarunflat.com.tr"
     },
     {
       "name": "ASELSAN",
-      "country": "Turkey",
-      "website": "http://www.aselsan.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.aselsan.com.tr"
     },
     {
       "name": "AVS Savunmna Tekstil San. Ve Dis Tic. Ltd. Sti",
-      "country": "Turkey",
-      "website": "http://www.avssaraciye.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.avssaraciye.com.tr"
     },
     {
       "name": "BMC",
-      "country": "Turkey",
-      "website": "http://www.bmc.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.bmc.com.tr"
     },
     {
       "name": "FNSS Savunma Sistemleri A.S.",
-      "country": "Turkey",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
       "website": "http://www.fnss.com.tr/en/"
     },
     {
       "name": "GARANTİ GİYİM",
-      "country": "Turkey",
-      "website": "http://www.garantigiyim.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.garantigiyim.com"
     },
     {
       "name": "Guclu Tekstil Makine Tarım İşletmeleri Sanayi ve Ticaret Ltd. Şirketi",
-      "country": "Turkey",
-      "website": "http://www.guclultd.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.guclultd.com"
     },
     {
       "name": "Havelsan Inc.",
-      "country": "Turkey",
-      "website": "http://www.havelsan.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.havelsan.com.tr"
     },
     {
       "name": "HTR – Havelsan Teknoloji Radar A.Ş.",
-      "country": "Turkey",
-      "website": "http://www.htr.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.htr.com.tr"
     },
     {
       "name": "İŞBİR Elektrik SAN A.Ş.",
-      "country": "Turkey",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
       "website": "http://www.isbirelektrik.com.tr/en/"
     },
     {
       "name": "M-D2 Engineering",
-      "country": "Turkey",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
       "website": "http://www.m-d2.com.tr/tr/"
     },
     {
       "name": "MilSOFT Yazılım Teknolojileri A.Ş.",
-      "country": "Turkey",
-      "website": "http://www.milsoft.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.milsoft.com.tr"
     },
     {
       "name": "Nurol Makina VE Sanayi A.S.",
-      "country": "Turkey",
-      "website": "http://www.nurolmakina.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.nurolmakina.com.tr"
     },
     {
       "name": "OTOKAR",
-      "country": "Turkey",
-      "website": "http://www.otokar.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.otokar.com.tr"
     },
     {
       "name": "SDT – Space & Defence Technologies Inc.",
-      "country": "Turkey",
-      "website": "http://www.sdt.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.sdt.com.tr"
     },
     {
       "name": "SIMSOFT",
-      "country": "Turkey",
-      "website": "http://www.simsoft.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.simsoft.com.tr"
     },
     {
       "name": "SSİ – Defence and Aerospace Industry Exporters Association",
-      "country": "Turkey",
-      "website": "http://www.ssi.gov.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.ssi.gov.tr"
     },
     {
       "name": "SSM – Undersecretariat for Defence Industries",
-      "country": "Turkey",
-      "website": "http://www.ssm.gov.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.ssm.gov.tr"
     },
     {
       "name": "STM – Savunma Teknolojileri Mühendislik ve Tic. A.Ş.",
-      "country": "Turkey",
-      "website": "http://www.stm.com.tr/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.stm.com.tr"
     },
     {
       "name": "TAIS Geni Insa ve Pazarlama Anonim Sirketi",
-      "country": "Turkey",
-      "website": "http://www.taisshipyards.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.taisshipyards.com"
     },
     {
       "name": "TRANSVARO – Unifo Gıda Sanayi ve Ticaret A.Ş.",
-      "country": "Turkey",
-      "website": "http://www.uyargroup.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.uyargroup.com"
     },
     {
       "name": "UNİFO – Unifo Gıda Sanayi ve Ticaret A.Ş.",
-      "country": "Turkey",
-      "website": "http://www.uyargroup.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.uyargroup.com"
     },
     {
       "name": "Yonca – Onuk",
-      "country": "Turkey",
-      "website": "http://www.yonca-onuk.com/"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "http://www.yonca-onuk.com"
     },
     {
       "name": "General Atomics Aeronautical Systems, Inc.",
-      "country": "United States of America",
-      "website": "http://www.ga-asi.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.ga-asi.com"
     },
     {
       "name": "Lockheed Martin",
-      "country": "United States of America",
-      "website": "http://www.lockheedmartin.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.lockheedmartin.com"
     },
     {
       "name": "Oshkosh Defense",
-      "country": "United States of America",
-      "website": "http://www.oshkoshdefense.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.oshkoshdefense.com"
     },
     {
       "name": "Otis Technology",
-      "country": "United States of America",
-      "website": "http://www.otistec.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.otistec.com"
     },
     {
       "name": "Raytheon Company",
-      "country": "United States of America",
-      "website": "http://www.raytheon.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.raytheon.com"
     },
     {
       "name": "Raytheon Missile Systems",
-      "country": "United States of America",
-      "website": "http://www.raytheon.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.raytheon.com"
     },
     {
       "name": "Textron Aviation",
-      "country": "United States of America",
-      "website": "http://www.textronsystems.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.textronsystems.com"
     },
     {
       "name": "Textron Systems",
-      "country": "United States of America",
-      "website": "http://www.textronsystems.com/"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.textronsystems.com"
     }
   ]
 }

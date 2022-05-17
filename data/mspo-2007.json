@@ -8,7 +8,12 @@
   ],
   "startDate": "2007-09-03",
   "endDate": "2007-09-06",
-  "address": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+  "address": {
+    "text": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+    "iso2": "PL",
+    "lat": 50.8998777,
+    "lon": 20.5890132
+  },
   "website": "http://targikielce.pl/index.html?k=mspo&s=index",
   "organiser": {
     "name": "Targi Kielce",

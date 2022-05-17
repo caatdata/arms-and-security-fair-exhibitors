@@ -4,7 +4,12 @@
   "edition": "2019",
   "startDate": "2019-05-29",
   "endDate": "2019-05-30",
-  "address": "EY Centre\n4899 Uplands Drive\nOttawa\nOntario\nCanada",
+  "address": {
+    "text": "EY Centre\n4899 Uplands Drive\nOttawa\nOntario\nCanada",
+    "iso2": "CA",
+    "lat": 45.3322655,
+    "lon": -75.653978
+  },
   "website": "https://www.defenceandsecurity.ca/CANSEC/",
   "organiser": [
     {

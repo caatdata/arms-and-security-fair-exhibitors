@@ -5,7 +5,12 @@
   "edition": "2022",
   "startDate": "2022-11-09",
   "endDate": "2022-11-11",
-  "address": "Sakhir Airbase\nKingdom of Bahrain",
+  "address": {
+    "text": "Sakhir Airbase\nKingdom of Bahrain",
+    "iso2": "BH",
+    "lat": 26.0463067,
+    "lon": 50.5300217
+  },
   "website": "http://www.bahraininternationalairshow.com",
   "organiser": [
     {

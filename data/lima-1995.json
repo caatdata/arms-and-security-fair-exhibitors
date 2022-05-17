@@ -5,8 +5,11 @@
   "edition": "1995",
   "startDate": "1995-12-05",
   "endDate": "1995-12-10",
-  "address": [
-    "Langkawi\nMalaysia"
-  ],
+  "address": {
+    "text": "Langkawi\nMalaysia",
+    "iso2": "MY",
+    "lat": 6.35,
+    "lon": 99.8
+  },
   "website": "https://www.pnm.gov.my/yangpertama/Auto_Lima95.htm"
 }

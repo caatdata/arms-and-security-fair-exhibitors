@@ -4,7 +4,12 @@
   "edition": "2005",
   "startDate": "2005-05-17",
   "endDate": "2005-05-19",
-  "address": "NEC\nBirmingham\nUnited Kingdom",
+  "address": {
+    "text": "NEC\nBirmingham\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 52.45424269999999,
+    "lon": -1.7170151
+  },
   "website": "http://www.ifsec.co.uk/index.asp",
   "organiser": [
     {

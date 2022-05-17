@@ -5,7 +5,12 @@
   "edition": "2023",
   "startDate": "2023-05-24",
   "endDate": "2023-05-26",
-  "address": "Brno Exhibition Centre\nVystaviště 1, Brno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nVystaviště 1, Brno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "https://www.bvv.cz/en/idet/",
   "organiser": [
     {

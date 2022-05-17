@@ -4,8 +4,13 @@
   "edition": "2011",
   "startDate": "2011-10-18",
   "endDate": "2011-10-21",
-  "address": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
-  "website": "http://en.milipol.com/",
+  "address": {
+    "text": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
+    "iso2": "FR",
+    "lat": 48.8335509,
+    "lon": 2.2841096
+  },
+  "website": "http://en.milipol.com",
   "social": [
     {
       "platform": "facebook",

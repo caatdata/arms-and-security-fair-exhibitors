@@ -4,8 +4,13 @@
   "edition": "2012",
   "startDate": "2012-05-14",
   "endDate": "2012-05-17",
-  "address": "NEC\nBirmingham\nUnited Kingdom",
-  "website": "http://www.ifsec.co.uk/",
+  "address": {
+    "text": "NEC\nBirmingham\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 52.45424269999999,
+    "lon": -1.7170151
+  },
+  "website": "http://www.ifsec.co.uk",
   "organiser": [
     {
       "name": "United Business Media International",

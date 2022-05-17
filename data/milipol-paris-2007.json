@@ -4,8 +4,13 @@
   "edition": "2007",
   "startDate": "2007-10-09",
   "endDate": "2007-10-12",
-  "address": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
-  "website": "http://www.milipol.com/",
+  "address": {
+    "text": "Paris Porte de Versailles\nPavilion 1\nParis\nFrance",
+    "iso2": "FR",
+    "lat": 48.8335509,
+    "lon": 2.2841096
+  },
+  "website": "http://www.milipol.com",
   "organiser": [
     {
       "name": "EDS-MILIPOL",

@@ -9,7 +9,12 @@
   "edition": "2007",
   "startDate": "2007-04-17",
   "endDate": "2007-04-20",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
   "website": "http://laadexpo.com/2009/relatorio_poseventos.asp",
   "organiser": [
     {

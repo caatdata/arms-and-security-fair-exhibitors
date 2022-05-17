@@ -4,8 +4,13 @@
   "edition": "2013",
   "startDate": "2013-11-19",
   "endDate": "2013-11-22",
-  "address": "Parc des Expositions de Paris-Nord Villepinte\nZAC de Paris Nord 2 - CD 40\n93420 Villepinte\nFrance",
-  "website": "http://en.milipol.com/",
+  "address": {
+    "text": "Parc des Expositions de Paris-Nord Villepinte\nZAC de Paris Nord 2 - CD 40\n93420 Villepinte\nFrance",
+    "iso2": "FR",
+    "lat": 48.972348,
+    "lon": 2.516543
+  },
+  "website": "http://en.milipol.com",
   "social": [
     {
       "platform": "linkedin",

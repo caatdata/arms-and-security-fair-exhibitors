@@ -5,7 +5,12 @@
   "alias": "Feria Internacional del Aire y del Espacio",
   "startDate": "2000-03-27",
   "endDate": "2000-04-03",
-  "address": "Av. Pedro Aguirre Cerda 5.500 Los Cerrillos\nSantiago\nChile",
+  "address": {
+    "text": "Av. Pedro Aguirre Cerda 5.500 Los Cerrillos\nSantiago\nChile",
+    "iso2": "CL",
+    "lat": -33.4902545,
+    "lon": -70.7013764
+  },
   "organiser": [
     {
       "name": "FIDAE Group",

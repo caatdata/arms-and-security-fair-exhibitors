@@ -5,6 +5,11 @@
   "edition": "2012",
   "startDate": "2012-01-19",
   "endDate": "2012-01-21",
-  "address": "Sakhir Airbase\nKingdom of Bahrain",
+  "address": {
+    "text": "Sakhir Airbase\nKingdom of Bahrain",
+    "iso2": "BH",
+    "lat": 26.0463067,
+    "lon": 50.5300217
+  },
   "website": "http://www.bahraininternationalairshow.com"
 }

@@ -8,7 +8,12 @@
   ],
   "startDate": "2022-09-06",
   "endDate": "2022-09-09",
-  "address": "Targi Kielce\nSt. Zakładowa 1\n25-672 Kielce\nPoland",
+  "address": {
+    "text": "Targi Kielce\nSt. Zakładowa 1\n25-672 Kielce\nPoland",
+    "iso2": "PL",
+    "lat": 50.8989729,
+    "lon": 20.5885514
+  },
   "website": "https://www.targikielce.pl/en/mspo",
   "organiser": {
     "name": "Targi Kielce",

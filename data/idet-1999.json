@@ -5,6 +5,11 @@
   "edition": "1999",
   "startDate": "1999-05-04",
   "endDate": "1999-05-06",
-  "address": "Brno\nCzech Republic",
+  "address": {
+    "text": "Brno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.1950602,
+    "lon": 16.6068371
+  },
   "website": "https://www.researchgate.net/publication/330677905_SELECTION_AND_PERFORMANCE_OF_HYBRID_PROPELLANT_PROPULSION_SYSTEM"
 }

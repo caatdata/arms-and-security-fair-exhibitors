@@ -5,8 +5,13 @@
   "alias": "Seoul International Aerospace & Defense Exhibition 2023",
   "startDate": "2023-10-17",
   "endDate": "2023-10-22",
-  "address": "Seoul Airport\nSeoul\nKorea",
-  "website": "https://seouladex.com/",
+  "address": {
+    "text": "Seoul Airport\nSeoul\nKorea",
+    "iso2": "KR",
+    "lat": 37.4601908,
+    "lon": 126.4406957
+  },
+  "website": "https://seouladex.com",
   "social": [
     {
       "platform": "facebook",

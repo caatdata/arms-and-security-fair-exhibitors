@@ -8,8 +8,13 @@
   "edition": "2013",
   "startDate": "2013-06-18",
   "endDate": "2013-06-20",
-  "address": "Congress Center Hamburg (CCH)\nHamburg\nGermany",
-  "website": "http://www.udt-global.com/",
+  "address": {
+    "text": "Congress Center Hamburg (CCH)\nHamburg\nGermany",
+    "iso2": "DE",
+    "lat": 53.5623012,
+    "lon": 9.9856614
+  },
+  "website": "http://www.udt-global.com",
   "organiser": [
     {
       "name": "Clarion Events Ltd"

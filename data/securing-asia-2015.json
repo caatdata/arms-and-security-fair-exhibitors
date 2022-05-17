@@ -4,7 +4,12 @@
   "edition": "2015",
   "startDate": "2015-07-13",
   "endDate": "2015-07-14",
-  "address": "Harte & Garter\nWindsor Royal Berkshire\nSL4 1PH\nUnited Kingdom",
+  "address": {
+    "text": "Harte & Garter\nWindsor Royal Berkshire\nSL4 1PH\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.48034209999999,
+    "lon": -0.6157136999999999
+  },
   "website": "http://securingasia.com/home.aspx",
   "organiser": [
     {

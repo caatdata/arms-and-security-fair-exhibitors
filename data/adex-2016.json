@@ -7,7 +7,12 @@
   ],
   "startDate": "2016-09-27",
   "endDate": "2016-09-30",
-  "address": "Baku Expo Center\n515 1050\nHeydər Əliyev prospekti\nBakı\nAzerbaijan",
+  "address": {
+    "text": "Baku Expo Center\n515 1050\nHeydər Əliyev prospekti\nBakı\nAzerbaijan",
+    "iso2": "AZ",
+    "lat": 40.4398422,
+    "lon": 50.0336265
+  },
   "website": "https://adex.az",
   "exhibitorListUrl": "https://adex.az/en-content/11-2016.html",
   "organiser": {

@@ -5,6 +5,11 @@
   "edition": "1997",
   "startDate": "1997-05-06",
   "endDate": "1997-05-08",
-  "address": "Brno\nCzech Republic",
+  "address": {
+    "text": "Brno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.1950602,
+    "lon": 16.6068371
+  },
   "website": "http://carolina.cuni.cz/archive-en/Carolina-E-No-246.txt"
 }

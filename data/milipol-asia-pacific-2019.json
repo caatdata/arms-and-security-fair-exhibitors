@@ -4,8 +4,13 @@
   "edition": "2019",
   "startDate": "2019-04-02",
   "endDate": "2019-04-04",
-  "address": "Marina Bay Sands\nSingapore",
-  "website": "https://www.milipolasiapacific.com/",
+  "address": {
+    "text": "Marina Bay Sands\nSingapore",
+    "iso2": "SG",
+    "lat": 1.2846547,
+    "lon": 103.8609937
+  },
+  "website": "https://www.milipolasiapacific.com",
   "social": [
     {
       "platform": "facebook",

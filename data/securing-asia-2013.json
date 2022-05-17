@@ -5,7 +5,12 @@
   "edition": "2013",
   "startDate": "2013-06-24",
   "endDate": "2013-06-25",
-  "address": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+  "address": {
+    "text": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.5005006,
+    "lon": -0.1290725
+  },
   "website": "http://securingasia.com/home.aspx",
   "organiser": [
     {
@@ -22,35 +27,35 @@
   "exhibitor": [
     {
       "name": "Adws Glowal Limited",
-      "website": "http://www.adwsglobal.com/"
+      "website": "http://www.adwsglobal.com"
     },
     {
       "name": "Assaye Risk",
-      "website": "http://www.assayerisk.com/"
+      "website": "http://www.assayerisk.com"
     },
     {
       "name": "Dark Star",
-      "website": "http://www.darkstargroup.org/"
+      "website": "http://www.darkstargroup.org"
     },
     {
       "name": "Ex Police in Industry & Commerce",
-      "website": "http://www.epic-uk.com/"
+      "website": "http://www.epic-uk.com"
     },
     {
       "name": "Eye Watch",
-      "website": "http://eye-watch.in/"
+      "website": "http://eye-watch.in"
     },
     {
       "name": "HS Security",
-      "website": "http://hill-smith.co.uk/"
+      "website": "http://hill-smith.co.uk"
     },
     {
       "name": "Indianeye Security (India)",
-      "website": "http://indianeyesecurity.com/"
+      "website": "http://indianeyesecurity.com"
     },
     {
       "name": "ISMI",
-      "website": "http://www.international-security-management-institute.org.uk/"
+      "website": "http://www.international-security-management-institute.org.uk"
     },
     {
       "name": "London Chamber",
@@ -58,19 +63,19 @@
     },
     {
       "name": "NaCTSO",
-      "website": "http://www.nactso.gov.uk/"
+      "website": "http://www.nactso.gov.uk"
     },
     {
       "name": "Photon Instruments",
-      "website": "http://photoninstruments.in/"
+      "website": "http://photoninstruments.in"
     },
     {
       "name": "Strongfield Technologies Ltd",
-      "website": "http://www.strongfield.com/"
+      "website": "http://www.strongfield.com"
     },
     {
       "name": "Tiger Helicopters",
-      "website": "http://www.tigerhelicopters.co.uk/"
+      "website": "http://www.tigerhelicopters.co.uk"
     },
     {
       "name": "Ultralife",
@@ -78,11 +83,11 @@
     },
     {
       "name": "Veritair",
-      "website": "http://www.veritair.com/"
+      "website": "http://www.veritair.com"
     },
     {
       "name": "Wavesight",
-      "website": "http://www.wavesight.com/"
+      "website": "http://www.wavesight.com"
     },
     {
       "name": "West Midlands UK Trade & Investment (UKTI)",

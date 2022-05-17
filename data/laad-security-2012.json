@@ -7,7 +7,12 @@
   "edition": "2012",
   "startDate": "2012-04-10",
   "endDate": "2012-04-12",
-  "address": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+  "address": {
+    "text": "Riocentro\nAv. Salvador Allende\n6.555\nBarra da Tijuca\nRio de Janeiro",
+    "iso2": "BR",
+    "lat": -22.9772464,
+    "lon": -43.4114588
+  },
   "website": "http://www.laadsecurity.com/#",
   "organiser": [
     {

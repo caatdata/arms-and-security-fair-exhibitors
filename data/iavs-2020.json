@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2020",
   "startDate": "2020-01-20",
   "endDate": "2020-01-23",
-  "address": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\n200 Whitton Road\nTwickenham\nLondon\nTW2 7BA\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": "https://www.internationalarmouredvehicles.com",
   "social": [
     {

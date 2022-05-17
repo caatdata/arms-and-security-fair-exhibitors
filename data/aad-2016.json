@@ -5,7 +5,12 @@
   "edition": "2016",
   "startDate": "2016-09-14",
   "endDate": "2016-09-18",
-  "address": "Air Force Base Waterkloof\nCenturion\nTshwane\nGauteng\nSouth Africa",
+  "address": {
+    "text": "Air Force Base Waterkloof\nCenturion\nTshwane\nGauteng\nSouth Africa",
+    "iso2": "ZA",
+    "lat": -25.8161796,
+    "lon": 28.2246699
+  },
   "website": "http://www.aadexpo.co.za",
   "exhibitorListUrl": "http://www.aadexpo.co.za/img/programme/EXHIBITOR%20LIST%20aad2016.pdf",
   "exhibitorListDate": "2016-09-12T14:27:30+00:00",

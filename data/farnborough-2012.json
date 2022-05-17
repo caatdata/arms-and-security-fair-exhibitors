@@ -8,7 +8,12 @@
   ],
   "startDate": "2012-07-09",
   "endDate": "2012-07-13",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.farnborough.com",
   "exhibitorListUrl": "http://secure.smartregister.co.uk/events/fil/airshow/2012/exhibitorlist/home.aspx",
   "delegationListUrl": "https://www.caat.org.uk/issues/arms-fairs/farnborough/delegations/2012-08-20.ukti-dso.farnborough-2012-invitation-list.pdf",

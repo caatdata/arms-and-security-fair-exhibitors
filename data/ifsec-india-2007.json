@@ -8,8 +8,13 @@
   ],
   "startDate": "2007-10-25",
   "endDate": "2007-10-27",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
-  "website": "http://www.ifsecindia.com/",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
+  "website": "http://www.ifsecindia.com",
   "organiser": [
     {
       "name": "CMP Information",

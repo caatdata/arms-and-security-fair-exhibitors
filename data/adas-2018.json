@@ -5,14 +5,22 @@
   "edition": "2018",
   "startDate": "2018-09-26",
   "endDate": "2018-09-28",
-  "address": "World Trade Center\nMetro Manila\nPhilippines",
-  "website": "https://www.adas.ph/",
+  "address": {
+    "text": "World Trade Center\nMetro Manila\nPhilippines",
+    "iso2": "PH",
+    "lat": 14.5510219,
+    "lon": 120.9872126
+  },
+  "website": "https://www.adas.ph",
   "exhibitorListUrl": "https://event-reg.biz/oem-adas/OnlineExhListing",
   "exhibitorListDate": "2022-01-28T13:30:30+00:00",
   "exhibitor": [
     {
       "name": "3M Philippines",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.3mphilippines.com.ph/3M/en_PH/company-ph/",
       "category": [
@@ -21,9 +29,12 @@
     },
     {
       "name": "4M SYSTEMS",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://4msystems.cz/",
+      "website": "http://4msystems.cz",
       "category": [
         "Ballistics",
         "Body Protection & Clothing"
@@ -31,9 +42,12 @@
     },
     {
       "name": "AHOLDTECHPH CORPORATION",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.aholdtech.com/",
+      "website": "http://www.aholdtech.com",
       "category": [
         "Anti-Riot & Crowd Control Equipment",
         "Ballistics",
@@ -43,9 +57,12 @@
     },
     {
       "name": "AIRBUS",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.airbus.com/",
+      "website": "http://www.airbus.com",
       "category": [
         "Airborne Navigation Systems",
         "Border Security Systems",
@@ -63,9 +80,12 @@
     },
     {
       "name": "ASELSAN A.S",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.aselsan.com.tr/",
+      "website": "http://www.aselsan.com.tr",
       "category": [
         "Airborne Navigation Systems",
         "Border Security Systems",
@@ -84,9 +104,12 @@
     },
     {
       "name": "AURA, s.r.o.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.aura.cz/",
+      "website": "http://www.aura.cz",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Communication Systems",
@@ -95,9 +118,12 @@
     },
     {
       "name": "AeroVironment, Inc",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.avinc.com/",
+      "website": "http://www.avinc.com",
       "category": [
         "Airborne Navigation Systems",
         "Border Security Systems",
@@ -110,7 +136,10 @@
     },
     {
       "name": "Alvo Sp. z o.o. Sp.k",
-      "country": "POLAND",
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.alvo-mobilehospital.pl/en/",
       "category": [
@@ -121,9 +150,12 @@
     },
     {
       "name": "Armscor Global Defense, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.armscor.com/",
+      "website": "http://www.armscor.com",
       "category": [
         "Ammunition",
         "Hand Guns"
@@ -131,9 +163,12 @@
     },
     {
       "name": "Armscor Shooting Center, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://-/",
+      "website": "http://-",
       "category": [
         "Ammunition",
         "Hand Guns"
@@ -141,7 +176,10 @@
     },
     {
       "name": "Army Shirt Wear / VELA APPAREL COMPANY",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.facebook.com/armyshirtwear",
       "category": [
@@ -150,9 +188,12 @@
     },
     {
       "name": "Arsenal 2000 JSCo.",
-      "country": "BULGARIA",
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.arsenal2000.com/",
+      "website": "http://www.arsenal2000.com",
       "category": [
         "Ammunition",
         "Anti-Tank Systems",
@@ -162,18 +203,24 @@
     },
     {
       "name": "Asian Defence Journal",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.shpmedia.com/",
+      "website": "http://www.shpmedia.com",
       "category": [
         "Publications & Media"
       ]
     },
     {
       "name": "Astrophysics Asia Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.astrophysicsinc.com/",
+      "website": "http://www.astrophysicsinc.com",
       "category": [
         "Detection Equipment",
         "Electronic Security Systems",
@@ -182,9 +229,12 @@
     },
     {
       "name": "Austal Philippines",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.austal.com/",
+      "website": "http://www.austal.com",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Logistic Ships & Support Systems",
@@ -195,9 +245,12 @@
     },
     {
       "name": "BAMBU WIRELESS SOLUTIONS / BAMBUSAT",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://bambuwireless.com/",
+      "website": "http://bambuwireless.com",
       "category": [
         "Cables, Connectors & Accessories",
         "Communication Systems",
@@ -208,9 +261,12 @@
     },
     {
       "name": "BELL",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.bellflight.com/",
+      "website": "http://www.bellflight.com",
       "category": [
         "Drones / RPV / UAV",
         "Helicopters",
@@ -221,18 +277,24 @@
     },
     {
       "name": "BMW",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.bmw.com.ph/",
+      "website": "http://www.bmw.com.ph",
       "category": [
         "Logistics/Cargo Vehicles"
       ]
     },
     {
       "name": "Baudouin",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "https://www.baudouin.com/",
+      "website": "https://www.baudouin.com",
       "category": [
         "Propulsion Systems - Diesel/Water Jet",
         "Sea Based Platforms & Equipment"
@@ -240,9 +302,12 @@
     },
     {
       "name": "Beijing Heweiyongtai Sci & Tech Co., Ltd",
-      "country": "CHINA",
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.heweigroup.com/",
+      "website": "http://www.heweigroup.com",
       "category": [
         "Anti-Tank Systems",
         "Detection Equipment",
@@ -251,7 +316,10 @@
     },
     {
       "name": "Belspetsvneshtechnika",
-      "country": "BELARUS",
+      "country": {
+        "text": "BELARUS",
+        "iso2": "BY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=djZnX%7C%7CuvRO11BR/9RmLOlQ==&e=KxqvCE97BZv1bGlYh/xUIA==",
       "website": "http://bsvt.by/en",
       "category": [
@@ -273,45 +341,60 @@
     },
     {
       "name": "Bohemia Interactive Simulations",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.bisimulations.com/",
+      "website": "http://www.bisimulations.com",
       "category": [
         "Training & Simulation Systems"
       ]
     },
     {
       "name": "BrahMos Aerospace",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.brahmos.com/",
+      "website": "http://www.brahmos.com",
       "category": [
         "Missiles"
       ]
     },
     {
       "name": "Bureau of Customs",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.customs.gov.ph/",
+      "website": "http://www.customs.gov.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "CNIM",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.cnim.com/",
+      "website": "http://www.cnim.com",
       "category": [
         "Amphibious Vehicles"
       ]
     },
     {
       "name": "COMSPEC",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://comspec.com.ph/",
+      "website": "http://comspec.com.ph",
       "category": [
         "Access Control",
         "Cables, Connectors & Accessories",
@@ -328,9 +411,12 @@
     },
     {
       "name": "Ceska zbrojovka a.s.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.czub.cz/",
+      "website": "http://www.czub.cz",
       "category": [
         "Hand Guns",
         "Rifles/Machine Guns"
@@ -338,18 +424,24 @@
     },
     {
       "name": "DSA 2020",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=HI5Nrybh8YghDGKnKHOCsA==&e=vMbFhuclFs2o5/f00epU9A==",
-      "website": "http://www.dsaexhibition.com/",
+      "website": "http://www.dsaexhibition.com",
       "category": [
         "Event Organizer"
       ]
     },
     {
       "name": "DSME (Daewoo Shipbuilding & Marine Engineering)",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.dsme.co.kr/",
+      "website": "http://www.dsme.co.kr",
       "category": [
         "Landing Craft",
         "Logistic Ships & Support Systems",
@@ -361,9 +453,12 @@
     },
     {
       "name": "Dynamic Castings",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.dynacast.ph/",
+      "website": "http://www.dynacast.ph",
       "category": [
         "anodes, propellers, bearings",
         "Propulsion Systems - Diesel/Water Jet",
@@ -372,9 +467,12 @@
     },
     {
       "name": "Dynamic Power Marine & Industrial Hardware Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.dynamicpower.ph/",
+      "website": "http://www.dynamicpower.ph",
       "category": [
         "boat building",
         "Propulsion Systems - Diesel/Water Jet",
@@ -383,18 +481,24 @@
     },
     {
       "name": "E-Lander",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.e-lander.co.il/",
+      "website": "http://www.e-lander.co.il",
       "category": [
         "Magazines"
       ]
     },
     {
       "name": "Elbit Systems Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.elbitsystems.com/",
+      "website": "http://www.elbitsystems.com",
       "category": [
         "Ammunition",
         "Armoured Vehicles/Personnel Carriers",
@@ -415,9 +519,12 @@
     },
     {
       "name": "GROUND Co., Ltd",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=Z4tsiiPaYBUe28TNv86tIQ==&e=SgH3e0svlD/rn8GYDZQUbg==",
-      "website": "http://www.ground.co.kr%20%2C%20%20www.eca3g.com/",
+      "website": "http://www.ground.co.kr%20%2C%20%20www.eca3g.com",
       "category": [
         "CCTV Surveillance Systems",
         "Coastal Surveillance Systems",
@@ -432,9 +539,12 @@
     },
     {
       "name": "Hale Hamilton Valves Ltd",
-      "country": "UNITED KINGDOM",
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.halehamilton.com/",
+      "website": "http://www.halehamilton.com",
       "category": [
         "Diving Systems & Equipment",
         "High pressure valves & pressure reducing stations",
@@ -443,16 +553,22 @@
     },
     {
       "name": "Hangzhou Hikvision Technology Co., Ltd",
-      "country": "CHINA",
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.hikvision.com/",
+      "website": "http://www.hikvision.com",
       "category": [
         "CCTV Surveillance Systems"
       ]
     },
     {
       "name": "Hanwha Systems",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.hanwhasystems.com/eng/main/main.do",
       "category": [
@@ -474,9 +590,12 @@
     },
     {
       "name": "Harris Corporation",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=Uv0qimLtgdMeqzYslU7OtQ==&e=j1142I5/VOVvDv0um/0Myg==",
-      "website": "http://harris.com/",
+      "website": "http://harris.com",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Communication Systems",
@@ -486,7 +605,10 @@
     },
     {
       "name": "Harris Gun Works",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.harrisgunworks.com/index.html",
       "category": [
@@ -495,9 +617,12 @@
     },
     {
       "name": "Heitech Padu Berhad",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.heitech.com.my/",
+      "website": "http://www.heitech.com.my",
       "category": [
         "Access Control",
         "Cables, Connectors & Accessories",
@@ -511,18 +636,24 @@
     },
     {
       "name": "Hytera Communications Corporation Limited",
-      "country": "CHINA",
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://-/",
+      "website": "http://-",
       "category": [
         "Radio & Satellite Communications"
       ]
     },
     {
       "name": "Hyundai Heavy Industries",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://english.hhi.co.kr/",
+      "website": "http://english.hhi.co.kr",
       "category": [
         "Landing Craft",
         "Logistic Ships & Support Systems",
@@ -532,9 +663,12 @@
     },
     {
       "name": "IAI Israel Aerospace Industries Ltd",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.iai.co.il/",
+      "website": "http://www.iai.co.il",
       "category": [
         "Armoured Vehicles/Personnel Carriers",
         "Command, Control, Communications and Information Systems",
@@ -554,18 +688,24 @@
     },
     {
       "name": "INDO DEFENCE 2018",
-      "country": "INDONESIA",
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.indodefence.com/",
+      "website": "http://www.indodefence.com",
       "category": [
         "Exhibition Organizer"
       ]
     },
     {
       "name": "INFOGLOBAL",
-      "country": "INDONESIA",
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.infoglobal.co.id/",
+      "website": "http://www.infoglobal.co.id",
       "category": [
         "Access Control",
         "Airborne Navigation Systems",
@@ -579,9 +719,12 @@
     },
     {
       "name": "International Armored Group FZE",
-      "country": "UNITED ARAB EMIRATES",
+      "country": {
+        "text": "UNITED ARAB EMIRATES",
+        "iso2": "AE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.interarmored.com/",
+      "website": "http://www.interarmored.com",
       "category": [
         "Armoured Vehicles/Personnel Carriers",
         "Ballistics",
@@ -594,18 +737,24 @@
     },
     {
       "name": "Jiangsu Linry Innovation Material Technology Co., Ltd",
-      "country": "CHINA",
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.lrkj.net/",
+      "website": "http://www.lrkj.net",
       "category": [
         "Ballistics"
       ]
     },
     {
       "name": "KDM",
-      "country": "PAKISTAN",
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.kdm-digital.com/",
+      "website": "http://www.kdm-digital.com",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Communication Systems",
@@ -615,9 +764,12 @@
     },
     {
       "name": "KESTRAL",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.kestral.com/",
+      "website": "http://www.kestral.com",
       "category": [
         "Airborne Navigation Systems",
         "Ammunition",
@@ -638,9 +790,12 @@
     },
     {
       "name": "KOREA CNO TECH CO.,LTD",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.cnotech.com/",
+      "website": "http://www.cnotech.com",
       "category": [
         "Ammunition",
         "Anti-Riot & Crowd Control Equipment",
@@ -650,18 +805,24 @@
     },
     {
       "name": "Kia Motors Co",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.kia.com/",
+      "website": "http://www.kia.com",
       "category": [
         "Armoured Vehicles/Personnel Carriers"
       ]
     },
     {
       "name": "Korea Aerospace Industries, Ltd",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.koreaaero.com/",
+      "website": "http://www.koreaaero.com",
       "category": [
         "Helicopters",
         "Military Aircaft",
@@ -670,7 +831,10 @@
     },
     {
       "name": "Korea Defense Industry Association",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.kdia.or.kr/eng",
       "category": [
@@ -679,16 +843,22 @@
     },
     {
       "name": "Korea T.E.S Co., Ltd",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=kVqzZkoUwB9GyVLdyP%7C%7COXg==&e=SgH3e0svlD/rn8GYDZQUbg==",
-      "website": "http://www.koreates.com/",
+      "website": "http://www.koreates.com",
       "category": [
         "Electronic Sensors"
       ]
     },
     {
       "name": "L3 Technologies",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.l3t.com/cs-east",
       "category": [
@@ -699,9 +869,12 @@
     },
     {
       "name": "LACROIX",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.lacroix-defense.com/",
+      "website": "http://www.lacroix-defense.com",
       "category": [
         "Anti-Aircaft Systems",
         "Drones / RPV / UAV",
@@ -712,9 +885,12 @@
     },
     {
       "name": "LEONARDO SPA",
-      "country": "ITALY",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.leonardocompany.com/",
+      "website": "http://www.leonardocompany.com",
       "category": [
         "Airborne Navigation Systems",
         "Communication Systems",
@@ -727,9 +903,12 @@
     },
     {
       "name": "LIG NEX1",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.lignex1.com/",
+      "website": "http://www.lignex1.com",
       "category": [
         "Anti-Aircaft Systems",
         "Anti-Tank Systems",
@@ -745,9 +924,12 @@
     },
     {
       "name": "LOTUS INTERNATIONAL CO.,LTD",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.lotusglobal.com/",
+      "website": "http://www.lotusglobal.com",
       "category": [
         "Anti-Riot & Crowd Control Equipment",
         "Armoured Vehicles/Personnel Carriers",
@@ -766,9 +948,12 @@
     },
     {
       "name": "Larsen & Toubro Limited",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.larsentoubro.com/",
+      "website": "http://www.larsentoubro.com",
       "category": [
         "Anti-Aircaft Systems",
         "Artillery & Mortar Systems",
@@ -783,9 +968,12 @@
     },
     {
       "name": "Lockheed Martin Corporation",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.lockheedmartin.com/",
+      "website": "http://www.lockheedmartin.com",
       "category": [
         "Military Aircaft",
         "Radars"
@@ -793,9 +981,12 @@
     },
     {
       "name": "MBDA",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.mbda-systems.com/",
+      "website": "http://www.mbda-systems.com",
       "category": [
         "Anti-Aircaft Systems",
         "Anti-Tank Systems",
@@ -804,18 +995,24 @@
     },
     {
       "name": "MIDES - Malaysia Pavilion",
-      "country": "MALAYSIA",
+      "country": {
+        "text": "MALAYSIA",
+        "iso2": "MY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://-/",
+      "website": "http://-",
       "category": [
         "Government"
       ]
     },
     {
       "name": "MKU GmbH",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.mku.com/",
+      "website": "http://www.mku.com",
       "category": [
         "Ballistics",
         "Body Protection & Clothing",
@@ -828,9 +1025,12 @@
     },
     {
       "name": "MKU Ltd",
-      "country": "INDIA",
+      "country": {
+        "text": "INDIA",
+        "iso2": "IN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.mku.com/",
+      "website": "http://www.mku.com",
       "category": [
         "Ballistics",
         "Body Protection & Clothing",
@@ -842,9 +1042,12 @@
     },
     {
       "name": "MSI-Defence Systems Ltd",
-      "country": "UNITED KINGDOM",
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.msi-dsl.com/",
+      "website": "http://www.msi-dsl.com",
       "category": [
         "Artillery & Mortar Systems",
         "Sea Based Platforms & Equipment"
@@ -852,9 +1055,12 @@
     },
     {
       "name": "Makina ve Kimya Endüstrisi Kurumu (MKEK)",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.mkek.gov.tr/",
+      "website": "http://www.mkek.gov.tr",
       "category": [
         "Ammunition",
         "Anti-Aircaft Systems",
@@ -867,9 +1073,12 @@
     },
     {
       "name": "Masterclock, Inc",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "https://www.masterclock.com/",
+      "website": "https://www.masterclock.com",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Communication Systems",
@@ -882,9 +1091,12 @@
     },
     {
       "name": "Microdata Systems and Management Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.microdata.com.ph/",
+      "website": "http://www.microdata.com.ph",
       "category": [
         "CCTV Surveillance Systems",
         "Command, Control, Communications and Information Systems",
@@ -895,25 +1107,34 @@
     },
     {
       "name": "Milforce Equipment Co., Ltd",
-      "country": "CHINA",
+      "country": {
+        "text": "CHINA",
+        "iso2": "CN"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.milforce.cn/",
+      "website": "http://www.milforce.cn",
       "category": [
         "Body Protection & Clothing"
       ]
     },
     {
       "name": "Milipol Asia-Pacific 2019",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.milipolasiapacific.com/",
+      "website": "http://www.milipolasiapacific.com",
       "category": [
         "Event Organiser"
       ]
     },
     {
       "name": "Ministry of Defence of the Czech Republic & Embassy of the Czech Republic in Manila",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "http://www.army.cz/en/%20&%20https://www.mzv.cz/manila",
       "category": [
@@ -938,18 +1159,24 @@
     },
     {
       "name": "Ministry of Defence of the Republic of Indonesia",
-      "country": "INDONESIA",
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.kemhan.go.id/",
+      "website": "http://www.kemhan.go.id",
       "category": [
         "Government"
       ]
     },
     {
       "name": "NOVATECH RESOURCES PTE LTD",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.novatechresources.com/",
+      "website": "http://www.novatechresources.com",
       "category": [
         "Emergency Preparedness & Response",
         "Search & Rescue Systems",
@@ -958,9 +1185,12 @@
     },
     {
       "name": "National Radio & Telecommunication Corporation",
-      "country": "PAKISTAN",
+      "country": {
+        "text": "PAKISTAN",
+        "iso2": "PK"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=U910X9YlLRXoRvfQc9V2Gg==&e=7C298GrVcivDJ0yxQKUkWw==",
-      "website": "http://www.nrtc.com.pk/",
+      "website": "http://www.nrtc.com.pk",
       "category": [
         "Border Security Systems",
         "CCTV Surveillance Systems",
@@ -981,36 +1211,48 @@
     },
     {
       "name": "National Security Council",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.nsc.gov.ph/",
+      "website": "http://www.nsc.gov.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "North American Rescue LLC",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.narescue.com/",
+      "website": "http://www.narescue.com",
       "category": [
         "Tactical Medical Products"
       ]
     },
     {
       "name": "OFFICE OF CIVIL DEFENSE",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.ocd.gov.ph/",
+      "website": "http://www.ocd.gov.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "Otokar Otomotiv ve Savunma Sanayi A.S.",
-      "country": "TURKEY",
+      "country": {
+        "text": "TURKEY",
+        "iso2": "TR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.otokar.com/",
+      "website": "http://www.otokar.com",
       "category": [
         "Ambulances",
         "Amphibious Vehicles",
@@ -1019,7 +1261,10 @@
     },
     {
       "name": "P & C International",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
       "website": "https://pandci.com/en/",
       "category": [
@@ -1028,18 +1273,24 @@
     },
     {
       "name": "PHILIPPINE BOARD OF INVESTMENTS",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.boi.gov.ph/",
+      "website": "http://www.boi.gov.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "PT PAL INDONESIA (PERSERO)",
-      "country": "INDONESIA",
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=PLZkAZKRuX9YGv6ZommZew==&e=Sqi/Ci2ICvdPpT/8WEz5%7C%7Cg==",
-      "website": "http://www.pal.co.id/",
+      "website": "http://www.pal.co.id",
       "category": [
         "Landing Craft",
         "Logistic Ships & Support Systems",
@@ -1048,9 +1299,12 @@
     },
     {
       "name": "PT. PINDAD (PERSERO)",
-      "country": "INDONESIA",
+      "country": {
+        "text": "INDONESIA",
+        "iso2": "ID"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://-/",
+      "website": "http://-",
       "category": [
         "Ammunition",
         "Amphibious Vehicles",
@@ -1060,9 +1314,12 @@
     },
     {
       "name": "Panpisco Technologies, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=BHdoyit5Hw0CjPSZcuZorA==&e=Q4r4YMDL/hs7CZD7yps93A==",
-      "website": "http://www.panpisco-technologies.com/",
+      "website": "http://www.panpisco-technologies.com",
       "category": [
         "Airborne Navigation Systems",
         "Amphibious Vehicles",
@@ -1083,45 +1340,60 @@
     },
     {
       "name": "Philippine Air Force",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.paf.mil.ph/",
+      "website": "http://www.paf.mil.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "Philippine Army",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.army.mil.ph/",
+      "website": "http://www.army.mil.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "Philippine Coast Guard",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.coastguard.gov.ph/",
+      "website": "http://www.coastguard.gov.ph",
       "category": [
         "Government"
       ]
     },
     {
       "name": "Q Cyber Technologies s.A.r.l",
-      "country": "LUXEMBOURG",
+      "country": {
+        "text": "LUXEMBOURG",
+        "iso2": "LU"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://./",
+      "website": "http://.",
       "category": [
         "Cyber Intelligence Solutions"
       ]
     },
     {
       "name": "RAFAEL",
-      "country": "ISRAEL",
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.rafael.co.il/",
+      "website": "http://www.rafael.co.il",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Communication Systems",
@@ -1131,9 +1403,12 @@
     },
     {
       "name": "ROHDE & SCHWARZ GmbH & Co. KG",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.rohde-schwarz.com/",
+      "website": "http://www.rohde-schwarz.com",
       "category": [
         "Access Control",
         "Command, Control, Communications and Information Systems",
@@ -1145,27 +1420,36 @@
     },
     {
       "name": "ROSOBORONEXPORT, JSC",
-      "country": "RUSSIA",
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.roe.ru/",
+      "website": "http://www.roe.ru",
       "category": [
         "Export Agency"
       ]
     },
     {
       "name": "ROTINOR GmbH",
-      "country": "GERMANY",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.rotinor.com/",
+      "website": "http://www.rotinor.com",
       "category": [
         "Diving Systems & Equipment"
       ]
     },
     {
       "name": "Rohde and Schwarz (Philippines) Incorporated",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=7R%7C%7CujuJr71/zLua/LqELzA==&e=Y%7C%7CninauQrDwUJzD0JvjwaA==",
-      "website": "http://www.rohde-schwarz.com/",
+      "website": "http://www.rohde-schwarz.com",
       "category": [
         "Access Control",
         "Border Security Systems",
@@ -1177,9 +1461,12 @@
     },
     {
       "name": "Ryca Pte Ltd",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.military.sg/",
+      "website": "http://www.military.sg",
       "category": [
         "Ballistics",
         "Body Protection & Clothing",
@@ -1189,18 +1476,24 @@
     },
     {
       "name": "S&T Motiv Co., Ltd",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.sntmotiv.com/",
+      "website": "http://www.sntmotiv.com",
       "category": [
         "Rifles/Machine Guns"
       ]
     },
     {
       "name": "SAFRAN - Naval Defense",
-      "country": "FRANCE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.safran-group.com/",
+      "website": "http://www.safran-group.com",
       "category": [
         "Airborne Navigation Systems",
         "Detection Equipment",
@@ -1219,9 +1512,12 @@
     },
     {
       "name": "SFTE SpetsTechnoExport",
-      "country": "UKRAINE",
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.spetstechnoexport.com/",
+      "website": "http://www.spetstechnoexport.com",
       "category": [
         "Amphibious Vehicles",
         "Armoured Vehicles/Personnel Carriers",
@@ -1236,9 +1532,12 @@
     },
     {
       "name": "STV GROUP a.s.",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.stvgroup.cz/",
+      "website": "http://www.stvgroup.cz",
       "category": [
         "Ammunition",
         "Armoured Vehicles/Personnel Carriers",
@@ -1249,9 +1548,12 @@
     },
     {
       "name": "SVOS, spol s.r.o",
-      "country": "CZECH REPUBLIC",
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=kmcejVBUwCkHRL/xemoMyg==&e=2ZJaxyJ7zfxnx0XxWHu6sg==",
-      "website": "http://www.armsvos.cz/",
+      "website": "http://www.armsvos.cz",
       "category": [
         "Armoured Vehicles/Personnel Carriers",
         "Ballistics"
@@ -1259,9 +1561,12 @@
     },
     {
       "name": "Saab AB",
-      "country": "SWEDEN",
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://saab.com/",
+      "website": "http://saab.com",
       "category": [
         "Command, Control, Communications and Information Systems",
         "Military Aircaft",
@@ -1270,18 +1575,24 @@
     },
     {
       "name": "Saab AB (1870)",
-      "country": "SWEDEN",
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://saab.com/",
+      "website": "http://saab.com",
       "category": [
         "Military Aircaft"
       ]
     },
     {
       "name": "Safer PH Innovations, Inc.",
-      "country": "PHILIPPINES",
+      "country": {
+        "text": "PHILIPPINES",
+        "iso2": "PH"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.safer.ph/",
+      "website": "http://www.safer.ph",
       "category": [
         "Amphibious Vehicles",
         "Border Security Systems",
@@ -1302,9 +1613,12 @@
     },
     {
       "name": "Secura Group Limited",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=qQ33sJqPOvH2HTmtWjH3gQ==&e=hR6foOb04YIlK1gSRFd54w==",
-      "website": "http://www.securagroup.com.sg/",
+      "website": "http://www.securagroup.com.sg",
       "category": [
         "Access Control",
         "Border Security Systems",
@@ -1320,27 +1634,36 @@
     },
     {
       "name": "Shephard Media",
-      "country": "UNITED KINGDOM",
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "https://www.shephardmedia.com/",
+      "website": "https://www.shephardmedia.com",
       "category": [
         "Publications & Media"
       ]
     },
     {
       "name": "Singapore Business Federation (SBF)",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.sbf.org.sg/",
+      "website": "http://www.sbf.org.sg",
       "category": [
         "Services"
       ]
     },
     {
       "name": "Streamlight Inc.",
-      "country": "UNITED STATES OF AMERICA",
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.streamlight.com/",
+      "website": "http://www.streamlight.com",
       "category": [
         "Emergency Preparedness & Response",
         "Torches, lanterns, tactical equipment"
@@ -1348,27 +1671,36 @@
     },
     {
       "name": "TBT",
-      "country": "KOREA",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.tbtsys.com/",
+      "website": "http://www.tbtsys.com",
       "category": [
         "CCTV Surveillance Systems"
       ]
     },
     {
       "name": "TenCate Advanced Armour",
-      "country": "SINGAPORE",
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExhListing.aspx",
-      "website": "http://www.tencateadvancedarmour.com/",
+      "website": "http://www.tencateadvancedarmour.com",
       "category": [
         "Ballistics"
       ]
     },
     {
       "name": "«Display» Design office», JSC",
-      "country": "BELARUS",
+      "country": {
+        "text": "BELARUS",
+        "iso2": "BY"
+      },
       "exhibitorUrl": "https://event-reg.biz/oem-adas/OnlineExh.aspx?o=7Nj%7C%7CN55mfELnUHLbkRDudA==&e=KxqvCE97BZv1bGlYh/xUIA==",
-      "website": "http://www.kbdisplay.com%20%20%20%20%20%20%20%20%20www.adunok.by/",
+      "website": "http://www.kbdisplay.com%20%20%20%20%20%20%20%20%20www.adunok.by",
       "category": [
         "Anti-Piracy Systems & Equipment",
         "Anti-Riot & Crowd Control Equipment",

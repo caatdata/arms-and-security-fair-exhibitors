@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2016",
   "startDate": "2016-02-20",
   "endDate": "2016-02-23",
-  "address": "Twickenham Stadium\nLondon\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": "http://www.internationalarmouredvehicles.com",
   "social": [
     {
@@ -38,7 +43,7 @@
   "exhibitor": [
     {
       "name": "American Panel Corporation",
-      "website": "http://www.american-panel.com/"
+      "website": "http://www.american-panel.com"
     },
     {
       "name": "Aselsan",
@@ -46,11 +51,11 @@
     },
     {
       "name": "BAE Systems",
-      "website": "http://www.baesystems.com/"
+      "website": "http://www.baesystems.com"
     },
     {
       "name": "Bren-Tronics",
-      "website": "http://www.bren-tronics.com/"
+      "website": "http://www.bren-tronics.com"
     },
     {
       "name": "CMI Defence",
@@ -74,7 +79,7 @@
     },
     {
       "name": "FN Herstal",
-      "website": "http://www.fnherstal.com/"
+      "website": "http://www.fnherstal.com"
     },
     {
       "name": "GSS",
@@ -82,7 +87,7 @@
     },
     {
       "name": "General Dynamics Land Systems (GDLS)",
-      "website": "http://www.gdls.com/"
+      "website": "http://www.gdls.com"
     },
     {
       "name": "IBD Deisenroth Engineering",
@@ -94,7 +99,7 @@
     },
     {
       "name": "Jankel",
-      "website": "http://www.jankel.com/"
+      "website": "http://www.jankel.com"
     },
     {
       "name": "Kent Periscopes",
@@ -102,15 +107,15 @@
     },
     {
       "name": "Lockheed Martin",
-      "website": "http://www.lockheedmartin.co.uk/"
+      "website": "http://www.lockheedmartin.co.uk"
     },
     {
       "name": "Med-Eng",
-      "website": "http://www.med-eng.com/"
+      "website": "http://www.med-eng.com"
     },
     {
       "name": "Microflown AVISA",
-      "website": "http://www.microflown-avisa.com/"
+      "website": "http://www.microflown-avisa.com"
     },
     {
       "name": "Milspray",
@@ -118,7 +123,7 @@
     },
     {
       "name": "Morgan Advanced Materials",
-      "website": "http://www.morganadvancedmaterials.com/"
+      "website": "http://www.morganadvancedmaterials.com"
     },
     {
       "name": "Mustang Advanced Engineering",
@@ -126,19 +131,19 @@
     },
     {
       "name": "Nexter",
-      "website": "http://www.nexter-group.fr/"
+      "website": "http://www.nexter-group.fr"
     },
     {
       "name": "Optex Systems",
-      "website": "http://www.optexsys.com/"
+      "website": "http://www.optexsys.com"
     },
     {
       "name": "Patria",
-      "website": "http://www.patria.fi/"
+      "website": "http://www.patria.fi"
     },
     {
       "name": "Pearson Engineering",
-      "website": "http://www.pearson-eng.com/"
+      "website": "http://www.pearson-eng.com"
     },
     {
       "name": "Proengin",
@@ -146,23 +151,23 @@
     },
     {
       "name": "Prox Dynamics",
-      "website": "http://www.proxdynamics.com/"
+      "website": "http://www.proxdynamics.com"
     },
     {
       "name": "QinetiQ",
-      "website": "http://www.qinetiq.com/"
+      "website": "http://www.qinetiq.com"
     },
     {
       "name": "RUAG Defence",
-      "website": "http://www.ruag.com/"
+      "website": "http://www.ruag.com"
     },
     {
       "name": "Raytheon Missile Systems",
-      "website": "http://www.raytheon.com/"
+      "website": "http://www.raytheon.com"
     },
     {
       "name": "Rheinmetall Defence",
-      "website": "http://www.rheinmetall-defence.com/"
+      "website": "http://www.rheinmetall-defence.com"
     },
     {
       "name": "SKYDEX",
@@ -170,7 +175,7 @@
     },
     {
       "name": "Saab Barracuda",
-      "website": "http://www.saabgroup.com/"
+      "website": "http://www.saabgroup.com"
     },
     {
       "name": "Saxon Armor",
@@ -178,23 +183,23 @@
     },
     {
       "name": "Singapore Technologies Kinetics Ltd (ST Kinetics)",
-      "website": "http://www.stengg.com/"
+      "website": "http://www.stengg.com"
     },
     {
       "name": "Soucy",
-      "website": "http://www.soucy-group.com/"
+      "website": "http://www.soucy-group.com"
     },
     {
       "name": "Texelis",
-      "website": "http://www.texelis.com/"
+      "website": "http://www.texelis.com"
     },
     {
       "name": "Textron Systems",
-      "website": "http://www.textronmarineandland.com/"
+      "website": "http://www.textronmarineandland.com"
     },
     {
       "name": "Thales",
-      "website": "http://www.thalesgroup.com/"
+      "website": "http://www.thalesgroup.com"
     },
     {
       "name": "Timoney Technology",
@@ -202,7 +207,7 @@
     },
     {
       "name": "Toci OÜ",
-      "website": "http://www.toci.ee/"
+      "website": "http://www.toci.ee"
     },
     {
       "name": "Transhield",
@@ -210,7 +215,7 @@
     },
     {
       "name": "Tyron",
-      "website": "http://www.tyron.com/"
+      "website": "http://www.tyron.com"
     }
   ]
 }

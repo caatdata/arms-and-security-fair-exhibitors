@@ -5,7 +5,12 @@
   "alias": "Egypt Defence Expo 2023",
   "startDate": "2023-12-04",
   "endDate": "2023-12-07",
-  "address": "Egypt International Exhibition Center\nNew Cairo, 5th settlement\nEl Moshir Tantawy Axis\nCairo Governorate",
+  "address": {
+    "text": "Egypt International Exhibition Center\nNew Cairo, 5th settlement\nEl Moshir Tantawy Axis\nCairo Governorate",
+    "iso2": "EG",
+    "lat": 30.0144816,
+    "lon": 31.381825
+  },
   "website": "https://www.egyptdefenceexpo.com",
   "social": [
     {

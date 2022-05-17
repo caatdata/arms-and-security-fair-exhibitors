@@ -7,16 +7,21 @@
   "edition": "2002",
   "startDate": "2002-10-08",
   "endDate": "2002-10-10",
-  "address": "The Hyatt Regency Cheju\nCheju Island\nKorea",
+  "address": {
+    "text": "The Hyatt Regency Cheju\nCheju Island\nKorea",
+    "iso2": "KR",
+    "lat": 33.4996213,
+    "lon": 126.5311884
+  },
   "organiser": [
     {
       "name": "Nexus Media Communications Ltd",
       "website": "http://www.nexusmedia.com/"
     }
   ],
-  "website": "http://www.udt-korea.com/",
+  "website": "http://www.udt-korea.com",
   "exhibitorListUrl": "http://www.udt-korea.com/exhibitors/",
-  "delegationListUrl": "http://www.udt-korea.com/",
+  "delegationListUrl": "http://www.udt-korea.com",
   "exhibitorListDate": "2022-03-06T12:56:17+00:00",
   "exhibitor": [
     {

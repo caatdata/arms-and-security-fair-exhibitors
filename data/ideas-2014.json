@@ -7,7 +7,12 @@
   "edition": "2014",
   "startDate": "2014-12-01",
   "endDate": "2014-12-04",
-  "address": "Karachi Expo Centre\nKarachi\nPakistan",
+  "address": {
+    "text": "Karachi Expo Centre\nKarachi\nPakistan",
+    "iso2": "PK",
+    "lat": 24.9003907,
+    "lon": 67.0757004
+  },
   "website": "http://ideaspakistan.gov.pk/download.php",
   "social": [
     {

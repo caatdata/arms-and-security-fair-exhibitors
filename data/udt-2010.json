@@ -8,7 +8,12 @@
   "edition": "2010",
   "startDate": "2010-06-08",
   "endDate": "2010-06-10",
-  "address": "CCH-Congress Center Hamburg\nHamburg\nGermany",
+  "address": {
+    "text": "CCH-Congress Center Hamburg\nHamburg\nGermany",
+    "iso2": "DE",
+    "lat": 53.5623012,
+    "lon": 9.9856614
+  },
   "organiser": [
     {
       "name": "Clarion Events Ltd",

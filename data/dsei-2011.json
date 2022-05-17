@@ -7,7 +7,12 @@
   ],
   "startDate": "2011-09-13",
   "endDate": "2011-09-16",
-  "address": "ExCeL London\nOne Western Gateway\nRoyal Victoria Dock\nLondon\nE16 1XL",
+  "address": {
+    "text": "ExCeL London\nOne Western Gateway\nRoyal Victoria Dock\nLondon\nE16 1XL",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
   "website": "http://www.dsei.co.uk",
   "organiser": [
     {

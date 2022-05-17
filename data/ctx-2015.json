@@ -5,8 +5,13 @@
   "alias": "Counter Terror Expo 2015",
   "startDate": "2015-04-21",
   "endDate": "2015-04-22",
-  "address": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
-  "website": "https://www.counterterrorexpo.com/",
+  "address": {
+    "text": "Olympia London\nHammersmith Road W14 8UX\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4963566,
+    "lon": -0.2107637
+  },
+  "website": "https://www.counterterrorexpo.com",
   "organiser": [
     {
       "name": "Clarion Defence and Security Limited"

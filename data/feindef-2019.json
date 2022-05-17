@@ -4,8 +4,13 @@
   "edition": "2019",
   "startDate": "2019-05-29",
   "endDate": "2019-05-31",
-  "address": "IFEMA Madrid Fair, Pavilion 8, Madrid, Spain",
-  "website": "https://www.feindef.com/",
+  "address": {
+    "text": "IFEMA Madrid Fair, Pavilion 8, Madrid, Spain",
+    "iso2": "ES",
+    "lat": 40.4678224,
+    "lon": -3.617241099999999
+  },
+  "website": "https://www.feindef.com",
   "organiser": [
     {
       "name": "Fundación FEINDEF",
@@ -30,116 +35,231 @@
   "exhibitor": [
     {
       "name": "ABACO Systems LTD",
-      "address": "Tove Valley Business Park,\nTowcester, Northamptonshire, NN12 6PF\nUnited Kingdom",
+      "address": {
+        "text": "Tove Valley Business Park,\nTowcester, Northamptonshire, NN12 6PF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1251411,
+        "lon": -0.9612633999999999
+      },
       "telephone": "+44 (0) 1327 359 444"
     },
     {
       "name": "ABRARESIST",
-      "address": "Avenida Los Peñascales, 32\n28290 Las Matas - Madrid",
+      "address": {
+        "text": "Avenida Los Peñascales, 32\n28290 Las Matas - Madrid",
+        "iso2": "ES",
+        "lat": 40.5737585,
+        "lon": -3.9076666
+      },
       "telephone": "+34 91 857 3581"
     },
     {
       "name": "ACK3",
-      "address": "Cuatro Torres Business Area (CTBA)\nPaseo de la Castellana 259C\n28046 Madrid",
+      "address": {
+        "text": "Cuatro Torres Business Area (CTBA)\nPaseo de la Castellana 259C\n28046 Madrid",
+        "iso2": "ES",
+        "lat": 40.4767085,
+        "lon": -3.687918
+      },
       "telephone": "(+34) 91 183 13 25"
     },
     {
       "name": "ACORDE TECHNOLOGIES",
-      "address": "Calle El Castro, 22N\n39011 Santander",
+      "address": {
+        "text": "Calle El Castro, 22N\n39011 Santander",
+        "iso2": "ES",
+        "lat": 43.45116,
+        "lon": -3.86015
+      },
       "telephone": "(+34) 942 764 400 Ext. 301"
     },
     {
       "name": "ADAPTIVE SYSTEMS",
-      "address": "Calle Hermosilla, 14 - 4º B\n28001 Madrid",
+      "address": {
+        "text": "Calle Hermosilla, 14 - 4º B\n28001 Madrid",
+        "iso2": "ES",
+        "lat": 40.426317,
+        "lon": -3.6869273
+      },
       "telephone": "+34 91 388 98 34"
     },
     {
       "name": "ADVANTAGE AUSTRIA Embajada de Austria - Oficina Comercial",
-      "address": "Orense, 11 - 6°\n28020 Madrid",
+      "address": {
+        "text": "Orense, 11 - 6°\n28020 Madrid",
+        "iso2": "ES",
+        "lat": 40.4483192,
+        "lon": -3.695760699999999
+      },
       "telephone": "+34 91 556 43 58"
     },
     {
       "name": "AERNNOVA",
-      "address": "Parque Tecnológico de Álava\nC/ Leonardo da Vinci, 13\n01510 Miñano (Álava)",
+      "address": {
+        "text": "Parque Tecnológico de Álava\nC/ Leonardo da Vinci, 13\n01510 Miñano (Álava)",
+        "iso2": "ES",
+        "lat": 42.9105139,
+        "lon": -2.6641496
+      },
       "telephone": "+ 34 945 185 654"
     },
     {
       "name": "AERO Vodochody AEROSPACE, SA",
-      "address": "U Letište 374, 25070, Odolena Voda",
+      "address": {
+        "text": "U Letište 374, 25070, Odolena Voda",
+        "iso2": "CZ",
+        "lat": 50.22045500000001,
+        "lon": 14.4074204
+      },
       "telephone": "+240 255 762 542"
     },
     {
       "name": "AERTEC Solutions",
-      "address": "Avenida Juan López de Peñalver, 17\nParque Tecnológico de Andalucía\n29590 Málaga",
+      "address": {
+        "text": "Avenida Juan López de Peñalver, 17\nParque Tecnológico de Andalucía\n29590 Málaga",
+        "iso2": "ES",
+        "lat": 36.7359434,
+        "lon": -4.5532958
+      },
       "telephone": "+34 95 10 10 200 Ext. 4021 +34 665 89 65 93"
     },
     {
       "name": "AIRBUS",
-      "address": "Mendelweg 30\n2333 CS Leiden"
+      "address": {
+        "text": "Mendelweg 30\n2333 CS Leiden",
+        "iso2": "NL",
+        "lat": 52.16456530000001,
+        "lon": 4.4707497
+      }
     },
     {
       "name": "AKID AkidneTelecom S.L.",
-      "address": "C/ Santa Virgilia\n28033 Madrid",
+      "address": {
+        "text": "C/ Santa Virgilia\n28033 Madrid",
+        "iso2": "ES",
+        "lat": 40.4768283,
+        "lon": -3.6429347
+      },
       "telephone": "+34 658 421 912"
     },
     {
       "name": "ALPHA SECURITY AND DEFENSE",
-      "address": "Avenida Fuente Nueva, 14 - Nave 16A\n28703 San Sebastián de los Reyes (Madrid)",
+      "address": {
+        "text": "Avenida Fuente Nueva, 14 - Nave 16A\n28703 San Sebastián de los Reyes (Madrid)",
+        "iso2": "ES",
+        "lat": 40.54763639999999,
+        "lon": -3.6137862
+      },
       "telephone": "+34 689 20 20 67"
     },
     {
       "name": "ANORTEC - GMS",
-      "address": "Pol. Ind. Can Torres i Can Llobet\nC/ Carles Buigas, 3-9\n08192 St. Quirze del Vallès",
+      "address": {
+        "text": "Pol. Ind. Can Torres i Can Llobet\nC/ Carles Buigas, 3-9\n08192 St. Quirze del Vallès",
+        "iso2": "ES",
+        "lat": 41.5273317,
+        "lon": 2.0979392
+      },
       "telephone": "+34 937 213 810"
     },
     {
       "name": "AQUAFRISCH, S.L.",
-      "address": "Calle Ignacio Zuloaga, 10\n28522 Rivas Vaciamadrid (Madrid)",
+      "address": {
+        "text": "Calle Ignacio Zuloaga, 10\n28522 Rivas Vaciamadrid (Madrid)",
+        "iso2": "ES",
+        "lat": 40.34480850000001,
+        "lon": -3.5361285
+      },
       "telephone": "+34 91 380 03 33"
     },
     {
       "name": "ARPA Equipos Móviles de Campaña",
-      "address": "C/ La Habana, 25 - Poligono Centrovia\n50198 La Muela (Zaragoza)",
+      "address": {
+        "text": "C/ La Habana, 25 - Poligono Centrovia\n50198 La Muela (Zaragoza)",
+        "iso2": "ES",
+        "lat": 41.6140946,
+        "lon": -1.0647788
+      },
       "telephone": "(+34) 976 144 770"
     },
     {
       "name": "ASEM112",
-      "address": "Paseo del Río, 1\n28223 - Pozuelo de Alarcón (Madrid)",
+      "address": {
+        "text": "Paseo del Río, 1\n28223 - Pozuelo de Alarcón (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4218153,
+        "lon": -3.804393799999999
+      },
       "telephone": "+34 91 708 91 69"
     },
     {
       "name": "ATL EUROPA",
-      "address": "C/ Carbón, 17\n28918 Leganés (Madrid)",
+      "address": {
+        "text": "C/ Carbón, 17\n28918 Leganés (Madrid)",
+        "iso2": "ES",
+        "lat": 40.3481985,
+        "lon": -3.7995779
+      },
       "telephone": "+34 916 10 68 80"
     },
     {
       "name": "AVEC CHEM, SRL",
-      "address": "Starý Materov 124, 530 02, Pardubice",
+      "address": {
+        "text": "Starý Materov 124, 530 02, Pardubice",
+        "iso2": "CZ",
+        "lat": 50.00161,
+        "lon": 15.7147751
+      },
       "telephone": "00420 466 303 037"
     },
     {
       "name": "AZIMUT ONROAD",
-      "address": "Calle dels Furs, 50\nGandia · Valencia",
+      "address": {
+        "text": "Calle dels Furs, 50\nGandia · Valencia",
+        "iso2": "ES",
+        "lat": 38.97659,
+        "lon": -0.1771
+      },
       "telephone": "+34 609 762 730"
     },
     {
       "name": "BABCOCK International Group",
-      "address": "Complejo Triada | Avenida de Burgos Nº17 Planta 7\n28036 Madrid",
+      "address": {
+        "text": "Complejo Triada | Avenida de Burgos Nº17 Planta 7\n28036 Madrid",
+        "iso2": "ES",
+        "lat": 40.4774212,
+        "lon": -3.6754736
+      },
       "telephone": "91 344 20 38 +34 682 792 783"
     },
     {
       "name": "BLANCH INTERNATIONAL & ASOCIADOS, S.L.",
-      "address": "Calle Reyes Católicos, 6 - Nave 201\n28108 Alcobendas - Madrid",
+      "address": {
+        "text": "Calle Reyes Católicos, 6 - Nave 201\n28108 Alcobendas - Madrid",
+        "iso2": "ES",
+        "lat": 40.5371743,
+        "lon": -3.652620499999999
+      },
       "telephone": "+34 91 740 00 59"
     },
     {
       "name": "CDTI E.P.E.",
-      "country": "C/ Cid 4 - 28001 Madrid",
-      "telephone": "+34 91 581 04 91"
+      "telephone": "+34 91 581 04 91",
+      "address": {
+        "text": "C/ Cid 4 - 28001 Madrid",
+        "iso2": "ES",
+        "lat": 40.4221765,
+        "lon": -3.6896221
+      }
     },
     {
       "name": "CENTUM",
-      "address": "Fonte das Abelleiras, S/N\nEdf. Citexvi\n36210 Vigo\nAvd. Rita Levi Montalcini, 3\n28906 Getafe (Madrid)",
+      "address": {
+        "text": "Fonte das Abelleiras, S/N\nEdf. Citexvi\n36210 Vigo\nAvd. Rita Levi Montalcini, 3\n28906 Getafe (Madrid)",
+        "iso2": "ES",
+        "lat": 40.2743921,
+        "lon": -3.7339858
+      },
       "telephone": "+34 91 184 03 96 +34 986 120 460"
     },
     {
@@ -150,132 +270,262 @@
     },
     {
       "name": "COBRA AERONAUTICS",
-      "address": "Carretera de Loeches, 92\n28850 Torrejón de Ardoz (Madrid)",
+      "address": {
+        "text": "Carretera de Loeches, 92\n28850 Torrejón de Ardoz (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4433773,
+        "lon": -3.4650613
+      },
       "telephone": "+34 628 239 497"
     },
     {
       "name": "COHEMO",
-      "address": "Calle Camino de las Pajarillas, 8\n28935 Móstoles (Madrid)",
+      "address": {
+        "text": "Calle Camino de las Pajarillas, 8\n28935 Móstoles (Madrid)",
+        "iso2": "ES",
+        "lat": 40.33641,
+        "lon": -3.89556
+      },
       "telephone": "+34 91 616 52 20"
     },
     {
       "name": "COMPAÑÍA AUXILIAR DE AERONÁUTICA, S.L. (CADAMADRID)",
-      "address": "Calle Soria, 4\n28864 Ajalvir (Madrid)",
+      "address": {
+        "text": "Calle Soria, 4\n28864 Ajalvir (Madrid)",
+        "iso2": "ES",
+        "lat": 40.5314887,
+        "lon": -3.4831229
+      },
       "telephone": "+34 91 884 30 62"
     },
     {
       "name": "CT Engineering Group",
-      "address": "Avenida Leonardo da Vinci, 22\n28906 Getafe - Madrid",
+      "address": {
+        "text": "Avenida Leonardo da Vinci, 22\n28906 Getafe - Madrid",
+        "iso2": "ES",
+        "lat": 40.2901434,
+        "lon": -3.6965183
+      },
       "telephone": "+34 91 683 20 30"
     },
     {
       "name": "Cmi John Cockerill España, SL",
-      "address": "Calle de Alcala, 61 - 2ª Planta\n28014 Madrid",
+      "address": {
+        "text": "Calle de Alcala, 61 - 2ª Planta\n28014 Madrid",
+        "iso2": "ES",
+        "lat": 40.41990940000001,
+        "lon": -3.6911102
+      },
       "telephone": "+34 91 794 46 56"
     },
     {
       "name": "CzechTrade Agencia de Promoción Comercial de la República Checa",
-      "address": "Avenida Doctor Arce, 14\n28002 Madrid",
+      "address": {
+        "text": "Avenida Doctor Arce, 14\n28002 Madrid",
+        "iso2": "ES",
+        "lat": 40.4463706,
+        "lon": -3.6817333
+      },
       "telephone": "+34 917 610 259"
     },
     {
       "name": "CÁMARA DE COMERCIO HISPANO-CHECA",
-      "address": "MADRID\nPríncipe de Vergara, 264 -1D\n28016 Madrid\nVALENCIA\nPza. Mercado, 25/5\n46001 Valencia\nPRAGA/PRAGUE\nSokolovská 22\n186 00 Praha 8",
+      "address": {
+        "text": "MADRID\nPríncipe de Vergara, 264 -1D\n28016 Madrid\nVALENCIA\nPza. Mercado, 25/5\n46001 Valencia\nPRAGA/PRAGUE\nSokolovská 22\n186 00 Praha 8",
+        "iso2": "ES",
+        "lat": 40.4573758,
+        "lon": -3.6766825
+      },
       "telephone": "+34 913 508 680 +34 960 648 530"
     },
     {
       "name": "DANIMA Ingeniería Ambiental S.A.",
-      "address": "Avenida Conde de Guadalhorce, 57\n33401 Avilés – Asturias",
+      "address": {
+        "text": "Avenida Conde de Guadalhorce, 57\n33401 Avilés – Asturias",
+        "iso2": "ES",
+        "lat": 43.5663498,
+        "lon": -5.9227414
+      },
       "telephone": "+34 985 514 450"
     },
     {
       "name": "DAS Photonics",
-      "address": "Ciudad Politécnica de la Innovación\nCamino de Vera s/n. Edificio 8F\n46022 Valencia",
+      "address": {
+        "text": "Ciudad Politécnica de la Innovación\nCamino de Vera s/n. Edificio 8F\n46022 Valencia",
+        "iso2": "ES",
+        "lat": 39.4786242,
+        "lon": -0.3335688
+      },
       "telephone": "+34 963 556 150"
     },
     {
       "name": "DETEGASA",
-      "address": "Ctra. Castro-Meiras - Tuimil, Sequeiro\n15550 Valdoviño (A Coruña)",
+      "address": {
+        "text": "Ctra. Castro-Meiras - Tuimil, Sequeiro\n15550 Valdoviño (A Coruña)",
+        "iso2": "ES",
+        "lat": 43.5637755,
+        "lon": -8.1861036
+      },
       "telephone": "+34 981 494 000"
     },
     {
       "name": "DF EPICOM",
-      "address": "C/ Vía de los Poblados, 7\n28033 Madrid",
+      "address": {
+        "text": "C/ Vía de los Poblados, 7\n28033 Madrid",
+        "iso2": "ES",
+        "lat": 40.4747861,
+        "lon": -3.6331007
+      },
       "telephone": "(+34) 91 722 28 58 (+34) 638 084 127"
     },
     {
       "name": "EINSA Equipos Industriales de Manutención, S.A.",
-      "address": "Avenida Madrid, 54\n28802 Alcalá de Henares (Madrid)",
+      "address": {
+        "text": "Avenida Madrid, 54\n28802 Alcalá de Henares (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4760402,
+        "lon": -3.3999858
+      },
       "telephone": "(+34) 91 880 90 00"
     },
     {
       "name": "EL CORTE INGLÉS EMPRESAS",
-      "address": "Conde de Peñalver, 45\n28006 Madrid",
+      "address": {
+        "text": "Conde de Peñalver, 45\n28006 Madrid",
+        "iso2": "ES",
+        "lat": 40.4294291,
+        "lon": -3.675496099999999
+      },
       "telephone": "91 400 070 0 ext 2457"
     },
     {
       "name": "ELBIT SYSTEMS",
-      "address": "Advanced Technology Center\nP.O.B. 539, Haifa 3100401, Israel",
+      "address": {
+        "text": "Advanced Technology Center\nP.O.B. 539, Haifa 3100401, Israel",
+        "iso2": "IL",
+        "lat": 32.7911945,
+        "lon": 35.032354
+      },
       "telephone": "+972 77 294 0000"
     },
     {
       "name": "ELECTRONICA VILLBAR, S.A.",
-      "address": "Baron Castillo Chirel, 3\n28039 Madrid",
+      "address": {
+        "text": "Baron Castillo Chirel, 3\n28039 Madrid",
+        "iso2": "ES",
+        "lat": 40.4590761,
+        "lon": -3.7045849
+      },
       "telephone": "+34 915 703 951"
     },
     {
       "name": "EQUIMODAL DEFENCE",
-      "address": "Polígono de Malpica, C/E 12\n50016 Zaragoza",
+      "address": {
+        "text": "Polígono de Malpica, C/E 12\n50016 Zaragoza",
+        "iso2": "ES",
+        "lat": 41.6530914,
+        "lon": -0.7857326
+      },
       "telephone": "(+34) 976 465 131"
     },
     {
       "name": "ERA, SA",
-      "address": "Prumyslová 462, 53003, Pardubice",
+      "address": {
+        "text": "Prumyslová 462, 53003, Pardubice",
+        "iso2": "CZ",
+        "lat": 50.0255173,
+        "lon": 15.8020853
+      },
       "telephone": "+420467004253"
     },
     {
       "name": "ERMEC-APEM",
-      "address": "C/ Puerto Rico, 4\n28220 Majadahonda (Madrid)",
+      "address": {
+        "text": "C/ Puerto Rico, 4\n28220 Majadahonda (Madrid)",
+        "iso2": "ES",
+        "lat": 40.47515689999999,
+        "lon": -3.871237299999999
+      },
       "telephone": "902 450 160"
     },
     {
       "name": "ESCRIBANO MECHANICAL AND ENGINEERING",
-      "address": "Avenida Punto ES, 10 - Tecnoalcalá\n28805 Alcalá de Henares (Madrid)",
+      "address": {
+        "text": "Avenida Punto ES, 10 - Tecnoalcalá\n28805 Alcalá de Henares (Madrid)",
+        "iso2": "ES",
+        "lat": 40.5151175,
+        "lon": -3.3430141
+      },
       "telephone": "+34 911 898 293"
     },
     {
       "name": "EUROPAVIA ESPAÑA SA",
-      "address": "Calle Jorge Juan, 30 - 4ºA\n28001 Madrid\nCentro de mantenimiento / Almacenes\nC/ Loeches, 58. Nave 2B\nPolígono Ventorro del Cano\n28925 Alcorcón (Madrid)",
+      "address": {
+        "text": "Calle Jorge Juan, 30 - 4ºA\n28001 Madrid\nCentro de mantenimiento / Almacenes\nC/ Loeches, 58. Nave 2B\nPolígono Ventorro del Cano\n28925 Alcorcón (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4235607,
+        "lon": -3.6835986
+      },
       "telephone": "+34 91 431 82 53"
     },
     {
       "name": "EVENTIDE",
-      "address": "1 Alsan Way\nLittle Ferry, NJ 07643, USA",
+      "address": {
+        "text": "1 Alsan Way\nLittle Ferry, NJ 07643, USA",
+        "iso2": "US",
+        "lat": 40.8568936,
+        "lon": -74.0444249
+      },
       "telephone": "+34 658421912"
     },
     {
       "name": "EXCEM TECHNOLOGIES",
-      "address": "Avda. Institución Libre de Enseñanza, 37 A\n28037 Madrid",
+      "address": {
+        "text": "Avda. Institución Libre de Enseñanza, 37 A\n28037 Madrid",
+        "iso2": "ES",
+        "lat": 40.4348289,
+        "lon": -3.6967725
+      },
       "telephone": "+34 91 769 72 09"
     },
     {
       "name": "EXPAL Systems",
-      "address": "Avda. del Partenón, 16\n28042 Madrid",
+      "address": {
+        "text": "Avda. del Partenón, 16\n28042 Madrid",
+        "iso2": "ES",
+        "lat": 40.4634693,
+        "lon": -3.6139367
+      },
       "telephone": "+34 91 722 02 35"
     },
     {
       "name": "EXPLEO GROUP",
-      "address": "Ronda de Poniente, 5 - 3ª Planta\n28760 Tres Cantos (Madrid)",
+      "address": {
+        "text": "Ronda de Poniente, 5 - 3ª Planta\n28760 Tres Cantos (Madrid)",
+        "iso2": "ES",
+        "lat": 40.6014346,
+        "lon": -3.716412899999999
+      },
       "telephone": "+34 918 37 68 40"
     },
     {
       "name": "FALKEN S.A.U.",
-      "address": "Apartado de correos 41043\n28080 Madrid",
+      "address": {
+        "text": "Apartado de correos 41043\n28080 Madrid",
+        "iso2": "ES",
+        "lat": 40.4737314,
+        "lon": -3.8683123
+      },
       "telephone": "+34 91 798 14 18"
     },
     {
       "name": "FECSA Fabrica Española de Confecciones, S.A.",
-      "address": "Calle Acacias, 3\n28703 San Sebastián de los Reyes\nMadrid",
+      "address": {
+        "text": "Calle Acacias, 3\n28703 San Sebastián de los Reyes\nMadrid",
+        "iso2": "ES",
+        "lat": 40.5459689,
+        "lon": -3.6212364
+      },
       "telephone": "+34 91 652 34 00"
     },
     {
@@ -288,37 +538,72 @@
     },
     {
       "name": "FUNDACIÓN CÍRCULO DE TECNOLOGÍAS PARA LA DEFENSA Y LA SEGURIDAD",
-      "address": "C/ Príncipe de Vergara, 12 - 2º C\n28001 Madrid",
+      "address": {
+        "text": "C/ Príncipe de Vergara, 12 - 2º C\n28001 Madrid",
+        "iso2": "ES",
+        "lat": 40.4242386,
+        "lon": -3.6800028
+      },
       "telephone": "+34 91 432 22 49"
     },
     {
       "name": "GAHN L.G.C.",
-      "address": "Calle Velázquez, 11 - 6º Derecha\n28001 Madrid",
+      "address": {
+        "text": "Calle Velázquez, 11 - 6º Derecha\n28001 Madrid",
+        "iso2": "ES",
+        "lat": 40.4221667,
+        "lon": -3.684619
+      },
       "telephone": "+34 91 576 42 66"
     },
     {
       "name": "GAPTEK Edificios modulares semi-permanentes y permanentes",
-      "address": "Oficina Central\nC/ Balmes, 226 - Principal. Puerta 2\n08006 Barcelona\nOficina Comercial\nC/ Serrano, 81 - 4º Planta\n28006 Madrid",
+      "address": {
+        "text": "Oficina Central\nC/ Balmes, 226 - Principal. Puerta 2\n08006 Barcelona\nOficina Comercial\nC/ Serrano, 81 - 4º Planta\n28006 Madrid",
+        "iso2": "ES",
+        "lat": 41.3986736,
+        "lon": 2.1511344
+      },
       "telephone": "+34 972 445 072 +34 91 442 00 55"
     },
     {
       "name": "GDELS Santa Bárbara Sistemas",
-      "address": "Calle Vía de los Poblados, 3\n280332 Madrid",
+      "address": {
+        "text": "Calle Vía de los Poblados, 3\n280332 Madrid",
+        "iso2": "ES",
+        "lat": 40.4752344,
+        "lon": -3.6348247
+      },
       "telephone": "+34 91 585 01 52"
     },
     {
       "name": "GENEREUS S.L.",
-      "address": "C/ Industria, 5. Nave 8\n08160 Montmeló (Barcelona)",
+      "address": {
+        "text": "C/ Industria, 5. Nave 8\n08160 Montmeló (Barcelona)",
+        "iso2": "ES",
+        "lat": 41.5551486,
+        "lon": 2.2524629
+      },
       "telephone": "+34 935 991 765"
     },
     {
       "name": "GMV",
-      "address": "Isaac Newton, 11\n28760 Tres Cantos (Madrid)",
+      "address": {
+        "text": "Isaac Newton, 11\n28760 Tres Cantos (Madrid)",
+        "iso2": "ES",
+        "lat": 40.5912849,
+        "lon": -3.7066223
+      },
       "telephone": "(+34) 91 807 21 00"
     },
     {
       "name": "GOIMEK, S.COOP.",
-      "address": "Pol. Ind. Itziar. Parcela 2. P.O. Box. 5\n20829 ITZIAR- DEBA",
+      "address": {
+        "text": "Pol. Ind. Itziar. Parcela 2. P.O. Box. 5\n20829 ITZIAR- DEBA",
+        "iso2": "ES",
+        "lat": 43.2707792,
+        "lon": -2.3307908
+      },
       "telephone": "+34 943 606 315"
     },
     {
@@ -326,22 +611,42 @@
     },
     {
       "name": "GRUPO 13",
-      "address": "Calle Velázquez, 11\n28001 Madrid",
+      "address": {
+        "text": "Calle Velázquez, 11\n28001 Madrid",
+        "iso2": "ES",
+        "lat": 40.4221667,
+        "lon": -3.684619
+      },
       "telephone": "+34 91 576 42 66"
     },
     {
       "name": "GRUPO JPG",
-      "address": "C/ San Norberto, 42\n28021 Madrid",
+      "address": {
+        "text": "C/ San Norberto, 42\n28021 Madrid",
+        "iso2": "ES",
+        "lat": 40.33986489999999,
+        "lon": -3.702489599999999
+      },
       "telephone": "+34 91 710 90 82"
     },
     {
       "name": "GRUPO LUCOHE CORTALIA Técnicas Metalúrgicas S.L.",
-      "address": "Calle Ferrocarril, 14\n28821 Coslada (Madrid)",
+      "address": {
+        "text": "Calle Ferrocarril, 14\n28821 Coslada (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4426502,
+        "lon": -3.5377445
+      },
       "telephone": "+34 91 669 82 34"
     },
     {
       "name": "Grupo TRC",
-      "address": "Calle Albasanz, 25\n28037 Madrid",
+      "address": {
+        "text": "Calle Albasanz, 25\n28037 Madrid",
+        "iso2": "ES",
+        "lat": 40.4374797,
+        "lon": -3.6278062
+      },
       "telephone": "+34 91 267 00 00"
     },
     {
@@ -350,121 +655,241 @@
     },
     {
       "name": "HD Spain",
-      "address": "Paseo John Lennon, 4 - 28906 Getafe"
+      "address": {
+        "text": "Paseo John Lennon, 4 - 28906 Getafe",
+        "iso2": "ES",
+        "lat": 40.303484,
+        "lon": -3.7035543
+      }
     },
     {
       "name": "HISDESAT Servicios Estratégicos",
-      "address": "Paseo de la Castellana, 149 - 5ª planta\n28046 Madrid",
+      "address": {
+        "text": "Paseo de la Castellana, 149 - 5ª planta\n28046 Madrid",
+        "iso2": "ES",
+        "lat": 40.4604423,
+        "lon": -3.6905955
+      },
       "telephone": "+34 91 449 01 49"
     },
     {
       "name": "HISPAMAST",
-      "address": "Cl. Estaño, 30\n28510 Campo Real (Madrid)",
+      "address": {
+        "text": "Cl. Estaño, 30\n28510 Campo Real (Madrid)",
+        "iso2": "ES",
+        "lat": 40.3330075,
+        "lon": -3.3674945
+      },
       "telephone": "+34 918 733 733"
     },
     {
       "name": "HISPARASA",
-      "address": "Calle Félix Boix 14\n28036 Madrid",
+      "address": {
+        "text": "Calle Félix Boix 14\n28036 Madrid",
+        "iso2": "ES",
+        "lat": 40.4630167,
+        "lon": -3.6865477
+      },
       "telephone": "+34 913 453 433"
     },
     {
       "name": "Hexagon Geospatial | LUCIAD",
-      "address": "C/ López de Hoyos, 35 - 1ª Planta\n28002 Madrid",
+      "address": {
+        "text": "C/ López de Hoyos, 35 - 1ª Planta\n28002 Madrid",
+        "iso2": "ES",
+        "lat": 40.441173,
+        "lon": -3.6797154
+      },
       "telephone": "+34 91 745 74 14"
     },
     {
       "name": "IBEROPTICS SISTEMAS ÓPTICOS",
-      "address": "Calle Gamonal, 16 - Oficina 3-R\n28031 Madrid",
+      "address": {
+        "text": "Calle Gamonal, 16 - Oficina 3-R\n28031 Madrid",
+        "iso2": "ES",
+        "lat": 40.3726761,
+        "lon": -3.6438693
+      },
       "telephone": "+34 91 385 43 95"
     },
     {
       "name": "IDS",
-      "address": "C/ Guzmán El Bueno, 98\n28003 Madrid",
+      "address": {
+        "text": "C/ Guzmán El Bueno, 98\n28003 Madrid",
+        "iso2": "ES",
+        "lat": 40.4415672,
+        "lon": -3.7122167
+      },
       "telephone": "+34 91 594 07 34"
     },
     {
       "name": "INDRA",
-      "address": "Avenida de Bruselas, 35\n28108 Alcobendas (Madrid)",
+      "address": {
+        "text": "Avenida de Bruselas, 35\n28108 Alcobendas (Madrid)",
+        "iso2": "ES",
+        "lat": 40.5290535,
+        "lon": -3.6414198
+      },
       "telephone": "+34 91 627 3069"
     },
     {
       "name": "INDUSTRIAS FERRI, S.A.",
-      "address": "A Pasaxe, 81 Vincios\n36316 Gondomar",
+      "address": {
+        "text": "A Pasaxe, 81 Vincios\n36316 Gondomar",
+        "iso2": "ES",
+        "lat": 42.1564636,
+        "lon": -8.717878299999999
+      },
       "telephone": "+34 986 468 201"
     },
     {
       "name": "INDUSTRIAS MURTRA, S.A.",
-      "address": "Jordi Camp, 94\n08403 Granollers (Barcelona)",
+      "address": {
+        "text": "Jordi Camp, 94\n08403 Granollers (Barcelona)",
+        "iso2": "ES",
+        "lat": 41.60323959999999,
+        "lon": 2.276466
+      },
       "telephone": "+34 938.467.208 +34 938.467.242"
     },
     {
       "name": "INFRAESTRUCTURAS AEROPORTUARIAS",
-      "address": "Calle Uruguay, 15 - 1 B\n28016 Madrid",
+      "address": {
+        "text": "Calle Uruguay, 15 - 1 B\n28016 Madrid",
+        "iso2": "ES",
+        "lat": 40.455263,
+        "lon": -3.673894
+      },
       "telephone": "+34 91 413 97 64 +34 616 742 838"
     },
     {
       "name": "INNOCON",
-      "address": "Lexander Yanai 29\n4927729 Petach Tikva - Israel",
+      "address": {
+        "text": "Lexander Yanai 29\n4927729 Petach Tikva - Israel",
+        "iso2": "IL",
+        "lat": 32.1075455,
+        "lon": 34.8984951
+      },
       "telephone": "+97 235586330"
     },
     {
       "name": "INNOVATION FOR SHELTER, S.L.",
-      "address": "Camino Robledo de Chavela, 9 B\n28210 Valdemorillo (Madrid)",
+      "address": {
+        "text": "Camino Robledo de Chavela, 9 B\n28210 Valdemorillo (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4960946,
+        "lon": -4.0672298
+      },
       "telephone": "+34 918 990 990"
     },
     {
       "name": "INSTALAZA",
-      "address": "Calle Monreal, 27\n50002 Zaragoza",
+      "address": {
+        "text": "Calle Monreal, 27\n50002 Zaragoza",
+        "iso2": "ES",
+        "lat": 41.6525545,
+        "lon": -0.8692295
+      },
       "telephone": "+ 34 976 293 422"
     },
     {
       "name": "INSTER",
-      "address": "Avenida Rita Levi Montalcini, 2\nParque Tecnológico Tecnogetafe\n28906 Getafe (Madrid)",
+      "address": {
+        "text": "Avenida Rita Levi Montalcini, 2\nParque Tecnológico Tecnogetafe\n28906 Getafe (Madrid)",
+        "iso2": "ES",
+        "lat": 40.2736769,
+        "lon": -3.7366064
+      },
       "telephone": "+34 91 380 20 22"
     },
     {
       "name": "INSYTE ELECTRONICS, S.A",
-      "address": "C/ Calidad, 6 - P.I. Los Olivos\n28906 Getafe - Madrid",
+      "address": {
+        "text": "C/ Calidad, 6 - P.I. Los Olivos\n28906 Getafe - Madrid",
+        "iso2": "ES",
+        "lat": 40.3173153,
+        "lon": -3.687601
+      },
       "telephone": "+34 91 601 09 91"
     },
     {
       "name": "INTA",
-      "address": "Crta. Ajalvir PK 4\n28850 Torrejón de Ardoz - Madrid",
+      "address": {
+        "text": "Crta. Ajalvir PK 4\n28850 Torrejón de Ardoz - Madrid",
+        "iso2": "ES",
+        "lat": 40.476699,
+        "lon": -3.4772827
+      },
       "telephone": "+34 628 864 432"
     },
     {
       "name": "INTEGRA INTERNATIONAL",
-      "address": "Tierra de barros, 2\n28823 Coslada (Madrid)",
+      "address": {
+        "text": "Tierra de barros, 2\n28823 Coslada (Madrid)",
+        "iso2": "ES",
+        "lat": 40.4321388,
+        "lon": -3.5428727
+      },
       "telephone": "(+34) 911 888 898"
     },
     {
       "name": "INTEGRACION TECNOLOGICA EMPRESARIAL, S.L.",
-      "address": "Calle Pitágoras, 6 - Polígono San Marcos\n28906 Getafe (Madrid)",
+      "address": {
+        "text": "Calle Pitágoras, 6 - Polígono San Marcos\n28906 Getafe (Madrid)",
+        "iso2": "ES",
+        "lat": 40.3001055,
+        "lon": -3.7014927
+      },
       "telephone": "+34 91 491 65 05"
     },
     {
       "name": "ITP Aero",
-      "address": "Parque Tecnológico de Zamudio\nEdificio 300\n48170 Zamudio (Vizcaya)",
+      "address": {
+        "text": "Parque Tecnológico de Zamudio\nEdificio 300\n48170 Zamudio (Vizcaya)",
+        "iso2": "ES",
+        "lat": 43.2924852,
+        "lon": -2.8549718
+      },
       "telephone": "(+34) 912 060 179"
     },
     {
       "name": "ITURRI, S.A.",
-      "address": "Avenida Roberto Osborne, 5\n41007 Sevilla",
+      "address": {
+        "text": "Avenida Roberto Osborne, 5\n41007 Sevilla",
+        "iso2": "ES",
+        "lat": 37.3942967,
+        "lon": -5.9464175
+      },
       "telephone": "+34 954 479 111"
     },
     {
       "name": "IVECO Defence Vehicles",
-      "address": "Headquarters Via Volta, 6\n1-39100 Bolzano (BZ)",
+      "address": {
+        "text": "Headquarters Via Volta, 6\n1-39100 Bolzano (BZ)",
+        "iso2": "IT",
+        "lat": 46.4798166,
+        "lon": 11.3317276
+      },
       "telephone": "+39 0471 905111"
     },
     {
       "name": "J. ESTELLER",
-      "address": "Polígono Industrial Molí dels Frares\nCalle C, 34\n08620 Sant Vicenç dels Horts (Barcelona)",
+      "address": {
+        "text": "Polígono Industrial Molí dels Frares\nCalle C, 34\n08620 Sant Vicenç dels Horts (Barcelona)",
+        "iso2": "ES",
+        "lat": 41.4033252,
+        "lon": 2.0008958
+      },
       "telephone": "+34 936 724 510"
     },
     {
       "name": "JOHNSON CONTROLS",
-      "address": "14, rue de Bel Air\nBP 70309\n44470 Carquefou Cedex - France\nOfficial Sales Representative in Spain\nNUEVA INSIMAR - Mr. Jaime Abad\nCalle Narvaez, 38 -1º B\n28009 Madrid",
+      "address": {
+        "text": "14, rue de Bel Air\nBP 70309\n44470 Carquefou Cedex - France\nOfficial Sales Representative in Spain\nNUEVA INSIMAR - Mr. Jaime Abad\nCalle Narvaez, 38 -1º B\n28009 Madrid",
+        "iso2": "FR",
+        "lat": 47.2678366,
+        "lon": -1.4888095
+      },
       "telephone": "+33 2 4030 6368 +34 654 487205"
     },
     {
@@ -472,150 +897,300 @@
     },
     {
       "name": "KRC ESPAÑOLA, S.A. Seguridad desde el diseño en Soluciones de TI",
-      "address": "C/ Barbastro, 5\n28022 Madrid",
+      "address": {
+        "text": "C/ Barbastro, 5\n28022 Madrid",
+        "iso2": "ES",
+        "lat": 40.4461792,
+        "lon": -3.6106608
+      },
       "telephone": "+34 913930396"
     },
     {
       "name": "LANGA INDUSTRIAL",
-      "address": "C/ Dehesa de Mari Martín, 31\n28600 Navalcarnero - Madrid",
+      "address": {
+        "text": "C/ Dehesa de Mari Martín, 31\n28600 Navalcarnero - Madrid",
+        "iso2": "ES",
+        "lat": 40.2910281,
+        "lon": -3.9907926
+      },
       "telephone": "+34 918 101 030"
     },
     {
       "name": "LEONARDO",
-      "address": "Piazza Monte Grappa, 4\n00195 Rome"
+      "address": {
+        "text": "Piazza Monte Grappa, 4\n00195 Rome",
+        "iso2": "IT",
+        "lat": 41.9185778,
+        "lon": 12.4681985
+      }
     },
     {
       "name": "LOCKHEED MARTIN ESPAÑA, S.A.",
-      "address": "Edificio Iberia Mart II\nC/ Orense, 34 - 7ª Planta\n28020 Madrid",
+      "address": {
+        "text": "Edificio Iberia Mart II\nC/ Orense, 34 - 7ª Planta\n28020 Madrid",
+        "iso2": "ES",
+        "lat": 40.4541395,
+        "lon": -3.6943673
+      },
       "telephone": "+34 91 598 12 90"
     },
     {
       "name": "LRAD Corporation",
-      "address": "Pza. Sta. Mª Soledad Torres Acosta, 2-4A\n28004 Madrid",
+      "address": {
+        "text": "Pza. Sta. Mª Soledad Torres Acosta, 2-4A\n28004 Madrid",
+        "iso2": "ES",
+        "lat": 40.42147569999999,
+        "lon": -3.705358
+      },
       "telephone": "(+34) 913649100 -1108"
     },
     {
       "name": "MADES",
-      "address": "Avda. Juan López Peñalver, 12\nParque Tecnológico Andalucía\n29590 Málaga",
+      "address": {
+        "text": "Avda. Juan López Peñalver, 12\nParque Tecnológico Andalucía\n29590 Málaga",
+        "iso2": "ES",
+        "lat": 36.7353761,
+        "lon": -4.5516439
+      },
       "telephone": "+34 952.24.92.56 +34 606.58.50.27"
     },
     {
       "name": "MANN+HUMMEL IBÉRICA",
-      "address": "C/ Pertusa, 8\n50197 Zaragoza",
+      "address": {
+        "text": "C/ Pertusa, 8\n50197 Zaragoza",
+        "iso2": "ES",
+        "lat": 41.6450518,
+        "lon": -0.9803432000000001
+      },
       "telephone": "+34 976 28 73 29"
     },
     {
       "name": "MARINE INSTRUMENTS",
-      "address": "Rúa dos Padróns, 4 (Vial 3)\nParque Empresarial Porto do Molle\n36350 Nigrán - Pontevedra",
+      "address": {
+        "text": "Rúa dos Padróns, 4 (Vial 3)\nParque Empresarial Porto do Molle\n36350 Nigrán - Pontevedra",
+        "iso2": "ES",
+        "lat": 42.1337448,
+        "lon": -8.8011168
+      },
       "telephone": "+34 986 366 360"
     },
     {
       "name": "MENPRO",
-      "address": "Marie Curie, 5-7. Edificio Alfa - Planta 7ª\nParque Empresarial Rivas Futura\n28521 Rivas-Vaciamadrid",
+      "address": {
+        "text": "Marie Curie, 5-7. Edificio Alfa - Planta 7ª\nParque Empresarial Rivas Futura\n28521 Rivas-Vaciamadrid",
+        "iso2": "ES",
+        "lat": 40.3386533,
+        "lon": -3.5246648
+      },
       "telephone": "+34 91 552 21 61"
     },
     {
       "name": "MSM GROUP",
-      "address": "Sturova 925/27\n018 41 Dubnica nad Vahom, Slovensko",
+      "address": {
+        "text": "Sturova 925/27\n018 41 Dubnica nad Vahom, Slovensko",
+        "iso2": "SK",
+        "lat": 48.9530927,
+        "lon": 18.1828303
+      },
       "telephone": "+421 904 744 305"
     },
     {
       "name": "NAMMO PALENCIA",
-      "address": "Calle Anabel Segura, 11\nEdificio Albatros A, SS, O\n28108 Alcobendas - Madrid"
+      "address": {
+        "text": "Calle Anabel Segura, 11\nEdificio Albatros A, SS, O\n28108 Alcobendas - Madrid",
+        "iso2": "ES",
+        "lat": 40.5331929,
+        "lon": -3.6265298
+      }
     },
     {
       "name": "NATIONAL INSTRUMENTS",
-      "address": "Calle Playa de Liencres, 2\nEuropa Empresarial Ed. Londres 1ª plta\nLas Rozas, Madrid",
+      "address": {
+        "text": "Calle Playa de Liencres, 2\nEuropa Empresarial Ed. Londres 1ª plta\nLas Rozas, Madrid",
+        "iso2": "ES",
+        "lat": 40.5398459,
+        "lon": -3.8932095
+      },
       "telephone": "(+34) 91 640 0085"
     },
     {
       "name": "NAVANTIA",
-      "address": "Ctra. de la Algameca, s/n\n30205 Cartagena (Murcia)",
+      "address": {
+        "text": "Ctra. de la Algameca, s/n\n30205 Cartagena (Murcia)",
+        "iso2": "ES",
+        "lat": 37.5924203,
+        "lon": -1.0066397
+      },
       "telephone": "+34 679 530 136"
     },
     {
       "name": "NICOMATIC",
-      "address": "173, rue des Fougères\nZone Industrielle les Bracots\n74890 BONS-EN-CHABLAIS - FRANCE",
+      "address": {
+        "text": "173, rue des Fougères\nZone Industrielle les Bracots\n74890 BONS-EN-CHABLAIS - FRANCE",
+        "iso2": "FR",
+        "lat": 46.2733835,
+        "lon": 6.3482397
+      },
       "telephone": "+33 (0)4 50 87 66 70 +33 (0)6 73 68 85 73"
     },
     {
       "name": "NIGHTVISION LASERS SPAIN S.L.",
-      "address": "Glorieta de Pérez Cidón, 4\n28027 Madrid",
+      "address": {
+        "text": "Glorieta de Pérez Cidón, 4\n28027 Madrid",
+        "iso2": "ES",
+        "lat": 40.4435861,
+        "lon": -3.6410582
+      },
       "telephone": "+34 91 381 06 00"
     },
     {
       "name": "NOVATRONIC SISTEMAS",
-      "address": "c/ Cronos, 20 – 28037 Madrid\nc/ Iruña, 3 – 48014 Bilbao",
+      "address": {
+        "text": "c/ Cronos, 20 – 28037 Madrid\nc/ Iruña, 3 – 48014 Bilbao",
+        "iso2": "ES",
+        "lat": 43.2693271,
+        "lon": -2.9497914
+      },
       "telephone": "+34 915 713 115 +34 944 399 670"
     },
     {
       "name": "NewData Real Time S.L.",
-      "address": "Avenida de Brasil, 17 – planta 11\n28020 Madrid",
+      "address": {
+        "text": "Avenida de Brasil, 17 – planta 11\n28020 Madrid",
+        "iso2": "ES",
+        "lat": 40.4570185,
+        "lon": -3.6937439
+      },
       "telephone": "+34 91 556 21 50"
     },
     {
       "name": "OLMAR | Autoclaves & Additive Manufacturing",
-      "address": "C/ Nicolas Redondo Urbieta, 330\n33393 Gijón | ASTURIAS",
+      "address": {
+        "text": "C/ Nicolas Redondo Urbieta, 330\n33393 Gijón | ASTURIAS",
+        "iso2": "ES",
+        "lat": 43.514523,
+        "lon": -5.7216593
+      },
       "telephone": "+34 985 321 700"
     },
     {
       "name": "ORACLE",
-      "address": "Calle José Echegaray, 6 B\n\"Parque Empresarial Las Rozas\"\n28232 Madrid",
+      "address": {
+        "text": "Calle José Echegaray, 6 B\n\"Parque Empresarial Las Rozas\"\n28232 Madrid",
+        "iso2": "ES",
+        "lat": 40.5211016,
+        "lon": -3.8891579
+      },
       "telephone": "+34 91 6036188"
     },
     {
       "name": "PAP Tecnos Innovación S.A.U.",
-      "address": "Calle San José Artesano, 8\n28108 Alcobendas (Madrid)",
+      "address": {
+        "text": "Calle San José Artesano, 8\n28108 Alcobendas (Madrid)",
+        "iso2": "ES",
+        "lat": 40.5294333,
+        "lon": -3.6565017
+      },
       "telephone": "+ 34 916 623 236"
     },
     {
       "name": "PCO SA",
-      "address": "28 Jana Nowaka-Jezioranskiego St.\nPL 03-982 Warsaw, Poland",
+      "address": {
+        "text": "28 Jana Nowaka-Jezioranskiego St.\nPL 03-982 Warsaw, Poland",
+        "iso2": "PL",
+        "lat": 52.232132,
+        "lon": 21.090599
+      },
       "telephone": "(22) 515 – 75 – 03"
     },
     {
       "name": "PIEDRAFITA",
-      "address": "Calle Ramón y Cajal, 4\n28860 Paracuellos del Jarama (Madrid)",
+      "address": {
+        "text": "Calle Ramón y Cajal, 4\n28860 Paracuellos del Jarama (Madrid)",
+        "iso2": "ES",
+        "lat": 40.50182119999999,
+        "lon": -3.5488128
+      },
       "telephone": "+34 916 582 100"
     },
     {
       "name": "RAFAEL Advanced Defense Systems Ltd",
-      "address": "POB 2250, Haifa, 3102102 Israel",
+      "address": {
+        "text": "POB 2250, Haifa, 3102102 Israel",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      },
       "telephone": "972-73-335-4444"
     },
     {
       "name": "RF Española, S.A.",
-      "address": "C/ Avenida de Asturias, 10. Local 9\n28029 Madrid",
+      "address": {
+        "text": "C/ Avenida de Asturias, 10. Local 9\n28029 Madrid",
+        "iso2": "ES",
+        "lat": 40.4682866,
+        "lon": -3.6932691
+      },
       "telephone": "+34 91 308 17 01 +34 608 228 481"
     },
     {
       "name": "ROHDE & SCHWARZ ESPAÑA, S.A.",
-      "address": "Av. Manoteras, 6\n28050 Madrid",
+      "address": {
+        "text": "Av. Manoteras, 6\n28050 Madrid",
+        "iso2": "ES",
+        "lat": 40.4875267,
+        "lon": -3.6711576
+      },
       "telephone": "+34 91 334 1070"
     },
     {
       "name": "SAES – S.A. Electrónica Submarina, S.M.E.",
-      "address": "Ctra. Algameca, s/n\n30205 Cartagena (Murcia)",
+      "address": {
+        "text": "Ctra. Algameca, s/n\n30205 Cartagena (Murcia)",
+        "iso2": "ES",
+        "lat": 37.5924203,
+        "lon": -1.0066397
+      },
       "telephone": "+34 968 508 214"
     },
     {
       "name": "SAFRAN",
-      "address": "2 boulevard du Général Martial Valin\n75015 Paris, France",
+      "address": {
+        "text": "2 boulevard du Général Martial Valin\n75015 Paris, France",
+        "iso2": "FR",
+        "lat": 48.8368747,
+        "lon": 2.2694204
+      },
       "telephone": "+33 1 40 60 80 80"
     },
     {
       "name": "SAINSEL",
-      "address": "Avenida de Castilla, 2\nParque Empresarial San Fernando\nEdificio Canadá\n28830 San Fernando de Henares (Madrid)",
+      "address": {
+        "text": "Avenida de Castilla, 2\nParque Empresarial San Fernando\nEdificio Canadá\n28830 San Fernando de Henares (Madrid)",
+        "iso2": "ES",
+        "lat": 40.44929339999999,
+        "lon": -3.5108141
+      },
       "telephone": "+34 91 678 15 50"
     },
     {
       "name": "SAPA Placencia",
-      "address": "C/ María de Molina, 40 - 7ª Planta\n28006 Madrid",
+      "address": {
+        "text": "C/ María de Molina, 40 - 7ª Planta\n28006 Madrid",
+        "iso2": "ES",
+        "lat": 40.4374531,
+        "lon": -3.6827086
+      },
       "telephone": "+34 607 635 126"
     },
     {
       "name": "SASCorp",
-      "address": "Calle la Vaguada, 11\nPol. Ind. Trobajo del Camino\n24010 León",
+      "address": {
+        "text": "Calle la Vaguada, 11\nPol. Ind. Trobajo del Camino\n24010 León",
+        "iso2": "ES",
+        "lat": 42.5881791,
+        "lon": -5.6185728
+      },
       "telephone": "+ 34 987 288 578"
     },
     {
@@ -624,27 +1199,52 @@
     },
     {
       "name": "SCP/SINTERSA",
-      "address": "C/ Marques de Monteagudo, 24\n28028 Madrid",
+      "address": {
+        "text": "C/ Marques de Monteagudo, 24\n28028 Madrid",
+        "iso2": "ES",
+        "lat": 40.4377907,
+        "lon": -3.6685241
+      },
       "telephone": "+34 91 361 00 41"
     },
     {
       "name": "SDLE",
-      "address": "Antigua Ctra de Extremadura Km 20800\n28935 Móstoles (Madrid)",
+      "address": {
+        "text": "Antigua Ctra de Extremadura Km 20800\n28935 Móstoles (Madrid)",
+        "iso2": "ES",
+        "lat": 40.3190586,
+        "lon": -3.8963493
+      },
       "telephone": "+ 34 605 28 04 37"
     },
     {
       "name": "SENER",
-      "address": "Avenida de Zugazarte, 56\n48930 Getxo (Vizcaya)",
+      "address": {
+        "text": "Avenida de Zugazarte, 56\n48930 Getxo (Vizcaya)",
+        "iso2": "ES",
+        "lat": 43.334988,
+        "lon": -3.0097847
+      },
       "telephone": "+34 944 817 500 +34 918 077 121"
     },
     {
       "name": "SITTI",
-      "address": "Via Luigi Cadorna, 69\n20090 Vimodrone MI, Italia",
+      "address": {
+        "text": "Via Luigi Cadorna, 69\n20090 Vimodrone MI, Italia",
+        "iso2": "IT",
+        "lat": 45.515852,
+        "lon": 9.2937678
+      },
       "telephone": "+34 658 421 912"
     },
     {
       "name": "SOLIANI EMC SRL",
-      "country": "I–22100 Como-Via Varesina"
+      "address": {
+        "text": "I–22100 Como-Via Varesina",
+        "iso2": "IT",
+        "lat": 45.8185437,
+        "lon": 8.8307386
+      }
     },
     {
       "name": "Simulación de everis Aeroespacial, Defensa y Seguridad",
@@ -652,47 +1252,92 @@
     },
     {
       "name": "TECNOBIT – Grupo Oesía",
-      "address": "Marie Curie, 19 -4ª Planta\n28512 Rivas Vaciamadrid - Madrid",
+      "address": {
+        "text": "Marie Curie, 19 -4ª Planta\n28512 Rivas Vaciamadrid - Madrid",
+        "iso2": "ES",
+        "lat": 40.3367233,
+        "lon": -3.5241288
+      },
       "telephone": "+34 916 617 161"
     },
     {
       "name": "TECNOVE",
-      "address": "Avenida de Alcazar, 6\n13640 Herencia (Ciudad Real)",
+      "address": {
+        "text": "Avenida de Alcazar, 6\n13640 Herencia (Ciudad Real)",
+        "iso2": "ES",
+        "lat": 39.3690979,
+        "lon": -3.3524704
+      },
       "telephone": "+34 926 572 125 +34 926 571 032"
     },
     {
       "name": "THALES ESPAÑA",
-      "address": "Parque Norte-Edificio Alamo\nCalle Serrano Galvache, 56\n28033 MADRID",
+      "address": {
+        "text": "Parque Norte-Edificio Alamo\nCalle Serrano Galvache, 56\n28033 MADRID",
+        "iso2": "ES",
+        "lat": 40.476461,
+        "lon": -3.6719499
+      },
       "telephone": "(+34) 91 273 76 86"
     },
     {
       "name": "THE THIRD EYE",
-      "country": "Hanadiv 71. 46140 Hertzeliya",
-      "telephone": "+9723-5660666"
+      "telephone": "+9723-5660666",
+      "address": {
+        "text": "Hanadiv 71. 46140 Hertzeliya",
+        "iso2": "IL",
+        "lat": 32.17041800000001,
+        "lon": 34.8316479
+      }
     },
     {
       "name": "TMN TÉCNICA MECÁNICA NORMALIZADA SL",
-      "address": "C/ Puerto Lineras, 12. Nave 21-22\n28935 Móstoles - Madrid",
+      "address": {
+        "text": "C/ Puerto Lineras, 12. Nave 21-22\n28935 Móstoles - Madrid",
+        "iso2": "ES",
+        "lat": 40.3481917,
+        "lon": -3.86963
+      },
       "telephone": "+34 91 616 50 00"
     },
     {
       "name": "TRIUM-DRS",
-      "address": "Avenida Punto ES, 10. TecnoÁlcala\n28805 Madrid",
+      "address": {
+        "text": "Avenida Punto ES, 10. TecnoÁlcala\n28805 Madrid",
+        "iso2": "ES",
+        "lat": 40.5151175,
+        "lon": -3.3430141
+      },
       "telephone": "91 189 82 93"
     },
     {
       "name": "TSD Technology and Security Developments S.L.",
-      "address": "Polígono industrial - Calle de Los Jaboneros, 4\n13640 Herencias – Ciudad Real",
+      "address": {
+        "text": "Polígono industrial - Calle de Los Jaboneros, 4\n13640 Herencias – Ciudad Real",
+        "iso2": "ES",
+        "lat": 39.3759808,
+        "lon": -3.3439562
+      },
       "telephone": "+34 926 574 720"
     },
     {
       "name": "UAV Navigation",
-      "address": "Avenida Pirineos, 7 B11\n28703 San Sebastián de los Reyes\nMadrid",
+      "address": {
+        "text": "Avenida Pirineos, 7 B11\n28703 San Sebastián de los Reyes\nMadrid",
+        "iso2": "ES",
+        "lat": 40.5492956,
+        "lon": -3.610362
+      },
       "telephone": "+34 91 657 2723"
     },
     {
       "name": "UCALSA",
-      "address": "Calle Oquendo, 23 - 4º\n28006 Madrid",
+      "address": {
+        "text": "Calle Oquendo, 23 - 4º\n28006 Madrid",
+        "iso2": "ES",
+        "lat": 40.4406537,
+        "lon": -3.6821088
+      },
       "telephone": "+34 91 781 37 80"
     },
     {
@@ -700,19 +1345,34 @@
     },
     {
       "name": "URO, Vehículos Especiales, S.A.",
-      "address": "Polígono Industrial del Tambre\nVía Edison, 17\n15890 Santiago de Compostela - A Courña",
+      "address": {
+        "text": "Polígono Industrial del Tambre\nVía Edison, 17\n15890 Santiago de Compostela - A Courña",
+        "iso2": "ES",
+        "lat": 42.9133702,
+        "lon": -8.519219
+      },
       "telephone": "+ 34 981 58 03 22"
     },
     {
       "name": "UTE Kuehne+ Nagel & BeSS Group",
-      "address": "Calle Tajo, 8\n28840 Mejorada del Campo (Madrid)"
+      "address": {
+        "text": "Calle Tajo, 8\n28840 Mejorada del Campo (Madrid)",
+        "iso2": "ES",
+        "lat": 40.3847708,
+        "lon": -3.484518
+      }
     },
     {
       "name": "UTE Raciones España"
     },
     {
       "name": "YUMA S.A. - ALTUS",
-      "address": "Pol. Malpica, C/D, Parcelas 26-27\n50016 Zaragoza",
+      "address": {
+        "text": "Pol. Malpica, C/D, Parcelas 26-27\n50016 Zaragoza",
+        "iso2": "ES",
+        "lat": 41.6471378,
+        "lon": -0.7769851
+      },
       "telephone": "+34 976 330 000"
     },
     {
@@ -721,7 +1381,12 @@
     },
     {
       "name": "everis Aeroespacial, Defensa y Seguridad",
-      "address": "Avenida de Manoteras, 52\n28050 Madrid",
+      "address": {
+        "text": "Avenida de Manoteras, 52\n28050 Madrid",
+        "iso2": "ES",
+        "lat": 40.4871451,
+        "lon": -3.6680754
+      },
       "telephone": "(+34) 91 749 00 00"
     },
     {

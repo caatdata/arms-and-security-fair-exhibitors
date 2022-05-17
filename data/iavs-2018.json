@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2018",
   "startDate": "2018-01-22",
   "endDate": "2018-01-25",
-  "address": "Twickenham Stadium\n200 Whitton Road Twickenham\nLondon TW2 7BA\nUnited Kingdom",
+  "address": {
+    "text": "Twickenham Stadium\n200 Whitton Road Twickenham\nLondon TW2 7BA\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.4559558,
+    "lon": -0.3415051
+  },
   "website": "http://www.internationalarmouredvehicles.com",
   "social": [
     {
@@ -50,7 +55,7 @@
     },
     {
       "name": "General Dynamics Land Systems",
-      "website": "http://gdls.com/"
+      "website": "http://gdls.com"
     },
     {
       "name": "Nexter",
@@ -62,7 +67,7 @@
     },
     {
       "name": "Rheinmetall Defence",
-      "website": "http://www.rheinmetall-defence.com/"
+      "website": "http://www.rheinmetall-defence.com"
     },
     {
       "name": "RUAG Defence",
@@ -90,7 +95,7 @@
     },
     {
       "name": "Morgan Advanced Materials",
-      "website": "http://www.morganadvancedmaterials.com/"
+      "website": "http://www.morganadvancedmaterials.com"
     },
     {
       "name": "Rafael Advanced Defense Systems Ltd.",
@@ -102,7 +107,7 @@
     },
     {
       "name": "Revision Military",
-      "website": "https://www.revisionmilitary.com/"
+      "website": "https://www.revisionmilitary.com"
     },
     {
       "name": "Soucy Defense",
@@ -114,15 +119,15 @@
     },
     {
       "name": "ADS (Active Defence Systems)",
-      "website": "http://www.ads-protection.org/"
+      "website": "http://www.ads-protection.org"
     },
     {
       "name": "Allison Transmission",
-      "website": "http://www.allisontransmission.com/"
+      "website": "http://www.allisontransmission.com"
     },
     {
       "name": "American Panel Corporation",
-      "website": "http://american-panel.com/"
+      "website": "http://american-panel.com"
     },
     {
       "name": "Amphenol",
@@ -130,7 +135,7 @@
     },
     {
       "name": "ARTEC GmbH",
-      "website": "http://artec-boxer.com/"
+      "website": "http://artec-boxer.com"
     },
     {
       "name": "EnerSys",
@@ -142,27 +147,27 @@
     },
     {
       "name": "Metravib",
-      "website": "http://metravib.acoemgroup.com/"
+      "website": "http://metravib.acoemgroup.com"
     },
     {
       "name": "Milspec",
-      "website": "http://milspecmanufacturing.com/"
+      "website": "http://milspecmanufacturing.com"
     },
     {
       "name": "NLMK Clabecq",
-      "website": "http://quardian.me/"
+      "website": "http://quardian.me"
     },
     {
       "name": "Palomar Display Products, Inc.",
-      "website": "http://www.palomardisplays.com/"
+      "website": "http://www.palomardisplays.com"
     },
     {
       "name": "TII Group",
-      "website": "https://www.tii-group.com/"
+      "website": "https://www.tii-group.com"
     },
     {
       "name": "Ultra PALS",
-      "website": "http://www.ultra-pals.com/"
+      "website": "http://www.ultra-pals.com"
     },
     {
       "name": "UTC Aerospace Systems",
@@ -174,7 +179,7 @@
     },
     {
       "name": "Bren Tronics",
-      "website": "https://www.bren-tronics.com/"
+      "website": "https://www.bren-tronics.com"
     },
     {
       "name": "Caterpillar Defence Products",
@@ -182,7 +187,7 @@
     },
     {
       "name": "FN Herstal",
-      "website": "http://www.fnherstal.com/"
+      "website": "http://www.fnherstal.com"
     },
     {
       "name": "ITT Corporation",
@@ -190,15 +195,15 @@
     },
     {
       "name": "Jankel",
-      "website": "http://www.jankel.com/"
+      "website": "http://www.jankel.com"
     },
     {
       "name": "Kent Modular Electronics",
-      "website": "http://www.kme.co.uk/"
+      "website": "http://www.kme.co.uk"
     },
     {
       "name": "Michelin Tires",
-      "website": "http://www.michelin.ie/"
+      "website": "http://www.michelin.ie"
     },
     {
       "name": "Microflown AVISA",
@@ -210,11 +215,11 @@
     },
     {
       "name": "Pearson Engineering",
-      "website": "http://www.pearson-eng.com/"
+      "website": "http://www.pearson-eng.com"
     },
     {
       "name": "Proengin",
-      "website": "http://www.proengin.com/"
+      "website": "http://www.proengin.com"
     },
     {
       "name": "QinetiQ",
@@ -222,11 +227,11 @@
     },
     {
       "name": "Radnor",
-      "website": "http://radnor.org.uk/"
+      "website": "http://radnor.org.uk"
     },
     {
       "name": "Scepter Canada",
-      "website": "http://mil.sceptermilitary.com/"
+      "website": "http://mil.sceptermilitary.com"
     },
     {
       "name": "TenCate Advanced Armour",
@@ -242,11 +247,11 @@
     },
     {
       "name": "Vitec",
-      "website": "https://www.vitec.com/"
+      "website": "https://www.vitec.com"
     },
     {
       "name": "Beth-El Zikhron Yaaqov Industries Ltd.",
-      "website": "http://www.beind.com/"
+      "website": "http://www.beind.com"
     },
     {
       "name": "FNSS - Savunma Sistemleri A.S.",
@@ -254,11 +259,11 @@
     },
     {
       "name": "IBD Deisenroth Engineering",
-      "website": "http://www.ibd-deisenroth-engineering.de/"
+      "website": "http://www.ibd-deisenroth-engineering.de"
     },
     {
       "name": "Saab",
-      "website": "http://saab.com/"
+      "website": "http://saab.com"
     },
     {
       "name": "Newton Europe",

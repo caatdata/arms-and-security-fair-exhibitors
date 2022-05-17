@@ -9,8 +9,13 @@
   ],
   "startDate": "2016-05-10",
   "endDate": "2016-05-12",
-  "address": "Ahoy\nRotterdam\nThe Netherlands",
-  "website": "https://www.eweurope.com/",
+  "address": {
+    "text": "Ahoy\nRotterdam\nThe Netherlands",
+    "iso2": "NL",
+    "lat": 51.8819423,
+    "lon": 4.4865942
+  },
+  "website": "https://www.eweurope.com",
   "organiser": {
     "name": "Clarion Defence & Security"
   }

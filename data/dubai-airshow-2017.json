@@ -4,7 +4,12 @@
   "edition": "2017",
   "startDate": "2017-11-12",
   "endDate": "2017-11-16",
-  "address": "Dubai World Central, Al Maktoum International Airport, Dubai",
+  "address": {
+    "text": "Dubai World Central, Al Maktoum International Airport, Dubai",
+    "iso2": "AE",
+    "lat": 24.8995414,
+    "lon": 55.1191025
+  },
   "website": "https://www.dubaiairshow.aero",
   "organiser": [
     {

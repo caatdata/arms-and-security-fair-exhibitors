@@ -8,8 +8,13 @@
   "edition": "2014",
   "startDate": "2014-06-10",
   "endDate": "2014-06-10",
-  "address": "ACC - Arena and Conference Centre Liverpool\nKings Dock\nLiverpool Waterfront\nL3 4FP\nUnited Kingdom",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "ACC - Arena and Conference Centre Liverpool\nKings Dock\nLiverpool Waterfront\nL3 4FP\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 53.3971676,
+    "lon": -2.9908451
+  },
+  "website": "https://www.udt-global.com",
   "organiser": [
     {
       "name": "Clarion Events",

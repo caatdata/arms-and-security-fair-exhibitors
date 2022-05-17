@@ -7,7 +7,12 @@
   "edition": "2000",
   "startDate": "2000-02-07",
   "endDate": "2000-02-09",
-  "address": "Sydney Convention Centre\nSydney\nAustralia",
+  "address": {
+    "text": "Sydney Convention Centre\nSydney\nAustralia",
+    "iso2": "AU",
+    "lat": -33.8748582,
+    "lon": 151.199509
+  },
   "organiser": [
     {
       "name": "Nexus Media Ltd"

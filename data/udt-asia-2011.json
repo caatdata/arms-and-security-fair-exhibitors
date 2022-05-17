@@ -7,20 +7,28 @@
   "edition": "2011",
   "startDate": "2011-11-30",
   "endDate": "2011-12-01",
-  "address": "Singapore Expo\nSingapore\nSingapore",
+  "address": {
+    "text": "Singapore Expo\nSingapore\nSingapore",
+    "iso2": "SG",
+    "lat": 1.3335251,
+    "lon": 103.959537
+  },
   "organiser": [
     {
       "name": "Clarion Events",
       "website": "http://clarionevents.com"
     }
   ],
-  "website": "http://www.udt-asia.com/",
+  "website": "http://www.udt-asia.com",
   "exhibitorListUrl": "http://www.udt-asia.com/page.cfm/Link=66/t=m/goSection=16",
   "exhibitorListDate": "2022-03-06T14:21:46+00:00",
   "exhibitor": [
     {
       "name": "Babcock",
-      "country": "http://www.babcock.co.uk/"
+      "country": {
+        "text": "http://www.babcock.co.uk/",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Bartington",
@@ -44,7 +52,12 @@
     },
     {
       "name": "STIDD",
-      "country": "http://www.stiddmil.com/"
+      "address": {
+        "text": "http://www.stiddmil.com/",
+        "iso2": "US",
+        "lat": 41.1032983,
+        "lon": -72.3582136
+      }
     },
     {
       "name": "Trelleborg",

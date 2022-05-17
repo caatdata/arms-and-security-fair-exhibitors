@@ -4,7 +4,12 @@
   "edition": "2014",
   "startDate": "2014-12-11",
   "endDate": "2014-12-13",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
   "website": "http://www.ubmindia.in/ifsec_india/home",
   "organiser": [
     {

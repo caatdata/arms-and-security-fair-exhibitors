@@ -4,7 +4,12 @@
   "edition": "2022",
   "startDate": "2022-03-15",
   "endDate": "2022-03-17",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.securityandpolicing.co.uk",
   "organiser": [
     {
@@ -33,7 +38,12 @@
         "Counter Terrorism & Intelligence",
         "Information Technology"
       ],
-      "address": "Bernard Weatherill House\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Bernard Weatherill House\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4985333,
+        "lon": -0.158017
+      },
       "website": "www.gov.uk/home-office"
     },
     {
@@ -45,8 +55,13 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "16-18 Hayhill, Sileby Road\nUnited Kingdom",
-      "website": "https://www.3dx-ray.com/"
+      "address": {
+        "text": "16-18 Hayhill, Sileby Road\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7419655,
+        "lon": -1.1246971
+      },
+      "website": "https://www.3dx-ray.com"
     },
     {
       "name": "4Wall",
@@ -58,7 +73,12 @@
       "category": [
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "18 Windsor Drive, Market Drayton\nTelford\nUnited Kingdom",
+      "address": {
+        "text": "18 Windsor Drive, Market Drayton\nTelford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9100972,
+        "lon": -2.4750547
+      },
       "website": "https://www.511tactical.com"
     },
     {
@@ -75,8 +95,13 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Crescent Business Park\nLisburn\nUnited Kingdom",
-      "website": "https://www.7techgroup.com/"
+      "address": {
+        "text": "Crescent Business Park\nLisburn\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.5136392,
+        "lon": -6.0724851
+      },
+      "website": "https://www.7techgroup.com"
     },
     {
       "name": "ADANI Limited",
@@ -97,7 +122,12 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "Unit 1\nRamsgate\nUnited Kingdom",
+      "address": {
+        "text": "Unit 1\nRamsgate\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.335545,
+        "lon": 1.419895
+      },
       "website": "https://www.adanisystems.com/contacts/"
     },
     {
@@ -106,7 +136,12 @@
       "category": [
         "Covert Operations & Capabilities"
       ],
-      "address": "PO Box 8495\nSwadlincote\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 8495\nSwadlincote\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.771318,
+        "lon": -1.554997
+      },
       "website": "info@adseuropeltd.com"
     },
     {
@@ -137,7 +172,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "1 E T P S Road\nFarnborough\nUnited Kingdom",
+      "address": {
+        "text": "1 E T P S Road\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2752282,
+        "lon": -0.7594883
+      },
       "website": "www.adsgroup.org.uk"
     },
     {
@@ -149,7 +189,12 @@
         "Incident & Emergency Response",
         "Transport Security"
       ],
-      "address": "New Illawarra Road, Lucas Heights\nSydney\nAustralia",
+      "address": {
+        "text": "New Illawarra Road, Lucas Heights\nSydney\nAustralia",
+        "iso2": "AU",
+        "lat": -34.0475027,
+        "lon": 150.9836191
+      },
       "website": "www.coris360.com"
     },
     {
@@ -170,8 +215,13 @@
         "Training",
         "Transport Security"
       ],
-      "address": "7 Balloo Court\nBangor\nUnited Kingdom",
-      "website": "https://arlivesystems.com/"
+      "address": {
+        "text": "7 Balloo Court\nBangor\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.6450314,
+        "lon": -5.6672994
+      },
+      "website": "https://arlivesystems.com"
     },
     {
       "name": "AREA S.p.A.",
@@ -183,7 +233,12 @@
         "Cyber Security",
         "Data acquisition and analysis"
       ],
-      "address": "Via Gabriele D’Annunzio 2\nVizzola Ticino\nItaly",
+      "address": {
+        "text": "Via Gabriele D’Annunzio 2\nVizzola Ticino\nItaly",
+        "iso2": "IT",
+        "lat": 45.6267946,
+        "lon": 8.7026417
+      },
       "website": "http://www.area.it"
     },
     {
@@ -192,7 +247,12 @@
       "category": [
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Unit 4 Sycamore Road\nDerby\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Sycamore Road\nDerby\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9225301,
+        "lon": -1.4746186
+      },
       "website": "https//www.arxuk.co.uk"
     },
     {
@@ -207,7 +267,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "The Old Barracks North, Lady Grove, Goring Heath\nReading\nUnited Kingdom",
+      "address": {
+        "text": "The Old Barracks North, Lady Grove, Goring Heath\nReading\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5096195,
+        "lon": -1.0591805
+      },
       "website": "www.atr-ltd.co.uk"
     },
     {
@@ -217,7 +282,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "1/51 Industry Place\nBrisbane\nAustralia",
+      "address": {
+        "text": "1/51 Industry Place\nBrisbane\nAustralia",
+        "iso2": "AU",
+        "lat": -27.4255702,
+        "lon": 153.1630323
+      },
       "website": "atrax.io"
     },
     {
@@ -233,7 +303,12 @@
         "Cyber Security",
         "Data acquisition and analysis"
       ],
-      "address": "London\nUnited Kingdom",
+      "address": {
+        "text": "London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      },
       "website": "https://www.gov.uk/government/groups/accelerated-capability-environment-ace"
     },
     {
@@ -245,7 +320,12 @@
         "Covert Operations & Capabilities",
         "Forensic Services"
       ],
-      "address": "Dublin\nIreland",
+      "address": {
+        "text": "Dublin\nIreland",
+        "iso2": "IE",
+        "lat": 53.3498053,
+        "lon": -6.2603097
+      },
       "website": "www.acustek.com"
     },
     {
@@ -254,8 +334,11 @@
       "category": [
         "CBRNe"
       ],
-      "address": "United Kingdom",
-      "website": "ortec-online.com"
+      "website": "ortec-online.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Agilent Technologies",
@@ -270,8 +353,13 @@
         "Protective and Transport Packaging",
         "Transport Security"
       ],
-      "address": "5500 Lakeside, Cheadle Royal Business Park\nStockport\nUnited Kingdom",
-      "website": "https://www.agilent.com/"
+      "address": {
+        "text": "5500 Lakeside, Cheadle Royal Business Park\nStockport\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3808965,
+        "lon": -2.2227788
+      },
+      "website": "https://www.agilent.com"
     },
     {
       "name": "Aim Ltd",
@@ -290,8 +378,13 @@
         "Professional Services",
         "Training"
       ],
-      "address": "The Base, Dartford Business Park, Victoria Road, Dartford, Kent\nDartford\nUnited Kingdom",
-      "website": "https://aimltd.uk/"
+      "address": {
+        "text": "The Base, Dartford Business Park, Victoria Road, Dartford, Kent\nDartford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.44973,
+        "lon": 0.2147268
+      },
+      "website": "https://aimltd.uk"
     },
     {
       "name": "Airbus",
@@ -307,7 +400,12 @@
         "Information Technology",
         "Vehicles"
       ],
-      "address": "Wellington House, 125-130 Strand, Westminster, London\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Wellington House, 125-130 Strand, Westminster, London\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.51100779999999,
+        "lon": -0.1193447
+      },
       "website": "https://www.airbus.com/en"
     },
     {
@@ -318,7 +416,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "Alford House, Epsom Square, White Horse Business Park\nTrowbridge\nUnited Kingdom",
+      "address": {
+        "text": "Alford House, Epsom Square, White Horse Business Park\nTrowbridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3004039,
+        "lon": -2.1985745
+      },
       "website": "https://explosives.net"
     },
     {
@@ -333,7 +436,12 @@
         "Forensic Services",
         "Information Technology"
       ],
-      "address": "1 Principal Place, Worship Street\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "1 Principal Place, Worship Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.52189250000001,
+        "lon": -0.0791915
+      },
       "website": "https://aws.amazon.com/uk-public-sector"
     },
     {
@@ -344,8 +452,11 @@
         "Communications, Command & Control",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "United Kingdom",
-      "website": "https://www.anduril.com/"
+      "website": "https://www.anduril.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Angoka Limited",
@@ -353,7 +464,12 @@
       "category": [
         "Cyber Security"
       ],
-      "address": "41 Whitcomb Street\nLondon\nUnited Kingdom"
+      "address": {
+        "text": "41 Whitcomb Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5095736,
+        "lon": -0.1309712
+      }
     },
     {
       "name": "Apec Systems Limited",
@@ -361,7 +477,12 @@
       "category": [
         "CBRNe"
       ],
-      "address": "Cavans Way\nUnited Kingdom",
+      "address": {
+        "text": "Cavans Way\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3949694,
+        "lon": -1.4420084
+      },
       "website": "www.apecsystems.co.uk"
     },
     {
@@ -389,7 +510,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Southampton\nUnited Kingdom",
+      "address": {
+        "text": "Southampton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9105468,
+        "lon": -1.4049018
+      },
       "website": "www.apellasolutions.co.uk"
     },
     {
@@ -408,19 +534,34 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Unit 3K\nTaunton\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3K\nTaunton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.015344,
+        "lon": -3.106849
+      },
       "website": "www.artemis-uk.co.uk"
     },
     {
       "name": "Atkins",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/atkins-global/",
-      "address": "The Hub, Aztec West\nBristol\nUnited Kingdom",
+      "address": {
+        "text": "The Hub, Aztec West\nBristol\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5436129,
+        "lon": -2.5675422
+      },
       "website": "atkinsglobal.com/futureborders"
     },
     {
       "name": "Audio Technology Switzerland",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/audio-technology-switzerland/",
-      "address": "Chemin de l’Orio 30A\nSwitzerland",
+      "address": {
+        "text": "Chemin de l’Orio 30A\nSwitzerland",
+        "iso2": "CH",
+        "lat": 46.56634589999999,
+        "lon": 6.605249799999999
+      },
       "website": "https://security.nagraaudio.com"
     },
     {
@@ -431,7 +572,12 @@
         "Incident & Emergency Response",
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Avon Protection. Hampton Park West. Semington Road. Melksham, Wiltshire.\nUnited Kingdom",
+      "address": {
+        "text": "Avon Protection. Hampton Park West. Semington Road. Melksham, Wiltshire.\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.353683,
+        "lon": -2.1401043
+      },
       "website": "www.avon-protection.com"
     },
     {
@@ -440,7 +586,12 @@
       "category": [
         "Border and Maritime Security"
       ],
-      "address": "Waterside House, Surrey Research Park\nUnited Kingdom",
+      "address": {
+        "text": "Waterside House, Surrey Research Park\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2428798,
+        "lon": -0.6153244999999999
+      },
       "website": "https://www.baesystems.com/en/cybersecurity/home"
     },
     {
@@ -456,8 +607,13 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Station View\nGuildford\nUnited Kingdom",
-      "website": "https://baysconsulting.co.uk/"
+      "address": {
+        "text": "Station View\nGuildford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2399971,
+        "lon": -0.5821265
+      },
+      "website": "https://baysconsulting.co.uk"
     },
     {
       "name": "Babcock International Group",
@@ -473,7 +629,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Ashchurch, Tewkesbury\nGloucester\nUnited Kingdom",
+      "address": {
+        "text": "Ashchurch, Tewkesbury\nGloucester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.99782039999999,
+        "lon": -2.1046656
+      },
       "website": "https://babcockinternational.com"
     },
     {
@@ -485,7 +646,12 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "6-9 The Square,\nHayes\nUnited Kingdom",
+      "address": {
+        "text": "6-9 The Square,\nHayes\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5087858,
+        "lon": -0.4369088
+      },
       "website": "www.basistech.com"
     },
     {
@@ -505,7 +671,12 @@
         "Physical Security, Man-guarding & Close Protection",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "8 The Pines, Broad Street, Guildford\nGuildford\nUnited Kingdom",
+      "address": {
+        "text": "8 The Pines, Broad Street, Guildford\nGuildford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2520986,
+        "lon": -0.6084504
+      },
       "website": "https://www.beechwoodequipment.com"
     },
     {
@@ -518,7 +689,12 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "Cambridge\nUnited Kingdom",
+      "address": {
+        "text": "Cambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1950788,
+        "lon": 0.1312729
+      },
       "website": "https://blackdotsolutions.com"
     },
     {
@@ -527,7 +703,12 @@
       "category": [
         "Border and Maritime Security"
       ],
-      "address": "Iceni House, London Road, Great Chesterford, Saffron Walden, Essex\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "Iceni House, London Road, Great Chesterford, Saffron Walden, Essex\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06214,
+        "lon": 0.1908153
+      },
       "website": "https://www.blighter.com"
     },
     {
@@ -553,7 +734,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "The Officers Mess Business Centre, Royston Road, Duxford, Cambridge\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "The Officers Mess Business Centre, Royston Road, Duxford, Cambridge\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0957616,
+        "lon": 0.1287663
+      },
       "website": "www.bluelightsdigital.com"
     },
     {
@@ -563,7 +749,12 @@
         "Incident & Emergency Response",
         "Vehicles"
       ],
-      "address": "Bluelite Graphics Ltd\nBurgess Hill\nUnited Kingdom",
+      "address": {
+        "text": "Bluelite Graphics Ltd\nBurgess Hill\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9530059,
+        "lon": -0.1473667
+      },
       "website": "www.bluelitegroup.com"
     },
     {
@@ -573,7 +764,12 @@
         "CBRNe",
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Mettmanner Str. 25\nErkrath\nGermany",
+      "address": {
+        "text": "Mettmanner Str. 25\nErkrath\nGermany",
+        "iso2": "DE",
+        "lat": 51.2267749,
+        "lon": 6.919393299999999
+      },
       "website": "www.bluecher.com"
     },
     {
@@ -582,13 +778,21 @@
       "category": [
         "Border and Maritime Security"
       ],
-      "address": "United Kingdom",
-      "website": "https://www.gov.uk/government/organisations/border-force"
+      "website": "https://www.gov.uk/government/organisations/border-force",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Brolis Defence",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/brolis/",
-      "address": "Unit A4, Innovation Suite\nLarne\nUnited Kingdom",
+      "address": {
+        "text": "Unit A4, Innovation Suite\nLarne\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.8578003,
+        "lon": -5.8236224
+      },
       "website": "www.brolis-defence.com"
     },
     {
@@ -607,8 +811,13 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Ling Road\nPoole\nUnited Kingdom",
-      "website": "https://www.c3ia.co.uk/"
+      "address": {
+        "text": "Ling Road\nPoole\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7464836,
+        "lon": -1.9495532
+      },
+      "website": "https://www.c3ia.co.uk"
     },
     {
       "name": "CACI",
@@ -619,14 +828,24 @@
         "Data acquisition and analysis",
         "Forensic Services"
       ],
-      "address": "CACI Ltd, Kensington Village\nLondon\nUnited Kingdom",
-      "website": "https://www.caci.co.uk/"
+      "address": {
+        "text": "CACI Ltd, Kensington Village\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4929733,
+        "lon": -0.2042758
+      },
+      "website": "https://www.caci.co.uk"
     },
     {
       "name": "CBRN-UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/cbrn/",
-      "address": "ADS Group, ETPS Road, Farnborough, Hampshire\nUnited Kingdom",
-      "website": "https://www.cbrn-uk.com/"
+      "address": {
+        "text": "ADS Group, ETPS Road, Farnborough, Hampshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2756346,
+        "lon": -0.7611333
+      },
+      "website": "https://www.cbrn-uk.com"
     },
     {
       "name": "CBRNergetics Ltd.",
@@ -636,7 +855,12 @@
         "Counter Explosive Ordnance, Explosives & Blast Protection",
         "Training"
       ],
-      "address": "14 Old Coastguard Road\nPoole\nUnited Kingdom",
+      "address": {
+        "text": "14 Old Coastguard Road\nPoole\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.6877254,
+        "lon": -1.9472167
+      },
       "website": "www.cbrnergeticsltd.com"
     },
     {
@@ -649,8 +873,13 @@
         "Incident & Emergency Response",
         "Training"
       ],
-      "address": "34-36 Cygnet Court,Timothys Bridge Road,\nUnited Kingdom",
-      "website": "https://www.cclsolutionsgroup.com/"
+      "address": {
+        "text": "34-36 Cygnet Court,Timothys Bridge Road,\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2013639,
+        "lon": -1.7256257
+      },
+      "website": "https://www.cclsolutionsgroup.com"
     },
     {
       "name": "CDS Defence & Security Ltd",
@@ -660,7 +889,12 @@
         "Cyber Security",
         "Training"
       ],
-      "address": "The Bramery,\nUnited Kingdom",
+      "address": {
+        "text": "The Bramery,\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9025265,
+        "lon": -2.0955553
+      },
       "website": "www.cdsds.uk"
     },
     {
@@ -675,7 +909,12 @@
         "Forensic Services",
         "Incident & Emergency Response"
       ],
-      "address": "20 Home End, Fulbourn\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "20 Home End, Fulbourn\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.17880659999999,
+        "lon": 0.2226753
+      },
       "website": "www.cedaraudio.com"
     },
     {
@@ -687,8 +926,11 @@
         "Physical Security, Man-guarding & Close Protection",
         "Transport Security"
       ],
-      "address": "Unit 7 Springfield Park\nUnited Kingdom",
-      "website": "www.ceia.net"
+      "website": "www.ceia.net",
+      "country": {
+        "text": "Unit 7 Springfield Park\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CP Cases Ltd",
@@ -698,8 +940,13 @@
         "Protective and Transport Packaging",
         "Transport Security"
       ],
-      "address": "Unit 10-11, Worton Hall Industrial Estate\nLondon\nUnited Kingdom",
-      "website": "https://cpcases.com/"
+      "address": {
+        "text": "Unit 10-11, Worton Hall Industrial Estate\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.46556950000001,
+        "lon": -0.3448274000000001
+      },
+      "website": "https://cpcases.com"
     },
     {
       "name": "CRF-I Ltd",
@@ -709,7 +956,12 @@
         "Communications, Command & Control",
         "Covert Operations & Capabilities"
       ],
-      "address": "54 Sylvan avenue\nNottingham\nUnited Kingdom",
+      "address": {
+        "text": "54 Sylvan avenue\nNottingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.09254019999999,
+        "lon": -1.2523749
+      },
       "website": "https://crf-i.co.uk"
     },
     {
@@ -724,7 +976,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Building 7200, Beach Drive\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "Building 7200, Beach Drive\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1950788,
+        "lon": 0.1312729
+      },
       "website": "https://www.crfs.com"
     },
     {
@@ -740,7 +997,12 @@
         "Data acquisition and analysis",
         "Training"
       ],
-      "address": "Via Morolo 92\nRome\nItaly",
+      "address": {
+        "text": "Via Morolo 92\nRome\nItaly",
+        "iso2": "IT",
+        "lat": 41.935885,
+        "lon": 12.6205641
+      },
       "website": "www.cy4gate.com"
     },
     {
@@ -750,7 +1012,12 @@
         "Incident & Emergency Response",
         "Training"
       ],
-      "address": "The Hawkhills, Easingwold, York YO61 3EG\nYork\nUnited Kingdom",
+      "address": {
+        "text": "The Hawkhills, Easingwold, York YO61 3EG\nYork\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.1009416,
+        "lon": -1.1786967
+      },
       "website": "www.epcresilience.com"
     },
     {
@@ -762,7 +1029,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Salisbury House, Station Road\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "Salisbury House, Station Road\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1950338,
+        "lon": 0.1334591
+      },
       "website": "cambridge-ebp.co.uk"
     },
     {
@@ -774,7 +1046,12 @@
         "Optics",
         "Training"
       ],
-      "address": "Stevensstraat 21\nTielt\nBelgium",
+      "address": {
+        "text": "Stevensstraat 21\nTielt\nBelgium",
+        "iso2": "BE",
+        "lat": 50.9320576,
+        "lon": 4.9286216
+      },
       "website": "caminos-online.com"
     },
     {
@@ -785,8 +1062,13 @@
         "Covert Operations & Capabilities",
         "Optics"
       ],
-      "address": "4 Roundwood Avenue\nUnited Kingdom",
-      "website": "https://www.canon.co.uk/"
+      "address": {
+        "text": "4 Roundwood Avenue\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5107212,
+        "lon": -0.4415606
+      },
+      "website": "https://www.canon.co.uk"
     },
     {
       "name": "Care of Police Survivors (COPS)",
@@ -794,7 +1076,12 @@
       "category": [
         "Professional Services"
       ],
-      "address": "1st Floor, Victoria House, Cygnet Drive,\nTamworth\nUnited Kingdom",
+      "address": {
+        "text": "1st Floor, Victoria House, Cygnet Drive,\nTamworth\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6345647,
+        "lon": -1.7083212
+      },
       "website": "www.ukcops.org"
     },
     {
@@ -804,7 +1091,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "62 The Street, Ashtead, Surrey\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "62 The Street, Ashtead, Surrey\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3095803,
+        "lon": -0.2989868
+      },
       "website": "https://www.cats-whisker.com"
     },
     {
@@ -815,7 +1107,12 @@
         "Cyber Security",
         "Forensic Services"
       ],
-      "address": "First Central 200, 6th Floor\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "First Central 200, 6th Floor\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5296962,
+        "lon": -0.2839956
+      },
       "website": "https://www.cellebrite.com/en/home/"
     },
     {
@@ -828,7 +1125,12 @@
         "Covert Operations & Capabilities",
         "Training"
       ],
-      "address": "Cambridge\nUnited Kingdom",
+      "address": {
+        "text": "Cambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1950788,
+        "lon": 0.1312729
+      },
       "website": "www.cellmetric.co.uk"
     },
     {
@@ -838,7 +1140,7 @@
         "Cyber Security",
         "Data acquisition and analysis"
       ],
-      "website": "https://www.chainalysis.com/"
+      "website": "https://www.chainalysis.com"
     },
     {
       "name": "Chemring Technology Solutions Ltd",
@@ -849,7 +1151,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Ordnance House, Blackhill Road, Holton Heath\nPoole\nUnited Kingdom",
+      "address": {
+        "text": "Ordnance House, Blackhill Road, Holton Heath\nPoole\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7195606,
+        "lon": -2.0758345
+      },
       "website": "www.theeodshop.com"
     },
     {
@@ -861,7 +1168,12 @@
         "Optics",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Quadrant House\nHorsham\nUnited Kingdom",
+      "address": {
+        "text": "Quadrant House\nHorsham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0808382,
+        "lon": -0.3185372
+      },
       "website": "www.chess-dynamics.com"
     },
     {
@@ -870,7 +1182,12 @@
       "category": [
         "Optics"
       ],
-      "address": "154E Brook Drive\nAbingdon\nUnited Kingdom",
+      "address": {
+        "text": "154E Brook Drive\nAbingdon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6244934,
+        "lon": -1.2857219
+      },
       "website": "www.clareys.com"
     },
     {
@@ -883,8 +1200,13 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "Noida\nIndia",
-      "website": "https://clear-trail.com/"
+      "address": {
+        "text": "Noida\nIndia",
+        "iso2": "IN",
+        "lat": 28.5355161,
+        "lon": 77.3910265
+      },
+      "website": "https://clear-trail.com"
     },
     {
       "name": "Cobwebs Technologies",
@@ -893,7 +1215,12 @@
         "Counter Terrorism & Intelligence",
         "Cyber Security"
       ],
-      "address": "1-2 Charterhouse Mews\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "1-2 Charterhouse Mews\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5211449,
+        "lon": -0.1007099
+      },
       "website": "www.cobwebs.com"
     },
     {
@@ -912,7 +1239,12 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "Boho One, Bridge Street West\nMiddlesbrough\nUnited Kingdom",
+      "address": {
+        "text": "Boho One, Bridge Street West\nMiddlesbrough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.57998689999999,
+        "lon": -1.2356052
+      },
       "website": "www.coeussoftware.com"
     },
     {
@@ -926,7 +1258,12 @@
         "Cyber Security",
         "Training"
       ],
-      "address": "Ryton\nUnited Kingdom",
+      "address": {
+        "text": "Ryton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9728909,
+        "lon": -1.7629735
+      },
       "website": "https://college.police.uk"
     },
     {
@@ -936,7 +1273,12 @@
         "Communications, Command & Control",
         "Covert Operations & Capabilities"
       ],
-      "address": "A.Tumeno 4\nVilnius\nLithuania",
+      "address": {
+        "text": "A.Tumeno 4\nVilnius\nLithuania",
+        "iso2": "LT",
+        "lat": 54.6920182,
+        "lon": 25.2633905
+      },
       "website": "www.commesh.com"
     },
     {
@@ -954,8 +1296,11 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Apex House\nUnited Kingdom",
-      "website": "www.conjay.com"
+      "website": "www.conjay.com",
+      "country": {
+        "text": "Apex House\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Contingent Global Limited",
@@ -972,8 +1317,11 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "United Kingdom",
-      "website": "www.contingentglobal.com"
+      "website": "www.contingentglobal.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Corporate IT Systems Ltd",
@@ -985,8 +1333,13 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Unit 6, Block A, Arena Business Park, Holyrood Close,\nPoole\nUnited Kingdom",
-      "website": "https://citsl.net/"
+      "address": {
+        "text": "Unit 6, Block A, Arena Business Park, Holyrood Close,\nPoole\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7425953,
+        "lon": -1.9931853
+      },
+      "website": "https://citsl.net"
     },
     {
       "name": "Counter-Drones Unit",
@@ -998,8 +1351,13 @@
       "category": [
         "Counter Explosive Ordnance, Explosives & Blast Protection"
       ],
-      "address": "ADS Group Ltd, ETPS Road, Farnborough, Hampshire\nFarnborough\nUnited Kingdom",
-      "website": "https://www.counter-eo-uk.com/"
+      "address": {
+        "text": "ADS Group Ltd, ETPS Road, Farnborough, Hampshire\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2756346,
+        "lon": -0.7611333
+      },
+      "website": "https://www.counter-eo-uk.com"
     },
     {
       "name": "Covert Technology Suppliers Forum (CTSF)",
@@ -1011,8 +1369,13 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "ShowCentre\nFarnborough\nUnited Kingdom",
-      "website": "https://www.ctsf.org.uk/"
+      "address": {
+        "text": "ShowCentre\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      },
+      "website": "https://www.ctsf.org.uk"
     },
     {
       "name": "Coverty Tech",
@@ -1022,7 +1385,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "HaYarden Haharari 187 , Karkom\nIsrael",
+      "address": {
+        "text": "HaYarden Haharari 187 , Karkom\nIsrael",
+        "iso2": "IL",
+        "lat": 32.928271,
+        "lon": 35.606331
+      },
       "website": "https://www.coverty-tech.com"
     },
     {
@@ -1033,8 +1401,13 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Strandvejen 2A\nDenmark",
-      "website": "https://covidence.com/"
+      "address": {
+        "text": "Strandvejen 2A\nDenmark",
+        "iso2": "DK",
+        "lat": 55.71652040000001,
+        "lon": 12.5775038
+      },
+      "website": "https://covidence.com"
     },
     {
       "name": "Crime and Fire Defence Systems Ltd",
@@ -1047,14 +1420,24 @@
         "Professional Services",
         "Transport Security"
       ],
-      "address": "Unit 1 Crigglestone Ind est\nWakefield\nUnited Kingdom",
+      "address": {
+        "text": "Unit 1 Crigglestone Ind est\nWakefield\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.64090220000001,
+        "lon": -1.5269013
+      },
       "website": "www.crimeandfire.com"
     },
     {
       "name": "Critical Communications Today",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/critical-communications-today/",
-      "address": "St. Jude’s Church, Dulwich Road\nLondon\nUnited Kingdom",
-      "website": "https://www.criticalcomms.com/"
+      "address": {
+        "text": "St. Jude’s Church, Dulwich Road\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4536423,
+        "lon": -0.1064391
+      },
+      "website": "https://www.criticalcomms.com"
     },
     {
       "name": "Cunning Running Software Ltd",
@@ -1067,8 +1450,13 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Bell House, 32 Bell Street\nRomsey\nUnited Kingdom",
-      "website": "https://cunningrunning.co.uk/"
+      "address": {
+        "text": "Bell House, 32 Bell Street\nRomsey\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9877569,
+        "lon": -1.4992654
+      },
+      "website": "https://cunningrunning.co.uk"
     },
     {
       "name": "Cyacomb",
@@ -1076,8 +1464,13 @@
       "category": [
         "Comms Data and Digital Forensics"
       ],
-      "address": "CodeBase, Argyle House\nEdinburgh\nUnited Kingdom",
-      "website": "https://www.cyacomb.com/"
+      "address": {
+        "text": "CodeBase, Argyle House\nEdinburgh\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9494303,
+        "lon": -3.1054997
+      },
+      "website": "https://www.cyacomb.com"
     },
     {
       "name": "Cypher Technology Ltd",
@@ -1090,7 +1483,12 @@
         "Forensic Services",
         "Information Technology"
       ],
-      "address": "5-7 Gravel Hill\nLeatherhead\nUnited Kingdom",
+      "address": {
+        "text": "5-7 Gravel Hill\nLeatherhead\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29610419999999,
+        "lon": -0.3303467
+      },
       "website": "https://cyphertechnology.com"
     },
     {
@@ -1104,8 +1502,13 @@
         "Incident & Emergency Response",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "1 Northumberland Avenue\nLondon\nUnited Kingdom",
-      "website": "https://www.d-fendsolutions.com/"
+      "address": {
+        "text": "1 Northumberland Avenue\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5066074,
+        "lon": -0.1236768
+      },
+      "website": "https://www.d-fendsolutions.com"
     },
     {
       "name": "DEM Solutions",
@@ -1115,7 +1518,12 @@
         "Covert Operations & Capabilities",
         "Information Technology"
       ],
-      "address": "VIA GIUSEPPE PIAZZI 58\nTurin\nItaly",
+      "address": {
+        "text": "VIA GIUSEPPE PIAZZI 58\nTurin\nItaly",
+        "iso2": "IT",
+        "lat": 45.0519572,
+        "lon": 7.658067699999999
+      },
       "website": "www.dem-solutions.it"
     },
     {
@@ -1124,13 +1532,21 @@
       "category": [
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "United Kingdom",
-      "website": "www.DGCS.io"
+      "website": "www.DGCS.io",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "DMS Protective Equipment Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/dms-protective-equipment/",
-      "address": "DMS Plastics Ltd\nUnited Kingdom",
+      "address": {
+        "text": "DMS Plastics Ltd\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3684471,
+        "lon": -2.6980293
+      },
       "website": "www.dmsprotective.co.uk"
     },
     {
@@ -1142,8 +1558,13 @@
         "Incident & Emergency Response",
         "Vehicles"
       ],
-      "address": "Unit 1\nRomsey\nUnited Kingdom",
-      "website": "http://dmstech.co.uk/"
+      "address": {
+        "text": "Unit 1\nRomsey\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.98893,
+        "lon": -1.49658
+      },
+      "website": "http://dmstech.co.uk"
     },
     {
       "name": "DataWalk",
@@ -1156,8 +1577,13 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "Rzenicza 32-33\nWrocaw\nPoland",
-      "website": "https://datawalk.com/"
+      "address": {
+        "text": "Rzenicza 32-33\nWrocaw\nPoland",
+        "iso2": "PL",
+        "lat": 51.11076560000001,
+        "lon": 17.0279397
+      },
+      "website": "https://datawalk.com"
     },
     {
       "name": "Datactics",
@@ -1167,8 +1593,13 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "1 Lanyon Quay\nBelfast\nUnited Kingdom",
-      "website": "https://www.datactics.com/"
+      "address": {
+        "text": "1 Lanyon Quay\nBelfast\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.59823249999999,
+        "lon": -5.9211391
+      },
+      "website": "https://www.datactics.com"
     },
     {
       "name": "David Horn Communications Limited",
@@ -1177,7 +1608,12 @@
         "Communications, Command & Control",
         "Information Technology"
       ],
-      "address": "Comtec House, Unit F1-F2\nLuton\nUnited Kingdom",
+      "address": {
+        "text": "Comtec House, Unit F1-F2\nLuton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8786707,
+        "lon": -0.4200255
+      },
       "website": "www.davidhorncommunications.com"
     },
     {
@@ -1190,7 +1626,12 @@
         "Incident & Emergency Response",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "5th Floor Hyde Park Hayes 3, 11 Millington Road\nHayes\nUnited Kingdom",
+      "address": {
+        "text": "5th Floor Hyde Park Hayes 3, 11 Millington Road\nHayes\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5012735,
+        "lon": -0.4275101
+      },
       "website": "http://www.dedrone.com"
     },
     {
@@ -1222,7 +1663,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Dstl Porton Down\nSalisbury\nUnited Kingdom",
+      "address": {
+        "text": "Dstl Porton Down\nSalisbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1312297,
+        "lon": -1.7036842
+      },
       "website": "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
     },
     {
@@ -1241,7 +1687,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Porton Down\nSalisbury\nUnited Kingdom",
+      "address": {
+        "text": "Porton Down\nSalisbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.12414,
+        "lon": -1.715223
+      },
       "website": "www.gov.uk/dasa"
     },
     {
@@ -1272,7 +1723,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Old Admiralty Building, Admiralty Place, Whitehall, London\nUnited Kingdom",
+      "address": {
+        "text": "Old Admiralty Building, Admiralty Place, Whitehall, London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
       "website": "https://www.gov.uk/government/organisations/export-control-organisation"
     },
     {
@@ -1295,7 +1751,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Unit 3, Foundry Court, Foundry Lane\nHorsham\nUnited Kingdom",
+      "address": {
+        "text": "Unit 3, Foundry Court, Foundry Lane\nHorsham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0705761,
+        "lon": -0.3143988
+      },
       "website": "http://www.detegoglobal.com"
     },
     {
@@ -1315,8 +1776,13 @@
         "Training",
         "Transport Security"
       ],
-      "address": "Police HQ\nExeter\nUnited Kingdom",
-      "website": "https://www.devon-cornwall.police.uk/"
+      "address": {
+        "text": "Police HQ\nExeter\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7191895,
+        "lon": -3.4781306
+      },
+      "website": "https://www.devon-cornwall.police.uk"
     },
     {
       "name": "Diem Innovations",
@@ -1330,7 +1796,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "5000 Centre Green Way Ste 500\nCary\nUnited States",
+      "address": {
+        "text": "5000 Centre Green Way Ste 500\nCary\nUnited States",
+        "iso2": "US",
+        "lat": 35.826307,
+        "lon": -78.7955288
+      },
       "website": "https://salientsciences.com"
     },
     {
@@ -1345,8 +1816,13 @@
         "Data acquisition and analysis",
         "Optics"
       ],
-      "address": "6779 Mesa Ridge Rd. Suite 150\nSan Diego\nUnited States",
-      "website": "https://www.digitalforcetech.com/"
+      "address": {
+        "text": "6779 Mesa Ridge Rd. Suite 150\nSan Diego\nUnited States",
+        "iso2": "US",
+        "lat": 32.9014993,
+        "lon": -117.1719943
+      },
+      "website": "https://www.digitalforcetech.com"
     },
     {
       "name": "Disruptive Effects",
@@ -1374,8 +1850,11 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Fusion 2\nUnited Kingdom",
-      "website": "www.domotactical.com"
+      "website": "www.domotactical.com",
+      "country": {
+        "text": "Fusion 2\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Draeger Safety UK",
@@ -1388,7 +1867,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Ullswater Close, Blyth Riverside Business Park, Blyth, Northumberland\nBlyth\nUnited Kingdom",
+      "address": {
+        "text": "Ullswater Close, Blyth Riverside Business Park, Blyth, Northumberland\nBlyth\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.1300088,
+        "lon": -1.5553248
+      },
       "website": "https://www.draeger.com/en_uk/Home"
     },
     {
@@ -1400,7 +1884,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "ShowCentre\nFarnborough\nUnited Kingdom",
+      "address": {
+        "text": "ShowCentre\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      },
       "website": "https://www.adsgroup.org.uk/membership/groups-committees/drone-platforms-and-counter-drone/"
     },
     {
@@ -1426,8 +1915,13 @@
         "Physical Security, Man-guarding & Close Protection",
         "Protective and Transport Packaging"
       ],
-      "address": "Persefonis 47\nAthens\nGreece",
-      "website": "https://bulletproof-constructions.com/"
+      "address": {
+        "text": "Persefonis 47\nAthens\nGreece",
+        "iso2": "GR",
+        "lat": 37.9783552,
+        "lon": 23.7110533
+      },
+      "website": "https://bulletproof-constructions.com"
     },
     {
       "name": "EXFO Europe",
@@ -1439,7 +1933,12 @@
         "Information Technology",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Winchester\nUnited Kingdom",
+      "address": {
+        "text": "Winchester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.059771,
+        "lon": -1.310142
+      },
       "website": "WWW.EXFO.COM"
     },
     {
@@ -1456,7 +1955,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "5 Southampton Street\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "5 Southampton Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5108714,
+        "lon": -0.1216722
+      },
       "website": "www.elastic.co"
     },
     {
@@ -1482,13 +1986,23 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "12 Yeomanry Road, Battlefield, Shrewsbury, Shropshire\nUnited Kingdom",
-      "website": "https://emergencyprotection.co.uk/"
+      "address": {
+        "text": "12 Yeomanry Road, Battlefield, Shrewsbury, Shropshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7457179,
+        "lon": -2.7426837
+      },
+      "website": "https://emergencyprotection.co.uk"
     },
     {
       "name": "Emergency Services Times",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/emergency-services-times/",
-      "address": "Central House, 1 Alwyne Road, Wimbledon\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Central House, 1 Alwyne Road, Wimbledon\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.42362,
+        "lon": -0.2066249
+      },
       "website": "www.emergencyservicestimes.com"
     },
     {
@@ -1502,8 +2016,13 @@
         "Incident & Emergency Response",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "ECS Technology Park\nNorthampton\nUnited Kingdom",
-      "website": "https://www.enterprisecontrol.co.uk/"
+      "address": {
+        "text": "ECS Technology Park\nNorthampton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.23706499999999,
+        "lon": -0.8944420999999999
+      },
+      "website": "https://www.enterprisecontrol.co.uk"
     },
     {
       "name": "Envitia",
@@ -1517,8 +2036,13 @@
         "Information Technology",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "North Heath Lane\nHorsham\nUnited Kingdom",
-      "website": "https://www.envitia.com/"
+      "address": {
+        "text": "North Heath Lane\nHorsham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0802665,
+        "lon": -0.3163437
+      },
+      "website": "https://www.envitia.com"
     },
     {
       "name": "Erebus UK Ltd",
@@ -1529,7 +2053,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Unit 53 Vincent Carey Road Rotherwas\nHereford\nUnited Kingdom",
+      "address": {
+        "text": "Unit 53 Vincent Carey Road Rotherwas\nHereford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0394793,
+        "lon": -2.6855816
+      },
       "website": "www.erebus-uk.com"
     },
     {
@@ -1544,7 +2073,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "The Links Business Centre, Old Woking Road\nWoking\nUnited Kingdom",
+      "address": {
+        "text": "The Links Business Centre, Old Woking Road\nWoking\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3080256,
+        "lon": -0.5357953999999999
+      },
       "website": "www.esotericltd.com"
     },
     {
@@ -1564,7 +2098,12 @@
         "Communications, Command & Control",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "40 Occam Road\nGuildford\nUnited Kingdom",
+      "address": {
+        "text": "40 Occam Road\nGuildford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2398657,
+        "lon": -0.612081
+      },
       "website": "https://evolvedynamics.com"
     },
     {
@@ -1579,7 +2118,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "17 Bevis Marks\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "17 Bevis Marks\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5146448,
+        "lon": -0.07835059999999999
+      },
       "website": "www.excession.co"
     },
     {
@@ -1589,7 +2133,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Protective and Transport Packaging"
       ],
-      "address": "Base X, Porte Farm\nBarnstaple\nUnited Kingdom",
+      "address": {
+        "text": "Base X, Porte Farm\nBarnstaple\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.16581619999999,
+        "lon": -3.9616237
+      },
       "website": "www.extreme-cases.com"
     },
     {
@@ -1609,8 +2158,13 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "Hanslope Park\nMilton Keynes\nUnited Kingdom",
-      "website": "https://www.fcdoservices.gov.uk/"
+      "address": {
+        "text": "Hanslope Park\nMilton Keynes\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.115155,
+        "lon": -0.8281919999999999
+      },
+      "website": "https://www.fcdoservices.gov.uk"
     },
     {
       "name": "FIECC – Venue",
@@ -1624,8 +2178,11 @@
         "Forensic Services",
         "Training"
       ],
-      "address": "Germany",
-      "website": "https://formobile-project.eu/"
+      "website": "https://formobile-project.eu",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FORSOLUTION CZ s.r.o.",
@@ -1633,7 +2190,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "Podnikatelska 553\nPrague\nCzech Republic",
+      "address": {
+        "text": "Podnikatelska 553\nPrague\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0895893,
+        "lon": 14.6125922
+      },
       "website": "https://www.forsolution.cz/en/"
     },
     {
@@ -1644,7 +2206,12 @@
         "Counter Terrorism & Intelligence",
         "Data acquisition and analysis"
       ],
-      "address": "London\nUnited Kingdom",
+      "address": {
+        "text": "London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      },
       "website": "faculty.ai"
     },
     {
@@ -1654,7 +2221,12 @@
         "Cyber Security",
         "Incident & Emergency Response"
       ],
-      "address": "10 York Road\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "10 York Road\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5037543,
+        "lon": -0.1159719
+      },
       "website": "https://www.dataminr.com/firstalert"
     },
     {
@@ -1674,8 +2246,13 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "11 The Briars, Waterberry Drive\nWaterlooville\nUnited Kingdom",
-      "website": "https://fischerconnectors.com/"
+      "address": {
+        "text": "11 The Briars, Waterberry Drive\nWaterlooville\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8849953,
+        "lon": -1.043744
+      },
+      "website": "https://fischerconnectors.com"
     },
     {
       "name": "Fivecast",
@@ -1688,8 +2265,13 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "64 NORTH TERRACE, KENT TOWN\nAdelaide\nAustralia",
-      "website": "https://www.fivecast.com/"
+      "address": {
+        "text": "64 NORTH TERRACE, KENT TOWN\nAdelaide\nAustralia",
+        "iso2": "AU",
+        "lat": -34.9172326,
+        "lon": 138.6204668
+      },
+      "website": "https://www.fivecast.com"
     },
     {
       "name": "Focus 3 – Metropolitan Police Services",
@@ -1705,8 +2287,13 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Video Laboratory, 3rd Floor, 109 Lambeth Road, London\nLondon\nUnited Kingdom",
-      "website": "https://www.met.police.uk/"
+      "address": {
+        "text": "Video Laboratory, 3rd Floor, 109 Lambeth Road, London\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.49473039999999,
+        "lon": -0.1177368
+      },
+      "website": "https://www.met.police.uk"
     },
     {
       "name": "Force Development Services Ltd",
@@ -1724,7 +2311,12 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "Unit H2, Knowle Village Business Park\nFareham\nUnited Kingdom",
+      "address": {
+        "text": "Unit H2, Knowle Village Business Park\nFareham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8815696,
+        "lon": -1.2040484
+      },
       "website": "www.forcedevelopment.co.uk"
     },
     {
@@ -1745,8 +2337,13 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "North Quay Offices\nMorecambe\nUnited Kingdom",
-      "website": "https://forsbergpnt.com/"
+      "address": {
+        "text": "North Quay Offices\nMorecambe\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.0362617,
+        "lon": -2.912284
+      },
+      "website": "https://forsbergpnt.com"
     },
     {
       "name": "Frazer-Nash Consultancy",
@@ -1754,7 +2351,12 @@
       "category": [
         "Comms Data and Digital Forensics"
       ],
-      "address": "Stonebridge House Dorking Business Park Dorking Surrey\nDorking\nUnited Kingdom",
+      "address": {
+        "text": "Stonebridge House Dorking Business Park Dorking Surrey\nDorking\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2348942,
+        "lon": -0.3373582
+      },
       "website": "www.fnc.co.uk"
     },
     {
@@ -1763,7 +2365,12 @@
       "category": [
         "Optics"
       ],
-      "address": "Unit 10a, St. Martins Way\nBedford\nUnited Kingdom",
+      "address": {
+        "text": "Unit 10a, St. Martins Way\nBedford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.12381500000001,
+        "lon": -0.4324323
+      },
       "website": "https://www.fujifilm.com/uk/en/business/optical-devices"
     },
     {
@@ -1776,8 +2383,13 @@
         "Optics",
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Bear House\nFareham\nUnited Kingdom",
-      "website": "https://www.gmktp.co.uk/"
+      "address": {
+        "text": "Bear House\nFareham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.86984959999999,
+        "lon": -1.2427158
+      },
+      "website": "https://www.gmktp.co.uk"
     },
     {
       "name": "GWSim Ltd",
@@ -1786,7 +2398,12 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "57 Rathbone Place\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "57 Rathbone Place\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5166281,
+        "lon": -0.1330678
+      },
       "website": "www.gwsim.com"
     },
     {
@@ -1800,7 +2417,12 @@
         "Cyber Security",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Tournament Fields, Agincourt Road\nWarwick\nUnited Kingdom",
+      "address": {
+        "text": "Tournament Fields, Agincourt Road\nWarwick\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2640561,
+        "lon": -1.6075245
+      },
       "website": "https://security.gallagher.com"
     },
     {
@@ -1811,7 +2433,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Perkunkiemio 4a\nLithuania",
+      "address": {
+        "text": "Perkunkiemio 4a\nLithuania",
+        "iso2": "LT",
+        "lat": 54.74127230000001,
+        "lon": 25.2226684
+      },
       "website": "www.gedion.lt"
     },
     {
@@ -1834,7 +2461,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Belvedere House, Basing View, Basingstoke\nBasingstoke\nUnited Kingdom",
+      "address": {
+        "text": "Belvedere House, Basing View, Basingstoke\nBasingstoke\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2686728,
+        "lon": -1.0725726
+      },
       "website": "www.gemasecure.com"
     },
     {
@@ -1844,7 +2476,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Willowbrook\nUnited Kingdom"
+      "address": {
+        "text": "Willowbrook\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2853557,
+        "lon": -2.1717877
+      }
     },
     {
       "name": "HALO Technologies",
@@ -1859,7 +2496,12 @@
         "Training",
         "Transport Security"
       ],
-      "address": "5P Weavers Court\nBelfast\nUnited Kingdom",
+      "address": {
+        "text": "5P Weavers Court\nBelfast\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.5925308,
+        "lon": -5.9406041
+      },
       "website": "Haloeurope.com"
     },
     {
@@ -1883,7 +2525,12 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "6 Lumsdale Road, Trafford Park\nManchester\nUnited Kingdom",
+      "address": {
+        "text": "6 Lumsdale Road, Trafford Park\nManchester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4603426,
+        "lon": -2.3246941
+      },
       "website": "www.handsfreer5.com"
     },
     {
@@ -1901,7 +2548,12 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "8 Binns Close\nCoventry\nUnited Kingdom",
+      "address": {
+        "text": "8 Binns Close\nCoventry\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.39716319999999,
+        "lon": -1.5815282
+      },
       "website": "www.harperchalice.com"
     },
     {
@@ -1910,7 +2562,12 @@
       "category": [
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Bridge House, Wetherby Road\nHarrogate\nUnited Kingdom",
+      "address": {
+        "text": "Bridge House, Wetherby Road\nHarrogate\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.0885644,
+        "lon": -1.3962322
+      },
       "website": "heroquip.co.uk"
     },
     {
@@ -1921,7 +2578,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "Intergraph (UK) Limited Delta Business Park Great Western Way Swindon, Wilts\nSwindon\nUnited Kingdom",
+      "address": {
+        "text": "Intergraph (UK) Limited Delta Business Park Great Western Way Swindon, Wilts\nSwindon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.55642539999999,
+        "lon": -1.8151958
+      },
       "website": "www.hexagon.com"
     },
     {
@@ -1933,7 +2595,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Unit 9 Roach View Business Park\nRochford\nUnited Kingdom",
+      "address": {
+        "text": "Unit 9 Roach View Business Park\nRochford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.582071,
+        "lon": 0.706515
+      },
       "website": "www.hiddentec.com"
     },
     {
@@ -1944,7 +2611,12 @@
         "CBRNe",
         "Vehicles"
       ],
-      "address": "2 Marsham Street\nLondon\nUnited Kingdom"
+      "address": {
+        "text": "2 Marsham Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.495583,
+        "lon": -0.1290657
+      }
     },
     {
       "name": "Home Office Cyber Policy Unit",
@@ -1953,7 +2625,10 @@
     {
       "name": "Home Office Future Borders and Immigration System: Digitise (FBIS)",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/fbis/",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Home Office Protect & Prepare",
@@ -1999,7 +2674,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "118 Piccadilly\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "118 Piccadilly\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5044524,
+        "lon": -0.1479357
+      },
       "website": "www.intpro.co.uk"
     },
     {
@@ -2012,7 +2692,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Dessau\nGermany",
+      "address": {
+        "text": "Dessau\nGermany",
+        "iso2": "DE",
+        "lat": 51.83081660000001,
+        "lon": 12.2423302
+      },
       "website": "https://www.ibh-impex.de"
     },
     {
@@ -2025,7 +2710,12 @@
         "Training",
         "Transport Security"
       ],
-      "address": "South Block, Entrance D, Tavistock House, Tavistock Square, London,\nUnited Kingdom",
+      "address": {
+        "text": "South Block, Entrance D, Tavistock House, Tavistock Square, London,\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5265618,
+        "lon": -0.1284653
+      },
       "website": "www.icts.co.uk"
     },
     {
@@ -2035,7 +2725,12 @@
         "CBRNe",
         "Incident & Emergency Response"
       ],
-      "address": "Bonner Str. 498\nKln\nGermany",
+      "address": {
+        "text": "Bonner Str. 498\nKln\nGermany",
+        "iso2": "DE",
+        "lat": 50.8995944,
+        "lon": 6.963533099999999
+      },
       "website": "https://www.inficon.com"
     },
     {
@@ -2051,7 +2746,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Via Monticello, 7\nAprilia\nItaly",
+      "address": {
+        "text": "Via Monticello, 7\nAprilia\nItaly",
+        "iso2": "IT",
+        "lat": 41.5945514,
+        "lon": 12.6310401
+      },
       "website": "www.ips-intelligence.com"
     },
     {
@@ -2060,8 +2760,13 @@
       "category": [
         "Cyber Security"
       ],
-      "address": "First Floor, Apex 2, 97 Haymarket Terrace\nEdinburgh\nUnited Kingdom",
-      "website": "https://oneilluminate.com/"
+      "address": {
+        "text": "First Floor, Apex 2, 97 Haymarket Terrace\nEdinburgh\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9457021,
+        "lon": -3.2232819
+      },
+      "website": "https://oneilluminate.com"
     },
     {
       "name": "Incident at Sea: Live Immersive Response – Threat 1: Cyber Security",
@@ -2075,22 +2780,34 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Incident at Sea: Live Immersive Response – Threat 2: Coastal and Maritime Surveillance",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/immersive-experience-coastal-maritime-security/",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Incident at Sea: Live Immersive Response – Threat 3: Supply Chain Resilience",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/immersive-experience-supply-chain-resilience/",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Incident at Sea: Live Immersive Response – Threat 4: Justice",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/immersive-experience-justice/",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Informa Connect",
@@ -2103,7 +2820,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Informa Connect\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Informa Connect\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5240413,
+        "lon": -0.1371259
+      },
       "website": "https://informaconnect.com/digital-learning/defence-security-courses/?utm_source=Informa%20Web&utm_medium=Refferal&utm_campaign=Security%20&%20Policing&utm_term=Homepage&utm_content=FLR4359EXORGW&tracker_id=FLR4359EXORGW"
     },
     {
@@ -2116,7 +2838,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Via del Follatoio 12\nTrieste\nItaly",
+      "address": {
+        "text": "Via del Follatoio 12\nTrieste\nItaly",
+        "iso2": "IT",
+        "lat": 45.6209529,
+        "lon": 13.8056363
+      },
       "website": "www.innovatrieste.it"
     },
     {
@@ -2134,7 +2861,12 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Unit 218, Business Design Centre, 52 Upper Street\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Unit 218, Business Design Centre, 52 Upper Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.53548809999999,
+        "lon": -0.1059034
+      },
       "website": "https://www.ukri.org/councils/innovate-uk/"
     },
     {
@@ -2147,7 +2879,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Unit 130,\nWindsor\nUnited Kingdom",
+      "address": {
+        "text": "Unit 130,\nWindsor\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.48034209999999,
+        "lon": -0.6157136999999999
+      },
       "website": "www.intresearch.com"
     },
     {
@@ -2166,7 +2903,12 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Office7 Thurrock Centre for Business\nGrays\nUnited Kingdom",
+      "address": {
+        "text": "Office7 Thurrock Centre for Business\nGrays\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4771361,
+        "lon": 0.322156
+      },
       "website": "www.integrityassured.co.uk"
     },
     {
@@ -2182,7 +2924,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "9101 Guilford Road, Suite 112\nColumbia\nUnited States",
+      "address": {
+        "text": "9101 Guilford Road, Suite 112\nColumbia\nUnited States",
+        "iso2": "US",
+        "lat": 39.1703921,
+        "lon": -76.84666899999999
+      },
       "website": "https://www.intdevices.com"
     },
     {
@@ -2194,7 +2941,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "2 Marsham Street, London\nUnited Kingdom"
+      "address": {
+        "text": "2 Marsham Street, London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.495583,
+        "lon": -0.1290657
+      }
     },
     {
       "name": "International Special Training Facility Covert Operations Limited",
@@ -2206,7 +2958,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Hereford\nHereford\nUnited Kingdom",
+      "address": {
+        "text": "Hereford\nHereford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.05639799999999,
+        "lon": -2.715974
+      },
       "website": "https://www.istf-co.com"
     },
     {
@@ -2224,7 +2981,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Unit 18 Bradbourne Drive\nMilton Keynes\nUnited Kingdom",
+      "address": {
+        "text": "Unit 18 Bradbourne Drive\nMilton Keynes\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0131123,
+        "lon": -0.6901128
+      },
       "website": "issured.com"
     },
     {
@@ -2235,7 +2997,12 @@
         "Communications, Command & Control",
         "Information Technology"
       ],
-      "address": "54a St. Annes Road\nWhitstable\nUnited Kingdom",
+      "address": {
+        "text": "54a St. Annes Road\nWhitstable\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.35944689999999,
+        "lon": 1.0421529
+      },
       "website": "www.jet-eng.com"
     },
     {
@@ -2244,7 +3011,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "99 Michael Cowpland Drive\nOttawa\nCanada",
+      "address": {
+        "text": "99 Michael Cowpland Drive\nOttawa\nCanada",
+        "iso2": "CA",
+        "lat": 45.2861968,
+        "lon": -75.8707043
+      },
       "website": "https://www.jsitelecom.com"
     },
     {
@@ -2255,7 +3027,12 @@
         "Communications, Command & Control",
         "Covert Operations & Capabilities"
       ],
-      "address": "The Business Centre, Edward Street, Redditch\nWorcester\nUnited Kingdom",
+      "address": {
+        "text": "The Business Centre, Edward Street, Redditch\nWorcester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3072998,
+        "lon": -1.946645
+      },
       "website": "https://www.jtol.co.uk"
     },
     {
@@ -2268,8 +3045,13 @@
         "Physical Security, Man-guarding & Close Protection",
         "Transport Security"
       ],
-      "address": "Stowting Common\nAshford\nUnited Kingdom",
-      "website": "https://www.jacksons-security.co.uk/"
+      "address": {
+        "text": "Stowting Common\nAshford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.14510070000001,
+        "lon": 0.8739631
+      },
+      "website": "https://www.jacksons-security.co.uk"
     },
     {
       "name": "Jacobs",
@@ -2281,7 +3063,12 @@
         "Covert Operations & Capabilities",
         "Professional Services"
       ],
-      "address": "14530 McCormick Drive\nTampa\nUnited States",
+      "address": {
+        "text": "14530 McCormick Drive\nTampa\nUnited States",
+        "iso2": "US",
+        "lat": 28.0651697,
+        "lon": -82.6459866
+      },
       "website": "www.jacobs.com"
     },
     {
@@ -2293,8 +3080,13 @@
         "Counter Terrorism & Intelligence",
         "Data acquisition and analysis"
       ],
-      "address": "Ten Watchmoor Park, Riverside Way\nCamberley\nUnited Kingdom",
-      "website": "https://www.jenoptik.co.uk/"
+      "address": {
+        "text": "Ten Watchmoor Park, Riverside Way\nCamberley\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3265266,
+        "lon": -0.7615074000000001
+      },
+      "website": "https://www.jenoptik.co.uk"
     },
     {
       "name": "Joint Security and Resilience Centre (JSaRC)",
@@ -2326,8 +3118,11 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "United Kingdom",
-      "website": "https://www.jsarc.org/"
+      "website": "https://www.jsarc.org",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Kromek",
@@ -2336,7 +3131,12 @@
         "CBRNe",
         "Counter Terrorism & Intelligence"
       ],
-      "address": "NETPark, Sedgefield\nDurham\nUnited Kingdom",
+      "address": {
+        "text": "NETPark, Sedgefield\nDurham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.6705927,
+        "lon": -1.4512702
+      },
       "website": "https://kromek.com"
     },
     {
@@ -2345,7 +3145,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "12-20 North Street\nWorthing\nUnited Kingdom",
+      "address": {
+        "text": "12-20 North Street\nWorthing\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.81485499999999,
+        "lon": -0.3704475
+      },
       "website": "www.lemo.com"
     },
     {
@@ -2360,7 +3165,12 @@
         "Physical Security, Man-guarding & Close Protection",
         "Training"
       ],
-      "address": "Bucknalls Lane\nWatford\nUnited Kingdom",
+      "address": {
+        "text": "Bucknalls Lane\nWatford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6985934,
+        "lon": -0.3761689
+      },
       "website": "https://www.bregroup.com/products/lpcb/"
     },
     {
@@ -2374,7 +3184,12 @@
         "Training",
         "Transport Security"
       ],
-      "address": "Semaphore House, Fareham Heights, Standard Way,\nFareham\nUnited Kingdom",
+      "address": {
+        "text": "Semaphore House, Fareham Heights, Standard Way,\nFareham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8595558,
+        "lon": -1.1642708
+      },
       "website": "www.landguardsystems.com"
     },
     {
@@ -2385,7 +3200,12 @@
         "Information Technology",
         "Transport Security"
       ],
-      "address": "B2 Harris Rd\nWarwick\nUnited Kingdom",
+      "address": {
+        "text": "B2 Harris Rd\nWarwick\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.291108,
+        "lon": -1.6009977
+      },
       "website": "www.ltiuk.com"
     },
     {
@@ -2394,7 +3214,10 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "P.O.Box 328\nUnited Kingdom"
+      "country": {
+        "text": "P.O.Box 328\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Leonardo",
@@ -2406,7 +3229,12 @@
         "Optics",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "One Eagle Place\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "One Eagle Place\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5091396,
+        "lon": -0.1352749
+      },
       "website": "www.leonardo.com"
     },
     {
@@ -2416,8 +3244,13 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Unit 4, Hereford Trade Park, Holmer Road\nHereford\nUnited Kingdom",
-      "website": "https://levelpeaks.com/"
+      "address": {
+        "text": "Unit 4, Hereford Trade Park, Holmer Road\nHereford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06656410000001,
+        "lon": -2.7202988
+      },
+      "website": "https://levelpeaks.com"
     },
     {
       "name": "Liteye UK Ltd",
@@ -2428,7 +3261,12 @@
         "Covert Operations & Capabilities",
         "Optics"
       ],
-      "address": "Colchester\nUnited Kingdom"
+      "address": {
+        "text": "Colchester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.895927,
+        "lon": 0.8918740000000001
+      }
     },
     {
       "name": "Logically",
@@ -2441,7 +3279,12 @@
         "Information Technology",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Brookfoot Mills, Brookfoot Industrial Estate, Brighouse\nLeeds\nUnited Kingdom",
+      "address": {
+        "text": "Brookfoot Mills, Brookfoot Industrial Estate, Brighouse\nLeeds\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.70297859999999,
+        "lon": -1.7960772
+      },
       "website": "https://www.logically.ai"
     },
     {
@@ -2451,8 +3294,13 @@
         "Border and Maritime Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "METIS Aerospace Ltd, Boole Technology Centre, Beevor Street\nLincoln\nUnited Kingdom",
-      "website": "https://metisaerospace.com/"
+      "address": {
+        "text": "METIS Aerospace Ltd, Boole Technology Centre, Beevor Street\nLincoln\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2275792,
+        "lon": -0.5569788999999999
+      },
+      "website": "https://metisaerospace.com"
     },
     {
       "name": "MIB Electronic Ltd",
@@ -2465,7 +3313,12 @@
         "Professional Services",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Cobblers Way, Unit 3H\nBath\nUnited Kingdom",
+      "address": {
+        "text": "Cobblers Way, Unit 3H\nBath\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2821034,
+        "lon": -2.4675829
+      },
       "website": "www.mibcam.com"
     },
     {
@@ -2477,8 +3330,11 @@
         "Cyber Security",
         "Information Technology"
       ],
-      "address": "United Kingdom",
-      "website": "www.micintlgroup.com"
+      "website": "www.micintlgroup.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MS Instruments",
@@ -2489,7 +3345,12 @@
         "Optics",
         "Training"
       ],
-      "address": "Unit 4 Ravensquay Business Centre, Cray Avenue\nOrpington\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Ravensquay Business Centre, Cray Avenue\nOrpington\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.388801,
+        "lon": 0.1096953
+      },
       "website": "https://www.msinstruments.co.uk"
     },
     {
@@ -2503,7 +3364,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Central Point 25-31 London Street\nReading\nUnited Kingdom",
+      "address": {
+        "text": "Central Point 25-31 London Street\nReading\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4526725,
+        "lon": -0.9680420999999999
+      },
       "website": "www.msab.com"
     },
     {
@@ -2514,14 +3380,24 @@
         "Data acquisition and analysis",
         "Forensic Services"
       ],
-      "address": "Waterloo\nCanada",
-      "website": "https://www.magnetforensics.com/"
+      "address": {
+        "text": "Waterloo\nCanada",
+        "iso2": "CA",
+        "lat": 43.4642578,
+        "lon": -80.5204096
+      },
+      "website": "https://www.magnetforensics.com"
     },
     {
       "name": "Marlborough Communications Ltd",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/marlborough-communications/",
-      "address": "1 Perrywood Business Park, Honeycrock Lane, Salfords, Surrey\nRedhill\nUnited Kingdom",
-      "website": "https://www.marlboroughcomms.com/"
+      "address": {
+        "text": "1 Perrywood Business Park, Honeycrock Lane, Salfords, Surrey\nRedhill\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2033839,
+        "lon": -0.1569739
+      },
+      "website": "https://www.marlboroughcomms.com"
     },
     {
       "name": "Meesons A.I. Ltd",
@@ -2531,7 +3407,12 @@
         "Biometrics, Facial Recognition & Imagery",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Cardea House\nUnited Kingdom",
+      "address": {
+        "text": "Cardea House\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5463501,
+        "lon": -0.2089089
+      },
       "website": "www.meesons.com"
     },
     {
@@ -2543,8 +3424,13 @@
         "Covert Operations & Capabilities",
         "Data acquisition and analysis"
       ],
-      "address": "Titchfield Lane, Wickham\nFareham\nUnited Kingdom",
-      "website": "https://metocean.com/"
+      "address": {
+        "text": "Titchfield Lane, Wickham\nFareham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8964565,
+        "lon": -1.2081242
+      },
+      "website": "https://metocean.com"
     },
     {
       "name": "Micro Focus",
@@ -2556,8 +3442,11 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "United Kingdom",
-      "website": "www.microfocus.com"
+      "website": "www.microfocus.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Mind Foundry",
@@ -2572,7 +3461,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Ewert House\nOxford\nUnited Kingdom",
+      "address": {
+        "text": "Ewert House\nOxford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7767851,
+        "lon": -1.2624424
+      },
       "website": "https://www.mindfoundry.ai"
     },
     {
@@ -2585,7 +3479,12 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Swansea\nUnited Kingdom",
+      "address": {
+        "text": "Swansea\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.62144,
+        "lon": -3.943645999999999
+      },
       "website": "www.mobilise.cloud"
     },
     {
@@ -2602,7 +3501,12 @@
         "Professional Services",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Delta House, Southampton Science Park\nSouthampton\nUnited Kingdom",
+      "address": {
+        "text": "Delta House, Southampton Science Park\nSouthampton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9611637,
+        "lon": -1.4225162
+      },
       "website": "www.macltd.com"
     },
     {
@@ -2615,13 +3519,19 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "United Kingdom",
-      "website": "https://1010response.com/"
+      "website": "https://1010response.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NFX",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/nfx-official-contractor/",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NIAXO",
@@ -2641,7 +3551,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "20-22 Wenlock Road\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "20-22 Wenlock Road\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5308045,
+        "lon": -0.09372069999999999
+      },
       "website": "www.niaxo.co"
     },
     {
@@ -2656,7 +3571,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Vehicles"
       ],
-      "address": "473 Foleshill Road\nUnited Kingdom",
+      "address": {
+        "text": "473 Foleshill Road\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4280159,
+        "lon": -1.4999716
+      },
       "website": "www.npaerospace.com"
     },
     {
@@ -2670,7 +3590,12 @@
         "Counter Terrorism & Intelligence",
         "Training"
       ],
-      "address": "Victoria Embankment, London\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Victoria Embankment, London\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5099822,
+        "lon": -0.117819
+      },
       "website": "https://www.gov.uk/government/organisations/national-counter-terrorism-security-office"
     },
     {
@@ -2680,7 +3605,12 @@
         "Communications, Command & Control",
         "Counter Terrorism & Intelligence"
       ],
-      "address": "Uetlibergstrasse 132\nZrich\nSwitzerland",
+      "address": {
+        "text": "Uetlibergstrasse 132\nZrich\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.3604101,
+        "lon": 8.516143399999999
+      },
       "website": "www.neosoft.ch"
     },
     {
@@ -2691,7 +3621,12 @@
         "Information Technology",
         "Vehicles"
       ],
-      "address": "Unit D, Harvey’s Place, Farncombe Estate\nUnited Kingdom",
+      "address": {
+        "text": "Unit D, Harvey’s Place, Farncombe Estate\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0397966,
+        "lon": -1.8341357
+      },
       "website": "www.networkinv.com"
     },
     {
@@ -2701,7 +3636,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Observatoriegatan 5\nStockholm\nSweden",
+      "address": {
+        "text": "Observatoriegatan 5\nStockholm\nSweden",
+        "iso2": "SE",
+        "lat": 59.340687,
+        "lon": 18.0521677
+      },
       "website": "www.nosamed.com"
     },
     {
@@ -2716,7 +3656,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Training"
       ],
-      "address": "8 Asher court\nWarrington\nUnited Kingdom",
+      "address": {
+        "text": "8 Asher court\nWarrington\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3900441,
+        "lon": -2.5969501
+      },
       "website": "www.opeccbrne.com"
     },
     {
@@ -2727,7 +3672,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "302901 rue Rachel, Montreal\nMontral\nCanada",
+      "address": {
+        "text": "302901 rue Rachel, Montreal\nMontral\nCanada",
+        "iso2": "CA",
+        "lat": 45.5071918,
+        "lon": -73.7864948
+      },
       "website": "www.octasic.com"
     },
     {
@@ -2739,8 +3689,13 @@
         "Counter Terrorism & Intelligence",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Sunnyside Farm, Padworth Common\nReading\nUnited Kingdom",
-      "website": "https://operationalsolutionsltd.co.uk/"
+      "address": {
+        "text": "Sunnyside Farm, Padworth Common\nReading\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3809514,
+        "lon": -1.1003946
+      },
+      "website": "https://operationalsolutionsltd.co.uk"
     },
     {
       "name": "Optimal Risk Group Limited",
@@ -2748,7 +3703,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "5 Merchant Square\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "5 Merchant Square\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5188962,
+        "lon": -0.173369
+      },
       "website": [
         "www.optimalrisk.com",
         "www.optimal.training"
@@ -2763,7 +3723,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "340 King St. East, 4th Floor\nToronto\nCanada",
+      "address": {
+        "text": "340 King St. East, 4th Floor\nToronto\nCanada",
+        "iso2": "CA",
+        "lat": 43.6530814,
+        "lon": -79.3628616
+      },
       "website": "https://www.orna.app"
     },
     {
@@ -2774,7 +3739,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Springfield Barn\nOxford\nUnited Kingdom",
+      "address": {
+        "text": "Springfield Barn\nOxford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7356479,
+        "lon": -1.0820996
+      },
       "website": "www.ovation.co.uk"
     },
     {
@@ -2802,7 +3772,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Unit B3\nWoking\nUnited Kingdom",
+      "address": {
+        "text": "Unit B3\nWoking\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.316774,
+        "lon": -0.5600349
+      },
       "website": "www.overview.co.uk"
     },
     {
@@ -2816,7 +3791,12 @@
         "Forensic Services",
         "Training"
       ],
-      "address": "Bagley Croft\nOxford\nUnited Kingdom",
+      "address": {
+        "text": "Bagley Croft\nOxford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7520209,
+        "lon": -1.2577263
+      },
       "website": "www.oxfordwaveresearch.com"
     },
     {
@@ -2827,7 +3807,12 @@
         "Cyber Security",
         "Data acquisition and analysis"
       ],
-      "address": "909 N. Washington St, Suite 300\nAlexandria\nUnited States",
+      "address": {
+        "text": "909 N. Washington St, Suite 300\nAlexandria\nUnited States",
+        "iso2": "US",
+        "lat": 38.8146568,
+        "lon": -77.0440899
+      },
       "website": "https://www.oxygen-forensic.com"
     },
     {
@@ -2841,8 +3826,13 @@
         "Professional Services",
         "Training"
       ],
-      "address": "13-14 Angel Gate\nLondon\nUnited Kingdom",
-      "website": "https://www.pgitl.com/"
+      "address": {
+        "text": "13-14 Angel Gate\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.529708,
+        "lon": -0.1018369
+      },
+      "website": "https://www.pgitl.com"
     },
     {
       "name": "PRO4SEC",
@@ -2852,7 +3842,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Juna obala IX. 17\nZagreb\nCroatia",
+      "address": {
+        "text": "Juna obala IX. 17\nZagreb\nCroatia",
+        "iso2": "HR",
+        "lat": 45.7844238,
+        "lon": 15.9646689
+      },
       "website": "www.pro4sec.com"
     },
     {
@@ -2868,7 +3863,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "576 N Birdneck Road, #710\nVirginia Beach\nUnited States",
+      "address": {
+        "text": "576 N Birdneck Road, #710\nVirginia Beach\nUnited States",
+        "iso2": "US",
+        "lat": 36.8519855,
+        "lon": -75.9939807
+      },
       "website": "https://packetforensics.com"
     },
     {
@@ -2887,7 +3887,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Box 190\nStockholm\nSweden",
+      "address": {
+        "text": "Box 190\nStockholm\nSweden",
+        "iso2": "SE",
+        "lat": 59.32932349999999,
+        "lon": 18.0685808
+      },
       "website": "www.paliscope.com"
     },
     {
@@ -2907,7 +3912,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Starley Way\nBirmingham\nUnited Kingdom",
+      "address": {
+        "text": "Starley Way\nBirmingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4594428,
+        "lon": -1.7316387
+      },
       "website": "www.panoptech.co.uk"
     },
     {
@@ -2916,8 +3926,13 @@
       "category": [
         "Communications, Command & Control"
       ],
-      "address": "Frogmore\nLondon\nUnited Kingdom",
-      "website": "https://www.panorama-antennas.com/"
+      "address": {
+        "text": "Frogmore\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4593169,
+        "lon": -0.1966091
+      },
+      "website": "https://www.panorama-antennas.com"
     },
     {
       "name": "Parsons",
@@ -2934,7 +3949,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "1-3 Waterloo Crescent, 2nd Floor\nDover\nUnited Kingdom",
+      "address": {
+        "text": "1-3 Waterloo Crescent, 2nd Floor\nDover\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.12283739999999,
+        "lon": 1.3151662
+      },
       "website": "www.parsons.com"
     },
     {
@@ -2951,8 +3971,11 @@
       "category": [
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "United Kingdom",
-      "website": "https://www.petzl.com/GB/en"
+      "website": "https://www.petzl.com/GB/en",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Phoenix Datacom",
@@ -2966,7 +3989,12 @@
         "Information Technology",
         "Optics"
       ],
-      "address": "Phoenix House, Smeaton Close, Rabans Lane,\nAylesbury\nUnited Kingdom",
+      "address": {
+        "text": "Phoenix House, Smeaton Close, Rabans Lane,\nAylesbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8223419,
+        "lon": -0.841878
+      },
       "website": "www.phoenixdatacom.com"
     },
     {
@@ -2989,7 +4017,12 @@
         "Professional Services",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Salisbury\nUnited Kingdom",
+      "address": {
+        "text": "Salisbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.068785,
+        "lon": -1.794472
+      },
       "website": "https://ploughshare.co.uk"
     },
     {
@@ -3004,8 +4037,13 @@
         "Professional Services",
         "Training"
       ],
-      "address": "10 Victoria Street London\nUnited Kingdom",
-      "website": "https://www.policecpi.com/"
+      "address": {
+        "text": "10 Victoria Street London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4991052,
+        "lon": -0.1314492
+      },
+      "website": "https://www.policecpi.com"
     },
     {
       "name": "Premiere Showfreight",
@@ -3023,7 +4061,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "REEPHAM ROAD\nLincoln\nUnited Kingdom",
+      "address": {
+        "text": "REEPHAM ROAD\nLincoln\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2417626,
+        "lon": -0.4355457
+      },
       "website": "www.primetake.com"
     },
     {
@@ -3047,14 +4090,24 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "9, Ahad Haam st.\nTel Aviv\nIsrael",
+      "address": {
+        "text": "9, Ahad Haam st.\nTel Aviv\nIsrael",
+        "iso2": "IL",
+        "lat": 32.0641153,
+        "lon": 34.7695928
+      },
       "website": "www.pro4tech.com"
     },
     {
       "name": "Providence Global ITF LTD",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/providence-global-itf-ltd/",
-      "address": "1 Upper Barn, Grange Farm\nHereford\nUnited Kingdom",
-      "website": "https://www.providenceitf.com/"
+      "address": {
+        "text": "1 Upper Barn, Grange Farm\nHereford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7401413,
+        "lon": -0.4552875
+      },
+      "website": "https://www.providenceitf.com"
     },
     {
       "name": "Q Electronics Ltd",
@@ -3062,7 +4115,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "Beck House Hawksworth Rd\nLeeds\nUnited Kingdom",
+      "address": {
+        "text": "Beck House Hawksworth Rd\nLeeds\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.8318267,
+        "lon": -1.6238418
+      },
       "website": "http://www.qelectronics.co.uk"
     },
     {
@@ -3087,7 +4145,12 @@
         "Training",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "QCC Global, 1 Hind Court, 149 Fleet Street\nCity of London\nUnited Kingdom",
+      "address": {
+        "text": "QCC Global, 1 Hind Court, 149 Fleet Street\nCity of London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5143551,
+        "lon": -0.1075011
+      },
       "website": "www.qccglobal.com"
     },
     {
@@ -3098,7 +4161,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Professional Services"
       ],
-      "address": "Unit 4 Camphill Industrial Estate West Byfleet\nWoking\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4 Camphill Industrial Estate West Byfleet\nWoking\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3437057,
+        "lon": -0.4980167
+      },
       "website": "https://www.rams.fm"
     },
     {
@@ -3112,8 +4180,11 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Via Caldera 21\nItaly",
-      "website": "www.rcslab.it/en"
+      "website": "www.rcslab.it/en",
+      "country": {
+        "text": "Via Caldera 21\nItaly",
+        "iso2": "IT"
+      }
     },
     {
       "name": "RJA",
@@ -3127,7 +4198,12 @@
         "Covert Operations & Capabilities",
         "Incident & Emergency Response"
       ],
-      "address": "D3 Innsworth Technology Park\nGloucester\nUnited Kingdom",
+      "address": {
+        "text": "D3 Innsworth Technology Park\nGloucester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8879776,
+        "lon": -2.2153522
+      },
       "website": "www.rvasynergies.co.uk"
     },
     {
@@ -3144,7 +4220,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "Europa House, Chiltern Park, Chiltern Hill\nChalfont Saint Peter\nUnited Kingdom",
+      "address": {
+        "text": "Europa House, Chiltern Park, Chiltern Hill\nChalfont Saint Peter\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6059093,
+        "lon": -0.5541972
+      },
       "website": "https://www.rws.com/industries/government/"
     },
     {
@@ -3154,7 +4235,12 @@
         "Access Control & Entry Systems",
         "Biometrics, Facial Recognition & Imagery"
       ],
-      "address": "1501 S 1st Street\nSeattle\nUnited States",
+      "address": {
+        "text": "1501 S 1st Street\nSeattle\nUnited States",
+        "iso2": "US",
+        "lat": 30.24976,
+        "lon": -97.7546787
+      },
       "website": "www.SAFR.com"
     },
     {
@@ -3171,7 +4257,12 @@
         "Physical Security, Man-guarding & Close Protection",
         "Transport Security"
       ],
-      "address": "82 Cliveland Street\nBirmingham\nUnited Kingdom",
+      "address": {
+        "text": "82 Cliveland Street\nBirmingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4891875,
+        "lon": -1.8955719
+      },
       "website": "https://regton.com/security/"
     },
     {
@@ -3184,8 +4275,11 @@
         "Covert Operations & Capabilities",
         "Data acquisition and analysis"
       ],
-      "address": "United Kingdom",
-      "website": "https://www.revector.com/"
+      "website": "https://www.revector.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Ribbands Explosives",
@@ -3194,7 +4288,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Dysons Farm, Long Row, Tibenham, Norfolk\nNorwich\nUnited Kingdom",
+      "address": {
+        "text": "Dysons Farm, Long Row, Tibenham, Norfolk\nNorwich\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4464857,
+        "lon": 1.127778
+      },
       "website": "www.ribbands.co.uk"
     },
     {
@@ -3204,14 +4303,22 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Training"
       ],
-      "address": "Unit 18G Speedwell Way\nNorwich\nUnited Kingdom",
+      "address": {
+        "text": "Unit 18G Speedwell Way\nNorwich\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6291906,
+        "lon": 1.2181102
+      },
       "website": "https://www.riflecraft.co.uk"
     },
     {
       "name": "Ripjar",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/ripjar/",
-      "address": "United Kingdom",
-      "website": "www.ripjar.com"
+      "website": "www.ripjar.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Riskaware Ltd",
@@ -3225,13 +4332,23 @@
         "Information Technology",
         "Training"
       ],
-      "address": "Whitefriars, Lewins Mead\nBristol\nUnited Kingdom",
+      "address": {
+        "text": "Whitefriars, Lewins Mead\nBristol\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4573917,
+        "lon": -2.5942118
+      },
       "website": "www.riskaware.co.uk"
     },
     {
       "name": "Rohde & Schwarz UK",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/rohde-schwarz/",
-      "address": "Ancells Business Park\nFleet\nUnited Kingdom",
+      "address": {
+        "text": "Ancells Business Park\nFleet\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.29682090000001,
+        "lon": -0.81967
+      },
       "website": "https://www.rohde-schwarz.com/uk/home_48230.html"
     },
     {
@@ -3241,8 +4358,13 @@
         "CCTV & Video Analytics",
         "Cyber Security"
       ],
-      "address": "Roke Manor Old Salisbury Lane Romsey Hampshire\nRomsey\nUnited Kingdom",
-      "website": "https://roke.co.uk/"
+      "address": {
+        "text": "Roke Manor Old Salisbury Lane Romsey Hampshire\nRomsey\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9995075,
+        "lon": -1.5186235
+      },
+      "website": "https://roke.co.uk"
     },
     {
       "name": "SITA",
@@ -3256,7 +4378,7 @@
         "Information Technology",
         "Transport Security"
       ],
-      "website": "https://www.sita.aero/"
+      "website": "https://www.sita.aero"
     },
     {
       "name": "SONIC COMMUNICATIONS (INT) LTD",
@@ -3266,7 +4388,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "STARLEY WAY, BICKENHILL, BIRMINGHAM\nBirmingham\nUnited Kingdom",
+      "address": {
+        "text": "STARLEY WAY, BICKENHILL, BIRMINGHAM\nBirmingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4594428,
+        "lon": -1.7316387
+      },
       "website": "WWW.SONIC-COMMS.COM"
     },
     {
@@ -3275,7 +4402,12 @@
       "category": [
         "Communications, Command & Control"
       ],
-      "address": "Chippenham\nUnited Kingdom",
+      "address": {
+        "text": "Chippenham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.461514,
+        "lon": -2.1195157
+      },
       "website": "www.sss-publicsafety.com"
     },
     {
@@ -3286,7 +4418,12 @@
         "Incident & Emergency Response",
         "Training"
       ],
-      "address": "Unit 33 Space Business Centre, Molly Millars Lane\nWokingham\nUnited Kingdom",
+      "address": {
+        "text": "Unit 33 Space Business Centre, Molly Millars Lane\nWokingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4034825,
+        "lon": -0.8447199999999999
+      },
       "website": "www.safetrainingsystems.com"
     },
     {
@@ -3295,7 +4432,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "Unit C, Boston Place\nCoventry\nUnited Kingdom",
+      "address": {
+        "text": "Unit C, Boston Place\nCoventry\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4330598,
+        "lon": -1.5032725
+      },
       "website": "www.safetyflexbarriers.com"
     },
     {
@@ -3314,8 +4456,13 @@
         "Professional Services",
         "Transport Security"
       ],
-      "address": "6 Clarence Street\nBelfast\nUnited Kingdom",
-      "website": "https://saltcommunications.com/"
+      "address": {
+        "text": "6 Clarence Street\nBelfast\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.5942416,
+        "lon": -5.9304774
+      },
+      "website": "https://saltcommunications.com"
     },
     {
       "name": "SambaNova Systems",
@@ -3334,7 +4481,12 @@
         "Professional Services",
         "Transport Security"
       ],
-      "address": "Tower Bridge House\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Tower Bridge House\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5087945,
+        "lon": -0.0736077
+      },
       "website": "www.sambanova.ai"
     },
     {
@@ -3343,7 +4495,12 @@
       "category": [
         "Counter Terrorism & Intelligence"
       ],
-      "address": "10440 Av. Henault\nMontral\nCanada",
+      "address": {
+        "text": "10440 Av. Henault\nMontral\nCanada",
+        "iso2": "CA",
+        "lat": 45.5926234,
+        "lon": -73.6233957
+      },
       "website": "www.santor.com"
     },
     {
@@ -3359,13 +4516,23 @@
         "Transport Security",
         "Vehicles"
       ],
-      "address": "223 Regent Street\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "223 Regent Street\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5137283,
+        "lon": -0.1415283
+      },
       "website": "www.scanna-msc.com"
     },
     {
       "name": "Security Industry Authority (SIA)",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/sia/",
-      "address": "London\nUnited Kingdom",
+      "address": {
+        "text": "London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      },
       "website": "https://www.gov.uk/government/organisations/security-industry-authority"
     },
     {
@@ -3380,8 +4547,11 @@
         "Information Technology",
         "Optics"
       ],
-      "address": "United Kingdom",
-      "website": "www.seequestor.com"
+      "website": "www.seequestor.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Sensus Futuris",
@@ -3392,7 +4562,12 @@
         "CCTV & Video Analytics",
         "Counter Terrorism & Intelligence"
       ],
-      "address": "The Surrey Technology Centre, 40 Occam Road\nGuildford\nUnited Kingdom",
+      "address": {
+        "text": "The Surrey Technology Centre, 40 Occam Road\nGuildford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2398657,
+        "lon": -0.612081
+      },
       "website": "https://www.sensusfuturis.com"
     },
     {
@@ -3403,7 +4578,12 @@
         "Optics",
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Porton Science Park\nSalisbury\nUnited Kingdom",
+      "address": {
+        "text": "Porton Science Park\nSalisbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.129734,
+        "lon": -1.7045898
+      },
       "website": "www.sentinelphotonics.co.uk"
     },
     {
@@ -3421,7 +4601,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Lambda House, Fairview Road\nAndover\nUnited Kingdom",
+      "address": {
+        "text": "Lambda House, Fairview Road\nAndover\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2195004,
+        "lon": -1.5517634
+      },
       "website": "www.sesanti.com"
     },
     {
@@ -3454,7 +4639,12 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "Chester\nUnited Kingdom",
+      "address": {
+        "text": "Chester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.193392,
+        "lon": -2.893075
+      },
       "website": "http://www.signumint.com"
     },
     {
@@ -3468,8 +4658,13 @@
         "Unmanned Systems, Robotics & Countermeasures",
         "Vehicles"
       ],
-      "address": "1-2 Riverside\nWare\nUnited Kingdom",
-      "website": "https://silentsentinel.com/"
+      "address": {
+        "text": "1-2 Riverside\nWare\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.810437,
+        "lon": -0.028177
+      },
+      "website": "https://silentsentinel.com"
     },
     {
       "name": "Silverstone Shooting Centre",
@@ -3478,7 +4673,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Staplegate Farm, Crowfield, Brackley\nNorthampton\nUnited Kingdom",
+      "address": {
+        "text": "Staplegate Farm, Crowfield, Brackley\nNorthampton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0673398,
+        "lon": -1.1031142
+      },
       "website": "www.start-centre.co.uk"
     },
     {
@@ -3489,8 +4689,13 @@
         "Data acquisition and analysis",
         "Information Technology"
       ],
-      "address": "The IT Centre, York Science Park\nYork\nUnited Kingdom",
-      "website": "https://simunix.com/"
+      "address": {
+        "text": "The IT Centre, York Science Park\nYork\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.9506124,
+        "lon": -1.0480712
+      },
+      "website": "https://simunix.com"
     },
     {
       "name": "Smith Myers Communications Ltd",
@@ -3503,8 +4708,13 @@
         "Incident & Emergency Response",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "1 The Omega Centre\nBiggleswade\nUnited Kingdom",
-      "website": "https://www.smithmyers.com/"
+      "address": {
+        "text": "1 The Omega Centre\nBiggleswade\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0748583,
+        "lon": -0.2409841
+      },
+      "website": "https://www.smithmyers.com"
     },
     {
       "name": "Smiths Detection Group Ltd.",
@@ -3516,13 +4726,23 @@
         "Cyber Security",
         "Vehicles"
       ],
-      "address": "Century House, Maylands Avenue\nHemel Hempstead\nUnited Kingdom",
-      "website": "https://www.smithsdetection.com/"
+      "address": {
+        "text": "Century House, Maylands Avenue\nHemel Hempstead\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7628606,
+        "lon": -0.4381898
+      },
+      "website": "https://www.smithsdetection.com"
     },
     {
       "name": "Sony",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/sony/",
-      "address": "The Heights, Brooklands\nWeybridge\nUnited Kingdom",
+      "address": {
+        "text": "The Heights, Brooklands\nWeybridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.350689,
+        "lon": -0.4635807
+      },
       "website": "http://www.sony.eu/businesssolutions"
     },
     {
@@ -3536,19 +4756,32 @@
         "Information Technology",
         "Professional Services"
       ],
-      "address": "Three Cherry Trees Lane Hemel Hempstead Herts\nUnited Kingdom",
+      "address": {
+        "text": "Three Cherry Trees Lane Hemel Hempstead Herts\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7688639,
+        "lon": -0.4330832
+      },
       "website": "www.soprasteria.co.uk"
     },
     {
       "name": "South Yorkshire Police",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/south-yorkshire-police/",
-      "address": "United Kingdom",
-      "website": "www.southyorks.police.uk"
+      "website": "www.southyorks.police.uk",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Southern Scientific Limited",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/southern-scientific-limited/",
-      "address": "Shoreham Road\nUnited Kingdom",
+      "address": {
+        "text": "Shoreham Road\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8801638,
+        "lon": -0.300459
+      },
       "website": "www.southernscientific.co.uk"
     },
     {
@@ -3561,8 +4794,11 @@
         "Optics",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "PO Box 825\nUnited States",
-      "website": "www.specialservicesgroup.us"
+      "website": "www.specialservicesgroup.us",
+      "country": {
+        "text": "PO Box 825\nUnited States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Squarehead",
@@ -3571,8 +4807,13 @@
         "Border and Maritime Security",
         "Counter Terrorism & Intelligence"
       ],
-      "address": "Oslo\nNorway",
-      "website": "https://www.sqhead.com/"
+      "address": {
+        "text": "Oslo\nNorway",
+        "iso2": "NO",
+        "lat": 59.9138688,
+        "lon": 10.7522454
+      },
+      "website": "https://www.sqhead.com"
     },
     {
       "name": "Strategies",
@@ -3584,8 +4825,13 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "Unit 6, Thursby Road\nBirkenhead\nUnited Kingdom",
-      "website": "https://sure-antennas.com/"
+      "address": {
+        "text": "Unit 6, Thursby Road\nBirkenhead\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3362673,
+        "lon": -2.9743729
+      },
+      "website": "https://sure-antennas.com"
     },
     {
       "name": "Surevine",
@@ -3603,7 +4849,12 @@
       "category": [
         "CBRNe"
       ],
-      "address": "39 botley road\nSouthampton\nUnited Kingdom",
+      "address": {
+        "text": "39 botley road\nSouthampton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8952565,
+        "lon": -1.3451671
+      },
       "website": "symetrica.com"
     },
     {
@@ -3615,7 +4866,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "2820 N. Telshor Blvd\nLas Cruces\nUnited States",
+      "address": {
+        "text": "2820 N. Telshor Blvd\nLas Cruces\nUnited States",
+        "iso2": "US",
+        "lat": 32.34893570000001,
+        "lon": -106.7640563
+      },
       "website": "www.syndetix.com"
     },
     {
@@ -3627,8 +4883,11 @@
         "Counter Terrorism & Intelligence",
         "Data acquisition and analysis"
       ],
-      "address": "Phoenix House, 2 Phoenix Park\nUnited Kingdom",
-      "website": "www.sysware-europe.com"
+      "website": "www.sysware-europe.com",
+      "country": {
+        "text": "Phoenix House, 2 Phoenix Park\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "T3K Forensics",
@@ -3641,7 +4900,12 @@
         "Data acquisition and analysis",
         "Forensic Services"
       ],
-      "address": "Ernst-Melchior-Gasse 24\nVienna\nAustria",
+      "address": {
+        "text": "Ernst-Melchior-Gasse 24\nVienna\nAustria",
+        "iso2": "AT",
+        "lat": 48.2237246,
+        "lon": 16.3968418
+      },
       "website": "www.t3k.ai"
     },
     {
@@ -3650,7 +4914,12 @@
       "category": [
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "111-115 Baltimore Road, Great Barr\nBirmingham\nUnited Kingdom",
+      "address": {
+        "text": "111-115 Baltimore Road, Great Barr\nBirmingham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5273665,
+        "lon": -1.9216519
+      },
       "website": "www.tchuklimited.co.uk"
     },
     {
@@ -3667,7 +4936,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "TX 1A Shepperton Studios\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "TX 1A Shepperton Studios\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.537481,
+        "lon": -0.0869867
+      },
       "website": "https://tacticalsurvey.solutions"
     },
     {
@@ -3678,7 +4952,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "2 Woodstock Link\nBelfast\nUnited Kingdom",
+      "address": {
+        "text": "2 Woodstock Link\nBelfast\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.59496310000001,
+        "lon": -5.9062525
+      },
       "website": "www.tapsos.com"
     },
     {
@@ -3694,7 +4973,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "Cobham\nUnited Kingdom",
+      "address": {
+        "text": "Cobham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.32878299999999,
+        "lon": -0.410856
+      },
       "website": "https://tasmanian-tiger.co.uk"
     },
     {
@@ -3704,7 +4988,12 @@
         "Border and Maritime Security",
         "Covert Operations & Capabilities"
       ],
-      "address": "106 Waterhouse Lane\nChelmsford\nUnited Kingdom"
+      "address": {
+        "text": "106 Waterhouse Lane\nChelmsford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7317195,
+        "lon": 0.4562485
+      }
     },
     {
       "name": "Telesemica",
@@ -3713,7 +5002,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Porton Science Park, Bybrook Road",
+      "address": {
+        "text": "Porton Science Park, Bybrook Road",
+        "iso2": "GB",
+        "lat": 51.129734,
+        "lon": -1.7045898
+      },
       "website": "www.telesemica.com"
     },
     {
@@ -3724,7 +5018,12 @@
         "Physical Security, Man-guarding & Close Protection",
         "Transport Security"
       ],
-      "address": "Ashburton Road West, Trafford Park\nManchester\nUnited Kingdom",
+      "address": {
+        "text": "Ashburton Road West, Trafford Park\nManchester\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4721538,
+        "lon": -2.3383444
+      },
       "website": "www.ferosafe.com"
     },
     {
@@ -3742,7 +5041,12 @@
         "Data acquisition and analysis",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "350 Longwater Ave, Reading\nReading\nUnited Kingdom",
+      "address": {
+        "text": "350 Longwater Ave, Reading\nReading\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4242151,
+        "lon": -0.9936437
+      },
       "website": "https://www.thalesgroup.com/uk"
     },
     {
@@ -3751,8 +5055,13 @@
       "category": [
         "Covert Operations & Capabilities"
       ],
-      "address": "Peterborough\nUnited Kingdom",
-      "website": "http://www.enigmasecurity.co.uk/"
+      "address": {
+        "text": "Peterborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.57031689999999,
+        "lon": -0.2407996999999999
+      },
+      "website": "http://www.enigmasecurity.co.uk"
     },
     {
       "name": "The Handa Centre for the Study of Terrorism and Political Violence",
@@ -3761,7 +5070,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Handa CSTPV, School of International Relations, University of St. Andrews, Arts Faculty Building, Library Park, The Scores\nSaint Andrews\nUnited Kingdom",
+      "address": {
+        "text": "Handa CSTPV, School of International Relations, University of St. Andrews, Arts Faculty Building, Library Park, The Scores\nSaint Andrews\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 56.3417136,
+        "lon": -2.7942674
+      },
       "website": "cstpv.wp.st-andrews.ac.uk"
     },
     {
@@ -3771,7 +5085,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Mira Technology Park, Technology Centre NW05\nNuneaton\nUnited Kingdom",
+      "address": {
+        "text": "Mira Technology Park, Technology Centre NW05\nNuneaton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5534508,
+        "lon": -1.4613944
+      },
       "website": "https://security-institute.org"
     },
     {
@@ -3782,7 +5101,12 @@
         "CBRNe",
         "Counter Terrorism & Intelligence"
       ],
-      "address": "Wade Road\nBasingstoke\nUnited Kingdom",
+      "address": {
+        "text": "Wade Road\nBasingstoke\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2801052,
+        "lon": -1.0658721
+      },
       "website": "www.thermofisher.com"
     },
     {
@@ -3796,7 +5120,12 @@
         "Optics",
         "Personal Protection Equipment, Clothing & Accessories"
       ],
-      "address": "Teknix House\nCambridge\nUnited Kingdom",
+      "address": {
+        "text": "Teknix House\nCambridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2715202,
+        "lon": 0.1823752
+      },
       "website": "www.thermoteknix.com"
     },
     {
@@ -3805,7 +5134,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "18/19 Torfaen Business Centre\nPontypool\nUnited Kingdom",
+      "address": {
+        "text": "18/19 Torfaen Business Centre\nPontypool\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7752929,
+        "lon": -3.0958761
+      },
       "website": "https://www.tm-readers.com"
     },
     {
@@ -3815,7 +5149,12 @@
         "Counter Explosive Ordnance, Explosives & Blast Protection",
         "Professional Services"
       ],
-      "address": "Ham Cross Lodge\nSalisbury\nUnited Kingdom",
+      "address": {
+        "text": "Ham Cross Lodge\nSalisbury\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.068512,
+        "lon": -2.024904
+      },
       "website": "www.thorindustries.uk"
     },
     {
@@ -3829,8 +5168,13 @@
         "Physical Security, Man-guarding & Close Protection",
         "Transport Security"
       ],
-      "address": "121 Olympic Avenue\nAbingdon\nUnited Kingdom",
-      "website": "https://thruvision.com/"
+      "address": {
+        "text": "121 Olympic Avenue\nAbingdon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6243758,
+        "lon": -1.2905389
+      },
+      "website": "https://thruvision.com"
     },
     {
       "name": "Timespace Technology Ltd",
@@ -3841,7 +5185,12 @@
         "Covert Operations & Capabilities",
         "Information Technology"
       ],
-      "address": "Lakeview Court\nHuntingdon\nUnited Kingdom",
+      "address": {
+        "text": "Lakeview Court\nHuntingdon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3452896,
+        "lon": -0.1963991
+      },
       "website": "www.tspace.co.uk"
     },
     {
@@ -3853,8 +5202,13 @@
         "Cyber Security",
         "Information Technology"
       ],
-      "address": "Cody Technology Park\nFarnborough\nUnited Kingdom",
-      "website": "https://tricis.co.uk/"
+      "address": {
+        "text": "Cody Technology Park\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      },
+      "website": "https://tricis.co.uk"
     },
     {
       "name": "Triple Audio",
@@ -3867,7 +5221,12 @@
         "Information Technology",
         "Training"
       ],
-      "address": "PC Staalweg 130\nDe Bilt\nNetherlands",
+      "address": {
+        "text": "PC Staalweg 130\nDe Bilt\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.119511,
+        "lon": 5.177929
+      },
       "website": "www.tripleaudio.nl"
     },
     {
@@ -3879,13 +5238,23 @@
         "Custodial",
         "Cyber Security"
       ],
-      "address": "Hub8, Unit H2 ,The Brewery Quarter\nCheltenham\nUnited Kingdom",
-      "website": "https://truststamp.ai/"
+      "address": {
+        "text": "Hub8, Unit H2 ,The Brewery Quarter\nCheltenham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9032204,
+        "lon": -2.0759215
+      },
+      "website": "https://truststamp.ai"
     },
     {
       "name": "UK Defence & Security Exports",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/ukdse/",
-      "address": "Old Admiralty Building, Admiralty Place, Whitehall, London\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Old Admiralty Building, Admiralty Place, Whitehall, London\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
       "website": "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
     },
     {
@@ -3894,7 +5263,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "c/o NPCC, 1st Floor, 10 Victoria Street, London\nUnited Kingdom",
+      "address": {
+        "text": "c/o NPCC, 1st Floor, 10 Victoria Street, London\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4991052,
+        "lon": -0.1314492
+      },
       "website": "https://www.ukpolicememorial.com"
     },
     {
@@ -3907,7 +5281,12 @@
         "Personal Protection Equipment, Clothing & Accessories",
         "Physical Security, Man-guarding & Close Protection"
       ],
-      "address": "56 South Way, Walworth Ind Estate, Andover, Hants\nAndover\nUnited Kingdom",
+      "address": {
+        "text": "56 South Way, Walworth Ind Estate, Andover, Hants\nAndover\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2153539,
+        "lon": -1.4513284
+      },
       "website": "www.unitedshield.com"
     },
     {
@@ -3918,7 +5297,12 @@
         "Biometrics, Facial Recognition & Imagery",
         "CCTV & Video Analytics"
       ],
-      "address": "Stag Hill\nGuildford\nUnited Kingdom",
+      "address": {
+        "text": "Stag Hill\nGuildford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2396149,
+        "lon": -0.5902781
+      },
       "website": "https://www.surrey.ac.uk/centre-vision-speech-signal-processing"
     },
     {
@@ -3927,7 +5311,12 @@
       "category": [
         "Access Control & Entry Systems"
       ],
-      "address": "10200 W York St\nWichita\nUnited States",
+      "address": {
+        "text": "10200 W York St\nWichita\nUnited States",
+        "iso2": "US",
+        "lat": 37.6240615,
+        "lon": -97.46046989999999
+      },
       "website": "https://www.viavisolutions.com/en-us"
     },
     {
@@ -3944,13 +5333,23 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "63-66 Hatton Garden\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "63-66 Hatton Garden\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5210657,
+        "lon": -0.1088577
+      },
       "website": "https://vizgard.com"
     },
     {
       "name": "Vemotion",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2022/vemotion/",
-      "address": "York road\nYork\nUnited Kingdom",
+      "address": {
+        "text": "York road\nYork\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.9557831,
+        "lon": -1.1245
+      },
       "website": "www.vemotion.com"
     },
     {
@@ -3965,7 +5364,12 @@
         "Data acquisition and analysis",
         "Professional Services"
       ],
-      "address": "Prama House, 267 Banbury Road, Oxford, England, OX2 7HT\nOxford\nUnited Kingdom",
+      "address": {
+        "text": "Prama House, 267 Banbury Road, Oxford, England, OX2 7HT\nOxford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7789344,
+        "lon": -1.2658145
+      },
       "website": "viabledata.co.uk"
     },
     {
@@ -3974,7 +5378,7 @@
       "category": [
         "Incident & Emergency Response"
       ],
-      "website": "https://victimsofterrorism.campaign.gov.uk/"
+      "website": "https://victimsofterrorism.campaign.gov.uk"
     },
     {
       "name": "Videosoft Global Ltd",
@@ -3989,7 +5393,12 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "20-22 Wenlock Road\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "20-22 Wenlock Road\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5308045,
+        "lon": -0.09372069999999999
+      },
       "website": "www.videosoftglobal.com"
     },
     {
@@ -4005,7 +5414,12 @@
         "Transport Security",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Delta 606, Welton Road\nSwindon\nUnited Kingdom",
+      "address": {
+        "text": "Delta 606, Welton Road\nSwindon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5567615,
+        "lon": -1.815657
+      },
       "website": "www.vilution.co.uk"
     },
     {
@@ -4017,7 +5431,12 @@
         "Covert Operations & Capabilities",
         "Information Technology"
       ],
-      "address": "75 The Grove\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "75 The Grove\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.54240780000001,
+        "lon": 0.0037985
+      },
       "website": "www.vtx.uk"
     },
     {
@@ -4030,8 +5449,13 @@
       "category": [
         "Comms Data and Digital Forensics"
       ],
-      "address": "91 Rutledge Avenue\nCharleston\nUnited States",
-      "website": "https://www.wavesciencescorp.com/"
+      "address": {
+        "text": "91 Rutledge Avenue\nCharleston\nUnited States",
+        "iso2": "US",
+        "lat": 32.780548,
+        "lon": -79.942567
+      },
+      "website": "https://www.wavesciencescorp.com"
     },
     {
       "name": "Wagtail UK Ltd",
@@ -4041,8 +5465,11 @@
         "Physical Security, Man-guarding & Close Protection",
         "Training"
       ],
-      "address": "PO Box 143\nUnited Kingdom",
-      "website": "www.wagtailuk.com"
+      "website": "www.wagtailuk.com",
+      "country": {
+        "text": "PO Box 143\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Web-IQ",
@@ -4054,8 +5481,13 @@
         "Forensic Services",
         "Information Technology"
       ],
-      "address": "Helperpark 284\nGroningen\nNetherlands",
-      "website": "https://web-iq.com/"
+      "address": {
+        "text": "Helperpark 284\nGroningen\nNetherlands",
+        "iso2": "NL",
+        "lat": 53.2040349,
+        "lon": 6.5895443
+      },
+      "website": "https://web-iq.com"
     },
     {
       "name": "WildGate Consultancy Solutions Ltd",
@@ -4067,7 +5499,12 @@
         "Incident & Emergency Response",
         "Information Technology"
       ],
-      "address": "Poole\nUnited Kingdom",
+      "address": {
+        "text": "Poole\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.71505,
+        "lon": -1.987248
+      },
       "website": "https://securemapview.co.uk"
     },
     {
@@ -4079,7 +5516,12 @@
         "Professional Services",
         "Training"
       ],
-      "address": "Brogaardsvej 70, Gentofte\nCopenhagen\nDenmark"
+      "address": {
+        "text": "Brogaardsvej 70, Gentofte\nCopenhagen\nDenmark",
+        "iso2": "DK",
+        "lat": 55.75455179999999,
+        "lon": 12.5253914
+      }
     },
     {
       "name": "Wired Broadcast Ltd",
@@ -4097,7 +5539,12 @@
         "Professional Services",
         "Unmanned Systems, Robotics & Countermeasures"
       ],
-      "address": "Berol House, 25 Ashley Road\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Berol House, 25 Ashley Road\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5901441,
+        "lon": -0.06119040000000001
+      },
       "website": "www.wiredbroadcast.com"
     },
     {
@@ -4107,7 +5554,12 @@
         "Comms Data and Digital Forensics",
         "Cyber Security"
       ],
-      "address": "Alfred Nobels Vej 21C\nAalborg\nDenmark",
+      "address": {
+        "text": "Alfred Nobels Vej 21C\nAalborg\nDenmark",
+        "iso2": "DK",
+        "lat": 57.011045,
+        "lon": 9.989773
+      },
       "website": "https://xci.dk"
     },
     {
@@ -4117,7 +5569,12 @@
         "Incident & Emergency Response",
         "Training"
       ],
-      "address": "Westlandseweg 40 C\nDelft\nNetherlands",
+      "address": {
+        "text": "Westlandseweg 40 C\nDelft\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.0027796,
+        "lon": 4.353145
+      },
       "website": "www.xvrsim.com"
     },
     {
@@ -4128,7 +5585,12 @@
         "Covert Operations & Capabilities",
         "Cyber Security"
       ],
-      "address": "27 Harrison Road\nHalifax\nUnited Kingdom",
+      "address": {
+        "text": "27 Harrison Road\nHalifax\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7194807,
+        "lon": -1.8625964
+      },
       "website": "xewli.com"
     },
     {
@@ -4138,7 +5600,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "The Watermill, Spring Lane, Oxted, Surrey\nUnited Kingdom",
+      "address": {
+        "text": "The Watermill, Spring Lane, Oxted, Surrey\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2486815,
+        "lon": -0.0101408
+      },
       "website": "www.cellxion.net"
     },
     {
@@ -4151,8 +5618,13 @@
         "Forensic Services",
         "Information Technology"
       ],
-      "address": "Asparagus Way\nEvesham\nUnited Kingdom",
-      "website": "http://www.fosterfreeman.com/"
+      "address": {
+        "text": "Asparagus Way\nEvesham\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0744926,
+        "lon": -1.9379589
+      },
+      "website": "http://www.fosterfreeman.com"
     },
     {
       "name": "mh SERVICE GmbH",
@@ -4170,7 +5642,12 @@
         "Training",
         "Vehicles"
       ],
-      "address": "Barthelsmhlring 76870 Kandel\nGermany",
+      "address": {
+        "text": "Barthelsmhlring 76870 Kandel\nGermany",
+        "iso2": "DE",
+        "lat": 49.0849319,
+        "lon": 8.1908117
+      },
       "website": "www.mh-service.de"
     },
     {
@@ -4180,7 +5657,12 @@
         "Counter Terrorism & Intelligence",
         "Covert Operations & Capabilities"
       ],
-      "address": "Graficka 7a\nPrague\nCzech Republic",
+      "address": {
+        "text": "Graficka 7a\nPrague\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.0731371,
+        "lon": 14.3956064
+      },
       "website": "www.solomanufacture.com"
     }
   ],

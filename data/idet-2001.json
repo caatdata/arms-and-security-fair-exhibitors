@@ -8,6 +8,11 @@
   "edition": "2001",
   "startDate": "2001-05-09",
   "endDate": "2001-05-11",
-  "address": "Brno\nCzech Republic",
+  "address": {
+    "text": "Brno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.1950602,
+    "lon": 16.6068371
+  },
   "website": "http://www.idet.cz/english/"
 }

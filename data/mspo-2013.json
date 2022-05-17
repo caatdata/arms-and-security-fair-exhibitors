@@ -8,7 +8,12 @@
   ],
   "startDate": "2013-09-02",
   "endDate": "2013-09-05",
-  "address": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+  "address": {
+    "text": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+    "iso2": "PL",
+    "lat": 50.8998777,
+    "lon": 20.5890132
+  },
   "website": "http://www.targikielce.pl/index.html?k=mspo_en&s=index",
   "organiser": {
     "name": "Targi Kielce",
@@ -20,19 +25,31 @@
   "exhibitor": [
     {
       "name": "ACM",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Adeon Wydawnictwo Tebra S.C. Paweł Zych, Krzysztof Wieczorek",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Agencja Lotnicza ALTAIR Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AGENCJA MIENIA WOJSKOWEGO",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AGREGATY PEX",
@@ -40,215 +57,374 @@
     },
     {
       "name": "AGUSTA WESTLAND",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AIRBUS MILITARY",
-      "country": "Spain / Hiszpania"
+      "country": {
+        "text": "Spain / Hiszpania",
+        "iso2": "ES"
+      }
     },
     {
       "name": "Akademia Obrony Narodowej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AKSEL Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Alenia Aermacchi",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ALLEN VANGNARD",
-      "country": "Canada / Kanada"
+      "country": {
+        "text": "Canada / Kanada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Allied Thelesis",
-      "country": "Japan/ Japonia"
+      "country": {
+        "text": "Japan/ Japonia",
+        "iso2": "JP"
+      }
     },
     {
       "name": "ALP AVIATION",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ALSTOR Sp.j. T.Szukała i Wspólnicy",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Amunicja S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AMZ-KUTNO Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ANDROPOL S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ANORTEC SL",
-      "country": "Spain / Hiszpania"
+      "country": {
+        "text": "Spain / Hiszpania",
+        "iso2": "ES"
+      }
     },
     {
       "name": "AREX Sp. z o.o. Zakład Automatyki i Urządzeń Pomiarowych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Armia",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ARMINEX TRADING Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ARMOX SSAB",
-      "country": "Sweden / Szwecja"
+      "country": {
+        "text": "Sweden / Szwecja",
+        "iso2": "SE"
+      }
     },
     {
       "name": "ARMPOL Sp. z o.o. Przedsiębiorstwo Innowacyjno-Wdrożeniowe",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Army Recognition",
-      "country": "Belgium / Belgia"
+      "country": {
+        "text": "Belgium / Belgia",
+        "iso2": "BE"
+      }
     },
     {
       "name": "ARSENAŁ Przegląd Strzelecki",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ASELSAN",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ASSECO POLAND S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ASTAT Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ASTRA Concept Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ASTRIUM",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ATM ComputerSysteme GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Autocomp Management Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AVIO POLSKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AW.NET Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "AXNES AVIATION AS",
-      "country": "Norway / Norwegia"
+      "country": {
+        "text": "Norway / Norwegia",
+        "iso2": "NO"
+      }
     },
     {
       "name": "B&T AG",
-      "country": "Switzerland / Szwajcaria"
+      "country": {
+        "text": "Switzerland / Szwajcaria",
+        "iso2": "CH"
+      }
     },
     {
       "name": "B.E. MAYERS & Co.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BAE Systems Hagglunds AB",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Barco nv",
-      "country": "Belgium/ Belgia"
+      "country": {
+        "text": "Belgium/ Belgia",
+        "iso2": "BE"
+      }
     },
     {
       "name": "BARRETT FIREARMS MANUFACTURING",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Barwa F.H. J. Czajkowski",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Beatronic Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Bees-Pol Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Beth-El Zikhron Yaagov Industries Ltd.",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Bitstream",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "BLACKHAWK",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Boeing",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Bohemia Interactive Simulations S.R.O.",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "BORIMEX sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Broń i Amunicja",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "BT ELECTRONICS",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Bumar Elektronika S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Bumar PCO S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Bydgoskie Zakłady Elektromechaniczne BELMA S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Cargotec Poland Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "CASE-PACK",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "CASSIDIAN",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Castellior A. Górecki",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "CBC",
@@ -256,255 +432,450 @@
     },
     {
       "name": "CE Niehoff & Co",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "CENREX Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Centrum Naukowo-Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego, Państwowy Instytut Badawczy",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "CENZIN sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "CESKA LETECKA SERVISNI a.s.",
-      "country": "Czech Republic / Czechy"
+      "country": {
+        "text": "Czech Republic / Czechy",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "China Electronics International Exhibition & Advertising Co. Ltd. (CIDEX)",
-      "country": "China / Chiny"
+      "country": {
+        "text": "China / Chiny",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Chipotle Publishing, LLC",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CMI Defence",
-      "country": "Belgium/ Belgia"
+      "country": {
+        "text": "Belgium/ Belgia",
+        "iso2": "BE"
+      }
     },
     {
       "name": "DCNS",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Defence Turkey",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "defence24.pl",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "DESCHAMPS",
-      "country": "Finland / Finlandia"
+      "country": {
+        "text": "Finland / Finlandia",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Diehl Defence Holding GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Diehl Defence Land Systems",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Digital Research and Consulting Co., Ltd",
-      "country": "Thailand/ Tajlandia"
+      "country": {
+        "text": "Thailand/ Tajlandia",
+        "iso2": "TH"
+      }
     },
     {
       "name": "DOLEZYCH Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "DOMAR Mariusz Dowbor Spółka Jawna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Dowództwo Marynarki Wojennej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Dowództwo Sił Powietrznych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Dowództwo Wojsk Lądowych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Dowództwo Wojsk Specjalnych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "DRABPOL SP. J. P. Drabczyński i Wspólnik",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Dynamit Nobel Defence GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Dynitec",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DZT Fabryka Samochodów w Lublinie Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EADS",
-      "country": "Spain / Hiszpania"
+      "country": {
+        "text": "Spain / Hiszpania",
+        "iso2": "ES"
+      }
     },
     {
       "name": "EADS GDI-SIMULATION",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EC SYSTEMS Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EC Test Systems Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EFFER POLSKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EGERIA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ELAMED E. i R. Cholewa Sp. J.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Elbit Systems Ltd.",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Electronic Power And Market Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ELEKTRIT Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Elesa+Ganter Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ELETTRONICA",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Elmark Automatyka Sp. z o .o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EM TEST GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "E-MILITARIA.PL",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Engineered Arresting Systems Corporation /ESCO/",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ENIGMA Systemy Ochrony Informacji Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ENSIGN- Bickford Aerospace & Defense",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ERA a.s.",
-      "country": "Czech Republic/ Czechy"
+      "country": {
+        "text": "Czech Republic/ Czechy",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ETRONIKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "EURENCO",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROCOPTER",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EUROSATORY 2014",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Eutelsat Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Fabryka Amunicji Myśliwskiej FAM-PIONKI Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Fabryka Broni ŁUCZNIK",
-      "country": "Radom Sp. z o.o."
+      "address": {
+        "text": "Radom Sp. z o.o.",
+        "iso2": "PL",
+        "lat": 51.40272359999999,
+        "lon": 21.1471333
+      }
     },
     {
       "name": "FAS Mariusz Ficoń",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "FAUN TRACKWAY",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "FCT Group",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FIN Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "FINMECCANICA S.p.A.",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "FINNRADIATOR LTD",
-      "country": "Finland / Finlandia"
+      "country": {
+        "text": "Finland / Finlandia",
+        "iso2": "FI"
+      }
     },
     {
       "name": "FLOP SYSTEM Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "FLYTRONIC Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "FN HERSTAL",
-      "country": "Belgium / Belgia"
+      "country": {
+        "text": "Belgium / Belgia",
+        "iso2": "BE"
+      }
     },
     {
       "name": "FREQUENTIS AG",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "FRZ CONSULTING",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "FUTURETECH Kärcher Group",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GENERAL DYNAMICS",
@@ -512,43 +883,73 @@
     },
     {
       "name": "GENERAL DYNAMICS C4S",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GENERAL DYNAMICS OTS. (SIMMUNITION)",
-      "country": "Canada / Kanada"
+      "country": {
+        "text": "Canada / Kanada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "GERMAZ Dom Samochodowy Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "GEROH GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GICAT",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "GLOCK Ges.m.b.H",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "Glomex Military Supplies",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "GMV",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Grupa Rekonstrukcji Wojskowej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "HAACON HEBETECHNIK GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Haix ®",
@@ -556,547 +957,965 @@
     },
     {
       "name": "Harris Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HAVELSAN",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "HAVELSAN RADAR",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Heckle & Koch GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HERTZ SYSTEMS Ltd Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Hewlett-Packard Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "HOLSTERS HPE POLSKA",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Honeywell Aerospace",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HSM Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "HT Laser sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "HUTA STALI JAKOŚCIOWYCH S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "HUTA STALOWA WOLA S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "IAI",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "IDEB 2014",
-      "country": "Slovakia / Słowacja"
+      "country": {
+        "text": "Slovakia / Słowacja",
+        "iso2": "SK"
+      }
     },
     {
       "name": "IDEF 2015",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "IFS Industrial and Financial Systems Poland Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "IHS GLOBAL Ltd",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "IMS-GRIFFIN Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "INDRA SISTEMAS POLSKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Instytut Badań nad Stosunkami Międzynarodowymi",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Instytut Lotnictwa",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Instytut Metali Nieżelaznych- Oddział Metali Lekkich",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Instytut Techniczny Wojsk Lotniczych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "INTEC EXPORT INTELLIGENCE",
-      "country": "Great Britain/Wielka Brytania"
+      "address": {
+        "text": "Great Britain/Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "ISRAEL MILITARY INDUSTRIES LTD. (IMI)",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "JAKUSZ Bogdan Jakusz Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "JAS technologie Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Jelcz-Komponenty Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "JPdistribution",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "JSC \"Holding Company \"UKRSPETSTECHNIKA\"",
-      "country": "Ukraine/ Ukraina"
+      "country": {
+        "text": "Ukraine/ Ukraina",
+        "iso2": "UA"
+      }
     },
     {
       "name": "KAGERO PUBLISHING Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KauPoSil P.P.H.U.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KENBIT KOENIG i WSPÓLNICY Sp. J.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KIDDE-DEUGRA",
-      "country": "Germany/ Niemcy"
+      "country": {
+        "text": "Germany/ Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KIRITEC Ltd.",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "KOLT S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KOMECH ZAKŁAD OBRÓBKI METALI",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Komenda Wojewódzka Państwowej Straży Pożarnej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KONGSBERG DEFENCE & AEROSPACE AS",
-      "country": "Norway / Norwegia"
+      "country": {
+        "text": "Norway / Norwegia",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Konica Minolta",
-      "country": "Japan/ Japonia"
+      "country": {
+        "text": "Japan/ Japonia",
+        "iso2": "JP"
+      }
     },
     {
       "name": "KONTENER Sp. z o.o. Przedsiębiorstwo Produkcji Elementów Budowlanych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KONTRON EAST EUROPE Sp. z o.o",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Krajowe Stowarzyszenie Ochrony Informacji Niejawnych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Krauss-Maffei Wegmann GmbH & Co.KG",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KRYPTON POLSKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "KSIĘGARNIA HISTORYCZNA",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "L-3 Communications, EOTECH",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LACROIX",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "LASER DEVICES",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LASER GAS Oy",
-      "country": "Finland / Finlandia"
+      "country": {
+        "text": "Finland / Finlandia",
+        "iso2": "FI"
+      }
     },
     {
       "name": "LETRONA Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Level 11 Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Lockheed Martin Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOM PRAHA s.p.",
-      "country": "Czechy/ Czech Republic"
+      "country": {
+        "text": "Czechy/ Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "LOTNICTWO",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "LUBAWA S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Mactronic Sp. z o.o., Sp. k.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Magazyn \"W akcji\"",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MAGNETO Konsorcjum Badawczo-Rozwojowe Sp.j.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MAGNUM-X Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MANOR HOUSE Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MAQUET Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MARIO INTERNATIONAL TECHNOLOGU & SERVICE Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MASKPOL S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MAW TELECOM INTERNATIONAL S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MBDA",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Mechanik",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MEGMAR LOGISTICS & Consulting Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ME-PRO-TECH P.P.H.U.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MESKO S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Międzynarodowe Targi Gdańskie S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MIKANIT Małgorzata Wnuk",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MILFOAM",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MILITARIA.PL Firma Handlowa \"TM\" Tomasz Filipiak",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MIND Sp. z o.o. P.U.P.H.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MINDMade",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MINDMADE Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Ministerstwo Obrony Narodowej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MIRANDA sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MISTA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MKEK",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MMC CONSULTING S.C.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Mönch Publishing Group",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MONREX Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MOSSBERG (O.F. MOSSBERG & SONS, Inc.)",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MP-LMD",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "NAMMO LAPUA OY",
-      "country": "Finland / Finlandia"
+      "country": {
+        "text": "Finland / Finlandia",
+        "iso2": "FI"
+      }
     },
     {
       "name": "National Instruments Poland Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "NATO SUPPORT AGENCY",
-      "country": "CODIFICATION"
+      "address": {
+        "text": "CODIFICATION",
+        "iso2": "GB",
+        "lat": 55.06351710000001,
+        "lon": -1.5811293
+      }
     },
     {
       "name": "NAVITEC Sp. z o. o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "NEXTER SYSTEMS",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NICOMATIC",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NIEWIADÓW S.A. Zakład Sprzętu Precyzyjnego",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "NIMDA Co. Ltd",
-      "country": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "Nowa Technika Wojskowa",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "NST- Newco Safety Technologies",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Oficyna Wydawnicza MEDIUM s.c.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "OLYMPUS POLSKA Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ONUK COMPETITION DEVELOPMENT",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "OPUS Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Oshkosh Defence",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "OSSA INDUSTRIAL CLUSTER",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Ośrodek Badawczo-Rozwojowy Centrum Techniki Morskiej S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Ośrodek Badawczo-Rozwojowy Urządzeń Mechanicznych OBRUM Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "OTO MELARA S.p.A.",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "OTOKAR",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "OXLEY DEVELOPMENTS CO LTD",
-      "country": "Great Britain / Wielka Brytania"
+      "address": {
+        "text": "Great Britain / Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "PAGACZ i Synowie Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Panasonic Marketing Europe GmbH, Panasonic Computer Products Europe",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Partner Systems Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Pearson Engineerging Ltd",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "PIMCO Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PLASAN SASA Ltd.",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PLATH GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Poczta Polska",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "POLANA Henryk Tarasiuk",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Politechnika Łódzka, Instytut Informatyki Stosowanej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Politechnika Świętokrzyska",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "POL-MARE Sp. z o.o. Sp.k.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "POL-MOT RAIL Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Polska Izba Producentów na Rzecz Obronności Kraju",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Polska Zbrojna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Polski Holding Obronny",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Polskie Zakłady Lotnicze Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PRAKT Practical Equipment",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PRODUS S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PROFI-ELEKTRO Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PRONAL",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "PROSCAN Wojciech Cieślak",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "PROTEKTOR S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Przedsiębiorstwo PREXER Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Przegląd Obrony Cywilnej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Przemysłowy Instytut Automatyki i Pomiarów PIAP",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "RADIOTECHNIKA Marketing Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "RADMOR S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Rafael",
-      "country": "Israel / Izrael"
+      "country": {
+        "text": "Israel / Izrael",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Raport",
@@ -1104,111 +1923,196 @@
     },
     {
       "name": "Raytheon Company",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RENISHAW Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "RENK FRANCE",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "REVUE THOMMEN AG",
-      "country": "Switzerland / Szwajcaria"
+      "country": {
+        "text": "Switzerland / Szwajcaria",
+        "iso2": "CH"
+      }
     },
     {
       "name": "Rheinmetall Waffe Munition GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Rockwell Collins",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "Roda Mildef",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Rohde & Schwarz Osterreich Sp. z o.o. Przedstawicielstwo w Polsce",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ROKETSAN",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "ROXEL",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "RSG Connexion",
-      "country": "Sweden / Szwecja"
+      "country": {
+        "text": "Sweden / Szwecja",
+        "iso2": "SE"
+      }
     },
     {
       "name": "RUAG AG",
-      "country": "Switzerland / Szwajcaria"
+      "country": {
+        "text": "Switzerland / Szwajcaria",
+        "iso2": "CH"
+      }
     },
     {
       "name": "RUUKKI POLSKA sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Saab AB",
-      "country": "Sweden / Szwecja"
+      "country": {
+        "text": "Sweden / Szwecja",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SAGEM",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SARSILMAZ",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "SCANIA POLSKA S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Schleifring und Apparatebau GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "SCOTT Safety",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "SEI Industries Ltd.",
-      "country": "Canada / Kanada"
+      "country": {
+        "text": "Canada / Kanada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Selex ES,",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "SELLIER-BELLOT",
-      "country": "Czech Republic/ Czechy"
+      "country": {
+        "text": "Czech Republic/ Czechy",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "Sikorsky Aircraft Corporation",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SILTEC Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Skrzydlata Polska",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Small Arms Defence",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SMITHS DETECTION",
-      "country": "Great Britain/ Wielka Brytania"
+      "address": {
+        "text": "Great Britain/ Wielka Brytania",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "SPC",
@@ -1216,327 +2120,576 @@
     },
     {
       "name": "SPECIAL OPS",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Specops Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "STAR SAN-DUO PPHU",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "STAUBLI ŁÓDŹ Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "STEINER-OPTIK",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Stocznia Marynarki Wojennej S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Stowarzyszenie Dostawców na Rzecz Służb Mundurowych",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Stowarzyszenie im. Generała Petelickiego",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Stowarzyszenie Rannych i Poszkodowanych w Misjach Poza Granicami Kraju",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Stowarzyszenie Rodzin Poległych Żołnierzy “Pamięć i Przyszłość”",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "STRZAŁ Miesięcznik",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "SUMMIT POLSKA Systemy Halowe Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "SUMMIT S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Szczęśniak Pojazdy Specjalne Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Sztab Generalny Wojska Polskiego",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "T&G ELEKTRO AS",
-      "country": "Norway / Norwegia"
+      "country": {
+        "text": "Norway / Norwegia",
+        "iso2": "NO"
+      }
     },
     {
       "name": "TAI",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TARMAX Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TATRA EXPORT s.r.o.",
-      "country": "Czech Republic/ Czechy"
+      "country": {
+        "text": "Czech Republic/ Czechy",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TDM Electronics S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TECHNO MARINE Sp.z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Technokabel S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Technokontakt Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TEI",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TELDAT Sp. Jawna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TELEFLOW",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Telespazio",
-      "country": "Italy / Włochy"
+      "country": {
+        "text": "Italy / Włochy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "TENEO 3000 s.r.o.",
-      "country": "Czech Republic/ Czechy"
+      "country": {
+        "text": "Czech Republic/ Czechy",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TESPOL Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "THALES",
-      "country": "France / Francja"
+      "country": {
+        "text": "France / Francja",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Thales Norway",
-      "country": "Norway / Norwegia"
+      "country": {
+        "text": "Norway / Norwegia",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Thyssenkrupp Rothe Erde GmbH",
-      "country": "Germany / Niemcy"
+      "country": {
+        "text": "Germany / Niemcy",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Towarzystwo Wiedzy Obronnej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Transition Technologies S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Tritech System Technology Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TTcomm S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "TUBITAK",
-      "country": "BILGEM"
+      "address": {
+        "text": "BILGEM",
+        "iso2": "TR",
+        "lat": 40.7859799,
+        "lon": 29.4471021
+      }
     },
     {
       "name": "Undersecretariat for Defence Industries (SSM)",
-      "country": "Turkey / Turcja"
+      "country": {
+        "text": "Turkey / Turcja",
+        "iso2": "TR"
+      }
     },
     {
       "name": "UNITRONEX POLAND SP. Z O.O.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "URSUS S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "VANTORO",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Vectronix AG",
-      "country": "Switzerland / Szwajcaria"
+      "country": {
+        "text": "Switzerland / Szwajcaria",
+        "iso2": "CH"
+      }
     },
     {
       "name": "ViaSat Inc.",
-      "country": "USA"
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "VOLVO DEFENSE AB",
-      "country": "Sweden / Szwecja"
+      "country": {
+        "text": "Sweden / Szwecja",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Vorrens s.r.o.",
-      "country": "Czechy/ Czech Republic"
+      "country": {
+        "text": "Czechy/ Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "W.L. GORE & ASSOCIATES Polska Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WB Electronics S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WEBASTO PETEMAR Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WISPORT Wiesław Ściegienko",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowa Akademia Techniczna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Centralne Biuro Konstrukcyjno Technologiczne S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Elektroniczne S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WOJSKOWE ZAKŁADY INŻYNIERYJNE S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Lotnicze nr 1 S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Lotnicze nr 2 S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Lotnicze nr 4 S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Łączności nr 1 S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Łączności nr 2 S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Mechaniczne S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Motoryzacyjne Spółka Akcyjna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowe Zakłady Uzbrojenia S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Chemii i Radiometrii",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Łączności im. prof. Janusza Groszkowskiego",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Techniczny Uzbrojenia",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Techniki Inżynieryjnej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Techniki Pancernej i Samochodowej",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Wojskowy Instytut Wydawniczy",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WORKS 11",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WSK \"PZL-KALISZ\" S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "WSK PZL",
-      "country": "RZESZÓW S.A."
+      "address": {
+        "text": "RZESZÓW S.A.",
+        "iso2": "PL",
+        "lat": 50.0411867,
+        "lon": 21.9991196
+      }
     },
     {
       "name": "Wydział Cybernetyki, Wojskowa Akademia Techniczna",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "YAGAL Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Z.P.H. Wyrób Akcesoriów Myśliwskich Jolanta Łuszczek",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakład WTÓRPLAST Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakłady Chemiczne NITRO-CHEM S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakłady Mechaniczne BUMAR ŁABĘDY S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakłady Mechaniczne TARNÓW S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakłady Metalowe DEZAMET S.A.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "Zakłady Produkcji Specjalnej GAMRAT Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     },
     {
       "name": "ZAMET",
-      "country": "GŁOWNO"
+      "address": {
+        "text": "GŁOWNO",
+        "iso2": "PL",
+        "lat": 51.9643,
+        "lon": 19.71565
+      }
     },
     {
       "name": "ZMC Engineering Sp. z o.o.",
-      "country": "Polska"
+      "country": {
+        "text": "Polska",
+        "iso2": "PL"
+      }
     }
   ]
 }

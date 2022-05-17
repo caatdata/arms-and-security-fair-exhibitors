@@ -4,8 +4,13 @@
   "edition": "2013",
   "startDate": "2013-09-11",
   "endDate": "2013-09-13",
-  "address": "Kuala Lumpur Convention Centre\nKuala Lumpur",
-  "website": "http://ifsecsea.com/",
+  "address": {
+    "text": "Kuala Lumpur Convention Centre\nKuala Lumpur",
+    "iso2": "MY",
+    "lat": 3.153003,
+    "lon": 101.7128272
+  },
+  "website": "http://ifsecsea.com",
   "organiser": [
     {
       "name": "UBM",

@@ -5,7 +5,12 @@
   "alias": "Doha International Maritime Defence Exhibition and Conference 2022",
   "startDate": "2022-03-21",
   "endDate": "2022-03-23",
-  "address": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+  "address": {
+    "text": "Qatar National Convention Centre (QNCC)\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.3204813,
+    "lon": 51.4385756
+  },
   "website": "http://www.dimdex.com",
   "social": [
     {
@@ -32,28 +37,39 @@
   "exhibitor": [
     {
       "name": "A101",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=753",
       "category": [
         "others"
       ],
-      "address": "964\nDoha\nQatar",
+      "address": {
+        "text": "964\nDoha\nQatar",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      },
       "telephone": "30296180"
     },
     {
       "name": "ADVANCED NAVIGATION PTY LTD",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=728",
       "category": [
         "Navigation systems"
       ],
-      "address": "Level 12, 255 George Street, NSW\nSydney\nUnited Kingdom",
+      "address": {
+        "text": "Level 12, 255 George Street, NSW\nSydney\nUnited Kingdom",
+        "iso2": "AU",
+        "lat": -33.8636076,
+        "lon": 151.207072
+      },
       "telephone": "+447308991057",
       "website": "http://https//www.advancednavigation.com/"
     },
     {
       "name": "AEROMARITIME Systembau GmbH",
-      "country": "Germany",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=661",
       "category": [
         "Naval equipment",
@@ -62,24 +78,32 @@
         "Services & industrial and technical support",
         "Training – simulation"
       ],
-      "address": "Neufahrn b. Freising Ludwig-Erhard-Str. 16\nNeufahrn b. Freising\nGermany",
+      "address": {
+        "text": "Neufahrn b. Freising Ludwig-Erhard-Str. 16\nNeufahrn b. Freising\nGermany",
+        "iso2": "DE",
+        "lat": 48.31171,
+        "lon": 11.64702
+      },
       "telephone": "+49 8165 6171 0",
-      "website": "http://www.aeromaritime.de/"
+      "website": "http://www.aeromaritime.de"
     },
     {
       "name": "AIAD",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=602",
       "category": [
         "others"
       ],
-      "address": "VIA NAZIONALE 54\nROME\nItaly",
+      "address": {
+        "text": "VIA NAZIONALE 54\nROME\nItaly",
+        "iso2": "IT",
+        "lat": 41.8996697,
+        "lon": 12.4919371
+      },
       "telephone": "3356603206",
-      "website": "http://www.aiad.it/"
+      "website": "http://www.aiad.it"
     },
     {
       "name": "AIRBUS",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=589",
       "category": [
         "Combat systems",
@@ -88,13 +112,17 @@
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "Al-Gassar tower, Street 920, Building 27 Zone 63, Onaiza\nDoha\n24682\nQatar",
+      "address": {
+        "text": "Al-Gassar tower, Street 920, Building 27 Zone 63, Onaiza\nDoha\n24682\nQatar",
+        "iso2": "QA",
+        "lat": 25.3180485,
+        "lon": 51.5231393
+      },
       "telephone": "+974 4459 2313",
-      "website": "http://www.airbus.com/"
+      "website": "http://www.airbus.com"
     },
     {
       "name": "ALSEAMAR",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=590",
       "category": [
         "Naval equipment",
@@ -102,13 +130,17 @@
         "Sensors & surveillance systems",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "60 Avenue Olivier Perroy\nROUSSET\nFrance",
+      "address": {
+        "text": "60 Avenue Olivier Perroy\nROUSSET\nFrance",
+        "iso2": "FR",
+        "lat": 43.4685036,
+        "lon": 5.6125725
+      },
       "telephone": "+33(0)671149881",
       "website": "http://https//www.alseamar-alcen.com/"
     },
     {
       "name": "ARES SHIPYARD",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=574",
       "category": [
         "Maritime safety & coastal security",
@@ -116,13 +148,17 @@
         "Naval design & production",
         "Unmanned systems"
       ],
-      "address": "ANTALYA FREE ZONE, 07070 ANTALYA, TURKEY\nANTALYA\nTurkey",
+      "address": {
+        "text": "ANTALYA FREE ZONE, 07070 ANTALYA, TURKEY\nANTALYA\nTurkey",
+        "iso2": "TR",
+        "lat": 36.8968908,
+        "lon": 30.7133233
+      },
       "telephone": "+902422616161",
-      "website": "http://www.ares.global/"
+      "website": "http://www.ares.global"
     },
     {
       "name": "ARMELSAN",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=681",
       "category": [
         "Maritime safety & coastal security",
@@ -131,13 +167,17 @@
         "Naval equipment",
         "Unmanned systems"
       ],
-      "address": "POSTANE MAH. OKANDAN SOK. VILLA NO:10 TUZLA/ISTANBUL/TURKEY\nISTANBUL\nTurkey",
+      "address": {
+        "text": "POSTANE MAH. OKANDAN SOK. VILLA NO:10 TUZLA/ISTANBUL/TURKEY\nISTANBUL\nTurkey",
+        "iso2": "TR",
+        "lat": 40.817471,
+        "lon": 29.2764957
+      },
       "telephone": "+902125276222",
-      "website": "http://www.armelsan.com/"
+      "website": "http://www.armelsan.com"
     },
     {
       "name": "ASELSAN",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=601",
       "category": [
         "Combat systems",
@@ -153,13 +193,17 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Mehmet Akif Ersoy Mah. Istiklal Marsi Cad. No:16\nAnkara\n1\nTurkey",
+      "address": {
+        "text": "Mehmet Akif Ersoy Mah. Istiklal Marsi Cad. No:16\nAnkara\n1\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9686057,
+        "lon": 32.77177
+      },
       "telephone": "+90 312 592 60 00",
-      "website": "http://www.aselsan.com/"
+      "website": "http://www.aselsan.com"
     },
     {
       "name": "ASFAT",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=706",
       "category": [
         "Naval and commercial shipbuilding",
@@ -168,13 +212,17 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Mustafa Kemal Mah. Dumlupınar Bulvarı No: 252 TOBB İkiz Kuleleri C Blok Kat:21-22-23 Çankaya Ankara\nANKARA\nTurkey",
+      "address": {
+        "text": "Mustafa Kemal Mah. Dumlupınar Bulvarı No: 252 TOBB İkiz Kuleleri C Blok Kat:21-22-23 Çankaya Ankara\nANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9098918,
+        "lon": 32.7614145
+      },
       "telephone": "+905327859325",
-      "website": "http://www.asfat.com.tr/"
+      "website": "http://www.asfat.com.tr"
     },
     {
       "name": "AUSTAL LIMITED",
-      "country": "Australia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=702",
       "category": [
         "Naval and commercial shipbuilding",
@@ -183,55 +231,79 @@
         "Personnel training",
         "Unmanned systems"
       ],
-      "address": "100 Clarence Beach Road\nHenderson\nAustralia",
+      "address": {
+        "text": "100 Clarence Beach Road\nHenderson\nAustralia",
+        "iso2": "AU",
+        "lat": -32.1447948,
+        "lon": 115.7675012
+      },
       "telephone": "+610473747043",
       "website": "http://https//www.austal.com/"
     },
     {
       "name": "Advanced Fluid Power W.L.L.",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=664",
       "category": [
         "Naval and commercial shipbuilding",
         "Naval design & production",
         "Naval equipment"
       ],
-      "address": "Building No-1 Office No-36,37 Barwa Village Al Wakra Doha-Qatar\nDoha\n201382\nQatar",
+      "address": {
+        "text": "Building No-1 Office No-36,37 Barwa Village Al Wakra Doha-Qatar\nDoha\n201382\nQatar",
+        "iso2": "QA",
+        "lat": 25.2119887,
+        "lon": 51.5794305
+      },
       "telephone": "+974 55326445",
       "website": "http://https//www.afp-qatar.com"
     },
     {
       "name": "Aeralis",
-      "country": "United Kingdom",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=639",
       "category": [
         "others",
         "Training – simulation"
       ],
-      "address": "Bury Lodge, Bury Road\nStowmarket\nUnited Kingdom",
+      "address": {
+        "text": "Bury Lodge, Bury Road\nStowmarket\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1922519,
+        "lon": 0.9937838
+      },
       "telephone": "07703319010",
-      "website": "http://www.aeralis.com/"
+      "website": "http://www.aeralis.com"
     },
     {
       "name": "Aeromag",
-      "country": "India",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=674",
       "category": [
         "others"
       ],
-      "address": "Aeromag Asia, Aeronautical Society of India Building, Suranjandas Road, Off Old Madras Road, Bangalore 560075,Karnataka, India\nBangalore\nIndia",
+      "address": {
+        "text": "Aeromag Asia, Aeronautical Society of India Building, Suranjandas Road, Off Old Madras Road, Bangalore 560075,Karnataka, India\nBangalore\nIndia",
+        "iso2": "IN",
+        "lat": 12.986385,
+        "lon": 77.6478247
+      },
       "telephone": "09449061925",
-      "website": "http://www.aeromagonline.com/"
+      "website": "http://www.aeromagonline.com"
     },
     {
       "name": "Al Defaiya",
-      "country": "Lebanon",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=673",
-      "address": "Lebanon"
+      "country": [
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        },
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=673"
     },
     {
       "name": "Al Faisal International Business & Security Services",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=583",
       "category": [
         "Combat systems",
@@ -239,36 +311,60 @@
         "Training – simulation",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Ibn Mahmoud St., Amara Tower, Bldg. No. 73, First Floor Office No. 104 Zone 22 Street 930 Bin Mahmoud Doha, Qatar\nDoha\n17683\nQatar",
+      "address": {
+        "text": "Ibn Mahmoud St., Amara Tower, Bldg. No. 73, First Floor Office No. 104 Zone 22 Street 930 Bin Mahmoud Doha, Qatar\nDoha\n17683\nQatar",
+        "iso2": "QA",
+        "lat": 25.3227316,
+        "lon": 51.5220602
+      },
       "telephone": "+974 4482 3937",
-      "website": "http://www.alfaisalsecurity.com/"
+      "website": "http://www.alfaisalsecurity.com"
     },
     {
       "name": "Al Zaeem Air Academy",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=668",
       "category": [
         "Personnel training",
         "Training – simulation"
       ],
-      "address": "Al Zaeem Mohammed Bin Abdullah Al Attiyah Air Academy Al-Udaid Army Camp, Doha - Qatar\nDoha\n37\nQatar",
+      "address": {
+        "text": "Al Zaeem Mohammed Bin Abdullah Al Attiyah Air Academy Al-Udaid Army Camp, Doha - Qatar\nDoha\n37\nQatar",
+        "iso2": "QA",
+        "lat": 25.0980892,
+        "lon": 51.3504142
+      },
       "telephone": "+974 446 17735"
     },
     {
       "name": "Anadolu Shipyard",
-      "country": "Turkey",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=575",
-      "address": "Turkey"
+      "country": [
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        },
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=575"
     },
     {
       "name": "Army Recognition",
-      "country": "Belgium",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=676",
-      "address": "Belgium"
+      "country": [
+        {
+          "text": "Belgium",
+          "iso2": "BE"
+        },
+        {
+          "text": "Belgium",
+          "iso2": "BE"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=676"
     },
     {
       "name": "Atlas Elektronik UK",
-      "country": "United Kingdom",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=740",
       "category": [
         "Combat systems",
@@ -277,20 +373,28 @@
         "Research and development",
         "Unmanned systems"
       ],
-      "address": "Dorset Innovation Park Newburgh\nWinfrith Newburgh\nUnited Kingdom",
+      "address": {
+        "text": "Dorset Innovation Park Newburgh\nWinfrith Newburgh\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.6817398,
+        "lon": -2.2564237
+      },
       "telephone": "013052122535"
     },
     {
       "name": "Atos Qatar",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=598",
-      "address": "Atos Qatar LLC QFB Building, Level 3 Al Sadd Area Zone 38\nDoha\nQatar",
+      "address": {
+        "text": "Atos Qatar LLC QFB Building, Level 3 Al Sadd Area Zone 38\nDoha\nQatar",
+        "iso2": "QA",
+        "lat": 25.2893206,
+        "lon": 51.5058774
+      },
       "telephone": "+974 44478183",
       "website": "http://https//atos.net/en/atos-qatar"
     },
     {
       "name": "BAE Systems plc",
-      "country": "United Kingdom",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=580",
       "category": [
         "Combat systems",
@@ -299,32 +403,48 @@
         "Port & harbour activities",
         "Training – simulation"
       ],
-      "address": "BAE Systems, Farnborough Aerospace Centre Government House Road\nFarnborough\nUnited Kingdom",
+      "address": {
+        "text": "BAE Systems, Farnborough Aerospace Centre Government House Road\nFarnborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2740355,
+        "lon": -0.7670273
+      },
       "telephone": "01252373232",
-      "website": "http://baesystems.com/"
+      "website": "http://baesystems.com"
     },
     {
       "name": "BINDIG",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=628",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=628"
     },
     {
       "name": "BMC Otomotiv Sanayi ve Ticaret A.Ş.",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=631",
       "category": [
         "Combat systems",
         "Logistics management and support systems",
         "Unmanned systems"
       ],
-      "address": "KEMALPASA CAD. NO:288 PINARBASI / BORNOVA\nIZMIR\nTurkey",
+      "address": {
+        "text": "KEMALPASA CAD. NO:288 PINARBASI / BORNOVA\nIZMIR\nTurkey",
+        "iso2": "TR",
+        "lat": 38.4386859,
+        "lon": 27.255358
+      },
       "telephone": "+90232477 18 00",
-      "website": "http://bmc.com.tr/"
+      "website": "http://bmc.com.tr"
     },
     {
       "name": "BQ Solution",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=636",
       "category": [
         "Electronic warfare",
@@ -333,31 +453,59 @@
         "Project management, support and consulting services",
         "Unmanned systems"
       ],
-      "address": "Burj Doha, Floor 30, Al-Corniche Street, Doha, Qatar\nDoha\nQatar",
+      "address": {
+        "text": "Burj Doha, Floor 30, Al-Corniche Street, Doha, Qatar\nDoha\nQatar",
+        "iso2": "QA",
+        "lat": 25.3174749,
+        "lon": 51.5283966
+      },
       "telephone": "+974 33135977",
-      "website": "http://www.bqsolutions.org/"
+      "website": "http://www.bqsolutions.org"
     },
     {
       "name": "Barood Ammunition Factory",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=629",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=629"
     },
     {
       "name": "Barzan Aeronautical",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=640",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=640"
     },
     {
       "name": "Barzan Holdings",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=624",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=624"
     },
     {
       "name": "Barzan Industrial Group",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=627",
       "category": [
         "Combat systems",
@@ -366,12 +514,16 @@
         "Research and development",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Tech 4 – QSTP – Building 101\nDoha\n7178\nQatar",
+      "address": {
+        "text": "Tech 4 – QSTP – Building 101\nDoha\n7178\nQatar",
+        "iso2": "QA",
+        "lat": 25.3280235,
+        "lon": 51.43624149999999
+      },
       "telephone": "+974-40070205"
     },
     {
       "name": "Barzan Kongsberg System",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=632",
       "category": [
         "Combat systems",
@@ -380,58 +532,90 @@
         "Navigation systems",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "c/o Servcorp Burj Doha, Level 21 Al Corniche Street\nDoha\nc/o Servcorp, P.O. Box 27110\nQatar",
+      "address": {
+        "text": "c/o Servcorp Burj Doha, Level 21 Al Corniche Street\nDoha\nc/o Servcorp, P.O. Box 27110\nQatar",
+        "iso2": "QA",
+        "lat": 25.3177144,
+        "lon": 51.5300667
+      },
       "telephone": "+974 3133 4441",
       "website": "http://www.kongsberg.com/kda"
     },
     {
       "name": "Barzan Maintenance Shield",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=630",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=630"
     },
     {
       "name": "BlackSky",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=653",
       "category": [
         "Sensors & surveillance systems"
       ],
-      "address": "13241 Woodland Park Road, Suite 300\nHerndon\nUnited States",
-      "website": "http://www.blacksky.com/"
+      "address": {
+        "text": "13241 Woodland Park Road, Suite 300\nHerndon\nUnited States",
+        "iso2": "US",
+        "lat": 38.95225800000001,
+        "lon": -77.40324799999999
+      },
+      "website": "http://www.blacksky.com"
     },
     {
       "name": "Buono Qatar",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=711",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=711"
     },
     {
       "name": "BİTES",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=717",
       "category": [
         "others",
         "Research and development",
         "Training – simulation"
       ],
-      "address": "Çankaya\nAnkara\nTurkey",
+      "address": {
+        "text": "Çankaya\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8451842,
+        "lon": 32.9212265
+      },
       "telephone": "0533 085 72 77",
       "website": "http://https//www.bites.com.tr/"
     },
     {
       "name": "CAE",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=577",
       "category": [
         "Training – simulation"
       ],
-      "address": "4908 Tampa W blvd\nTampa\nUnited States",
+      "address": {
+        "text": "4908 Tampa W blvd\nTampa\nUnited States",
+        "iso2": "US",
+        "lat": 28.0206751,
+        "lon": -82.531598
+      },
       "telephone": "813 517-2195"
     },
     {
       "name": "CETC International Co., LTD",
-      "country": "China",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=693",
       "category": [
         "Electronic warfare",
@@ -440,11 +624,25 @@
         "Unmanned systems",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "CETC Mansion,No.5 Wulutong North Street, Xicheng District, Beijing\nBeijing\nChina"
+      "address": {
+        "text": "CETC Mansion,No.5 Wulutong North Street, Xicheng District, Beijing\nBeijing\nChina",
+        "iso2": "CN",
+        "lat": 39.96067,
+        "lon": 116.38232
+      }
     },
     {
       "name": "CS GROUP",
-      "country": "France",
+      "country": [
+        {
+          "text": "France",
+          "iso2": "FR"
+        },
+        {
+          "text": "France",
+          "iso2": "FR"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=660",
       "category": [
         "Navigation systems",
@@ -452,23 +650,25 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "France",
-      "website": "http://www.csgroup.eu/"
+      "website": "http://www.csgroup.eu"
     },
     {
       "name": "Chanakya Aerospace Defence and Maritime Review",
-      "country": "India",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=675",
       "category": [
         "others"
       ],
-      "address": "7/13, Kalkaji Extension,\nNew Delhi\nIndia",
+      "address": {
+        "text": "7/13, Kalkaji Extension,\nNew Delhi\nIndia",
+        "iso2": "IN",
+        "lat": 28.5421788,
+        "lon": 77.2567012
+      },
       "telephone": "91-9810965897",
-      "website": "http://www.chanakyaaerospacedefence.com/"
+      "website": "http://www.chanakyaaerospacedefence.com"
     },
     {
       "name": "China National Precision Machinery Import & Export Corporation (CPMIEC)",
-      "country": "China",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=585",
       "category": [
         "Mariners weapons & equipment",
@@ -476,12 +676,16 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "No.30 Haidian Nanlu, Haidian District, Beijing, China\nBEIJING\nChina",
+      "address": {
+        "text": "No.30 Haidian Nanlu, Haidian District, Beijing, China\nBEIJING\nChina",
+        "iso2": "CN",
+        "lat": 39.9756037,
+        "lon": 116.3094455
+      },
       "telephone": "010-68748863"
     },
     {
       "name": "DCI Group",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=591",
       "category": [
         "Electronic warfare",
@@ -490,13 +694,17 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "27-29 rue Leblanc\nPARIS\nFrance",
+      "address": {
+        "text": "27-29 rue Leblanc\nPARIS\nFrance",
+        "iso2": "FR",
+        "lat": 48.8398922,
+        "lon": 2.2740142
+      },
       "telephone": "+33144952600",
-      "website": "http://www.groupedci.com/"
+      "website": "http://www.groupedci.com"
     },
     {
       "name": "DEARSAN SHIPYARD",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=573",
       "category": [
         "Maritime safety & coastal security",
@@ -513,13 +721,17 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Aydıntepe Mah. Rauf Orbay Cad. No:2, Tuzla\nIstanbul\nTurkey",
+      "address": {
+        "text": "Aydıntepe Mah. Rauf Orbay Cad. No:2, Tuzla\nIstanbul\nTurkey",
+        "iso2": "TR",
+        "lat": 40.84573779999999,
+        "lon": 29.2929514
+      },
       "telephone": "+902163957575",
-      "website": "http://www.dearsan.com/"
+      "website": "http://www.dearsan.com"
     },
     {
       "name": "DEFENCE AND AEROSPACE INDUSTRY EXPORTERS ASSOCIATION (SSI)",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=735",
       "category": [
         "Combat systems",
@@ -528,55 +740,91 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "CEYHUN ATUF KANSU STREET, 120\nANKARA\nTurkey",
+      "address": {
+        "text": "CEYHUN ATUF KANSU STREET, 120\nANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8904808,
+        "lon": 32.8159851
+      },
       "telephone": "+903124472740 (Ext:141)",
       "website": "http://https//search.ssi.gov.tr/"
     },
     {
       "name": "DESAN Shipyard",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=620",
       "category": [
         "Naval and commercial shipbuilding",
         "Naval design & production"
       ],
-      "address": "Tersaneler Cad. No:36 Evliya Çelebi DESAN TERSANESI\nTuzla\nTurkey",
+      "address": {
+        "text": "Tersaneler Cad. No:36 Evliya Çelebi DESAN TERSANESI\nTuzla\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8358054,
+        "lon": 29.2705763
+      },
       "telephone": "00905332702771",
-      "website": "http://www.desan-shipyard.com/"
+      "website": "http://www.desan-shipyard.com"
     },
     {
       "name": "DIMDEX 2024",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=606",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=606"
     },
     {
       "name": "DOEN WATERJETS",
-      "country": "Australia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=700",
       "category": [
         "Propulsion systems"
       ],
-      "address": "33 Venture Way BRAESIDE 3195\nMelbourne\nAustralia",
+      "address": {
+        "text": "33 Venture Way BRAESIDE 3195\nMelbourne\nAustralia",
+        "iso2": "AU",
+        "lat": -37.9990561,
+        "lon": 145.1180563
+      },
       "telephone": "+61 3 9587 3944",
-      "website": "http://doen.com/"
+      "website": "http://doen.com"
     },
     {
       "name": "DORÇE",
-      "country": "Turkey",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=719",
-      "address": "Turkey"
+      "country": [
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        },
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=719"
     },
     {
       "name": "DRONESHIELD LIMITED",
-      "country": "Australia",
+      "country": [
+        {
+          "text": "Australia",
+          "iso2": "AU"
+        },
+        {
+          "text": "Australia",
+          "iso2": "AU"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=697",
-      "address": "Australia",
       "telephone": "0412044594"
     },
     {
       "name": "Dahra Global Technologies & Consultancy Services WLL",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=584",
       "category": [
         "Marine power plants, ship systems and facilities, auxiliary machinery",
@@ -585,19 +833,31 @@
         "Project management, support and consulting services",
         "Training – simulation"
       ],
-      "address": "Dahra Global Building No. 164, Street 230, C-Ring Road, Doha\nDoha\n35079\nQatar",
+      "address": {
+        "text": "Dahra Global Building No. 164, Street 230, C-Ring Road, Doha\nDoha\n35079\nQatar",
+        "iso2": "QA",
+        "lat": 25.2671057,
+        "lon": 51.51555279999999
+      },
       "telephone": "40356600",
-      "website": "http://www.dahraglobal.com/"
+      "website": "http://www.dahraglobal.com"
     },
     {
       "name": "Defence 21",
-      "country": "Lebanon",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=671",
-      "address": "Lebanon"
+      "country": [
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        },
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=671"
     },
     {
       "name": "Defence Export Promotion Organization (DEPO)",
-      "country": "Pakistan",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=695",
       "category": [
         "Naval design & production",
@@ -605,19 +865,31 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "DCI Complex, Sector E-10\nIslamabad\nPakistan",
+      "address": {
+        "text": "DCI Complex, Sector E-10\nIslamabad\nPakistan",
+        "iso2": "PK",
+        "lat": 33.7109912,
+        "lon": 73.004661
+      },
       "telephone": "+923322221242",
-      "website": "http://www.depo.gov.pk/"
+      "website": "http://www.depo.gov.pk"
     },
     {
       "name": "Defence Turkey",
-      "country": "Turkey",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=669",
-      "address": "Turkey"
+      "country": [
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        },
+        {
+          "text": "Turkey",
+          "iso2": "TR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=669"
     },
     {
       "name": "Defensa Project Support & Supply Co.",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=582",
       "category": [
         "Logistics management and support systems",
@@ -628,13 +900,17 @@
         "Navigation systems",
         "Services & industrial and technical support"
       ],
-      "address": "Street 25, Bldg 155, Zone 57 Industrial Area\nDoha\n23859\nQatar",
+      "address": {
+        "text": "Street 25, Bldg 155, Zone 57 Industrial Area\nDoha\n23859\nQatar",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      },
       "telephone": "4407 1600",
-      "website": "http://www.defensaproject.com/"
+      "website": "http://www.defensaproject.com"
     },
     {
       "name": "ELEKTROLAND",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=707",
       "category": [
         "Personnel training",
@@ -643,57 +919,77 @@
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "INCEK MAHALLESI AKBULUT CADDESI NO:18 GOLBASI/ANKARA - TURKIYE\nANKARA\nTurkey",
+      "address": {
+        "text": "INCEK MAHALLESI AKBULUT CADDESI NO:18 GOLBASI/ANKARA - TURKIYE\nANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.78785,
+        "lon": 32.682364
+      },
       "telephone": "+903124601622",
-      "website": "http://www.elektrolanddefence.com/"
+      "website": "http://www.elektrolanddefence.com"
     },
     {
       "name": "ELETTRONICA SPA",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=604",
       "category": [
         "Electronic warfare",
         "Training – simulation"
       ],
-      "address": "Via Tiburtina Valeria Km 13,700\nRome\nItaly",
-      "website": "http://www.elettronicagroup.com/"
+      "address": {
+        "text": "Via Tiburtina Valeria Km 13,700\nRome\nItaly",
+        "iso2": "IT",
+        "lat": 41.9257409,
+        "lon": 12.5738986
+      },
+      "website": "http://www.elettronicagroup.com"
     },
     {
       "name": "Edraq",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=633",
       "category": [
         "others",
         "Research and development"
       ],
-      "address": "Edraq QSTP-LLC Office 337 PO Box 7178 Qatar Science and Technology Park Al Luqta Street Ar Rayyan\nDoha\n7178\nQatar",
+      "address": {
+        "text": "Edraq QSTP-LLC Office 337 PO Box 7178 Qatar Science and Technology Park Al Luqta Street Ar Rayyan\nDoha\n7178\nQatar",
+        "iso2": "QA",
+        "lat": 25.3252766,
+        "lon": 51.4375992
+      },
       "telephone": "+974 40 364 280",
       "website": "http://https//edraq.com.qa/"
     },
     {
       "name": "Esetron",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=736",
       "category": [
         "others",
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "Ivedik OSB Mah. 2224. Cad. Teknopark Ankara C Blok 5. Kat No: 518\nYENİMAHALLE\nTurkey",
+      "address": {
+        "text": "Ivedik OSB Mah. 2224. Cad. Teknopark Ankara C Blok 5. Kat No: 518\nYENİMAHALLE\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9963578,
+        "lon": 32.7523305
+      },
       "telephone": "+905332391576",
-      "website": "http://www.esetron.com.tr/"
+      "website": "http://www.esetron.com.tr"
     },
     {
       "name": "EshailSat - Qatar Satellite Company",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=714",
-      "address": "Area No. 31, Umm Lakbah Al Markhiya Street\nDoha\n10653\nQatar",
+      "address": {
+        "text": "Area No. 31, Umm Lakbah Al Markhiya Street\nDoha\n10653\nQatar",
+        "iso2": "QA",
+        "lat": 25.3348956,
+        "lon": 51.4924131
+      },
       "telephone": "+97444993535",
-      "website": "http://www.eshailsat.qa/"
+      "website": "http://www.eshailsat.qa"
     },
     {
       "name": "FINCANTIERI SPA",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=605",
       "category": [
         "Logistics management and support systems",
@@ -702,12 +998,16 @@
         "Project management, support and consulting services",
         "Training – simulation"
       ],
-      "address": "Via Genova 1\nTrieste\nItaly",
+      "address": {
+        "text": "Via Genova 1\nTrieste\nItaly",
+        "iso2": "IT",
+        "lat": 45.6520988,
+        "lon": 13.769963
+      },
       "website": "http://https//www.fincantieri.com/"
     },
     {
       "name": "FORA GRUP SAVUNMA",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=680",
       "category": [
         "others",
@@ -715,13 +1015,17 @@
         "Search and rescue equipment",
         "Training – simulation"
       ],
-      "address": "Mustafa Kemal Mah. 2141.Cad Molmed Plaza 15/10\nANKARA\nTurkey",
+      "address": {
+        "text": "Mustafa Kemal Mah. 2141.Cad Molmed Plaza 15/10\nANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9163538,
+        "lon": 32.7700219
+      },
       "telephone": "00905325437348",
-      "website": "http://www.foragroup.com/"
+      "website": "http://www.foragroup.com"
     },
     {
       "name": "Flex Force",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=705",
       "category": [
         "Combat systems",
@@ -730,13 +1034,17 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "2250 NW 22nd Ave. #412\nPortland\nUnited States",
+      "address": {
+        "text": "2250 NW 22nd Ave. #412\nPortland\nUnited States",
+        "iso2": "US",
+        "lat": 45.53888380000001,
+        "lon": -122.6964558
+      },
       "telephone": "+1 503 770-0700",
-      "website": "http://www.flexforce.us/"
+      "website": "http://www.flexforce.us"
     },
     {
       "name": "Gem Elettronica S.r.l.",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=647",
       "category": [
         "Combat systems",
@@ -744,38 +1052,62 @@
         "Navigation systems",
         "Sensors & surveillance systems"
       ],
-      "address": "Via Amerigo Vesppucci, 9\nSan Benedetto del Tronto\n212\nItaly",
+      "address": {
+        "text": "Via Amerigo Vesppucci, 9\nSan Benedetto del Tronto\n212\nItaly",
+        "iso2": "IT",
+        "lat": 42.9602224,
+        "lon": 13.8822172
+      },
       "telephone": "+39073559051",
-      "website": "http://www.gemrad.com/"
+      "website": "http://www.gemrad.com"
     },
     {
       "name": "General Atomics Aeronautical",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=685",
       "category": [
         "Maritime safety & coastal security",
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "14200 Kirkham Way\nPoway, CA USA\nUnited States",
+      "address": {
+        "text": "14200 Kirkham Way\nPoway, CA USA\nUnited States",
+        "iso2": "US",
+        "lat": 32.9365926,
+        "lon": -117.0224907
+      },
       "telephone": "+1-858-312-2810",
       "website": "http://https//www.ga-asi.com"
     },
     {
       "name": "General Directorate of Coasts and Borders Security",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=658",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=658"
     },
     {
       "name": "Global Business Press Pte. Ltd.",
-      "country": "Singapore",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=677",
-      "address": "Singapore"
+      "country": [
+        {
+          "text": "Singapore",
+          "iso2": "SG"
+        },
+        {
+          "text": "Singapore",
+          "iso2": "SG"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=677"
     },
     {
       "name": "Global Industrial & Defence Solutions",
-      "country": "Pakistan",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=737",
       "category": [
         "Naval design & production",
@@ -784,37 +1116,49 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "GIDS, Complex II, Chaklala Garrison, Rawalpindi\nRawalpindi\nPakistan",
+      "address": {
+        "text": "GIDS, Complex II, Chaklala Garrison, Rawalpindi\nRawalpindi\nPakistan",
+        "iso2": "PK",
+        "lat": 33.6030584,
+        "lon": 73.0936509
+      },
       "telephone": "009251-9280061",
-      "website": "http://www.gids.com.pk/"
+      "website": "http://www.gids.com.pk"
     },
     {
       "name": "Gulf Bridge International",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=637",
       "category": [
         "others"
       ],
-      "address": "Science & Technology Park Tech 1 Level 2,Al Gharaffa Street, Al Rayyan\nDoha\nP.O. Box 210153\nQatar",
+      "address": {
+        "text": "Science & Technology Park Tech 1 Level 2,Al Gharaffa Street, Al Rayyan\nDoha\nP.O. Box 210153\nQatar",
+        "iso2": "QA",
+        "lat": 25.3409272,
+        "lon": 51.4513864
+      },
       "telephone": "+974 4009 4444",
-      "website": "http://wwww.gbiinc.com/"
+      "website": "http://wwww.gbiinc.com"
     },
     {
       "name": "Gulf Helicopters Company",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=600",
       "category": [
         "others",
         "Services & industrial and technical support",
         "Training – simulation"
       ],
-      "address": "Al Areesh Street, Ras Abu Abboud,Doha,Qatar\nDoha\n811\nQatar",
+      "address": {
+        "text": "Al Areesh Street, Ras Abu Abboud,Doha,Qatar\nDoha\n811\nQatar",
+        "iso2": "QA",
+        "lat": 25.278871,
+        "lon": 51.5610557
+      },
       "telephone": "66678496",
       "website": "http://https//www.gulfhelicopters.com/en.html"
     },
     {
       "name": "HAVELSAN",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=579",
       "category": [
         "Combat systems",
@@ -828,13 +1172,17 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "Mustafa Kemal Mahallesi 2120 Cad. No:39\nANKARA\nTurkey",
+      "address": {
+        "text": "Mustafa Kemal Mahallesi 2120 Cad. No:39\nANKARA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9138163,
+        "lon": 32.775598
+      },
       "telephone": "+903122195787",
       "website": "http://https//www.havelsan.com.tr/en"
     },
     {
       "name": "HOYTEK",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=727",
       "category": [
         "Maritime safety & coastal security",
@@ -842,65 +1190,115 @@
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "Hacettepe Teknokent 4.ARGE B Zemin 3 Beytepe\nAnkara\nTurkey",
+      "address": {
+        "text": "Hacettepe Teknokent 4.ARGE B Zemin 3 Beytepe\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8630021,
+        "lon": 32.7377611
+      },
       "telephone": "+905323661773",
-      "website": "http://www.hoytek.com.tr/"
+      "website": "http://www.hoytek.com.tr"
     },
     {
       "name": "Horizon Technologies",
-      "country": "United Kingdom",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=741",
-      "address": "United Kingdom"
+      "country": [
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        },
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=741"
     },
     {
       "name": "INTERMARINE SPA",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=607",
       "category": [
         "Naval and commercial shipbuilding",
         "Naval design & production"
       ],
-      "address": "Via Alta n.100\nSarzana (La Spezia)\nItaly",
+      "address": {
+        "text": "Via Alta n.100\nSarzana (La Spezia)\nItaly",
+        "iso2": "IT",
+        "lat": 44.0837648,
+        "lon": 9.9903157
+      },
       "telephone": "0039 0187617262",
-      "website": "http://www.intermarine.it/"
+      "website": "http://www.intermarine.it"
     },
     {
       "name": "IVECO",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=608",
       "category": [
         "others"
       ],
-      "address": "Via Volta 6\nBolzano\nItaly",
+      "address": {
+        "text": "Via Volta 6\nBolzano\nItaly",
+        "iso2": "IT",
+        "lat": 46.4798166,
+        "lon": 11.3317276
+      },
       "telephone": "+39 0471905111",
-      "website": "http://www.ivecodefencevehicles.com/"
+      "website": "http://www.ivecodefencevehicles.com"
     },
     {
       "name": "Imagic Events",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=712",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=712"
     },
     {
       "name": "Insig2 Ltd",
-      "country": "Croatia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=618",
       "category": [
         "others"
       ],
-      "address": "Buzinska cesta 58\nZagreb\nCroatia",
+      "address": {
+        "text": "Buzinska cesta 58\nZagreb\nCroatia",
+        "iso2": "HR",
+        "lat": 45.7512341,
+        "lon": 15.9897105
+      },
       "telephone": "+38516386600",
       "website": "http://https//www.insig2.com/"
     },
     {
       "name": "International Defence Training (Royal Navy)",
-      "country": "United Kingdom",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=749",
-      "address": "United Kingdom"
+      "country": [
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        },
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=749"
     },
     {
       "name": "Inzpire Ltd.",
-      "country": "United Kingdom",
+      "country": [
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        },
+        {
+          "text": "United Kingdom",
+          "iso2": "GB"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=742",
       "category": [
         "Electronic warfare",
@@ -908,18 +1306,24 @@
         "Personnel training",
         "Training – simulation",
         "Unmanned systems"
-      ],
-      "address": "United Kingdom"
+      ]
     },
     {
       "name": "Jadara Equipment and Defence Systems Co.",
-      "country": "Jordan",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=731",
-      "address": "Jordan"
+      "country": [
+        {
+          "text": "Jordan",
+          "iso2": "JO"
+        },
+        {
+          "text": "Jordan",
+          "iso2": "JO"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=731"
     },
     {
       "name": "John Cockerill",
-      "country": "Belgium",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=586",
       "category": [
         "Combat systems",
@@ -928,31 +1332,53 @@
         "Unmanned systems",
         "Weapons and ammunition"
       ],
-      "address": "Rue Alfred Deponthiere\nLoncin\n44\nBelgium",
+      "address": {
+        "text": "Rue Alfred Deponthiere\nLoncin\n44\nBelgium",
+        "iso2": "BE",
+        "lat": 50.6654312,
+        "lon": 5.4961531
+      },
       "telephone": "+3243302001",
       "website": "http://https//johncockerill.com/en/defense-2/"
     },
     {
       "name": "KBH Trading",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=726",
-      "address": "Al Qamra Holding 2nd Floor Al Saad, Doha, Qatar\nQatar",
+      "address": {
+        "text": "Al Qamra Holding 2nd Floor Al Saad, Doha, Qatar\nQatar",
+        "iso2": "QA",
+        "lat": 25.2818103,
+        "lon": 51.4953574
+      },
       "telephone": "+974 5555 316"
     },
     {
       "name": "Kallman Worldwide",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=690",
       "category": [
         "others"
       ],
-      "address": "4 North St Suite 800\nWaldwick\nUnited States",
+      "address": {
+        "text": "4 North St Suite 800\nWaldwick\nUnited States",
+        "iso2": "US",
+        "lat": 41.0175115,
+        "lon": -74.12310409999999
+      },
       "telephone": "201-251-2600",
-      "website": "http://www.kallman.com/"
+      "website": "http://www.kallman.com"
     },
     {
       "name": "Krauss-Maffei Wegmann",
-      "country": "Germany",
+      "country": [
+        {
+          "text": "Germany",
+          "iso2": "DE"
+        },
+        {
+          "text": "Germany",
+          "iso2": "DE"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=613",
       "category": [
         "Combat systems",
@@ -960,25 +1386,27 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "Germany",
-      "website": "http://www.kmweg.com/"
+      "website": "http://www.kmweg.com"
     },
     {
       "name": "L3Harris Technologies",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=611",
       "category": [
         "Navigation systems",
         "Propulsion systems",
         "Unmanned systems"
       ],
-      "address": "1 Federal Street\nCamden\nUnited States",
+      "address": {
+        "text": "1 Federal Street\nCamden\nUnited States",
+        "iso2": "US",
+        "lat": 39.9464829,
+        "lon": -75.1278122
+      },
       "telephone": "8563384541",
-      "website": "http://www.l3harris.com/"
+      "website": "http://www.l3harris.com"
     },
     {
       "name": "LACROIX",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=592",
       "category": [
         "Combat systems",
@@ -986,13 +1414,17 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "6 bd de Joffrery\nMuret\nFrance",
+      "address": {
+        "text": "6 bd de Joffrery\nMuret\nFrance",
+        "iso2": "FR",
+        "lat": 43.4750609,
+        "lon": 1.333001
+      },
       "telephone": "+33561566489",
-      "website": "http://www.lacroix-defense.com/"
+      "website": "http://www.lacroix-defense.com"
     },
     {
       "name": "LEONARDO",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=609",
       "category": [
         "Electronic warfare",
@@ -1001,13 +1433,27 @@
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "Piazza Monte Grappa, 4\nRome\nItaly",
+      "address": {
+        "text": "Piazza Monte Grappa, 4\nRome\nItaly",
+        "iso2": "IT",
+        "lat": 41.9185778,
+        "lon": 12.4681985
+      },
       "telephone": "+39 06 324731",
-      "website": "http://www.leonardo.com/"
+      "website": "http://www.leonardo.com"
     },
     {
       "name": "Lockheed Martin Corporation",
-      "country": "United States",
+      "country": [
+        {
+          "text": "United States",
+          "iso2": "US"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=686",
       "category": [
         "Combat systems",
@@ -1016,12 +1462,10 @@
         "Sensors & surveillance systems",
         "Weapons and ammunition"
       ],
-      "address": "United States",
       "website": "http://https//www.lockheedmartin.com/"
     },
     {
       "name": "MAN Energy Solutions",
-      "country": "Germany",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=657",
       "category": [
         "Environmental Technology",
@@ -1030,13 +1474,17 @@
         "Naval and commercial shipbuilding",
         "Propulsion systems"
       ],
-      "address": "Stadtbachstraße 1\nAugsburg\nGermany",
+      "address": {
+        "text": "Stadtbachstraße 1\nAugsburg\nGermany",
+        "iso2": "DE",
+        "lat": 48.38043200000001,
+        "lon": 10.8990669
+      },
       "telephone": "+49 821 322 0",
-      "website": "http://www.man-es.com/"
+      "website": "http://www.man-es.com"
     },
     {
       "name": "MBDA",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=610",
       "category": [
         "Combat systems",
@@ -1044,24 +1492,32 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "1 Avenue Reaumur\nLe Plessis-Robinson\nFrance",
+      "address": {
+        "text": "1 Avenue Reaumur\nLe Plessis-Robinson\nFrance",
+        "iso2": "FR",
+        "lat": 48.7792059,
+        "lon": 2.2406432
+      },
       "telephone": "+33171541000",
       "website": "http://%20http//www.mbda-systems.com"
     },
     {
       "name": "MD Helicopters",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=733",
       "category": [
         "Naval aviation",
         "others"
       ],
-      "address": "4555 E McDowell Road\nMesa\nUnited States",
+      "address": {
+        "text": "4555 E McDowell Road\nMesa\nUnited States",
+        "iso2": "US",
+        "lat": 33.4657266,
+        "lon": -111.7296994
+      },
       "telephone": "4803466420"
     },
     {
       "name": "MENSAN",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=729",
       "category": [
         "Naval design & production",
@@ -1069,13 +1525,17 @@
         "Project management, support and consulting services",
         "Research and development"
       ],
-      "address": "ATB IS MERKEZI G BLOK NO:151 YENIMAHALLE ANKARA\nAnkara\nTurkey",
+      "address": {
+        "text": "ATB IS MERKEZI G BLOK NO:151 YENIMAHALLE ANKARA\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9554032,
+        "lon": 32.7187878
+      },
       "telephone": "00903122196310",
-      "website": "http://www.mensantech.com/"
+      "website": "http://www.mensantech.com"
     },
     {
       "name": "METEKSAN",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=715",
       "category": [
         "Electronic warfare",
@@ -1083,13 +1543,17 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "Cyberpark F Blok Beytepe Lodumlu Köyü Yolu No:85/A Bilkent-Çankaya\nAnkara\nTurkey",
+      "address": {
+        "text": "Cyberpark F Blok Beytepe Lodumlu Köyü Yolu No:85/A Bilkent-Çankaya\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.880084,
+        "lon": 32.7473945
+      },
       "telephone": "+90312 266 15 20",
-      "website": "http://www.meteksan.com/"
+      "website": "http://www.meteksan.com"
     },
     {
       "name": "MKE",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=662",
       "category": [
         "Combat systems",
@@ -1098,13 +1562,17 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Emniyet Mahallesi Dögol Cad. No: 2 Anadolu Meydanı 06560 Yenimahalle-Ankara/Turkey\nAnkara\nTurkey",
+      "address": {
+        "text": "Emniyet Mahallesi Dögol Cad. No: 2 Anadolu Meydanı 06560 Yenimahalle-Ankara/Turkey\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.935576,
+        "lon": 32.836444
+      },
       "telephone": "+90 543 369 01 93",
       "website": "http://https//www.mke.gov.tr/tr"
     },
     {
       "name": "MOSECO TECHNOLOGY",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=645",
       "category": [
         "Electronic warfare",
@@ -1113,36 +1581,60 @@
         "Research and development",
         "Sensors & surveillance systems"
       ],
-      "address": "MOSECO Technology - Sultan Al Jaber Building Building 127 Street 250 Area 45\nDoha\n5406\nQatar",
+      "address": {
+        "text": "MOSECO Technology - Sultan Al Jaber Building Building 127 Street 250 Area 45\nDoha\n5406\nQatar",
+        "iso2": "QA",
+        "lat": 25.1764748,
+        "lon": 51.4568112
+      },
       "telephone": "44515292",
       "website": "http://https//www.moseco.qa"
     },
     {
       "name": "Maidaan Technologies",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=744",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=744"
     },
     {
       "name": "Maritime Security & Defense",
-      "country": "Germany",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=672",
       "category": [
         "others"
       ],
-      "address": "Beethovenallee 21\nBonn\nGermany",
+      "address": {
+        "text": "Beethovenallee 21\nBonn\nGermany",
+        "iso2": "DE",
+        "lat": 50.68783269999999,
+        "lon": 7.1582417
+      },
       "telephone": "+492283500880",
-      "website": "http://www.mittler-report.de/"
+      "website": "http://www.mittler-report.de"
     },
     {
       "name": "Milaha",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=587",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=587"
     },
     {
       "name": "Milipol Equipment Trading & Services",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=581",
       "category": [
         "Marine power plants, ship systems and facilities, auxiliary machinery",
@@ -1151,39 +1643,71 @@
         "Navigation systems",
         "Port & harbour activities"
       ],
-      "address": "Street 820 Building 63 zone 40 , New Slata Doha Qatar\nDoha\n45731\nQatar",
+      "address": {
+        "text": "Street 820 Building 63 zone 40 , New Slata Doha Qatar\nDoha\n45731\nQatar",
+        "iso2": "QA",
+        "lat": 25.2319925,
+        "lon": 51.5378363
+      },
       "telephone": "44315335",
-      "website": "http://www.metqa.com/"
+      "website": "http://www.metqa.com"
     },
     {
       "name": "Military Police Forces",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=743",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=743"
     },
     {
       "name": "Ministry of Commerce and Industry - Qatar",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=642",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=642"
     },
     {
       "name": "Moog Australia Pty. Ltd.",
-      "country": "Australia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=699",
-      "address": "18 Corporate Drive\nHeatherton\nAustralia",
+      "address": {
+        "text": "18 Corporate Drive\nHeatherton\nAustralia",
+        "iso2": "AU",
+        "lat": -37.9511366,
+        "lon": 145.0788862
+      },
       "telephone": "(03) 9561 6044",
-      "website": "http://www.moog.com.au/"
+      "website": "http://www.moog.com.au"
     },
     {
       "name": "Moral Guidance Directorate",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=656",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=656"
     },
     {
       "name": "NEXUS TRAINING SOLUTIONS PTY LTD",
-      "country": "Australia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=703",
       "category": [
         "Mariners weapons & equipment",
@@ -1192,51 +1716,79 @@
         "Training – simulation",
         "Unmanned systems"
       ],
-      "address": "2/22 Catherine Street\nCoburg North, Victoria\nAustralia",
-      "website": "http://www.nexustrain.com/"
+      "address": {
+        "text": "2/22 Catherine Street\nCoburg North, Victoria\nAustralia",
+        "iso2": "AU",
+        "lat": -37.7287155,
+        "lon": 144.9577265
+      },
+      "website": "http://www.nexustrain.com"
     },
     {
       "name": "Naval News",
-      "country": "France",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=678",
-      "address": "France"
+      "country": [
+        {
+          "text": "France",
+          "iso2": "FR"
+        },
+        {
+          "text": "France",
+          "iso2": "FR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=678"
     },
     {
       "name": "Northrop Grumman Corporation",
-      "country": "United States",
+      "country": [
+        {
+          "text": "United States",
+          "iso2": "US"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=612",
       "category": [
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
-      ],
-      "address": "United States"
+      ]
     },
     {
       "name": "Nurol Makina",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=619",
       "category": [
         "others"
       ],
-      "address": "Ankara Organize Sanayi Bolgesi Avrupa Hun Caddesi No:6 Sincan\nAnkara\nTurkey",
+      "address": {
+        "text": "Ankara Organize Sanayi Bolgesi Avrupa Hun Caddesi No:6 Sincan\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.97527300000001,
+        "lon": 32.549823
+      },
       "telephone": "+903124703000",
       "website": "http://https//www.nurolmakina.com.tr/en"
     },
     {
       "name": "Ophir Healthcare Solutions",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=750",
       "category": [
         "others",
         "Search and rescue equipment"
       ],
-      "address": "Building No 41, Zone 81, Street No 09, New Industrial Area, Doha , Qatar\n80237\nQatar",
+      "address": {
+        "text": "Building No 41, Zone 81, Street No 09, New Industrial Area, Doha , Qatar\n80237\nQatar",
+        "iso2": "QA",
+        "lat": 25.2029096,
+        "lon": 51.43489870000001
+      },
       "telephone": "44569661",
-      "website": "http://www.ophirhealthcare.qa/"
+      "website": "http://www.ophirhealthcare.qa"
     },
     {
       "name": "PATRIA OYJ",
-      "country": "Finland",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=578",
       "category": [
         "Mariners weapons & equipment",
@@ -1244,25 +1796,33 @@
         "Navigation systems",
         "Weapons and ammunition"
       ],
-      "address": "Arkadiankatu 2\nHelsinki\nFinland",
+      "address": {
+        "text": "Arkadiankatu 2\nHelsinki\nFinland",
+        "iso2": "FI",
+        "lat": 60.17080069999999,
+        "lon": 24.9349216
+      },
       "telephone": "358204691",
-      "website": "http://www.patriagroup.com/"
+      "website": "http://www.patriagroup.com"
     },
     {
       "name": "POLOMARCONI.IT SPA",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=648",
       "category": [
         "Combat systems",
         "Electronic warfare"
       ],
-      "address": "Via Quirico Filopanti 3 - Verona\nVerona\nItaly",
+      "address": {
+        "text": "Via Quirico Filopanti 3 - Verona\nVerona\nItaly",
+        "iso2": "IT",
+        "lat": 45.43760049999999,
+        "lon": 10.9823405
+      },
       "telephone": "+39034181900",
-      "website": "http://www.polomarconi.it/"
+      "website": "http://www.polomarconi.it"
     },
     {
       "name": "PRESIDENCY OF DEFENCE INDUSTRIES (SSB)",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=734",
       "category": [
         "Combat systems",
@@ -1271,77 +1831,145 @@
         "Mariners weapons & equipment",
         "Unmanned systems"
       ],
-      "address": "Devlet Mahallesi, Süleyman Emin Caddesi No: 6-7, 06420, Çankaya, ANKARA\nÇANKAYA\nTurkey",
+      "address": {
+        "text": "Devlet Mahallesi, Süleyman Emin Caddesi No: 6-7, 06420, Çankaya, ANKARA\nÇANKAYA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8803912,
+        "lon": 32.8689271
+      },
       "telephone": "+903124119000",
-      "website": "http://www.ssb.gov.tr/"
+      "website": "http://www.ssb.gov.tr"
     },
     {
       "name": "Pole Star",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=687",
       "category": [
         "Maritime safety & coastal security",
         "Navigation security"
       ],
-      "address": "Pole Star Space Applications Ltd 450 8th Ave SE St Petersburg\nSt Petersburg\nUnited States",
+      "address": {
+        "text": "Pole Star Space Applications Ltd 450 8th Ave SE St Petersburg\nSt Petersburg\nUnited States",
+        "iso2": "US",
+        "lat": 27.7622318,
+        "lon": -82.6296472
+      },
       "telephone": "+1 727 610 9501",
       "website": "http://https//www.polestardefense.com/"
     },
     {
       "name": "Poongsan Corporation",
-      "country": "South Korea",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=691",
-      "address": "South Korea"
+      "country": [
+        {
+          "text": "South Korea",
+          "iso2": "KR"
+        },
+        {
+          "text": "South Korea",
+          "iso2": "KR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=691"
     },
     {
       "name": "Popular Fabric Ltd",
-      "country": "Pakistan",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=752",
-      "address": "Pakistan"
+      "country": [
+        {
+          "text": "Pakistan",
+          "iso2": "PK"
+        },
+        {
+          "text": "Pakistan",
+          "iso2": "PK"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=752"
     },
     {
       "name": "QAF Project 401",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=652",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=652"
     },
     {
       "name": "Qatar Chamber",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=646",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=646"
     },
     {
       "name": "Qatar Cybersecurity Academy",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=634",
       "category": [
         "Personnel training"
       ],
-      "address": "P.O. Box 7178 Corniche Road West Bay Doha, Qatar\nDoha\n7178\nQatar",
+      "address": {
+        "text": "P.O. Box 7178 Corniche Road West Bay Doha, Qatar\nDoha\n7178\nQatar",
+        "iso2": "QA",
+        "lat": 25.3135199,
+        "lon": 51.5229581
+      },
       "website": "http://https//qca.com.qa/"
     },
     {
       "name": "Qatar Emiri Air Defence Forces",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=745",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=745"
     },
     {
       "name": "Qatar Emiri Air Force",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=746",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=746"
     },
     {
       "name": "Qatar Emiri Naval Forces",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=747",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=747"
     },
     {
       "name": "Qsur",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=704",
       "category": [
         "Combat systems",
@@ -1350,52 +1978,76 @@
         "Naval design & production",
         "Search and rescue equipment"
       ],
-      "address": "31st Floor Doha Tower West Bay\nDoha\n11758\nQatar",
+      "address": {
+        "text": "31st Floor Doha Tower West Bay\nDoha\n11758\nQatar",
+        "iso2": "QA",
+        "lat": 25.3174749,
+        "lon": 51.5283966
+      },
       "telephone": "+974 44277995",
-      "website": "http://www.qsur.qa/"
+      "website": "http://www.qsur.qa"
     },
     {
       "name": "RAFALE INTERNATIONAL",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=597",
       "category": [
         "Naval aviation"
       ],
-      "address": "78, Quai Marcel Dassault\nSaint-Cloud\nFrance",
+      "address": {
+        "text": "78, Quai Marcel Dassault\nSaint-Cloud\nFrance",
+        "iso2": "FR",
+        "lat": 48.85903709999999,
+        "lon": 2.2238441
+      },
       "website": "http://https//www.dassault-aviation.com/en/"
     },
     {
       "name": "RAM-System GmbH",
-      "country": "Germany",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=616",
       "category": [
         "Naval equipment",
         "Weapons and ammunition"
       ],
-      "address": "Daimlerstrasse 11\nOttobrunn\n81663\nGermany",
+      "address": {
+        "text": "Daimlerstrasse 11\nOttobrunn\n81663\nGermany",
+        "iso2": "DE",
+        "lat": 48.063851,
+        "lon": 11.6497193
+      },
       "telephone": "+49-89-608003-43"
     },
     {
       "name": "RED PIRANHA LIMITED",
-      "country": "Australia",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=698",
-      "address": "Australia"
+      "country": [
+        {
+          "text": "Australia",
+          "iso2": "AU"
+        },
+        {
+          "text": "Australia",
+          "iso2": "AU"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=698"
     },
     {
       "name": "REPKON",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=709",
       "category": [
         "others",
         "Research and development",
         "Weapons and ammunition"
       ],
-      "address": "Balibey Mahallesi, Fabrika Sokak No: 1, 34980 Şile, Istanbul, TURKEY\nISTANBUL\nTurkey",
-      "website": "http://www.repkon.com.tr/"
+      "address": {
+        "text": "Balibey Mahallesi, Fabrika Sokak No: 1, 34980 Şile, Istanbul, TURKEY\nISTANBUL\nTurkey",
+        "iso2": "TR",
+        "lat": 41.1573174,
+        "lon": 29.6359185
+      },
+      "website": "http://www.repkon.com.tr"
     },
     {
       "name": "RINA",
-      "country": "Italy",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=650",
       "category": [
         "Maritime safety & coastal security",
@@ -1404,45 +2056,65 @@
         "Research and development",
         "Training – simulation"
       ],
-      "address": "Via Corsica, 12\nGenova\nItaly",
+      "address": {
+        "text": "Via Corsica, 12\nGenova\nItaly",
+        "iso2": "IT",
+        "lat": 44.4000908,
+        "lon": 8.936750499999999
+      },
       "telephone": "01053851",
-      "website": "http://www.rina.org/"
+      "website": "http://www.rina.org"
     },
     {
       "name": "Raytheon Technologies",
-      "country": "United States",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=739",
-      "address": "United States"
+      "country": [
+        {
+          "text": "United States",
+          "iso2": "US"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=739"
     },
     {
       "name": "Resecurity Inc",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=724",
       "category": [
         "others",
         "Research and development",
         "Services & industrial and technical support"
       ],
-      "address": "445 S. Figueroa Street Los Angeles, California,\nCalifornia, Los Angeles\nUnited States",
+      "address": {
+        "text": "445 S. Figueroa Street Los Angeles, California,\nCalifornia, Los Angeles\nUnited States",
+        "iso2": "US",
+        "lat": 34.0536155,
+        "lon": -118.2568651
+      },
       "telephone": "+962776917217",
-      "website": "http://www.resecurity.com/"
+      "website": "http://www.resecurity.com"
     },
     {
       "name": "Rheinmetall Barzan Advanced Technologies",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=626",
       "category": [
         "Project management, support and consulting services",
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "Qatar Science and Technology Park, Tech 4, Building 47, Unit 1, Doha, Qatar\nDoha\n210 007\nQatar",
+      "address": {
+        "text": "Qatar Science and Technology Park, Tech 4, Building 47, Unit 1, Doha, Qatar\nDoha\n210 007\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      },
       "telephone": "+97433276827",
       "website": "http://https//www.linkedin.com/company/rheinmetall-barzan-advanced-technologies-qstp-llc/about/"
     },
     {
       "name": "Rohde & Schwarz Middle East and Africa FZ-LLC",
-      "country": "United Arab Emirates",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=738",
       "category": [
         "Electronic warfare",
@@ -1451,21 +2123,29 @@
         "others",
         "Sensors & surveillance systems"
       ],
-      "address": "Office 210, Building No. 1, 2nd Floor Dubai Media City\nDubai\nUnited Arab Emirates",
+      "address": {
+        "text": "Office 210, Building No. 1, 2nd Floor Dubai Media City\nDubai\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.2765853,
+        "lon": 55.3055813
+      },
       "telephone": "+97144461900",
-      "website": "http://www.rohde-schwarz.com/"
+      "website": "http://www.rohde-schwarz.com"
     },
     {
       "name": "Roketsan",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=663",
-      "address": "Kemalpasa, Yzb. Adem Kutlu Sk. No:21, Elmadag\nAnkara\nTurkey",
+      "address": {
+        "text": "Kemalpasa, Yzb. Adem Kutlu Sk. No:21, Elmadag\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9104857,
+        "lon": 33.2344758
+      },
       "telephone": "+903128605500",
       "website": "http://https//www.roketsan.com.tr/en"
     },
     {
       "name": "Royal Yacht Marine WLL",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=694",
       "category": [
         "Marine power plants, ship systems and facilities, auxiliary machinery",
@@ -1474,13 +2154,17 @@
         "Naval aviation (deck and shore-based)",
         "Services & industrial and technical support"
       ],
-      "address": "Royal Yacht Marine W.L.L Building 8, Zone 66, Street 120 Unit 278, 22 La Croisette, Porto Arabia, The Pearl Qatar, Doha-Qatar\nDoha\nQatar",
+      "address": {
+        "text": "Royal Yacht Marine W.L.L Building 8, Zone 66, Street 120 Unit 278, 22 La Croisette, Porto Arabia, The Pearl Qatar, Doha-Qatar\nDoha\nQatar",
+        "iso2": "QA",
+        "lat": 25.3762055,
+        "lon": 51.5498408
+      },
       "telephone": "+97477472206",
-      "website": "http://royalyacht.qa/"
+      "website": "http://royalyacht.qa"
     },
     {
       "name": "Ruwais Marine Services W.L.L.",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=718",
       "category": [
         "Marine power plants, ship systems and facilities, auxiliary machinery",
@@ -1489,13 +2173,17 @@
         "Services & industrial and technical support",
         "Unmanned systems"
       ],
-      "address": "Building No. 54, Office no. S3, Zone No. 90, St. No. 720, Abdul Rahman Bin Jassim St.\nAl Wakra\n55121\nQatar",
+      "address": {
+        "text": "Building No. 54, Office no. S3, Zone No. 90, St. No. 720, Abdul Rahman Bin Jassim St.\nAl Wakra\n55121\nQatar",
+        "iso2": "QA",
+        "lat": 25.1484755,
+        "lon": 51.5982413
+      },
       "telephone": "+974 44913944",
-      "website": "http://www.rms.com.qa/"
+      "website": "http://www.rms.com.qa"
     },
     {
       "name": "SAHA ISTANBUL DEFENCE & AEROSPACE CLUSTER",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=722",
       "category": [
         "Project management, support and consulting services",
@@ -1504,26 +2192,34 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "TEKNOPARK ISTANBUL NO: 1/9A BLOK D. 104-105 PENDIK\nISTANBUL\nTurkey",
+      "address": {
+        "text": "TEKNOPARK ISTANBUL NO: 1/9A BLOK D. 104-105 PENDIK\nISTANBUL\nTurkey",
+        "iso2": "TR",
+        "lat": 40.9201024,
+        "lon": 29.3137833
+      },
       "telephone": "+90 535 010 11 97",
-      "website": "http://www.sahaistanbul.org.tr/"
+      "website": "http://www.sahaistanbul.org.tr"
     },
     {
       "name": "SDT SPACE & DEFENCE TECHNOLOGIES INC.",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=720",
       "category": [
         "Electronic warfare",
         "others",
         "Training – simulation"
       ],
-      "address": "SATGEB-2 Titanyum C Blok Üniversiteler Mah. İhsan Doğramacı Bulvarı No:37/1 -1/1 ODTÜ Teknokent\nAnkara\nTurkey",
+      "address": {
+        "text": "SATGEB-2 Titanyum C Blok Üniversiteler Mah. İhsan Doğramacı Bulvarı No:37/1 -1/1 ODTÜ Teknokent\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8972091,
+        "lon": 32.7758208
+      },
       "telephone": "+90 312 210 10 15",
-      "website": "http://www.sdt.com.tr/"
+      "website": "http://www.sdt.com.tr"
     },
     {
       "name": "SIMSOFT",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=723",
       "category": [
         "Combat systems",
@@ -1532,24 +2228,32 @@
         "Training – simulation",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "SATGEB Bölgesi, Ortak Bina, 1. Kat, ARGE Ofisleri , ODTÜ Teknokent , ODTÜ/ÇANKAYA/ANKARA\nÇANKAYA\nTurkey",
+      "address": {
+        "text": "SATGEB Bölgesi, Ortak Bina, 1. Kat, ARGE Ofisleri , ODTÜ Teknokent , ODTÜ/ÇANKAYA/ANKARA\nÇANKAYA\nTurkey",
+        "iso2": "TR",
+        "lat": 39.8984053,
+        "lon": 32.7762277
+      },
       "telephone": "+905555744664",
       "website": "http://https//www.simsoft.com.tr/"
     },
     {
       "name": "SOGENA/GICAN",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=596",
       "category": [
         "others"
       ],
-      "address": "47 rue de Monceau\nParis\nFrance",
+      "address": {
+        "text": "47 rue de Monceau\nParis\nFrance",
+        "iso2": "FR",
+        "lat": 48.8781852,
+        "lon": 2.3111848
+      },
       "telephone": "+33 1 56 59 15 02",
       "website": "http://https//gican.asso.fr/"
     },
     {
       "name": "STM",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=667",
       "category": [
         "Naval and commercial shipbuilding",
@@ -1558,13 +2262,17 @@
         "Naval equipment",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Mustafa Kemal Mahallesi 2151.Cadde No:3A Çankaya / Ankara\nAnkara\nTurkey",
+      "address": {
+        "text": "Mustafa Kemal Mahallesi 2151.Cadde No:3A Çankaya / Ankara\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9115437,
+        "lon": 32.7811395
+      },
       "telephone": "+903123663550",
-      "website": "http://www.stm.com.tr/"
+      "website": "http://www.stm.com.tr"
     },
     {
       "name": "Safran Electronics & Defense",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=594",
       "category": [
         "Naval equipment",
@@ -1573,13 +2281,27 @@
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "55 boulevard Charles de Gaulle\nMalakoff\nFrance",
+      "address": {
+        "text": "55 boulevard Charles de Gaulle\nMalakoff\nFrance",
+        "iso2": "FR",
+        "lat": 48.8219998,
+        "lon": 2.2986015
+      },
       "telephone": "+336 72 23 27 95",
       "website": "http://https//www.safran-group.com/fr/societes/safran-electronics-defense"
     },
     {
       "name": "Seaowl Group SAS",
-      "country": "France",
+      "country": [
+        {
+          "text": "France",
+          "iso2": "FR"
+        },
+        {
+          "text": "France",
+          "iso2": "FR"
+        }
+      ],
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=692",
       "category": [
         "Naval equipment",
@@ -1588,18 +2310,24 @@
         "Unmanned systems",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "France",
-      "website": "http://seaowlgroup.com/"
+      "website": "http://seaowlgroup.com"
     },
     {
       "name": "Security and Defense Arabia",
-      "country": "Lebanon",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=670",
-      "address": "Lebanon"
+      "country": [
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        },
+        {
+          "text": "Lebanon",
+          "iso2": "LB"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=670"
     },
     {
       "name": "Special Operations Training Company",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=635",
       "category": [
         "Mariners weapons & equipment",
@@ -1608,12 +2336,16 @@
         "Project management, support and consulting services",
         "Training – simulation"
       ],
-      "address": "Innovation Centre Qatar Science & Technology Park Al Luqta St Ar-Rayyan Qatar\nDoha\n7178\nQatar",
+      "address": {
+        "text": "Innovation Centre Qatar Science & Technology Park Al Luqta St Ar-Rayyan Qatar\nDoha\n7178\nQatar",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      },
       "telephone": "+97455214432"
     },
     {
       "name": "THALES",
-      "country": "Qatar",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=659",
       "category": [
         "Combat systems",
@@ -1622,43 +2354,63 @@
         "Services & industrial and technical support",
         "Unmanned systems"
       ],
-      "address": "KIA Building 4th Floor Al Rayyan Road\nDOHA\nQatar",
+      "address": {
+        "text": "KIA Building 4th Floor Al Rayyan Road\nDOHA\nQatar",
+        "iso2": "QA",
+        "lat": 25.2906541,
+        "lon": 51.5035513
+      },
       "telephone": "+97433318361",
-      "website": "http://www.thalesgroup.com/"
+      "website": "http://www.thalesgroup.com"
     },
     {
       "name": "TURKISH AEROSPACE",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=682",
       "category": [
         "others",
         "Unmanned systems"
       ],
-      "address": "Fethiye Mah. Havacılık Blv. No: 17 Kahramankazan\nAnkara\nTurkey",
+      "address": {
+        "text": "Fethiye Mah. Havacılık Blv. No: 17 Kahramankazan\nAnkara\nTurkey",
+        "iso2": "TR",
+        "lat": 40.196483,
+        "lon": 32.68979
+      },
       "telephone": "00903128111800",
-      "website": "http://www.tusas.com/"
+      "website": "http://www.tusas.com"
     },
     {
       "name": "Tais Shipyards",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=576",
       "category": [
         "Naval design & production",
         "Project management, support and consulting services"
       ],
-      "address": "SANAYİ MAH. TEKNOPARK BULVARI 1-C BLOK 1402\nISTANBUL\nTurkey",
+      "address": {
+        "text": "SANAYİ MAH. TEKNOPARK BULVARI 1-C BLOK 1402\nISTANBUL\nTurkey",
+        "iso2": "TR",
+        "lat": 40.9201024,
+        "lon": 29.3137833
+      },
       "telephone": "+905324539554",
-      "website": "http://www.taisshipyards.com/"
+      "website": "http://www.taisshipyards.com"
     },
     {
       "name": "Tawfeeq Travel",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=713",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=713"
     },
     {
       "name": "Team Defence Australia",
-      "country": "Australia",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=588",
       "category": [
         "Combat systems",
@@ -1689,18 +2441,30 @@
         "Weapons and ammunition",
         "Weapons, armaments and weapon control systems"
       ],
-      "address": "Canberra\nAustralia",
+      "address": {
+        "text": "Canberra\nAustralia",
+        "iso2": "AU",
+        "lat": -35.2801903,
+        "lon": 149.1310038
+      },
       "website": "http://https//www.defence.gov.au/business-industry/export/australian-defence-export-office"
     },
     {
       "name": "The Boeing Company",
-      "country": "United States",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=684",
-      "address": "United States"
+      "country": [
+        {
+          "text": "United States",
+          "iso2": "US"
+        },
+        {
+          "text": "United States",
+          "iso2": "US"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=684"
     },
     {
       "name": "Titra",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=732",
       "category": [
         "Combat systems",
@@ -1709,88 +2473,133 @@
         "Port & harbour activities",
         "Unmanned systems"
       ],
-      "address": "MUSTAFA KEMAL MAHALLESİ, DUMLUPINAR BULVARI, ODTÜ BİLİŞİM İNOVASYON MERKEZİ, 280/G ÇANKAYA/ANKRA\nANKARA\n06510\nTurkey",
+      "address": {
+        "text": "MUSTAFA KEMAL MAHALLESİ, DUMLUPINAR BULVARI, ODTÜ BİLİŞİM İNOVASYON MERKEZİ, 280/G ÇANKAYA/ANKRA\nANKARA\n06510\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9083747,
+        "lon": 32.7504882
+      },
       "telephone": "+903125141987",
       "website": "http://https//titra.com.tr/en/"
     },
     {
       "name": "Trade Development Center (Ministry of Defense of I.R.Iran)",
-      "country": "Iran",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=748",
-      "address": "Iran"
+      "country": [
+        {
+          "text": "Iran",
+          "iso2": "IR"
+        },
+        {
+          "text": "Iran",
+          "iso2": "IR"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=748"
     },
     {
       "name": "UK Defence & Security Exports (UK DSE)",
-      "country": "United Kingdom",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=617",
-      "address": "Old Admiralty Building Admiralty Place\nLondon\nUnited Kingdom",
+      "address": {
+        "text": "Old Admiralty Building Admiralty Place\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
       "telephone": "00442072158195",
       "website": "http://www.gov.uk/dit-ukdse"
     },
     {
       "name": "UNSEENLABS",
-      "country": "France",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=595",
       "category": [
         "Maritime safety & coastal security",
         "Navigation security",
         "Sensors & surveillance systems"
       ],
-      "address": "4 bis allée du batiment\nRennes\nFrance",
+      "address": {
+        "text": "4 bis allée du batiment\nRennes\nFrance",
+        "iso2": "FR",
+        "lat": 48.1311006,
+        "lon": -1.6822784
+      },
       "telephone": "+33768708366",
       "website": "http://https//unseenlabs.space"
     },
     {
       "name": "Vodafone Qatar",
-      "country": "Qatar",
-      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=710",
-      "address": "Qatar"
+      "country": [
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "text": "Qatar",
+          "iso2": "QA"
+        }
+      ],
+      "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=710"
     },
     {
       "name": "Volansi, Inc.",
-      "country": "United States",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=725",
       "category": [
         "Logistics management and support systems",
         "Sensors & surveillance systems",
         "Unmanned systems"
       ],
-      "address": "26460 Corporate Ave\nHayward\nUnited States",
+      "address": {
+        "text": "26460 Corporate Ave\nHayward\nUnited States",
+        "iso2": "US",
+        "lat": 37.62676,
+        "lon": -122.1129453
+      },
       "telephone": "+971 52 800 6387",
-      "website": "http://www.flyvoly.com/"
+      "website": "http://www.flyvoly.com"
     },
     {
       "name": "Yonca-Onuk JV",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=572",
       "category": [
         "Naval and commercial shipbuilding",
         "Naval design & production",
         "Unmanned systems"
       ],
-      "address": "Aydıntepe Mahallesi Kızılçam Sokak No:8/2 Tuzla\nIstanbul\nTurkey",
+      "address": {
+        "text": "Aydıntepe Mahallesi Kızılçam Sokak No:8/2 Tuzla\nIstanbul\nTurkey",
+        "iso2": "TR",
+        "lat": 41.0248971,
+        "lon": 29.2591021
+      },
       "telephone": "+90 216 3929970",
-      "website": "http://www.yonca-onuk.com/"
+      "website": "http://www.yonca-onuk.com"
     },
     {
       "name": "ÖZTEK TEKSTİL",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=679",
       "category": [
         "Combat systems",
         "others"
       ],
-      "address": "Ergene 1 OSB Vakıflar OSB Mah. SAnayi Cad.\nTekirdag\nNo:24-26\nTurkey",
+      "address": {
+        "text": "Ergene 1 OSB Vakıflar OSB Mah. SAnayi Cad.\nTekirdag\nNo:24-26\nTurkey",
+        "iso2": "TR",
+        "lat": 41.2753641,
+        "lon": 27.5894638
+      },
       "telephone": "+902826751414",
-      "website": "http://www.oztektekstil.com.tr/"
+      "website": "http://www.oztektekstil.com.tr"
     },
     {
       "name": "İŞBİR",
-      "country": "Turkey",
       "exhibitorUrl": "https://dimdex.com/exhibitor-details/?profile_id=708",
-      "address": "Izmir Yolu 6.km Balikesir Turkey\nBalikesir\nTurkey",
+      "address": {
+        "text": "Izmir Yolu 6.km Balikesir Turkey\nBalikesir\nTurkey",
+        "iso2": "TR",
+        "lat": 39.6400935,
+        "lon": 27.8829259
+      },
       "telephone": "+902662830050",
-      "website": "http://www.isbirelektrik.com.tr/"
+      "website": "http://www.isbirelektrik.com.tr"
     }
   ],
   "delegationListDate": "2022-02-09T16:26:43+00:00",

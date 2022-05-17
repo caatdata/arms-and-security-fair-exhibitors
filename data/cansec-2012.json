@@ -4,7 +4,12 @@
   "edition": "2012",
   "startDate": "2012-05-30",
   "endDate": "2012-05-31",
-  "address": "CE Centre\nOttawa\nOntario\nCanada",
+  "address": {
+    "text": "CE Centre\nOttawa\nOntario\nCanada",
+    "iso2": "CA",
+    "lat": 45.4412084,
+    "lon": -75.6426989
+  },
   "website": "https://www.defenceandsecurity.ca/index.php?action=events.details&evtID=219",
   "organiser": [
     {

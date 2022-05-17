@@ -4,7 +4,12 @@
   "edition": "2015",
   "startDate": "2015-05-30",
   "endDate": "2015-05-31",
-  "address": "EY Centre\nOttawa\nOntario\nCanada",
+  "address": {
+    "text": "EY Centre\nOttawa\nOntario\nCanada",
+    "iso2": "CA",
+    "lat": 45.3322655,
+    "lon": -75.653978
+  },
   "website": "https://www.defenceandsecurity.ca/index.php?action=events.details&evtID=273",
   "organiser": [
     {

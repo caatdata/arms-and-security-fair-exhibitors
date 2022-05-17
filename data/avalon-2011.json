@@ -5,7 +5,12 @@
   "edition": "2011",
   "startDate": "2011-03-01",
   "endDate": "2011-03-06",
-  "address": "Building 53\nAvalon Airport\nBeach Road\nLara\nVictoria 3212\nAustralia",
+  "address": {
+    "text": "Building 53\nAvalon Airport\nBeach Road\nLara\nVictoria 3212\nAustralia",
+    "iso2": "AU",
+    "lat": -38.0392391,
+    "lon": 144.4685124
+  },
   "website": "https://www.airshow.com.au",
   "organiser": [
     {

@@ -8,7 +8,12 @@
   ],
   "startDate": "2008-01-22",
   "endDate": "2009-01-25",
-  "address": "Ibis London\nEarls Court\nLondon\nUK",
+  "address": {
+    "text": "Ibis London\nEarls Court\nLondon\nUK",
+    "iso2": "GB",
+    "lat": 51.48580639999999,
+    "lon": -0.1995566
+  },
   "website": "http://www.site-members.com/lavsite/index.html",
   "organiser": [
     {
@@ -25,19 +30,19 @@
   "exhibitor": [
     {
       "name": "IBD",
-      "website": "http://www.ibd-deisenroth.de/"
+      "website": "http://www.ibd-deisenroth.de"
     },
     {
       "name": "AGY",
-      "website": "http://www.agy.com/"
+      "website": "http://www.agy.com"
     },
     {
       "name": "Autoflug",
-      "website": "http://www.autoflug.com%20/"
+      "website": "http://www.autoflug.com%20"
     },
     {
       "name": "Barco",
-      "website": "http://www.barco.com/"
+      "website": "http://www.barco.com"
     },
     {
       "name": "Benteler",
@@ -49,19 +54,19 @@
     },
     {
       "name": "Curtiss Wright",
-      "website": "http://www.cwcontrols.com/"
+      "website": "http://www.cwcontrols.com"
     },
     {
       "name": "Dyneema",
-      "website": "http://www.thesofterstrength.com/"
+      "website": "http://www.thesofterstrength.com"
     },
     {
       "name": "Elbit",
-      "website": "http://www.elbitsystems.com/"
+      "website": "http://www.elbitsystems.com"
     },
     {
       "name": "Hutchinson",
-      "website": "http://www.hutchinson-defense-security.com/"
+      "website": "http://www.hutchinson-defense-security.com"
     },
     {
       "name": "Iveco",
@@ -73,11 +78,11 @@
     },
     {
       "name": "Lockheed",
-      "website": "http://www.lockheedmartin.com/"
+      "website": "http://www.lockheedmartin.com"
     },
     {
       "name": "Metravib",
-      "website": "http://www.01db-metravib.com/"
+      "website": "http://www.01db-metravib.com"
     },
     {
       "name": "Raug",
@@ -89,7 +94,7 @@
     },
     {
       "name": "Soltam",
-      "website": "http://www.soltam.com/"
+      "website": "http://www.soltam.com"
     },
     {
       "name": "Tencate",
@@ -97,11 +102,11 @@
     },
     {
       "name": "Thales",
-      "website": "http://www.thalesonline.com/"
+      "website": "http://www.thalesonline.com"
     },
     {
       "name": "Timoney",
-      "website": "http://www.timoneygroup.com/"
+      "website": "http://www.timoneygroup.com"
     }
   ]
 }

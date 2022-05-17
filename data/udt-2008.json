@@ -8,7 +8,12 @@
   "edition": "2008",
   "startDate": "2008-07-10",
   "endDate": "2008-07-12",
-  "address": "The Scottish Exhibition and Conference Centre (SECC)\nGlasgow\nScotland",
+  "address": {
+    "text": "The Scottish Exhibition and Conference Centre (SECC)\nGlasgow\nScotland",
+    "iso2": "GB",
+    "lat": 55.8601036,
+    "lon": -4.2854881
+  },
   "organiser": [
     {
       "name": "Nexus Media Ltd.",

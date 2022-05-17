@@ -4,7 +4,12 @@
   "edition": "2010",
   "startDate": "2010-06-02",
   "endDate": "2010-06-03",
-  "address": "Lansdowne Park\nOttawa\nCanada",
+  "address": {
+    "text": "Lansdowne Park\nOttawa\nCanada",
+    "iso2": "CA",
+    "lat": 45.3994667,
+    "lon": -75.68113129999999
+  },
   "website": "https://www.defenceandsecurity.ca/index.php?action=cms.goCansec",
   "organiser": [
     {

@@ -9,7 +9,12 @@
   ],
   "startDate": "2021-10-11",
   "endDate": "2021-10-13",
-  "address": "Exhibition Centre Liverpool\nKing's Dock, Port of Liverpool\nLiverpool\nL3 4FP\nUnited Kingdom",
+  "address": {
+    "text": "Exhibition Centre Liverpool\nKing's Dock, Port of Liverpool\nLiverpool\nL3 4FP\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 53.3952608,
+    "lon": -2.990164
+  },
   "website": "aoceurope.org",
   "exhibitorListUrl": "https://www.aoceurope.org/2021-exhibitors",
   "exhibitorListDate": "2021-10-19T10:49:50+00:00",
@@ -17,332 +22,608 @@
     {
       "name": "ACC Liverpool",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/acc-liverpool",
-      "address": ".\n.\nUnited Kingdom"
+      "country": {
+        "text": ".\n.\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Acsyes",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/acsyes",
-      "address": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Alaris Group",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/alaris-antennas-pty-ltd",
-      "address": "Centurion\n0157\nSouth Africa"
+      "address": {
+        "text": "Centurion\n0157\nSouth Africa",
+        "iso2": "ZA",
+        "lat": -25.8527567,
+        "lon": 28.1941785
+      }
     },
     {
       "name": "Allen-Vanguard Ltd.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/allen-vanguard-ltd",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ApisSys",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/apissys",
-      "address": "BATIMENT ABC1 - ENTREE 1A\n60 RUE DOUGLAS ENGELBART\nARCHAMPS\n74160\nFrance"
+      "address": {
+        "text": "BATIMENT ABC1 - ENTREE 1A\n60 RUE DOUGLAS ENGELBART\nARCHAMPS\n74160\nFrance",
+        "iso2": "FR",
+        "lat": 46.139107,
+        "lon": 6.118384
+      }
     },
     {
       "name": "Association of Old Crows",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/association-of-old-crows",
-      "address": ".\n.\nUnited Kingdom"
+      "country": {
+        "text": ".\n.\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BIRD Aerosystems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/bird-aerosystems",
-      "address": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "BSC Filters Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/bsc-filters-ltd",
-      "address": "Microwave Products Group\n2250 Northwood Drive\n2250 Northwood Drive\nSalisbury\nMD\n21801\nUnited States"
+      "address": {
+        "text": "Microwave Products Group\n2250 Northwood Drive\n2250 Northwood Drive\nSalisbury\nMD\n21801\nUnited States",
+        "iso2": "US",
+        "lat": 38.4067251,
+        "lon": -75.5780668
+      }
     },
     {
       "name": "Babcock Integrated Technology",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/babcock-integrated-technology",
-      "address": "Ashton House\nAshton Vale Road\nBristol\nAvon\nBS3 2HQ\nUnited Kingdom"
+      "address": {
+        "text": "Ashton House\nAshton Vale Road\nBristol\nAvon\nBS3 2HQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4385114,
+        "lon": -2.629191
+      }
     },
     {
       "name": "CRFS Limited",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/crfs-limited",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Chelton Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/cobham-antenna-systems",
-      "address": "Lambda House\nCheveley\nNewmarket\nSuffolk\nCB8 9RG\nUnited Kingdom"
+      "address": {
+        "text": "Lambda House\nCheveley\nNewmarket\nSuffolk\nCB8 9RG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2146109,
+        "lon": 0.4635486
+      }
     },
     {
       "name": "Chora A/S",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/chora-a/s",
-      "address": "Mindet 2, 3\nAarhus C\nMidtjylland\n8000\nDenmark"
+      "address": {
+        "text": "Mindet 2, 3\nAarhus C\nMidtjylland\n8000\nDenmark",
+        "iso2": "DK",
+        "lat": 56.152082,
+        "lon": 10.213657
+      }
     },
     {
       "name": "Clarion Defence and Security",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/clarion-defence-and-security",
-      "address": "Bedford House\n69-79 Fullham High St\nFulham\nSW6 3JW\nUnited Kingdom"
+      "address": {
+        "text": "Bedford House\n69-79 Fullham High St\nFulham\nSW6 3JW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4685968,
+        "lon": -0.2092208
+      }
     },
     {
       "name": "CommsAudit",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/communications-audit-uk-ltd",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Decodio AG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/decodio-ag",
-      "address": "Technoparkstrasse 1\nZürich\n8005\nSwitzerland"
+      "address": {
+        "text": "Technoparkstrasse 1\nZürich\n8005\nSwitzerland",
+        "iso2": "CH",
+        "lat": 47.3895132,
+        "lon": 8.5153568
+      }
     },
     {
       "name": "ELDES s.r.l",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/eldes-srl",
-      "address": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ELETTRONICA S.P.A.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elettronica-spa",
-      "address": "Via Tiburtina Valeria km 13,700\nRoma\nRoma\n00131\nItaly"
+      "address": {
+        "text": "Via Tiburtina Valeria km 13,700\nRoma\nRoma\n00131\nItaly",
+        "iso2": "IT",
+        "lat": 41.93736,
+        "lon": 12.6183129
+      }
     },
     {
       "name": "ELTA Systems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elta-systems",
-      "address": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ERA a.s.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/era-as",
-      "address": "Czech Republic"
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "ERZIA",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/erzia",
-      "address": ".\n.\nSpain"
+      "country": {
+        "text": ".\n.\nSpain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ESROE Limited",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/esroe-limited",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Elbit Systems EW and SIGINT ? Elisra",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/elbit-systems-ew-and-sigint-elisra",
-      "address": "Hamerkava 29\nHolon\n5885118\nIsrael"
+      "address": {
+        "text": "Hamerkava 29\nHolon\n5885118\nIsrael",
+        "iso2": "IL",
+        "lat": 32.01503,
+        "lon": 34.808327
+      }
     },
     {
       "name": "Empower RF Systems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/empower-rf-systems",
-      "address": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "FS Antennentechnik GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/fs-antennentechnik-gmbh",
-      "address": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "FinFisher GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/finfisher-gmbh",
-      "address": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Galleon Embedded Computing AS",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/galleon-embedded-computing-as",
-      "address": "Hovfaret 10\nOslo\nOslo\n0275\nNorway"
+      "address": {
+        "text": "Hovfaret 10\nOslo\nOslo\n0275\nNorway",
+        "iso2": "NO",
+        "lat": 59.926413,
+        "lon": 10.6760166
+      }
     },
     {
       "name": "Glenair UK Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/glenair-uk-ltd",
-      "address": "Oakham Business Park\n40 Lower Oakham Way\nMansfield\nNottinghamshire\nNG18 5BY\nUnited Kingdom"
+      "address": {
+        "text": "Oakham Business Park\n40 Lower Oakham Way\nMansfield\nNottinghamshire\nNG18 5BY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.1281037,
+        "lon": -1.2160904
+      }
     },
     {
       "name": "HENSOLDT",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/hensoldt-holding-germany-gmbh",
-      "address": ".\n.\nGermany"
+      "country": {
+        "text": ".\n.\nGermany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "HawkEye 360 Inc.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/hawkeye-360-inc",
-      "address": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "INNOSYSTEC GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/innosystec-gmbh",
-      "address": "INNOSYSTEC GmbH\nAm Wasserstall 16\nSalem-Neufrach\nBaden-Württemberg\n88682\nGermany"
+      "address": {
+        "text": "INNOSYSTEC GmbH\nAm Wasserstall 16\nSalem-Neufrach\nBaden-Württemberg\n88682\nGermany",
+        "iso2": "DE",
+        "lat": 47.7534141,
+        "lon": 9.304141
+      }
     },
     {
       "name": "IZT GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/izt-gmbh",
-      "address": "Am Weichselgarten 5\n91058\nGermany"
+      "address": {
+        "text": "Am Weichselgarten 5\n91058\nGermany",
+        "iso2": "DE",
+        "lat": 49.5436963,
+        "lon": 11.0268236
+      }
     },
     {
       "name": "Infozahyst",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/infozahyst",
-      "address": "INFOZAHYST\n2 Hospitalna St., of.3\nKyiv\n01023\nUkraine"
+      "address": {
+        "text": "INFOZAHYST\n2 Hospitalna St., of.3\nKyiv\n01023\nUkraine",
+        "iso2": "UA",
+        "lat": 50.43780539999999,
+        "lon": 30.5244426
+      }
     },
     {
       "name": "Interface Concept",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/interface-concept",
-      "address": "3, rue Félix Le Dantec\nQuimper\n29000\nFrance"
+      "address": {
+        "text": "3, rue Félix Le Dantec\nQuimper\n29000\nFrance",
+        "iso2": "FR",
+        "lat": 47.97876249999999,
+        "lon": -4.1051046
+      }
     },
     {
       "name": "Keysight Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/keysight-technologies",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Leonardo MW Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/leonardo-mw-ltd",
-      "address": "One Eagle Place\nLondon\nSW1Y 6AF\nUnited Kingdom"
+      "address": {
+        "text": "One Eagle Place\nLondon\nSW1Y 6AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5091788,
+        "lon": -0.1353635
+      }
     },
     {
       "name": "MASS Consultants Ltd.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mass-consultants-ltd",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MBDA",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mbda",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MCS Test Equiptment",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mcs-test-equiptment",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Microwave Specialty Company",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/microwave-specialty-company",
-      "address": "2066 Wineridge Place\nEscondido\n92029\nUnited States"
+      "address": {
+        "text": "2066 Wineridge Place\nEscondido\n92029\nUnited States",
+        "iso2": "US",
+        "lat": 33.1156604,
+        "lon": -117.1149393
+      }
     },
     {
       "name": "Mittler Report",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/mittler-report",
-      "address": "Beethovenallee 21\nBonn\nNRW\n53173\nGermany"
+      "address": {
+        "text": "Beethovenallee 21\nBonn\nNRW\n53173\nGermany",
+        "iso2": "DE",
+        "lat": 50.68783269999999,
+        "lon": 7.1582417
+      }
     },
     {
       "name": "NSI-MI Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/nsi-mi-technologies",
-      "address": "NSI-MI Technologies\n1125 Satellite Boulevard\nSuite 100\nSuwanee\nGA\n30024\nUnited States"
+      "address": {
+        "text": "NSI-MI Technologies\n1125 Satellite Boulevard\nSuite 100\nSuwanee\nGA\n30024\nUnited States",
+        "iso2": "US",
+        "lat": 34.0142085,
+        "lon": -84.0710819
+      }
     },
     {
       "name": "Novator Solutions AB",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/novator-solutions-ab",
-      "address": "Hammarbacken 6A\nSollentuna\nStockholm\n191 49\nSweden"
+      "address": {
+        "text": "Hammarbacken 6A\nSollentuna\nStockholm\n191 49\nSweden",
+        "iso2": "SE",
+        "lat": 59.4451639,
+        "lon": 17.9231586
+      }
     },
     {
       "name": "PETARDS JOYCE-LOEBL LIMITED",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/petards-joyce-loebl-limited",
-      "address": "390\nPetards Joyce Loebl LTD, 390 Princesway\nTeam Valley Trading Estate\nGateshead\nTyne and Wear\nNE11 0TU\nUnited Kingdom"
+      "address": {
+        "text": "390\nPetards Joyce Loebl LTD, 390 Princesway\nTeam Valley Trading Estate\nGateshead\nTyne and Wear\nNE11 0TU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9351406,
+        "lon": -1.6233572
+      }
     },
     {
       "name": "PLATH GmbH & Co. KG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/plath-gmbh-co-kg",
-      "address": "Gotenstr. 18\nHamburg\n20079\nGermany"
+      "address": {
+        "text": "Gotenstr. 18\nHamburg\n20079\nGermany",
+        "iso2": "DE",
+        "lat": 53.5493089,
+        "lon": 10.0250663
+      }
     },
     {
       "name": "PLATH Group",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/plath-gmbh-1",
-      "address": "Gotenstr. 18\nHamburg\n20097\nGermany"
+      "address": {
+        "text": "Gotenstr. 18\nHamburg\n20097\nGermany",
+        "iso2": "DE",
+        "lat": 53.5493089,
+        "lon": 10.0250663
+      }
     },
     {
       "name": "PLATH Signal Products GmbH & Co. KG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/plath-signal-products-gmbh-co-kg",
-      "address": "Gotenstr. 18\nHamburg\n20097\nGermany"
+      "address": {
+        "text": "Gotenstr. 18\nHamburg\n20097\nGermany",
+        "iso2": "DE",
+        "lat": 53.5493089,
+        "lon": 10.0250663
+      }
     },
     {
       "name": "PROCITEC GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/procitec-gmbh",
-      "address": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Patria Aviation Oy Systems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/patria-aviation-oy-systems",
-      "address": "Hatanpään valtatie 30\nTampere\n33100\nFinland"
+      "address": {
+        "text": "Hatanpään valtatie 30\nTampere\n33100\nFinland",
+        "iso2": "FI",
+        "lat": 61.4889032,
+        "lon": 23.771981
+      }
     },
     {
       "name": "Photonis Defense, Inc.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/photonis-defense-inc",
-      "address": "1000 New Holland Ave\nLancaster\nPA\n17601\nUnited States"
+      "address": {
+        "text": "1000 New Holland Ave\nLancaster\nPA\n17601\nUnited States",
+        "iso2": "US",
+        "lat": 40.0537417,
+        "lon": -76.2832931
+      }
     },
     {
       "name": "Rafael",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/rafael",
-      "address": "POB 2250 HAIFA, ISRAEL\nHAIFA\nIsrael\n3202102\nIsrael"
+      "address": {
+        "text": "POB 2250 HAIFA, ISRAEL\nHAIFA\nIsrael\n3202102\nIsrael",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      }
     },
     {
       "name": "Rohde & Schwarz GmbH & Co. KG",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/rohde-schwarz-gmbh-co-kg",
-      "address": "Muehldorfstr. 15\nMunich\nBavaria\nD-81671\nGermany"
+      "address": {
+        "text": "Muehldorfstr. 15\nMunich\nBavaria\nD-81671\nGermany",
+        "iso2": "DE",
+        "lat": 48.1278668,
+        "lon": 11.6119321
+      }
     },
     {
       "name": "Roke",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/roke",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SAAB AB..",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/saab-ab",
-      "address": "Nettovägen 6\nJärfälla\n17588\nSweden"
+      "address": {
+        "text": "Nettovägen 6\nJärfälla\n17588\nSweden",
+        "iso2": "SE",
+        "lat": 59.4125464,
+        "lon": 17.8353619
+      }
     },
     {
       "name": "SPHEREA GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/spherea-gmbh",
-      "address": "Building 400\nAviation Business Park\nBournemouth International Airport\nChristchurch\nDorset\nBH23 6NW\nUnited Kingdom"
+      "address": {
+        "text": "Building 400\nAviation Business Park\nBournemouth International Airport\nChristchurch\nDorset\nBH23 6NW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7810572,
+        "lon": -1.8410222
+      }
     },
     {
       "name": "SWISSto12 SA",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/swissto12-sa",
-      "address": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "Slipstream Engineering Design Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/slipstream-engineering-design-ltd",
-      "address": "Slipstream Engineering Design Ltd.\nUnit D Upper, Shipley Wharf\nWharf St.\nShipley\nWest Yorkshire\nBD17 7DW\nUnited Kingdom"
+      "address": {
+        "text": "Slipstream Engineering Design Ltd.\nUnit D Upper, Shipley Wharf\nWharf St.\nShipley\nWest Yorkshire\nBD17 7DW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.8356518,
+        "lon": -1.7779751
+      }
     },
     {
       "name": "Steatite Ltd",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/steatite-ltd",
-      "address": "Acanthus Road\nRavensbank Business Park\nRedditch\nWorcestershire\nB98 9EX\nUnited Kingdom"
+      "address": {
+        "text": "Acanthus Road\nRavensbank Business Park\nRedditch\nWorcestershire\nB98 9EX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3175819,
+        "lon": -1.8899175
+      }
     },
     {
       "name": "TCI International",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/tci-international",
-      "address": "3541 Gateway Blvd.\nFremont\nCA\n94538\nUnited States"
+      "address": {
+        "text": "3541 Gateway Blvd.\nFremont\nCA\n94538\nUnited States",
+        "iso2": "US",
+        "lat": 37.4743127,
+        "lon": -121.941256
+      }
     },
     {
       "name": "TMD Technologies",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/tmd-technologies",
-      "address": "TMD Technologies Ltd\nUnit 3 Swallowfield Way\nHayes\nMiddlesex\nUB3 1DQ\nUnited Kingdom"
+      "address": {
+        "text": "TMD Technologies Ltd\nUnit 3 Swallowfield Way\nHayes\nMiddlesex\nUB3 1DQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5074465,
+        "lon": -0.4345748
+      }
     },
     {
       "name": "Thales",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/thales-communications-security",
-      "address": "Avenue des louvresses\nGENNEVILLIERS\n92230\nFrance"
+      "address": {
+        "text": "Avenue des louvresses\nGENNEVILLIERS\n92230\nFrance",
+        "iso2": "FR",
+        "lat": 48.9434089,
+        "lon": 2.3054447
+      }
     },
     {
       "name": "Times Microwave Systems",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/times-microwave-systems",
-      "address": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "UK Partnered EWOS",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/uk-partnered-ewos",
-      "address": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Ultra",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/ultra-electronics-ewst",
-      "address": ".\n.\nUnited Kingdom"
+      "country": {
+        "text": ".\n.\nUnited Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "VIAVI Solutions, Inc.",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/viavi-solutions-inc",
-      "address": "10200 W York Street\nWichita\nKansas\n67215\nUnited States"
+      "address": {
+        "text": "10200 W York Street\nWichita\nKansas\n67215\nUnited States",
+        "iso2": "US",
+        "lat": 37.6240615,
+        "lon": -97.46046989999999
+      }
     },
     {
       "name": "WORK Microwave GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/work-microwave-gmbh",
-      "address": "Rudolf-Diesel-Ring 2\nHolzkirchen\n83607\nGermany"
+      "address": {
+        "text": "Rudolf-Diesel-Ring 2\nHolzkirchen\n83607\nGermany",
+        "iso2": "DE",
+        "lat": 47.8822236,
+        "lon": 11.7104072
+      }
     },
     {
       "name": "boger electronics GmbH",
       "exhibitorUrl": "https://www.aoceurope.org/exhibitors/boger-electronics-gmbh",
-      "address": "Grundesch 15\nAulendorf\n88326\nGermany"
+      "address": {
+        "text": "Grundesch 15\nAulendorf\n88326\nGermany",
+        "iso2": "DE",
+        "lat": 47.9299317,
+        "lon": 9.6072778
+      }
     }
   ]
 }

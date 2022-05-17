@@ -5,7 +5,12 @@
   "alias": "Feria Internacional del Aire y del Espacio",
   "startDate": "2012-03-27",
   "endDate": "2012-04-01",
-  "address": "II Brigada Aérea\nPudahuel\nChile",
+  "address": {
+    "text": "II Brigada Aérea\nPudahuel\nChile",
+    "iso2": "CL",
+    "lat": -33.4282187,
+    "lon": -70.7695003
+  },
   "website": [
     "http://fidae.cl/portal_fidae.aspx",
     "http://www.fidaegroup.cl/fidae-2012"

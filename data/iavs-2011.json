@@ -5,7 +5,12 @@
   "alias": "International Armoured Vehicles 2011",
   "startDate": "2011-02-07",
   "endDate": "2011-02-11",
-  "address": "The ExCel Centre\nLondon\nUK",
+  "address": {
+    "text": "The ExCel Centre\nLondon\nUK",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
   "website": "http://www.internationalarmouredvehicles.com",
   "social": [
     {

@@ -4,7 +4,12 @@
   "edition": "2005",
   "startDate": "2005-11-20",
   "endDate": "2005-11-24",
-  "address": "Airport Expo Dubai\nUnited Arab Emirates",
+  "address": {
+    "text": "Airport Expo Dubai\nUnited Arab Emirates",
+    "iso2": "AE",
+    "lat": 25.2369202,
+    "lon": 55.3808967
+  },
   "website": "http://www.fairs-exhibs.com/airshow05/",
   "organiser": [
     {

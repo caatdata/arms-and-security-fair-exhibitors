@@ -8,7 +8,12 @@
   ],
   "startDate": "2001-09-03",
   "endDate": "2001-09-06",
-  "address": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+  "address": {
+    "text": "Kielce Trade Fairs\nul. Zakładowa 1\n25-672 Kielce\nPoland",
+    "iso2": "PL",
+    "lat": 50.8998777,
+    "lon": 20.5890132
+  },
   "website": "http://www.targikielce.pl/2001/english/mspo1.html",
   "organiser": {
     "name": "Targi Kielce",
@@ -20,183 +25,359 @@
   "exhibitor": [
     {
       "name": "1 Logistics Żuralski",
-      "address": "Słupsk",
-      "country": "Poland"
+      "address": {
+        "text": "Słupsk",
+        "iso2": "PL",
+        "lat": 54.46414799999999,
+        "lon": 17.0284824
+      }
     },
     {
       "name": "A. Chalimoniuk i Wspólnicy ATM",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "AERONAUTICAL & GENERAL INSTRUMENTS LTD.",
-      "address": "Dorset",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Dorset",
+          "iso2": "GB",
+          "lat": 50.7487635,
+          "lon": -2.3444786
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "AFRICAN DEFENCE SYSTEMS (PTY) LTD.",
-      "address": "Midrand",
-      "country": "South Africa"
+      "address": {
+        "text": "Midrand",
+        "iso2": "ZA",
+        "lat": -25.9991795,
+        "lon": 28.1262927
+      }
     },
     {
       "name": "Agencja Lotnicza ALTAIR Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "AGENCJA MIENIA WOJSKOWEGO",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Agencja Rozwoju Przemysłu S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "AIR FLEET. Rusians Air Force, aircaft & space review",
-      "address": "Moskwa",
-      "country": "Russian Federation"
+      "address": {
+        "text": "Moskwa",
+        "iso2": "RU",
+        "lat": 55.755826,
+        "lon": 37.6173
+      }
     },
     {
       "name": "AKZO NOBEL CAR REEINISHES Poland Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "ALENIA DIFESA Divisione Otobreda a Finmeccanica Company",
-      "address": "La Spezia",
-      "country": "Italy"
+      "address": {
+        "text": "La Spezia",
+        "iso2": "IT",
+        "lat": 44.1024504,
+        "lon": 9.824082599999999
+      }
     },
     {
       "name": "ALSTEC LTD.",
-      "address": "Leicester",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Leicester",
+          "iso2": "GB",
+          "lat": 52.6368778,
+          "lon": -1.1397592
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "ARMED FORCES JOURNAL",
-      "address": "McLean",
-      "country": "USA"
+      "address": {
+        "text": "McLean",
+        "iso2": "US",
+        "lat": 38.9338676,
+        "lon": -77.1772604
+      }
     },
     {
       "name": "ARMPOL Przedsiębiorstwo Innowacyjno-Wdrożeniowe Sp. z o.o.",
-      "address": "Sulejówek",
-      "country": "Poland"
+      "address": {
+        "text": "Sulejówek",
+        "iso2": "PL",
+        "lat": 52.25242410000001,
+        "lon": 21.2690107
+      }
     },
     {
       "name": "ARMS. Russian Defence Technologies",
-      "address": "Moskwa",
-      "country": "Russian Federation"
+      "address": {
+        "text": "Moskwa",
+        "iso2": "RU",
+        "lat": 55.755826,
+        "lon": 37.6173
+      }
     },
     {
       "name": "ARPOL PPHU Arkadiusz Galas",
-      "address": "Bydgoszcz",
-      "country": "Poland"
+      "address": {
+        "text": "Bydgoszcz",
+        "iso2": "PL",
+        "lat": 53.12348040000001,
+        "lon": 18.0084378
+      }
     },
     {
       "name": "Asian Defence and Diplomacy (AD&D)",
-      "address": "Kuala Lumpur",
-      "country": "Malaysia"
+      "address": {
+        "text": "Kuala Lumpur",
+        "iso2": "MY",
+        "lat": 3.139003,
+        "lon": 101.686855
+      }
     },
     {
       "name": "ASSA POLAND Zdzisław Kondrat",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "ATM Computer GmbH",
-      "address": "Konstanz",
-      "country": "Germany"
+      "address": {
+        "text": "Konstanz",
+        "iso2": "DE",
+        "lat": 47.6779808,
+        "lon": 9.1736741
+      }
     },
     {
       "name": "ATTA International",
-      "address": "Victoia, Melboune",
-      "country": "Australia"
+      "address": {
+        "text": "Victoia, Melboune",
+        "iso2": "AU",
+        "lat": -37.8136276,
+        "lon": 144.9630576
+      }
     },
     {
       "name": "Autoflug GmbH",
-      "address": "Rellingen",
-      "country": "Germany"
+      "address": {
+        "text": "Rellingen",
+        "iso2": "DE",
+        "lat": 53.6509015,
+        "lon": 9.8338808
+      }
     },
     {
       "name": "AVIATION SERVICE Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "BAE Systems Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "BEATRONIC SUPPLY s.r.o.",
-      "address": "Brno",
-      "country": "Czech Republic"
+      "address": {
+        "text": "Brno",
+        "iso2": "CZ",
+        "lat": 49.1950602,
+        "lon": 16.6068371
+      }
     },
     {
       "name": "BEES-POL Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "BGT - Bodenseewerk Geratetechnik GmbH",
-      "address": "Uberlingen",
-      "country": "Germany"
+      "address": {
+        "text": "Uberlingen",
+        "iso2": "DE",
+        "lat": 47.7661746,
+        "lon": 9.1702772
+      }
     },
     {
       "name": "BHARAT ELECTRONICS LIMITED",
-      "address": "Bangalore",
-      "country": "India"
+      "address": {
+        "text": "Bangalore",
+        "iso2": "IN",
+        "lat": 12.9715987,
+        "lon": 77.5945627
+      }
     },
     {
       "name": "BIPROMASZ BIPRON TRADING Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "BRISTOL AEROSPACE LIMITED",
-      "address": "Winnipeg",
-      "country": "Manitoba"
+      "address": [
+        {
+          "text": "Winnipeg",
+          "iso2": "CA",
+          "lat": 49.895136,
+          "lon": -97.13837439999999
+        },
+        {
+          "text": "Manitoba",
+          "iso2": "CA",
+          "lat": 53.7608608,
+          "lon": -98.81387629999999
+        }
+      ]
     },
     {
       "name": "Buck Neue Technologien GmbH",
-      "address": "Neuenburg/Baden",
-      "country": "Germany"
+      "address": {
+        "text": "Neuenburg/Baden",
+        "iso2": "DE",
+        "lat": 47.8140501,
+        "lon": 7.559168700000001
+      }
     },
     {
       "name": "Budowa Pojazdów Specjalnych Zbigniew Szczęśniak",
-      "address": "Jaworze Dolne",
-      "country": "Poland"
+      "address": {
+        "text": "Jaworze Dolne",
+        "iso2": "PL",
+        "lat": 49.9541139,
+        "lon": 21.3517591
+      }
     },
     {
       "name": "Bydgoskie Zakłady Elektromechaniczne BELMA S.A.",
-      "address": "Bydgoszcz",
-      "country": "Poland"
+      "address": {
+        "text": "Bydgoszcz",
+        "iso2": "PL",
+        "lat": 53.12348040000001,
+        "lon": 18.0084378
+      }
     },
     {
       "name": "CASE-PACK EMINENCE",
-      "address": "Luboń",
-      "country": "Poland"
+      "address": {
+        "text": "Luboń",
+        "iso2": "PL",
+        "lat": 52.3461661,
+        "lon": 16.8773762
+      }
     },
     {
       "name": "CENTRONIC LTD.",
-      "address": "New Addington, Croydon, Surrey",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "New Addington, Croydon, Surrey",
+          "iso2": "GB",
+          "lat": 51.348184,
+          "lon": -0.017094
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "Centrum Naukowo-Produkcyjne Elektroniki Profesjonalnej RADWAR S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "COGES (EUROSATORY)",
-      "address": "Paryż",
-      "country": "France"
+      "address": {
+        "text": "Paryż",
+        "iso2": "FR",
+        "lat": 48.856614,
+        "lon": 2.3522219
+      }
     },
     {
       "name": "DENEL Ltd Kentrom Division",
-      "address": "Centurion",
-      "country": "South Africa"
+      "address": {
+        "text": "Centurion",
+        "iso2": "ZA",
+        "lat": -25.864029,
+        "lon": 28.0888578
+      }
     },
     {
       "name": "DEUTSCHE HUTCHINSON GmbH",
@@ -205,76 +386,142 @@
     },
     {
       "name": "DGT Sp. z o.o.",
-      "address": "Gdańsk",
-      "country": "Poland"
+      "address": {
+        "text": "Gdańsk",
+        "iso2": "PL",
+        "lat": 54.35202520000001,
+        "lon": 18.6466384
+      }
     },
     {
       "name": "DIDSBURY ENGINEERING LTD.",
-      "address": "Manchester",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Manchester",
+          "iso2": "GB",
+          "lat": 53.4807593,
+          "lon": -2.2426305
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "DIEHL Avionik Systeme",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Diehl Remscheid GmbH & Co.",
-      "address": "Remscheid",
-      "country": "Germany"
+      "address": {
+        "text": "Remscheid",
+        "iso2": "DE",
+        "lat": 51.1787418,
+        "lon": 7.189696199999998
+      }
     },
     {
       "name": "DOM WYDAWNICZY BELLONA",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "DOMAR s.c.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "EADS - Eurometaal",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "EADS - MILITARY AIRCRAFT",
-      "address": "Monachium",
-      "country": "Germany"
+      "address": {
+        "text": "Monachium",
+        "iso2": "DE",
+        "lat": 48.1351253,
+        "lon": 11.5819806
+      }
     },
     {
       "name": "EADS - SYTEMS & DEFENCE ELECTRONICS",
-      "address": "Friedrichshafen",
-      "country": "Germany"
+      "address": {
+        "text": "Friedrichshafen",
+        "iso2": "DE",
+        "lat": 47.65673289999999,
+        "lon": 9.4649538
+      }
     },
     {
       "name": "EADS (European Aeronautic Defence & Space Company N.V.)",
-      "address": "Friedrichshafen",
-      "country": "Germany"
+      "address": {
+        "text": "Friedrichshafen",
+        "iso2": "DE",
+        "lat": 47.65673289999999,
+        "lon": 9.4649538
+      }
     },
     {
       "name": "EADS Construcciones Aeronauticas S.A. (CASA)",
-      "address": "Madryt",
-      "country": "Spain"
+      "address": {
+        "text": "Madryt",
+        "iso2": "ES",
+        "lat": 40.4167754,
+        "lon": -3.7037902
+      }
     },
     {
       "name": "EKO-OPEN Sp. z o.o.",
-      "address": "Płock",
-      "country": "Poland"
+      "address": {
+        "text": "Płock",
+        "iso2": "PL",
+        "lat": 52.5463446,
+        "lon": 19.7065364
+      }
     },
     {
       "name": "ELBIT Systems Ltd.",
-      "address": "Haifa",
-      "country": "Israel"
+      "address": {
+        "text": "Haifa",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      }
     },
     {
       "name": "Elektromontaż-Export S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "ELFA Poland Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "EMA HOCHSCHULZ s.c.",
@@ -288,960 +535,1867 @@
     },
     {
       "name": "ERICSSON-MICROWAVE SYSTEMS Poland",
-      "address": "Gdańsk",
-      "country": "Poland"
+      "address": {
+        "text": "Gdańsk",
+        "iso2": "PL",
+        "lat": 54.35202520000001,
+        "lon": 18.6466384
+      }
     },
     {
       "name": "ESG Electroniksystem und Logistik GmbH",
-      "address": "Monachium",
-      "country": "Germany"
+      "address": {
+        "text": "Monachium",
+        "iso2": "DE",
+        "lat": 48.1351253,
+        "lon": 11.5819806
+      }
     },
     {
       "name": "ESW-EXTEL Systems Wedel Gessllschaft fuer Ausruestung mbH",
-      "address": "Wedel",
-      "country": "Germany"
+      "address": {
+        "text": "Wedel",
+        "iso2": "DE",
+        "lat": 53.58238129999999,
+        "lon": 9.7137465
+      }
     },
     {
       "name": "EUROMISSILE",
-      "address": "Fontenay aux Roses",
-      "country": "France"
+      "address": {
+        "text": "Fontenay aux Roses",
+        "iso2": "FR",
+        "lat": 48.789776,
+        "lon": 2.287181
+      }
     },
     {
       "name": "Fabryka Broni ŁUCZNIK - Radom Sp. z o.o.",
-      "address": "Radom",
-      "country": "Poland"
+      "address": {
+        "text": "Radom",
+        "iso2": "PL",
+        "lat": 51.40272359999999,
+        "lon": 21.1471333
+      }
     },
     {
       "name": "FASER Fabryka Sprzętu Ratunkowego i Lamp Górniczych",
-      "address": "Tarnowskie Góry",
-      "country": "Poland"
+      "address": {
+        "text": "Tarnowskie Góry",
+        "iso2": "PL",
+        "lat": 50.4359468,
+        "lon": 18.8460247
+      }
     },
     {
       "name": "FIAT AUTO POLAND S.A.",
-      "address": "Bielsko-Biała",
-      "country": "Poland"
+      "address": {
+        "text": "Bielsko-Biała",
+        "iso2": "PL",
+        "lat": 49.8223768,
+        "lon": 19.0583845
+      }
     },
     {
       "name": "FIGHT VISIONS",
-      "country": "Great Britain"
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
     },
     {
       "name": "Firearms Training Systems Inc. (FATS)",
-      "address": "Lincolnshire",
-      "country": "USA"
+      "address": {
+        "text": "Lincolnshire",
+        "iso2": "GB",
+        "lat": 52.9451889,
+        "lon": -0.1601246
+      },
+      "country": {
+        "text": "USA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLIR SYSTEMS Ltd.",
-      "address": "Westmalling",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Westmalling",
+          "iso2": "GB",
+          "lat": 51.2944249,
+          "lon": 0.408784
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "French Ministry of Defense (DGA)",
-      "address": "Issy-Les-Moulineaux",
-      "country": "France"
+      "address": {
+        "text": "Issy-Les-Moulineaux",
+        "iso2": "FR",
+        "lat": 48.8245306,
+        "lon": 2.2743419
+      }
     },
     {
       "name": "GASTROMEDIA Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "GAZETA POLICYJNA",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "General Electric International Inc.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "GIAT INDUSTRIES",
-      "address": "Versailles Cedex",
-      "country": "France"
+      "address": {
+        "text": "Versailles Cedex",
+        "iso2": "FR",
+        "lat": 48.801408,
+        "lon": 2.130122
+      }
     },
     {
       "name": "GIWS",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "H.Cegielski-Poznań S.A.",
-      "address": "Poznań",
-      "country": "Poland"
+      "address": {
+        "text": "Poznań",
+        "iso2": "PL",
+        "lat": 52.406374,
+        "lon": 16.9251681
+      }
     },
     {
       "name": "HOLSTERS PROFESIONAL EQUIPMENT",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "Honeywell Regelsysteme GmbH",
-      "address": "Maintal",
-      "country": "Germany"
+      "address": {
+        "text": "Maintal",
+        "iso2": "DE",
+        "lat": 50.14720579999999,
+        "lon": 8.824969099999999
+      }
     },
     {
       "name": "HUTA STALOWA WOLA S.A.",
-      "address": "Stalowa Wola",
-      "country": "Poland"
+      "address": {
+        "text": "Stalowa Wola",
+        "iso2": "PL",
+        "lat": 50.5826005,
+        "lon": 22.053586
+      }
     },
     {
       "name": "HYDROMEGA Sp. z o.o.",
-      "address": "Gdynia",
-      "country": "Poland"
+      "address": {
+        "text": "Gdynia",
+        "iso2": "PL",
+        "lat": 54.5188898,
+        "lon": 18.5305409
+      }
     },
     {
       "name": "IBCOL TECHNICAL SERVICES GmbH",
-      "address": "Haar (Munich)",
-      "country": "Germany"
+      "address": {
+        "text": "Haar (Munich)",
+        "iso2": "DE",
+        "lat": 48.1103758,
+        "lon": 11.7321151
+      }
     },
     {
       "name": "IMS-GRIFFIN Sp. z o.o.",
-      "address": "Szczecin",
-      "country": "Poland"
+      "address": {
+        "text": "Szczecin",
+        "iso2": "PL",
+        "lat": 53.4285438,
+        "lon": 14.5528116
+      }
     },
     {
       "name": "Instytut Przemysłu Organicznego",
-      "address": "Warszawa-Żereń",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa-Żereń",
+        "iso2": "PL",
+        "lat": 52.3129114,
+        "lon": 20.9948343
+      }
     },
     {
       "name": "Instytut Techniczny Wojsk Lotniczych",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Instytut Technicznych Wyrobów Włókienniczych MORATEX",
-      "address": "Łódź",
-      "country": "Poland"
+      "address": {
+        "text": "Łódź",
+        "iso2": "PL",
+        "lat": 51.7592485,
+        "lon": 19.4559833
+      }
     },
     {
       "name": "ION TRACK INSTRUMENTS LTD.",
-      "address": "Cambridge",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Cambridge",
+          "iso2": "GB",
+          "lat": 52.1950788,
+          "lon": 0.1312729
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "ISRAEL MILITARY INDUSTRIES LTD",
-      "address": "Ramat Hasharov",
-      "country": "Israel"
+      "address": {
+        "text": "Ramat Hasharov",
+        "iso2": "IL",
+        "lat": 32.137793,
+        "lon": 34.840278
+      }
     },
     {
       "name": "IVECO aifo",
-      "address": "Nckarsulm",
-      "country": "Germany"
+      "address": {
+        "text": "Nckarsulm",
+        "iso2": "DE",
+        "lat": 49.1922581,
+        "lon": 9.228708899999999
+      }
     },
     {
       "name": "IVECO aifo",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "IVECO POLAND Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "KABE s.c.",
-      "address": "Mikołów",
-      "country": "Poland"
+      "address": {
+        "text": "Mikołów",
+        "iso2": "PL",
+        "lat": 50.1790184,
+        "lon": 18.9038037
+      }
     },
     {
       "name": "Kombinat PZL-HYDRAL S.A.",
-      "address": "Wrocław",
-      "country": "Poland"
+      "address": {
+        "text": "Wrocław",
+        "iso2": "PL",
+        "lat": 51.1078852,
+        "lon": 17.0385376
+      }
     },
     {
       "name": "LANTOR UNIVERSAL CARBON FIBRES",
-      "address": "Yorkshire",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Yorkshire",
+          "iso2": "GB",
+          "lat": 53.9590858,
+          "lon": -1.0792403
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "LOCKHEED MARTIN INTERNATIONAL S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Logistyka DWL - Służby Materiałowe",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Logistyka DWL - Służby Techniczne",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Lubelskie Zakłady Przemysłu Skórzanego PROTEKTOR S.A.",
-      "address": "Lublin",
-      "country": "Poland"
+      "address": {
+        "text": "Lublin",
+        "iso2": "PL",
+        "lat": 51.2464536,
+        "lon": 22.5684463
+      }
     },
     {
       "name": "Magazyn Centralny Centrum Sp. z o.o.",
-      "address": "Kutno",
-      "country": "Poland"
+      "address": {
+        "text": "Kutno",
+        "iso2": "PL",
+        "lat": 52.230618,
+        "lon": 19.364278
+      }
     },
     {
       "name": "MAN Pojazdy Użytkowe Poland Sp. z o.o.",
-      "address": "Nadarzyn",
-      "country": "Poland"
+      "address": {
+        "text": "Nadarzyn",
+        "iso2": "PL",
+        "lat": 52.0935847,
+        "lon": 20.8060621
+      }
     },
     {
       "name": "MARCONI MOBILE S.p.A.",
-      "address": "Genova",
-      "country": "Italy"
+      "address": {
+        "text": "Genova",
+        "iso2": "IT",
+        "lat": 44.4056499,
+        "lon": 8.946256
+      }
     },
     {
       "name": "Mauser Werk Obendorf Waffensysteme GmbH",
-      "address": "Oberndorf",
-      "country": "Germany"
+      "address": {
+        "text": "Oberndorf",
+        "iso2": "DE",
+        "lat": 48.2946154,
+        "lon": 8.5765805
+      }
     },
     {
       "name": "MEDCOM Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "MEN-METALLWERK Elisenhutte GmbH Nassau",
-      "address": "Nassau",
-      "country": "Germany"
+      "address": {
+        "text": "Nassau",
+        "iso2": "BS",
+        "lat": 25.0443312,
+        "lon": -77.3503609
+      },
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "METALEXPORT Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "METALWARENFABRIK GEMMINGEN GmbH GEKO",
-      "address": "Gemmingen",
-      "country": "Germany"
+      "address": {
+        "text": "Gemmingen",
+        "iso2": "DE",
+        "lat": 49.1555624,
+        "lon": 8.9811199
+      }
     },
     {
       "name": "MILFOR S.A.",
-      "address": "Olsztyn",
-      "country": "Poland"
+      "address": {
+        "text": "Olsztyn",
+        "iso2": "PL",
+        "lat": 53.778422,
+        "lon": 20.4801193
+      }
     },
     {
       "name": "MILITARY PARADE Ltd.",
-      "address": "Moskwa",
-      "country": "Russian Federation"
+      "address": {
+        "text": "Moskwa",
+        "iso2": "RU",
+        "lat": 55.755826,
+        "lon": 37.6173
+      }
     },
     {
       "name": "MINISTERSTWO OBRONY NARODOWEJ",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "MMC CONSULTING",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "MOENCH Publishing Group",
-      "address": "Bonn",
-      "country": "Germany"
+      "address": {
+        "text": "Bonn",
+        "iso2": "DE",
+        "lat": 50.73743,
+        "lon": 7.0982068
+      }
     },
     {
       "name": "MS Instruments PLC",
-      "address": "Bromley",
-      "country": "Kent"
+      "address": [
+        {
+          "text": "Bromley",
+          "iso2": "GB",
+          "lat": 51.406025,
+          "lon": 0.013156
+        },
+        {
+          "text": "Kent",
+          "iso2": "GB",
+          "lat": 51.2787075,
+          "lon": 0.5217254000000001
+        }
+      ]
     },
     {
       "name": "NAT Import Eksport Leszek Cichocki",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "NICO - Pyrotechnik Hanns Jurgen Diederichs GmbH",
-      "address": "Trittau",
-      "country": "Germany"
+      "address": {
+        "text": "Trittau",
+        "iso2": "DE",
+        "lat": 53.61115119999999,
+        "lon": 10.4028748
+      }
     },
     {
       "name": "NICO Pyrotechnik GmbH",
-      "address": "Trittau",
-      "country": "Germany"
+      "address": {
+        "text": "Trittau",
+        "iso2": "DE",
+        "lat": 53.61115119999999,
+        "lon": 10.4028748
+      }
     },
     {
       "name": "Nitrochemie Wimmis A.G.",
-      "address": "Wimmis",
-      "country": "Switzerland"
+      "address": {
+        "text": "Wimmis",
+        "iso2": "CH",
+        "lat": 46.67611669999999,
+        "lon": 7.638627199999999
+      }
     },
     {
       "name": "NORABEL Ignition Systems AB",
-      "address": "Lindesberg",
-      "country": "Sweden"
+      "address": {
+        "text": "Lindesberg",
+        "iso2": "SE",
+        "lat": 59.5976983,
+        "lon": 15.2229108
+      }
     },
     {
       "name": "NORTHROP GRUMMAN Corporation",
-      "address": "Melbourne",
-      "country": "Florida"
+      "address": [
+        {
+          "text": "Melbourne",
+          "iso2": "AU",
+          "lat": -37.8136276,
+          "lon": 144.9630576
+        },
+        {
+          "text": "Florida",
+          "iso2": "US",
+          "lat": 27.6648274,
+          "lon": -81.5157535
+        }
+      ]
     },
     {
       "name": "Nowa Technika Wojskowa (Magnum X)",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Oerlikon Contraves A.G.",
-      "address": "Zurich",
-      "country": "Switzerland"
+      "address": {
+        "text": "Zurich",
+        "iso2": "CH",
+        "lat": 47.3768866,
+        "lon": 8.541694
+      }
     },
     {
       "name": "OPTIMA ENCLOSURES LTD.",
-      "address": "Edinburgh",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Edinburgh",
+          "iso2": "GB",
+          "lat": 55.953252,
+          "lon": -3.188267
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "OSTROWSKI ARMS Firma Handlu Zagranicznego",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Ośrodek Badawczo-Rozwojowy Centrum Techniki Morskiej",
-      "address": "Gdynia",
-      "country": "Poland"
+      "address": {
+        "text": "Gdynia",
+        "iso2": "PL",
+        "lat": 54.5188898,
+        "lon": 18.5305409
+      }
     },
     {
       "name": "Ośrodek Badawczo-Rozwojowy Sprzętu Mechanicznego",
-      "address": "Tarnów",
-      "country": "Poland"
+      "address": {
+        "text": "Tarnów",
+        "iso2": "PL",
+        "lat": 50.0121011,
+        "lon": 20.9858407
+      }
     },
     {
       "name": "Ośrodek Badawczo-Rozwojowy Urządzeń Mechanicznych OBRUM",
-      "address": "Gliwice",
-      "country": "Poland"
+      "address": {
+        "text": "Gliwice",
+        "iso2": "PL",
+        "lat": 50.29449229999999,
+        "lon": 18.6713802
+      }
     },
     {
       "name": "OXLEY DEVELOPMENTS Co. LTD.",
-      "address": "Ulverton, Cumbria",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Ulverton, Cumbria",
+          "iso2": "GB",
+          "lat": 54.195138,
+          "lon": -3.09267
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "PEP MODULAR COMPUTERS Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "PHOENIX SIMULATION LTD",
-      "address": "Liverpool Gardens, Worthing",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Liverpool Gardens, Worthing",
+          "iso2": "GB",
+          "lat": 50.8122217,
+          "lon": -0.3720737
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "PIK-AS Austria",
-      "address": "Mariasdorf",
-      "country": "Austria"
+      "address": {
+        "text": "Mariasdorf",
+        "iso2": "AT",
+        "lat": 47.3656499,
+        "lon": 16.2318325
+      }
     },
     {
       "name": "Poland Izba Producentów Na Rzecz Obronności Kraju",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Poland ZBROJNA Tygodnik Wojskowy",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Polskie Zakłady Lotnicze Sp. z o.o.",
-      "address": "Mielec",
-      "country": "Poland"
+      "address": {
+        "text": "Mielec",
+        "iso2": "PL",
+        "lat": 50.287063,
+        "lon": 21.4238101
+      }
     },
     {
       "name": "Polskie Zakłady Optyczne S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "PPHUP PRODUCTS M.Kupczak",
-      "address": "Kalisz",
-      "country": "Poland"
+      "address": {
+        "text": "Kalisz",
+        "iso2": "PL",
+        "lat": 51.76727990000001,
+        "lon": 18.0853462
+      }
     },
     {
       "name": "PPUH PROF-BEH s.c.",
-      "address": "Tarnowskie Góry",
-      "country": "Poland"
+      "address": {
+        "text": "Tarnowskie Góry",
+        "iso2": "PL",
+        "lat": 50.4359468,
+        "lon": 18.8460247
+      }
     },
     {
       "name": "Pratt & Whitney Government Engines",
-      "address": "West Palm Beach",
-      "country": "USA"
+      "address": {
+        "text": "West Palm Beach",
+        "iso2": "US",
+        "lat": 26.7153424,
+        "lon": -80.0533746
+      }
     },
     {
       "name": "Przedsiębiorstwo Badawczo-Produkcyjne AVIOMET Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przedsiębiorstwo Handlowo-Usługowe CENREX Sp. z o.o.",
-      "address": "Warszawa 40",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa 40",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przedsiębiorstwo Handlu Zagranicznego BUMAR Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przedsiębiorstwo Handlu Zagranicznego CENZIN Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przedsiębiorstwo Innowacyjno-Wdrożeniowe PREXER-PROJEKT Sp. z o.o.",
-      "address": "Łódź",
-      "country": "Poland"
+      "address": {
+        "text": "Łódź",
+        "iso2": "PL",
+        "lat": 51.7592485,
+        "lon": 19.4559833
+      }
     },
     {
       "name": "Przedsiębiorstwo PREXER Sp. z o.o.",
-      "address": "Łódź",
-      "country": "Poland"
+      "address": {
+        "text": "Łódź",
+        "iso2": "PL",
+        "lat": 51.7592485,
+        "lon": 19.4559833
+      }
     },
     {
       "name": "Przedsiębiorstwo Produkcji Elementów Budowlanych KONTENER Sp. z o.o.",
-      "address": "Płock",
-      "country": "Poland"
+      "address": {
+        "text": "Płock",
+        "iso2": "PL",
+        "lat": 52.5463446,
+        "lon": 19.7065364
+      }
     },
     {
       "name": "Przedsiębiorstwo Produkcyjno-Usługowe i Handlowe RESAL Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przedsiębiorstwo Projektowo-Serwisowe, Elektroniki, Pomiarów i Automatyki EPA Sp. z o.o.",
-      "address": "Szczecin",
-      "country": "Poland"
+      "address": {
+        "text": "Szczecin",
+        "iso2": "PL",
+        "lat": 53.4285438,
+        "lon": 14.5528116
+      }
     },
     {
       "name": "Przedsiębiorstwo Sprzętu Ochronnego MASKPOL S.A.",
-      "address": "Panki",
-      "country": "Poland"
+      "address": {
+        "text": "Panki",
+        "iso2": "PL",
+        "lat": 50.8829915,
+        "lon": 18.7506382
+      }
     },
     {
       "name": "Przedsiębiorstwo Techniczno-Handlowe KOLT S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przegląd Obrony Cywilnej",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przemysłowe Centrum Optyki S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Przemysłowy Instytut Telekomunikacji",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Pyrotechnik Silberhotte GmbH",
-      "address": "Silberhutte",
-      "country": "Germany"
+      "address": {
+        "text": "Silberhutte",
+        "iso2": "DE",
+        "lat": 51.6957189,
+        "lon": 10.503894
+      }
     },
     {
       "name": "PZL ŚWIDNIK S.A.",
-      "address": "Świdnik",
-      "country": "Poland"
+      "address": {
+        "text": "Świdnik",
+        "iso2": "PL",
+        "lat": 51.2168207,
+        "lon": 22.6914272
+      }
     },
     {
       "name": "PZL WARSZAWA-OKĘCIE S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "QUANTUM Sp. z o.o.",
-      "address": "Wrocław",
-      "country": "Poland"
+      "address": {
+        "text": "Wrocław",
+        "iso2": "PL",
+        "lat": 51.1078852,
+        "lon": 17.0385376
+      }
     },
     {
       "name": "RADIOTECHNIKA Marketing Sp. z o.o.",
-      "address": "Wrocław",
-      "country": "Poland"
+      "address": {
+        "text": "Wrocław",
+        "iso2": "PL",
+        "lat": 51.1078852,
+        "lon": 17.0385376
+      }
     },
     {
       "name": "RADMOR S.A.",
-      "address": "Gdynia",
-      "country": "Poland"
+      "address": {
+        "text": "Gdynia",
+        "iso2": "PL",
+        "lat": 54.5188898,
+        "lon": 18.5305409
+      }
     },
     {
       "name": "Radomska Wytwórnia Telefonów - TELEFONY POLSKIE S.A.",
-      "address": "Radom",
-      "country": "Poland"
+      "address": {
+        "text": "Radom",
+        "iso2": "PL",
+        "lat": 51.40272359999999,
+        "lon": 21.1471333
+      }
     },
     {
       "name": "RAFAEL Israel Armament Development Authority",
-      "address": "Haifa",
-      "country": "Israel"
+      "address": {
+        "text": "Haifa",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      }
     },
     {
       "name": "RAYTHEON International Ing.",
-      "address": "Praga",
-      "country": "Czech Republic"
+      "address": {
+        "text": "Praga",
+        "iso2": "CZ",
+        "lat": 50.0755381,
+        "lon": 14.4378005
+      }
     },
     {
       "name": "RENEX",
-      "address": "Włocławek",
-      "country": "Poland"
+      "address": {
+        "text": "Włocławek",
+        "iso2": "PL",
+        "lat": 52.6483303,
+        "lon": 19.0677357
+      }
     },
     {
       "name": "Rheinmetall DETEC AG",
-      "address": "Dusseldorf",
-      "country": "Germany"
+      "address": {
+        "text": "Dusseldorf",
+        "iso2": "DE",
+        "lat": 51.2277411,
+        "lon": 6.7734556
+      }
     },
     {
       "name": "Rheinmetall Landsysteme GmbH",
-      "address": "Kiel",
-      "country": "Germany"
+      "address": {
+        "text": "Kiel",
+        "iso2": "DE",
+        "lat": 54.3232927,
+        "lon": 10.1227652
+      }
     },
     {
       "name": "Rheinmetall W & M GmbH",
-      "address": "Unterluss",
-      "country": "Germany"
+      "address": {
+        "text": "Unterluss",
+        "iso2": "DE",
+        "lat": 52.8510882,
+        "lon": 10.2905255
+      }
     },
     {
       "name": "Rohde & Schwarz Osterreich GmbH o/Warszawa",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "RST s.c.",
-      "address": "Białystok",
-      "country": "Poland"
+      "address": {
+        "text": "Białystok",
+        "iso2": "PL",
+        "lat": 53.13248859999999,
+        "lon": 23.1688403
+      }
     },
     {
       "name": "Russian Publishing House RA INTERVESTNIK",
-      "address": "Moskwa",
-      "country": "Russian Federation"
+      "address": {
+        "text": "Moskwa",
+        "iso2": "RU",
+        "lat": 55.755826,
+        "lon": 37.6173
+      }
     },
     {
       "name": "S.A.B.C.A.",
-      "address": "Bruksela",
-      "country": "Belgium"
+      "address": {
+        "text": "Bruksela",
+        "iso2": "BE",
+        "lat": 50.8476424,
+        "lon": 4.3571696
+      }
     },
     {
       "name": "S.E.R.T.",
-      "address": "Barbieres",
-      "country": "France"
+      "address": {
+        "text": "Barbieres",
+        "iso2": "FR",
+        "lat": 44.956277,
+        "lon": 5.141076000000001
+      }
     },
     {
       "name": "SAGEM S.A. Division Defense et Securite",
-      "address": "Nanterre Cedex",
-      "country": "France"
+      "address": {
+        "text": "Nanterre Cedex",
+        "iso2": "FR",
+        "lat": 48.892423,
+        "lon": 2.215331
+      }
     },
     {
       "name": "SCHOLLE EUROPE LTD t/as JW. AUTOMARINE",
-      "address": "Norfolk",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Norfolk",
+          "iso2": "GB",
+          "lat": 52.6139686,
+          "lon": 0.8864021
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "SELMAR",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "SILTEC Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Spółdzielnia Pracy Wyrobów Skórzanych im. Jana Kilińskiego",
-      "address": "Gdynia",
-      "country": "Poland"
+      "address": {
+        "text": "Gdynia",
+        "iso2": "PL",
+        "lat": 54.5188898,
+        "lon": 18.5305409
+      }
     },
     {
       "name": "Spółka Inżynierów SIM Sp. z o.o. z siedzibą w Lublinie",
-      "address": "Lublin",
-      "country": "Poland"
+      "address": {
+        "text": "Lublin",
+        "iso2": "PL",
+        "lat": 51.2464536,
+        "lon": 22.5684463
+      }
     },
     {
       "name": "STAR TRUCKS Sp. z o.o.",
-      "address": "Starachowice",
-      "country": "Poland"
+      "address": {
+        "text": "Starachowice",
+        "iso2": "PL",
+        "lat": 51.0368289,
+        "lon": 21.0709769
+      }
     },
     {
       "name": "Steyr - Daimler - Puch Spezialfahrzeug AG",
-      "address": "Wien",
-      "country": "Austria"
+      "address": {
+        "text": "Wien",
+        "iso2": "AT",
+        "lat": 48.2081743,
+        "lon": 16.3738189
+      }
     },
     {
       "name": "STN Atlas Electronic GmbH",
-      "address": "Bremen",
-      "country": "Germany"
+      "address": {
+        "text": "Bremen",
+        "iso2": "DE",
+        "lat": 53.07929619999999,
+        "lon": 8.8016937
+      }
     },
     {
       "name": "STOCZNIA PÓŁNOCNA S.A.",
-      "address": "Gdańsk",
-      "country": "Poland"
+      "address": {
+        "text": "Gdańsk",
+        "iso2": "PL",
+        "lat": 54.35202520000001,
+        "lon": 18.6466384
+      }
     },
     {
       "name": "STOMIL-POZNAŃ S.A.",
-      "address": "Poznań",
-      "country": "Poland"
+      "address": {
+        "text": "Poznań",
+        "iso2": "PL",
+        "lat": 52.406374,
+        "lon": 16.9251681
+      }
     },
     {
       "name": "Subaquatic Technical Systems Ltd. (t/a SAT Systems)",
-      "address": "Isle of Man",
-      "country": "Great Britain"
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      },
+      "country": {
+        "text": "Isle of Man",
+        "iso2": "IM"
+      }
     },
     {
       "name": "SWE-DISH WAHLBERG & SELIN AB",
-      "address": "Sztokholm",
-      "country": "Sweden"
+      "address": {
+        "text": "Sztokholm",
+        "iso2": "SE",
+        "lat": 59.32932349999999,
+        "lon": 18.0685808
+      }
     },
     {
       "name": "Świętokrzyski Urząd Wojewódzki w Kielcach",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "TARMOT Przedsiębiorstwo Wielobranżowe",
-      "address": "Wysogotowo",
-      "country": "Poland"
+      "address": {
+        "text": "Wysogotowo",
+        "iso2": "PL",
+        "lat": 52.41202389999999,
+        "lon": 16.7766825
+      }
     },
     {
       "name": "TECHSPACE AERO",
-      "address": "Herstal",
-      "country": "Belgium"
+      "address": {
+        "text": "Herstal",
+        "iso2": "BE",
+        "lat": 50.6699566,
+        "lon": 5.6391753
+      }
     },
     {
       "name": "TELKOM-TELOS S.A.",
-      "address": "Kraków",
-      "country": "Poland"
+      "address": {
+        "text": "Kraków",
+        "iso2": "PL",
+        "lat": 50.06465009999999,
+        "lon": 19.9449799
+      }
     },
     {
       "name": "TELZAS Sp. z o.o.",
-      "address": "Szczecinek",
-      "country": "Poland"
+      "address": {
+        "text": "Szczecinek",
+        "iso2": "PL",
+        "lat": 53.7100713,
+        "lon": 16.6993602
+      }
     },
     {
       "name": "TERMA A/S Air Defense Systems Division",
-      "address": "Lystrup",
-      "country": "Dennmark"
+      "address": {
+        "text": "Lystrup",
+        "iso2": "DK",
+        "lat": 56.2316307,
+        "lon": 10.2303381
+      }
     },
     {
       "name": "TERRAFIX LTD.",
-      "address": "Stoke on Trent, Staffs.",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Stoke on Trent, Staffs.",
+          "iso2": "GB",
+          "lat": 53.0033369,
+          "lon": -2.1827408
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "TEZANA Sp. z.o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "THALES",
-      "address": "Hengelo Ov.",
-      "country": "Holland"
+      "address": {
+        "text": "Hengelo Ov.",
+        "iso2": "NL",
+        "lat": 52.2574121,
+        "lon": 6.7927725
+      }
     },
     {
       "name": "THALES AIR DEFENCE",
-      "address": "Bagneux",
-      "country": "France"
+      "address": {
+        "text": "Bagneux",
+        "iso2": "FR",
+        "lat": 48.796696,
+        "lon": 2.31002
+      }
     },
     {
       "name": "THALES COMMUNICATIONS",
-      "country": "Holland"
+      "country": {
+        "text": "Holland",
+        "iso2": "NL"
+      }
     },
     {
       "name": "THALES NEDERLAND",
-      "address": "Hengelo Ov.",
-      "country": "Holland"
+      "address": {
+        "text": "Hengelo Ov.",
+        "iso2": "NL",
+        "lat": 52.2574121,
+        "lon": 6.7927725
+      }
     },
     {
       "name": "THREE QUAYS MARINE SERVICES LTD.",
-      "address": "London",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "London",
+          "iso2": "GB",
+          "lat": 51.5072178,
+          "lon": -0.1275862
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "Tłocznia Metali PRESSTA S.A.",
-      "address": "Owińska",
-      "country": "Bolechowo"
+      "address": [
+        {
+          "text": "Owińska",
+          "iso2": "PL",
+          "lat": 52.5115883,
+          "lon": 16.9760723
+        },
+        {
+          "text": "Bolechowo",
+          "iso2": "PL",
+          "lat": 52.5459267,
+          "lon": 16.9891444
+        }
+      ]
     },
     {
       "name": "TUV PRODUCT SERVICES LTD",
-      "address": "Fareham, Hampshire",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Fareham, Hampshire",
+          "iso2": "GB",
+          "lat": 50.8548464,
+          "lon": -1.1865868
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "UKRSPETSEXPORT",
-      "address": "Kijów",
-      "country": "Ukraine"
+      "address": {
+        "text": "Kijów",
+        "iso2": "UA",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
     },
     {
       "name": "UNIMOR RADIOCOM Sp. z o.o.",
-      "address": "Gdańsk",
-      "country": "Poland"
+      "address": {
+        "text": "Gdańsk",
+        "iso2": "PL",
+        "lat": 54.35202520000001,
+        "lon": 18.6466384
+      }
     },
     {
       "name": "United Defense FMC/BMY",
-      "address": "Santa Clara",
-      "country": "California"
+      "address": [
+        {
+          "text": "Santa Clara",
+          "iso2": "US",
+          "lat": 37.3541079,
+          "lon": -121.9552356
+        },
+        {
+          "text": "California",
+          "iso2": "US",
+          "lat": 36.778261,
+          "lon": -119.4179324
+        }
+      ]
     },
     {
       "name": "UNITRONEX POLAND Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Urząd Marszałkowski Województwa Świętokrzyskiego",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "Urząd Miejski w Kielcach",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "VEGA GROUP PLC",
-      "address": "Hertfordshire",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "Hertfordshire",
+          "iso2": "GB",
+          "lat": 51.80978229999999,
+          "lon": -0.2376744
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "W.L. GORE & ASSOCIATES Poland Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "WAWRZASZEK Inżynieria Samochodów Specjalnych",
-      "address": "Bielsko-Biała",
-      "country": "Poland"
+      "address": {
+        "text": "Bielsko-Biała",
+        "iso2": "PL",
+        "lat": 49.8223768,
+        "lon": 19.0583845
+      }
     },
     {
       "name": "WB Electronics Sp. z o.o.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "WEBASTO-PETEMAR Sp. z o.o.",
-      "address": "Łomianki",
-      "country": "Poland"
+      "address": {
+        "text": "Łomianki",
+        "iso2": "PL",
+        "lat": 52.3336578,
+        "lon": 20.8869862
+      }
     },
     {
       "name": "WILLIAM COOK DEFENCE",
-      "address": "County Durham",
-      "country": "Great Britain"
+      "address": [
+        {
+          "text": "County Durham",
+          "iso2": "GB",
+          "lat": 54.7294099,
+          "lon": -1.8811598
+        },
+        {
+          "text": "Great Britain",
+          "iso2": "GB",
+          "lat": 53.8337367,
+          "lon": -2.4290148
+        }
+      ]
     },
     {
       "name": "Wojska Aeromobilne",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojska Inżynieryjne",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojska Obrony Przeciwchemicznej",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojska Obrony Przeciwlotniczej",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojska Pancerne i Zmechanizowane",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojska Rakietowe i Artylerii",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojskowa Akademia Techniczna",
-      "address": "Warszawa 49",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa 49",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojskowe Centrum Szkolenia Dla Potrzeb Sił Pokojowych ONZ im. gen. Broni Władysława Sikorskiego",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "Wojskowe Zakłady Inżynieryjne",
-      "address": "Dęblin",
-      "country": "Poland"
+      "address": {
+        "text": "Dęblin",
+        "iso2": "PL",
+        "lat": 51.56269,
+        "lon": 21.86528
+      }
     },
     {
       "name": "Wojskowe Zakłady Lotnicze Nr 2",
-      "address": "Bydgoszcz",
-      "country": "Poland"
+      "address": {
+        "text": "Bydgoszcz",
+        "iso2": "PL",
+        "lat": 53.12348040000001,
+        "lon": 18.0084378
+      }
     },
     {
       "name": "Wojskowe Zakłady Łączności Nr 2",
-      "address": "Czernica",
-      "country": "Poland"
+      "address": {
+        "text": "Czernica",
+        "iso2": "PL",
+        "lat": 51.0457859,
+        "lon": 17.2449367
+      }
     },
     {
       "name": "Wojskowe Zakłady Mechaniczne",
-      "address": "Siemianowice Śl.",
-      "country": "Poland"
+      "address": {
+        "text": "Siemianowice Śl.",
+        "iso2": "PL",
+        "lat": 50.3264314,
+        "lon": 19.0295714
+      }
     },
     {
       "name": "Wojskowe Zakłady Motoryzacyjne Nr 5",
-      "address": "Poznań",
-      "country": "Poland"
+      "address": {
+        "text": "Poznań",
+        "iso2": "PL",
+        "lat": 52.406374,
+        "lon": 16.9251681
+      }
     },
     {
       "name": "Wojskowe Zakłady Uzbrojenia Nr 2",
-      "address": "Grudziądz",
-      "country": "Poland"
+      "address": {
+        "text": "Grudziądz",
+        "iso2": "PL",
+        "lat": 53.4837486,
+        "lon": 18.753565
+      }
     },
     {
       "name": "Wojskowy Instytut Chemii i Radiometrii",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojskowy Instytut Łączności im. prof. Janusza Groszkowskiego",
-      "address": "Zegrze",
-      "country": "Poland"
+      "address": {
+        "text": "Zegrze",
+        "iso2": "PL",
+        "lat": 52.46060139999999,
+        "lon": 21.0320358
+      }
     },
     {
       "name": "Wojskowy Instytut Medycyny Lotniczej",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Wojskowy Instytut Techniki Inżynieryjnej",
-      "address": "Wrocław 43",
-      "country": "Poland"
+      "address": {
+        "text": "Wrocław 43",
+        "iso2": "PL",
+        "lat": 51.1078852,
+        "lon": 17.0385376
+      }
     },
     {
       "name": "Wojskowy Instytut Techniki Pancernej i Samochodowej",
-      "address": "Sulejówek",
-      "country": "Poland"
+      "address": {
+        "text": "Sulejówek",
+        "iso2": "PL",
+        "lat": 52.25242410000001,
+        "lon": 21.2690107
+      }
     },
     {
       "name": "WSK PZL - KALISZ S.A.",
-      "address": "Kalisz",
-      "country": "Poland"
+      "address": {
+        "text": "Kalisz",
+        "iso2": "PL",
+        "lat": 51.76727990000001,
+        "lon": 18.0853462
+      }
     },
     {
       "name": "WSK PZL - RZESZÓW S.A.",
-      "address": "Rzeszów",
-      "country": "Poland"
+      "address": {
+        "text": "Rzeszów",
+        "iso2": "PL",
+        "lat": 50.0411867,
+        "lon": 21.9991196
+      }
     },
     {
       "name": "WSK PZL - WARSZAWA II S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zakład Mechaniczny WIFAMA Sp. z o.o.",
-      "address": "Łódź",
-      "country": "Poland"
+      "address": {
+        "text": "Łódź",
+        "iso2": "PL",
+        "lat": 51.7592485,
+        "lon": 19.4559833
+      }
     },
     {
       "name": "Zakład Narzędziowy PZL - MIELEC Sp. z o.o.",
-      "address": "Mielec",
-      "country": "Poland"
+      "address": {
+        "text": "Mielec",
+        "iso2": "PL",
+        "lat": 50.287063,
+        "lon": 21.4238101
+      }
     },
     {
       "name": "Zakład Pojazdów Specjalnych AUTO - SHL S.A.",
-      "address": "Kielce",
-      "country": "Poland"
+      "address": {
+        "text": "Kielce",
+        "iso2": "PL",
+        "lat": 50.8660773,
+        "lon": 20.6285677
+      }
     },
     {
       "name": "Zakład Urządzeń Dozymetrycznych POLON-ALFA Sp. z o.o.",
-      "address": "Bydgoszcz",
-      "country": "Poland"
+      "address": {
+        "text": "Bydgoszcz",
+        "iso2": "PL",
+        "lat": 53.12348040000001,
+        "lon": 18.0084378
+      }
     },
     {
       "name": "Zakłady Chemiczne NITRO-CHEM S.A.",
-      "address": "Bydgoszcz",
-      "country": "Poland"
+      "address": {
+        "text": "Bydgoszcz",
+        "iso2": "PL",
+        "lat": 53.12348040000001,
+        "lon": 18.0084378
+      }
     },
     {
       "name": "Zakłady Elektromechaniczne ELEKTRA",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zakłady Elektroniczne WAREL S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zakłady Mechaniczne BUMAR ŁABĘDY S.A.",
-      "address": "Gliwice",
-      "country": "Poland"
+      "address": {
+        "text": "Gliwice",
+        "iso2": "PL",
+        "lat": 50.29449229999999,
+        "lon": 18.6713802
+      }
     },
     {
       "name": "Zakłady Mechaniczne PZL - WOLA S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zakłady Mechaniczne TARNÓW S.A.",
-      "address": "Tarnów",
-      "country": "Poland"
+      "address": {
+        "text": "Tarnów",
+        "iso2": "PL",
+        "lat": 50.0121011,
+        "lon": 20.9858407
+      }
     },
     {
       "name": "Zakłady Metalowe DEZAMET S.A.",
-      "address": "Nowa Dęba",
-      "country": "Poland"
+      "address": {
+        "text": "Nowa Dęba",
+        "iso2": "PL",
+        "lat": 50.42959,
+        "lon": 21.75077
+      }
     },
     {
       "name": "Zakłady Metalowe MESKO S.A.",
-      "address": "Skarżysko-Kam.",
-      "country": "Poland"
+      "address": {
+        "text": "Skarżysko-Kam.",
+        "iso2": "PL",
+        "lat": 51.114294,
+        "lon": 20.8477827
+      }
     },
     {
       "name": "Zakłady Produkcji Specjalnej Sp. z o.o.",
-      "address": "Pionki",
-      "country": "Poland"
+      "address": {
+        "text": "Pionki",
+        "iso2": "PL",
+        "lat": 51.4757752,
+        "lon": 21.4500545
+      }
     },
     {
       "name": "Zakłady Samochodowe JELCZ S.A.",
-      "address": "Jelcz-Laskowice",
-      "country": "Poland"
+      "address": {
+        "text": "Jelcz-Laskowice",
+        "iso2": "PL",
+        "lat": 51.0212945,
+        "lon": 17.3164789
+      }
     },
     {
       "name": "Zakłady Sieci Rybackich S.A.",
-      "address": "Korsze",
-      "country": "Poland"
+      "address": {
+        "text": "Korsze",
+        "iso2": "PL",
+        "lat": 54.16967,
+        "lon": 21.13909
+      }
     },
     {
       "name": "Zakłady Tworzyw Sztucznych ERG-BIERUŃ S.A.",
-      "address": "Bieruń",
-      "country": "Poland"
+      "address": {
+        "text": "Bieruń",
+        "iso2": "PL",
+        "lat": 50.08999,
+        "lon": 19.09291
+      }
     },
     {
       "name": "Zakłady Tworzyw Sztucznych GAMRAT S.A.",
-      "address": "Jasło",
-      "country": "Poland"
+      "address": {
+        "text": "Jasło",
+        "iso2": "PL",
+        "lat": 49.7445663,
+        "lon": 21.4722875
+      }
     },
     {
       "name": "Zarząd Dowodzenia i Łączności DWL",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zarząd Rozpoznania i WRE DWL",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zasada S.A.",
-      "address": "Warszawa",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     },
     {
       "name": "Zeiss Optronik GmbH",
-      "address": "Oberkochen",
-      "country": "Germany"
+      "address": {
+        "text": "Oberkochen",
+        "iso2": "DE",
+        "lat": 48.78526,
+        "lon": 10.1046879
+      }
     },
     {
       "name": "ŻOŁNIERZ POLSKI",
-      "address": "Warszawa 66",
-      "country": "Poland"
+      "address": {
+        "text": "Warszawa 66",
+        "iso2": "PL",
+        "lat": 52.2296756,
+        "lon": 21.0122287
+      }
     }
   ]
 }

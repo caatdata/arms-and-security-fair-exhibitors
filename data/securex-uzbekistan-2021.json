@@ -5,7 +5,12 @@
   "alias": "12th Central Asian International Exhibition for Industrial Safety. Personal Protection Technologies. Equipment & systems for security & fire extinguishing. IT solutions. Data security",
   "startDate": "2021-11-03",
   "endDate": "2021-11-05",
-  "address": "Tashkent\nUzbekistan",
+  "address": {
+    "text": "Tashkent\nUzbekistan",
+    "iso2": "UZ",
+    "lat": 41.2994958,
+    "lon": 69.2400734
+  },
   "website": "https://securex.uz/en/",
   "organiser": [
     {

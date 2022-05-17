@@ -5,7 +5,12 @@
   "edition": "2012",
   "startDate": "2012-06-25",
   "endDate": "2012-06-27",
-  "address": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+  "address": {
+    "text": "The Queen Elizabeth II Conference Centre\nBroad Sanctuary\nWestminster\nLondon\nSW1P 3EE\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.5005006,
+    "lon": -0.1290725
+  },
   "website": "http://securingasia.com/home.aspx",
   "organiser": [
     {
@@ -23,31 +28,31 @@
   "exhibitor": [
     {
       "name": "Titania",
-      "website": "https://www.titania-security.com/"
+      "website": "https://www.titania-security.com"
     },
     {
       "name": "Anubis Associates Ltd",
-      "website": "http://anubisltd.com/"
+      "website": "http://anubisltd.com"
     },
     {
       "name": "Tiger Helicopters",
-      "website": "http://www.tigerhelicopters.co.uk/"
+      "website": "http://www.tigerhelicopters.co.uk"
     },
     {
       "name": "C2UK",
-      "website": "http://www.c2ukltd.com/"
+      "website": "http://www.c2ukltd.com"
     },
     {
       "name": "UK Cyber Lab",
-      "website": "http://www.ukcyberlab.com/"
+      "website": "http://www.ukcyberlab.com"
     },
     {
       "name": "Forensic Pathways",
-      "website": "http://www.forensic-pathways.com/"
+      "website": "http://www.forensic-pathways.com"
     },
     {
       "name": "Octaga Group",
-      "website": "http://www.octaga.co.uk/"
+      "website": "http://www.octaga.co.uk"
     },
     {
       "name": "West Midlands UK Trade & Investment (UKTI)",
@@ -55,7 +60,7 @@
     },
     {
       "name": "Enterprise Control Systems (ECS)",
-      "website": "http://www.enterprisecontrol.co.uk/"
+      "website": "http://www.enterprisecontrol.co.uk"
     },
     {
       "name": "Heintzmann - Sicherheitssysteme GmbH & Co. KG",
@@ -63,43 +68,43 @@
     },
     {
       "name": "Indianeye Security (India)",
-      "website": "http://indianeyesecurity.com/"
+      "website": "http://indianeyesecurity.com"
     },
     {
       "name": "ISS -Infrared Security Systems (UK)",
-      "website": "http://www.iss-thermal.com/"
+      "website": "http://www.iss-thermal.com"
     },
     {
       "name": "Armatus Risks",
-      "website": "http://www.armatus-group.com/"
+      "website": "http://www.armatus-group.com"
     },
     {
       "name": "RedXDefence (USA)",
-      "website": "http://www.redxdefense.com/"
+      "website": "http://www.redxdefense.com"
     },
     {
       "name": "CSD Global (UK)",
-      "website": "http://www.csdglobalgroup.com/"
+      "website": "http://www.csdglobalgroup.com"
     },
     {
       "name": "Kratos Eneterprises",
-      "website": "http://www.kratosenterprises.co.uk/"
+      "website": "http://www.kratosenterprises.co.uk"
     },
     {
       "name": "Matom",
-      "website": "http://www.matom.com/"
+      "website": "http://www.matom.com"
     },
     {
       "name": "Private Mobile Networks",
-      "website": "http://www.privatemobilenetworks.com/"
+      "website": "http://www.privatemobilenetworks.com"
     },
     {
       "name": "Vemotion",
-      "website": "http://www.vemotion.com/"
+      "website": "http://www.vemotion.com"
     },
     {
       "name": "SAAB",
-      "website": "http://www.saabgroup.com/"
+      "website": "http://www.saabgroup.com"
     }
   ],
   "delegationListDate": "2022-03-06T15:51:36+00:00",

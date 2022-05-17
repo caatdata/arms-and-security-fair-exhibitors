@@ -5,8 +5,13 @@
   "alias": "11th International Event for Homeland Security and Civil Defence",
   "startDate": "2016-10-31",
   "endDate": "2016-11-02",
-  "address": "Doha Exhibition and Convention Center\nDoha\nQatar",
-  "website": "https://www.milipolqatar.com/",
+  "address": {
+    "text": "Doha Exhibition and Convention Center\nDoha\nQatar",
+    "iso2": "QA",
+    "lat": 25.323225,
+    "lon": 51.53000249999999
+  },
+  "website": "https://www.milipolqatar.com",
   "social": [
     {
       "platform": "facebook",

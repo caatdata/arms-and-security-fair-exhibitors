@@ -8,7 +8,12 @@
   "edition": "2003",
   "startDate": "2003-11-12",
   "endDate": "2003-11-14",
-  "address": "Suntec Singapore international Convention and Exhibition Centre\nSuntec City\nSingapore",
+  "address": {
+    "text": "Suntec Singapore international Convention and Exhibition Centre\nSuntec City\nSingapore",
+    "iso2": "SG",
+    "lat": 1.2936739,
+    "lon": 103.8572447
+  },
   "website": "http://www.udt-asia.com/exhibitors/",
   "organiser": [
     {

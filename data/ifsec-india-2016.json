@@ -4,7 +4,12 @@
   "edition": "2016",
   "startDate": "2016-12-08",
   "endDate": "2016-12-10",
-  "address": "Pragati Maidan\nNew Delhi\nIndia",
+  "address": {
+    "text": "Pragati Maidan\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.6126456,
+    "lon": 77.2433578
+  },
   "website": "https://www.ifsec.events/india/",
   "organiser": [
     {

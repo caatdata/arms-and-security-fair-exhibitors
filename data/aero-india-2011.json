@@ -4,7 +4,12 @@
   "edition": "2011",
   "startDate": "2011-02-09",
   "endDate": "2011-02-13",
-  "address": "Yelahanka Air Force Station\nBenglauru\nIndia",
+  "address": {
+    "text": "Yelahanka Air Force Station\nBenglauru\nIndia",
+    "iso2": "IN",
+    "lat": 13.1372433,
+    "lon": 77.6102844
+  },
   "website": "https://aeroindia.gov.in",
   "exhibitorListUrl": "http://www.showdailys.com/E-publisher/2011_02_10_13_16_42/document.pdf",
   "exhibitorListDate": "2011-02-10T12:16:42+00:00",

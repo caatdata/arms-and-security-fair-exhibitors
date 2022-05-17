@@ -5,8 +5,13 @@
   "edition": "2005",
   "startDate": "2005-05-03",
   "endDate": "2005-05-05",
-  "address": "Brno Exhibition Centre\nBrno\nCzech Republic",
-  "website": "http://online.idet.cz/",
+  "address": {
+    "text": "Brno Exhibition Centre\nBrno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
+  "website": "http://online.idet.cz",
   "organiser": [
     {
       "name": "BVV Trade Fairs Brno",

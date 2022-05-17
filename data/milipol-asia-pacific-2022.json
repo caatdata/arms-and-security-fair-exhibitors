@@ -4,8 +4,13 @@
   "edition": "2022",
   "startDate": "2022-05-18",
   "endDate": "2022-05-20",
-  "address": "Sands Expo and Convention Centre",
-  "website": "https://www.milipolasiapacific.com/",
+  "address": {
+    "text": "Sands Expo and Convention Centre",
+    "iso2": "SG",
+    "lat": 1.282611,
+    "lon": 103.8585366
+  },
+  "website": "https://www.milipolasiapacific.com",
   "social": [
     {
       "platform": "twitter",

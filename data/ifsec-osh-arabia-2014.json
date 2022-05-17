@@ -4,7 +4,12 @@
   "edition": "2014",
   "startDate": "2014-11-02",
   "endDate": "2014-11-04",
-  "address": "RICEC\nRiyadh\nKingdom of Saudi Arabia",
+  "address": {
+    "text": "RICEC\nRiyadh\nKingdom of Saudi Arabia",
+    "iso2": "SA",
+    "lat": 24.7530708,
+    "lon": 46.7267723
+  },
   "website": "http://www.ifsec-osh-arabia.com/page.cfm/ID=1",
   "organiser": [
     {

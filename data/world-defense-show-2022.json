@@ -4,7 +4,6 @@
   "edition": "2022",
   "startDate": "2022-03-06",
   "endDate": "2022-03-09",
-  "address": "Saudi Arabia",
   "website": "https://worlddefenseshow.com",
   "social": [
     {
@@ -25,15 +24,18 @@
   "exhibitor": [
     {
       "name": "Oshkosh Defense",
-      "website": "http://www.oshkoshdefense.com/",
-      "country": "United States of America (USA)",
+      "website": "http://www.oshkoshdefense.com",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Defense Technology Equipment Inc.",
-      "website": "http://www.defense-tech.com/",
+      "website": "http://www.defense-tech.com",
       "category": [
         "AIR"
       ]
@@ -48,15 +50,18 @@
     },
     {
       "name": "HawkEye 360",
-      "website": "http://www.he360.com/",
-      "country": "United States of America (USA)",
+      "website": "http://www.he360.com",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "SATELLITE"
       ]
     },
     {
       "name": "TEDAE",
-      "website": "http://www.tedae.org/",
+      "website": "http://www.tedae.org",
       "category": [
         "AIR",
         "LAND",
@@ -67,7 +72,7 @@
     },
     {
       "name": "ADS Group",
-      "website": "http://www.adsgroup.org.uk/",
+      "website": "http://www.adsgroup.org.uk",
       "category": [
         "AIR",
         "LAND",
@@ -78,14 +83,14 @@
     },
     {
       "name": "TAJHEEZ AL MOEDDAT",
-      "website": "http://www.tajheezalmoeddat.com/",
+      "website": "http://www.tajheezalmoeddat.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Salama Radiator",
-      "website": "http://www.salamaradiator.com/",
+      "website": "http://www.salamaradiator.com",
       "category": [
         "AIR",
         "LAND",
@@ -152,7 +157,10 @@
     },
     {
       "name": "LPP s.r.o.",
-      "country": "Czech Republic",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -161,14 +169,14 @@
     },
     {
       "name": "http://www.ott.co.za",
-      "website": "http://ott.co.za/",
+      "website": "http://ott.co.za",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Broadcast Microwave Services",
-      "website": "http://www.bms-inc.com/",
+      "website": "http://www.bms-inc.com",
       "category": [
         "LAND",
         "SEA",
@@ -177,7 +185,7 @@
     },
     {
       "name": "Allen-Vanguard",
-      "website": "http://www.allenvanguard.com/",
+      "website": "http://www.allenvanguard.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -185,7 +193,7 @@
     },
     {
       "name": "ATLAS ELEKTRONIK UK",
-      "website": "http://www.atlas-elektronik.com/",
+      "website": "http://www.atlas-elektronik.com",
       "category": [
         "SEA"
       ]
@@ -214,7 +222,7 @@
     },
     {
       "name": "Asbar Al Khaleej",
-      "website": "http://www.asbaralkhaleej.com/",
+      "website": "http://www.asbaralkhaleej.com",
       "category": [
         "LAND",
         "SATELLITE"
@@ -222,7 +230,7 @@
     },
     {
       "name": "LACROIX",
-      "website": "http://www.lacroix-defense.com/",
+      "website": "http://www.lacroix-defense.com",
       "category": [
         "AIR",
         "LAND",
@@ -231,7 +239,7 @@
     },
     {
       "name": "Avon Protection",
-      "website": "http://www.avon-protection.com/",
+      "website": "http://www.avon-protection.com",
       "category": [
         "AIR",
         "LAND",
@@ -240,7 +248,7 @@
     },
     {
       "name": "CILAS",
-      "website": "http://www.cilas.com/",
+      "website": "http://www.cilas.com",
       "category": [
         "AIR",
         "LAND",
@@ -259,7 +267,7 @@
     },
     {
       "name": "Survitec",
-      "website": "http://www.survitecgroup.com/",
+      "website": "http://www.survitecgroup.com",
       "category": [
         "AIR",
         "LAND",
@@ -268,7 +276,7 @@
     },
     {
       "name": "InVeris Training Solutions",
-      "website": "http://www.inveristraining.com/",
+      "website": "http://www.inveristraining.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -276,7 +284,7 @@
     },
     {
       "name": "Blighter Surveillance Systems",
-      "website": "http://www.blighter.com/",
+      "website": "http://www.blighter.com",
       "category": [
         "AIR",
         "LAND",
@@ -286,14 +294,14 @@
     },
     {
       "name": "Jadara Equipment & Defence Systems PSC",
-      "website": "http://www.jadara.jo/",
+      "website": "http://www.jadara.jo",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Saudi Mechanical Industries Co. (SMi)",
-      "website": "http://www.smi.com.sa/",
+      "website": "http://www.smi.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -303,7 +311,7 @@
     },
     {
       "name": "Navantia",
-      "website": "http://www.navantia.es/",
+      "website": "http://www.navantia.es",
       "category": [
         "LAND",
         "SEA"
@@ -311,7 +319,7 @@
     },
     {
       "name": "Arabian Axles",
-      "website": "http://www.arabianaxles.com/",
+      "website": "http://www.arabianaxles.com",
       "category": [
         "LAND"
       ]
@@ -326,22 +334,28 @@
     },
     {
       "name": "Al Tadrea Manufacturing Company (TMC)",
-      "website": "http://www.altadrea.com/",
-      "country": "Saudi Arabia",
+      "website": "http://www.altadrea.com",
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      },
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Juffali Industrial Product Company (JIPCO)",
-      "country": "Saudi Arabia",
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      },
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Dynamic Drone Solution",
-      "website": "http://www.dynamicdronesolution.com/",
+      "website": "http://www.dynamicdronesolution.com",
       "category": [
         "AIR",
         "LAND"
@@ -357,14 +371,14 @@
     },
     {
       "name": "Aimpoint AB",
-      "website": "http://www.aimpoint.com/",
+      "website": "http://www.aimpoint.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Smart Battery Charger (SBC)",
-      "website": "http://www.m2kinc.com/",
+      "website": "http://www.m2kinc.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -381,7 +395,7 @@
     },
     {
       "name": "ALKHORAYEF GROUP www.alkhorayef.com",
-      "website": "http://www.alkhorayef.com/",
+      "website": "http://www.alkhorayef.com",
       "category": [
         "LAND",
         "NON-DEFENSE SECURITY",
@@ -398,7 +412,7 @@
     },
     {
       "name": "Saudi Aerospace Company",
-      "website": "http://www.sac.sa.com/",
+      "website": "http://www.sac.sa.com",
       "category": [
         "AIR",
         "LAND",
@@ -408,7 +422,7 @@
     },
     {
       "name": "ERAF Industrial Company",
-      "website": "http://www.eraf.com/",
+      "website": "http://www.eraf.com",
       "category": [
         "LAND",
         "SEA",
@@ -417,7 +431,7 @@
     },
     {
       "name": "GDC Middle East",
-      "website": "http://www.gdcme.com/",
+      "website": "http://www.gdcme.com",
       "category": [
         "AIR",
         "SATELLITE",
@@ -451,7 +465,7 @@
     },
     {
       "name": "Deloitte",
-      "website": "http://www.deloitte.com/",
+      "website": "http://www.deloitte.com",
       "category": [
         "AIR",
         "LAND",
@@ -469,7 +483,7 @@
     },
     {
       "name": "Hanwha",
-      "website": "http://www.hanwha.com/",
+      "website": "http://www.hanwha.com",
       "category": [
         "AIR",
         "LAND",
@@ -480,29 +494,32 @@
     },
     {
       "name": "Pearson Engineering Ltd",
-      "website": "http://www.pearson-eng.com/",
+      "website": "http://www.pearson-eng.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Trijicon",
-      "website": "http://www.trijicon.com/",
+      "website": "http://www.trijicon.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "NP Aerospace",
-      "website": "http://www.npaerospace.com/",
+      "website": "http://www.npaerospace.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Spectra Group (UK)",
-      "website": "http://www.spectra-group.co.uk/",
-      "country": "United Kingdom",
+      "website": "http://www.spectra-group.co.uk",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "category": [
         "SATELLITE"
       ]
@@ -543,14 +560,14 @@
     },
     {
       "name": "Viking Air Limited",
-      "website": "http://www.vikingair.com/",
+      "website": "http://www.vikingair.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "ARSENAL 2000 JSCo",
-      "website": "http://www.arsenal-bg.com/",
+      "website": "http://www.arsenal-bg.com",
       "category": [
         "LAND"
       ]
@@ -565,7 +582,7 @@
     },
     {
       "name": "Opticoelectron Group JSCo",
-      "website": "http://www.opticoel.com/",
+      "website": "http://www.opticoel.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -580,14 +597,14 @@
     },
     {
       "name": "EXCALIBUR ARMY Ltd.",
-      "website": "http://www.excaliburarmy.cz/",
+      "website": "http://www.excaliburarmy.cz",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Bridgeway Pro-Barriers",
-      "website": "http://www.pro-barriers.com/",
+      "website": "http://www.pro-barriers.com",
       "category": [
         "SECURITY"
       ]
@@ -600,7 +617,7 @@
     },
     {
       "name": "LIG Nex1",
-      "website": "http://www.lignex1.com/",
+      "website": "http://www.lignex1.com",
       "category": [
         "AIR",
         "LAND",
@@ -626,7 +643,7 @@
     },
     {
       "name": "Robotics Centre Arabia",
-      "website": "http://www.robotics-centre.com/",
+      "website": "http://www.robotics-centre.com",
       "category": [
         "AIR",
         "LAND"
@@ -634,7 +651,7 @@
     },
     {
       "name": "SRC, Inc.",
-      "website": "http://www.srcinc.com/",
+      "website": "http://www.srcinc.com",
       "category": [
         "AIR",
         "LAND"
@@ -642,7 +659,7 @@
     },
     {
       "name": "Zamil Industrial",
-      "website": "http://zamilindustrial.com/",
+      "website": "http://zamilindustrial.com",
       "category": [
         "AIR",
         "LAND",
@@ -659,7 +676,7 @@
     },
     {
       "name": "CGS",
-      "website": "http://www.cgs.com.sa/",
+      "website": "http://www.cgs.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -669,14 +686,14 @@
     },
     {
       "name": "Tencate Protective Fabrics",
-      "website": "http://www.tencatefabrics.com/",
+      "website": "http://www.tencatefabrics.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Khaldoon Factory ( khaldoon.com.sa )",
-      "website": "http://www.khaldoon.com.sa/",
+      "website": "http://www.khaldoon.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -695,7 +712,7 @@
     },
     {
       "name": "Arabian Power Electronics Company",
-      "website": "http://www.apec.sa.com/",
+      "website": "http://www.apec.sa.com",
       "category": [
         "AIR",
         "LAND",
@@ -705,7 +722,7 @@
     },
     {
       "name": "AlMajdouie Manufacturing",
-      "website": "http://almajdouie.com/",
+      "website": "http://almajdouie.com",
       "category": [
         "AIR",
         "LAND",
@@ -714,7 +731,7 @@
     },
     {
       "name": "Al Mutlak Trade & Industries Holding CO. Ltd.",
-      "website": "http://www.almutlak.com/",
+      "website": "http://www.almutlak.com",
       "category": [
         "AIR",
         "LAND",
@@ -723,7 +740,7 @@
     },
     {
       "name": "SASIB Molds, Dies & Spare Parts MFG Co LTD",
-      "website": "http://sasib.com.sa/",
+      "website": "http://sasib.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -733,7 +750,7 @@
     },
     {
       "name": "Vinnell Arabia",
-      "website": "http://www.vinnellarabia.com/",
+      "website": "http://www.vinnellarabia.com",
       "category": [
         "AIR"
       ]
@@ -756,14 +773,14 @@
     },
     {
       "name": "Aereos Defense / Atlas Aerospace",
-      "website": "http://www.aereos.com/",
+      "website": "http://www.aereos.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Ediconsult Internazionale srl",
-      "website": "http://www.ediconsult.com/",
+      "website": "http://www.ediconsult.com",
       "category": [
         "AIR",
         "LAND",
@@ -773,7 +790,7 @@
     },
     {
       "name": "Horizon Global Partners",
-      "website": "http://www.horizonglobalpartners.com/",
+      "website": "http://www.horizonglobalpartners.com",
       "category": [
         "AIR"
       ]
@@ -787,28 +804,28 @@
     },
     {
       "name": "JETCOPTER",
-      "website": "http://www.jet-copter.com/",
+      "website": "http://www.jet-copter.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "SAM Medical",
-      "website": "http://www.sammedical.com/",
+      "website": "http://www.sammedical.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "SIMTECH, Inc",
-      "website": "http://www.simtech-inc.com/",
+      "website": "http://www.simtech-inc.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Rock River Arms, Inc.",
-      "website": "http://www.rockriverarms.com/",
+      "website": "http://www.rockriverarms.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -816,7 +833,7 @@
     },
     {
       "name": "Bahri",
-      "website": "http://www.bahri.sa/",
+      "website": "http://www.bahri.sa",
       "category": [
         "AIR",
         "LAND",
@@ -825,8 +842,11 @@
     },
     {
       "name": "Qylur Intelligent Systems Inc.",
-      "website": "http://www.qylur.com/",
-      "country": "United States of America (USA)",
+      "website": "http://www.qylur.com",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -836,7 +856,7 @@
     },
     {
       "name": "Al-Babtain LeBlanc",
-      "website": "http://www.al-babtain.com.sa/",
+      "website": "http://www.al-babtain.com.sa",
       "category": [
         "LAND",
         "SEA",
@@ -856,7 +876,7 @@
     },
     {
       "name": "FareTec Inc.",
-      "website": "http://www.faretec.com/",
+      "website": "http://www.faretec.com",
       "category": [
         "AIR",
         "LAND",
@@ -873,7 +893,7 @@
     },
     {
       "name": "Airborne Systems North America",
-      "website": "http://www.airborne-sys.com/",
+      "website": "http://www.airborne-sys.com",
       "category": [
         "AIR"
       ]
@@ -902,7 +922,7 @@
     },
     {
       "name": "KIRINTEC",
-      "website": "http://www.kirintec.com/",
+      "website": "http://www.kirintec.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -938,7 +958,7 @@
     },
     {
       "name": "CEIA SPA",
-      "website": "http://www.ceia.net/",
+      "website": "http://www.ceia.net",
       "category": [
         "LAND",
         "SECURITY"
@@ -946,7 +966,7 @@
     },
     {
       "name": "Elettronica Group",
-      "website": "http://www.elt-roma.com/",
+      "website": "http://www.elt-roma.com",
       "category": [
         "AIR",
         "LAND",
@@ -956,8 +976,11 @@
     },
     {
       "name": "FERRETTI SECURITY DIVISION",
-      "website": "http://www.ferrettisecuritydivision.com/",
-      "country": "Italy",
+      "website": "http://www.ferrettisecuritydivision.com",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
       "category": [
         "SEA",
         "SECURITY"
@@ -965,14 +988,14 @@
     },
     {
       "name": "Fincantieri",
-      "website": "http://www.fincantieri.com/",
+      "website": "http://www.fincantieri.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "FIRECO S.r.l.",
-      "website": "http://www.fireco.eu/",
+      "website": "http://www.fireco.eu",
       "category": [
         "LAND",
         "NON-DEFENSE SECURITY",
@@ -982,7 +1005,7 @@
     },
     {
       "name": "KEYLINE SPA",
-      "website": "http://www.keyline.it/",
+      "website": "http://www.keyline.it",
       "category": [
         "LAND",
         "SECURITY"
@@ -990,7 +1013,7 @@
     },
     {
       "name": "Leonardo SpA",
-      "website": "http://www.leonardocompany.com/",
+      "website": "http://www.leonardocompany.com",
       "category": [
         "AIR",
         "LAND",
@@ -1001,7 +1024,7 @@
     },
     {
       "name": "Clarion Defence & Security",
-      "website": "http://www.clarion-defence.com/",
+      "website": "http://www.clarion-defence.com",
       "category": [
         "AIR",
         "LAND",
@@ -1023,7 +1046,7 @@
     },
     {
       "name": "https://www.mku.com/",
-      "website": "http://www.mku.com/",
+      "website": "http://www.mku.com",
       "category": [
         "AIR",
         "LAND",
@@ -1033,7 +1056,7 @@
     },
     {
       "name": "Defsecintel Solutions OÜ ESTONIA",
-      "website": "http://www.defsecintel.com/",
+      "website": "http://www.defsecintel.com",
       "category": [
         "AIR",
         "LAND"
@@ -1071,7 +1094,7 @@
     },
     {
       "name": "Safran",
-      "website": "http://www.safran-group.com/",
+      "website": "http://www.safran-group.com",
       "category": [
         "AIR",
         "LAND",
@@ -1091,14 +1114,14 @@
     },
     {
       "name": "COUACH",
-      "website": "http://www.couach.com/",
+      "website": "http://www.couach.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "iXblue",
-      "website": "http://www.ixblue.com/",
+      "website": "http://www.ixblue.com",
       "category": [
         "AIR",
         "LAND",
@@ -1109,7 +1132,7 @@
     },
     {
       "name": "ALSETEX",
-      "website": "http://www.alsetex.fr/",
+      "website": "http://www.alsetex.fr",
       "category": [
         "AIR",
         "LAND",
@@ -1118,7 +1141,7 @@
     },
     {
       "name": "UNSEENLABS",
-      "website": "http://www.unseenlabs.space/",
+      "website": "http://www.unseenlabs.space",
       "category": [
         "SATELLITE",
         "SEA",
@@ -1127,7 +1150,7 @@
     },
     {
       "name": "ROXEL",
-      "website": "http://www.roxelgroup.com/",
+      "website": "http://www.roxelgroup.com",
       "category": [
         "AIR",
         "LAND",
@@ -1136,7 +1159,7 @@
     },
     {
       "name": "MC2 Technologies",
-      "website": "http://www.mc2-technologies.com/",
+      "website": "http://www.mc2-technologies.com",
       "category": [
         "AIR",
         "LAND",
@@ -1145,7 +1168,7 @@
     },
     {
       "name": "TCOM, L.P.",
-      "website": "http://www.tcomlp.com/",
+      "website": "http://www.tcomlp.com",
       "category": [
         "AIR",
         "LAND",
@@ -1155,7 +1178,7 @@
     },
     {
       "name": "Eventide",
-      "website": "http://www.eventidecommunications.com/",
+      "website": "http://www.eventidecommunications.com",
       "category": [
         "AIR",
         "LAND",
@@ -1185,7 +1208,7 @@
     },
     {
       "name": "IHSE USA LLC",
-      "website": "http://www.ihseusa.com/",
+      "website": "http://www.ihseusa.com",
       "category": [
         "AIR",
         "LAND",
@@ -1227,7 +1250,7 @@
     },
     {
       "name": "John Cockerill Defense",
-      "website": "http://www.johncockerill.com/",
+      "website": "http://www.johncockerill.com",
       "category": [
         "LAND"
       ]
@@ -1265,8 +1288,11 @@
     },
     {
       "name": "Troy Acoustics Corp.",
-      "website": "http://www.troyacoustics.com/",
-      "country": "United States of America (USA)",
+      "website": "http://www.troyacoustics.com",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "LAND",
         "SECURITY"
@@ -1283,7 +1309,7 @@
     },
     {
       "name": "OneWeb",
-      "website": "http://www.oneweb.world/",
+      "website": "http://www.oneweb.world",
       "category": [
         "AIR",
         "LAND",
@@ -1311,7 +1337,7 @@
     },
     {
       "name": "AIRBUS",
-      "website": "http://www.airbus.com/",
+      "website": "http://www.airbus.com",
       "category": [
         "AIR",
         "SATELLITE",
@@ -1320,14 +1346,14 @@
     },
     {
       "name": "Industeel - ArcelorMittal",
-      "website": "http://www.industeel.arcelormittal.com/",
+      "website": "http://www.industeel.arcelormittal.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Point Lighting Corporation",
-      "website": "http://www.pointlighting.com/",
+      "website": "http://www.pointlighting.com",
       "category": [
         "AIR",
         "LAND"
@@ -1341,7 +1367,7 @@
     },
     {
       "name": "EUROSAM",
-      "website": "http://www.eurosam.com/",
+      "website": "http://www.eurosam.com",
       "category": [
         "AIR",
         "LAND",
@@ -1350,7 +1376,7 @@
     },
     {
       "name": "Threod Systems",
-      "website": "http://www.threod.com/",
+      "website": "http://www.threod.com",
       "category": [
         "AIR"
       ]
@@ -1363,7 +1389,7 @@
     },
     {
       "name": "MILECTRIA EST OÜ",
-      "website": "http://www.milectria.fi/",
+      "website": "http://www.milectria.fi",
       "category": [
         "LAND"
       ]
@@ -1435,7 +1461,7 @@
     },
     {
       "name": "Wakeb Data",
-      "website": "http://www.wakeb.tech/",
+      "website": "http://www.wakeb.tech",
       "category": [
         "NON-DEFENSE SECURITY"
       ]
@@ -1460,14 +1486,14 @@
     },
     {
       "name": "TATRA EXPORT s.r.o.",
-      "website": "http://www.tatra.cz/",
+      "website": "http://www.tatra.cz",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "OPTOKON, a.s.",
-      "website": "http://www.optokon.com/",
+      "website": "http://www.optokon.com",
       "category": [
         "AIR",
         "LAND",
@@ -1479,7 +1505,7 @@
     },
     {
       "name": "ENGLO LLC",
-      "website": "http://www.englo.eu/",
+      "website": "http://www.englo.eu",
       "category": [
         "LAND"
       ]
@@ -1501,7 +1527,7 @@
     },
     {
       "name": "foster+freeman Ltd",
-      "website": "http://www.fosterfreeman.com/",
+      "website": "http://www.fosterfreeman.com",
       "category": [
         "AIR",
         "LAND",
@@ -1528,7 +1554,7 @@
     },
     {
       "name": "Estonian Defence Industry Association",
-      "website": "http://www.eas.ee/",
+      "website": "http://www.eas.ee",
       "category": [
         "AIR",
         "LAND",
@@ -1539,7 +1565,7 @@
     },
     {
       "name": "Bahra Electric",
-      "website": "http://www.bahra-electric.com/",
+      "website": "http://www.bahra-electric.com",
       "category": [
         "AIR",
         "LAND",
@@ -1569,14 +1595,14 @@
     },
     {
       "name": "OPTIX JSC",
-      "website": "http://www.optixco.com/",
+      "website": "http://www.optixco.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Advanced Armour Engineering",
-      "website": "http://www.armoureng.com/",
+      "website": "http://www.armoureng.com",
       "category": [
         "AIR",
         "LAND",
@@ -1585,7 +1611,7 @@
     },
     {
       "name": "PARTS Arabia",
-      "website": "http://www.partarabia.net/",
+      "website": "http://www.partarabia.net",
       "category": [
         "AIR",
         "LAND"
@@ -1600,7 +1626,7 @@
     },
     {
       "name": "INFODAS GmbH",
-      "website": "http://www.infodas.de/",
+      "website": "http://www.infodas.de",
       "category": [
         "SECURITY"
       ]
@@ -1638,7 +1664,7 @@
     },
     {
       "name": "TATA Advanced Systems",
-      "website": "http://www.tataadvancedsystems.com/",
+      "website": "http://www.tataadvancedsystems.com",
       "category": [
         "AIR",
         "LAND",
@@ -1665,7 +1691,7 @@
     },
     {
       "name": "NovX Ammunition",
-      "website": "http://www.novxammo.com/",
+      "website": "http://www.novxammo.com",
       "category": [
         "AIR",
         "LAND",
@@ -1680,7 +1706,7 @@
     },
     {
       "name": "ATS GROUP",
-      "website": "http://www.ats.com.mk/",
+      "website": "http://www.ats.com.mk",
       "category": [
         "LAND",
         "NON-DEFENSE SECURITY",
@@ -1714,7 +1740,7 @@
     },
     {
       "name": "China Great Wall International Exhibition",
-      "website": "http://www.en.chgie.com/",
+      "website": "http://www.en.chgie.com",
       "category": [
         "SATELLITE"
       ]
@@ -1729,7 +1755,7 @@
     },
     {
       "name": "V30 Systems",
-      "website": "http://www.v30systems.com/",
+      "website": "http://www.v30systems.com",
       "category": [
         "LAND"
       ]
@@ -1759,7 +1785,7 @@
     },
     {
       "name": "ELDIS PARDUBICE s.r.o.",
-      "website": "http://www.eldis.cz/",
+      "website": "http://www.eldis.cz",
       "category": [
         "AIR"
       ]
@@ -1781,7 +1807,7 @@
     },
     {
       "name": "Serco",
-      "website": "http://www.serco.com/",
+      "website": "http://www.serco.com",
       "category": [
         "AIR",
         "LAND",
@@ -1791,8 +1817,11 @@
     },
     {
       "name": "BUREAU VERITAS",
-      "website": "http://www.bureauveritas.com/",
-      "country": "France",
+      "website": "http://www.bureauveritas.com",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "category": [
         "SEA"
       ]
@@ -1811,7 +1840,7 @@
     },
     {
       "name": "TECHNODINAMIKA JSC",
-      "website": "http://www.tecmash.ru/",
+      "website": "http://www.tecmash.ru",
       "category": [
         "AIR",
         "LAND",
@@ -1820,7 +1849,7 @@
     },
     {
       "name": "State Corporation Rostec",
-      "website": "http://www.rostec.ru/",
+      "website": "http://www.rostec.ru",
       "category": [
         "AIR",
         "LAND",
@@ -1836,7 +1865,7 @@
     },
     {
       "name": "JSC \"KBP named after Academician A. Shipunov\"",
-      "website": "http://www.rostec.ru/",
+      "website": "http://www.rostec.ru",
       "category": [
         "LAND"
       ]
@@ -1858,7 +1887,7 @@
     },
     {
       "name": "Sonardyne International Ltd",
-      "website": "http://www.sonardyne.com/",
+      "website": "http://www.sonardyne.com",
       "category": [
         "SEA"
       ]
@@ -1876,7 +1905,7 @@
     },
     {
       "name": "Dassault Systèmes",
-      "website": "http://www.3ds.com/",
+      "website": "http://www.3ds.com",
       "category": [
         "AIR",
         "LAND",
@@ -1907,7 +1936,7 @@
     },
     {
       "name": "AGAT - Control Systems - Managing Company of Geoinformation Control Systems Holding, OJSC",
-      "website": "http://www.catalonia.com/",
+      "website": "http://www.catalonia.com",
       "category": [
         "AIR",
         "LAND",
@@ -1916,7 +1945,7 @@
     },
     {
       "name": "GULF RADIATORS FACTORY FOR INDUSTRY",
-      "website": "http://www.gulfrad.com/",
+      "website": "http://www.gulfrad.com",
       "category": [
         "LAND",
         "NON-DEFENSE SECURITY"
@@ -1930,7 +1959,7 @@
     },
     {
       "name": "Proengin",
-      "website": "http://www.proengin.com/",
+      "website": "http://www.proengin.com",
       "category": [
         "LAND",
         "SEA",
@@ -1939,7 +1968,7 @@
     },
     {
       "name": "Paul Boyé Technologies",
-      "website": "http://www.paul-boye.fr/",
+      "website": "http://www.paul-boye.fr",
       "category": [
         "AIR",
         "LAND",
@@ -1958,21 +1987,24 @@
     },
     {
       "name": "Corax Defence",
-      "country": "United States of America (USA)",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "LAND"
       ]
     },
     {
       "name": "D.I Optical",
-      "website": "http://www.donginoptical.com/",
+      "website": "http://www.donginoptical.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Vital Parachute INC",
-      "website": "http://www.vitalparachute.com/",
+      "website": "http://www.vitalparachute.com",
       "category": [
         "AIR",
         "LAND",
@@ -1981,14 +2013,14 @@
     },
     {
       "name": "SEJU Engineering",
-      "website": "http://sejumicron.com/",
+      "website": "http://sejumicron.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Soosung Defense Industries",
-      "website": "http://www.soosungdi.co.kr/",
+      "website": "http://www.soosungdi.co.kr",
       "category": [
         "AIR",
         "LAND",
@@ -1997,7 +2029,7 @@
     },
     {
       "name": "Woo Kyung Optics Co., Ltd",
-      "website": "http://wkoptics.koreasme.com/",
+      "website": "http://wkoptics.koreasme.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2006,7 +2038,10 @@
     {
       "name": "Woosungsitek",
       "website": "http://en.woosungsitek.com/?ckattempt=1",
-      "country": "Republic of Korea",
+      "country": {
+        "text": "Republic of Korea",
+        "iso2": "KR"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -2026,7 +2061,7 @@
     },
     {
       "name": "Koduct",
-      "website": "http://koduct.com/",
+      "website": "http://koduct.com",
       "category": [
         "AIR",
         "LAND",
@@ -2041,7 +2076,10 @@
     },
     {
       "name": "International Systems Engineering",
-      "country": "Saudi Arabia",
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -2101,8 +2139,11 @@
     },
     {
       "name": "National Radio and Telecommunication and Corporation (NRTC)",
-      "website": "http://www.nrtc.com.pk/",
-      "country": "Pakistan",
+      "website": "http://www.nrtc.com.pk",
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -2132,7 +2173,7 @@
     },
     {
       "name": "PKN ORLEN Advanced Protection Systems",
-      "website": "http://www.apsystems.tech/",
+      "website": "http://www.apsystems.tech",
       "category": [
         "AIR",
         "SECURITY"
@@ -2156,7 +2197,7 @@
     },
     {
       "name": "PGZ S.A. - Polska Grupa Zbrojeniowa S.A.",
-      "website": "http://www.pgzsa.pl/",
+      "website": "http://www.pgzsa.pl",
       "category": [
         "AIR",
         "LAND",
@@ -2258,7 +2299,7 @@
     },
     {
       "name": "STREIT Group",
-      "website": "http://www.armored-cars.com/",
+      "website": "http://www.armored-cars.com",
       "category": [
         "LAND",
         "SEA",
@@ -2267,7 +2308,7 @@
     },
     {
       "name": "Innovative Contractors for Advanced Dimensions (ICAD)",
-      "website": "http://www.icad-ksa.com/",
+      "website": "http://www.icad-ksa.com",
       "category": [
         "AIR",
         "LAND",
@@ -2276,7 +2317,7 @@
     },
     {
       "name": "Al Hamra Trading Est",
-      "website": "http://www.alhamra.ae/",
+      "website": "http://www.alhamra.ae",
       "category": [
         "AIR",
         "LAND",
@@ -2287,7 +2328,7 @@
     },
     {
       "name": "IRAUNDI, S.A.",
-      "website": "http://www.iraundi.com/",
+      "website": "http://www.iraundi.com",
       "category": [
         "AIR",
         "LAND",
@@ -2335,8 +2376,11 @@
     },
     {
       "name": "SAES - Sociedad Anónima de Electrónica Submarina S.M.E",
-      "website": "http://www.electronica-submarina.com/",
-      "country": "Spain",
+      "website": "http://www.electronica-submarina.com",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      },
       "category": [
         "SEA"
       ]
@@ -2359,15 +2403,18 @@
     },
     {
       "name": "SVOS",
-      "website": "http://www.armsvos.cz/",
+      "website": "http://www.armsvos.cz",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Armag Corporation",
-      "website": "http://www.armagcorp.com/",
-      "country": "United States of America (USA)",
+      "website": "http://www.armagcorp.com",
+      "country": {
+        "text": "United States of America (USA)",
+        "iso2": "US"
+      },
       "category": [
         "LAND"
       ]
@@ -2380,7 +2427,7 @@
     },
     {
       "name": "Communications and Information Technology Commission (CITC)",
-      "website": "http://www.citc.gov.sa/",
+      "website": "http://www.citc.gov.sa",
       "category": [
         "NON-DEFENSE SECURITY",
         "SATELLITE"
@@ -2388,8 +2435,11 @@
     },
     {
       "name": "SensorTec",
-      "website": "http://www.sensortec-eu.com/",
-      "country": "United Kingdom",
+      "website": "http://www.sensortec-eu.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "category": [
         "NON-DEFENSE SECURITY",
         "SECURITY"
@@ -2397,7 +2447,7 @@
     },
     {
       "name": "VIAVI Solutions",
-      "website": "http://www.viavisolutions.com/",
+      "website": "http://www.viavisolutions.com",
       "category": [
         "LAND"
       ]
@@ -2410,7 +2460,10 @@
     },
     {
       "name": "3IPK",
-      "country": "Slovakia",
+      "country": {
+        "text": "Slovakia",
+        "iso2": "SK"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -2428,14 +2481,14 @@
     },
     {
       "name": "Embroidery Export Corp",
-      "website": "http://www.embroidery.com.pk/",
+      "website": "http://www.embroidery.com.pk",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "ABIMDE",
-      "website": "http://www.abimde.org.br/",
+      "website": "http://www.abimde.org.br",
       "category": [
         "AIR",
         "LAND",
@@ -2486,7 +2539,7 @@
     },
     {
       "name": "Theon Sensors SAUDI",
-      "website": "http://www.theon.com/",
+      "website": "http://www.theon.com",
       "category": [
         "AIR",
         "LAND"
@@ -2494,7 +2547,7 @@
     },
     {
       "name": "Science Technology for Development and Industrial Investment",
-      "website": "http://www.sciencetech.com.sa/",
+      "website": "http://www.sciencetech.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -2505,14 +2558,14 @@
     },
     {
       "name": "Ceska zbrojovka a.s.",
-      "website": "http://www.czub.cz/",
+      "website": "http://www.czub.cz",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Caliber Sales Engineering",
-      "website": "http://www.calibersales.com/",
+      "website": "http://www.calibersales.com",
       "category": [
         "AIR",
         "LAND",
@@ -2528,14 +2581,14 @@
     },
     {
       "name": "ARQUUS",
-      "website": "http://www.arquus-defense.com/",
+      "website": "http://www.arquus-defense.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Boeing",
-      "website": "http://www.boeing.com/",
+      "website": "http://www.boeing.com",
       "category": [
         "AIR",
         "LAND",
@@ -2546,7 +2599,7 @@
     },
     {
       "name": "Current Scientific Corporation",
-      "website": "http://www.currentcorp.com/",
+      "website": "http://www.currentcorp.com",
       "category": [
         "LAND",
         "NON-DEFENSE SECURITY",
@@ -2562,7 +2615,7 @@
     },
     {
       "name": "Raytheon Technologies",
-      "website": "http://www.rtx.com/",
+      "website": "http://www.rtx.com",
       "category": [
         "AIR",
         "LAND",
@@ -2572,7 +2625,7 @@
     },
     {
       "name": "Dillon Aero",
-      "website": "http://www.dillonaero.com/",
+      "website": "http://www.dillonaero.com",
       "category": [
         "AIR",
         "LAND",
@@ -2581,21 +2634,21 @@
     },
     {
       "name": "Draken International",
-      "website": "http://www.draken.aero/",
+      "website": "http://www.draken.aero",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Dynatech International",
-      "website": "http://www.dynatechintl.com/",
+      "website": "http://www.dynatechintl.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "RASHTRIYA METAL INDUSTRIES LIMITED",
-      "website": "http://www.rashtriyametal.com/",
+      "website": "http://www.rashtriyametal.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2613,7 +2666,7 @@
     },
     {
       "name": "The Will-Burt Company",
-      "website": "http://www.willburt.com/",
+      "website": "http://www.willburt.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2621,7 +2674,7 @@
     },
     {
       "name": "Arabian Precision Industries Co.",
-      "website": "http://www.api.com.sa/",
+      "website": "http://www.api.com.sa",
       "category": [
         "AIR",
         "LAND"
@@ -2641,7 +2694,7 @@
     },
     {
       "name": "Leonardo DRS",
-      "website": "http://www.leonardodrs.com/",
+      "website": "http://www.leonardodrs.com",
       "category": [
         "AIR",
         "LAND",
@@ -2650,7 +2703,7 @@
     },
     {
       "name": "Lockheed Martin",
-      "website": "http://www.lockheedmartin.com/",
+      "website": "http://www.lockheedmartin.com",
       "category": [
         "AIR",
         "LAND",
@@ -2661,7 +2714,7 @@
     },
     {
       "name": "John Cockerill Defense",
-      "website": "http://www.johncockerill.com/",
+      "website": "http://www.johncockerill.com",
       "category": [
         "LAND",
         "SEA"
@@ -2669,14 +2722,14 @@
     },
     {
       "name": "PBS",
-      "website": "http://www.pbs.cz/",
+      "website": "http://www.pbs.cz",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Teledyne FLIR",
-      "website": "http://www.flir.com/",
+      "website": "http://www.flir.com",
       "category": [
         "AIR",
         "LAND",
@@ -2686,14 +2739,14 @@
     },
     {
       "name": "Galvion",
-      "website": "http://www.galvion.com/",
+      "website": "http://www.galvion.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "GE Aviation",
-      "website": "http://www.geaviation.com/",
+      "website": "http://www.geaviation.com",
       "category": [
         "AIR",
         "LAND",
@@ -2704,14 +2757,14 @@
     },
     {
       "name": "SMPP Private Limited",
-      "website": "http://www.soosungdi.co.kr/",
+      "website": "http://www.soosungdi.co.kr",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Honeywell",
-      "website": "http://www.honeywell.com/",
+      "website": "http://www.honeywell.com",
       "category": [
         "AIR",
         "SECURITY"
@@ -2725,7 +2778,7 @@
     },
     {
       "name": "ROHDE & SCHWARZ",
-      "website": "http://www.rohde-schwarz.com/",
+      "website": "http://www.rohde-schwarz.com",
       "category": [
         "LAND",
         "SEA"
@@ -2741,7 +2794,7 @@
     },
     {
       "name": "Integrated Procurement Technologies (IPT)",
-      "website": "http://www.iptsb.com/",
+      "website": "http://www.iptsb.com",
       "category": [
         "AIR",
         "LAND",
@@ -2750,14 +2803,14 @@
     },
     {
       "name": "CMN NAVAL",
-      "website": "http://www.cmn-group.com/",
+      "website": "http://www.cmn-group.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "Kipper Tool Company",
-      "website": "http://www.kippertool.com/",
+      "website": "http://www.kippertool.com",
       "category": [
         "AIR",
         "LAND",
@@ -2766,7 +2819,7 @@
     },
     {
       "name": "EXPAL",
-      "website": "http://www.expalsystems.com/",
+      "website": "http://www.expalsystems.com",
       "category": [
         "LAND",
         "SEA"
@@ -2774,7 +2827,7 @@
     },
     {
       "name": "LWRC INTERNATIONAL",
-      "website": "http://www.lwrci.com/",
+      "website": "http://www.lwrci.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2782,7 +2835,7 @@
     },
     {
       "name": "MAC Aerospace Corporation",
-      "website": "http://www.macaerospace.com/",
+      "website": "http://www.macaerospace.com",
       "category": [
         "AIR",
         "LAND",
@@ -2791,7 +2844,7 @@
     },
     {
       "name": "KOREA DEFENSE INDUSTRY ASSOCIATION",
-      "website": "http://www.kdia.or.kr/",
+      "website": "http://www.kdia.or.kr",
       "category": [
         "AIR",
         "LAND",
@@ -2802,14 +2855,14 @@
     },
     {
       "name": "MD Helicopters",
-      "website": "http://www.mdhelicopters.com/",
+      "website": "http://www.mdhelicopters.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Tencate Advanced Armour",
-      "website": "http://www.tencate.com/",
+      "website": "http://www.tencate.com",
       "category": [
         "AIR",
         "LAND",
@@ -2819,7 +2872,7 @@
     },
     {
       "name": "Parts and Repair Technical Services (P.A.R.T.S. Inc.)",
-      "website": "http://www.partsinc.net/",
+      "website": "http://www.partsinc.net",
       "category": [
         "AIR",
         "LAND"
@@ -2827,14 +2880,14 @@
     },
     {
       "name": "Naval Group",
-      "website": "http://www.naval-group.com/",
+      "website": "http://www.naval-group.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "Olin Winchester",
-      "website": "http://www.winchester.com/",
+      "website": "http://www.winchester.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2842,7 +2895,7 @@
     },
     {
       "name": "ESCRIBANO MECHANICAL AND ENGINEERING",
-      "website": "http://www.eme-es.com/",
+      "website": "http://www.eme-es.com",
       "category": [
         "AIR",
         "LAND",
@@ -2851,7 +2904,7 @@
     },
     {
       "name": "OSI Maritime Systems",
-      "website": "http://www.osimaritime.com/",
+      "website": "http://www.osimaritime.com",
       "category": [
         "SEA"
       ]
@@ -2868,7 +2921,7 @@
     },
     {
       "name": "Jacobs",
-      "website": "http://www.jacobs.com/",
+      "website": "http://www.jacobs.com",
       "category": [
         "AIR",
         "LAND",
@@ -2878,7 +2931,7 @@
     },
     {
       "name": "PKL Services, Inc.",
-      "website": "http://www.pklservices.com/",
+      "website": "http://www.pklservices.com",
       "category": [
         "AIR"
       ]
@@ -2903,14 +2956,14 @@
     },
     {
       "name": "Subsea craft",
-      "website": "http://www.subseacraft.com/",
+      "website": "http://www.subseacraft.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "MAC JEE",
-      "website": "http://www.macjee.com.br/",
+      "website": "http://www.macjee.com.br",
       "category": [
         "AIR",
         "LAND"
@@ -2918,7 +2971,7 @@
     },
     {
       "name": "Colt's Manufacturing Company, LLC",
-      "website": "http://www.colt.com/",
+      "website": "http://www.colt.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -2926,8 +2979,11 @@
     },
     {
       "name": "ECA GROUP",
-      "website": "http://www.ecagroup.com/",
-      "country": "France",
+      "website": "http://www.ecagroup.com",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "category": [
         "AIR",
         "LAND",
@@ -2936,7 +2992,7 @@
     },
     {
       "name": "US Ordnance",
-      "website": "http://www.usord.com/",
+      "website": "http://www.usord.com",
       "category": [
         "AIR",
         "LAND",
@@ -2946,7 +3002,7 @@
     },
     {
       "name": "Vertex International",
-      "website": "http://www.vertexintl.com/",
+      "website": "http://www.vertexintl.com",
       "category": [
         "LAND",
         "SEA",
@@ -2955,7 +3011,7 @@
     },
     {
       "name": "Shamal company ( Defense & security system)",
-      "website": "http://www.shamal.com.sa/",
+      "website": "http://www.shamal.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -2966,14 +3022,14 @@
     },
     {
       "name": "Pioneers Technical Systems Company",
-      "website": "http://www.ptsco.sa/",
+      "website": "http://www.ptsco.sa",
       "category": [
         "NON-DEFENSE SECURITY"
       ]
     },
     {
       "name": "WAHAJ ( WWW. WAHAJ.COM.SA )",
-      "website": "http://www.wahaj.com.sa/",
+      "website": "http://www.wahaj.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -2982,14 +3038,14 @@
     },
     {
       "name": "Embraer",
-      "website": "http://www.embraer.com/",
+      "website": "http://www.embraer.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "CBC",
-      "website": "http://www.cbcdefense.com/",
+      "website": "http://www.cbcdefense.com",
       "category": [
         "AIR",
         "LAND",
@@ -2999,7 +3055,7 @@
     },
     {
       "name": "HENSOLDT",
-      "website": "http://www.hensoldt.net/",
+      "website": "http://www.hensoldt.net",
       "category": [
         "AIR",
         "LAND",
@@ -3010,7 +3066,7 @@
     },
     {
       "name": "SFTE \"Spetstechnoexport\"",
-      "website": "http://www.spetstechnoexport.com/",
+      "website": "http://www.spetstechnoexport.com",
       "category": [
         "AIR",
         "LAND",
@@ -3029,7 +3085,7 @@
     },
     {
       "name": "Saudi Chemical Company Limited",
-      "website": "http://www.saudichemical.com/",
+      "website": "http://www.saudichemical.com",
       "category": [
         "AIR",
         "LAND",
@@ -3039,14 +3095,14 @@
     },
     {
       "name": "Nexter",
-      "website": "http://www.nexter-group.fr/",
+      "website": "http://www.nexter-group.fr",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "HGH",
-      "website": "http://www.hgh.fr/",
+      "website": "http://www.hgh.fr",
       "category": [
         "AIR",
         "LAND",
@@ -3055,7 +3111,7 @@
     },
     {
       "name": "BERETTA",
-      "website": "http://www.beretta.com/",
+      "website": "http://www.beretta.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -3063,21 +3119,21 @@
     },
     {
       "name": "Saudi Leather Industries Company (SLIC)",
-      "website": "http://www.slicshoes.com/",
+      "website": "http://www.slicshoes.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Autel Robotics Co., Ltd.",
-      "website": "http://www.autelrobitics.com/",
+      "website": "http://www.autelrobitics.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Intra Defense Technologies",
-      "website": "http://www.intras.net/",
+      "website": "http://www.intras.net",
       "category": [
         "AIR",
         "LAND",
@@ -3089,7 +3145,7 @@
     },
     {
       "name": "Hood Tech Vision",
-      "website": "http://www.hoodtechvision.com/",
+      "website": "http://www.hoodtechvision.com",
       "category": [
         "AIR",
         "LAND"
@@ -3097,7 +3153,7 @@
     },
     {
       "name": "Genasys Inc.",
-      "website": "http://www.genasys.com/",
+      "website": "http://www.genasys.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -3105,14 +3161,14 @@
     },
     {
       "name": "Middle East Propulsion Company",
-      "website": "http://www.mepcsa.com/",
+      "website": "http://www.mepcsa.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "WB GROUP",
-      "website": "http://www.wbgroup.pl/",
+      "website": "http://www.wbgroup.pl",
       "category": [
         "AIR",
         "LAND",
@@ -3121,7 +3177,7 @@
     },
     {
       "name": "Viasat",
-      "website": "http://www.viasat.com/",
+      "website": "http://www.viasat.com",
       "category": [
         "AIR",
         "LAND",
@@ -3131,7 +3187,7 @@
     },
     {
       "name": "Fischer Connectors",
-      "website": "http://www.fischerconnectors.com/",
+      "website": "http://www.fischerconnectors.com",
       "category": [
         "AIR",
         "LAND",
@@ -3140,28 +3196,28 @@
     },
     {
       "name": "ITPS Canada",
-      "website": "http://www.itpscanada.com/",
+      "website": "http://www.itpscanada.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Alsalam Aerospace Industries",
-      "website": "http://www.alsalam.aero/",
+      "website": "http://www.alsalam.aero",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "Metal Shark Boats",
-      "website": "http://www.metalsharkboats.com/",
+      "website": "http://www.metalsharkboats.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "stc",
-      "website": "http://www.stc.com.sa/",
+      "website": "http://www.stc.com.sa",
       "category": [
         "NON-DEFENSE SECURITY"
       ]
@@ -3175,22 +3231,25 @@
     },
     {
       "name": "Tasnee",
-      "website": "http://www.tasnee.com/",
-      "country": "Saudi Arabia",
+      "website": "http://www.tasnee.com",
+      "country": {
+        "text": "Saudi Arabia",
+        "iso2": "SA"
+      },
       "category": [
         "NON-DEFENSE SECURITY"
       ]
     },
     {
       "name": "Ma'aden",
-      "website": "http://www.maaden.com.sa/",
+      "website": "http://www.maaden.com.sa",
       "category": [
         "NON-DEFENSE SECURITY"
       ]
     },
     {
       "name": "TACO Antenna",
-      "website": "http://www.tacoantenna.com/",
+      "website": "http://www.tacoantenna.com",
       "category": [
         "AIR",
         "LAND",
@@ -3201,7 +3260,7 @@
     },
     {
       "name": "KPMG",
-      "website": "http://www.kpmg.com.sa/",
+      "website": "http://www.kpmg.com.sa",
       "category": [
         "AIR",
         "LAND",
@@ -3212,7 +3271,7 @@
     },
     {
       "name": "MetOcean Telematics",
-      "website": "http://www.metocean.com/",
+      "website": "http://www.metocean.com",
       "category": [
         "LAND",
         "SATELLITE",
@@ -3222,14 +3281,14 @@
     },
     {
       "name": "Resecurity Inc",
-      "website": "http://www.resecurity.com/",
+      "website": "http://www.resecurity.com",
       "category": [
         "SECURITY"
       ]
     },
     {
       "name": "EOTECH",
-      "website": "http://www.eotechinc.com/",
+      "website": "http://www.eotechinc.com",
       "category": [
         "LAND",
         "SECURITY"
@@ -3237,7 +3296,7 @@
     },
     {
       "name": "Pelican Products FZE",
-      "website": "http://www.peli.com/",
+      "website": "http://www.peli.com",
       "category": [
         "AIR",
         "LAND",
@@ -3264,7 +3323,7 @@
     },
     {
       "name": "China National Aero-Technology Import & Export Corporation",
-      "website": "http://www.catic.cn/",
+      "website": "http://www.catic.cn",
       "category": [
         "AIR",
         "NON-DEFENSE SECURITY",
@@ -3285,7 +3344,7 @@
     },
     {
       "name": "MBDA",
-      "website": "http://www.mbda-systems.com/",
+      "website": "http://www.mbda-systems.com",
       "category": [
         "AIR",
         "LAND",
@@ -3294,7 +3353,7 @@
     },
     {
       "name": "CETC International",
-      "website": "http://www.cccme.org.cn/",
+      "website": "http://www.cccme.org.cn",
       "category": [
         "AIR",
         "LAND",
@@ -3325,49 +3384,49 @@
     },
     {
       "name": "NORINCO CHINA",
-      "website": "http://www.norincogroup.com.cn/",
+      "website": "http://www.norincogroup.com.cn",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "AeroVironment",
-      "website": "http://www.avinc.com/",
+      "website": "http://www.avinc.com",
       "category": [
         "AIR"
       ]
     },
     {
       "name": "SAFE Boats International",
-      "website": "http://www.safeboats.com/",
+      "website": "http://www.safeboats.com",
       "category": [
         "SEA"
       ]
     },
     {
       "name": "Alaska Structures",
-      "website": "http://www.aks.com/",
+      "website": "http://www.aks.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "Optimum Vehicle Logistics (OVL)",
-      "website": "http://www.optimumvl.com/",
+      "website": "http://www.optimumvl.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "General Dynamics Land Systems",
-      "website": "http://www.gdls.com/",
+      "website": "http://www.gdls.com",
       "category": [
         "LAND"
       ]
     },
     {
       "name": "NORTAC Defence Ltd.",
-      "website": "http://www.nortacdefence.com/",
+      "website": "http://www.nortacdefence.com",
       "category": [
         "AIR",
         "LAND",
@@ -3377,7 +3436,7 @@
     },
     {
       "name": "S3 AeroDefense",
-      "website": "http://www.s3international.com/",
+      "website": "http://www.s3international.com",
       "category": [
         "AIR"
       ]
@@ -3391,7 +3450,7 @@
     },
     {
       "name": "L3Harris Technologies",
-      "website": "http://www.l3harris.com/",
+      "website": "http://www.l3harris.com",
       "category": [
         "AIR",
         "LAND",
@@ -3401,7 +3460,7 @@
     },
     {
       "name": "Navistar Defense",
-      "website": "http://www.navistardefense.com/",
+      "website": "http://www.navistardefense.com",
       "category": [
         "LAND"
       ]
@@ -3412,5 +3471,9 @@
         "AIR"
       ]
     }
-  ]
+  ],
+  "country": {
+    "text": "Saudi Arabia",
+    "iso2": "SA"
+  }
 }

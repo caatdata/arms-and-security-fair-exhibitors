@@ -4,7 +4,12 @@
   "edition": "2016",
   "startDate": "2016-05-25",
   "endDate": "2016-05-26",
-  "address": "EY Centre\nOttawa\nOntario\nCanada",
+  "address": {
+    "text": "EY Centre\nOttawa\nOntario\nCanada",
+    "iso2": "CA",
+    "lat": 45.3322655,
+    "lon": -75.653978
+  },
   "website": "https://www.defenceandsecurity.ca/CANSEC/",
   "organiser": [
     {

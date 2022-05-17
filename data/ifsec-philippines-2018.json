@@ -4,7 +4,12 @@
   "edition": "2018",
   "startDate": "2018-05-30",
   "endDate": "2018-06-01",
-  "address": "SMX Convention Centre\nPasay City\nMetro Manila\nPhilippines",
+  "address": {
+    "text": "SMX Convention Centre\nPasay City\nMetro Manila\nPhilippines",
+    "iso2": "PH",
+    "lat": 14.5320782,
+    "lon": 120.9816948
+  },
   "website": "https://www.ifsec.events/philippines/",
   "organiser": [
     {

@@ -7,7 +7,12 @@
   ],
   "startDate": "2014-09-11",
   "endDate": "2014-09-13",
-  "address": "Baku Expo Center\n515 1050\nHeydər Əliyev prospekti\nBakı\nAzerbaijan",
+  "address": {
+    "text": "Baku Expo Center\n515 1050\nHeydər Əliyev prospekti\nBakı\nAzerbaijan",
+    "iso2": "AZ",
+    "lat": 40.4398422,
+    "lon": 50.0336265
+  },
   "website": "https://adex.az",
   "organiser": {
     "name": "Caspian Event Organisers LLC",

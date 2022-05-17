@@ -4,8 +4,13 @@
   "edition": "2016",
   "startDate": "2016-06-21",
   "endDate": "2016-06-23",
-  "address": "ExCeL\nLondon\nUnited Kingdom",
-  "website": "http://www.ifsec.co.uk/",
+  "address": {
+    "text": "ExCeL\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
+  "website": "http://www.ifsec.co.uk",
   "organiser": [
     {
       "name": "United Business Media International",

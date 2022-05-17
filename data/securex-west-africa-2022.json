@@ -4,8 +4,13 @@
   "edition": "2022",
   "startDate": "2022-05-10",
   "endDate": "2022-05-12",
-  "address": "The Landmark Centre\nWater Corporation Drive\nOff Ligali Ayorinde\nOniru\nVictoria Island\nLagos\nNigeria",
-  "website": "https://www.securexwestafrica.com/",
+  "address": {
+    "text": "The Landmark Centre\nWater Corporation Drive\nOff Ligali Ayorinde\nOniru\nVictoria Island\nLagos\nNigeria",
+    "iso2": "NG",
+    "lat": 6.4235715,
+    "lon": 3.4448347
+  },
+  "website": "https://www.securexwestafrica.com",
   "organiser": [
     {
       "name": "UBS Montgomery Group Afrocet",
@@ -36,15 +41,19 @@
     {
       "name": "A-1 Fence SA",
       "exhibitorUrl": "https://securex.co.za/exhibitor/a-1-fence-sa/",
-      "website": "https://www.a-1fenceproducts.co.za/",
+      "website": "https://www.a-1fenceproducts.co.za",
       "telephone": "082 909 4566",
-      "country": "South Africa",
-      "address": "64 Harden Ave\nSea View\nDurban\nKwaZulu-Natal\n4094"
+      "address": {
+        "text": "64 Harden Ave\nSea View\nDurban\nKwaZulu-Natal\n4094",
+        "iso2": "ZA",
+        "lat": -29.90794,
+        "lon": 30.959273
+      }
     },
     {
       "name": "Actek SA",
       "exhibitorUrl": "https://securex.co.za/exhibitor/actek-sa/",
-      "website": "https://actek.co.za/",
+      "website": "https://actek.co.za",
       "telephone": "+27 (0)64 536 9539"
     },
     {
@@ -52,40 +61,60 @@
       "exhibitorUrl": "https://securex.co.za/exhibitor/active-track/",
       "website": "http://www.activetrack.co.za",
       "telephone": "011 551 1687",
-      "country": "South Africa",
-      "address": "7 Drome Road\nFormain\nGauteng\n2090"
+      "address": {
+        "text": "7 Drome Road\nFormain\nGauteng\n2090",
+        "iso2": "ZA",
+        "lat": -26.12525,
+        "lon": 28.10775
+      }
     },
     {
       "name": "Advanced ID Solutions",
       "exhibitorUrl": "https://securex.co.za/exhibitor/advanced-ia-solutions/",
       "website": "http://www.advancedidsolutions.co.za",
       "telephone": "079 891 1912",
-      "country": "South Africa",
-      "address": "10 Belladonna Street\nWelgevonden Estate\nStellenbosch\nWestern Cape"
+      "address": {
+        "text": "10 Belladonna Street\nWelgevonden Estate\nStellenbosch\nWestern Cape",
+        "iso2": "ZA",
+        "lat": -33.9028965,
+        "lon": 18.8530242
+      }
     },
     {
       "name": "Ajax Systems",
       "exhibitorUrl": "https://securex.co.za/exhibitor/ajax-systems/",
       "website": "https://ajax.systems",
       "telephone": "+97144487923",
-      "country": "United Arab Emirates",
-      "address": "Unit No: 3603-23, Mazaya Business Avenue AA1, Plot No: JLTE-PH2-AA1, Jumeirah Lakes Towers\nDubai"
+      "address": {
+        "text": "Unit No: 3603-23, Mazaya Business Avenue AA1, Plot No: JLTE-PH2-AA1, Jumeirah Lakes Towers\nDubai",
+        "iso2": "AE",
+        "lat": 25.0675524,
+        "lon": 55.144309
+      }
     },
     {
       "name": "AP Sensing",
       "exhibitorUrl": "https://securex.co.za/exhibitor/ap-sensing/",
-      "website": "https://www.apsensing.com/",
+      "website": "https://www.apsensing.com",
       "telephone": "+49 7031 309 6610",
-      "country": "Germany",
-      "address": "Herrenberger Str. 130\nBoeblingen\n71034"
+      "address": {
+        "text": "Herrenberger Str. 130\nBoeblingen\n71034",
+        "iso2": "DE",
+        "lat": 48.6773446,
+        "lon": 8.979678999999999
+      }
     },
     {
       "name": "Apollo Instrumentation",
       "exhibitorUrl": "https://securex.co.za/exhibitor/apollo-instrumentation/",
-      "website": "https://apollo-instrumentation.business.site/",
+      "website": "https://apollo-instrumentation.business.site",
       "telephone": "083 326 9044",
-      "country": "South Africa",
-      "address": "Ground Floor, Gateview House, Block A2, Constantia Office Park Cnr 14th Avenue & Hendrick Potgieter Road\nWeltevreden Park\nRoodepoort\nGauteng\n1709"
+      "address": {
+        "text": "Ground Floor, Gateview House, Block A2, Constantia Office Park Cnr 14th Avenue & Hendrick Potgieter Road\nWeltevreden Park\nRoodepoort\nGauteng\n1709",
+        "iso2": "ZA",
+        "lat": -26.130599,
+        "lon": 27.9121028
+      }
     },
     {
       "name": "Arteco",
@@ -100,15 +129,19 @@
     {
       "name": "Astra Fasteners",
       "exhibitorUrl": "https://securex.co.za/exhibitor/astra-fasteners/",
-      "website": "http://astrafasteners.co.za/",
+      "website": "http://astrafasteners.co.za",
       "telephone": "(011) 918 6696",
-      "country": "South Africa",
-      "address": "188 Dr Vosloo Road, N12 Industrial Park, Unit 46\nBartlett\nBoksburg\nGauteng"
+      "address": {
+        "text": "188 Dr Vosloo Road, N12 Industrial Park, Unit 46\nBartlett\nBoksburg\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1709832,
+        "lon": 28.2485852
+      }
     },
     {
       "name": "Avertic Armour by Engtex",
       "exhibitorUrl": "https://securex.co.za/exhibitor/avertic-armour-by-engtex/",
-      "website": "http://www.engtex.com/",
+      "website": "http://www.engtex.com",
       "telephone": "+46 392 377 70"
     },
     {
@@ -121,21 +154,29 @@
       "exhibitorUrl": "https://securex.co.za/exhibitor/bandit/",
       "website": "http://fog-bandit.co.za",
       "telephone": "0875512832",
-      "country": "South Africa",
-      "address": "14 Beach Road\nStrand\nHelderberg\nWestern Cape\n7140"
+      "address": {
+        "text": "14 Beach Road\nStrand\nHelderberg\nWestern Cape\n7140",
+        "iso2": "ZA",
+        "lat": -34.1185749,
+        "lon": 18.8279024
+      }
     },
     {
       "name": "BAS-IP",
       "exhibitorUrl": "https://securex.co.za/exhibitor/bas-ip/",
-      "website": "https://bas-ip.com/"
+      "website": "https://bas-ip.com"
     },
     {
       "name": "Battery Experts",
       "exhibitorUrl": "https://securex.co.za/exhibitor/battery-experts/",
-      "website": "http://www.batteryexperts.co.za/",
+      "website": "http://www.batteryexperts.co.za",
       "telephone": "O87 086 1144",
-      "country": "South Africa",
-      "address": "Unit 14, Sunrise Centre, 71 van Riebeeck Avenue, (Entrance 70 – 10th Ave)\nEdenvale\nGauteng"
+      "address": {
+        "text": "Unit 14, Sunrise Centre, 71 van Riebeeck Avenue, (Entrance 70 – 10th Ave)\nEdenvale\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1411705,
+        "lon": 28.1532239
+      }
     },
     {
       "name": "Bestfence",
@@ -171,48 +212,68 @@
     {
       "name": "Drone Guards",
       "exhibitorUrl": "https://securex.co.za/exhibitor/drone-guards/",
-      "website": "https://droneguards.africa/",
+      "website": "https://droneguards.africa",
       "telephone": "084 023 6114",
-      "country": "South Africa",
-      "address": "122 Willem Botha Drive\nEldoraigne\nCenturion\n0157"
+      "address": {
+        "text": "122 Willem Botha Drive\nEldoraigne\nCenturion\n0157",
+        "iso2": "ZA",
+        "lat": -25.8603934,
+        "lon": 28.1529652
+      }
     },
     {
       "name": "Drone Ops",
       "exhibitorUrl": "https://securex.co.za/exhibitor/drone-ops/",
-      "website": "https://droneops.co.za/",
+      "website": "https://droneops.co.za",
       "telephone": "+27 (0)67 181 8985"
     },
     {
       "name": "Eagle Eye Networks",
       "exhibitorUrl": "https://securex.co.za/exhibitor/eagle-eye-networks/",
-      "website": "https://een.com/",
+      "website": "https://een.com",
       "telephone": "083 940-4498",
-      "country": "The Netherlands",
-      "address": "Hogehilweg 19\nAmsterdam\nNoord-Holland\n1101 CB"
+      "address": {
+        "text": "Hogehilweg 19\nAmsterdam\nNoord-Holland\n1101 CB",
+        "iso2": "NL",
+        "lat": 52.3074231,
+        "lon": 4.9481408
+      }
     },
     {
       "name": "Easi card (Pty) Ltd",
       "exhibitorUrl": "https://securex.co.za/exhibitor/easi-card/",
       "website": "http://www.easi-card.co.za",
       "telephone": "0845339446",
-      "country": "South Africa",
-      "address": "18 St John Road\nHoughton\nJohannesburg\nGauteng\n2198"
+      "address": {
+        "text": "18 St John Road\nHoughton\nJohannesburg\nGauteng\n2198",
+        "iso2": "ZA",
+        "lat": -26.1795425,
+        "lon": 28.0548572
+      }
     },
     {
       "name": "Energon Group S.A",
       "exhibitorUrl": "https://securex.co.za/exhibitor/energon-group-s-a/",
-      "website": "https://energonsouthafrica.com/",
+      "website": "https://energonsouthafrica.com",
       "telephone": "+27 12 003 1220",
-      "country": "South Africa",
-      "address": "Ashton Place, Building B, 38 Lebombo Road\nAshley Gardens\nPretoria\nGauteng\n0081"
+      "address": {
+        "text": "Ashton Place, Building B, 38 Lebombo Road\nAshley Gardens\nPretoria\nGauteng\n0081",
+        "iso2": "ZA",
+        "lat": -25.7826054,
+        "lon": 28.2653516
+      }
     },
     {
       "name": "EPS -STUNTECH",
       "exhibitorUrl": "https://securex.co.za/exhibitor/eps-stuntech-security/",
       "website": "http://www.epsstuntech-security.co.za",
       "telephone": "+27 082 557 5655",
-      "country": "South Africa",
-      "address": "134 Side Road\nTurffontein West\nJohannesburg\nGauteng\n2190"
+      "address": {
+        "text": "134 Side Road\nTurffontein West\nJohannesburg\nGauteng\n2190",
+        "iso2": "ZA",
+        "lat": -26.249058,
+        "lon": 28.0268167
+      }
     },
     {
       "name": "Escort Monitoring Systems",
@@ -238,7 +299,7 @@
     {
       "name": "Fireball SA",
       "exhibitorUrl": "https://securex.co.za/exhibitor/fireball-sa/",
-      "website": "https://fireballrsa.co.za/",
+      "website": "https://fireballrsa.co.za",
       "telephone": "081 484 9374"
     },
     {
@@ -249,31 +310,43 @@
     {
       "name": "Fluss",
       "exhibitorUrl": "https://securex.co.za/exhibitor/fluss/",
-      "website": "https://fluss.io/",
+      "website": "https://fluss.io",
       "telephone": "+27 82 925 2720",
-      "country": "South Africa",
-      "address": "Killarney\nJohannesburg\nGauteng"
+      "address": {
+        "text": "Killarney\nJohannesburg\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1683874,
+        "lon": 28.0522732
+      }
     },
     {
       "name": "Forensic Tools",
       "exhibitorUrl": "https://securex.co.za/exhibitor/forensic-tools/",
-      "website": "https://www.forensictools.co.za/",
+      "website": "https://www.forensictools.co.za",
       "telephone": "012 941 9202",
-      "country": "SOUTH AFRICA",
-      "address": "STONEHILL OFFICE PARK\nWAPADRAND\nPRETORIA\nGAUTENG"
+      "address": {
+        "text": "STONEHILL OFFICE PARK\nWAPADRAND\nPRETORIA\nGAUTENG",
+        "iso2": "ZA",
+        "lat": -25.7817152,
+        "lon": 28.3376953
+      }
     },
     {
       "name": "Amecor",
       "exhibitorUrl": "https://securex.co.za/exhibitor/fsk-electronics/",
-      "website": "https://www.fsk.co.za/",
+      "website": "https://www.fsk.co.za",
       "telephone": "+27 11 477 2600",
-      "country": "South Africa",
-      "address": "Amecor House, 14 Richard Rd\nIndustria North\nGauteng"
+      "address": {
+        "text": "Amecor House, 14 Richard Rd\nIndustria North\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1807525,
+        "lon": 27.949528
+      }
     },
     {
       "name": "Galileosky",
       "exhibitorUrl": "https://securex.co.za/exhibitor/galileosky/",
-      "website": "https://galileosky.com/",
+      "website": "https://galileosky.com",
       "telephone": "+73422700799 ext 231"
     },
     {
@@ -288,10 +361,14 @@
     {
       "name": "GURTAM",
       "exhibitorUrl": "https://securex.co.za/exhibitor/gurtam/",
-      "website": "https://gurtam.com/",
+      "website": "https://gurtam.com",
       "telephone": "+370 37 999 460",
-      "country": "Lithuania",
-      "address": "Technopolis Ozas, Ozo 12A\nVilnius\nLT-08200"
+      "address": {
+        "text": "Technopolis Ozas, Ozo 12A\nVilnius\nLT-08200",
+        "iso2": "LT",
+        "lat": 54.71535799999999,
+        "lon": 25.2781279
+      }
     },
     {
       "name": "HAB South Africa",
@@ -301,10 +378,14 @@
     {
       "name": "Halo Technology",
       "exhibitorUrl": "https://securex.co.za/exhibitor/halo-technology/",
-      "website": "http://www.halotechnology.co.za/",
+      "website": "http://www.halotechnology.co.za",
       "telephone": "+27123471430",
-      "country": "South Africa",
-      "address": "First Floor Forbes Reef Building Waterkloof Heights\nPretoria\nGauteng"
+      "address": {
+        "text": "First Floor Forbes Reef Building Waterkloof Heights\nPretoria\nGauteng",
+        "iso2": "ZA",
+        "lat": -25.7929617,
+        "lon": 28.2558415
+      }
     },
     {
       "name": "Hissco International",
@@ -330,8 +411,12 @@
       "exhibitorUrl": "https://securex.co.za/exhibitor/icam-video-telematics/",
       "website": "http://www.icamvideo.co.za",
       "telephone": "0861158527",
-      "country": "South Africa",
-      "address": "Route 21 Corporate Park, Regency Terrace, 81 Regency Drive\nIrene\nCenturion\nGauteng\n0157"
+      "address": {
+        "text": "Route 21 Corporate Park, Regency Terrace, 81 Regency Drive\nIrene\nCenturion\nGauteng\n0157",
+        "iso2": "ZA",
+        "lat": -25.8590411,
+        "lon": 28.2545353
+      }
     },
     {
       "name": "IDEMIA",
@@ -366,10 +451,14 @@
     {
       "name": "Itouch – secure your health",
       "exhibitorUrl": "https://securex.co.za/exhibitor/itouch-secure-your-health/",
-      "website": "https://itouch.co.za/",
+      "website": "https://itouch.co.za",
       "telephone": "061 794 1916",
-      "country": "South Africa",
-      "address": "3 Autumn Street\nRivonia\nSandton\nGauteng\n2128"
+      "address": {
+        "text": "3 Autumn Street\nRivonia\nSandton\nGauteng\n2128",
+        "iso2": "ZA",
+        "lat": -26.04254,
+        "lon": 28.05832
+      }
     },
     {
       "name": "iWalkie",
@@ -379,20 +468,24 @@
     {
       "name": "Kenai",
       "exhibitorUrl": "https://securex.co.za/exhibitor/kenai/",
-      "website": "https://www.kenai.co.za/",
+      "website": "https://www.kenai.co.za",
       "telephone": "+27 82 614 8024"
     },
     {
       "name": "LD Africa",
       "exhibitorUrl": "https://securex.co.za/exhibitor/ld-africa/",
-      "website": "https://longse.africa/",
-      "country": "South Africa",
-      "address": "5 Upper Lake lane, Constantia Kloof, Roodepoort Lakeside Office Estate\nRoodepoort\nJohannesburg\nGauteng\n1709"
+      "website": "https://longse.africa",
+      "address": {
+        "text": "5 Upper Lake lane, Constantia Kloof, Roodepoort Lakeside Office Estate\nRoodepoort\nJohannesburg\nGauteng\n1709",
+        "iso2": "ZA",
+        "lat": -26.1525956,
+        "lon": 27.9231381
+      }
     },
     {
       "name": "Leonardo/ELSAG ALPR Solutions",
       "exhibitorUrl": "https://securex.co.za/exhibitor/leonardo-elsag-alpr-solutions/",
-      "website": "https://www.leonardocompany-us.com/"
+      "website": "https://www.leonardocompany-us.com"
     },
     {
       "name": "Leppard Underwriting",
@@ -422,17 +515,25 @@
     {
       "name": "Mavili South Africa",
       "exhibitorUrl": "https://securex.co.za/exhibitor/mavili-south-africa/",
-      "website": "http://mavilisa.co.za/",
+      "website": "http://mavilisa.co.za",
       "telephone": "0101098790",
-      "country": "South Africa",
-      "address": "117 Sovereign Drive, R21 Corporate Park\nIrene Extension 31\nCenturion, Pretoria\nGauteng"
+      "address": {
+        "text": "117 Sovereign Drive, R21 Corporate Park\nIrene Extension 31\nCenturion, Pretoria\nGauteng",
+        "iso2": "ZA",
+        "lat": -25.8582061,
+        "lon": 28.2573904
+      }
     },
     {
       "name": "Microsound System",
       "exhibitorUrl": "https://securex.co.za/exhibitor/microsound-system/",
       "website": "http://www.microsound.co.za",
-      "country": "South Africa",
-      "address": "55 Booysens Reserve Rd\nOrmonde 99-Ir\nJohannesburg\nGauteng\n2091"
+      "address": {
+        "text": "55 Booysens Reserve Rd\nOrmonde 99-Ir\nJohannesburg\nGauteng\n2091",
+        "iso2": "ZA",
+        "lat": -26.2300165,
+        "lon": 28.0209369
+      }
     },
     {
       "name": "Mitsubishi Electric",
@@ -442,10 +543,14 @@
     {
       "name": "Multi-Locking Vehicle Tracking Security Systems",
       "exhibitorUrl": "https://securex.co.za/exhibitor/multi-locking-vehicle-tracking-security-systems/",
-      "website": "https://www.multi-locking.co.za/",
+      "website": "https://www.multi-locking.co.za",
       "telephone": "082 449 8041",
-      "country": "South Africa",
-      "address": "50 Pierneef Road Witkoppen Ext.\nFourways\nSandton\nGauteng"
+      "address": {
+        "text": "50 Pierneef Road Witkoppen Ext.\nFourways\nSandton\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.0063735,
+        "lon": 28.0117241
+      }
     },
     {
       "name": "Nashua",
@@ -470,26 +575,38 @@
     {
       "name": "NXTFOX GPRS Technology",
       "exhibitorUrl": "https://securex.co.za/exhibitor/nxtfox-gprs-technology/",
-      "website": "https://nxtfox.com/",
+      "website": "https://nxtfox.com",
       "telephone": "+27 11 452 8565",
-      "country": "South Africa",
-      "address": "92, 7th Avenue\nEdenvale\nJohannesburg\nGauteng\n1609"
+      "address": {
+        "text": "92, 7th Avenue\nEdenvale\nJohannesburg\nGauteng\n1609",
+        "iso2": "ZA",
+        "lat": -26.1391366,
+        "lon": 28.1497769
+      }
     },
     {
       "name": "Onguard",
       "exhibitorUrl": "https://securex.co.za/exhibitor/onguard/",
       "website": "http://www.onguard.co.za",
       "telephone": "0721238104",
-      "country": "South Africa",
-      "address": "395 Main Road\nKirstenhof\nCape Town\nWestern Cape"
+      "address": {
+        "text": "395 Main Road\nKirstenhof\nCape Town\nWestern Cape",
+        "iso2": "ZA",
+        "lat": -34.077235,
+        "lon": 18.4568869
+      }
     },
     {
       "name": "OPTEX",
       "exhibitorUrl": "https://securex.co.za/exhibitor/optex/",
-      "website": "https://www.optex-europe.com/",
+      "website": "https://www.optex-europe.com",
       "telephone": "+27 (31) 761-4200",
-      "country": "South Africa",
-      "address": "The Chambers, Bishops Court, Corner Old Main Road and Warrior Road\nHillcrest\nKwa-Zulu Natal,\n3610"
+      "address": {
+        "text": "The Chambers, Bishops Court, Corner Old Main Road and Warrior Road\nHillcrest\nKwa-Zulu Natal,\n3610",
+        "iso2": "ZA",
+        "lat": -29.7854705,
+        "lon": 30.7673682
+      }
     },
     {
       "name": "ORing Industrial Networking Africa",
@@ -516,16 +633,24 @@
       "exhibitorUrl": "https://securex.co.za/exhibitor/printers-for-africa/",
       "website": "http://www.printersforafrica.co.za",
       "telephone": "0827831260",
-      "country": "South Africa",
-      "address": "68 Watt Street\nMeadowdale\nGermiston\nGauteng\n1614"
+      "address": {
+        "text": "68 Watt Street\nMeadowdale\nGermiston\nGauteng\n1614",
+        "iso2": "ZA",
+        "lat": -26.1471792,
+        "lon": 28.1864781
+      }
     },
     {
       "name": "PRP Solutions",
       "exhibitorUrl": "https://securex.co.za/exhibitor/prp-solutions/",
-      "website": "http://www.prpsolutions.com/",
+      "website": "http://www.prpsolutions.com",
       "telephone": "011 293-0500",
-      "country": "South Africa",
-      "address": "260 Surrey Avenue\nFerndale\nRandburg\nGauteng\n2194"
+      "address": {
+        "text": "260 Surrey Avenue\nFerndale\nRandburg\nGauteng\n2194",
+        "iso2": "ZA",
+        "lat": -26.0987615,
+        "lon": 27.9973169
+      }
     },
     {
       "name": "Rand Armour",
@@ -535,29 +660,37 @@
     {
       "name": "RBH Access Technology",
       "exhibitorUrl": "https://securex.co.za/exhibitor/rbh-access-technology/",
-      "website": "https://rbh-access.com/",
+      "website": "https://rbh-access.com",
       "telephone": "+27 (0)82 776 9990"
     },
     {
       "name": "Realtime Biometrics India",
       "exhibitorUrl": "https://securex.co.za/exhibitor/realtime-biometrics-india/",
-      "website": "https://www.realtimebiometrics.com/"
+      "website": "https://www.realtimebiometrics.com"
     },
     {
       "name": "RecycleX",
       "exhibitorUrl": "https://securex.co.za/exhibitor/recyclex/",
-      "website": "http://www.wecarenpc.com/",
+      "website": "http://www.wecarenpc.com",
       "telephone": "+27 32 947 0165",
-      "country": "South Africa",
-      "address": "WeCare NPC, 21 Hawk Road Shakas Head\nShakas Head\nKwaZulu-Natal\n4420"
+      "address": {
+        "text": "WeCare NPC, 21 Hawk Road Shakas Head\nShakas Head\nKwaZulu-Natal\n4420",
+        "iso2": "ZA",
+        "lat": -29.4934049,
+        "lon": 31.2084232
+      }
     },
     {
       "name": "Ring",
       "exhibitorUrl": "https://securex.co.za/exhibitor/ring/",
-      "website": "http://www.ring.com/",
+      "website": "http://www.ring.com",
       "telephone": "+27 (0)82 081 1334",
-      "country": "USA",
-      "address": "1523 26th St\nSanta Monica\nCA\n90404"
+      "address": {
+        "text": "1523 26th St\nSanta Monica\nCA\n90404",
+        "iso2": "US",
+        "lat": 34.0316942,
+        "lon": -118.4717747
+      }
     },
     {
       "name": "RJ Connect",
@@ -592,10 +725,14 @@
     {
       "name": "Sensata | Xirgo",
       "exhibitorUrl": "https://securex.co.za/exhibitor/sensata-xirgo-global/",
-      "website": "http://www.xigroglobal.com/",
+      "website": "http://www.xigroglobal.com",
       "telephone": "+370 626 13903",
-      "country": "Lithuania",
-      "address": "Chemijos st. 15\nKaunas\nLT-51332"
+      "address": {
+        "text": "Chemijos st. 15\nKaunas\nLT-51332",
+        "iso2": "LT",
+        "lat": 54.9018836,
+        "lon": 24.0019646
+      }
     },
     {
       "name": "Shenzen Jimi IOT",
@@ -620,10 +757,14 @@
     {
       "name": "Smart Five",
       "exhibitorUrl": "https://securex.co.za/exhibitor/smart-five/",
-      "website": "https://smartfive.co.za/",
+      "website": "https://smartfive.co.za",
       "telephone": "+27 11 391 4693",
-      "country": "South Africa",
-      "address": "11 Veld street\nGlen Marais\nKempton Park\nGauteng"
+      "address": {
+        "text": "11 Veld street\nGlen Marais\nKempton Park\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.0776681,
+        "lon": 28.2421061
+      }
     },
     {
       "name": "Softcon",
@@ -644,16 +785,20 @@
     {
       "name": "SR Makathu Security",
       "exhibitorUrl": "https://securex.co.za/exhibitor/sr-makathu-security/",
-      "website": "https://www.srmakathusecurity.co.za/",
+      "website": "https://www.srmakathusecurity.co.za",
       "telephone": "011 067 7898"
     },
     {
       "name": "Stafix Security Centres",
       "exhibitorUrl": "https://securex.co.za/exhibitor/stafix-security-centres/",
-      "website": "http://stafix.co.za/",
+      "website": "http://stafix.co.za",
       "telephone": "011 397 3507",
-      "country": "South Africa",
-      "address": "219 Jetpark Road Areostar Business Park\nJetpark\nJohannesburg\nGauteng"
+      "address": {
+        "text": "219 Jetpark Road Areostar Business Park\nJetpark\nJohannesburg\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1776143,
+        "lon": 28.2124621
+      }
     },
     {
       "name": "Strategic Design IT Infrastructure",
@@ -662,15 +807,19 @@
     {
       "name": "SUNARTEK LABS",
       "exhibitorUrl": "https://securex.co.za/exhibitor/sunartek-labs/",
-      "website": "https://sunartek.com/"
+      "website": "https://sunartek.com"
     },
     {
       "name": "Suprema",
       "exhibitorUrl": "https://securex.co.za/exhibitor/suprema/",
       "website": "http://www.suprema.co.za",
       "telephone": "+27 11 784 3952",
-      "country": "South Africa",
-      "address": "108 11th Street\nParkmore\nSandton\nGauteng\n2196"
+      "address": {
+        "text": "108 11th Street\nParkmore\nSandton\nGauteng\n2196",
+        "iso2": "ZA",
+        "lat": -26.0975831,
+        "lon": 28.0433128
+      }
     },
     {
       "name": "Tactical Defence Store",
@@ -685,10 +834,14 @@
     {
       "name": "The South African Intruder Detection Services Association (SAIDSA)",
       "exhibitorUrl": "https://securex.co.za/exhibitor/the-south-african-intruder-detection-services-association-saidsa/",
-      "website": "http://www.saidsa.co.za/",
+      "website": "http://www.saidsa.co.za",
       "telephone": "011 845 4870",
-      "country": "South Africa",
-      "address": "3rd Floor Senet House, 157 Van Riebeeck Avenue\nEdenvale\nGauteng"
+      "address": {
+        "text": "3rd Floor Senet House, 157 Van Riebeeck Avenue\nEdenvale\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1293021,
+        "lon": 28.1467401
+      }
     },
     {
       "name": "TOP CCTV",
@@ -699,15 +852,19 @@
     {
       "name": "Tracer Technology Systems",
       "exhibitorUrl": "https://securex.co.za/exhibitor/tracer-technology-systems/",
-      "website": "https://www.tracertechnologysystems.com/",
+      "website": "https://www.tracertechnologysystems.com",
       "telephone": "+14066702862"
     },
     {
       "name": "Trackforce",
       "exhibitorUrl": "https://securex.co.za/exhibitor/trackforce/",
       "telephone": "+27 61 472 4641",
-      "country": "South Africa",
-      "address": "Trackforce Valaint, No. 18 Unit 1 Pendoring Office Park, 299 Pendoring Road\nBlackheath\nJohannesburg\nGauteng"
+      "address": {
+        "text": "Trackforce Valaint, No. 18 Unit 1 Pendoring Office Park, 299 Pendoring Road\nBlackheath\nJohannesburg\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.1307259,
+        "lon": 27.9682664
+      }
     },
     {
       "name": "Transaction Control Technologies",
@@ -717,10 +874,14 @@
     {
       "name": "Trusted Global Equipment Visibility",
       "exhibitorUrl": "https://securex.co.za/exhibitor/trusted-global-equipment-visibility/",
-      "website": "https://trustedglobal.co.za/",
+      "website": "https://trustedglobal.co.za",
       "telephone": "(+27) 12 882 0848",
-      "country": "South Africa",
-      "address": "Fountain Square 78 Kalkoen Street\nMonument Park\nPretoria\nGauteng\n0184"
+      "address": {
+        "text": "Fountain Square 78 Kalkoen Street\nMonument Park\nPretoria\nGauteng\n0184",
+        "iso2": "ZA",
+        "lat": -25.8050607,
+        "lon": 28.2256339
+      }
     },
     {
       "name": "Turnstar Systems",
@@ -730,10 +891,14 @@
     {
       "name": "Unitec Africa",
       "exhibitorUrl": "https://securex.co.za/exhibitor/unitec-africa/",
-      "website": "https://unitec.ie/",
+      "website": "https://unitec.ie",
       "telephone": "+27875517689",
-      "country": "South Africa",
-      "address": "Number 32 Block B, Willowbrook Office Park Van Hoof Street\nRoodepoort\nGauteng"
+      "address": {
+        "text": "Number 32 Block B, Willowbrook Office Park Van Hoof Street\nRoodepoort\nGauteng",
+        "iso2": "ZA",
+        "lat": -26.0979,
+        "lon": 27.87524
+      }
     },
     {
       "name": "Uniview",
@@ -748,10 +913,14 @@
     {
       "name": "VMI Security",
       "exhibitorUrl": "https://securex.co.za/exhibitor/vmi-security/",
-      "website": "https://vmisecurity.com/",
+      "website": "https://vmisecurity.com",
       "telephone": "+44 750354 5981",
-      "country": "Brasil",
-      "address": "R. Um, 55 – Quinhão 3, Distrito Industrial\nGenesco Aparecido de Oliveira\nLagoa Santa, MG\nCEP 33.240-094"
+      "address": {
+        "text": "R. Um, 55 – Quinhão 3, Distrito Industrial\nGenesco Aparecido de Oliveira\nLagoa Santa, MG\nCEP 33.240-094",
+        "iso2": "BR",
+        "lat": -19.6649719,
+        "lon": -43.914761
+      }
     },
     {
       "name": "Wes Worldwide Expo Services (Shenzen) Ltd",
@@ -766,14 +935,18 @@
     {
       "name": "WizzPass Visitor System",
       "exhibitorUrl": "https://securex.co.za/exhibitor/wizzpass-visitor-system/",
-      "website": "https://www.wizzpass.com/"
+      "website": "https://www.wizzpass.com"
     },
     {
       "name": "Xafer Security Components",
       "exhibitorUrl": "https://securex.co.za/exhibitor/xafer-security-components/",
-      "website": "https://www.en.xafer.com/",
-      "country": "South Africa",
-      "address": "1st Floor, Stabilitas House 265 Kent Ave\nRandburg\nGauteng\n2194"
+      "website": "https://www.en.xafer.com",
+      "address": {
+        "text": "1st Floor, Stabilitas House 265 Kent Ave\nRandburg\nGauteng\n2194",
+        "iso2": "ZA",
+        "lat": -26.0984587,
+        "lon": 27.9994822
+      }
     },
     {
       "name": "XSCANN Technologies",

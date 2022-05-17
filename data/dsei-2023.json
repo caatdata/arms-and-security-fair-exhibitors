@@ -8,7 +8,12 @@
   "startDate": "2023-09-12",
   "endDate": "2023-09-15",
   "website": "https://www.dsei.co.uk",
-  "address": "ExCeL London\nOne Western Gateway\nRoyal Victoria Dock\nLondon\nE16 1XL",
+  "address": {
+    "text": "ExCeL London\nOne Western Gateway\nRoyal Victoria Dock\nLondon\nE16 1XL",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
   "organiser": [
     {
       "name": "Clarion Defence & Security"

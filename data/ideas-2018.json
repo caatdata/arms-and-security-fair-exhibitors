@@ -7,8 +7,13 @@
   "edition": "2018",
   "startDate": "2018-11-27",
   "endDate": "2018-11-30",
-  "address": "Karachi Expo Centre\nKarachi\nPakistan",
-  "website": "http://www.ideaspakistan.gov.pk/",
+  "address": {
+    "text": "Karachi Expo Centre\nKarachi\nPakistan",
+    "iso2": "PK",
+    "lat": 24.9003907,
+    "lon": 67.0757004
+  },
+  "website": "http://www.ideaspakistan.gov.pk",
   "social": [
     {
       "platform": "facebook",

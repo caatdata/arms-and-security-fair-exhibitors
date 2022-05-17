@@ -8,8 +8,13 @@
   "edition": "2015",
   "startDate": "2015-06-03",
   "endDate": "2015-06-05",
-  "address": "Ahoy Rotterdam\nAhoy-weg 10\n3084 BA ROTTERDAM",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "Ahoy Rotterdam\nAhoy-weg 10\n3084 BA ROTTERDAM",
+    "iso2": "NL",
+    "lat": 51.8819423,
+    "lon": 4.4865942
+  },
+  "website": "https://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",

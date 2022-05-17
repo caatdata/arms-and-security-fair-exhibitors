@@ -5,7 +5,12 @@
   "edition": "2021",
   "startDate": "2021-11-03",
   "endDate": "2021-11-04",
-  "address": "Three Counties Showground\nMalvern\nWorcestershire\nWR13 6NW",
+  "address": {
+    "text": "Three Counties Showground\nMalvern\nWorcestershire\nWR13 6NW",
+    "iso2": "GB",
+    "lat": 52.0822984,
+    "lon": -2.3144888
+  },
   "website": "https://www.3cdse.co.uk",
   "social": [
     {
@@ -33,7 +38,12 @@
     {
       "name": "3CDSG",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/3cdsg",
-      "address": "℅ Harrison Clark Rickerbys\n5 Deansway\nWorcester\nWorcestershire\nWR1 2JG\nUnited Kingdom",
+      "address": {
+        "text": "℅ Harrison Clark Rickerbys\n5 Deansway\nWorcester\nWorcestershire\nWR1 2JG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1897982,
+        "lon": -2.2205067
+      },
       "category": [
         "2019",
         "2021",
@@ -45,7 +55,12 @@
     {
       "name": "7Technologies",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/7tech-group",
-      "address": "Crescent Business Park\nLisburn\nAntrim\nBT282GN\nUnited Kingdom",
+      "address": {
+        "text": "Crescent Business Park\nLisburn\nAntrim\nBT282GN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.5136392,
+        "lon": -6.0724851
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -53,12 +68,17 @@
         "Police | Security services | Counter terrorism",
         "Research | Academia | Training"
       ],
-      "website": "https://www.7techgroup.com/"
+      "website": "https://www.7techgroup.com"
     },
     {
       "name": "ADS",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/ads",
-      "address": "ADS Group\n9 Albert Embankment\nLondon\nSE1 7SP\nUnited Kingdom",
+      "address": {
+        "text": "ADS Group\n9 Albert Embankment\nLondon\nSE1 7SP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4922182,
+        "lon": -0.1213332
+      },
       "category": [
         "Associations | Trade & Professional",
         "2019",
@@ -69,7 +89,12 @@
     {
       "name": "APITech",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/apitech",
-      "address": "400 Nickerson Rd\nMarlborough\nMA\n01752\nUnited States",
+      "address": {
+        "text": "400 Nickerson Rd\nMarlborough\nMA\n01752\nUnited States",
+        "iso2": "US",
+        "lat": 42.3346431,
+        "lon": -71.5923312
+      },
       "category": [
         "Cyber",
         "Engineering | Design | Manufacturing",
@@ -82,7 +107,6 @@
     {
       "name": "Allen-Vanguard",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/allen-vanguard",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021",
@@ -91,12 +115,21 @@
         "Equipment Manufacturers",
         "Police | Security services | Counter terrorism"
       ],
-      "website": "http://www.allenvanguard.com"
+      "website": "http://www.allenvanguard.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Amphenol Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/amphenol",
-      "address": "Amphenol Ltd\nThanet Way\nWhitstable\nKent\nCT5 3JF\nUnited Kingdom",
+      "address": {
+        "text": "Amphenol Ltd\nThanet Way\nWhitstable\nKent\nCT5 3JF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3578643,
+        "lon": 1.0575516
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Small & Medium Enterprises (SME's)",
@@ -107,7 +140,12 @@
     {
       "name": "Amulet Hotkey",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/amulet-hotkey",
-      "address": "Cavalier Road, Heathfield Industrial Estate\nHeathfield\nNewton Abbot\nDevon\nTQ12 6TQ\nUnited Kingdom",
+      "address": {
+        "text": "Cavalier Road, Heathfield Industrial Estate\nHeathfield\nNewton Abbot\nDevon\nTQ12 6TQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.5730277,
+        "lon": -3.658678
+      },
       "category": [
         "2021"
       ],
@@ -116,35 +154,51 @@
     {
       "name": "Apella Solutions Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/apella",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Armed Forces Veterans Malvern Hills",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/armed-forces-veterans-malvern-hills",
-      "address": "United Kingdom",
       "category": [
         "Charity | Not for Profit",
         "2021"
       ],
-      "website": "https://www.facebook.com/groups/1014709218923549"
+      "website": "https://www.facebook.com/groups/1014709218923549",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Armour Comms",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/armour-comms",
-      "address": "1st Floor Millbank Tower\nWestminster\nLondon\nsw1p 4qp\nUnited Kingdom",
+      "address": {
+        "text": "1st Floor Millbank Tower\nWestminster\nLondon\nsw1p 4qp\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4923168,
+        "lon": -0.1259315
+      },
       "category": [
         "Communications",
         "2021"
       ],
-      "website": "https://www.armourcomms.com/"
+      "website": "https://www.armourcomms.com"
     },
     {
       "name": "Arnold Defense",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/arnold-defense",
-      "address": "Arnold Defense\n3000 Arnold tenbrook Road\nArnold\nMissouri\n63010\nUnited States",
+      "address": {
+        "text": "Arnold Defense\n3000 Arnold tenbrook Road\nArnold\nMissouri\n63010\nUnited States",
+        "iso2": "US",
+        "lat": 38.4320819,
+        "lon": -90.3527766
+      },
       "category": [
         "2019",
         "2021",
@@ -152,7 +206,7 @@
         "Equipment Manufacturers",
         "Small & Medium Enterprises (SME's)"
       ],
-      "website": "https://www.arnolddefense.com/"
+      "website": "https://www.arnolddefense.com"
     },
     {
       "name": "BAE Systems",
@@ -161,26 +215,39 @@
     {
       "name": "BMT Defence and Security",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/bmt-global",
-      "address": "1 Park Road\nTeddington\nTW11 0AP\nUnited Kingdom",
+      "address": {
+        "text": "1 Park Road\nTeddington\nTW11 0AP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4257187,
+        "lon": -0.3344182
+      },
       "category": [
         "2021"
       ],
-      "website": "https://www.bmt.org/"
+      "website": "https://www.bmt.org"
     },
     {
       "name": "BlackTree Technologies",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/blacktree-group",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
       ],
-      "website": "http://www.blacktreetechnologies.co.uk"
+      "website": "http://www.blacktreetechnologies.co.uk",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Borwell",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/borwell",
-      "address": "borwell Ltd.\nMalvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+      "address": {
+        "text": "borwell Ltd.\nMalvern Hills Science Park\nGeraldine Road\nMalvern\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1047597,
+        "lon": -2.3128812
+      },
       "category": [
         "Business Services",
         "Cyber",
@@ -194,7 +261,12 @@
     {
       "name": "C11 Cyber Security and Digital Innovation Centre - University of Gloucestershire",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/c11-uni-glos",
-      "address": "University of Gloucestershire\nScience and Technology Park\nBerkeley\nGloucestershire\nGL13 9FB\nUnited Kingdom",
+      "address": {
+        "text": "University of Gloucestershire\nScience and Technology Park\nBerkeley\nGloucestershire\nGL13 9FB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6901707,
+        "lon": -2.4978761
+      },
       "category": [
         "2019",
         "2021"
@@ -204,7 +276,12 @@
     {
       "name": "C3IA Solutions",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/c3ia-solutions",
-      "address": "Unit B\nThe Outlook\nLing Road\nPoole\nDorset\nBH12 4PY\nUnited Kingdom",
+      "address": {
+        "text": "Unit B\nThe Outlook\nLing Road\nPoole\nDorset\nBH12 4PY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7468054,
+        "lon": -1.9494048
+      },
       "category": [
         "Communications",
         "Cyber",
@@ -217,17 +294,25 @@
     {
       "name": "CDS Defence & Security",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/cds-defence",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
       ],
-      "website": "http://www.cdsds.uk"
+      "website": "http://www.cdsds.uk",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CGI",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/cgi",
-      "address": "Keats House\nThe Office Park\nSpringfield Drive\nLeatherhead\nKT22 7L\nUnited Kingdom",
+      "address": {
+        "text": "Keats House\nThe Office Park\nSpringfield Drive\nLeatherhead\nKT22 7L\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3079127,
+        "lon": -0.338627
+      },
       "category": [
         "2021",
         "Cyber",
@@ -240,7 +325,12 @@
     {
       "name": "CMCA (UK)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/cmca-uk",
-      "address": "CMCA(UK)\nBrindley Court\nGresley Road\nWarndon\nWorcestershire\nWR4 9FD\nUnited Kingdom",
+      "address": {
+        "text": "CMCA(UK)\nBrindley Court\nGresley Road\nWarndon\nWorcestershire\nWR4 9FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2150261,
+        "lon": -2.1793475
+      },
       "category": [
         "2019",
         "2021",
@@ -254,7 +344,12 @@
     {
       "name": "CP Cases",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/cp-cases",
-      "address": "CP Cases Ltd\nUnit 10-11, Worton Hall Industrial Estate\nWorton Road\nIsleworth\nHounslow\nTW7 6ER\nUnited Kingdom",
+      "address": {
+        "text": "CP Cases Ltd\nUnit 10-11, Worton Hall Industrial Estate\nWorton Road\nIsleworth\nHounslow\nTW7 6ER\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4647966,
+        "lon": -0.3447117
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -262,12 +357,17 @@
         "Police | Security services | Counter terrorism",
         "Small & Medium Enterprises (SME's)"
       ],
-      "website": "https://cpcases.com/"
+      "website": "https://cpcases.com"
     },
     {
       "name": "Canon UK",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/canon-uk",
-      "address": "Canon UK\n5 TheSquare\nStockley Park\nUxbridge\nUB11 1ET\nUnited Kingdom",
+      "address": {
+        "text": "Canon UK\n5 TheSquare\nStockley Park\nUxbridge\nUB11 1ET\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5091857,
+        "lon": -0.435784
+      },
       "category": [
         "Equipment Manufacturers",
         "2021"
@@ -277,7 +377,12 @@
     {
       "name": "Castle Microwave",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/castle-microwave",
-      "address": "5, The Pentangle\nPark Street\nNewbury\nBerkshire\nRG14 1EA\nUnited Kingdom",
+      "address": {
+        "text": "5, The Pentangle\nPark Street\nNewbury\nBerkshire\nRG14 1EA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4050336,
+        "lon": -1.3232573
+      },
       "category": [
         "2021",
         "Communications",
@@ -290,7 +395,12 @@
     {
       "name": "Claresys",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/claresys",
-      "address": "154E Brook Drive\nMilton Park\nAbingdon\nOX14 4SD\nUnited Kingdom",
+      "address": {
+        "text": "154E Brook Drive\nMilton Park\nAbingdon\nOX14 4SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6244934,
+        "lon": -1.2857219
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Equipment Manufacturers",
@@ -304,7 +414,12 @@
     {
       "name": "Constella Intelligence",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/constella-intelligence",
-      "address": "P. O. Box 2862\nSanta Clara\n95055\nUnited States",
+      "address": {
+        "text": "P. O. Box 2862\nSanta Clara\n95055\nUnited States",
+        "iso2": "US",
+        "lat": 37.35,
+        "lon": -121.98
+      },
       "category": [
         "Business Services",
         "Cyber",
@@ -317,7 +432,12 @@
     {
       "name": "Cyber Quarter",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/cyber-quarter",
-      "address": "Cyber Quarter\nHursey Road\nHereford\nHR2 6FP\nUnited Kingdom",
+      "address": {
+        "text": "Cyber Quarter\nHursey Road\nHereford\nHR2 6FP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.03406469999999,
+        "lon": -2.6870886
+      },
       "category": [
         "2021"
       ],
@@ -326,7 +446,12 @@
     {
       "name": "D-Fend Solutions",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/d-fend-solutions",
-      "address": "1 Northumberland Avenue\nLondon\nWC2N 5BW\nUnited Kingdom",
+      "address": {
+        "text": "1 Northumberland Avenue\nLondon\nWC2N 5BW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5071847,
+        "lon": -0.1272394
+      },
       "category": [
         "Drones | UAV | Counter UAV",
         "Equipment Manufacturers",
@@ -341,7 +466,12 @@
     {
       "name": "DCPP MOD Security Advice (MOD Zone)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/dcpp-mod-security-advice-mod-zone",
-      "address": "MOD Main Building\nWhitehall\nLondon\nSW1A 2HB\nUnited Kingdom",
+      "address": {
+        "text": "MOD Main Building\nWhitehall\nLondon\nSW1A 2HB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50471229999999,
+        "lon": -0.1247837
+      },
       "category": [
         "Government | Military",
         "2021"
@@ -351,7 +481,12 @@
     {
       "name": "DIT DSE (MOD Zone)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/dit",
-      "address": "Old Admiralty Building\nAdmiralty Place\nLondon\nSW1A 2DY\nUnited Kingdom",
+      "address": {
+        "text": "Old Admiralty Building\nAdmiralty Place\nLondon\nSW1A 2DY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
       "category": [
         "Government | Military",
         "2019",
@@ -362,7 +497,12 @@
     {
       "name": "DSTL",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/dstl",
-      "address": "Dstl Headquarters\nPorton Down\nSalisbury\nWiltshire\nSP4 0JG\nUnited Kingdom",
+      "address": {
+        "text": "Dstl Headquarters\nPorton Down\nSalisbury\nWiltshire\nSP4 0JG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1312297,
+        "lon": -1.7036842
+      },
       "category": [
         "Government | Military",
         "Research | Academia | Training",
@@ -373,33 +513,47 @@
     {
       "name": "Defence Equipment & Support (DE&S) (MOD Zone)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/defence-equipment--support-des",
-      "address": "United Kingdom",
       "category": [
         "Government | Military",
         "2021"
       ],
-      "website": "http://www.des.mod.uk"
+      "website": "http://www.des.mod.uk",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Doing Business With Defence (MOD Zone)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/doing-business-with-defence-mod-zone",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "EXSEL Group OUTSIDE SPACE",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/exsel-group-ltd-external-space",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Element Materials Technology",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/element-materials-technology",
-      "address": "Rothwell Road\nWarwick\nWarwickshire\nCV34 5JX\nUnited Kingdom",
+      "address": {
+        "text": "Rothwell Road\nWarwick\nWarwickshire\nCV34 5JX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2935798,
+        "lon": -1.5985933
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "2021"
@@ -409,7 +563,12 @@
     {
       "name": "Elmo Motion Control",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/elmo-motion-control",
-      "address": "3 Amberley Court\nWhitworth Rd\nCrawley\nWest Sussex\nRH11 7XL\nUnited Kingdom",
+      "address": {
+        "text": "3 Amberley Court\nWhitworth Rd\nCrawley\nWest Sussex\nRH11 7XL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1367036,
+        "lon": -0.1911868
+      },
       "category": [
         "Drones | UAV | Counter UAV",
         "Engineering | Design | Manufacturing",
@@ -422,7 +581,12 @@
     {
       "name": "Enterprise Control",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/enterprise-control",
-      "address": "ECS Technology Park\nWappenham\nNorthamptonshire\nNN12 8WJ\nUnited Kingdom",
+      "address": {
+        "text": "ECS Technology Park\nWappenham\nNorthamptonshire\nNN12 8WJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1064737,
+        "lon": -1.0856287
+      },
       "category": [
         "2019",
         "2021",
@@ -436,16 +600,24 @@
     {
       "name": "Enterprise Control OUTSIDE SPACE",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/enterprise-control-outside-space",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Evolve Dynamics",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/evolve-dynamics",
-      "address": "Surrey Technology Centre\n40 Occam Road\nGuildford\nSurrrey\nGU2 7YG\nUnited Kingdom",
+      "address": {
+        "text": "Surrey Technology Centre\n40 Occam Road\nGuildford\nSurrrey\nGU2 7YG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2398657,
+        "lon": -0.612081
+      },
       "category": [
         "Drones | UAV | Counter UAV",
         "Engineering | Design | Manufacturing",
@@ -458,7 +630,12 @@
     {
       "name": "Exensor",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/level-peaks-associates-blacklight",
-      "address": "1 Stoken Farm\nSteventon\nBasingstoke\nRG25 3BD\nUnited Kingdom",
+      "address": {
+        "text": "1 Stoken Farm\nSteventon\nBasingstoke\nRG25 3BD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2290769,
+        "lon": -1.2110765
+      },
       "category": [
         "2021",
         "Communications",
@@ -471,7 +648,12 @@
     {
       "name": "Exsel Group",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/exsel-electronics-ltd",
-      "address": "67 D/E\nBlackpole Trading Estate West\nWorcestershire\nWR3 8TJ\nUnited Kingdom",
+      "address": {
+        "text": "67 D/E\nBlackpole Trading Estate West\nWorcestershire\nWR3 8TJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2201598,
+        "lon": -2.199689
+      },
       "category": [
         "2019",
         "2021",
@@ -485,15 +667,23 @@
     {
       "name": "Extreme Cases",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/extreme-cases-2jaw",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FalCom",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/falcom",
-      "address": "FalCom\nLautrupbjerg 7\nBallerup\n2750\nDenmark",
+      "address": {
+        "text": "FalCom\nLautrupbjerg 7\nBallerup\n2750\nDenmark",
+        "iso2": "DK",
+        "lat": 55.7375449,
+        "lon": 12.3863682
+      },
       "category": [
         "Communications",
         "Equipment Manufacturers",
@@ -506,7 +696,12 @@
     {
       "name": "Fischer Connectors",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/fischer-connectors",
-      "address": "11 The Briars\nWaterberry Drive\nWaterlooville\nHampshire\nPO7 7YH\nUnited Kingdom",
+      "address": {
+        "text": "11 The Briars\nWaterberry Drive\nWaterlooville\nHampshire\nPO7 7YH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8856222,
+        "lon": -1.042239
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -520,16 +715,26 @@
     {
       "name": "Fortinet",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/fortinet",
-      "address": "Fortinet\nLimited 26th\nFloor 52 Lime Street\nLondon\nUK\nEC3M 7AF\nUnited Kingdom",
+      "address": {
+        "text": "Fortinet\nLimited 26th\nFloor 52 Lime Street\nLondon\nUK\nEC3M 7AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5132838,
+        "lon": -0.0814418
+      },
       "category": [
         "2021"
       ],
-      "website": "https://www.fortinet.com/"
+      "website": "https://www.fortinet.com"
     },
     {
       "name": "Fourth Element",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/fourth-element",
-      "address": "Fourth Element\nWater-Ma-Trout\nHelston\nCornwall\nTR13 0LW\nUnited Kingdom",
+      "address": {
+        "text": "Fourth Element\nWater-Ma-Trout\nHelston\nCornwall\nTR13 0LW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.1126662,
+        "lon": -5.2705442
+      },
       "category": [
         "Associations | Trade & Professional",
         "Equipment Manufacturers",
@@ -537,12 +742,17 @@
         "Police | Security services | Counter terrorism",
         "2021"
       ],
-      "website": "https://mp.fourthelement.com/"
+      "website": "https://mp.fourthelement.com"
     },
     {
       "name": "GMK Tactical Products",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/gmk/tactical-products",
-      "address": "Bear House\nConcorde Way\nFareham\nHampshire\nPO15 5RL\nUnited Kingdom",
+      "address": {
+        "text": "Bear House\nConcorde Way\nFareham\nHampshire\nPO15 5RL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.86984959999999,
+        "lon": -1.2427158
+      },
       "category": [
         "Government | Military",
         "Night vision | Optics | Optronics",
@@ -555,7 +765,12 @@
     {
       "name": "Geometric Manufacturing Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/geometric-manufacturing-ltd",
-      "address": "Sigma House\nSigma Close\nShannon Way\nTewkesbury\nGlos\nGL20 8ND\nUnited Kingdom",
+      "address": {
+        "text": "Sigma House\nSigma Close\nShannon Way\nTewkesbury\nGlos\nGL20 8ND\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.99930320000001,
+        "lon": -2.1265696
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Equipment Manufacturers",
@@ -568,7 +783,12 @@
     {
       "name": "Glenair",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/glenair",
-      "address": "40 Lower Oakham Way\nMansfield\nNottinghamshire\nNG18 5BY\nUnited Kingdom",
+      "address": {
+        "text": "40 Lower Oakham Way\nMansfield\nNottinghamshire\nNG18 5BY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.1281037,
+        "lon": -1.2160904
+      },
       "category": [
         "2019",
         "2021",
@@ -580,7 +800,12 @@
     {
       "name": "HR Smith Group of Companies",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/hr-smith",
-      "address": "Street Court\nKingsland\nLeominster\nHerefordshire\nHR6 9QA\nUnited Kingdom",
+      "address": {
+        "text": "Street Court\nKingsland\nLeominster\nHerefordshire\nHR6 9QA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.23834799999999,
+        "lon": -2.8426221
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -593,7 +818,12 @@
     {
       "name": "Harrison Clark Rickerbys",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/harrison-clark-rickerbys",
-      "address": "Thorpe House\n29 Broad Street\nHerefordshire\nHR4 9AR\nUnited Kingdom",
+      "address": {
+        "text": "Thorpe House\n29 Broad Street\nHerefordshire\nHR4 9AR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0545593,
+        "lon": -2.7177795
+      },
       "category": [
         "2018",
         "2019",
@@ -605,15 +835,23 @@
     {
       "name": "Harvey Nash",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/harvey-nash",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Hereford Infosec",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/hereford-infosec",
-      "address": "PO Box 363\nHereford\nHR1 9PR\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 363\nHereford\nHR1 9PR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.94489799999999,
+        "lon": -2.875261
+      },
       "category": [
         "Cyber",
         "2021"
@@ -623,7 +861,12 @@
     {
       "name": "Hewlett-Packard Ltd and Centreprise",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/hewlett-packard-ltd-and-centreprise",
-      "address": "210 Wharfedale Road\nWinnersh Triangle\nWinnersh\nBerkshire\nRG41 5TP\nUnited Kingdom",
+      "address": {
+        "text": "210 Wharfedale Road\nWinnersh Triangle\nWinnersh\nBerkshire\nRG41 5TP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4374646,
+        "lon": -0.8924108000000001
+      },
       "category": [
         "IT Software & Hardware",
         "2021"
@@ -633,16 +876,24 @@
     {
       "name": "Hexagon Geospatial",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/hexagon-geospatial",
-      "address": "United Kingdom",
       "category": [
         "2021"
       ],
-      "website": "https://www.hexagongeospatial.com/"
+      "website": "https://www.hexagongeospatial.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Hitek Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/hitek-ltd",
-      "address": "HITEK Electronic Materials Ltd\n15 Wentworth Road\nSouth Park Industrial Estate\nScunthorpe\nNorth Lincolnshire\nDN17 2AX\nUnited Kingdom",
+      "address": {
+        "text": "HITEK Electronic Materials Ltd\n15 Wentworth Road\nSouth Park Industrial Estate\nScunthorpe\nNorth Lincolnshire\nDN17 2AX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.552283,
+        "lon": -0.679586
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -650,12 +901,17 @@
         "Police | Security services | Counter terrorism",
         "Small & Medium Enterprises (SME's)"
       ],
-      "website": "https://www.hitek-ltd.co.uk/"
+      "website": "https://www.hitek-ltd.co.uk"
     },
     {
       "name": "Iceni Labs",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/iceni-labs",
-      "address": "8-12 Creekside\nLondon\nSE8 3DX\nUnited Kingdom",
+      "address": {
+        "text": "8-12 Creekside\nLondon\nSE8 3DX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4774144,
+        "lon": -0.0203794
+      },
       "category": [
         "2021",
         "Equipment Manufacturers",
@@ -667,15 +923,23 @@
     {
       "name": "Impact Aerial",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/impact-aerial",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Instro Precision Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/instro-precision-ltd",
-      "address": "Sentinel House\nArtillery Way\nDiscovery Park\nSandwich\nKent\nCT13 9FL\nUnited Kingdom",
+      "address": {
+        "text": "Sentinel House\nArtillery Way\nDiscovery Park\nSandwich\nKent\nCT13 9FL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2904694,
+        "lon": 1.3476491
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -683,12 +947,17 @@
         "Government | Military",
         "Night vision | Optics | Optronics"
       ],
-      "website": "https://instro.com/"
+      "website": "https://instro.com"
     },
     {
       "name": "JTOL",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/jtol",
-      "address": "Suite 38\nThe Business Centre\nEdward Street\nRedditch\nWorcestershire\nB97 6HA\nUnited Kingdom",
+      "address": {
+        "text": "Suite 38\nThe Business Centre\nEdward Street\nRedditch\nWorcestershire\nB97 6HA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3072998,
+        "lon": -1.946645
+      },
       "category": [
         "Communications",
         "Government | Military",
@@ -701,7 +970,12 @@
     {
       "name": "Joint Export Control Unit",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/joint-export-control-unit",
-      "address": "Old Admiralty Building\nAdmiralty Place\nWhitehall\nLondon\nSW1A 2DY\nUnited Kingdom",
+      "address": {
+        "text": "Old Admiralty Building\nAdmiralty Place\nWhitehall\nLondon\nSW1A 2DY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
       "category": [
         "2021"
       ],
@@ -710,7 +984,12 @@
     {
       "name": "Jonathan Lee Recruitment",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/jonathan-lee-recruitment",
-      "address": "The Maltings\nMount Road\nStourbridge\nWest Midlands\nDY8 1HZ\nUnited Kingdom",
+      "address": {
+        "text": "The Maltings\nMount Road\nStourbridge\nWest Midlands\nDY8 1HZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.456175,
+        "lon": -2.140786
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Small & Medium Enterprises (SME's)",
@@ -722,16 +1001,26 @@
     {
       "name": "KTN",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/knowledge-transfer-network",
-      "address": "Business Design Centre\nSuite 220, Business Design Centre, 52 Upper Street\nLONDON\nEdinburgh\nN1 0QH\nUnited Kingdom",
+      "address": {
+        "text": "Business Design Centre\nSuite 220, Business Design Centre, 52 Upper Street\nLONDON\nEdinburgh\nN1 0QH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.53548809999999,
+        "lon": -0.1059034
+      },
       "category": [
         "2021"
       ],
-      "website": "https://ktn-uk.org/"
+      "website": "https://ktn-uk.org"
     },
     {
       "name": "Kinected",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/kinected",
-      "address": "Unit 2\nBenning Court\nRiverside Road\nBarnstaple\nDevon\nEX31 1AB\nUnited Kingdom",
+      "address": {
+        "text": "Unit 2\nBenning Court\nRiverside Road\nBarnstaple\nDevon\nEX31 1AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0853797,
+        "lon": -4.082921199999999
+      },
       "category": [
         "Communications",
         "Government | Military",
@@ -744,7 +1033,12 @@
     {
       "name": "Klas",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/klas",
-      "address": "4th Floor, One Kilmainham Square\nInchicore Road, Kilmainham\nDublin 8\nDublin\nDO8 ET1W\nIreland",
+      "address": {
+        "text": "4th Floor, One Kilmainham Square\nInchicore Road, Kilmainham\nDublin 8\nDublin\nDO8 ET1W\nIreland",
+        "iso2": "IE",
+        "lat": 53.3425113,
+        "lon": -6.3093144
+      },
       "category": [
         "2021"
       ],
@@ -753,7 +1047,12 @@
     {
       "name": "Landguard Systems",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/landguard-systems",
-      "address": "Semaphore House\nFareham Heights\nFareham\nHampshire\nPO16 8XT\nUnited Kingdom",
+      "address": {
+        "text": "Semaphore House\nFareham Heights\nFareham\nHampshire\nPO16 8XT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8595558,
+        "lon": -1.1642708
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -766,17 +1065,25 @@
     {
       "name": "Leading Technology Developments",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/leading-technology-developments",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
       ],
-      "website": "http://www.ltdevelopment.com"
+      "website": "http://www.ltdevelopment.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Level Peaks Associates",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/level-peaks-associates",
-      "address": "Unit 4\nHereford Trade Park\nHolmer Road\nHerefordshire\nHR4 9SG\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4\nHereford Trade Park\nHolmer Road\nHerefordshire\nHR4 9SG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06656410000001,
+        "lon": -2.7202988
+      },
       "category": [
         "2019",
         "2021",
@@ -790,7 +1097,12 @@
     {
       "name": "Link Microtek",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/link-microtek",
-      "address": "High Point\nChurch Street\nBasingstoke\nHampshire\nRG21 7QN\nUnited Kingdom",
+      "address": {
+        "text": "High Point\nChurch Street\nBasingstoke\nHampshire\nRG21 7QN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2642247,
+        "lon": -1.0890734
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -803,7 +1115,12 @@
     {
       "name": "Liteye",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/liteye",
-      "address": "15b Field House\nEarls Colne Business Park\nEarls Colne\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+      "address": {
+        "text": "15b Field House\nEarls Colne Business Park\nEarls Colne\nColchester\nEssex\nCO6 2NS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9085821,
+        "lon": 0.6807529999999999
+      },
       "category": [
         "2019",
         "2021"
@@ -813,7 +1130,6 @@
     {
       "name": "Lockheed Martin",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/lockheed-martin",
-      "address": "United Kingdom",
       "category": [
         "Cyber",
         "Drones | UAV | Counter UAV",
@@ -821,12 +1137,15 @@
         "Government | Military",
         "2021"
       ],
-      "website": "https://www.lockheedmartin.com/en-gb/index.html"
+      "website": "https://www.lockheedmartin.com/en-gb/index.html",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Logically Secure",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/logically-secure",
-      "address": "United Kingdom",
       "category": [
         "Business Services",
         "Cyber",
@@ -834,12 +1153,21 @@
         "Police | Security services | Counter terrorism",
         "2021"
       ],
-      "website": "http://www.logicallysecure.com"
+      "website": "http://www.logicallysecure.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "MIC Global Solutions",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/mic-global-solutions",
-      "address": "5th Floor\n167 - 169 Great Portland Street\nLondon\nW1W 5PF\nUnited Kingdom",
+      "address": {
+        "text": "5th Floor\n167 - 169 Great Portland Street\nLondon\nW1W 5PF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5216834,
+        "lon": -0.1436794
+      },
       "category": [
         "2021",
         "Communications",
@@ -852,7 +1180,12 @@
     {
       "name": "Make UK Defence",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/make-uk-defence",
-      "address": "Broadway House\nTothill Street\nLondon\nSW1H 9NQ\nUnited Kingdom",
+      "address": {
+        "text": "Broadway House\nTothill Street\nLondon\nSW1H 9NQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4998464,
+        "lon": -0.1324372
+      },
       "category": [
         "2021"
       ],
@@ -861,7 +1194,12 @@
     {
       "name": "Malvern Optical",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/malvern-optical",
-      "address": "Hangar 3\nPershore Airfield\nLong Lane\nThrockmorton\nWorcestershire\nWR10 2JH\nUnited Kingdom",
+      "address": {
+        "text": "Hangar 3\nPershore Airfield\nLong Lane\nThrockmorton\nWorcestershire\nWR10 2JH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1423721,
+        "lon": -2.04535
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -875,7 +1213,12 @@
     {
       "name": "Marlborough Communications",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/marlborough-communications",
-      "address": "Dovenby Hall\nBalcombe Raod\nHorley\nSurrey\nRH6 9UU\nUnited Kingdom",
+      "address": {
+        "text": "Dovenby Hall\nBalcombe Raod\nHorley\nSurrey\nRH6 9UU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.16050749999999,
+        "lon": -0.1491966
+      },
       "category": [
         "2019",
         "2021",
@@ -889,7 +1232,12 @@
     {
       "name": "MetOcean Telematics",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/metocean",
-      "address": "Hilldale Farm\nTitchfield Lane\nWickham\nHampshire\nPO17 5NZ\nUnited Kingdom",
+      "address": {
+        "text": "Hilldale Farm\nTitchfield Lane\nWickham\nHampshire\nPO17 5NZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9018455,
+        "lon": -1.2030112
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -903,7 +1251,12 @@
     {
       "name": "Metis Aerospace",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/metis-aerospace",
-      "address": "Boole Technology Centre\nBeevor Street\nLincoln\nLincolnshire\nLN6 7DJ\nUnited Kingdom",
+      "address": {
+        "text": "Boole Technology Centre\nBeevor Street\nLincoln\nLincolnshire\nLN6 7DJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2275792,
+        "lon": -0.5569788999999999
+      },
       "category": [
         "Drones | UAV | Counter UAV",
         "EOD | IEDD | Bomb disposal",
@@ -916,7 +1269,12 @@
     {
       "name": "Midlands Cyber & BetaDen",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/midlands-cyber-betaden",
-      "address": "Unit 50-51\nMalvern Hills Science Park\nGeraldine Road\nMalvern, Worcestershire\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+      "address": {
+        "text": "Unit 50-51\nMalvern Hills Science Park\nGeraldine Road\nMalvern, Worcestershire\nWorcestershire\nWR14 3SZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1050432,
+        "lon": -2.3108491
+      },
       "category": [
         "Associations | Trade & Professional",
         "Cyber",
@@ -924,12 +1282,17 @@
         "Police | Security services | Counter terrorism",
         "2021"
       ],
-      "website": "https://www.midlandscyber.com/"
+      "website": "https://www.midlandscyber.com"
     },
     {
       "name": "Mildef",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/mildef",
-      "address": "1.09-1.12 Cardiff Business Technology Centre\nSenghennydd Road\nCardiff\nSouth Glamorgan\nCF24 4AY\nUnited Kingdom",
+      "address": {
+        "text": "1.09-1.12 Cardiff Business Technology Centre\nSenghennydd Road\nCardiff\nSouth Glamorgan\nCF24 4AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4899335,
+        "lon": -3.1802656
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Government | Military",
@@ -943,7 +1306,12 @@
     {
       "name": "Mission Motorsport",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/mission-motorsport",
-      "address": "Mission Motorsport Racing Ltd\n20 Sansome Walk\nWorcester\nWorcestershire\nWR1 1LR\nUnited Kingdom",
+      "address": {
+        "text": "Mission Motorsport Racing Ltd\n20 Sansome Walk\nWorcester\nWorcestershire\nWR1 1LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.19588479999999,
+        "lon": -2.2202918
+      },
       "category": [
         "2019",
         "2021"
@@ -953,25 +1321,38 @@
     {
       "name": "N P Aerospace",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/n-p-aerospace",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NCS - Neuro Change Solutions",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/ncs",
-      "address": "The RAG\n36 - 39 Pall Mall\nSt James's\nLondon\nSW1Y 5JN\nUnited Kingdom",
+      "address": {
+        "text": "The RAG\n36 - 39 Pall Mall\nSt James's\nLondon\nSW1Y 5JN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5062578,
+        "lon": -0.1357253
+      },
       "category": [
         "Business Services",
         "2021"
       ],
-      "website": "https://neurochangesolutions.com/"
+      "website": "https://neurochangesolutions.com"
     },
     {
       "name": "NSSLGlobal",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/nssl-global",
-      "address": "NSSLGlobal\n6 Wells Place\nGatton Park Business Centre\nRedhill\nSurrey\nRH1 3DR\nUnited Kingdom",
+      "address": {
+        "text": "NSSLGlobal\n6 Wells Place\nGatton Park Business Centre\nRedhill\nSurrey\nRH1 3DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2574005,
+        "lon": -0.1557441
+      },
       "category": [
         "Communications",
         "Cyber",
@@ -979,12 +1360,17 @@
         "IT Software & Hardware",
         "2021"
       ],
-      "website": "https://www.nsslglobal.com/"
+      "website": "https://www.nsslglobal.com"
     },
     {
       "name": "Network Innovations",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/network-innovations",
-      "address": "Unit D\nHarvey's Place\nFarncombe Estate\nBroadway\nWorcestershire\nWR12 7LJ\nUnited Kingdom",
+      "address": {
+        "text": "Unit D\nHarvey's Place\nFarncombe Estate\nBroadway\nWorcestershire\nWR12 7LJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0397966,
+        "lon": -1.8341357
+      },
       "category": [
         "2021",
         "Communications",
@@ -997,17 +1383,25 @@
     {
       "name": "Neuro8",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/neuro8-new-for-2020",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
       ],
-      "website": "http://www.neuro8.com"
+      "website": "http://www.neuro8.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Niaxo",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/niaxo",
-      "address": "20-22 Wenlock Road\nLondon\nGreater London\nN1 7GU\nUnited Kingdom",
+      "address": {
+        "text": "20-22 Wenlock Road\nLondon\nGreater London\nN1 7GU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.530613,
+        "lon": -0.0935057
+      },
       "category": [
         "IT Software & Hardware",
         "Police | Security services | Counter terrorism",
@@ -1020,7 +1414,12 @@
     {
       "name": "Open Works Engineering",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/open-works-engineering",
-      "address": "4B Stocksfield Hall\nStocksfield\nNE43 7TN\nUnited Kingdom",
+      "address": {
+        "text": "4B Stocksfield Hall\nStocksfield\nNE43 7TN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9512683,
+        "lon": -1.9169728
+      },
       "category": [
         "2021"
       ],
@@ -1029,23 +1428,34 @@
     {
       "name": "Optimal Risk",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/optimal-risk",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Oracle",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/oracle",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Ovation Systems",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/ovation-systems",
-      "address": "Springfield Barn\nLondon Road\nMilton Common\nOxfordshire\nOX9 2 JY\nUnited Kingdom",
+      "address": {
+        "text": "Springfield Barn\nLondon Road\nMilton Common\nOxfordshire\nOX9 2 JY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7356479,
+        "lon": -1.0820996
+      },
       "category": [
         "Communications",
         "Engineering | Design | Manufacturing",
@@ -1059,7 +1469,12 @@
     {
       "name": "Oxley Group",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/oxley-group",
-      "address": "Priory Park\nUlverston\nCumbria\nLA12 9QG\nUnited Kingdom",
+      "address": {
+        "text": "Priory Park\nUlverston\nCumbria\nLA12 9QG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.1740714,
+        "lon": -3.0658362
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -1067,12 +1482,17 @@
         "Night vision | Optics | Optronics",
         "Vehicles"
       ],
-      "website": "https://www.oxleygroup.com/"
+      "website": "https://www.oxleygroup.com"
     },
     {
       "name": "Paradigm",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/paradigm",
-      "address": "Paradigm House\n14 Wilsom Road\nAlton\nHampshire\nGU34 2PP\nUnited Kingdom",
+      "address": {
+        "text": "Paradigm House\n14 Wilsom Road\nAlton\nHampshire\nGU34 2PP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1489114,
+        "lon": -0.9635813000000001
+      },
       "category": [
         "2021",
         "Communications",
@@ -1085,7 +1505,12 @@
     {
       "name": "Peli Products Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/peli-products-ltd",
-      "address": "Peli House\nPeakdale Road\nBrookfield\nGlossop\nDerbyshire\nSK13 6LQ\nUnited Kingdom",
+      "address": {
+        "text": "Peli House\nPeakdale Road\nBrookfield\nGlossop\nDerbyshire\nSK13 6LQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4528348,
+        "lon": -1.9826214
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Equipment Manufacturers",
@@ -1097,7 +1522,12 @@
     {
       "name": "Plextek DTS",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/plextek",
-      "address": "The Plextek Building\nLondon Road\nGreat Chesterford\nCB10 1NY\nUnited Kingdom",
+      "address": {
+        "text": "The Plextek Building\nLondon Road\nGreat Chesterford\nCB10 1NY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.06246179999999,
+        "lon": 0.1911454
+      },
       "category": [
         "2019",
         "2021"
@@ -1107,7 +1537,12 @@
     {
       "name": "Precision Technic Defence",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/precision-technic-defence",
-      "address": "Precision Technic Defence Ltd.\n27 Greville Street\nLondon\nEC1N 8TN\nUnited Kingdom",
+      "address": {
+        "text": "Precision Technic Defence Ltd.\n27 Greville Street\nLondon\nEC1N 8TN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.51968290000001,
+        "lon": -0.1064786
+      },
       "category": [
         "Communications",
         "Government | Military",
@@ -1120,16 +1555,24 @@
     {
       "name": "Press Desk - This Media Larke",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/press-desk-that-media-larke",
-      "address": "United Kingdom",
       "category": [
         "2021"
       ],
-      "website": "http://www.thismedialarke.com"
+      "website": "http://www.thismedialarke.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Protechnic",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/protechnic",
-      "address": "Protechnic\nUnit 1, West End Trading Estate\nBlackfriars Rd\nNailsea\nSomerset\nBS48 4DJ\nUnited Kingdom",
+      "address": {
+        "text": "Protechnic\nUnit 1, West End Trading Estate\nBlackfriars Rd\nNailsea\nSomerset\nBS48 4DJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.42687979999999,
+        "lon": -2.7791503
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Government | Military",
@@ -1137,12 +1580,17 @@
         "Small & Medium Enterprises (SME's)",
         "2021"
       ],
-      "website": "https://protechnic.com/"
+      "website": "https://protechnic.com"
     },
     {
       "name": "Providence Global ITF Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/providence-itf-myyw",
-      "address": "Providence Global ITF LTD\n1 Upper Barn, Grange Farm\nHarewood Park Estate, Harewood End\nHereford\nHerefordshire\nHR2 8JS\nUnited Kingdom",
+      "address": {
+        "text": "Providence Global ITF LTD\n1 Upper Barn, Grange Farm\nHarewood Park Estate, Harewood End\nHereford\nHerefordshire\nHR2 8JS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9483569,
+        "lon": -2.684507
+      },
       "category": [
         "Cyber",
         "Government | Military",
@@ -1150,12 +1598,17 @@
         "Research | Academia | Training",
         "2021"
       ],
-      "website": "https://www.providenceitf.com/"
+      "website": "https://www.providenceitf.com"
     },
     {
       "name": "Qinetiq",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/qinetiq-zxs9",
-      "address": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+      "address": {
+        "text": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      },
       "category": [
         "Communications",
         "Cyber",
@@ -1163,12 +1616,17 @@
         "Radar",
         "2021"
       ],
-      "website": "https://www.qinetiq.com/"
+      "website": "https://www.qinetiq.com"
     },
     {
       "name": "Qioptiq",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/qioptiq-2bsf",
-      "address": "Qioptiq\nGlascoed Rd\nSt. Asaph\nLL17 0LL\nUnited Kingdom",
+      "address": {
+        "text": "Qioptiq\nGlascoed Rd\nSt. Asaph\nLL17 0LL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.2528541,
+        "lon": -3.4728163
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Night vision | Optics | Optronics",
@@ -1179,7 +1637,12 @@
     {
       "name": "Raptor Photonics",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/raptor-photonics-nsen",
-      "address": "Willowbank Business Park, Larne, Co. Antrim, BT40\nLarne\nNorthern Ireland\nBT40 2SF\nUnited Kingdom",
+      "address": {
+        "text": "Willowbank Business Park, Larne, Co. Antrim, BT40\nLarne\nNorthern Ireland\nBT40 2SF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.8416442,
+        "lon": -5.8606247
+      },
       "category": [
         "Engineering | Design | Manufacturing",
         "Equipment Manufacturers",
@@ -1192,7 +1655,12 @@
     {
       "name": "Rebellion Defense",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/rebellion-defense",
-      "address": "Public Hall\n1 Horse Guards Avenue\nLondon\nSW1A 2HU\nUnited Kingdom",
+      "address": {
+        "text": "Public Hall\n1 Horse Guards Avenue\nLondon\nSW1A 2HU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5049561,
+        "lon": -0.1243547
+      },
       "category": [
         "2021",
         "Cyber",
@@ -1203,7 +1671,12 @@
     {
       "name": "Roke",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/roke",
-      "address": "Roke\nRoke Manor Research Limited\nOld Salisbury Lane\nRomsey\nHampshire\nSO51 0ZN\nUnited Kingdom",
+      "address": {
+        "text": "Roke\nRoke Manor Research Limited\nOld Salisbury Lane\nRomsey\nHampshire\nSO51 0ZN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9993975,
+        "lon": -1.5198327
+      },
       "category": [
         "Communications",
         "Cyber",
@@ -1217,7 +1690,6 @@
     {
       "name": "Serbus Group",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/serbus-group",
-      "address": "United Kingdom",
       "category": [
         "Communications",
         "Cyber",
@@ -1226,12 +1698,21 @@
         "2019",
         "2021"
       ],
-      "website": "https://serbusgroup.com"
+      "website": "https://serbusgroup.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Spectra Group",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/spectra-group",
-      "address": "Bridge Court Barn\nHerefordshire\nHR2 9ES\nUnited Kingdom",
+      "address": {
+        "text": "Bridge Court Barn\nHerefordshire\nHR2 9ES\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0197989,
+        "lon": -2.8374909
+      },
       "category": [
         "Communications",
         "Equipment Manufacturers",
@@ -1244,15 +1725,23 @@
     {
       "name": "Steatite",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/steatite-qnlr",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Succorfish",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/succorfish",
-      "address": "1\nLiddell Street\nNorth Shields\nFish Quay\nTyne and Wear\nNE30 1HE\nUnited Kingdom",
+      "address": {
+        "text": "1\nLiddell Street\nNorth Shields\nFish Quay\nTyne and Wear\nNE30 1HE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.0074234,
+        "lon": -1.4406587
+      },
       "category": [
         "2021"
       ],
@@ -1261,7 +1750,12 @@
     {
       "name": "SyntheSys Defence",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/synthesys-defence",
-      "address": "St Hilda's Business Centre\nThe Ropery\nWhitby\nNorth Yorkshire\nYO22 4ET\nUnited Kingdom",
+      "address": {
+        "text": "St Hilda's Business Centre\nThe Ropery\nWhitby\nNorth Yorkshire\nYO22 4ET\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.4824178,
+        "lon": -0.6081607
+      },
       "category": [
         "2021",
         "Communications",
@@ -1274,18 +1768,28 @@
     {
       "name": "Team Protect - PA Consulting, Leidos, Marshall and Leonardo",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/marshall-aerospace-and",
-      "address": "10 Bressenden Place\nLondon\nSW1E 5DN\nUnited Kingdom",
+      "address": {
+        "text": "10 Bressenden Place\nLondon\nSW1E 5DN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.49826669999999,
+        "lon": -0.1424499
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
         "Prime | System Integrator"
       ],
-      "website": "https://www.paconsulting.com/"
+      "website": "https://www.paconsulting.com"
     },
     {
       "name": "Teledyne e2v",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/teledyne-uk",
-      "address": "Teledyne e2v\n106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+      "address": {
+        "text": "Teledyne e2v\n106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7315476,
+        "lon": 0.4558427
+      },
       "category": [
         "Drones | UAV | Counter UAV",
         "Equipment Manufacturers",
@@ -1293,12 +1797,17 @@
         "Police | Security services | Counter terrorism",
         "2021"
       ],
-      "website": "https://www.teledyne-e2v.com/"
+      "website": "https://www.teledyne-e2v.com"
     },
     {
       "name": "Thales",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/thales",
-      "address": "Manor Royal\nWest Sussex\nRH10 9HA\nUnited Kingdom",
+      "address": {
+        "text": "Manor Royal\nWest Sussex\nRH10 9HA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1297657,
+        "lon": -0.1833124
+      },
       "category": [
         "2019",
         "2021"
@@ -1308,15 +1817,23 @@
     {
       "name": "Total EMC",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/total-emc",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Total IA Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/total-ia-ltd",
-      "address": "Unit 730 Jupiter Cour\nCheltenham Road East\nGloucester\nGloucestershire\nGL2 9QW\nUnited Kingdom",
+      "address": {
+        "text": "Unit 730 Jupiter Cour\nCheltenham Road East\nGloucester\nGloucestershire\nGL2 9QW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.896075,
+        "lon": -2.1743604
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -1329,7 +1846,12 @@
     {
       "name": "UKCloudX",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/ukcloudx",
-      "address": "A8 Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+      "address": {
+        "text": "A8 Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      },
       "category": [
         "Cyber",
         "Government | Military",
@@ -1342,7 +1864,12 @@
     {
       "name": "Ultra Electronics",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/ultra-electronics",
-      "address": "Ultra PCS\nArle Court\nHatherley Lane\nCheltenham\nGlos\nGL51 6PN\nUnited Kingdom",
+      "address": {
+        "text": "Ultra PCS\nArle Court\nHatherley Lane\nCheltenham\nGlos\nGL51 6PN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8923318,
+        "lon": -2.1290214
+      },
       "category": [
         "Communications",
         "Cyber",
@@ -1356,15 +1883,23 @@
     {
       "name": "Veterans with Dogs",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/veterans-with-dogs",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Videosoft Global",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/videosoft-global",
-      "address": "20-22\nWenlock Road\nLondon\nN1 7GU\nUnited Kingdom",
+      "address": {
+        "text": "20-22\nWenlock Road\nLondon\nN1 7GU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.530613,
+        "lon": -0.0935057
+      },
       "category": [
         "Communications",
         "Government | Military",
@@ -1377,7 +1912,12 @@
     {
       "name": "Weatherhaven",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/weatherhaven",
-      "address": "Oakley's Yard\nGatehouse Road\nRotherwas Industrial Estate\nHereford\nHerefordshire\nHR2 6LR\nUnited Kingdom",
+      "address": {
+        "text": "Oakley's Yard\nGatehouse Road\nRotherwas Industrial Estate\nHereford\nHerefordshire\nHR2 6LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0360549,
+        "lon": -2.682846
+      },
       "category": [
         "2021",
         "Engineering | Design | Manufacturing",
@@ -1389,7 +1929,12 @@
     {
       "name": "West Midland Reserve Forces & Cadets Association",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/wm-rfca",
-      "address": "Tennal Grange\nTennal Road\nHarborne\nBirmingham\nWest Midlands\nB32 2HX\nUnited Kingdom",
+      "address": {
+        "text": "Tennal Grange\nTennal Road\nHarborne\nBirmingham\nWest Midlands\nB32 2HX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.45714299999999,
+        "lon": -1.9725503
+      },
       "category": [
         "2019",
         "2021"
@@ -1399,7 +1944,12 @@
     {
       "name": "West Midlands Regional Organised Crime Unit",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/west-midlands-regional-organised-crime-unit",
-      "address": "West Midlands Police HQ\nSnow Hill Queensway\nBirmingham\nWest Midlands\nB4 6DG\nUnited Kingdom",
+      "address": {
+        "text": "West Midlands Police HQ\nSnow Hill Queensway\nBirmingham\nWest Midlands\nB4 6DG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4844921,
+        "lon": -1.8985949
+      },
       "category": [
         "Cyber",
         "Police | Security services | Counter terrorism",
@@ -1410,25 +1960,36 @@
     {
       "name": "Workspace Technology",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/workspace-technology",
-      "address": "United Kingdom",
       "category": [
         "2021"
-      ]
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "jHub Defence Innovation (MOD Zone)",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/jhub",
-      "address": "United Kingdom",
       "category": [
         "2019",
         "2021"
       ],
-      "website": "https://www.gov.uk/government/organisations/jhub-d"
+      "website": "https://www.gov.uk/government/organisations/jhub-d",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "tlm Nexus",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitors/tlm-nexus",
-      "address": "Telecom House\n125 - 135 Preston Road\nBRIGHTON\nBN1 6AF\nUnited Kingdom",
+      "address": {
+        "text": "Telecom House\n125 - 135 Preston Road\nBRIGHTON\nBN1 6AF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.83631829999999,
+        "lon": -0.1440037
+      },
       "category": [
         "Business Services",
         "IT Software & Hardware",

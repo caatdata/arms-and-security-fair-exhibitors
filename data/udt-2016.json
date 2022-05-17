@@ -8,8 +8,13 @@
   "edition": "2016",
   "startDate": "2016-06-01",
   "endDate": "2016-06-03",
-  "address": "Norges Varemesse\nP.O Box 75\n 2001 Lillestrom\nNorway",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "Norges Varemesse\nP.O Box 75\n 2001 Lillestrom\nNorway",
+    "iso2": "NO",
+    "lat": 59.9559696,
+    "lon": 11.0503785
+  },
+  "website": "https://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",

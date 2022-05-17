@@ -5,7 +5,12 @@
   "edition": "2018",
   "startDate": "2018-11-14",
   "endDate": "2018-11-16",
-  "address": "Sakhir Airbase\nKingdom of Bahrain",
+  "address": {
+    "text": "Sakhir Airbase\nKingdom of Bahrain",
+    "iso2": "BH",
+    "lat": 26.0463067,
+    "lon": 50.5300217
+  },
   "website": "http://www.bahraininternationalairshow.com",
   "organiser": [
     {
@@ -37,156 +42,309 @@
   "exhibitor": [
     {
       "name": "Adams Advanced Aero Technology (AAAT)",
-      "address": "Novotel Business Park\nDammam\n32232\nSaudi Arabia",
+      "address": {
+        "text": "Novotel Business Park\nDammam\n32232\nSaudi Arabia",
+        "iso2": "SA",
+        "lat": 26.4078633,
+        "lon": 50.1380698
+      },
       "website": "http://www.adamsoffshore.net"
     },
     {
       "name": "ADS",
-      "address": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+      "address": {
+        "text": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      },
       "website": "http://www.adsgroup.org.uk"
     },
     {
       "name": "Aero Precision",
-      "address": "201 Lindbergh Avenue\nLivermore\nCA\n94551\nUnited States",
+      "address": {
+        "text": "201 Lindbergh Avenue\nLivermore\nCA\n94551\nUnited States",
+        "iso2": "US",
+        "lat": 37.698162,
+        "lon": -121.810174
+      },
       "website": "http://www.aeroprecision.com"
     },
     {
       "name": "Aeromag Asia",
-      "address": "Aeronautical Society of India Building\nSuranjandas Road\nOff Old Madras Road\nBangalore\nKarnataka\nIndia"
+      "address": {
+        "text": "Aeronautical Society of India Building\nSuranjandas Road\nOff Old Madras Road\nBangalore\nKarnataka\nIndia",
+        "iso2": "IN",
+        "lat": 12.9863142,
+        "lon": 77.6478035
+      }
     },
     {
       "name": "Aeronautical Development Agency, Ministry of Defence Government of India",
-      "address": "P.O. Vimanapura\nBangalore\nKARNATAKA\n560017\nIndia"
+      "address": {
+        "text": "P.O. Vimanapura\nBangalore\nKARNATAKA\n560017\nIndia",
+        "iso2": "IN",
+        "lat": 12.9850184,
+        "lon": 77.6631511
+      }
     },
     {
       "name": "Aerospace Maintenance Solutions",
-      "address": "8759 Mayfield Road\nChesterland\n44026\nUnited States",
+      "address": {
+        "text": "8759 Mayfield Road\nChesterland\n44026\nUnited States",
+        "iso2": "US",
+        "lat": 41.5212286,
+        "lon": -81.3286614
+      },
       "website": "http://www.aerospacellc.com"
     },
     {
       "name": "Aerovation, Inc.",
-      "address": "7005 S. Plumer Ave\nTucson\nArizona (AZ)\n85756\nUnited States"
+      "address": {
+        "text": "7005 S. Plumer Ave\nTucson\nArizona (AZ)\n85756\nUnited States",
+        "iso2": "US",
+        "lat": 32.1243298,
+        "lon": -110.9398257
+      }
     },
     {
       "name": "AIRBUS",
-      "address": "2 Rond Emile Dewoitine\nBlagnac\n31707\nFrance",
+      "address": {
+        "text": "2 Rond Emile Dewoitine\nBlagnac\n31707\nFrance",
+        "iso2": "FR",
+        "lat": 43.6248823,
+        "lon": 1.3838477
+      },
       "website": "http://www.airbus.com"
     },
     {
       "name": "Aldhaen Contracting and Trading WLL",
-      "address": "Bldg 113 Road 4003\nBlk 626\nAl Ekea Sitra\nBahrain"
+      "address": {
+        "text": "Bldg 113 Road 4003\nBlk 626\nAl Ekea Sitra\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2129621,
+        "lon": 50.5997442
+      }
     },
     {
       "name": "All-System Aerospace Intl, Inc.",
-      "address": "75 Beacon Drive\nHolbrook\nNY\n11741\nUnited States"
+      "address": {
+        "text": "75 Beacon Drive\nHolbrook\nNY\n11741\nUnited States",
+        "iso2": "US",
+        "lat": 40.7747435,
+        "lon": -73.05095039999999
+      }
     },
     {
       "name": "ANPC",
-      "address": "Flat 7 Hemmings Court\n31 Littlefield Road\nEdgware\nHA8 0UD\nUnited Kingdom",
+      "address": {
+        "text": "Flat 7 Hemmings Court\n31 Littlefield Road\nEdgware\nHA8 0UD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6052178,
+        "lon": -0.2655321
+      },
       "website": "http://www.anpc.com"
     },
     {
       "name": "Arizona Commerce Authority",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Association of Romanian Aeronautical Companies (OPIAR)",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "Aviramp",
-      "address": "Stafford Park 15\nTelford\nTF3 3BB\nUnited Kingdom"
+      "address": {
+        "text": "Stafford Park 15\nTelford\nTF3 3BB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6743299,
+        "lon": -2.4293312
+      }
     },
     {
       "name": "BAC Jet Fuel Company",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Bader Models",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "BAE Systems",
-      "address": "32nd Floor West Tower\nBahrain World Trade Centre\nIsa Al Kabeer Ave, Road 365\nManama Centre 316\nPO BOX 2261\nBahrain",
+      "address": {
+        "text": "32nd Floor West Tower\nBahrain World Trade Centre\nIsa Al Kabeer Ave, Road 365\nManama Centre 316\nPO BOX 2261\nBahrain",
+        "iso2": "BH",
+        "lat": 26.231303,
+        "lon": 50.5825961
+      },
       "website": "http://www.baesystems.com"
     },
     {
       "name": "Bahrain Airport Company",
-      "address": "PO Box 24924\nMuharraq\nBahrain",
+      "address": {
+        "text": "PO Box 24924\nMuharraq\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2534919,
+        "lon": 50.60825579999999
+      },
       "website": "http://www.bahrainairport.com"
     },
     {
       "name": "Bahrain Airport Services",
-      "address": "Muharraq\nP.O.Box 22285\nManama\n0\nBahrain",
+      "address": {
+        "text": "Muharraq\nP.O.Box 22285\nManama\n0\nBahrain",
+        "iso2": "BH",
+        "lat": 26.249307,
+        "lon": 50.607967
+      },
       "website": "http://www.bas.com"
     },
     {
       "name": "Bahrain Economic Development Board",
-      "address": "Seef Tower 8th Floor\nSeef Manama\nBahrain"
+      "address": {
+        "text": "Seef Tower 8th Floor\nSeef Manama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2340048,
+        "lon": 50.5364054
+      }
     },
     {
       "name": "Bahrain International Airshow Merchanising Shop",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Bahrain National Guard",
-      "address": "Building 2300\nRoad 8544\nBlock 985\nSakhir\nBahrain"
+      "address": {
+        "text": "Building 2300\nRoad 8544\nBlock 985\nSakhir\nBahrain",
+        "iso2": "BH",
+        "lat": 26.0335893,
+        "lon": 50.516887
+      }
     },
     {
       "name": "Bahrain National Space Science Agency (NSSA)",
-      "address": "2nd Floor (Ports and Maritime Building)\nR1510 B115\nBahrain"
+      "country": {
+        "text": "2nd Floor (Ports and Maritime Building)\nR1510 B115\nBahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Bahrain Petroleum Company (BAPCO)",
-      "address": "P.O.Box 25555\nAwali\n25555\nBangladesh"
+      "country": {
+        "text": "P.O.Box 25555\nAwali\n25555\nBangladesh",
+        "iso2": "BD"
+      }
     },
     {
       "name": "Bahrain Polytechnic",
-      "address": "Road 4003\nBlock 840\nIsa Town\nBahrain"
+      "address": {
+        "text": "Road 4003\nBlock 840\nIsa Town\nBahrain",
+        "iso2": "BH",
+        "lat": 26.1642809,
+        "lon": 50.5425513
+      }
     },
     {
       "name": "Bahrain Training Insitute",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Bartini",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BATELCO",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Bell",
-      "address": "3255 Bell Helicopter Blvd.\nFort Worth\nTX\n76118\nUnited States",
+      "address": {
+        "text": "3255 Bell Helicopter Blvd.\nFort Worth\nTX\n76118\nUnited States",
+        "iso2": "US",
+        "lat": 32.8081113,
+        "lon": -97.1563844
+      },
       "website": "http://www.bellhelicopter.com"
     },
     {
       "name": "BIDEC 2019",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Bombardier Commercial Aircraft",
-      "address": "13100 Henri-Fabre\nMirabel\nQc\nJ7N 3C6\nCanada",
+      "address": {
+        "text": "13100 Henri-Fabre\nMirabel\nQc\nJ7N 3C6\nCanada",
+        "iso2": "CA",
+        "lat": 45.6863361,
+        "lon": -74.02132259999999
+      },
       "website": "https://www.bombardier.com/en/home.html"
     },
     {
       "name": "Bose Products BV",
-      "address": "Gorslaan 60\nPurmerend\n1441 RG\nNetherlands",
-      "website": "https://bose-aviation.eu/"
+      "address": {
+        "text": "Gorslaan 60\nPurmerend\n1441 RG\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.5025254,
+        "lon": 4.9610673
+      },
+      "website": "https://bose-aviation.eu"
     },
     {
       "name": "CFM INTERNATIONAL",
-      "address": "Site de Villarcohe Sud\nRond Point René Ravaud\nMoissy Cramayel Cedex\n77550\nFrance",
+      "address": {
+        "text": "Site de Villarcohe Sud\nRond Point René Ravaud\nMoissy Cramayel Cedex\n77550\nFrance",
+        "iso2": "FR",
+        "lat": 48.6154807,
+        "lon": 2.65635
+      },
       "website": "http://www.cfmaeroengines.com"
     },
     {
       "name": "Chevron Bahrain",
-      "address": "PO Box 25125\nAwali\nBahrain"
+      "address": {
+        "text": "PO Box 25125\nAwali\nBahrain",
+        "iso2": "BH",
+        "lat": 26.0897138,
+        "lon": 50.5472048
+      }
     },
     {
       "name": "Defense Security Cooperation Agency",
-      "address": "201 12 Street South\nArlington\nWashington DC\n22202\nUnited States",
+      "address": {
+        "text": "201 12 Street South\nArlington\nWashington DC\n22202\nUnited States",
+        "iso2": "US",
+        "lat": 38.8633753,
+        "lon": -77.0503481
+      },
       "website": "http://www.dsca.org"
     },
     {
@@ -194,365 +352,757 @@
     },
     {
       "name": "DHL Aviation EENEA B.S.C",
-      "address": "P.O.Box 5741\nManama\nAl Manamah\n5741\nBahrain"
+      "address": {
+        "text": "P.O.Box 5741\nManama\nAl Manamah\n5741\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     },
     {
       "name": "Dillon Aero Inc",
-      "address": "8009 East Dillons Way\nScottsdale\nAZ\n85260\nUnited States"
+      "address": {
+        "text": "8009 East Dillons Way\nScottsdale\nAZ\n85260\nUnited States",
+        "iso2": "US",
+        "lat": 33.6332738,
+        "lon": -111.906356
+      }
     },
     {
       "name": "DIT Defence & Security Organisation",
-      "address": "3 Whitehall Place\nSW1A 2AW\nUnited Kingdom",
+      "address": {
+        "text": "3 Whitehall Place\nSW1A 2AW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50633029999999,
+        "lon": -0.1241018
+      },
       "website": "http://www.gov.uk/dit-dso"
     },
     {
       "name": "Ebrahim K. Kanoo B.S.C. (c)",
-      "address": "Building 938Z\nRoad 126\nBlock 701\nTubli\nKingdom of Bahrain\nT: +97317484808\nBahrain",
+      "address": {
+        "text": "Building 938Z\nRoad 126\nBlock 701\nTubli\nKingdom of Bahrain\nT: +97317484808\nBahrain",
+        "iso2": "BH",
+        "lat": 26.1909733,
+        "lon": 50.54006829999999
+      },
       "website": "https://ekkanoo.com"
     },
     {
       "name": "Embraer S.A",
-      "address": "Av. Pres. Juscelino Kubitschek\n1909 - 14 andar\nTorre Norte\nSao Paulo\nBrazil\n04543-907\nBrazil",
+      "address": {
+        "text": "Av. Pres. Juscelino Kubitschek\n1909 - 14 andar\nTorre Norte\nSao Paulo\nBrazil\n04543-907\nBrazil",
+        "iso2": "BR",
+        "lat": -23.5916617,
+        "lon": -46.6879693
+      },
       "website": "http://www.embraer.com.br"
     },
     {
       "name": "Essex Industries",
-      "address": "7700 Gravois Road\nSt. Louis\nMissouri\n63123\nUnited States",
+      "address": {
+        "text": "7700 Gravois Road\nSt. Louis\nMissouri\n63123\nUnited States",
+        "iso2": "US",
+        "lat": 38.5616874,
+        "lon": -90.2974601
+      },
       "website": "http://www.essexindustries.com"
     },
     {
       "name": "Etihad Airways Engineering",
-      "address": "Abu Dhabi PO Box 46450\nAbu Dhabi\nUnited Arab Emirates"
+      "address": {
+        "text": "Abu Dhabi PO Box 46450\nAbu Dhabi\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.453884,
+        "lon": 54.3773438
+      }
     },
     {
       "name": "FAI rent-a-jet AG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Farnborough International",
-      "address": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom"
+      "address": {
+        "text": "ShowCentre\nETPS Road\nFarnborough\nHampshire\nGU14 6FD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      }
     },
     {
       "name": "GACA - General Authority of Civil Aviation",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Gulf Air",
-      "address": "P. O. Box 138\n3rd Floor\nWing D\nMuharraq\n0\nBahrain"
+      "address": {
+        "text": "P. O. Box 138\n3rd Floor\nWing D\nMuharraq\n0\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2534919,
+        "lon": 50.60825579999999
+      }
     },
     {
       "name": "Gulf Aviation Academy",
-      "address": "PO Box 23733\nMuharraq\nBahrain"
+      "address": {
+        "text": "PO Box 23733\nMuharraq\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2534919,
+        "lon": 50.60825579999999
+      }
     },
     {
       "name": "Gulfstream",
-      "address": "500 Gulfstream Road\nM/S C-32\nSavannah\nGeorgia\n31407\nUnited States"
+      "address": {
+        "text": "500 Gulfstream Road\nM/S C-32\nSavannah\nGeorgia\n31407\nUnited States",
+        "iso2": "US",
+        "lat": 32.1357735,
+        "lon": -81.1954181
+      }
     },
     {
       "name": "Hala Bahrain Hospitality",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Harris Corporation",
-      "address": "77 River Road\nClifton\nNJ\n7014\nUnited States"
+      "address": {
+        "text": "77 River Road\nClifton\nNJ\n7014\nUnited States",
+        "iso2": "US",
+        "lat": 40.826127,
+        "lon": -74.134869
+      }
     },
     {
       "name": "HFE International",
-      "address": "1646 S Reseach Loop Unit 170\ntucson\nAZ\n85710\nUnited States"
+      "address": {
+        "text": "1646 S Reseach Loop Unit 170\ntucson\nAZ\n85710\nUnited States",
+        "iso2": "US",
+        "lat": 32.2010577,
+        "lon": -110.8250469
+      }
     },
     {
       "name": "Howard Consultants SPC",
-      "address": "Unit 329, Building 2648\nRoad 5720, Area 257\nAmwaj\n0\nBahrain",
+      "address": {
+        "text": "Unit 329, Building 2648\nRoad 5720, Area 257\nAmwaj\n0\nBahrain",
+        "iso2": "BH",
+        "lat": 26.291111,
+        "lon": 50.665278
+      },
       "website": "http://www.howardconsultants.net"
     },
     {
       "name": "Huawei Technologies Bahrain SPC",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Hydronalix, Inc.",
-      "address": "1691 W. Duval Commerce Court, Ste 141\nGreen Valley\nAZ\n85614\nUnited States"
+      "address": {
+        "text": "1691 W. Duval Commerce Court, Ste 141\nGreen Valley\nAZ\n85614\nUnited States",
+        "iso2": "US",
+        "lat": 31.8973345,
+        "lon": -111.0020306
+      }
     },
     {
       "name": "Incheon International Airport Corp.",
-      "address": "47 Gonghang-ro\n424 beon-gi\nJung-gu\nIncheon\nKorea, Republic of"
+      "address": {
+        "text": "47 Gonghang-ro\n424 beon-gi\nJung-gu\nIncheon\nKorea, Republic of",
+        "iso2": "KR",
+        "lat": 37.464475,
+        "lon": 126.4413546
+      }
     },
     {
       "name": "Information Affairs Authoriry",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Joramco",
-      "address": "Queen Alia International Airport - Amman\n11104\nJordan",
+      "address": {
+        "text": "Queen Alia International Airport - Amman\n11104\nJordan",
+        "iso2": "JO",
+        "lat": 31.7223312,
+        "lon": 35.9864651
+      },
       "website": "http://www.joramco.com"
     },
     {
       "name": "Kallman Worldwide",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Kingdom University",
-      "address": "Building 296\nRoad 3903\nBlock 939\nBahrain"
+      "address": {
+        "text": "Building 296\nRoad 3903\nBlock 939\nBahrain",
+        "iso2": "BH",
+        "lat": 26.1362339,
+        "lon": 50.5835785
+      }
     },
     {
       "name": "Kuwait Airways",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Airways",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Plane Spotters Team",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "L-3 Security & Detection Systems",
-      "address": "Astro House\nBrants Bridge\nBracknell\nBerkshire\nRG12 9BG\nUnited Kingdom",
+      "address": {
+        "text": "Astro House\nBrants Bridge\nBracknell\nBerkshire\nRG12 9BG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4132757,
+        "lon": -0.7359158
+      },
       "website": "http://www.L3T.com/SDS"
     },
     {
       "name": "Leonardo SpA",
-      "address": "Piazza Monte Grappa, 4\nRome\n195\nItaly"
+      "address": {
+        "text": "Piazza Monte Grappa, 4\nRome\n195\nItaly",
+        "iso2": "IT",
+        "lat": 41.9185778,
+        "lon": 12.4681985
+      }
     },
     {
       "name": "Lockheed Martin",
-      "address": "6801 Rockledge Dr\nBethesda\nMD\n20817\nUnited States"
+      "address": {
+        "text": "6801 Rockledge Dr\nBethesda\nMD\n20817\nUnited States",
+        "iso2": "US",
+        "lat": 39.030957,
+        "lon": -77.1388991
+      }
     },
     {
       "name": "Magnum Boots",
-      "address": "Paashulvelweg 22a\nZuid-Oost\nAmsterdam\n1105 BJ\nNetherlands"
+      "address": {
+        "text": "Paashulvelweg 22a\nZuid-Oost\nAmsterdam\n1105 BJ\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.29624949999999,
+        "lon": 4.9509227
+      }
     },
     {
       "name": "Mali Air Lufterkehr GmbH",
-      "address": "Reitbach 22\nMoederbrugg\n8763\nAustria"
+      "address": {
+        "text": "Reitbach 22\nMoederbrugg\n8763\nAustria",
+        "iso2": "AT",
+        "lat": 47.3005492,
+        "lon": 14.4589501
+      }
     },
     {
       "name": "Martin-Baker Aircraft Company Ltd",
-      "address": "Lower Road\nHigher Denham\nNear Uxbridge\nMiddlesex\nUB9 5AJ\nUnited Kingdom"
+      "address": {
+        "text": "Lower Road\nHigher Denham\nNear Uxbridge\nMiddlesex\nUB9 5AJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5790831,
+        "lon": -0.5185419
+      }
     },
     {
       "name": "Marvin Group",
-      "address": "261 West Beach Avenue\nInglewood\nCA\n90302\nUnited States"
+      "address": {
+        "text": "261 West Beach Avenue\nInglewood\nCA\n90302\nUnited States",
+        "iso2": "US",
+        "lat": 33.9689056,
+        "lon": -118.3572436
+      }
     },
     {
       "name": "Maserati Club - Bahrain",
-      "address": "PO Box 6000\nManama\nBahrain"
+      "address": {
+        "text": "PO Box 6000\nManama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     },
     {
       "name": "Maven Engineering Corporation",
-      "address": "15946 DERWOOD ROAD\nROCKVILLE\nUnited States",
+      "address": {
+        "text": "15946 DERWOOD ROAD\nROCKVILLE\nUnited States",
+        "iso2": "US",
+        "lat": 39.1169993,
+        "lon": -77.16134339999999
+      },
       "website": "http://www.mavencorporation.com"
     },
     {
       "name": "Mena Aerospace WLL",
-      "address": "Corporate Headquarters\nMezzanine Level\nAl Zamil Tower South\nManama\nBahrain"
+      "address": {
+        "text": "Corporate Headquarters\nMezzanine Level\nAl Zamil Tower South\nManama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2368523,
+        "lon": 50.5807188
+      }
     },
     {
       "name": "Military Museum",
-      "address": "bdf military museum\nsh. humood bin subah\nalhunayniyah/riffa\neast riffa 903\nBahrain"
+      "address": {
+        "text": "bdf military museum\nsh. humood bin subah\nalhunayniyah/riffa\neast riffa 903\nBahrain",
+        "iso2": "BH",
+        "lat": 26.1245146,
+        "lon": 50.5619231
+      }
     },
     {
       "name": "Ministry of Information Affairs",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "MO DED",
-      "address": "JEFFERSON CITY\nMISSOURI\nUnited States"
+      "address": {
+        "text": "JEFFERSON CITY\nMISSOURI\nUnited States",
+        "iso2": "US",
+        "lat": 38.57670170000001,
+        "lon": -92.1735164
+      }
     },
     {
       "name": "MTT",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "National Bank of Bahrain",
-      "address": "P O Box 106\nManama\nBahrain"
+      "address": {
+        "text": "P O Box 106\nManama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     },
     {
       "name": "Northrop Grumman",
-      "address": "9401 Corbin Avenue\n9401 Corbin Avenue\nNorthridge\nCA\n91324\nUnited States"
+      "address": {
+        "text": "9401 Corbin Avenue\n9401 Corbin Avenue\nNorthridge\nCA\n91324\nUnited States",
+        "iso2": "US",
+        "lat": 34.2408337,
+        "lon": -118.5635753
+      }
     },
     {
       "name": "Otokar Otomotiv ve Savunma Sanayi A.S.",
-      "address": "Ayd?nevler Mahallesi Sayg? Caddesi\nNo: 58 A Blok\nIstanbul\n34854\nTurkey"
+      "address": {
+        "text": "Ayd?nevler Mahallesi Sayg? Caddesi\nNo: 58 A Blok\nIstanbul\n34854\nTurkey",
+        "iso2": "TR",
+        "lat": 40.9528264,
+        "lon": 29.12472259999999
+      }
     },
     {
       "name": "Palace Enterprises",
-      "address": "PO Box 1581\nBahrain"
+      "country": {
+        "text": "PO Box 1581\nBahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Platinum Aviation Support Services Ltd",
-      "country": "Nigeria"
+      "country": {
+        "text": "Nigeria",
+        "iso2": "NG"
+      }
     },
     {
       "name": "Pratt & Whitney",
-      "address": "400 Main Street\nHartford\nCT\n6118\nUnited States"
+      "address": {
+        "text": "400 Main Street\nHartford\nCT\n6118\nUnited States",
+        "iso2": "US",
+        "lat": 41.7607154,
+        "lon": -72.6746969
+      }
     },
     {
       "name": "Protection Group International Ltd - PGI",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PW Enterprise Inc.",
-      "address": "PO Box 878\nUnited States"
+      "country": {
+        "text": "PO Box 878\nUnited States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Reshetnev Company - Information Satellite Systems",
-      "address": "52\nLenin Street\nZheleznogorsk\nKrasnoyarsk region\nRU-662972\nRussia",
-      "website": "http://www.iss-reshetnev.com/"
+      "address": {
+        "text": "52\nLenin Street\nZheleznogorsk\nKrasnoyarsk region\nRU-662972\nRussia",
+        "iso2": "RU",
+        "lat": 56.3093672,
+        "lon": 93.5466266
+      },
+      "website": "http://www.iss-reshetnev.com"
     },
     {
       "name": "Roketsan",
-      "address": "SAMSUN KARAYOLU\n40.KM\nELMADAG ANKARA\n6780\nTurkey",
+      "address": {
+        "text": "SAMSUN KARAYOLU\n40.KM\nELMADAG ANKARA\n6780\nTurkey",
+        "iso2": "TR",
+        "lat": 41.2797031,
+        "lon": 36.3360667
+      },
       "website": "http://www.roketsan.com.tr"
     },
     {
       "name": "Rolls-Royce",
-      "address": "65 Buckingham Gate\nLondon\nSW`1E 6AT\nUnited Kingdom"
+      "address": {
+        "text": "65 Buckingham Gate\nLondon\nSW`1E 6AT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4979802,
+        "lon": -0.1357796
+      }
     },
     {
       "name": "ROSCOSMOS",
-      "address": "42, Schepkina St\nMoscow\n107996\nRussia",
-      "website": "http://en.roscosmos.ru/"
+      "address": {
+        "text": "42, Schepkina St\nMoscow\n107996\nRussia",
+        "iso2": "RU",
+        "lat": 55.778415,
+        "lon": 37.629682
+      },
+      "website": "http://en.roscosmos.ru"
     },
     {
       "name": "Rosoboronexport, JSC",
-      "address": "27, Stromynka\nMoscow\nRussia"
+      "address": {
+        "text": "27, Stromynka\nMoscow\nRussia",
+        "iso2": "RU",
+        "lat": 55.79566699999999,
+        "lon": 37.701605
+      }
     },
     {
       "name": "Royal Bahraini Air Force",
-      "address": "Sakhir Airbase\nn/a\nBahrain"
+      "address": {
+        "text": "Sakhir Airbase\nn/a\nBahrain",
+        "iso2": "BH",
+        "lat": 26.0463067,
+        "lon": 50.5300217
+      }
     },
     {
       "name": "Royal Charity Organisation",
-      "country": "Bahrain"
+      "country": {
+        "text": "Bahrain",
+        "iso2": "BH"
+      }
     },
     {
       "name": "Safat Aviation Group",
-      "address": "P.O. Box 141\nKhartoum Airport\nKhartoum\n14\nSudan",
+      "address": {
+        "text": "P.O. Box 141\nKhartoum Airport\nKhartoum\n14\nSudan",
+        "iso2": "SD",
+        "lat": 15.5927666,
+        "lon": 32.5522355
+      },
       "website": "http://www.safatavia.com"
     },
     {
       "name": "Sap Media Worldwide Ltd",
-      "address": "509/ 511 Dilkap Chambers\nVeera Desai Road\nFun Republic Street\nAndheri (W), Mumbai\nMumbai- 40005\nIndia"
+      "address": {
+        "text": "509/ 511 Dilkap Chambers\nVeera Desai Road\nFun Republic Street\nAndheri (W), Mumbai\nMumbai- 40005\nIndia",
+        "iso2": "IN",
+        "lat": 19.1367137,
+        "lon": 72.83407729999999
+      }
     },
     {
       "name": "Saudi Arabian Military Industries (SAMI)",
-      "address": "P.O. Box 5260\nRuyadh (Diriyah)\nAlkhalidiha District\nRiyadh\n13714\nSaudi Arabia"
+      "address": {
+        "text": "P.O. Box 5260\nRuyadh (Diriyah)\nAlkhalidiha District\nRiyadh\n13714\nSaudi Arabia",
+        "iso2": "SA",
+        "lat": 24.7608359,
+        "lon": 46.5747915
+      }
     },
     {
       "name": "Saudi Aramco",
-      "address": "Dhahran\nSaudi Arabia"
+      "address": {
+        "text": "Dhahran\nSaudi Arabia",
+        "iso2": "SA",
+        "lat": 26.2361248,
+        "lon": 50.0393017
+      }
     },
     {
       "name": "Sniper Trading",
-      "address": "PO Box 50441\nBuilding: 1273\nBlock: 941\nHidd\nBahrain"
+      "address": {
+        "text": "PO Box 50441\nBuilding: 1273\nBlock: 941\nHidd\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2340617,
+        "lon": 50.652032
+      }
     },
     {
       "name": "Sprung Instant Structures",
-      "address": "PO Box 26105\nManama\nBahrain"
+      "address": {
+        "text": "PO Box 26105\nManama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     },
     {
       "name": "SUKHOI",
-      "country": "Russia"
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Sydor Technologies",
-      "address": "291 Milstead Way\nRochester\nNY\n14624\nUnited States"
+      "address": {
+        "text": "291 Milstead Way\nRochester\nNY\n14624\nUnited States",
+        "iso2": "US",
+        "lat": 43.1117743,
+        "lon": -77.6773236
+      }
     },
     {
       "name": "TAG Aviation",
-      "address": "Office 102, Platinum Tower\nBuilding 190, Road 2803, Block 428\nSeef District\nBahrain"
+      "address": {
+        "text": "Office 102, Platinum Tower\nBuilding 190, Road 2803, Block 428\nSeef District\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2153635,
+        "lon": 50.5785862
+      }
     },
     {
       "name": "Taiwan External Trade Development Council",
-      "country": "Taiwan"
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      }
     },
     {
       "name": "Tawazun Economic Council",
-      "address": "PO Box 908\nAbu Dhabi\nUnited Arab Emirates"
+      "address": {
+        "text": "PO Box 908\nAbu Dhabi\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.453884,
+        "lon": 54.3773438
+      }
     },
     {
       "name": "TEXEL AIR WLL",
-      "address": "PO Box 15584\nBuilding 263\nRayya Highway\nAdliya\n237\nBahrain",
+      "address": {
+        "text": "PO Box 15584\nBuilding 263\nRayya Highway\nAdliya\n237\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2762821,
+        "lon": 50.6375404
+      },
       "website": "http://www.texelair.com"
     },
     {
       "name": "Thales",
-      "address": "45 rue de Villiers\nNeuilly Sur Seine\nFrance\n92526\nFrance"
+      "address": {
+        "text": "45 rue de Villiers\nNeuilly Sur Seine\nFrance\n92526\nFrance",
+        "iso2": "FR",
+        "lat": 48.8896261,
+        "lon": 2.2800041
+      }
     },
     {
       "name": "The Armored Group, LLC",
-      "address": "2727 S. Beech Daly Street\nDearborn Heights\nMichigan (MI)\n48125\nUnited States"
+      "address": {
+        "text": "2727 S. Beech Daly Street\nDearborn Heights\nMichigan (MI)\n48125\nUnited States",
+        "iso2": "US",
+        "lat": 42.29179999999999,
+        "lon": -83.288895
+      }
     },
     {
       "name": "The Boeing Company",
-      "address": "World Headquarters\nChicago\n60606\nUnited States"
+      "address": {
+        "text": "World Headquarters\nChicago\n60606\nUnited States",
+        "iso2": "US",
+        "lat": 41.8768919,
+        "lon": -87.649924
+      }
     },
     {
       "name": "The Ninety Nines - Arabian Section"
     },
     {
       "name": "Transupport",
-      "address": "53 Turbine Way\nMerrimack\nNew Hampshire\n3054\nUnited States",
+      "address": {
+        "text": "53 Turbine Way\nMerrimack\nNew Hampshire\n3054\nUnited States",
+        "iso2": "US",
+        "lat": 42.8555407,
+        "lon": -71.4865883
+      },
       "website": "http://www.transupport.com"
     },
     {
       "name": "Tricom Group",
-      "address": "PO Box 590\nManama\n0\nBahrain"
+      "address": {
+        "text": "PO Box 590\nManama\n0\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     },
     {
       "name": "Triumph Systems, Inc.",
-      "address": "710 N Tucker Blvd Ste 315A\nSt. Louis\nMO\n63101\nUnited States"
+      "address": {
+        "text": "710 N Tucker Blvd Ste 315A\nSt. Louis\nMO\n63101\nUnited States",
+        "iso2": "US",
+        "lat": 38.6325981,
+        "lon": -90.1956932
+      }
     },
     {
       "name": "TURKISH AEROSPACE INDUSTRIES, INC.",
-      "address": "Fethiye Mahallesi\nHavacılık Bulvarı No:17\nAnkara\n06980 Kahramankazan/Sincan/Ankara\nTurkey"
+      "address": {
+        "text": "Fethiye Mahallesi\nHavacılık Bulvarı No:17\nAnkara\n06980 Kahramankazan/Sincan/Ankara\nTurkey",
+        "iso2": "TR",
+        "lat": 40.210493,
+        "lon": 32.6906616
+      }
     },
     {
       "name": "UAE Space Agency",
-      "address": "PO Box 7133\nAbu Dhabi\nUnited Arab Emirates"
+      "address": {
+        "text": "PO Box 7133\nAbu Dhabi\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.453884,
+        "lon": 54.3773438
+      }
     },
     {
       "name": "Ultrax Aerospace Inc.",
-      "address": "4200 NE Sun Ct\nLee's Summit\nMO\n64064\nUnited States"
+      "address": {
+        "text": "4200 NE Sun Ct\nLee's Summit\nMO\n64064\nUnited States",
+        "iso2": "US",
+        "lat": 38.9882144,
+        "lon": -94.3507341
+      }
     },
     {
       "name": "United Aircraft Corporation",
-      "address": "22 Ulansky pereulok, bldg. 1\nMoscow\n101000\nRussia"
+      "country": {
+        "text": "22 Ulansky pereulok, bldg. 1\nMoscow\n101000\nRussia",
+        "iso2": "RU"
+      }
     },
     {
       "name": "United Trans",
-      "address": "19th Floor\nEast Tower\nWorld Trade Centre\nBahrain"
+      "address": {
+        "text": "19th Floor\nEast Tower\nWorld Trade Centre\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2397117,
+        "lon": 50.5815164
+      }
     },
     {
       "name": "University of Bahrain",
-      "address": "PO Box 32038\nSakhir\nBahrain"
+      "address": {
+        "text": "PO Box 32038\nSakhir\nBahrain",
+        "iso2": "BH",
+        "lat": 26.0335893,
+        "lon": 50.516887
+      }
     },
     {
       "name": "US DoD / AIA",
-      "address": "1000 Wilson Boulevard\nArlington\nVA\n22209\nUnited States"
+      "address": {
+        "text": "1000 Wilson Boulevard\nArlington\nVA\n22209\nUnited States",
+        "iso2": "US",
+        "lat": 38.89420519999999,
+        "lon": -77.06930799999999
+      }
     },
     {
       "name": "UTC Aerospace Systems",
-      "address": "2730 West Tyvola Road\nCharlotte\nNC\n28217\nUnited States",
+      "address": {
+        "text": "2730 West Tyvola Road\nCharlotte\nNC\n28217\nUnited States",
+        "iso2": "US",
+        "lat": 35.1876404,
+        "lon": -80.920435
+      },
       "website": "http://www.utcaerospacesystems.com"
     },
     {
       "name": "VBC Group Ltd",
-      "address": "Castle Business Park\nPavilion Way\nLoughborough\nLeicestershire\nLE11 5GW\nUnited Kingdom"
+      "address": {
+        "text": "Castle Business Park\nPavilion Way\nLoughborough\nLeicestershire\nLE11 5GW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.7841391,
+        "lon": -1.2102496
+      }
     },
     {
       "name": "VIP Jet Morocco",
-      "address": "Bol Errachi Di Complete Linat\nMorocco"
+      "address": {
+        "text": "Bol Errachi Di Complete Linat\nMorocco",
+        "iso2": "MA",
+        "lat": 31.927236,
+        "lon": -4.4284985
+      }
     },
     {
       "name": "Wamore, Inc.",
-      "address": "1907 W Parkside Lane\nPhoenix\nAZ\n85027\nUnited States"
+      "address": {
+        "text": "1907 W Parkside Lane\nPhoenix\nAZ\n85027\nUnited States",
+        "iso2": "US",
+        "lat": 33.6954134,
+        "lon": -112.1013844
+      }
     },
     {
       "name": "Xerox-Bahrain",
-      "address": "P. O. Box 585\nManama\nBahrain"
+      "address": {
+        "text": "P. O. Box 585\nManama\nBahrain",
+        "iso2": "BH",
+        "lat": 26.2235305,
+        "lon": 50.5875935
+      }
     }
   ]
 }

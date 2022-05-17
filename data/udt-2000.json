@@ -8,7 +8,12 @@
   "edition": "2000",
   "startDate": "2000-06-29",
   "endDate": "2000-07-01",
-  "address": "Wembley Conference and Exhibition Centre\nLondon\nUK",
+  "address": {
+    "text": "Wembley Conference and Exhibition Centre\nLondon\nUK",
+    "iso2": "GB",
+    "lat": 51.5072178,
+    "lon": -0.1275862
+  },
   "website": "http://www.udtnet.com/europe/",
   "organiser": [
     {

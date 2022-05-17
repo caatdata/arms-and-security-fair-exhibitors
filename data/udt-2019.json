@@ -8,8 +8,13 @@
   "edition": "2019",
   "startDate": "2019-05-13",
   "endDate": "2019-05-15",
-  "address": "Stockholmsmässan\nMässvägen\n1 125 30 Älvsjö\nSweden",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "Stockholmsmässan\nMässvägen\n1 125 30 Älvsjö\nSweden",
+    "iso2": "SE",
+    "lat": 59.2773581,
+    "lon": 18.0152906
+  },
+  "website": "https://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",

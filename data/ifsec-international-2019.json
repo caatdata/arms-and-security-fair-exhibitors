@@ -4,7 +4,12 @@
   "edition": "2019",
   "startDate": "2019-06-18",
   "endDate": "2019-06-20",
-  "address": "ExCeL\nLondon\nUnited Kingdom",
+  "address": {
+    "text": "ExCeL\nLondon\nUnited Kingdom",
+    "iso2": "GB",
+    "lat": 51.50846010000001,
+    "lon": 0.02984599999999999
+  },
   "website": "https://www.ifsec.events/international/",
   "organiser": [
     {

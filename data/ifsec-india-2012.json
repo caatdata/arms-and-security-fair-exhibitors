@@ -7,7 +7,12 @@
   ],
   "startDate": "2012-11-01",
   "endDate": "2012-11-03",
-  "address": "India Expo Centre\nGreater Noida\nNew Delhi\nIndia",
+  "address": {
+    "text": "India Expo Centre\nGreater Noida\nNew Delhi\nIndia",
+    "iso2": "IN",
+    "lat": 28.461767,
+    "lon": 77.50053199999999
+  },
   "website": "http://www.ifsecindia.com/Home.aspx?refer=1",
   "organiser": [
     {

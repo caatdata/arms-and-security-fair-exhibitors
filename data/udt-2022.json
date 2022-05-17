@@ -8,8 +8,13 @@
   "edition": "2022",
   "startDate": "2022-06-07",
   "endDate": "2022-06-09",
-  "address": "Rotterdam Ahoy\nAhoyweg 10\n3084 BA Rotterdam\nthe Netherlands",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "Rotterdam Ahoy\nAhoyweg 10\n3084 BA Rotterdam\nthe Netherlands",
+    "iso2": "NL",
+    "lat": 51.8819423,
+    "lon": 4.4865942
+  },
+  "website": "https://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",
@@ -36,23 +41,31 @@
     {
       "name": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/abeking-rasmussen-schiffs-und-yachtwerft-se",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Aish Technologies Ltd.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/aish-technologies-ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Alseamar",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/alseamar",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Analox Military Systems Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/analox-military-systems-ltd",
-      "country": "Analox Ltd\n15 Ellerbeck Court\nStokesley Business Park\nStokesley\nNorth Yorkshire\nTS9 5PT\nUnited Kingdom",
-      "website": "https://www.analoxgroup.com/",
+      "website": "https://www.analoxgroup.com",
       "social": [
         {
           "platform": "twitter",
@@ -62,23 +75,34 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/analoxgroup"
         }
-      ]
+      ],
+      "address": {
+        "text": "Analox Ltd\n15 Ellerbeck Court\nStokesley Business Park\nStokesley\nNorth Yorkshire\nTS9 5PT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.462336,
+        "lon": -1.175869
+      }
     },
     {
       "name": "Aselsan",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/aselsan",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Atlas Elektronik GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/atlas-elektronik-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Avon Protection Systems",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/avon-protection-systems",
-      "country": "Avon Protection\nHampton Park West\nSemington Road\nMelksham\nSN12 6NB\nUnited Kingdom",
-      "website": "https://www.avon-protection.com/",
+      "website": "https://www.avon-protection.com",
       "social": [
         {
           "platform": "twitter",
@@ -88,64 +112,109 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/avonprotection/"
         }
-      ]
+      ],
+      "address": {
+        "text": "Avon Protection\nHampton Park West\nSemington Road\nMelksham\nSN12 6NB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.353683,
+        "lon": -2.1401043
+      }
     },
     {
       "name": "BAE Systems Surface Ships Limited",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/bae-systems-surface-ships-limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Babcock International Group/TA Babcock Intergrated Technology Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/babcock-international-group/ta-babcock-intergrated-technology-ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Bartington Instruments Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/bartington-instruments-ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Blueprint Subsea",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/blueprint-subsea",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Bolidt Kunststoftoepassing B.V.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/bolidt-kunststoftoepassing-bv",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Bosch Rexroth B.V.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/bosch-rexroth-bv",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "CONSILIUM MARINE AND SAFETY AB",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/consilium-marine-and-safety-ab",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Clarion Defence & Security",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/clarion-defence-security",
-      "address": "CLARION EVENTS, BEDFORD HOUSE 69-79\nFULHAM HIGH STREET\nLONDON\nSW6 3JW\nUnited Kingdom"
+      "address": {
+        "text": "CLARION EVENTS, BEDFORD HOUSE 69-79\nFULHAM HIGH STREET\nLONDON\nSW6 3JW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4685968,
+        "lon": -0.2092208
+      }
     },
     {
       "name": "Clearwater Hydroacoustics Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/clearwater-hydroacoustics-ltd",
-      "country": "8H Old Yard\nRectory Lane\nBrasted\nKent\nTN16 1JP\nUnited Kingdom",
-      "website": "https://www.clearwater-hydroacoustics.co.uk/"
+      "website": "https://www.clearwater-hydroacoustics.co.uk",
+      "address": {
+        "text": "8H Old Yard\nRectory Lane\nBrasted\nKent\nTN16 1JP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2773674,
+        "lon": 0.1100733
+      }
     },
     {
       "name": "Comrod Communication AS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/comrod-communication-as",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Copper Alloys Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/copper-alloys-ltd",
-      "address": "Copper Alloys ltd\nGlendale Street\nBurslem\nStoke-on-Trent\nStaffs\nST6 2EP\nUnited Kingdom",
-      "website": "https://www.copperalloys.net/",
+      "address": {
+        "text": "Copper Alloys ltd\nGlendale Street\nBurslem\nStoke-on-Trent\nStaffs\nST6 2EP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.0429644,
+        "lon": -2.192022
+      },
+      "website": "https://www.copperalloys.net",
       "social": [
         {
           "platform": "twitter",
@@ -160,37 +229,50 @@
     {
       "name": "Curtiss-Wright INDAL",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/curtiss-wright-indal",
-      "address": ".\n.\nCanada",
       "website": "https://www.cw-ems.com/indal",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/showcase/curtiss-wright-ems-division/"
+      },
+      "country": {
+        "text": ".\n.\nCanada",
+        "iso2": "CA"
       }
     },
     {
       "name": "DA-Group",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/da-group",
-      "country": "Kassimäenkatu 2\nForssa\n30300\nFinland",
-      "website": "https://www.da-group.fi/",
+      "website": "https://www.da-group.fi",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/da-group-fi/"
+      },
+      "address": {
+        "text": "Kassimäenkatu 2\nForssa\n30300\nFinland",
+        "iso2": "FI",
+        "lat": 60.7898792,
+        "lon": 23.6531963
       }
     },
     {
       "name": "DECK Marine Systems O'",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/deck-marine-systems-o",
-      "country": "Estonia"
+      "country": {
+        "text": "Estonia",
+        "iso2": "EE"
+      }
     },
     {
       "name": "DSIT",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/dsit",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Damen Schelde Naval Shipbuilding",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/damen-schelde-naval-shipbuilding",
-      "country": "De Willem Ruysstraat 99\nVlissingen\nzeeland\n4381NK\nNetherlands",
       "website": "https://www.damen.com/companies/damen-schelde-nava",
       "social": [
         {
@@ -201,38 +283,64 @@
           "platform": "linkedin",
           "url": "https://nl.linkedin.com/company/damen-naval/"
         }
-      ]
+      ],
+      "address": {
+        "text": "De Willem Ruysstraat 99\nVlissingen\nzeeland\n4381NK\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.4470109,
+        "lon": 3.5790948
+      }
     },
     {
       "name": "Desan Deniz In?aat San AS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/desan-deniz-inaat-san-as",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Draeger Safety AG & Co. KGaA M",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/draeger-safety-ag-co-kgaa-m",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ECA Group",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/eca-group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ELTA Systems",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/elta-systems",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELWAVE SAS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/elwave-sas",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EST-Floattech B.V.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/est-floattech-bv",
-      "address": "EST-Floattech\nSchipholweg 321\nBADHOEVEDORP\n1171 PL\nNetherlands",
-      "website": "http://www.est-floattech.com/",
+      "address": {
+        "text": "EST-Floattech\nSchipholweg 321\nBADHOEVEDORP\n1171 PL\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.3294398,
+        "lon": 4.788860199999999
+      },
+      "website": "http://www.est-floattech.com",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/estfloattech-bv/posts/?feedView=all"
@@ -241,13 +349,21 @@
     {
       "name": "EuroTorp",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/eurotorp",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EvoLogics GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/evologics-gmbh",
-      "address": "Ackerstr. 76\nBerlin\nBerlin\n13355\nGermany",
-      "website": "https://evologics.de/",
+      "address": {
+        "text": "Ackerstr. 76\nBerlin\nBerlin\n13355\nGermany",
+        "iso2": "DE",
+        "lat": 52.53855900000001,
+        "lon": 13.3843569
+      },
+      "website": "https://evologics.de",
       "social": [
         {
           "platform": "twitter",
@@ -262,8 +378,11 @@
     {
       "name": "Fischer Connectors SA",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/fischer-connectors-sa",
-      "country": "Switzerland",
-      "website": "https://fischerconnectors.com/",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      },
+      "website": "https://fischerconnectors.com",
       "social": [
         {
           "platform": "twitter",
@@ -278,37 +397,60 @@
     {
       "name": "Forcit Defence",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/forcit-defence",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Fraunhofer Centre for Applied Photonics",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/fraunhofer-centre-for-applied-photonics",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "GISMA Steckverbinder GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/gisma-steckverbinder-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Gabler Maschinenbau GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/gabler-maschinenbau-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Greensea Systems, Inc.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/greensea-systems-inc-1",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "H. Henriksen AS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/h-henriksen-as",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "HEINEN & HOPMAN",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/heinen-hopman",
-      "address": "Heinen & Hopman\nProduktieweg\n12\nBunschoten\n3751 LN\nNetherlands",
+      "address": {
+        "text": "Heinen & Hopman\nProduktieweg\n12\nBunschoten\n3751 LN\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.2302927,
+        "lon": 5.3742182
+      },
       "website": "https://heinenhopman.com/en/markets/navy/",
       "social": [
         {
@@ -324,37 +466,58 @@
     {
       "name": "HENSOLDT Holding Germany GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/hensoldt-holding-germany-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Hale Hamilton (Valves) Limited",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/hale-hamilton-valves-limited",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Hydro Bond Engineering Ltd.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/hydro-bond-engineering-ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IMI Truflo Marine",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/imi-truflo-marine",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "JOWO Systemtechnik AG",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/jowo-systemtechnik-ag",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "KB Schmiedetechnik GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/kb-schmiedetechnik-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Kongsberg Defence & Aerospace",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/kongsberg-defence-aerospace",
-      "country": "Norway",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
       "website": "https://www.kongsberg.com/kda/what-we-do/defence-a",
       "social": {
         "platform": "linkedin",
@@ -364,13 +527,21 @@
     {
       "name": "KrakenPower GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/krakenpower-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "L-3 Calzoni S.R.L.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/l-3-calzoni-srl-1",
-      "address": "Via Alcide De Gasperi, 7\nCalderara di Reno, Bologna\nBologna, Italy\n40012\nItaly",
-      "website": "https://www.l3harris.com/",
+      "address": {
+        "text": "Via Alcide De Gasperi, 7\nCalderara di Reno, Bologna\nBologna, Italy\n40012\nItaly",
+        "iso2": "IT",
+        "lat": 44.549158,
+        "lon": 11.26212
+      },
+      "website": "https://www.l3harris.com",
       "social": [
         {
           "platform": "twitter",
@@ -385,13 +556,15 @@
     {
       "name": "LLOYD'S REGISTER GROUP",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/lloyds-register-group",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Linden Photonics, Inc.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/linden-photonics-inc",
-      "country": "Linden Photonics\nOne Park Drive\nSuite 10\nWestford\nMassachusetts\n01886\nUnited States",
-      "website": "https://www.lindenphotonics.com/",
+      "website": "https://www.lindenphotonics.com",
       "social": [
         {
           "platform": "twitter",
@@ -401,24 +574,37 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/linden-photonics/"
         }
-      ]
+      ],
+      "address": {
+        "text": "Linden Photonics\nOne Park Drive\nSuite 10\nWestford\nMassachusetts\n01886\nUnited States",
+        "iso2": "US",
+        "lat": 42.5578384,
+        "lon": -71.4363784
+      }
     },
     {
       "name": "Lockheed Martin",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/lockheed-martin",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "MCT Brattberg AB",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/mct-brattberg-ab",
-      "country": "Lyckeåborgsvägen 63\nKarlskrona\n37151\nSweden",
-      "website": "http://www.mctbrattberg.se/"
+      "website": "http://www.mctbrattberg.se",
+      "address": {
+        "text": "Lyckeåborgsvägen 63\nKarlskrona\n37151\nSweden",
+        "iso2": "SE",
+        "lat": 56.2307891,
+        "lon": 15.6907739
+      }
     },
     {
       "name": "MIND Technology, Inc.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/mind-technology-inc",
-      "country": "2002 Timberloch Place\nSuite 400\nThe Woodlands\nTexas\n77380\nUnited States",
-      "website": "https://mind-technology.com/",
+      "website": "https://mind-technology.com",
       "social": [
         {
           "platform": "twitter",
@@ -428,28 +614,41 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/33201647"
         }
-      ]
+      ],
+      "address": {
+        "text": "2002 Timberloch Place\nSuite 400\nThe Woodlands\nTexas\n77380\nUnited States",
+        "iso2": "US",
+        "lat": 30.1587809,
+        "lon": -95.4674276
+      }
     },
     {
       "name": "MacTaggart Scott and Co Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/mactaggart-scott-and-co-ltd",
-      "country": "Hunter Avenue\nLoanhead\nEH209SP\nUnited Kingdom",
-      "website": "https://www.mactag.com/",
+      "website": "https://www.mactag.com",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/mactaggart-scott"
+      },
+      "address": {
+        "text": "Hunter Avenue\nLoanhead\nEH209SP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.8790622,
+        "lon": -3.1421691
       }
     },
     {
       "name": "Marine Tech SA",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/marine-tech-sa",
-      "country": "Poland"
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      }
     },
     {
       "name": "MetOcean Telematics",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/metocean-telematics",
-      "country": "MetOcean Telematics\n11 Thornhill Drive\nDartmouth\nNova Scotia\nB3B1R9\nCanada",
-      "website": "https://metocean.com/",
+      "website": "https://metocean.com",
       "social": [
         {
           "platform": "twitter",
@@ -459,96 +658,153 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/metocean-data-systems/"
         }
-      ]
+      ],
+      "address": {
+        "text": "MetOcean Telematics\n11 Thornhill Drive\nDartmouth\nNova Scotia\nB3B1R9\nCanada",
+        "iso2": "CA",
+        "lat": 44.6999868,
+        "lon": -63.59559290000001
+      }
     },
     {
       "name": "NAUTEC Ihn.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/nautec-ihn",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "NOVACAVI Srl",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/novacavi-srl",
-      "country": "NOVACAVI\nVia Martiri di Cefalonia 1\nPeschiera Borromeo MI\nMilan\n20068\nItaly",
-      "website": "https://www.novacavi.it/",
+      "website": "https://www.novacavi.it",
       "social": {
         "platform": "linkedin",
         "url": "https://it.linkedin.com/company/novacavi"
+      },
+      "address": {
+        "text": "NOVACAVI\nVia Martiri di Cefalonia 1\nPeschiera Borromeo MI\nMilan\n20068\nItaly",
+        "iso2": "IT",
+        "lat": 45.4326714,
+        "lon": 9.2882014
       }
     },
     {
       "name": "NRC International GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/NRC-International-GmbH",
-      "country": "NRC International GmbH\nKarlstrasse 21a\nBergneustadt\nGermany\n51702\nGermany",
-      "website": "https://www.nrc-international.com/"
+      "website": "https://www.nrc-international.com",
+      "address": {
+        "text": "NRC International GmbH\nKarlstrasse 21a\nBergneustadt\nGermany\n51702\nGermany",
+        "iso2": "DE",
+        "lat": 51.0188672,
+        "lon": 7.6576347
+      }
     },
     {
       "name": "Naval Group.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/naval-group",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Nevesbu b.v.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/nevesbu-bv",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Northrop Grumman LITEF GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/northrop-grumman-litef-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Optics11",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/optics11",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Patria Aviation Oy Systems",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/patria-aviation-oy-systems",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "RH Marine Netherlands B.V.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rh-marine-netherlands-bv",
-      "country": "Jan Evertsenweg 2\nSchiedam\n3115 JA\nNetherlands",
-      "website": "https://www.rhmarine.com/",
+      "website": "https://www.rhmarine.com",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/rh-marine"
+      },
+      "address": {
+        "text": "Jan Evertsenweg 2\nSchiedam\n3115 JA\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.9093155,
+        "lon": 4.3763596
       }
     },
     {
       "name": "ROTINOR GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rotinor-gmbh",
-      "country": "Flachter Strasse 32\nStuttgart\n70499\nGermany",
-      "website": "https://rotinor.com/"
+      "website": "https://rotinor.com",
+      "address": {
+        "text": "Flachter Strasse 32\nStuttgart\n70499\nGermany",
+        "iso2": "DE",
+        "lat": 48.8201133,
+        "lon": 9.100527200000002
+      }
     },
     {
       "name": "RTsys",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rtsys",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Rafael",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rafael-1",
-      "country": "Israel"
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      }
     },
     {
       "name": "Raytheon Anschütz GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/raytheon-anschtz-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Rheinmetall AG Corporate Sector Defence",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rheinmetall-ag-corporate-sector-defence",
-      "country": "Rheinmetall AG\nRheinmetall Platz 1\nDüsseldorf\nGermany\n40476\nGermany",
-      "website": "https://www.rheinmetall.com/"
+      "website": "https://www.rheinmetall.com",
+      "address": {
+        "text": "Rheinmetall AG\nRheinmetall Platz 1\nDüsseldorf\nGermany\n40476\nGermany",
+        "iso2": "DE",
+        "lat": 51.2534618,
+        "lon": 6.7855401
+      }
     },
     {
       "name": "Rolls-Royce Solutions GmbH'",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rolls-royce-solutions-gmbh",
-      "country": "Maybachplatz 1\nFriedrichshafen\n88045\nGermany",
-      "website": "https://www.mtu-solutions.com/",
+      "website": "https://www.mtu-solutions.com",
       "social": [
         {
           "platform": "twitter",
@@ -558,13 +814,18 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/mtusolutions/?originalSubdomain=de"
         }
-      ]
+      ],
+      "address": {
+        "text": "Maybachplatz 1\nFriedrichshafen\n88045\nGermany",
+        "iso2": "DE",
+        "lat": 47.6577445,
+        "lon": 9.4727213
+      }
     },
     {
       "name": "Royal IHC",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/royal-ihc",
-      "country": "Smitweg 6\nKinderdijk\n2961 AW\nNetherlands",
-      "website": "https://www.royalihc.com/",
+      "website": "https://www.royalihc.com",
       "social": [
         {
           "platform": "twitter",
@@ -574,13 +835,18 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/royalihc"
         }
-      ]
+      ],
+      "address": {
+        "text": "Smitweg 6\nKinderdijk\n2961 AW\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.8856017,
+        "lon": 4.6296056
+      }
     },
     {
       "name": "SAAB AB..",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/saab-ab",
-      "country": "Olof Palmes Gata 17\nStockholm\n111 22\nSweden",
-      "website": "https://www.saab.com/",
+      "website": "https://www.saab.com",
       "social": [
         {
           "platform": "twitter",
@@ -590,13 +856,18 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/saab"
         }
-      ]
+      ],
+      "address": {
+        "text": "Olof Palmes Gata 17\nStockholm\n111 22\nSweden",
+        "iso2": "SE",
+        "lat": 59.3352628,
+        "lon": 18.0584634
+      }
     },
     {
       "name": "SEA",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/sea",
-      "country": "SEA\nRiverside Road\nPottington Business Park\nBarnstaple\nSelect county\nEX31 1LY\nUnited Kingdom",
-      "website": "https://www.sea.co.uk/",
+      "website": "https://www.sea.co.uk",
       "social": [
         {
           "platform": "twitter",
@@ -606,34 +877,53 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/systems-engineering-and-assessment-ltd"
         }
-      ]
+      ],
+      "address": {
+        "text": "SEA\nRiverside Road\nPottington Business Park\nBarnstaple\nSelect county\nEX31 1LY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0847265,
+        "lon": -4.0797532
+      }
     },
     {
       "name": "SIEMENS AG",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/siemens-ag",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "STIDD Systems Inc.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/stidd-systems-inc",
-      "country": "220 Carpenter Street\nGreenport\nNY\n11944\nUnited States",
-      "website": "https://stiddmil.com/"
+      "website": "https://stiddmil.com",
+      "address": {
+        "text": "220 Carpenter Street\nGreenport\nNY\n11944\nUnited States",
+        "iso2": "US",
+        "lat": 41.1032983,
+        "lon": -72.3582136
+      }
     },
     {
       "name": "SYSTEMS SUNLIGHT S.A.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/systems-sunlight-sa",
-      "country": "Greece"
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      }
     },
     {
       "name": "Safran Electronics & Defense",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/safran-electronics-defense",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SeeByte",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/seebyte",
-      "country": "Orchard Brae House\n30 Queensferry Rroad\nEdinburgh\nEH4 2HS\nUnited Kingdom",
-      "website": "https://www.seebyte.com/",
+      "website": "https://www.seebyte.com",
       "social": [
         {
           "platform": "twitter",
@@ -643,43 +933,65 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/seebyte"
         }
-      ]
+      ],
+      "address": {
+        "text": "Orchard Brae House\n30 Queensferry Rroad\nEdinburgh\nEH4 2HS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.95545689999999,
+        "lon": -3.2236646
+      }
     },
     {
       "name": "Shark Marine Technologies",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/shark-marine-technologies",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Siemens Energy",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/siemens-energy",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Solico Engineering B.V",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/solico-engineering-bv",
-      "country": "Everdenberg 5A\nOosterhout\n4902TT\nNetherlands",
-      "website": "https://www.solico.nl/",
+      "website": "https://www.solico.nl",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/solico-b.v."
+      },
+      "address": {
+        "text": "Everdenberg 5A\nOosterhout\n4902TT\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.6302263,
+        "lon": 4.88256
       }
     },
     {
       "name": "Sonardyne International Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/sonardyne-international-ltd",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Strategic Robotic Systems",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/strategic-robotic-systems",
-      "address": ".\n.\nUnited States"
+      "country": {
+        "text": ".\n.\nUnited States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Subnero Pte Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/subnero-pte-ltd",
-      "country": "The Hangar\n21 Heng Mui Keng Terrace\nSingapore\n119316\nSingapore",
-      "website": "https://subnero.com/",
+      "website": "https://subnero.com",
       "social": [
         {
           "platform": "twitter",
@@ -689,33 +1001,50 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/subnero/"
         }
-      ]
+      ],
+      "address": {
+        "text": "The Hangar\n21 Heng Mui Keng Terrace\nSingapore\n119316\nSingapore",
+        "iso2": "SG",
+        "lat": 1.2924684,
+        "lon": 103.7756614
+      }
     },
     {
       "name": "Subsea Craft Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/subsea-craft-ltd-1",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "TNO Defence, Safety and Security",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/tno-defence-safety-and-security",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Team Defence Australia",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/team-defence-australia",
-      "country": "Australia",
-      "website": "https://www.defence.gov.au/"
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      },
+      "website": "https://www.defence.gov.au"
     },
     {
       "name": "Teledyne",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/teledyne",
-      "country": "United States"
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Thales UK Limited",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/thales-uk-limited",
-      "country": "Thales UK\n350 Longwater Avenue\nGreen Park\nReading\nRG2 6GF\nUnited Kingdom",
       "website": "https://www.thalesgroup.com/en",
       "social": [
         {
@@ -726,59 +1055,98 @@
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/thales"
         }
-      ]
+      ],
+      "address": {
+        "text": "Thales UK\n350 Longwater Avenue\nGreen Park\nReading\nRG2 6GF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.42433459999999,
+        "lon": -0.9937026000000001
+      }
     },
     {
       "name": "Thyssenkrupp Marine Systems GMBH.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/thyssenkrupp-marine-systems-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "UWIS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/uwis",
-      "country": "Finland"
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
     },
     {
       "name": "Ultra Electronics Maritime Systems Inc",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/ultra-electronics-maritime-systems-inc",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Verebus Engineering B.V.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/verebus-engineering-bv",
-      "country": "Netherlands"
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "Volue Industrial IoT AS",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/scanmatic-as",
-      "country": "Volue\nBedriftsveien 17\nArendal\n4841\nNorway",
       "website": "https://www.scanmatic.no/deliveries/?lang=en",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/volueiot"
+      },
+      "address": {
+        "text": "Volue\nBedriftsveien 17\nArendal\n4841\nNorway",
+        "iso2": "NO",
+        "lat": 58.47576999999999,
+        "lon": 8.8181732
       }
     },
     {
       "name": "W'rtsil' ELAC Nautik GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/wrtsil-elac-nautik-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "W'rtsil' EUROATLAS GmbH",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/wrtsil-euroatlas-gmbh",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Waterproof Diving International AB",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/waterproof-diving-international-ab",
-      "country": "Waterproof Diving international AB\nIndustrivägen 39\nSävedalen\n433 61\nSweden",
-      "website": "https://www.waterproof.eu/"
+      "website": "https://www.waterproof.eu",
+      "address": {
+        "text": "Waterproof Diving international AB\nIndustrivägen 39\nSävedalen\n433 61\nSweden",
+        "iso2": "SE",
+        "lat": 57.7332672,
+        "lon": 12.0645976
+      }
     },
     {
       "name": "Westley Group.",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/westley-group",
-      "country": "Doulton Road\nCradley Heath\nWest Midlands\nB64 5QN\nUnited Kingdom",
-      "website": "https://www.westleygroup.co.uk/"
+      "website": "https://www.westleygroup.co.uk",
+      "address": {
+        "text": "Doulton Road\nCradley Heath\nWest Midlands\nB64 5QN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4848513,
+        "lon": -2.0637906
+      }
     }
   ]
 }

@@ -5,7 +5,12 @@
   "edition": "2015",
   "startDate": "2015-05-19",
   "endDate": "2015-05-21",
-  "address": "Brno Exhibition Centre\nBrno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nBrno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "https://www.bvv.cz/en/idet/",
   "organiser": [
     {
@@ -28,7 +33,10 @@
   "exhibitor": [
     {
       "name": "Accuracy International Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AERO TRADE, a.s.",
@@ -48,11 +56,17 @@
     },
     {
       "name": "AeroVironment, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Aeryon Labs (Small Unmanned Aerial Systems (sUAS), UAV, dron)",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "AFCEA Česká pobočka",
@@ -60,7 +74,10 @@
     },
     {
       "name": "AGI Aeronautical & General Instruments Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Air Force Institute of Technology",
@@ -68,11 +85,17 @@
     },
     {
       "name": "Airborne Systems",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "AIRNESCO Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Alcatel-Lucent, Inc.",
@@ -92,15 +115,24 @@
     },
     {
       "name": "Allan Webb Ltd",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Amphenol Aerospace",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Amphenol Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Amphenol Socapex",
@@ -144,11 +176,17 @@
     },
     {
       "name": "Aruba Networks, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Asian Military Review",
-      "country": "HK"
+      "country": {
+        "text": "HK",
+        "iso2": "HK"
+      }
     },
     {
       "name": "Asociace nositelů legionářských tradic, o.s.",
@@ -168,7 +206,10 @@
     },
     {
       "name": "Astronics DME Corporation",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "ATS-TELCOM PRAHA a.s.",
@@ -188,7 +229,10 @@
     },
     {
       "name": "Avanti Broadband Plc",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "AVIATRONIC Ltd. (Aviation Engineering Development Company)",
@@ -231,7 +275,10 @@
     },
     {
       "name": "Cammenga Company, LLC",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Carinex Ltd",
@@ -247,7 +294,10 @@
     },
     {
       "name": "C-COM Satellite Systems Inc.",
-      "country": "CA"
+      "country": {
+        "text": "CA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CILAS",
@@ -263,11 +313,17 @@
     },
     {
       "name": "Coastal Environmental Systems",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "COBHAM",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "COBHAM / TELEROB GmbH",
@@ -279,7 +335,10 @@
     },
     {
       "name": "Comtech EF Data",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "CZ.NIC, z.s.p.o.",
@@ -311,7 +370,10 @@
     },
     {
       "name": "Daniels Manufacturing Corporation",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "DataPath International AB",
@@ -335,7 +397,10 @@
     },
     {
       "name": "Digital Barriers",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Dynasafe Protection Systems AB",
@@ -351,11 +416,17 @@
     },
     {
       "name": "EMS Technologies Canada Ltd.",
-      "country": "CA"
+      "country": {
+        "text": "CA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Epson",
-      "country": "JP"
+      "country": {
+        "text": "JP",
+        "iso2": "JP"
+      }
     },
     {
       "name": "ERA a. s.",
@@ -375,7 +446,10 @@
     },
     {
       "name": "Esterline Communication Systems",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ESTO Cheb s.r.o.",
@@ -459,7 +533,10 @@
     },
     {
       "name": "Glenair, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Glomex MS, s. r. o.",
@@ -475,15 +552,24 @@
     },
     {
       "name": "Hardigg UK Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "HARRIS",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "HellermannTyton",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Hewlett - Packard s.r.o.",
@@ -495,15 +581,24 @@
     },
     {
       "name": "Hoffman Engineering",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Honeywell - Quietpro",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "HR Smith Group of Companies",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Huawei",
@@ -519,7 +614,10 @@
     },
     {
       "name": "Chemring",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "China National Precision Machinery I&E Co.",
@@ -527,11 +625,19 @@
     },
     {
       "name": "Chipotle Publishing, LLC",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "IAI - ELTA",
-      "country": "IL"
+      "address": {
+        "text": "IL",
+        "iso2": "US",
+        "lat": 40.6331249,
+        "lon": -89.3985283
+      }
     },
     {
       "name": "ICZ a.s.",
@@ -547,7 +653,10 @@
     },
     {
       "name": "Integrated Microwave Technologies - IMT",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Intercolor a.s.",
@@ -575,7 +684,10 @@
     },
     {
       "name": "Klimov",
-      "country": "RU"
+      "country": {
+        "text": "RU",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Klub výsadkových veteránů Jana Kubiše Brno",
@@ -595,7 +707,10 @@
     },
     {
       "name": "KRISS Systems SA",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Krusche & Company GmbH",
@@ -603,7 +718,10 @@
     },
     {
       "name": "L-3 Communications, Communication Systems West",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "LACENAIRE LIMITED CO.",
@@ -611,11 +729,17 @@
     },
     {
       "name": "Land Rover",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Laser Technology",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Letiště Ostrava, a.s.",
@@ -623,7 +747,10 @@
     },
     {
       "name": "LifeSize",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Lithuanian Defence and Security Industries Association",
@@ -631,7 +758,10 @@
     },
     {
       "name": "LLC “UNILOAD”",
-      "country": "RU"
+      "country": {
+        "text": "RU",
+        "iso2": "RU"
+      }
     },
     {
       "name": "LOM PRAHA s.p.",
@@ -687,11 +817,17 @@
     },
     {
       "name": "MIL Moscow Helicopter Plant",
-      "country": "RU"
+      "country": {
+        "text": "RU",
+        "iso2": "RU"
+      }
     },
     {
       "name": "Mil-Comm Products Company, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Military Communication Works No 1 Joint Stock Company",
@@ -751,7 +887,10 @@
     },
     {
       "name": "Motorola Solutions, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "MPI Group, s.r.o.",
@@ -799,11 +938,17 @@
     },
     {
       "name": "Nightline",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "NIVISYS LLC",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Northrop Grumman LITEF GmbH",
@@ -819,7 +964,12 @@
     },
     {
       "name": "NSPA",
-      "country": "LU"
+      "address": {
+        "text": "LU",
+        "iso2": "IN",
+        "lat": 26.8633208,
+        "lon": 80.93601970000002
+      }
     },
     {
       "name": "NSSLGlobal GmbH",
@@ -827,7 +977,10 @@
     },
     {
       "name": "O'GARA - Sensor Technology Systems",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Olympus Czech Group, s.r.o., člen koncernu",
@@ -839,11 +992,19 @@
     },
     {
       "name": "OPGAL",
-      "country": "IL"
+      "address": {
+        "text": "IL",
+        "iso2": "US",
+        "lat": 40.6331249,
+        "lon": -89.3985283
+      }
     },
     {
       "name": "OptaSense",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ORITEST spol. s r.o.",
@@ -863,11 +1024,17 @@
     },
     {
       "name": "Paradigm Communication Systems Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Paradigm Secure Communications Ltd.",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "PCO JSC",
@@ -875,7 +1042,10 @@
     },
     {
       "name": "Persistent Systems, LLC.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "PIK-AS AUSTRIA",
@@ -959,11 +1129,17 @@
     },
     {
       "name": "Raychem/TE Connectivity",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Recon Robotics Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "REDO, s.r.o.",
@@ -991,7 +1167,10 @@
     },
     {
       "name": "Ricardo",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ - Praha, s.r.o.",
@@ -1047,7 +1226,10 @@
     },
     {
       "name": "Sensata Technologies",
-      "country": "NL"
+      "country": {
+        "text": "NL",
+        "iso2": "NL"
+      }
     },
     {
       "name": "SERO Ltd.",
@@ -1075,7 +1257,10 @@
     },
     {
       "name": "SKB Cases (transport boxes, cases and 19)",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Skylogic S.p.A.",
@@ -1091,7 +1276,10 @@
     },
     {
       "name": "Spectra Group",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "STAP a.s.",
@@ -1151,7 +1339,10 @@
     },
     {
       "name": "Thales Defense and Security, Inc.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Thales Norway AS",
@@ -1183,7 +1374,10 @@
     },
     {
       "name": "VMZ Co.",
-      "country": "BG"
+      "country": {
+        "text": "BG",
+        "iso2": "BG"
+      }
     },
     {
       "name": "Vojenský technický ústav, s.p.",
@@ -1243,11 +1437,17 @@
     },
     {
       "name": "BRITAX PMG",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CODE3",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Cortina NV Safety Jogger",
@@ -1259,7 +1459,10 @@
     },
     {
       "name": "Cutters Edge",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "DCom, spol. s r.o.",
@@ -1271,7 +1474,10 @@
     },
     {
       "name": "E-Flare",
-      "country": "AU"
+      "country": {
+        "text": "AU",
+        "iso2": "AU"
+      }
     },
     {
       "name": "ENVIFORM a.s.",
@@ -1291,7 +1497,10 @@
     },
     {
       "name": "FASTEC Imaging",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLIR Systems AB",
@@ -1323,7 +1532,10 @@
     },
     {
       "name": "Holmatro",
-      "country": "NL"
+      "country": {
+        "text": "NL",
+        "iso2": "NL"
+      }
     },
     {
       "name": "HOLOMÝ s.r.o.",
@@ -1331,7 +1543,10 @@
     },
     {
       "name": "HONDA",
-      "country": "JP"
+      "country": {
+        "text": "JP",
+        "iso2": "JP"
+      }
     },
     {
       "name": "Hughes Notduschen GmbH",
@@ -1355,7 +1570,10 @@
     },
     {
       "name": "Infrared Systems Group Ltd. (ISG)",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Ing. Lubomír Kubla",
@@ -1367,7 +1585,10 @@
     },
     {
       "name": "ISG InfraSys",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "IVM Zrt.",
@@ -1435,7 +1656,10 @@
     },
     {
       "name": "NIGHTSEARCHER",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NITECORE",
@@ -1455,7 +1679,10 @@
     },
     {
       "name": "Paulson Manufacturing Corp.",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "PELI PRODUCTS, S.L.U.",
@@ -1479,7 +1706,10 @@
     },
     {
       "name": "PREMIER HAZARD",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "REMBE GmbH",
@@ -1487,7 +1717,10 @@
     },
     {
       "name": "RHINO",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ROSTAING S.A.",
@@ -1507,7 +1740,10 @@
     },
     {
       "name": "Spectrum Healthcare (UK) Ltd",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SpektraVision s.r.o.",
@@ -1539,11 +1775,17 @@
     },
     {
       "name": "STREAMLIGHT",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "SUREFIRE",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "TELESTEPS",
@@ -1559,7 +1801,10 @@
     },
     {
       "name": "UNDERWATER KINETICS",
-      "country": "US"
+      "country": {
+        "text": "US",
+        "iso2": "US"
+      }
     },
     {
       "name": "Václav Ridl (Safety handle)",
@@ -1591,7 +1836,10 @@
     },
     {
       "name": "WILLIAMSON-DICKIE EUROPE LTD",
-      "country": "GB"
+      "country": {
+        "text": "GB",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WSI WARSZAWSKA",

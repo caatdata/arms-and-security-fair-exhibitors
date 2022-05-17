@@ -8,7 +8,12 @@
   ],
   "startDate": "2000-07-24",
   "endDate": "2000-07-30",
-  "address": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+  "address": {
+    "text": "Farnborough International Exhibition and Conference Centre\nETPS Road\nFarnborough\nGU14 6FD\nUK",
+    "iso2": "GB",
+    "lat": 51.2755416,
+    "lon": -0.76105
+  },
   "website": "http://www.farnborough.com",
   "exhibitorListUrl": "http://www.farnborough.com/downloads/exhibitors.xls",
   "exhibitorListDate": "2021-03-11T13:33:03+00:00",

@@ -5,9 +5,14 @@
   "alias": "Feria Internacional del Aire y del Espacio",
   "startDate": "2006-03-27",
   "endDate": "2006-04-02",
-  "address": "II Brigada Aérea\nPudahuel\nChile",
+  "address": {
+    "text": "II Brigada Aérea\nPudahuel\nChile",
+    "iso2": "CL",
+    "lat": -33.4282187,
+    "lon": -70.7695003
+  },
   "website": [
-    "http://fidae.cl/",
+    "http://fidae.cl",
     "http://www.fidaegroup.cl/fidae-2006/"
   ],
   "exhibitorListUrl": "http://www.fidae.cl/expositores/contenidos/uv_listadoexpositores.asp",
@@ -27,7 +32,12 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "AERODATA AG"
+      "address": {
+        "text": "AERODATA AG",
+        "iso2": "DE",
+        "lat": 52.315752,
+        "lon": 10.5442586
+      }
     },
     {
       "name": "ALEMANIA",
@@ -35,7 +45,12 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "EADS"
+      "address": {
+        "text": "EADS",
+        "iso2": "US",
+        "lat": 35.2028416,
+        "lon": -89.64920579999999
+      }
     },
     {
       "name": "ALEMANIA",
@@ -43,7 +58,12 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "MOVING TERRAIN AIR NAVIGATION SYSTEMS AG"
+      "address": {
+        "text": "MOVING TERRAIN AIR NAVIGATION SYSTEMS AG",
+        "iso2": "DE",
+        "lat": 47.68378999999999,
+        "lon": 10.3493
+      }
     },
     {
       "name": "ALEMANIA",
@@ -51,7 +71,12 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "EDUARD WILLE GmbH (Stahlwille)"
+      "address": {
+        "text": "EDUARD WILLE GmbH (Stahlwille)",
+        "iso2": "DE",
+        "lat": 51.2059097,
+        "lon": 7.1343331
+      }
     },
     {
       "name": "ALEMANIA",
@@ -67,15 +92,30 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "DEWITEC GmbH"
+      "address": {
+        "text": "DEWITEC GmbH",
+        "iso2": "DE",
+        "lat": 51.51227,
+        "lon": 7.606050000000001
+      }
     },
     {
       "name": "ALEMANIA",
-      "country": "MOTORPRESSE STUTTGART"
+      "address": {
+        "text": "MOTORPRESSE STUTTGART",
+        "iso2": "DE",
+        "lat": 48.778873,
+        "lon": 9.1714886
+      }
     },
     {
       "name": "ALEMANIA",
-      "country": "GIWS GESELLSCHAFT FUR INTELLIGENTE WIRKSYSTEM GmbH"
+      "address": {
+        "text": "GIWS GESELLSCHAFT FUR INTELLIGENTE WIRKSYSTEM GmbH",
+        "iso2": "DE",
+        "lat": 49.44639,
+        "lon": 11.1032
+      }
     },
     {
       "name": "ALEMANIA",
@@ -83,11 +123,19 @@
     },
     {
       "name": "ALEMANIA",
-      "country": "DIEHL REMSCHEID GmbH and Co."
+      "address": {
+        "text": "DIEHL REMSCHEID GmbH and Co.",
+        "iso2": "DE",
+        "lat": 51.1746,
+        "lon": 7.161919999999999
+      }
     },
     {
       "name": "ARGENTINA",
-      "country": "FUERZA AÉREA ARGENTINA"
+      "country": {
+        "text": "FUERZA AÉREA ARGENTINA",
+        "iso2": "AR"
+      }
     },
     {
       "name": "ARGENTINA",
@@ -103,7 +151,12 @@
     },
     {
       "name": "ARGENTINA",
-      "country": "SERVICIOS HELICENTER S.A."
+      "address": {
+        "text": "SERVICIOS HELICENTER S.A.",
+        "iso2": "AR",
+        "lat": -34.6222344,
+        "lon": -58.34499649999999
+      }
     },
     {
       "name": "ARGENTINA",
@@ -111,7 +164,10 @@
     },
     {
       "name": "ARGENTINA",
-      "country": "LOCKHEED MARTIN AIRCRAFT ARGENTINA S.A."
+      "country": {
+        "text": "LOCKHEED MARTIN AIRCRAFT ARGENTINA S.A.",
+        "iso2": "AR"
+      }
     },
     {
       "name": "ARGENTINA",
@@ -139,7 +195,12 @@
     },
     {
       "name": "AUSTRIA",
-      "country": "SCOTTY GROUP AUSTRIA"
+      "address": {
+        "text": "SCOTTY GROUP AUSTRIA",
+        "iso2": "AT",
+        "lat": 47.0186407,
+        "lon": 15.500499
+      }
     },
     {
       "name": "AUSTRIA",
@@ -151,11 +212,21 @@
     },
     {
       "name": "AUSTRIA",
-      "country": "CASTELLANA BUSINESS DEVELOPMENT GmbH"
+      "address": {
+        "text": "CASTELLANA BUSINESS DEVELOPMENT GmbH",
+        "iso2": "ES",
+        "lat": 40.435469,
+        "lon": -3.6871448
+      }
     },
     {
       "name": "AUSTRIA",
-      "country": "SCHIEBEL ELEKTRONISCHE GERAETE"
+      "address": {
+        "text": "SCHIEBEL ELEKTRONISCHE GERAETE",
+        "iso2": "AT",
+        "lat": 48.1888586,
+        "lon": 16.3540467
+      }
     },
     {
       "name": "AUSTRIA",
@@ -163,7 +234,12 @@
     },
     {
       "name": "AUSTRIA",
-      "country": "MASCHINENFABRIK LIEZEN UND GIEBEREI GmbH"
+      "address": {
+        "text": "MASCHINENFABRIK LIEZEN UND GIEBEREI GmbH",
+        "iso2": "AT",
+        "lat": 47.56255700000001,
+        "lon": 14.2508906
+      }
     },
     {
       "name": "AUSTRALIA",
@@ -171,7 +247,12 @@
     },
     {
       "name": "AUSTRALIA",
-      "country": "AEROSWEEP"
+      "address": {
+        "text": "AEROSWEEP",
+        "iso2": "AU",
+        "lat": -37.8204642,
+        "lon": 145.1650988
+      }
     },
     {
       "name": "BÉLGICA",
@@ -183,15 +264,30 @@
     },
     {
       "name": "BÉLGICA",
-      "country": "SABIEX INTERNATIONAL S.A."
+      "address": {
+        "text": "SABIEX INTERNATIONAL S.A.",
+        "iso2": "BE",
+        "lat": 50.6066483,
+        "lon": 3.4112496
+      }
     },
     {
       "name": "BÉLGICA",
-      "country": "OIP SENSOR SYSTEMS"
+      "address": {
+        "text": "OIP SENSOR SYSTEMS",
+        "iso2": "BE",
+        "lat": 50.8636869,
+        "lon": 3.6022443
+      }
     },
     {
       "name": "BÉLGICA",
-      "country": "FN HERSTAL, S.A."
+      "address": {
+        "text": "FN HERSTAL, S.A.",
+        "iso2": "BE",
+        "lat": 50.6699566,
+        "lon": 5.6391753
+      }
     },
     {
       "name": "BRASIL",
@@ -207,7 +303,12 @@
     },
     {
       "name": "BRASIL",
-      "country": "AERO AGRICOLA SANTOS DUMONT LTDA."
+      "address": {
+        "text": "AERO AGRICOLA SANTOS DUMONT LTDA.",
+        "iso2": "BR",
+        "lat": -30.0025913,
+        "lon": -52.9438448
+      }
     },
     {
       "name": "BRASIL",
@@ -251,7 +352,10 @@
     },
     {
       "name": "CANADA",
-      "country": "IRVIN AEROSPACE CANADA LTD."
+      "country": {
+        "text": "IRVIN AEROSPACE CANADA LTD.",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CANADA",
@@ -267,11 +371,21 @@
     },
     {
       "name": "CHILE",
-      "country": "COMANDO DE INDUSTRIA MILITAR E INGENIERÍA"
+      "address": {
+        "text": "COMANDO DE INDUSTRIA MILITAR E INGENIERÍA",
+        "iso2": "MX",
+        "lat": 19.4363504,
+        "lon": -99.2208577
+      }
     },
     {
       "name": "CHILE",
-      "country": "AEROSERVICIO S.A."
+      "address": {
+        "text": "AEROSERVICIO S.A.",
+        "iso2": "CL",
+        "lat": -33.4508266,
+        "lon": -70.5466072
+      }
     },
     {
       "name": "CHILE",
@@ -287,7 +401,12 @@
     },
     {
       "name": "CHILE",
-      "country": "ADEXUS"
+      "address": {
+        "text": "ADEXUS",
+        "iso2": "CL",
+        "lat": -33.4382204,
+        "lon": -70.64540939999999
+      }
     },
     {
       "name": "CHILE",
@@ -295,19 +414,35 @@
     },
     {
       "name": "CHILE",
-      "country": "SERVICIO AEROFOTOGRAMETRICO DEL GRAL. JUAN SOLER MANFREDINI"
+      "address": {
+        "text": "SERVICIO AEROFOTOGRAMETRICO DEL GRAL. JUAN SOLER MANFREDINI",
+        "iso2": "CL",
+        "lat": -33.445204,
+        "lon": -70.6542849
+      }
     },
     {
       "name": "CHILE",
-      "country": "SERVICIO DE BUSQUEDA Y SALVAMENTO AEREO (SAR), FUERZA AÉREA DE CHILE"
+      "country": {
+        "text": "SERVICIO DE BUSQUEDA Y SALVAMENTO AEREO (SAR), FUERZA AÉREA DE CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA DE ESPECIALIDADES"
+      "address": {
+        "text": "ESCUELA DE ESPECIALIDADES",
+        "iso2": "CL",
+        "lat": -33.5565392,
+        "lon": -70.6777738
+      }
     },
     {
       "name": "CHILE",
-      "country": "AGENCIA CHILENA DEL ESPACIO"
+      "country": {
+        "text": "AGENCIA CHILENA DEL ESPACIO",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
@@ -319,11 +454,21 @@
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA DE INVESTIGACIONES  POLICIALES"
+      "address": {
+        "text": "ESCUELA DE INVESTIGACIONES  POLICIALES",
+        "iso2": "CL",
+        "lat": -33.4589741,
+        "lon": -70.7152662
+      }
     },
     {
       "name": "CHILE",
-      "country": "ACADEMIA DE CIENCIAS AERONAUTICAS (ACA) - UNIVERSIDAD TECNICA FEDERICO SANTA MARIA"
+      "address": {
+        "text": "ACADEMIA DE CIENCIAS AERONAUTICAS (ACA) - UNIVERSIDAD TECNICA FEDERICO SANTA MARIA",
+        "iso2": "CL",
+        "lat": -33.0352386,
+        "lon": -71.5967794
+      }
     },
     {
       "name": "CHILE",
@@ -331,15 +476,30 @@
     },
     {
       "name": "CHILE",
-      "country": "AEROTECH"
+      "address": {
+        "text": "AEROTECH",
+        "iso2": "GB",
+        "lat": 51.3134228,
+        "lon": -1.1512287
+      }
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA DE INGENIEROS DEL EJÉRCITO"
+      "address": {
+        "text": "ESCUELA DE INGENIEROS DEL EJÉRCITO",
+        "iso2": "UY",
+        "lat": -34.8498065,
+        "lon": -56.0371508
+      }
     },
     {
       "name": "CHILE",
-      "country": "CARABINEROS DE CHILE- PREFECTURA AEROPOLICIAL"
+      "address": {
+        "text": "CARABINEROS DE CHILE- PREFECTURA AEROPOLICIAL",
+        "iso2": "CL",
+        "lat": -33.4591569,
+        "lon": -70.5499841
+      }
     },
     {
       "name": "CHILE",
@@ -351,11 +511,21 @@
     },
     {
       "name": "CHILE",
-      "country": "AEROLINEAS AUSTRAL CHILE S.A."
+      "address": {
+        "text": "AEROLINEAS AUSTRAL CHILE S.A.",
+        "iso2": "CL",
+        "lat": -33.4373546,
+        "lon": -70.64191459999999
+      }
     },
     {
       "name": "CHILE",
-      "country": "IMPORTACIONES Y REPRESENTACIONES TRUSTLINE LTDA."
+      "address": {
+        "text": "IMPORTACIONES Y REPRESENTACIONES TRUSTLINE LTDA.",
+        "iso2": "CL",
+        "lat": -33.4392698,
+        "lon": -70.64760199999999
+      }
     },
     {
       "name": "CHILE",
@@ -367,7 +537,12 @@
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA NAVAL"
+      "address": {
+        "text": "ESCUELA NAVAL",
+        "iso2": "CL",
+        "lat": -33.0218312,
+        "lon": -71.637039
+      }
     },
     {
       "name": "CHILE",
@@ -375,23 +550,44 @@
     },
     {
       "name": "CHILE",
-      "country": "SERVICIO HIDROGRÁFICO Y OCEANOGRÁFICO DE LA ARMADA"
+      "address": {
+        "text": "SERVICIO HIDROGRÁFICO Y OCEANOGRÁFICO DE LA ARMADA",
+        "iso2": "CL",
+        "lat": -33.0277609,
+        "lon": -71.635195
+      }
     },
     {
       "name": "CHILE",
-      "country": "ARMADA DE CHILE"
+      "country": {
+        "text": "ARMADA DE CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "C Y M  S.A"
+      "address": {
+        "text": "C Y M  S.A",
+        "iso2": "ES",
+        "lat": 41.652462,
+        "lon": -4.728136800000001
+      }
     },
     {
       "name": "CHILE",
-      "country": "DGA / FRANCIA"
+      "country": {
+        "text": "DGA / FRANCIA",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CHILE",
-      "country": "VIMAN LTDA."
+      "address": {
+        "text": "VIMAN LTDA.",
+        "iso2": "BR",
+        "lat": -22.181722,
+        "lon": -47.388453
+      }
     },
     {
       "name": "CHILE",
@@ -399,7 +595,12 @@
     },
     {
       "name": "CHILE",
-      "country": "ACADEMIA POLITECNICA MILITAR"
+      "address": {
+        "text": "ACADEMIA POLITECNICA MILITAR",
+        "iso2": "CL",
+        "lat": -33.444849,
+        "lon": -70.536492
+      }
     },
     {
       "name": "CHILE",
@@ -407,27 +608,53 @@
     },
     {
       "name": "CHILE",
-      "country": "DTS LTDA. (DESARROLLO DE TECNOLOGIAS Y SISTEMAS LTDA)"
+      "address": {
+        "text": "DTS LTDA. (DESARROLLO DE TECNOLOGIAS Y SISTEMAS LTDA)",
+        "iso2": "CL",
+        "lat": -33.4751349,
+        "lon": -70.61921629999999
+      }
     },
     {
       "name": "CHILE",
-      "country": "EMPRESA NACIONAL DE AERONÁUTICA DE CHILE- ENAER-"
+      "country": {
+        "text": "EMPRESA NACIONAL DE AERONÁUTICA DE CHILE- ENAER-",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "MUTUALIDAD DEL EJÉRCITO Y AVIACIÓN"
+      "address": {
+        "text": "MUTUALIDAD DEL EJÉRCITO Y AVIACIÓN",
+        "iso2": "CL",
+        "lat": -33.4209295,
+        "lon": -70.6072423
+      }
     },
     {
       "name": "CHILE",
-      "country": "SOCIEDAD TECNOLÓGICA PTG CHILE LTDA."
+      "country": {
+        "text": "SOCIEDAD TECNOLÓGICA PTG CHILE LTDA.",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "ACADEMIA POLITECNICA AERONAUTICA"
+      "address": {
+        "text": "ACADEMIA POLITECNICA AERONAUTICA",
+        "iso2": "CL",
+        "lat": -33.5686463,
+        "lon": -70.6870014
+      }
     },
     {
       "name": "CHILE",
-      "country": "TARPULIN - INGENIERIA DE PROTECCION S.A."
+      "address": {
+        "text": "TARPULIN - INGENIERIA DE PROTECCION S.A.",
+        "iso2": "CL",
+        "lat": -33.4632538,
+        "lon": -70.7211961
+      }
     },
     {
       "name": "CHILE",
@@ -435,15 +662,30 @@
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA MILITAR"
+      "address": {
+        "text": "ESCUELA MILITAR",
+        "iso2": "CL",
+        "lat": -33.4116163,
+        "lon": -70.5829383
+      }
     },
     {
       "name": "CHILE",
-      "country": "ESCUELA DE SUBOFICIALES DEL EJÉRCITO"
+      "address": {
+        "text": "ESCUELA DE SUBOFICIALES DEL EJÉRCITO",
+        "iso2": "CL",
+        "lat": -33.4980984,
+        "lon": -70.8316198
+      }
     },
     {
       "name": "CHILE",
-      "country": "FABRICAS Y MAESTRANZAS DEL EJERCITO (FAMAE)"
+      "address": {
+        "text": "FABRICAS Y MAESTRANZAS DEL EJERCITO (FAMAE)",
+        "iso2": "CL",
+        "lat": -33.649342,
+        "lon": -70.930083
+      }
     },
     {
       "name": "CHILE",
@@ -451,15 +693,28 @@
     },
     {
       "name": "CHILE",
-      "country": "ACADEMIA DE GUERRA DEL EJÉRCITO"
+      "address": {
+        "text": "ACADEMIA DE GUERRA DEL EJÉRCITO",
+        "iso2": "CL",
+        "lat": -33.4446623,
+        "lon": -70.5363752
+      }
     },
     {
       "name": "CHILE",
-      "country": "LAN AIRPORT SERVICES S.A."
+      "address": {
+        "text": "LAN AIRPORT SERVICES S.A.",
+        "iso2": "US",
+        "lat": 42.7751086,
+        "lon": -84.5902134
+      }
     },
     {
       "name": "CHILE",
-      "country": "DIRECCIÓN GENERAL DE LOS SERVICIOS-ARMADA DE CHILE"
+      "country": {
+        "text": "DIRECCIÓN GENERAL DE LOS SERVICIOS-ARMADA DE CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
@@ -467,11 +722,19 @@
     },
     {
       "name": "CHILE",
-      "country": "MSA DE CHILE LTDA."
+      "country": {
+        "text": "MSA DE CHILE LTDA.",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "INSTITUTO DE INVESTIGACIONES Y CONTROL"
+      "address": {
+        "text": "INSTITUTO DE INVESTIGACIONES Y CONTROL",
+        "iso2": "CL",
+        "lat": -33.4737117,
+        "lon": -70.6630161
+      }
     },
     {
       "name": "CHILE",
@@ -479,11 +742,21 @@
     },
     {
       "name": "CHILE",
-      "country": "GRISOLIA Y CIA LTDA."
+      "address": {
+        "text": "GRISOLIA Y CIA LTDA.",
+        "iso2": "IT",
+        "lat": 39.7250588,
+        "lon": 15.854704
+      }
     },
     {
       "name": "CHILE",
-      "country": "SISDEF LTDA."
+      "address": {
+        "text": "SISDEF LTDA.",
+        "iso2": "CL",
+        "lat": -32.9137473,
+        "lon": -71.4924272
+      }
     },
     {
       "name": "CHILE",
@@ -507,11 +780,17 @@
     },
     {
       "name": "CHILE",
-      "country": "HELI TURBINAS CHILE"
+      "country": {
+        "text": "HELI TURBINAS CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "PLEXUS - CHILE"
+      "country": {
+        "text": "PLEXUS - CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
@@ -519,11 +798,19 @@
     },
     {
       "name": "CHILE",
-      "country": "GLIDEPATH LIMITED CHILE LTDA."
+      "country": {
+        "text": "GLIDEPATH LIMITED CHILE LTDA.",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CHILE",
-      "country": "WIENECKE CAMPING LTDA"
+      "address": {
+        "text": "WIENECKE CAMPING LTDA",
+        "iso2": "US",
+        "lat": 35.6149667,
+        "lon": -97.5816919
+      }
     },
     {
       "name": "COLOMBIA",
@@ -543,7 +830,12 @@
     },
     {
       "name": "COREA",
-      "country": "YEONHAB PRECISION CO.,  LTD."
+      "address": {
+        "text": "YEONHAB PRECISION CO.,  LTD.",
+        "iso2": "KR",
+        "lat": 36.747254,
+        "lon": 127.1681226
+      }
     },
     {
       "name": "COREA",
@@ -551,7 +843,10 @@
     },
     {
       "name": "COREA",
-      "country": "KDIA - KOREA DEFENSE INDUSTRY ASSOCIATION"
+      "country": {
+        "text": "KDIA - KOREA DEFENSE INDUSTRY ASSOCIATION",
+        "iso2": "KR"
+      }
     },
     {
       "name": "COREA",
@@ -579,7 +874,12 @@
     },
     {
       "name": "ESPAÑA",
-      "country": "GRUPO EDEFA S.A."
+      "address": {
+        "text": "GRUPO EDEFA S.A.",
+        "iso2": "ES",
+        "lat": 40.4415147,
+        "lon": -3.6713227
+      }
     },
     {
       "name": "ESPAÑA",
@@ -599,11 +899,21 @@
     },
     {
       "name": "ESPAÑA",
-      "country": "INSTITUTO NACIONAL DE TÉCNICA AEROSPACIAL (INTA)"
+      "address": {
+        "text": "INSTITUTO NACIONAL DE TÉCNICA AEROSPACIAL (INTA)",
+        "iso2": "ES",
+        "lat": 40.487452,
+        "lon": -3.4770981
+      }
     },
     {
       "name": "ESPAÑA",
-      "country": "PEMAC / CONSUEGRA"
+      "address": {
+        "text": "PEMAC / CONSUEGRA",
+        "iso2": "ES",
+        "lat": 39.4642436,
+        "lon": -3.609117
+      }
     },
     {
       "name": "ESPAÑA",
@@ -611,7 +921,12 @@
     },
     {
       "name": "ESPAÑA",
-      "country": "TURBAIR S.A."
+      "address": {
+        "text": "TURBAIR S.A.",
+        "iso2": "ES",
+        "lat": 40.44874799999999,
+        "lon": -3.458318
+      }
     },
     {
       "name": "ESPAÑA",
@@ -639,11 +954,21 @@
     },
     {
       "name": "ESPAÑA",
-      "country": "INSTALAZA S.A."
+      "address": {
+        "text": "INSTALAZA S.A.",
+        "iso2": "ES",
+        "lat": 41.6525622,
+        "lon": -0.8692327
+      }
     },
     {
       "name": "ESPAÑA",
-      "country": "ISDEFE , S.A. INGENERIA DE SISTEMAS PARA LA DEFENSA"
+      "address": {
+        "text": "ISDEFE , S.A. INGENERIA DE SISTEMAS PARA LA DEFENSA",
+        "iso2": "ES",
+        "lat": 40.4473427,
+        "lon": -3.7146268
+      }
     },
     {
       "name": "ESPAÑA",
@@ -659,7 +984,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "ACES SYSTEMS"
+      "address": {
+        "text": "ACES SYSTEMS",
+        "iso2": "US",
+        "lat": 35.9103423,
+        "lon": -84.14402249999999
+      }
     },
     {
       "name": "EE.UU.",
@@ -671,11 +1001,21 @@
     },
     {
       "name": "EE.UU.",
-      "country": "DERCO AEROSPACE INC."
+      "address": {
+        "text": "DERCO AEROSPACE INC.",
+        "iso2": "US",
+        "lat": 43.1658459,
+        "lon": -88.0104451
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "NIGHTLINE INC."
+      "address": {
+        "text": "NIGHTLINE INC.",
+        "iso2": "US",
+        "lat": 36.43801819999999,
+        "lon": -81.80018799999999
+      }
     },
     {
       "name": "EE.UU.",
@@ -695,7 +1035,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "DASSAULT FALCON JET CORP."
+      "address": {
+        "text": "DASSAULT FALCON JET CORP.",
+        "iso2": "US",
+        "lat": 40.8545188,
+        "lon": -74.0520095
+      }
     },
     {
       "name": "EE.UU.",
@@ -723,15 +1068,30 @@
     },
     {
       "name": "EE.UU.",
-      "country": "PREFERRED AVIATION, INC."
+      "address": {
+        "text": "PREFERRED AVIATION, INC.",
+        "iso2": "US",
+        "lat": 25.7902925,
+        "lon": -80.3290438
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "SIMPLEX MANUFACTURING"
+      "address": {
+        "text": "SIMPLEX MANUFACTURING",
+        "iso2": "US",
+        "lat": 42.9181624,
+        "lon": -76.584447
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "ARIZONA DEPARTMENT OF COMMERCE (International Trade Division)"
+      "address": {
+        "text": "ARIZONA DEPARTMENT OF COMMERCE (International Trade Division)",
+        "iso2": "US",
+        "lat": 34.0489281,
+        "lon": -111.0937311
+      }
     },
     {
       "name": "EE.UU.",
@@ -743,7 +1103,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "KILGORE FLARES COMPANY"
+      "address": {
+        "text": "KILGORE FLARES COMPANY",
+        "iso2": "US",
+        "lat": 35.3587303,
+        "lon": -88.9509201
+      }
     },
     {
       "name": "EE.UU.",
@@ -755,11 +1120,21 @@
     },
     {
       "name": "EE.UU.",
-      "country": "ARC AVIONICS, CORP."
+      "address": {
+        "text": "ARC AVIONICS, CORP.",
+        "iso2": "US",
+        "lat": 25.8078807,
+        "lon": -80.28565189999999
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "GREAT LAKE HELICOPTER"
+      "address": {
+        "text": "GREAT LAKE HELICOPTER",
+        "iso2": "CA",
+        "lat": 43.4455184,
+        "lon": -80.38847349999999
+      }
     },
     {
       "name": "EE.UU.",
@@ -767,7 +1142,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "NELL - JOY INDUSTRIES"
+      "address": {
+        "text": "NELL - JOY INDUSTRIES",
+        "iso2": "US",
+        "lat": 40.692367,
+        "lon": -73.4023038
+      }
     },
     {
       "name": "EE.UU.",
@@ -775,7 +1155,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "ITT AEROSPACE/DEFENSE COMMUNICATION"
+      "address": {
+        "text": "ITT AEROSPACE/DEFENSE COMMUNICATION",
+        "iso2": "US",
+        "lat": 34.448929,
+        "lon": -118.6272607
+      }
     },
     {
       "name": "EE.UU.",
@@ -787,7 +1172,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "BIZJET INTERNATIONAL"
+      "address": {
+        "text": "BIZJET INTERNATIONAL",
+        "iso2": "US",
+        "lat": 36.2043236,
+        "lon": -95.9041955
+      }
     },
     {
       "name": "EE.UU.",
@@ -795,11 +1185,21 @@
     },
     {
       "name": "EE.UU.",
-      "country": "SIMPLE GREEN"
+      "address": {
+        "text": "SIMPLE GREEN",
+        "iso2": "GB",
+        "lat": 51.0451219,
+        "lon": 0.0204856
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "TRUSPEC (By Atlanco)"
+      "address": {
+        "text": "TRUSPEC (By Atlanco)",
+        "iso2": "US",
+        "lat": 33.9778448,
+        "lon": -84.544152
+      }
     },
     {
       "name": "EE.UU.",
@@ -823,7 +1223,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "KALLMAN WORLDWIDE, INC."
+      "address": {
+        "text": "KALLMAN WORLDWIDE, INC.",
+        "iso2": "US",
+        "lat": 41.0175115,
+        "lon": -74.12310409999999
+      }
     },
     {
       "name": "EE.UU.",
@@ -847,7 +1252,12 @@
     },
     {
       "name": "EE.UU.",
-      "country": "DEVORE AVIATION CORP."
+      "address": {
+        "text": "DEVORE AVIATION CORP.",
+        "iso2": "US",
+        "lat": 35.1518786,
+        "lon": -106.5919947
+      }
     },
     {
       "name": "EE.UU.",
@@ -879,11 +1289,21 @@
     },
     {
       "name": "EE.UU.",
-      "country": "BECKER AVIATION"
+      "address": {
+        "text": "BECKER AVIATION",
+        "iso2": "US",
+        "lat": 42.091209,
+        "lon": -88.2396205
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "TRADE-A-PLANE"
+      "address": {
+        "text": "TRADE-A-PLANE",
+        "iso2": "US",
+        "lat": 35.947601,
+        "lon": -85.0294588
+      }
     },
     {
       "name": "EE.UU.",
@@ -891,31 +1311,64 @@
     },
     {
       "name": "EE.UU.",
-      "country": "ESCO (Engineering Arresting System Corporation)"
+      "address": {
+        "text": "ESCO (Engineering Arresting System Corporation)",
+        "iso2": "US",
+        "lat": 39.8387931,
+        "lon": -75.4274904
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "EMAS (Engineered Material Arresting System)"
+      "address": {
+        "text": "EMAS (Engineered Material Arresting System)",
+        "iso2": "GB",
+        "lat": 52.578605,
+        "lon": -1.20827
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "PACIFIC SKY SUPPLY, INC."
+      "address": {
+        "text": "PACIFIC SKY SUPPLY, INC.",
+        "iso2": "US",
+        "lat": 34.2206153,
+        "lon": -118.3700637
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "AEROSUP INTERNATIONAL"
+      "address": {
+        "text": "AEROSUP INTERNATIONAL",
+        "iso2": "MA",
+        "lat": 33.598759,
+        "lon": -7.638437
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "NIAGRA THERMAL PRODUCTS, LLC"
+      "address": {
+        "text": "NIAGRA THERMAL PRODUCTS, LLC",
+        "iso2": "US",
+        "lat": 43.117071,
+        "lon": -78.966984
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "US STATE DEPARTMENT / NASA"
+      "country": {
+        "text": "US STATE DEPARTMENT / NASA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "KELLSTROM INDUSTRIES, INC."
+      "address": {
+        "text": "KELLSTROM INDUSTRIES, INC.",
+        "iso2": "US",
+        "lat": 25.9732099,
+        "lon": -80.3093576
+      }
     },
     {
       "name": "EE.UU.",
@@ -923,11 +1376,21 @@
     },
     {
       "name": "EE.UU.",
-      "country": "FREEFLIGHT SYSTEMS"
+      "address": {
+        "text": "FREEFLIGHT SYSTEMS",
+        "iso2": "US",
+        "lat": 32.9159614,
+        "lon": -97.00415939999999
+      }
     },
     {
       "name": "EE.UU.",
-      "country": "ALL WEATHER, INC."
+      "address": {
+        "text": "ALL WEATHER, INC.",
+        "iso2": "US",
+        "lat": 38.6490147,
+        "lon": -121.4880711
+      }
     },
     {
       "name": "FINLANDIA",
@@ -935,7 +1398,12 @@
     },
     {
       "name": "FRANCIA",
-      "country": "SECAMIC"
+      "address": {
+        "text": "SECAMIC",
+        "iso2": "FR",
+        "lat": 48.7657557,
+        "lon": 2.1240616
+      }
     },
     {
       "name": "FRANCIA",
@@ -943,11 +1411,21 @@
     },
     {
       "name": "FRANCIA",
-      "country": "THALES AIR SYSTEMS DIVISION"
+      "address": {
+        "text": "THALES AIR SYSTEMS DIVISION",
+        "iso2": "FR",
+        "lat": 48.7505173,
+        "lon": 2.3537752
+      }
     },
     {
       "name": "FRANCIA",
-      "country": "ARMARIS"
+      "address": {
+        "text": "ARMARIS",
+        "iso2": "LT",
+        "lat": 55.6808776,
+        "lon": 21.1857541
+      }
     },
     {
       "name": "FRANCIA",
@@ -991,11 +1469,21 @@
     },
     {
       "name": "FRANCIA",
-      "country": "ONERA"
+      "address": {
+        "text": "ONERA",
+        "iso2": "FR",
+        "lat": 48.7151511,
+        "lon": 2.2329305
+      }
     },
     {
       "name": "FRANCIA",
-      "country": "INTERNATIONAL PARIS AIR SHOW - LE BOURGET-"
+      "address": {
+        "text": "INTERNATIONAL PARIS AIR SHOW - LE BOURGET-",
+        "iso2": "FR",
+        "lat": 48.936752,
+        "lon": 2.425377
+      }
     },
     {
       "name": "FRANCIA",
@@ -1019,7 +1507,12 @@
     },
     {
       "name": "FRANCIA",
-      "country": "THALES NAVAL"
+      "address": {
+        "text": "THALES NAVAL",
+        "iso2": "GB",
+        "lat": 51.5036706,
+        "lon": -2.5435925
+      }
     },
     {
       "name": "FRANCIA",
@@ -1027,11 +1520,21 @@
     },
     {
       "name": "GRECIA",
-      "country": "THEON SENSOR S.A."
+      "address": {
+        "text": "THEON SENSOR S.A.",
+        "iso2": "GR",
+        "lat": 37.9332068,
+        "lon": 23.875261
+      }
     },
     {
       "name": "GRECIA",
-      "country": "SONAK SYSTEMS AND SOFTWARE S.A."
+      "address": {
+        "text": "SONAK SYSTEMS AND SOFTWARE S.A.",
+        "iso2": "GR",
+        "lat": 37.8745498,
+        "lon": 23.9389871
+      }
     },
     {
       "name": "GRECIA",
@@ -1039,7 +1542,12 @@
     },
     {
       "name": "HOLANDA",
-      "country": "AAR AIRCRAFT COMPONENT SERVICES"
+      "address": {
+        "text": "AAR AIRCRAFT COMPONENT SERVICES",
+        "iso2": "NL",
+        "lat": 52.2949829,
+        "lon": 4.7157678
+      }
     },
     {
       "name": "HOLANDA",
@@ -1063,7 +1571,12 @@
     },
     {
       "name": "HOLANDA",
-      "country": "VEROLME ELEKTRA"
+      "address": {
+        "text": "VEROLME ELEKTRA",
+        "iso2": "NL",
+        "lat": 51.9254656,
+        "lon": 4.2464945
+      }
     },
     {
       "name": "HOLANDA",
@@ -1071,7 +1584,12 @@
     },
     {
       "name": "HOLANDA",
-      "country": "NAG - NETHERLAND AEROSPACE GROUP"
+      "address": {
+        "text": "NAG - NETHERLAND AEROSPACE GROUP",
+        "iso2": "NL",
+        "lat": 51.993323,
+        "lon": 4.385606999999999
+      }
     },
     {
       "name": "HOLANDA",
@@ -1115,7 +1633,12 @@
     },
     {
       "name": "ISRAEL",
-      "country": "B.A.T. BEIT ALFA TECHNOLOGIES."
+      "address": {
+        "text": "B.A.T. BEIT ALFA TECHNOLOGIES.",
+        "iso2": "IL",
+        "lat": 32.516357,
+        "lon": 35.430499
+      }
     },
     {
       "name": "ISRAEL",
@@ -1131,7 +1654,12 @@
     },
     {
       "name": "ISRAEL",
-      "country": "AZIMUTH TECHNOLOGIES LTD."
+      "address": {
+        "text": "AZIMUTH TECHNOLOGIES LTD.",
+        "iso2": "US",
+        "lat": 26.1529241,
+        "lon": -81.69185379999999
+      }
     },
     {
       "name": "ISRAEL",
@@ -1155,7 +1683,10 @@
     },
     {
       "name": "ISRAEL",
-      "country": "SIBAT - ISRAEL MINISTRY OF DEFENSE"
+      "country": {
+        "text": "SIBAT - ISRAEL MINISTRY OF DEFENSE",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ISRAEL",
@@ -1167,7 +1698,12 @@
     },
     {
       "name": "ITALIA",
-      "country": "CIRA - CENTRO ITALIANO RICERCHE AEROSPAZIALI"
+      "address": {
+        "text": "CIRA - CENTRO ITALIANO RICERCHE AEROSPAZIALI",
+        "iso2": "IT",
+        "lat": 41.1220512,
+        "lon": 14.1681871
+      }
     },
     {
       "name": "ITALIA",
@@ -1179,7 +1715,12 @@
     },
     {
       "name": "ITALIA",
-      "country": "EDICONSULT INTERNAZIONALE"
+      "address": {
+        "text": "EDICONSULT INTERNAZIONALE",
+        "iso2": "IT",
+        "lat": 44.4105856,
+        "lon": 8.934795099999999
+      }
     },
     {
       "name": "ITALIA",
@@ -1187,15 +1728,28 @@
     },
     {
       "name": "ITALIA",
-      "country": "PROGRES SRL."
+      "address": {
+        "text": "PROGRES SRL.",
+        "iso2": "RO",
+        "lat": 43.8382715,
+        "lon": 25.1419912
+      }
     },
     {
       "name": "ITALIA",
-      "country": "A.I.A.D. and  MoD ITALY"
+      "country": {
+        "text": "A.I.A.D. and  MoD ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ITALIA",
-      "country": "IDS INGEGNERIA DEI SISTEMI S.P.A."
+      "address": {
+        "text": "IDS INGEGNERIA DEI SISTEMI S.P.A.",
+        "iso2": "IT",
+        "lat": 43.6536833,
+        "lon": 10.4364561
+      }
     },
     {
       "name": "ITALIA",
@@ -1207,7 +1761,12 @@
     },
     {
       "name": "ITALIA",
-      "country": "CRISTANINI S.p.A."
+      "address": {
+        "text": "CRISTANINI S.p.A.",
+        "iso2": "IT",
+        "lat": 45.5746778,
+        "lon": 10.8020843
+      }
     },
     {
       "name": "ITALIA",
@@ -1231,7 +1790,12 @@
     },
     {
       "name": "ITALIA",
-      "country": "MOD ITALIAN MINISTRY OF DEFENSE"
+      "address": {
+        "text": "MOD ITALIAN MINISTRY OF DEFENSE",
+        "iso2": "IT",
+        "lat": 41.902724,
+        "lon": 12.4921083
+      }
     },
     {
       "name": "ITALIA",
@@ -1239,19 +1803,39 @@
     },
     {
       "name": "JAPON",
-      "country": "SJAC - The Society of Japanese Aerospace Companies"
+      "address": {
+        "text": "SJAC - The Society of Japanese Aerospace Companies",
+        "iso2": "JP",
+        "lat": 35.6725931,
+        "lon": 139.7399655
+      }
     },
     {
       "name": "MALASIA",
-      "country": "LE PROTON LIMA SDN  BHD"
+      "address": {
+        "text": "LE PROTON LIMA SDN  BHD",
+        "iso2": "PE",
+        "lat": -12.0463731,
+        "lon": -77.042754
+      }
     },
     {
       "name": "MÉXICO",
-      "country": "AMERICA VUELA- ESTRATEGIA AERONAUTICA E INDUSTRIAL S.A. DE C.V."
+      "address": {
+        "text": "AMERICA VUELA- ESTRATEGIA AERONAUTICA E INDUSTRIAL S.A. DE C.V.",
+        "iso2": "MX",
+        "lat": 19.3807529,
+        "lon": -99.17375039999999
+      }
     },
     {
       "name": "MÉXICO",
-      "country": "REVISTA ENTRELINEAS"
+      "address": {
+        "text": "REVISTA ENTRELINEAS",
+        "iso2": "CO",
+        "lat": 4.655732,
+        "lon": -74.06121
+      }
     },
     {
       "name": "MÉXICO",
@@ -1259,11 +1843,21 @@
     },
     {
       "name": "MÉXICO",
-      "country": "AEROPUERTOS Y SERVICIOS AUXILIARES (ASA)"
+      "address": {
+        "text": "AEROPUERTOS Y SERVICIOS AUXILIARES (ASA)",
+        "iso2": "MX",
+        "lat": 19.4466948,
+        "lon": -99.07207780000002
+      }
     },
     {
       "name": "NORUEGA",
-      "country": "JOTRON ELECTRONICS A.S."
+      "address": {
+        "text": "JOTRON ELECTRONICS A.S.",
+        "iso2": "GB",
+        "lat": 55.1005153,
+        "lon": -1.5969547
+      }
     },
     {
       "name": "NVA.ZELANDA",
@@ -1271,19 +1865,39 @@
     },
     {
       "name": "PERÚ",
-      "country": "SEMAN - PERU"
+      "address": {
+        "text": "SEMAN - PERU",
+        "iso2": "PE",
+        "lat": -12.1561777,
+        "lon": -77.0150124
+      }
     },
     {
       "name": "POLONIA",
-      "country": "POLISH AVIATION WORKS, PZL - SWIDNIK S.A."
+      "address": {
+        "text": "POLISH AVIATION WORKS, PZL - SWIDNIK S.A.",
+        "iso2": "PL",
+        "lat": 51.2168207,
+        "lon": 22.6914272
+      }
     },
     {
       "name": "POLONIA",
-      "country": "BUMAR sp. ZO. O."
+      "address": {
+        "text": "BUMAR sp. ZO. O.",
+        "iso2": "PL",
+        "lat": 52.2316562,
+        "lon": 20.9988489
+      }
     },
     {
       "name": "POLONIA",
-      "country": "POLSKIE ZAKLADY LOTNICZE Sp. - PZL MIELEC Co."
+      "address": {
+        "text": "POLSKIE ZAKLADY LOTNICZE Sp. - PZL MIELEC Co.",
+        "iso2": "PL",
+        "lat": 50.287063,
+        "lon": 21.4238101
+      }
     },
     {
       "name": "REINO UNIDO",
@@ -1299,19 +1913,39 @@
     },
     {
       "name": "REINO UNIDO",
-      "country": "SIGMA AEROSPACE LTD."
+      "address": {
+        "text": "SIGMA AEROSPACE LTD.",
+        "iso2": "AU",
+        "lat": -31.0855368,
+        "lon": 150.8477492
+      }
     },
     {
       "name": "REP.CHECA",
-      "country": "AERO VODOCHODY A.S."
+      "address": {
+        "text": "AERO VODOCHODY A.S.",
+        "iso2": "CZ",
+        "lat": 50.20626859999999,
+        "lon": 14.3987845
+      }
     },
     {
       "name": "REP.CHECA",
-      "country": "ZEPHYR, s.r.o."
+      "address": {
+        "text": "ZEPHYR, s.r.o.",
+        "iso2": "CZ",
+        "lat": 50.05942599999999,
+        "lon": 14.429248
+      }
     },
     {
       "name": "REP.CHECA",
-      "country": "KROKO A.S."
+      "address": {
+        "text": "KROKO A.S.",
+        "iso2": "BE",
+        "lat": 50.79083199999999,
+        "lon": 3.292463
+      }
     },
     {
       "name": "REP.CHECA",
@@ -1319,7 +1953,12 @@
     },
     {
       "name": "REP.CHECA",
-      "country": "RAMET C.H.M. a.s."
+      "address": {
+        "text": "RAMET C.H.M. a.s.",
+        "iso2": "RO",
+        "lat": 46.3150623,
+        "lon": 23.5300416
+      }
     },
     {
       "name": "REP.CHECA",
@@ -1335,11 +1974,19 @@
     },
     {
       "name": "REP.CHECA",
-      "country": "MINISTERIO DE INDUSTRIA Y COMERCIO DE LA REPUBLICA CHECA"
+      "country": {
+        "text": "MINISTERIO DE INDUSTRIA Y COMERCIO DE LA REPUBLICA CHECA",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "REP.CHECA",
-      "country": "PAMCO INT a.s."
+      "address": {
+        "text": "PAMCO INT a.s.",
+        "iso2": "CZ",
+        "lat": 50.0429133,
+        "lon": 14.4391102
+      }
     },
     {
       "name": "REP.CHECA",
@@ -1355,15 +2002,28 @@
     },
     {
       "name": "REP.CHECA",
-      "country": "MORAS   S.R.O."
+      "address": {
+        "text": "MORAS   S.R.O.",
+        "iso2": "SK",
+        "lat": 48.3848269,
+        "lon": 18.3994418
+      }
     },
     {
       "name": "REP.CHINA",
-      "country": "CHINA NATIONAL SPACE AGENCY"
+      "country": {
+        "text": "CHINA NATIONAL SPACE AGENCY",
+        "iso2": "CN"
+      }
     },
     {
       "name": "REP.CHINA",
-      "country": "AIRSHOW CHINA (Zhuhai Airshow Co., Ltd)"
+      "address": {
+        "text": "AIRSHOW CHINA (Zhuhai Airshow Co., Ltd)",
+        "iso2": "CN",
+        "lat": 22.246823,
+        "lon": 113.5897376
+      }
     },
     {
       "name": "RUSIA",
@@ -1395,7 +2055,12 @@
     },
     {
       "name": "RUSIA",
-      "country": "KAZAN HELICOPTERS JSC"
+      "address": {
+        "text": "KAZAN HELICOPTERS JSC",
+        "iso2": "RU",
+        "lat": 55.7878944,
+        "lon": 49.12332929999999
+      }
     },
     {
       "name": "RUSIA",
@@ -1411,7 +2076,12 @@
     },
     {
       "name": "RUSIA",
-      "country": "KRONSHTADT"
+      "address": {
+        "text": "KRONSHTADT",
+        "iso2": "RU",
+        "lat": 59.9959303,
+        "lon": 29.7655452
+      }
     },
     {
       "name": "RUSIA",
@@ -1419,7 +2089,12 @@
     },
     {
       "name": "RUSIA",
-      "country": "JSC, ULAN - UDE AVIATION PLANT"
+      "address": {
+        "text": "JSC, ULAN - UDE AVIATION PLANT",
+        "iso2": "RU",
+        "lat": 51.8335896,
+        "lon": 107.5840434
+      }
     },
     {
       "name": "RUSIA",
@@ -1463,7 +2138,12 @@
     },
     {
       "name": "SUECIA",
-      "country": "ERICSSON MICROWAVE SYSTEMS AB/ ERICSSON CHILE S.A"
+      "address": {
+        "text": "ERICSSON MICROWAVE SYSTEMS AB/ ERICSSON CHILE S.A",
+        "iso2": "CL",
+        "lat": -33.4111595,
+        "lon": -70.6022796
+      }
     },
     {
       "name": "SUECIA",
@@ -1483,19 +2163,37 @@
     },
     {
       "name": "SUIZA",
-      "country": "VECTRONIX A.G."
+      "address": {
+        "text": "VECTRONIX A.G.",
+        "iso2": "CH",
+        "lat": 47.4094187,
+        "lon": 9.6207078
+      }
     },
     {
       "name": "TURQUIA",
-      "country": "TUYAP FAIRS and EXHIBITIONS INC."
+      "address": {
+        "text": "TUYAP FAIRS and EXHIBITIONS INC.",
+        "iso2": "US",
+        "lat": 29.7389218,
+        "lon": -95.40086339999999
+      }
     },
     {
       "name": "TURQUIA",
-      "country": "TURKISH ARMED FORCES SUPPORT FOUNDATION"
+      "country": {
+        "text": "TURKISH ARMED FORCES SUPPORT FOUNDATION",
+        "iso2": "TR"
+      }
     },
     {
       "name": "TURQUIA",
-      "country": "TAI INC"
+      "address": {
+        "text": "TAI INC",
+        "iso2": "US",
+        "lat": 40.2294726,
+        "lon": -74.9369323
+      }
     },
     {
       "name": "TURQUIA",
@@ -1519,7 +2217,12 @@
     },
     {
       "name": "UCRANIA",
-      "country": "STATE ENTERPRISE KYIV AVIATION PLANT AVIANT"
+      "address": {
+        "text": "STATE ENTERPRISE KYIV AVIATION PLANT AVIANT",
+        "iso2": "UA",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
     },
     {
       "name": "UCRANIA",
@@ -1539,7 +2242,12 @@
     },
     {
       "name": "UCRANIA",
-      "country": "KHARKOV STATE AIRCRAFT MANUFACTURING COMPANY"
+      "address": {
+        "text": "KHARKOV STATE AIRCRAFT MANUFACTURING COMPANY",
+        "iso2": "UA",
+        "lat": 50.0257732,
+        "lon": 36.2583158
+      }
     },
     {
       "name": "UCRANIA",
@@ -1547,11 +2255,21 @@
     },
     {
       "name": "UCRANIA",
-      "country": "AVIAKON, KONOTOP AIRCRAFT REPAIR PLANT"
+      "address": {
+        "text": "AVIAKON, KONOTOP AIRCRAFT REPAIR PLANT",
+        "iso2": "UA",
+        "lat": 51.2391836,
+        "lon": 33.159304
+      }
     },
     {
       "name": "UCRANIA",
-      "country": "YUZHNOYE STATE DESIGN OFFICE"
+      "address": {
+        "text": "YUZHNOYE STATE DESIGN OFFICE",
+        "iso2": "GB",
+        "lat": 53.0929964,
+        "lon": -2.4398122
+      }
     },
     {
       "name": "URUGUAY",

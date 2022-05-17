@@ -5,7 +5,12 @@
   "alias": "IFSEC SEA",
   "startDate": "2017-09-06",
   "endDate": "2017-09-08",
-  "address": "Kuala Lumpur Convention Centre\nKuala Lumpur",
+  "address": {
+    "text": "Kuala Lumpur Convention Centre\nKuala Lumpur",
+    "iso2": "MY",
+    "lat": 3.153003,
+    "lon": 101.7128272
+  },
   "website": "http://www.ifsec.events/sea/",
   "organiser": [
     {
@@ -32,7 +37,10 @@
   "exhibitor": [
     {
       "name": "A.F.S. SECURITY & AUTOMATION SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Access Control System",
         "Alarm System",
@@ -87,15 +95,24 @@
     },
     {
       "name": "AAC DISTRIBUTION SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ALARM & AUTOMATION SUPPLIES (M) SDN BHD (AASMSB)",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ALC-TECH (M) SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Access Control System",
         "Alarm System",
@@ -122,7 +139,10 @@
     },
     {
       "name": "ALSTRON (SINGAPORE) PTE LTD",
-      "country": "Singapore",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      },
       "category": [
         "Control Panel / Equipment",
         "Data Transmission Systems",
@@ -139,19 +159,31 @@
     },
     {
       "name": "ARCHTRON RESEARCH & DEVELOPMENT SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "BSIA - BRITISH SECURITY INDUSTRY ASSOCIATION",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "CMC SOLUTIONS (M) SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "COMNET",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "category": [
         "Access Control System",
         "Cable Transmission System",
@@ -175,27 +207,45 @@
     },
     {
       "name": "COMPETITION ELECTRONIC (ZHUHAI) CO., LTD.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "DAHUA TECHNOLOGY",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "DCE DISTRIBUTION SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "DOTCOM DISTRIBUTION SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ELID SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "ENTRASYS SECURITY SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Auto Gate, Parking Barrier",
         "Automatic Gate System",
@@ -204,15 +254,24 @@
     },
     {
       "name": "ENTRYPASS CORPORATION SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "FALCON SAFE MARKETING SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "GOLMAR SISTEMAS DE COMUNICACION SA",
-      "country": "Spain",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      },
       "category": [
         "Access Control System",
         "Audio Video Door Entry System"
@@ -220,15 +279,24 @@
     },
     {
       "name": "GRAND ADVANCE TECHNOLOGY SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "GUANGDONG ANJUBAO DIGITAL TECHNOLOGY CO., LTD",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "HOMESCENARIO, INC.",
-      "country": "Taiwan",
+      "country": {
+        "text": "Taiwan",
+        "iso2": "TW"
+      },
       "category": [
         "Access Control System",
         "Alarm System",
@@ -242,11 +310,17 @@
     },
     {
       "name": "INDELFE SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "INTEGRATED CHOICE SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "CCTV Camera / Lenses / Monitor",
         "CCTV Equipment",
@@ -264,18 +338,27 @@
     },
     {
       "name": "JANTECH TECHNOLOGY SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "JIANGMEN TODAAIR ELECTRONIC CO., LTD",
-      "country": "China",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      },
       "category": [
         "Wireless Transmission Equipment"
       ]
     },
     {
       "name": "JVA INTEGRATED (M) SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Alarm System",
         "Automatic Gate System",
@@ -288,31 +371,52 @@
     },
     {
       "name": "MAGNETIC CONTROL SYSTEMS SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "MAKIM MAKINA TEKNOLOJILERI SAN. TIC. A.S",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "MICROENGINE TECHNOLOGY SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "NABLE COMMUNICATIONS, INC.",
-      "country": "South Korea"
+      "country": {
+        "text": "South Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "NEMTEK (PTY) LTD",
-      "country": "South Africa"
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "NETREGY SYSTEMS SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "NEWICT MARKETING (M) SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Access Control System",
         "Automatic Fire Detectors",
@@ -324,7 +428,10 @@
     },
     {
       "name": "NICHIBOU CO., LTD.",
-      "country": "Japan",
+      "country": {
+        "text": "Japan",
+        "iso2": "JP"
+      },
       "category": [
         "Fire Detectors",
         "Fire Protection"
@@ -332,7 +439,10 @@
     },
     {
       "name": "NOCTURNA LTD.",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "category": [
         "Infrared Systems",
         "Perimeter Protection Systems",
@@ -341,11 +451,17 @@
     },
     {
       "name": "ON AUTOMATION S.R.L.",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "OZAK ACCESS TECHNOLOGIES INC.",
-      "country": "Turkey",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
       "category": [
         "Access Control System",
         "Perimeter Protection Systems"
@@ -353,7 +469,10 @@
     },
     {
       "name": "QOGNIFY PTE LTD",
-      "country": "Singapore",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      },
       "category": [
         "Integrated Security System",
         "Perimeter Protection Systems",
@@ -363,23 +482,38 @@
     },
     {
       "name": "SEAGATE",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "SHENZHEN FANHAI SANJIANG ELECTRONICS CO.,LTD.",
-      "country": "China"
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SILICON ELECTRONICS SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "SMARTSTRIPE MARKETING SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "SORHEA",
-      "country": "France",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "category": [
         "Access Control System",
         "Anti-Intruder Security Systems",
@@ -393,11 +527,17 @@
     },
     {
       "name": "SPECTRA MOON SDN BHD",
-      "country": "Malaysia"
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
     },
     {
       "name": "STARCOM ASIA SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Card Access",
         "CCTV Equipment",
@@ -406,7 +546,10 @@
     },
     {
       "name": "STRATEL (M) SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Alarm System",
         "Alarm Warning Devices",
@@ -453,11 +596,17 @@
     },
     {
       "name": "TIL TECHNOLOGIES",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "TIMETEC COMPUTING SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Audio Video Door Entry System",
         "Biometrics Access Control for Office, Factory, Banks and Homes",
@@ -471,15 +620,24 @@
     },
     {
       "name": "UNION LIGHT CO., LTD.",
-      "country": "South Korea"
+      "country": {
+        "text": "South Korea",
+        "iso2": "KR"
+      }
     },
     {
       "name": "VIDEX ELECTRONICS S.P.A.",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ZETTABITS TECHNOLOGIES (M) SDN BHD",
-      "country": "Malaysia",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      },
       "category": [
         "Alarm System",
         "Guard Tour System",

@@ -5,7 +5,12 @@
   "edition": "2007",
   "startDate": "2007-05-02",
   "endDate": "2007-05-04",
-  "address": "Brno Exhibition Centre\nBrno\nCzech Republic",
+  "address": {
+    "text": "Brno Exhibition Centre\nBrno\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 49.18773119999999,
+    "lon": 16.5822054
+  },
   "website": "http://www.bvv.cz/idet-gb",
   "organiser": [
     {

@@ -5,8 +5,13 @@
   "edition": "2013",
   "startDate": "2013-12-10",
   "endDate": "2013-12-12",
-  "address": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
-  "website": "https://www.gulfdefense.com/",
+  "address": {
+    "text": "Kuwait International Fair\n6th Ring Road Motor-highway\nMishref\nKuwait",
+    "iso2": "KW",
+    "lat": 29.2660313,
+    "lon": 47.8625634
+  },
+  "website": "https://www.gulfdefense.com",
   "organiser": [
     {
       "name": "Kuwait Int'l Fair"
@@ -21,343 +26,598 @@
   "exhibitor": [
     {
       "name": "General Dynamics European Land Systems",
-      "country": "Austria"
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
     },
     {
       "name": "Arsenal 2000 JSCo.",
-      "country": "Bulgaria"
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      }
     },
     {
       "name": "DND Canadian Army",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "General Dynamics Land Systems",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Rheinmetall Canada Inc.",
-      "country": "Canada"
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
     },
     {
       "name": "Acmat",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "MBDA",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NEXTER Mechanics",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "NEXTER Munitions",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Nexter Systems",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Panhard",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Renault Trucks Defence",
-      "country": "France"
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Bruker Daltonik GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Eurofighter Jagdflugzeug GmbH",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Fr. Luerssen Werft GmbH & Co. KG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "Steinbach AG",
-      "country": "Germany"
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MKU Pvt. Ltd.",
-      "country": "India"
+      "country": {
+        "text": "India",
+        "iso2": "IN"
+      }
     },
     {
       "name": "Alenia Aermacchi SpA",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Iveco",
-      "country": "Italy"
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "Global Trading Consultancy",
-      "country": "Jordan"
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
     },
     {
       "name": "TNT Productions Kazakhstan",
-      "country": "Kazakhstan"
+      "country": {
+        "text": "Kazakhstan",
+        "iso2": "KZ"
+      }
     },
     {
       "name": "Al Gannas Gulf for Trading",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Al-Sada General Trading",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Bader Sultan & Brothers Co. W.L.L.",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Brazilian Embassy in Kuwait",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Embassy of Italy in Al Kuwait",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Fouad Alghanim & Sons Group",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Gulf Integrated Security Solutions",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "International Consulting Group",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Aerospace Technologies",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait International Fair - KIF",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Ministry of Defense",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Ministry of Interior",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait National Guard",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Kuwait Ship Technology",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Logistics Systems Co. W.L.L.",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "National Offset Company",
-      "country": "Kuwait"
+      "country": {
+        "text": "Kuwait",
+        "iso2": "KW"
+      }
     },
     {
       "name": "Al Defaiya Magazine",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Bardawil G Systems Limited",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Defence 21",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Security & Defense Arabia Magazine",
-      "country": "Lebanon"
+      "country": {
+        "text": "Lebanon",
+        "iso2": "LB"
+      }
     },
     {
       "name": "Kongsberg Defence & Aerospace",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "Nammo",
-      "country": "Norway"
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
     },
     {
       "name": "ADINA S.R.L.",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "CN Romtehnica S.A. .",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "Criabo Defense & Security",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "FHF Special Containers",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "PATROMIL",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "Romaero S.A.",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "ROMARM National Company",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "S.C. Electromecanica Ploiesti S.A.",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "TNT Productions Romania S.R.L.",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "Uzina Mecanica Mija",
-      "country": "Romania"
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
     },
     {
       "name": "Astilleros Gondan",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "European Security Fencing",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ITP In Service Support",
-      "country": "Spain"
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
     },
     {
       "name": "SAAB AB",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "VOLVO Defense",
-      "country": "Sweden"
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
     },
     {
       "name": "Ruag Ammotec AG",
-      "country": "Switzerland"
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
     },
     {
       "name": "Chaiseri Metal & Rubber Co., Ltd.",
-      "country": "Thailand"
+      "country": {
+        "text": "Thailand",
+        "iso2": "TH"
+      }
     },
     {
       "name": "Damen Shipyards Gorinchem",
-      "country": "The Netherlands"
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
     },
     {
       "name": "FNSS Savunma Sistemleri A.S.",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "STM Savunma Teknolojileri Mühendislik",
-      "country": "Turkey"
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Abu Dhabi Ship Building",
-      "country": "United Arab Emirates"
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      }
     },
     {
       "name": "Alford Technologies",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Arab Defence Journal",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Arabian Aerospace Magazine",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Babcock International Group",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Miro Technologies",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Advanced Defence Systems (ADS)",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Armalite / Strategic Armory Corps",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Bell Helicopter",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Boeing",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Columbia Helicopters",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Defense Technology Equipment Inc.",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Atomics",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Dynamics Land Systems",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "General Dynamics OTS",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Lockheed Martin Corporation",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Oshkosh Defense",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Raytheon",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Raytheon IDS",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Sikorsky Aircraft Corporation",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "Small Arms Defense Journal",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     },
     {
       "name": "U.S. Embassy in Kuwait",
-      "country": "United States of America"
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      }
     }
   ]
 }

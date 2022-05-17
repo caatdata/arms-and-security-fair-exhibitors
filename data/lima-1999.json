@@ -5,8 +5,11 @@
   "edition": "1999",
   "startDate": "1999-11-30",
   "endDate": "1999-12-05",
-  "address": [
-    "Langkawi\nMalaysia"
-  ],
+  "address": {
+    "text": "Langkawi\nMalaysia",
+    "iso2": "MY",
+    "lat": 6.35,
+    "lon": 99.8
+  },
   "website": "https://boeing.mediaroom.com/1999-11-17-Boeing-To-Be-Well-Represented-At-Lima-99"
 }

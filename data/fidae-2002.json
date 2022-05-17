@@ -5,318 +5,554 @@
   "alias": "Feria Internacional del Aire y del Espacio",
   "startDate": "2002-04-01",
   "endDate": "2002-04-07",
-  "address": "Av. Pedro Aguirre Cerda 5.500 Los Cerrillos\nSantiago\nChile",
+  "address": {
+    "text": "Av. Pedro Aguirre Cerda 5.500 Los Cerrillos\nSantiago\nChile",
+    "iso2": "CL",
+    "lat": -33.4902545,
+    "lon": -70.7013764
+  },
   "website": "http://www.fidaegroup.cl/fidae-2002",
   "exhibitorListUrl": "http://www.fidae.cl/ingles/html/solos/listado_expo.html",
   "exhibitorListDate": "2022-04-01T11:58:04+00:00",
   "exhibitor": [
     {
       "name": "AEROPUERTOS ARGENTINA 2000 S.A.",
-      "country": "ARGENTINA"
+      "country": {
+        "text": "ARGENTINA",
+        "iso2": "AR"
+      }
     },
     {
       "name": "HELICENTER S.A.",
-      "country": "ARGENTINA"
+      "country": {
+        "text": "ARGENTINA",
+        "iso2": "AR"
+      }
     },
     {
       "name": "REVISTA ALAS",
-      "country": "ARGENTINA"
+      "country": {
+        "text": "ARGENTINA",
+        "iso2": "AR"
+      }
     },
     {
       "name": "GLOCK",
-      "country": "AUSTRIA"
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
     },
     {
       "name": "ADB NV",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "FN HERSTAL, S.A.",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "OIP SENSOR SYSTEMS",
-      "country": "BELGIUM"
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
     },
     {
       "name": "AGS AEROHOSES IND. AERONAUTICA, COM. E REPRESENTACOES LTDA.",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "ATECH- FUNDAÇAO APLICAÇAO DE TECNOLOGIAS CRITICAS",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "EMBRAER - EMPRESA BRASILEIRA DE AERONAUTICA S.A.",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LAD 2003 - LATIN AMERICA DEFENTECH",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "LIDER SIGNATURE SA",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "PROJETO JAHÚ",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "RECOMINTE REPRESENTAÇAO e COMERCIO INTERNATIONAL LTDA.",
-      "country": "BRAZIL"
+      "country": {
+        "text": "BRAZIL",
+        "iso2": "BR"
+      }
     },
     {
       "name": "BOMBARDIER AEROSPACE",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "CANADIAN AIR FORCE (CATP)",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "SPAR AEROSPACE LIMITED",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "STANDARD AERO",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "WESCAM",
-      "country": "CANADA"
+      "country": {
+        "text": "CANADA",
+        "iso2": "CA"
+      }
     },
     {
       "name": "ACADEMIA POLITECNICA AERONAUTICA",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "ADEXUS",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "AGENCIA CHILENA DEL ESPACIO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "AIR SEA LAND LTDA.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "AMERICAN AVIONICS & ACCESSORIES LTDA.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "AUSTRIA",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CARABINEROS DE CHILE - PREFECTURA AEROPOLICIAL",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CK  EQUIPAMIENTOS AERONAUTICOS",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "COMPLEJO QUIMICO E INDUSTRIAL DEL EJERCITO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "CURIOSIDADES GEOMETRICAS",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "DIRECCION GENERAL DE AERONAUTICA CIVIL",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "DTS LTDA. (DESARROLLO DE TECNOLOGIAS Y SISTEMAS LTDA)",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "EAGLE COPTERS SOUTH AMERICA S.A.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "EDITORIAL TELEVISA",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "ENAER",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "ESCUELA DE AVIACION",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "ESTACION DE CONTROL SATELITAL",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "EUROCOPTER CHILE S.A.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FABRICAS Y MAESTRANZAS DEL EJERCITO (FAMAE)",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FUERZA AEREA DE CHILE - ESCUELA DE ESPECIALIDADES",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "FUNDACION PLANETARIO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "INSTITUTO DE INVESTIGACIONES Y CONTROL DEL EJERCITO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "INSTITUTO GEOGRAFICO MILITAR",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "KIPREOS - HELICOPTEROS DEL PACIFICO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "LANCHILE S.A.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "MINISTERIO DE DEFENSA NACIONAL C.E.C.O.P.A.C.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "POLICIA DE INVESTIGACIONES DE CHILE",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "SERVICIO AEROFOTOGRAMETRICO",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "SERVICIO DE BUSQUEDA Y SALVAMENTO AEREO (SAR)",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "SISDEF LTDA.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "THE DASH GROUP CHILE LTDA.",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "UNISYS CORPORATION",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "WIENECKE / IMCHISA",
-      "country": "CHILE"
+      "country": {
+        "text": "CHILE",
+        "iso2": "CL"
+      }
     },
     {
       "name": "AERO TRADE a.s.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AERO VODOCHODY a.s.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AIRCRAFT REPAIR WORKS KBELY",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "CESKA ZBROJOVKA, A.S.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "LZ AERONAUTICAL INDUSTRIES INC.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "MIKROTECHNA PRAHA A.S.",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "MINISTERIO DE INDUSTRIA Y COMERCIO",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "SELLIER AND BELLOT  JSC",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "TRANSCON",
-      "country": "CZECH REPUBLIC"
+      "country": {
+        "text": "CZECH REPUBLIC",
+        "iso2": "CZ"
+      }
     },
     {
       "name": "AFARMADE",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "AMPER PROGRAMAS S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "AVION REVUE",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "EADS CASA",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "EXPLOSIVOS ALAVESES, S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GENERAL DYNAMICS SANTA BÁRBARA SISTEMAS.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GRUPO EDEFA S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GRUPO ITP",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "GRUPO TECNOBIT",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INDRA",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INSTALAZA S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "INSTITUTO NACIONAL DE TÉCNICA AEROSPACIAL (INTA)",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "ISDEFE , S.A. INGENERIA DE SISTEMAS PARA LA DEFENSA.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "IZAR",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "PARAFLY, S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "RODMAN POLYSHIPS, S.A.",
-      "country": "ESPAÑA"
+      "country": {
+        "text": "ESPAÑA",
+        "iso2": "ES"
+      }
     },
     {
       "name": "MBDA",
@@ -324,583 +560,1018 @@
     },
     {
       "name": "VAISALA  OYJ",
-      "country": "FINLAND"
+      "country": {
+        "text": "FINLAND",
+        "iso2": "FI"
+      }
     },
     {
       "name": "ACC EVENTS C/O ZEBRA3",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AERAZUR",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "AIRBUS",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "ASTRIUM",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CNES  (CENTRE NATIONAL D`ETUDES SPATIALES - FRANCIA)",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CSV INTERNATIONAL",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "DASSAULT AVIATION",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "EADS SOCATA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SAGEM SA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "SNECMA",
-      "country": "FRANCE"
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
     },
     {
       "name": "CCO CREATIVE CONSULTING GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "DIEHL REMSCHEID GMBH & CO.",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "GLS - GESELLSCHAFT FUR LOGISTISCHEN SERVICE MBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "LITEF GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "MTU MAINTENANCE",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "RHEINMETALL W&M GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ROHDE & SCHWARZ INTERNATIONAL GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ZEISS OPTRONIK GMBH",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "ZF FRIEDRICHSHAFEN AG",
-      "country": "GERMANY"
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
     },
     {
       "name": "B.A.T. BEIT ALFA TRAILER CO.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ECTEL LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELBIT SYSTEMS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELISRA GROUP",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ELOP, ELECTROOPTICS INDUSTRIES LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ISRAEL AIRCRAFT INDUSTRIES LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "ISRAEL MILITARY INDUSTRIES LTD. (I.M.I.)",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "NICE SYSTEMS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "PLASAN SASA",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RABINTEX",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "RAFAEL - Armament Development Authority Ltd.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "SIBAT - ISRAEL MINISTRY OF DEFENCE",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "TADIRAN COMMUNICATIONS LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "TOP I VISION LTD.",
-      "country": "ISRAEL"
+      "country": {
+        "text": "ISRAEL",
+        "iso2": "IL"
+      }
     },
     {
       "name": "AGUSTAWESTLAND",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "A.I.A.D. and  MoD ITALY",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "ALENIA AERONAUTICA S.A.",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AMS (ALENIA MARCONI SYSTEMS)",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "GALILEO AVIONICA",
-      "country": "ITALY"
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
     },
     {
       "name": "AMERICA VUELA",
-      "country": "MEXICO"
+      "country": {
+        "text": "MEXICO",
+        "iso2": "MX"
+      }
     },
     {
       "name": "AIR NEW ZEALAND ENGINEERING SERVICES",
-      "country": "NEW ZEALAND"
+      "country": {
+        "text": "NEW ZEALAND",
+        "iso2": "NZ"
+      }
     },
     {
       "name": "CHINA NATIONAL PRECISION MACHINERY I/E CORPORATION",
-      "country": "PEOPLE´S REPUBLIC OF CHINA"
+      "country": {
+        "text": "PEOPLE´S REPUBLIC OF CHINA",
+        "iso2": "CN"
+      }
     },
     {
       "name": "SEMAN - PERU",
-      "country": "PERU"
+      "country": {
+        "text": "PERU",
+        "iso2": "PE"
+      }
     },
     {
       "name": "O.G.M.A - INDUSTRIA AERONAUTICA DE PORTUGAL, S.A.",
-      "country": "PORTUGAL"
+      "country": {
+        "text": "PORTUGAL",
+        "iso2": "PT"
+      }
     },
     {
       "name": "ANTEY  INDUSTRIAL CONCERN",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "AVIAZAPCHAST PLC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "CONCERN IZHMASH OJSC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "FEDERAL STATE UNITARY ENTERPRISE KONSTRUKTORSKOYE BYURO MASHYNOSTROYENIYA",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "JSC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "JSC, ULAN - UDE AVIATION PLANT",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "KAZAN HELICOPTERS JSC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "KNAAPO",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MIG RUSSIAN AIRCRAFT CORPORATION - MIG CORPORATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "MIL MOSCOW HELICOPTERS PLANT JSC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "NPO MASHINOSTROYENIA - FEDERAL STATE UNITARY ENTERPRISE - FEDERAL SCIENTIFIC AND PRODUCTION CENTRE",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "RA INTERVESTNIK PUBLISHING HOUSE",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ROSOBORONEXPORT STATES CORPORATION",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "ROSTVERTOL PLC",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SALUT",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "SUKHOI",
-      "country": "RUSSIA"
+      "country": {
+        "text": "RUSSIA",
+        "iso2": "RU"
+      }
     },
     {
       "name": "STRATECH SYSTEMS LIMITED",
-      "country": "SINGAPORE"
+      "country": {
+        "text": "SINGAPORE",
+        "iso2": "SG"
+      }
     },
     {
       "name": "ARMSCOR",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "AVITRONICS",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DENEL (PTY) LTD",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "DOVER SYSTEMS: COMPUTERISED SKILLS ASSESSMENTS",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "IVEMA",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "KENTRON (DYNAMICS) DIVISION OF DENEL",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "LIW (NADS) DIVISION OF DENEL",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "NGA (NEW GENERATION AMMUNITION)",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "PMP DIVISION OF DENEL",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "RED-I LASER",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "TELLUMAT (PTY) LTD.",
-      "country": "SOUTH AFRICA"
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "ERICSSON MICROWAVE SYSTEMS AB",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "SAAB AB",
-      "country": "SWEDEN"
+      "country": {
+        "text": "SWEDEN",
+        "iso2": "SE"
+      }
     },
     {
       "name": "OERLIKON CONTRAVES AG",
-      "country": "SWITZERLAND"
+      "country": {
+        "text": "SWITZERLAND",
+        "iso2": "CH"
+      }
     },
     {
       "name": "EUROPEAN AERONAUTIC DEFENCE AND SPACE COMPANY - EADS N.V.",
-      "country": "THE NETHERLANDS"
+      "country": {
+        "text": "THE NETHERLANDS",
+        "iso2": "NL"
+      }
     },
     {
       "name": "AIR TRANSPORT INTELLIGENCE",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "BAE SYSTEMS, AVIONICS GROUP",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ETPS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FARNBOROUGH INTERNATIONAL 2002",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "FLIGHT INTERNATIONAL",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "NBC, UK",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "SPEARHEAD EXHIBITION LTD.",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "THALES OPTRONICS (VINTEN) LTD.",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "UK MOD - DEFENCE EXPORT SERVICES ORGANISATION",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "WALLOP DEFENCE SYSTEMS",
-      "country": "UNITED KINGDOM"
+      "country": {
+        "text": "UNITED KINGDOM",
+        "iso2": "GB"
+      }
     },
     {
       "name": "ACSS, AN L-3 COMM & THALES CO.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AMAZON TECH - AMAZON TECHNOLOGIES COMPANY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ARMED FORCES JOURNAL INTERNATIONAL",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ATK THIOKOL PROPULSION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATION SIMULATION TECHNOLOGY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATION WEEK  GROUP",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "AVIATION WORLD`S FAIR 2003",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BARCOVIEW, LLC",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BARRINGER INSTRUMENTS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BELL HELICOPTER TEXTRON INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "BOEING BUSINESS JETS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "CESSNA AIRCRAFT CO.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "COASTAL AEROSPACE INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DASSAULT FALCON JET (DFJ)",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DATRON WORLD COMMUNICATIONS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEDIENNE CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DEFENSE NEWS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DERCO AEROSPACE, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DM AIRCRAFT SERVICE INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "DRS TECHNOLOGIES, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "ENVIRONMENTAL TECTONICS CORP.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FAA (FEDERAL AVIATION ADMINISTRATION)",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLIGHTSAFETY INTERNATIONAL",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "FLIR SYSTEMS, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GENERAL ELECTRIC AIRCRAFT ENGINES",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "GULFSTREAM AEROSPACE CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HEIMANN SYSTEMS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HONEYWELL",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "HORIZON AIRCRAFT SALES, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "INTERNATIONAL AERO ENGINES",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JANE`S INFORMATION GROUP",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JET ASSOCIATES",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "JFV / IMC - INTERNATIONAL MARKETING CONSULTANTS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KALLMAN WORLDWIDE INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "KILGORE FLARES COMPANY, LLC",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "LOCKHEED MARTIN AERONAUTICS COMPANY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "MD HELICOPTERS, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NASA GLENN RESERACH CENTER",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NERA SATCOM",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NIGHTLINE INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "NORTHROP GRUMMAN CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PERKINELMER DETECTION SYSTEMS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PIEDMONT HAWTHORNE AVIATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "PIONEER AEROSPACE CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "RAYTHEON COMPANY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SABRELINER CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIGARMS INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SIKORSKY AIRCRAFT",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "SMITHS AEROSPACE, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "STRATOS",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TEXTRON LYCOMING",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "THE BOEING COMPANY",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "TULSA PROPULSION ENGINES, INC.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNITED DEFENSE, L.P.",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNITED STATES DEPARTMENT OF DEFENSE",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNITED TECHNOLOGIES CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     },
     {
       "name": "UNITED TURBINE CORPORATION",
-      "country": "UNITED STATES OF AMERICA"
+      "country": {
+        "text": "UNITED STATES OF AMERICA",
+        "iso2": "US"
+      }
     }
   ]
 }

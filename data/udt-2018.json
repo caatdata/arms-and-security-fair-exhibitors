@@ -8,8 +8,13 @@
   "edition": "2018",
   "startDate": "2018-06-26",
   "endDate": "2018-06-28",
-  "address": "SEC Centre\nExhibition Way\nGlasgow\nG3 8YW",
-  "website": "https://www.udt-global.com/",
+  "address": {
+    "text": "SEC Centre\nExhibition Way\nGlasgow\nG3 8YW",
+    "iso2": "GB",
+    "lat": 55.8601036,
+    "lon": -4.2854881
+  },
+  "website": "https://www.udt-global.com",
   "social": [
     {
       "platform": "twitter",
@@ -38,7 +43,12 @@
     },
     {
       "name": "Leonardo",
-      "address": "Piazza Monte Grappa, 4\nRome\nItaly\n00195\nItaly",
+      "address": {
+        "text": "Piazza Monte Grappa, 4\nRome\nItaly\n00195\nItaly",
+        "iso2": "IT",
+        "lat": 41.9185778,
+        "lon": 12.4681985
+      },
       "website": "http://www.leonardocompany.com"
     },
     {
@@ -47,27 +57,45 @@
     },
     {
       "name": "Aeromaritime Systembau GmbH",
-      "address": "Aeromaritime Systembau GmbH\nLudwig-Erhard-Str. 16\nNeufahrn b. FS\nBavaria\n85375\nGermany",
+      "address": {
+        "text": "Aeromaritime Systembau GmbH\nLudwig-Erhard-Str. 16\nNeufahrn b. FS\nBavaria\n85375\nGermany",
+        "iso2": "DE",
+        "lat": 48.3116901,
+        "lon": 11.6470392
+      },
       "website": "http://www.aeromaritime.de"
     },
     {
       "name": "Aish Technologies Ltd",
-      "address": "Aish House\nBroom Road\nPoole\nDorset\nBH12 4NL\nUnited Kingdom",
+      "address": {
+        "text": "Aish House\nBroom Road\nPoole\nDorset\nBH12 4NL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7489471,
+        "lon": -1.9443246
+      },
       "website": "http://www.aishtechnologies.com"
     },
     {
       "name": "Ametek",
-      "address": "AMETEK SCP\n52 Airport Road\nWesterly\nRhode Island\n02891\nUnited States",
+      "address": {
+        "text": "AMETEK SCP\n52 Airport Road\nWesterly\nRhode Island\n02891\nUnited States",
+        "iso2": "US",
+        "lat": 41.3511202,
+        "lon": -71.8068782
+      },
       "website": "http://www.ametek-ecp.com"
     },
     {
       "name": "Analox Military Systems",
-      "website": "http://www.analoxmilitarysystems.co.uk/"
+      "website": "http://www.analoxmilitarysystems.co.uk"
     },
     {
       "name": "Aquabotix Technology Corporation",
-      "country": "United Kingdom",
-      "website": "https://www.aquabotix.com/"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://www.aquabotix.com"
     },
     {
       "name": "ATLAS ELEKTRONIK GmbH",
@@ -75,12 +103,22 @@
     },
     {
       "name": "ATLAS Elektronik UK",
-      "address": "ATLAS ELEKTRONIK UK LTD\nDorset Innovation Park\nWinfrith Newburgh\nDorset\nDT2 8ZB\nUnited Kingdom",
-      "website": "https://www.uk.atlas-elektronik.com/"
+      "address": {
+        "text": "ATLAS ELEKTRONIK UK LTD\nDorset Innovation Park\nWinfrith Newburgh\nDorset\nDT2 8ZB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.6817398,
+        "lon": -2.2564237
+      },
+      "website": "https://www.uk.atlas-elektronik.com"
     },
     {
       "name": "Avon Protection Systems",
-      "address": "Hampton Park West\nSemington Road\nMelksham\nWiltshire\nSN12 6NB\nUnited Kingdom",
+      "address": {
+        "text": "Hampton Park West\nSemington Road\nMelksham\nWiltshire\nSN12 6NB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3535772,
+        "lon": -2.1399657
+      },
       "website": "http://www.avon-protection.com"
     },
     {
@@ -89,27 +127,48 @@
     },
     {
       "name": "Babcock Innovation Zone",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "https://www.udt-global.com/babcock-innovation-zone"
     },
     {
       "name": "Bartington Instruments Ltd",
-      "address": "Unit 5\nThorney Leys Business Park\nWitney\nOxfordshire\nOX28 4GE\nUnited Kingdom",
+      "address": {
+        "text": "Unit 5\nThorney Leys Business Park\nWitney\nOxfordshire\nOX28 4GE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.775947,
+        "lon": -1.4961246
+      },
       "website": "http://www.bartington.com"
     },
     {
       "name": "BG Robotics",
-      "country": "Israel",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
       "website": "http://www.bg-robotics.com"
     },
     {
       "name": "Blueprint Subsea",
-      "address": "Blueprint Subsea\nThe Clock Tower Business Centre\nLow Wood\nUlverston\nCumbria\nLA12 8LY\nUnited Kingdom",
+      "address": {
+        "text": "Blueprint Subsea\nThe Clock Tower Business Centre\nLow Wood\nUlverston\nCumbria\nLA12 8LY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.2442086,
+        "lon": -3.0040305
+      },
       "website": "http://www.blueprintsubsea.com"
     },
     {
       "name": "BMT Defence Services",
-      "address": "First Floor, Berkeley House\nThe Square\nLower Bristol Road\nBath\nBA2 3BH\nUnited Kingdom",
+      "address": {
+        "text": "First Floor, Berkeley House\nThe Square\nLower Bristol Road\nBath\nBA2 3BH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3784967,
+        "lon": -2.3673587
+      },
       "website": "http://www.bmt.org"
     },
     {
@@ -118,7 +177,12 @@
     },
     {
       "name": "Centre for Marine Biofouling and Corrosion",
-      "address": "Prospect Place\nPlymouth\nDevon\nPL1 3DH\nUnited Kingdom",
+      "address": {
+        "text": "Prospect Place\nPlymouth\nDevon\nPL1 3DH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.3664514,
+        "lon": -4.1488515
+      },
       "website": "http://www.biofoulingcorrosion.co.uk"
     },
     {
@@ -127,7 +191,12 @@
     },
     {
       "name": "Coda Octopus Products",
-      "address": "38 S Gyle Crescent\nEdinburgh\nEH11 9EB\nUnited Kingdom",
+      "address": {
+        "text": "38 S Gyle Crescent\nEdinburgh\nEH11 9EB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.932922,
+        "lon": -3.3053848
+      },
       "website": "http://codaoctopus.com"
     },
     {
@@ -136,42 +205,82 @@
     },
     {
       "name": "Copenhagen Subsea A/S",
-      "address": "14 Albany Street\nEdinburgh\nLothian\nEH1 3QB\nUnited Kingdom",
+      "address": {
+        "text": "14 Albany Street\nEdinburgh\nLothian\nEH1 3QB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9571915,
+        "lon": -3.1925637
+      },
       "website": "http://www.copenhagensubsea.com"
     },
     {
       "name": "Copper Alloys",
-      "address": "Copper Alloys\nGlendale Street\nBurslem\nStoke-on-Trent\nStaffordshire\nST6 2EP\nUnited Kingdom",
+      "address": {
+        "text": "Copper Alloys\nGlendale Street\nBurslem\nStoke-on-Trent\nStaffordshire\nST6 2EP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.0429644,
+        "lon": -2.192022
+      },
       "website": "http://www.copperalloys.net"
     },
     {
       "name": "Damen Schelde Naval Shipbuilding",
-      "address": "P.O. Box 555\nVlissingen\n4380 AN\nNetherlands",
+      "address": {
+        "text": "P.O. Box 555\nVlissingen\n4380 AN\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.4536672,
+        "lon": 3.5709125
+      },
       "website": "http://www.damennaval.com"
     },
     {
       "name": "De Regt Marine Cables",
-      "address": "zaag 2-4\nKrimpen aan de Lek\nThe Netherlands\n2931LD\nNetherlands",
+      "address": {
+        "text": "zaag 2-4\nKrimpen aan de Lek\nThe Netherlands\n2931LD\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.8978459,
+        "lon": 4.5992886
+      },
       "website": "http://www.deregtcables.com"
     },
     {
       "name": "Defence Submersibles International",
-      "address": "Unit 1\nMaritime Road\nStockton on Tees\nCleveland\nTS18 2DR\nUnited Kingdom",
+      "address": {
+        "text": "Unit 1\nMaritime Road\nStockton on Tees\nCleveland\nTS18 2DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.570712,
+        "lon": -1.3108863
+      },
       "website": "http://www.defencesubmersibles.com"
     },
     {
       "name": "Department for International Trade (DSO)",
-      "address": "3 Whitehall Place\nLondon\nSW1A 2AW\nUnited Kingdom",
+      "address": {
+        "text": "3 Whitehall Place\nLondon\nSW1A 2AW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50633029999999,
+        "lon": -0.1241018
+      },
       "website": "http://www.gov.uk/dit-dso"
     },
     {
       "name": "Drumgrange",
-      "address": "Drumgrange Ltd\nUnit A\nThe Forum\nChertsey\nSurrey\nKT16 9JX\nUnited Kingdom",
+      "address": {
+        "text": "Drumgrange Ltd\nUnit A\nThe Forum\nChertsey\nSurrey\nKT16 9JX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3841454,
+        "lon": -0.5091089999999999
+      },
       "website": "http://www.drumgrange.com"
     },
     {
       "name": "DSIT Solutions Ltd.",
-      "address": "2 Rechavam Zeevi st\nGivat Shmuel\nIsrael\n5401852\nIsrael",
+      "address": {
+        "text": "2 Rechavam Zeevi st\nGivat Shmuel\nIsrael\n5401852\nIsrael",
+        "iso2": "IL",
+        "lat": 32.0778111,
+        "lon": 34.8457629
+      },
       "website": "http://www.dsit.co.il"
     },
     {
@@ -187,31 +296,52 @@
     },
     {
       "name": "EvoLogics GmbH",
-      "address": "Ackerstr. 76\nBerlin\n13355\nGermany",
+      "address": {
+        "text": "Ackerstr. 76\nBerlin\n13355\nGermany",
+        "iso2": "DE",
+        "lat": 52.53855900000001,
+        "lon": 13.3843569
+      },
       "website": "http://evologics.de"
     },
     {
       "name": "Frazer-Nash Consultancy",
-      "address": "The Cube\n1 Lower Lamb Street\nBristol\nBS1 5UD\nUnited Kingdom",
+      "address": {
+        "text": "The Cube\n1 Lower Lamb Street\nBristol\nBS1 5UD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4506569,
+        "lon": -2.6037598
+      },
       "website": "http://www.fnc.co.uk"
     },
     {
       "name": "Galleon Embedded Computing",
-      "website": "https://www.galleonec.com/"
+      "website": "https://www.galleonec.com"
     },
     {
       "name": "General Atomics",
-      "address": "General Atomics Electromagnetic Systems\n16530 Via Esprillo\nSan Diego\nSan Diego\n92127\nUnited States",
+      "address": {
+        "text": "General Atomics Electromagnetic Systems\n16530 Via Esprillo\nSan Diego\nSan Diego\n92127\nUnited States",
+        "iso2": "US",
+        "lat": 33.0167685,
+        "lon": -117.0920953
+      },
       "website": "http://www.ga.com"
     },
     {
       "name": "General Dynamics Mission Systems",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://gdmissionsystems.com"
     },
     {
       "name": "Geospectrum Technologies",
-      "country": "Canada",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
       "website": "http://www.geospectrum.ca"
     },
     {
@@ -220,7 +350,12 @@
     },
     {
       "name": "Hagenuk Marinekommunikation GmbH",
-      "address": "Hamburger Chaussee 25\nFlintbek\n24220\nGermany",
+      "address": {
+        "text": "Hamburger Chaussee 25\nFlintbek\n24220\nGermany",
+        "iso2": "DE",
+        "lat": 54.2471263,
+        "lon": 10.0503719
+      },
       "website": "http://www.hmk.atlas-elektronik.com"
     },
     {
@@ -228,7 +363,12 @@
     },
     {
       "name": "Harris Corporation",
-      "address": "Harris Corporate Headquarters\n1025 W. NASA Boulevard\nMelbourne\nFlorida\n32919\nUnited States",
+      "address": {
+        "text": "Harris Corporate Headquarters\n1025 W. NASA Boulevard\nMelbourne\nFlorida\n32919\nUnited States",
+        "iso2": "US",
+        "lat": 28.0908037,
+        "lon": -80.6385014
+      },
       "website": "http://www.harris.com"
     },
     {
@@ -237,12 +377,22 @@
     },
     {
       "name": "Hydro Group",
-      "address": "Hydro House\nClaymore avenue, Energy park\nBridge of Don\nAberdeen\nAberdeen\nAB23 8GW\nUnited Kingdom",
-      "website": "https://www.hydrogroupplc.com/"
+      "address": {
+        "text": "Hydro House\nClaymore avenue, Energy park\nBridge of Don\nAberdeen\nAberdeen\nAB23 8GW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 57.1913385,
+        "lon": -2.0784773
+      },
+      "website": "https://www.hydrogroupplc.com"
     },
     {
       "name": "Hydronalix",
-      "address": "Hydronalix\n1691 W. Duval Commerce Ct.\nSuite 141\nGreen Valley\nAZ\n85614\nUnited States",
+      "address": {
+        "text": "Hydronalix\n1691 W. Duval Commerce Ct.\nSuite 141\nGreen Valley\nAZ\n85614\nUnited States",
+        "iso2": "US",
+        "lat": 31.8973345,
+        "lon": -111.0020306
+      },
       "website": "http://hydronalix.com"
     },
     {
@@ -251,31 +401,52 @@
     },
     {
       "name": "Indal / Curtiss-Wright",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.curtisswrightds.com"
     },
     {
       "name": "Indra",
-      "address": "Avda.Bruselas, 35 - Alcobendas\nMadrid\nMadrid\n28108\nSpain",
+      "address": {
+        "text": "Avda.Bruselas, 35 - Alcobendas\nMadrid\nMadrid\n28108\nSpain",
+        "iso2": "ES",
+        "lat": 40.5290535,
+        "lon": -3.6414198
+      },
       "website": "https://www.indracompany.com/en/"
     },
     {
       "name": "Inductosense",
-      "address": "Unit DX, St Philips Central,\nAlbert Road,\nAlbert Road\nBristol\nBS2 0XJ\nUnited Kingdom",
-      "website": "http://www.inductosense.com/"
+      "address": {
+        "text": "Unit DX, St Philips Central,\nAlbert Road,\nAlbert Road\nBristol\nBS2 0XJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4470841,
+        "lon": -2.5738743
+      },
+      "website": "http://www.inductosense.com"
     },
     {
       "name": "JFD Ltd",
-      "website": "https://www.jfdglobal.com/"
+      "website": "https://www.jfdglobal.com"
     },
     {
       "name": "Joost Engines Ltd",
-      "address": "Quad One\nOne\nBecquerel Avenue\nOxford\nOxfordshire\nOX110RA\nUnited Kingdom",
+      "address": {
+        "text": "Quad One\nOne\nBecquerel Avenue\nOxford\nOxfordshire\nOX110RA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5789922,
+        "lon": -1.3078474
+      },
       "website": "http://www.joostengines.com"
     },
     {
       "name": "Kahootz",
-      "country": "United Kingdom",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "http://www.kahootz.com"
     },
     {
@@ -288,17 +459,32 @@
     },
     {
       "name": "Linden Photonics",
-      "address": "1 Park Drive\nUnit 10\nWestford\n01886\nUnited States",
+      "address": {
+        "text": "1 Park Drive\nUnit 10\nWestford\n01886\nUnited States",
+        "iso2": "US",
+        "lat": 42.5573085,
+        "lon": -71.43617119999999
+      },
       "website": "http://www.LindenPhotonics.com"
     },
     {
       "name": "Lockheed Martin",
-      "address": "9500 Godwin Drive\nManassas\nVA\n20110\nUnited States",
+      "address": {
+        "text": "9500 Godwin Drive\nManassas\nVA\n20110\nUnited States",
+        "iso2": "US",
+        "lat": 38.7530831,
+        "lon": -77.5034453
+      },
       "website": "http://www.lockheedmartin.com"
     },
     {
       "name": "MacTaggart Scott",
-      "address": "PO Box 1, Hunter Avenue\nLoanhead\nEH20 9SP\nUnited Kingdom",
+      "address": {
+        "text": "PO Box 1, Hunter Avenue\nLoanhead\nEH20 9SP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.8782043,
+        "lon": -3.1417995
+      },
       "website": "http://www.mactag.com"
     },
     {
@@ -306,7 +492,12 @@
     },
     {
       "name": "Missiles and Space Batteries",
-      "address": "Hagmill Road\nEast Shawhead\nCoatbridge\nNorth Lanarkshire\nML5 4UZ\nUnited Kingdom",
+      "address": {
+        "text": "Hagmill Road\nEast Shawhead\nCoatbridge\nNorth Lanarkshire\nML5 4UZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.8453282,
+        "lon": -4.016545
+      },
       "website": "http://www.asb-group.com"
     },
     {
@@ -314,7 +505,12 @@
     },
     {
       "name": "Mittler Report Verlag GmbH",
-      "address": "Baunscheidtstrasse 11\nBonn\nNorthrhinewestphalia\n53113\nGermany",
+      "address": {
+        "text": "Baunscheidtstrasse 11\nBonn\nNorthrhinewestphalia\n53113\nGermany",
+        "iso2": "DE",
+        "lat": 50.7105776,
+        "lon": 7.1227445
+      },
       "website": [
         "http://www.mittler-report.de",
         "www.euro-sd.com"
@@ -330,7 +526,10 @@
     },
     {
       "name": "NEDNANO",
-      "country": "United Kingdom"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
     },
     {
       "name": "Nevesbu B.V.",
@@ -338,7 +537,12 @@
     },
     {
       "name": "Nojdhs Elektronik AB",
-      "address": "PO Box 1342\nHelsingborg\nSweden\nS25113\nSweden",
+      "address": {
+        "text": "PO Box 1342\nHelsingborg\nSweden\nS25113\nSweden",
+        "iso2": "SE",
+        "lat": 56.0464674,
+        "lon": 12.6945121
+      },
       "website": "http://www.nojdhselektronik.se"
     },
     {
@@ -346,17 +550,32 @@
     },
     {
       "name": "Northrop Grumman LITEF GmbH",
-      "address": "Loerracher Strasse 18\nFreiburg\n79115\nGermany",
+      "address": {
+        "text": "Loerracher Strasse 18\nFreiburg\n79115\nGermany",
+        "iso2": "DE",
+        "lat": 47.9806444,
+        "lon": 7.820127999999999
+      },
       "website": "http://www.northropgrumman.litef.com"
     },
     {
       "name": "Olsen Subsea Controls Ltd",
-      "address": "The Innovation Centre\nKeckwick Lane\nDaresbury\nCheshire\nWA44FS\nUnited Kingdom",
+      "address": {
+        "text": "The Innovation Centre\nKeckwick Lane\nDaresbury\nCheshire\nWA44FS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3451207,
+        "lon": -2.6389703
+      },
       "website": "http://www.olsenactuation.com"
     },
     {
       "name": "Omnitech Electronics Inc.",
-      "address": "Omnitech Electronics Inc.\n10 Akerley Blvd\nSuite 1\nDartmouth\nNova Scotia\nB3B 1J4\nCanada",
+      "address": {
+        "text": "Omnitech Electronics Inc.\n10 Akerley Blvd\nSuite 1\nDartmouth\nNova Scotia\nB3B 1J4\nCanada",
+        "iso2": "CA",
+        "lat": 44.7045479,
+        "lon": -63.60960299999999
+      },
       "website": "http://www.omnitechelectronics.ca"
     },
     {
@@ -368,17 +587,32 @@
     },
     {
       "name": "pureLiFi",
-      "address": "Rosebery House\n9 Haymarket Tarrace\nEdinburgh\nMidlothian\nEH12 5EZ\nUnited Kingdom",
+      "address": {
+        "text": "Rosebery House\n9 Haymarket Tarrace\nEdinburgh\nMidlothian\nEH12 5EZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.94584279999999,
+        "lon": -3.2196717
+      },
       "website": "http://www.purelifi.com"
     },
     {
       "name": "Rawwater Engineering Company Limited",
-      "address": "Culcheth Enterprise Centre\nWithington Avenue\nCulcheth\nWarrington\nCheshire\nWA3 4JE\nUnited Kingdom",
-      "website": "https://www.rawwater.com/"
+      "address": {
+        "text": "Culcheth Enterprise Centre\nWithington Avenue\nCulcheth\nWarrington\nCheshire\nWA3 4JE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.4555789,
+        "lon": -2.5127132
+      },
+      "website": "https://www.rawwater.com"
     },
     {
       "name": "RH Marine Netherlands B.V.",
-      "address": "Jan Evertsenweg 2\nSchiedam\nNetherlands\n3115 JA\nNetherlands",
+      "address": {
+        "text": "Jan Evertsenweg 2\nSchiedam\nNetherlands\n3115 JA\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.9093155,
+        "lon": 4.3763596
+      },
       "website": "http://www.rhmarine.com"
     },
     {
@@ -387,7 +621,12 @@
     },
     {
       "name": "Rohde & Schwarz GmbH",
-      "address": "Mühldorfstraße 15\nMünchen\nGermany\n81671\nGermany",
+      "address": {
+        "text": "Mühldorfstraße 15\nMünchen\nGermany\n81671\nGermany",
+        "iso2": "DE",
+        "lat": 48.1278668,
+        "lon": 11.6119321
+      },
       "website": "http://www.rohde-schwarz.com"
     },
     {
@@ -396,7 +635,12 @@
     },
     {
       "name": "RS Aqua Ltd",
-      "address": "Unit 4-6 Hurst Barns,\nHurst Lane\nPrivett\nAlton\nHampshire\nGU34 3PL\nUnited Kingdom",
+      "address": {
+        "text": "Unit 4-6 Hurst Barns,\nHurst Lane\nPrivett\nAlton\nHampshire\nGU34 3PL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.0398632,
+        "lon": -1.0110714
+      },
       "website": "http://www.rsaqua.co.uk"
     },
     {
@@ -405,12 +649,22 @@
     },
     {
       "name": "Safran",
-      "address": "Arcs de Seine\n18/20 quai du point du jour\nBoulogne-Billancourt\nIle-de-France\n92659\nFrance",
+      "address": {
+        "text": "Arcs de Seine\n18/20 quai du point du jour\nBoulogne-Billancourt\nIle-de-France\n92659\nFrance",
+        "iso2": "FR",
+        "lat": 48.8322993,
+        "lon": 2.2585001
+      },
       "website": "http://www.safran-group.com"
     },
     {
       "name": "SEA",
-      "address": "SEA\nBeckington Castle,\n17 Castle Corner\nBeckington, Frome\nSomerset\nBA11 6TA\nUnited Kingdom",
+      "address": {
+        "text": "SEA\nBeckington Castle,\n17 Castle Corner\nBeckington, Frome\nSomerset\nBA11 6TA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.26228159999999,
+        "lon": -2.2880159
+      },
       "website": "http://www.sea.co.uk"
     },
     {
@@ -418,26 +672,46 @@
     },
     {
       "name": "SeaGard - Marine Asset Protection",
-      "address": "14 Albany Street\nEdinburgh\nLothian\nEH1 3QB\nUnited Kingdom",
+      "address": {
+        "text": "14 Albany Street\nEdinburgh\nLothian\nEH1 3QB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9571915,
+        "lon": -3.1925637
+      },
       "website": "http://www.seagard.org"
     },
     {
       "name": "SeeByte",
-      "website": "http://www.seebyte.com/"
+      "website": "http://www.seebyte.com"
     },
     {
       "name": "Shark Marine Technologies",
-      "address": "Shark Marine Technologies Inc.\n23 Nihan Dr.\nSt Catharines, Ontario\nCANADA\nL2N 1L2\nCanada",
+      "address": {
+        "text": "Shark Marine Technologies Inc.\n23 Nihan Dr.\nSt Catharines, Ontario\nCANADA\nL2N 1L2\nCanada",
+        "iso2": "CA",
+        "lat": 43.1831492,
+        "lon": -79.2497525
+      },
       "website": "http://WWW.SHARKMARINE.COM"
     },
     {
       "name": "Shephard Media",
-      "address": "Saville Mews, 30 Saville Road\nLondon\nBuckinghamshire\nW4 5HG\nUnited Kingdom",
-      "website": "https://www.shephardmedia.com/"
+      "address": {
+        "text": "Saville Mews, 30 Saville Road\nLondon\nBuckinghamshire\nW4 5HG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.499251,
+        "lon": -0.2630790000000001
+      },
+      "website": "https://www.shephardmedia.com"
     },
     {
       "name": "STIDD / Greensea",
-      "address": "STIDD Systems, Inc.\n220 Carpenter St\nGreenport\nNew York\n11944\nUnited States",
+      "address": {
+        "text": "STIDD Systems, Inc.\n220 Carpenter St\nGreenport\nNew York\n11944\nUnited States",
+        "iso2": "US",
+        "lat": 41.1033419,
+        "lon": -72.3582718
+      },
       "website": "http://www.stiddmil.com"
     },
     {
@@ -445,13 +719,23 @@
     },
     {
       "name": "Subsea Craft",
-      "address": "Northshore Shipyard\nItchenor\nWest Sussex\nPO20 7AY\nUnited Kingdom",
+      "address": {
+        "text": "Northshore Shipyard\nItchenor\nWest Sussex\nPO20 7AY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.806478,
+        "lon": -0.869315
+      },
       "website": "http://www.subseacraft.com"
     },
     {
       "name": "SWP Hydraulics",
-      "address": "Westcountry House\nWestern Wood Way\nLangage Science Park\nPlympton, Plymouth\nDevon\nPL7 5BG\nUnited Kingdom",
-      "website": "http://www.swphydraulics.co.uk/"
+      "address": {
+        "text": "Westcountry House\nWestern Wood Way\nLangage Science Park\nPlympton, Plymouth\nDevon\nPL7 5BG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.3882992,
+        "lon": -4.018269099999999
+      },
+      "website": "http://www.swphydraulics.co.uk"
     },
     {
       "name": "SYSTEMS SUNLIGHT S.A.",
@@ -459,38 +743,71 @@
     },
     {
       "name": "Teledyne Marine",
-      "address": "1026 N. Williamson Blvd.\n1026 N. Williamson Blvd.\nDaytona Beach\nFlorida\n32114\nUnited States",
+      "address": {
+        "text": "1026 N. Williamson Blvd.\n1026 N. Williamson Blvd.\nDaytona Beach\nFlorida\n32114\nUnited States",
+        "iso2": "US",
+        "lat": 29.2097865,
+        "lon": -81.0908147
+      },
       "website": "http://www.teledynemarine.com"
     },
     {
       "name": "Thales",
-      "address": "Thales\n1 Linthouse Road\nGovan\nGlasgow\nGlasgow\nG514BZ\nUnited Kingdom",
+      "address": {
+        "text": "Thales\n1 Linthouse Road\nGovan\nGlasgow\nGlasgow\nG514BZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.8663825,
+        "lon": -4.3357234
+      },
       "website": "https://www.thalesgroup.com/en"
     },
     {
       "name": "Thales Nederland",
-      "address": "Thales Nederland\nPO Box 42\nHengelo\n7550GD\nNetherlands",
+      "address": {
+        "text": "Thales Nederland\nPO Box 42\nHengelo\n7550GD\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.2574121,
+        "lon": 6.7927725
+      },
       "website": "http://www.thalesgroup.com/naval"
     },
     {
       "name": "thyssenkrupp Marine Systems GmbH",
-      "address": "Werftstrasse 112-114\nKiel\n24143\nGermany",
+      "address": {
+        "text": "Werftstrasse 112-114\nKiel\n24143\nGermany",
+        "iso2": "DE",
+        "lat": 54.3166656,
+        "lon": 10.151447
+      },
       "website": "http://www.thyssenkrupp-marinesystems.com"
     },
     {
       "name": "TNO Defence, Safety and Security",
-      "address": "TNO DHW\nOude Waalsdorperweg 63\nThe Hague\n2597 AK\nNetherlands",
+      "address": {
+        "text": "TNO DHW\nOude Waalsdorperweg 63\nThe Hague\n2597 AK\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.109415,
+        "lon": 4.327361
+      },
       "website": "http://www.tno.nl"
     },
     {
       "name": "TODS Defence",
-      "address": "Tods Defence\nSlidcroft Works\nWide Street\nPortland\nDorset\nDT5 2JP\nUnited Kingdom",
+      "address": {
+        "text": "Tods Defence\nSlidcroft Works\nWide Street\nPortland\nDorset\nDT5 2JP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.5491638,
+        "lon": -2.4449176
+      },
       "website": "http://www.tods.co.uk"
     },
     {
       "name": "TPG Maritime",
-      "country": "United Kingdom",
-      "website": "https://www.tpgroup.uk.com/"
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://www.tpgroup.uk.com"
     },
     {
       "name": "Trelleborg",
@@ -513,22 +830,42 @@
     },
     {
       "name": "Wärtsilä ELAC Nautik and EUROATLAS",
-      "address": "Wärtsilä\nAdolfstr. 29\nKiel\n24105\nGermany",
+      "address": {
+        "text": "Wärtsilä\nAdolfstr. 29\nKiel\n24105\nGermany",
+        "iso2": "DE",
+        "lat": 54.334177,
+        "lon": 10.137562
+      },
       "website": "https://whttps://www.wartsila.com/products/marine-"
     },
     {
       "name": "Westley Group Ltd",
-      "address": "Westley Group\nDoulton Road\nCradley Heath\nWest Midlands\nB64 5QN\nUnited Kingdom",
+      "address": {
+        "text": "Westley Group\nDoulton Road\nCradley Heath\nWest Midlands\nB64 5QN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.4845836,
+        "lon": -2.0644694
+      },
       "website": "http://www.westleygroup.co.uk"
     },
     {
       "name": "WFS Technologies",
-      "address": "7 Houston Interchange\nBusiness Park\nLivignston\nWest Lothian\nEH54 5DW\nUnited Kingdom",
+      "address": {
+        "text": "7 Houston Interchange\nBusiness Park\nLivignston\nWest Lothian\nEH54 5DW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 55.9056763,
+        "lon": -3.513676
+      },
       "website": "http://www.wfs-tech.com"
     },
     {
       "name": "WITTENSTEIN motion control GmbH",
-      "address": "Walter-Wittenstein-Str. 1\nIgersheim\n97999\nGermany",
+      "address": {
+        "text": "Walter-Wittenstein-Str. 1\nIgersheim\n97999\nGermany",
+        "iso2": "DE",
+        "lat": 49.5351417,
+        "lon": 9.856518
+      },
       "website": "http://www.wittenstein-motion-control.com"
     },
     {

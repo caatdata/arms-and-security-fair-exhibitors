@@ -7,13 +7,18 @@
   "edition": "2006",
   "startDate": "2006-12-06",
   "endDate": "2006-12-08",
-  "address": "Marriot Hotel and Marina\nSan Diego\nUSA",
+  "address": {
+    "text": "Marriot Hotel and Marina\nSan Diego\nUSA",
+    "iso2": "US",
+    "lat": 32.7091144,
+    "lon": -117.1662334
+  },
   "organiser": [
     {
       "name": "Nexus Media Communications Ltd"
     }
   ],
-  "website": "http://www.udt-pacific.com/",
+  "website": "http://www.udt-pacific.com",
   "exhibitorListUrl": "http://www.udt-pacific.com/exhibitors/",
   "exhibitorListDate": "2022-03-06T12:35:46+00:00",
   "exhibitor": [

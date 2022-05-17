@@ -9,8 +9,13 @@
   ],
   "startDate": "2005-03-29",
   "endDate": "2005-03-31",
-  "address": "Singapore Expo\nSingapore",
-  "website": "http://www.globalsecasia.com/",
+  "address": {
+    "text": "Singapore Expo\nSingapore",
+    "iso2": "SG",
+    "lat": 1.3335251,
+    "lon": 103.959537
+  },
+  "website": "http://www.globalsecasia.com",
   "organiser": [
     {
       "name": "IMDEX Asia Ltd"

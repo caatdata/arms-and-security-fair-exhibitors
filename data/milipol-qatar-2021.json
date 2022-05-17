@@ -5,7 +5,12 @@
   "alias": "13th International Event for Homeland Security and Civil Defence",
   "startDate": "2021-03-15",
   "endDate": "2021-03-17",
-  "address": "Doha Exhibition and Convention Center\nQatar",
+  "address": {
+    "text": "Doha Exhibition and Convention Center\nQatar",
+    "iso2": "QA",
+    "lat": 25.323225,
+    "lon": 51.53000249999999
+  },
   "website": "https://www.milipolqatar.com",
   "social": [
     {
@@ -47,57 +52,112 @@
     {
       "name": "3S",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/3S",
-      "address": "Tivoli Building 1st Floor\nOffice n. 5\nOld Rayyan\n16469 DOHA\nQATAR"
+      "address": {
+        "text": "Tivoli Building 1st Floor\nOffice n. 5\nOld Rayyan\n16469 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2885663,
+        "lon": 51.5320452
+      }
     },
     {
       "name": "ABDULLAH ABDULGHANI & BROS. CO. W.L.L.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ABDULLAH-ABDULGHANI-and-BROS-CO-W-L-L",
-      "address": "Al Abdulghani Tower\n1321 DOHA\nQATAR"
+      "address": {
+        "text": "Al Abdulghani Tower\n1321 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2736412,
+        "lon": 51.5138168
+      }
     },
     {
       "name": "ABIMDE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ABIMDE",
-      "address": "Av Paulista 575, cj 1211, 12 floor\nBRazil SAO PAULO\nSao Paulo\nBRAZIL"
+      "address": {
+        "text": "Av Paulista 575, cj 1211, 12 floor\nBRazil SAO PAULO\nSao Paulo\nBRAZIL",
+        "iso2": "BR",
+        "lat": -22.3666394,
+        "lon": -46.9198349
+      }
     },
     {
       "name": "ADGS Computer Systems",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ADGS-Computer-Systems",
-      "address": "A.Jeleel A.Ghani Business Center\n00394 DOHA\nQATAR"
+      "address": {
+        "text": "A.Jeleel A.Ghani Business Center\n00394 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2696398,
+        "lon": 51.5466838
+      }
     },
     {
       "name": "ADS Group Ltd",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ADS-Group-Ltd",
-      "address": "ShowCentre\nE T P S Road\nGU146FD FARNBOROUGH\nHampshire\nUNITED KINGDOM"
+      "address": {
+        "text": "ShowCentre\nE T P S Road\nGU146FD FARNBOROUGH\nHampshire\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 51.275322,
+        "lon": -0.759508
+      }
     },
     {
       "name": "ADVANTAGE AUSTRIA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ADVANTAGE-AUSTRIA",
-      "address": "Palm Tower B\n33 Floor\nWest Bay\n1111 DOHA\nQATAR"
+      "address": {
+        "text": "Palm Tower B\n33 Floor\nWest Bay\n1111 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3183097,
+        "lon": 51.5274429
+      }
     },
     {
       "name": "AERACCESS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AERACCESS",
-      "address": "103 avenue René Descartes\n91080 EVRY-COURCOURONNES\nFRANCE"
+      "address": {
+        "text": "103 avenue René Descartes\n91080 EVRY-COURCOURONNES\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.6205931,
+        "lon": 2.4105391
+      }
     },
     {
       "name": "AGELEC",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AGELEC",
-      "address": "Parc Biocitech\n102 AV GASTON ROUSSEL\n93230 ROMAINVILLE\nFRANCE"
+      "address": {
+        "text": "Parc Biocitech\n102 AV GASTON ROUSSEL\n93230 ROMAINVILLE\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8932628,
+        "lon": 2.4321849
+      }
     },
     {
       "name": "AIRBUS AFRICA & MIDDLE EAST FZE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AIRBUS-AFRICA-and-MIDDLE-EAST-FZE",
-      "address": "Dubaï Airport Freezone, w8,\n7th floor\nDUBAI DUBAI\nUNITED ARAB EMIRATES"
+      "address": {
+        "text": "Dubaï Airport Freezone, w8,\n7th floor\nDUBAI DUBAI\nUNITED ARAB EMIRATES",
+        "iso2": "AE",
+        "lat": 25.2609919,
+        "lon": 55.3731211
+      }
     },
     {
       "name": "AKAER ENGENHARIA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AKAER-ENGENHARIA",
-      "address": "Av Cesare Monsueto Giulio Lattes 501\n12247-014 SAO JOSE DOS CAMPOS\nSP\nBRAZIL"
+      "address": {
+        "text": "Av Cesare Monsueto Giulio Lattes 501\n12247-014 SAO JOSE DOS CAMPOS\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.1586354,
+        "lon": -45.7888909
+      }
     },
     {
       "name": "ALSETEX",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ALSETEX",
-      "address": "Usine de Malpaire\nCité d'Alsace\n72300 PRÉCIGNÉ\nFRANCE"
+      "address": {
+        "text": "Usine de Malpaire\nCité d'Alsace\n72300 PRÉCIGNÉ\nFRANCE",
+        "iso2": "FR",
+        "lat": 47.76898,
+        "lon": -0.271764
+      }
     },
     {
       "name": "ARES SHIPYARD",
@@ -106,62 +166,122 @@
     {
       "name": "ARQUUS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ARQUUS",
-      "address": "15bis Allée des Marronniers\n78000 VERSAILLES\nFRANCE"
+      "address": {
+        "text": "15bis Allée des Marronniers\n78000 VERSAILLES\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.78492199999999,
+        "lon": 2.097765
+      }
     },
     {
       "name": "ATECH NEGÓCIOS EM TECNOLOGIA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ATECH-NEGOCIOS-EM-TECNOLOGIA",
-      "address": "Rua do Rocio 313, 5th Floor\n04552-000 SAO PAULO\nSP\nBRAZIL"
+      "address": {
+        "text": "Rua do Rocio 313, 5th Floor\n04552-000 SAO PAULO\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.594546,
+        "lon": -46.6868856
+      }
     },
     {
       "name": "ATIS systems",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ATIS-systems",
-      "address": "Justus-von-Liebig-Str. 5\n61352 BAD HOMBURG\nHessen\nGERMANY"
+      "address": {
+        "text": "Justus-von-Liebig-Str. 5\n61352 BAD HOMBURG\nHessen\nGERMANY",
+        "iso2": "DE",
+        "lat": 50.2184141,
+        "lon": 8.613961399999999
+      }
     },
     {
       "name": "AUGIER SAS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AUGIER-SAS",
-      "address": "ZI Carros\n1ERE AVENUE\n13EME RUE NUMERO 3890\n06510 CARROS\nFRANCE"
+      "address": {
+        "text": "ZI Carros\n1ERE AVENUE\n13EME RUE NUMERO 3890\n06510 CARROS\nFRANCE",
+        "iso2": "FR",
+        "lat": 43.7958711,
+        "lon": 7.203218299999999
+      }
     },
     {
       "name": "AVIBRAS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/AVIBRAS",
-      "address": "Rodovia dos Tamoios, km 14\nEstrada Varadouro, 1200\n12315-020 JACAREÍ\nSao Paulo\nBRAZIL"
+      "address": {
+        "text": "Rodovia dos Tamoios, km 14\nEstrada Varadouro, 1200\n12315-020 JACAREÍ\nSao Paulo\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.340704,
+        "lon": -45.8907768
+      }
     },
     {
       "name": "Agenfor International Foundation",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Agenfor-International-Foundation",
-      "address": "Viale col di Lana 6\n20136 MILANO\nITALY"
+      "address": {
+        "text": "Viale col di Lana 6\n20136 MILANO\nITALY",
+        "iso2": "IT",
+        "lat": 45.4516911,
+        "lon": 9.1830185
+      }
     },
     {
       "name": "Al Boraq Automobiles Co. w.l.l.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Al-Boraq-Automobiles-Co-w-l-l",
-      "address": "Medina Centrale, The Pearl\nUnit 33+34+34A\n23619 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Medina Centrale, The Pearl\nUnit 33+34+34A\n23619 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.368611,
+        "lon": 51.551583
+      }
     },
     {
       "name": "Al Faisal Intl. Business Security se",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Al-Faisal-Intl-Business-Security-se",
-      "address": "Ammara Tower , Bin Mahmood\nBin Mahmoud ,Buldg no 73, office 104\n17683 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Ammara Tower , Bin Mahmood\nBin Mahmoud ,Buldg no 73, office 104\n17683 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2873085,
+        "lon": 51.5075912
+      }
     },
     {
       "name": "Al Habdan SSE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Al-Habdan-SSE",
-      "address": "Al Jazeera Tower, Office no. 1610\nBuilding no. 186 Conference Center St\nZone 61, Al Dafna, Doha\n7600 DOHA\nQATAR"
+      "address": {
+        "text": "Al Jazeera Tower, Office no. 1610\nBuilding no. 186 Conference Center St\nZone 61, Al Dafna, Doha\n7600 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3258467,
+        "lon": 51.5323672
+      }
     },
     {
       "name": "Al Jaidah Group",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Al-Jaidah-Group",
-      "address": "Al Matar street 310\n00974 DOHA\n27 Um Gwalinah\nQATAR"
+      "address": {
+        "text": "Al Matar street 310\n00974 DOHA\n27 Um Gwalinah\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2746582,
+        "lon": 51.54251739999999
+      }
     },
     {
       "name": "Alfardan Automobiles Co. L.L.C",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Alfardan-Automobiles-Co-L-L-C",
-      "address": "Alfardan Towers, Alfunduq St.\nWest Bay\n3763 DOHA\nQATAR"
+      "address": {
+        "text": "Alfardan Towers, Alfunduq St.\nWest Bay\n3763 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3204551,
+        "lon": 51.528993
+      }
     },
     {
       "name": "Alpinter",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Alpinter",
-      "address": "Rue Charles de Gaulle 7\n9600 RENAIX\nBELGIUM"
+      "address": {
+        "text": "Rue Charles de Gaulle 7\n9600 RENAIX\nBELGIUM",
+        "iso2": "BE",
+        "lat": 50.7435984,
+        "lon": 3.5997513
+      }
     },
     {
       "name": "Alzomar",
@@ -170,42 +290,82 @@
     {
       "name": "Applied Concepts / Stalker Radar",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Applied-Concepts-Stalker-Radar",
-      "address": "855 East Collins Blvd.\n75081 RICHARDSON\nTexas\nUNITED STATES OF AMERICA"
+      "address": {
+        "text": "855 East Collins Blvd.\n75081 RICHARDSON\nTexas\nUNITED STATES OF AMERICA",
+        "iso2": "US",
+        "lat": 32.9684284,
+        "lon": -96.7155353
+      }
     },
     {
       "name": "BINDIG",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/BINDIG",
-      "address": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2050932,
+        "lon": 51.4369124
+      }
     },
     {
       "name": "BLAXTAIR",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/BLAXTAIR",
-      "address": "14 rue Scandicci\nTour Essor\n93500 PANTIN\nFRANCE"
+      "address": {
+        "text": "14 rue Scandicci\nTour Essor\n93500 PANTIN\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.891993,
+        "lon": 2.398717
+      }
     },
     {
       "name": "BQ Solutions",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/BQ-Solutions",
-      "address": "BQ Solutions QSTP - LLC\nBurj Doha, Floor 30, Building 15,\nStreet 910, Zone 60, P.O. Box # 210004\n210004 DOHA\nQATAR"
+      "address": {
+        "text": "BQ Solutions QSTP - LLC\nBurj Doha, Floor 30, Building 15,\nStreet 910, Zone 60, P.O. Box # 210004\n210004 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3174942,
+        "lon": 51.5283358
+      }
     },
     {
       "name": "BROOQ TECHNOLOGIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/BROOQ-TECHNOLOGIES",
-      "address": "Level 3 Office 305, Suhaim Tower\nAl Sadd -Zone 38 , Al Rayyan Road\nSuhaim bin Hamad St (C Ring) -St 231\n23487 DOHA\nQATAR"
+      "address": {
+        "text": "Level 3 Office 305, Suhaim Tower\nAl Sadd -Zone 38 , Al Rayyan Road\nSuhaim bin Hamad St (C Ring) -St 231\n23487 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2907963,
+        "lon": 51.5023606
+      }
     },
     {
       "name": "Barood Factory",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Barood-Factory",
-      "address": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2050932,
+        "lon": 51.4369124
+      }
     },
     {
       "name": "Barzan Aeronautical",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Barzan-Aeronautical",
-      "address": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2050932,
+        "lon": 51.4369124
+      }
     },
     {
       "name": "Barzan Holdings",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Barzan-Holdings",
-      "address": "PO Box 7178\n00000 DOHA\nQATAR"
+      "address": {
+        "text": "PO Box 7178\n00000 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "Barzan Industrial Group",
@@ -214,157 +374,312 @@
     {
       "name": "Barzan Maintenance Shield",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Barzan-Maintenance-Shield",
-      "address": "QSTP LLC - Tech 4\n7187 DOHA\nQATAR"
+      "address": {
+        "text": "QSTP LLC - Tech 4\n7187 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3243121,
+        "lon": 51.43749570000001
+      }
     },
     {
       "name": "Basis Technology",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Basis-Technology",
-      "address": "1060 Broadway\n20000 SOMERVILLE\nMA\nUNITED STATES OF AMERICA"
+      "address": {
+        "text": "1060 Broadway\n20000 SOMERVILLE\nMA\nUNITED STATES OF AMERICA",
+        "iso2": "US",
+        "lat": 42.4019683,
+        "lon": -71.1247989
+      }
     },
     {
       "name": "Blackpoint Cyber",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Blackpoint-Cyber",
-      "address": "Sharq Capital Business Center\nC Ring Road, Building 311, Doha,\nFloor 2, Office 8\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Sharq Capital Business Center\nC Ring Road, Building 311, Doha,\nFloor 2, Office 8\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2650683,
+        "lon": 51.517651
+      }
     },
     {
       "name": "BooleBox",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/BooleBox",
-      "address": "Via Melchiorre Gioia, 112/A\n20125 MILAN\nMilan\nITALY"
+      "address": {
+        "text": "Via Melchiorre Gioia, 112/A\n20125 MILAN\nMilan\nITALY",
+        "iso2": "IT",
+        "lat": 45.4927084,
+        "lon": 9.2050457
+      }
     },
     {
       "name": "CBC",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CBC",
-      "address": "Av Humberto de Campos, 3220\nGuapituba\n09426-900 RIBEIRAO PIRES\nSP\nBRAZIL"
+      "address": {
+        "text": "Av Humberto de Campos, 3220\nGuapituba\n09426-900 RIBEIRAO PIRES\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.6983278,
+        "lon": -46.4394743
+      }
     },
     {
       "name": "CCI SEINE ET MARNE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CCI-SEINE-ET-MARNE",
-      "address": "1 avenue Johannes Gutenberg\nSerris CS 70045\n77776 MARNE-LA-VALLÉE CEDEX 4\nFRANCE"
+      "address": {
+        "text": "1 avenue Johannes Gutenberg\nSerris CS 70045\n77776 MARNE-LA-VALLÉE CEDEX 4\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8371654,
+        "lon": 2.794811
+      }
     },
     {
       "name": "CERBAIR",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CERBAIR",
-      "address": "47 rue de la Vanne\n92120 MONTROUGE\nFRANCE"
+      "address": {
+        "text": "47 rue de la Vanne\n92120 MONTROUGE\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8135089,
+        "lon": 2.3281738
+      }
     },
     {
       "name": "CONDOR NON-LETHAL TECHNOLOGIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CONDOR-NON-LETHAL-TECHNOLOGIES",
-      "address": "Rua do Carmo, 7- 18º andar - Centro\n20011-020 RIO DE JANEIRO\nRJ\nBRAZIL"
+      "address": {
+        "text": "Rua do Carmo, 7- 18º andar - Centro\n20011-020 RIO DE JANEIRO\nRJ\nBRAZIL",
+        "iso2": "BR",
+        "lat": -22.9050066,
+        "lon": -43.1753086
+      }
     },
     {
       "name": "CONSOLIDATED ENGINEERING SYSTEMS CO. W",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CONSOLIDATED-ENGINEERING-SYSTEMS-CO-W",
-      "address": "Doha-Qatar\n3rd Floor, Kia Motors Bldg.\nAl Sadd Area, Al Rayyan Road\n24105 DOHA\nQATAR"
+      "address": {
+        "text": "Doha-Qatar\n3rd Floor, Kia Motors Bldg.\nAl Sadd Area, Al Rayyan Road\n24105 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2906541,
+        "lon": 51.5035513
+      }
     },
     {
       "name": "CRISTANINI",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CRISTANINI",
-      "address": "Via Porton, 5\n37010 RIVOLI VERONESE (VERONA)\nVerona\nITALY"
+      "address": {
+        "text": "Via Porton, 5\n37010 RIVOLI VERONESE (VERONA)\nVerona\nITALY",
+        "iso2": "IT",
+        "lat": 45.5743966,
+        "lon": 10.8021182
+      }
     },
     {
       "name": "CS GROUP - FRANCE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/CS-GROUP-FRANCE",
-      "address": "22 avene Galilée\n92350 LE PLESSIS-ROBINSON\nFRANCE"
+      "address": {
+        "text": "22 avene Galilée\n92350 LE PLESSIS-ROBINSON\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.7732483,
+        "lon": 2.2442794
+      }
     },
     {
       "name": "Canovate Ballistic",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Canovate-Ballistic",
-      "address": "Eksioglu Mah. Atabey Cd. No:12/1\nA Blok Cekmekoy\nTR 34794 ISTANBUL\nTURKEY"
+      "address": {
+        "text": "Eksioglu Mah. Atabey Cd. No:12/1\nA Blok Cekmekoy\nTR 34794 ISTANBUL\nTURKEY",
+        "iso2": "TR",
+        "lat": 41.0361213,
+        "lon": 29.2329771
+      }
     },
     {
       "name": "Control Contracting & Trading Co. Pvt. (Qatar) W.L.L.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Control-Contracting-and-Trading-Co-Pvt-Qatar-W-L-L",
-      "address": "Al Kuwari Bldg 21, Al Sadd St No. 343\nZone 39, P.O.Box 22665\nDoha Qatar\n22665 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Al Kuwari Bldg 21, Al Sadd St No. 343\nZone 39, P.O.Box 22665\nDoha Qatar\n22665 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2801453,
+        "lon": 51.4902473
+      }
     },
     {
       "name": "Covidence",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Covidence",
-      "address": "Strandvejen 2a\n8410 ROENDE\nDENMARK"
+      "address": {
+        "text": "Strandvejen 2a\n8410 ROENDE\nDENMARK",
+        "iso2": "DK",
+        "lat": 56.3027543,
+        "lon": 10.4643834
+      }
     },
     {
       "name": "DCI DEFENSE CONSEIL INTERNATIONAL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/DCI-DEFENSE-CONSEIL-INTERNATIONAL",
-      "address": "Immeuble Arc Ouest\n27-29 rue Leblanc\n75737 PARIS CEDEX 15\nFRANCE"
+      "address": {
+        "text": "Immeuble Arc Ouest\n27-29 rue Leblanc\n75737 PARIS CEDEX 15\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8384979,
+        "lon": 2.2759988
+      }
     },
     {
       "name": "Dell Technologies",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Dell-Technologies",
-      "address": "Dell Technologies & Solutions LLC\n9th Floor ,Tower2, The Gate Mall\nMaysaloun Street ,West Bay\n8299 DOHA\nQATAR"
+      "address": {
+        "text": "Dell Technologies & Solutions LLC\n9th Floor ,Tower2, The Gate Mall\nMaysaloun Street ,West Bay\n8299 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3229042,
+        "lon": 51.5266325
+      }
     },
     {
       "name": "Desan Shipyard",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Desan-Shipyard",
-      "address": "Tersaneler cad. no:36 Tuzla\n34992 ISTANBUL\nTURKEY"
+      "address": {
+        "text": "Tersaneler cad. no:36 Tuzla\n34992 ISTANBUL\nTURKEY",
+        "iso2": "TR",
+        "lat": 40.8358054,
+        "lon": 29.2705763
+      }
     },
     {
       "name": "EASY SYSTEMS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/EASY-SYSTEMS",
-      "address": "17 rue Denecourt\n77300 FONTAINEBLEAU\nFRANCE"
+      "address": {
+        "text": "17 rue Denecourt\n77300 FONTAINEBLEAU\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.403473,
+        "lon": 2.6984909
+      }
     },
     {
       "name": "ELISTAIR FRANCE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ELISTAIR-FRANCE",
-      "address": "12 chemin des Hirondelles\n69570 DARDILLY\nFRANCE"
+      "address": {
+        "text": "12 chemin des Hirondelles\n69570 DARDILLY\nFRANCE",
+        "iso2": "FR",
+        "lat": 45.8067363,
+        "lon": 4.7646701
+      }
     },
     {
       "name": "EMBRAER",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/EMBRAER",
-      "address": "Av das Nacoes Unidas 8501\nEldorado Business Tower 30º floor\n05427-070 SAO PAULO\nSP\nBRAZIL"
+      "address": {
+        "text": "Av das Nacoes Unidas 8501\nEldorado Business Tower 30º floor\n05427-070 SAO PAULO\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.5732837,
+        "lon": -46.6976698
+      }
     },
     {
       "name": "ERTC CENTER",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ERTC-CENTER",
-      "address": "07 rue de l'Industrie\n68360 SOULTZ\nFRANCE"
+      "address": {
+        "text": "07 rue de l'Industrie\n68360 SOULTZ\nFRANCE",
+        "iso2": "FR",
+        "lat": 47.8949936,
+        "lon": 7.2339691
+      }
     },
     {
       "name": "ETS MORIN",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ETS-MORIN",
-      "address": "23 bis rue des Bourguignons\n91310 MONTLHERY\nFRANCE"
+      "address": {
+        "text": "23 bis rue des Bourguignons\n91310 MONTLHERY\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.6457779,
+        "lon": 2.2731729
+      }
     },
     {
       "name": "EUROPEAN GUARDING & SECURITY SERVICES CO.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/EUROPEAN-GUARDING-and-SECURITY-SERVICES-CO",
-      "address": "New Salata, Doha Qatar\n96493 DOHA\nQATAR"
+      "address": {
+        "text": "New Salata, Doha Qatar\n96493 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "EXAVISION",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/EXAVISION",
-      "address": "ZAC Trajectoire\n8 Avenue Ernest Boffa\n30540 MILHAUD\nFRANCE"
+      "address": {
+        "text": "ZAC Trajectoire\n8 Avenue Ernest Boffa\n30540 MILHAUD\nFRANCE",
+        "iso2": "FR",
+        "lat": 43.7952469,
+        "lon": 4.3202178
+      }
     },
     {
       "name": "East Gear (International)",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/East-Gear-International",
-      "address": "Flat E, 2/F, Ka Ming Court\n688-690 Castle Peak road\nCheung Sha Wan\nNA HONG KONG\nHong Kong\nHONG KONG"
+      "address": {
+        "text": "Flat E, 2/F, Ka Ming Court\n688-690 Castle Peak road\nCheung Sha Wan\nNA HONG KONG\nHong Kong\nHONG KONG",
+        "iso2": "HK",
+        "lat": 22.3381547,
+        "lon": 114.1466293
+      }
     },
     {
       "name": "Edraq Healthcare Solutions",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Edraq-Healthcare-Solutions",
-      "address": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha, Building No. 15\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2050932,
+        "lon": 51.4369124
+      }
     },
     {
       "name": "Eshhar Security Services",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Eshhar-Security-Services",
-      "address": "4th Floor Bldg. No. 149 St. No. 220\nB Ring Road, Al Muntazah\n12221 DOHA\nQATAR"
+      "address": {
+        "text": "4th Floor Bldg. No. 149 St. No. 220\nB Ring Road, Al Muntazah\n12221 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2738574,
+        "lon": 51.5256652
+      }
     },
     {
       "name": "FAHED TRADING&CONTRACTING",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/FAHED-TRADINGandCONTRACTING",
-      "address": "WEST CORNER CENTRE\nAL ASIRI INTERCHANGE\nSALWA ROAD\n8877 DOHA\nQATAR"
+      "address": {
+        "text": "WEST CORNER CENTRE\nAL ASIRI INTERCHANGE\nSALWA ROAD\n8877 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2678512,
+        "lon": 51.5037519
+      }
     },
     {
       "name": "FB MECASYSTEM",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/FB-MECASYSTEM",
-      "address": "26 AV CHRISTIAN DOPPLER\n77700 BAILLY-ROMAINVILLIERS\nFRANCE"
+      "address": {
+        "text": "26 AV CHRISTIAN DOPPLER\n77700 BAILLY-ROMAINVILLIERS\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8428269,
+        "lon": 2.8005757
+      }
     },
     {
       "name": "FILCOM FIRE INTERNATIONAL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/FILCOM-FIRE-INTERNATIONAL",
-      "address": "5th Floor, Barwa Tower 1, Al Sadd\n00000 DOHA\nQATAR"
+      "address": {
+        "text": "5th Floor, Barwa Tower 1, Al Sadd\n00000 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2859763,
+        "lon": 51.50498839999999
+      }
     },
     {
       "name": "Fortinet",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Fortinet",
-      "address": "Dubai\n0000 DUBAI\nUNITED ARAB EMIRATES"
+      "address": {
+        "text": "Dubai\n0000 DUBAI\nUNITED ARAB EMIRATES",
+        "iso2": "AE",
+        "lat": 25.2048493,
+        "lon": 55.2707828
+      }
     },
     {
       "name": "G4S Qatar WLL",
@@ -373,87 +688,172 @@
     {
       "name": "GBM Qatar",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GBM-Qatar",
-      "address": "6th Floor, Al Dana Tower, Westbay\n0000 DOHA\nQATAR"
+      "address": {
+        "text": "6th Floor, Al Dana Tower, Westbay\n0000 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3267943,
+        "lon": 51.531888
+      }
     },
     {
       "name": "GEDION",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GEDION",
-      "address": "Perkunkiemio 4A\n12126 VILNIUS\nLITHUANIA"
+      "address": {
+        "text": "Perkunkiemio 4A\n12126 VILNIUS\nLITHUANIA",
+        "iso2": "LT",
+        "lat": 54.74127230000001,
+        "lon": 25.2226684
+      }
     },
     {
       "name": "GEORGES MORAND",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GEORGES-MORAND",
-      "address": "1-3 chemin du Goth\nPO Box 18\n87200 SAINT-JUNIEN\nFRANCE"
+      "address": {
+        "text": "1-3 chemin du Goth\nPO Box 18\n87200 SAINT-JUNIEN\nFRANCE",
+        "iso2": "FR",
+        "lat": 45.8819764,
+        "lon": 0.9069368999999998
+      }
     },
     {
       "name": "GLOBAL ARMORING FACTORY",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GLOBAL-ARMORING-FACTORY",
-      "address": "DOHA-QATAR, ALKHOR-INDUSTRIAL AREA\nAREA 74 - STR 34 - BLD 13\n3999 ALKHOR\nQATAR\nQATAR"
+      "address": {
+        "text": "DOHA-QATAR, ALKHOR-INDUSTRIAL AREA\nAREA 74 - STR 34 - BLD 13\n3999 ALKHOR\nQATAR\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "GLOBAL ENTERPRISE TECHNOLOGIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GLOBAL-ENTERPRISE-TECHNOLOGIES",
-      "address": "OFFICE NO. 3, 4TH FLOOR\nSALAM TOWER WEST BAY\nDOHA QATAR\n3629 DOHA\nQATAR\nQATAR"
+      "address": {
+        "text": "OFFICE NO. 3, 4TH FLOOR\nSALAM TOWER WEST BAY\nDOHA QATAR\n3629 DOHA\nQATAR\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3184461,
+        "lon": 51.530286
+      }
     },
     {
       "name": "GSC THEAULT",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/GSC-THEAULT",
-      "address": "ZA DU MAUDON\nRoute de la Haye-Pesnel\n50300 PONTS\nFRANCE"
+      "address": {
+        "text": "ZA DU MAUDON\nRoute de la Haye-Pesnel\n50300 PONTS\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.7074524,
+        "lon": -1.3448527
+      }
     },
     {
       "name": "Genua Gmbh",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Genua-Gmbh",
-      "address": "Domagkstrabe 7\n85551 KIRCHHEIM/MUNICH\nBauaria\nGERMANY"
+      "address": {
+        "text": "Domagkstrabe 7\n85551 KIRCHHEIM/MUNICH\nBauaria\nGERMANY",
+        "iso2": "DE",
+        "lat": 48.1774856,
+        "lon": 11.7602252
+      }
     },
     {
       "name": "Gulf Yachts",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Gulf-Yachts",
-      "address": "Street 808 ( Jouaan Street) Building 6\n11093 AL SADD - DOHA\nQatar - Doha (Zone 39)\nQATAR"
+      "address": {
+        "text": "Street 808 ( Jouaan Street) Building 6\n11093 AL SADD - DOHA\nQatar - Doha (Zone 39)\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2340917,
+        "lon": 51.5365153
+      }
     },
     {
       "name": "HAIX® Group",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/HAIXr-Group",
-      "address": "Auhofstraße 10\nAuhofstraße 10\n84048 MAINBURG\nBavaria\nGERMANY"
+      "address": {
+        "text": "Auhofstraße 10\nAuhofstraße 10\n84048 MAINBURG\nBavaria\nGERMANY",
+        "iso2": "DE",
+        "lat": 48.6306538,
+        "lon": 11.7783095
+      }
     },
     {
       "name": "Huawei Technologies L.L.C",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Huawei-Technologies-L-L-C",
-      "address": "11th floor\nBurj Al Gassar Building\n20968 DOHA\nQATAR"
+      "address": {
+        "text": "11th floor\nBurj Al Gassar Building\n20968 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3180443,
+        "lon": 51.522982
+      }
     },
     {
       "name": "INFODAS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/INFODAS",
-      "address": "Rhonestr. 2\n50765 COLOGNE\nGERMANY"
+      "address": {
+        "text": "Rhonestr. 2\n50765 COLOGNE\nGERMANY",
+        "iso2": "DE",
+        "lat": 51.02535,
+        "lon": 6.89554
+      }
     },
     {
       "name": "INTELLIGENT SECURITY SYSTEMS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/INTELLIGENT-SECURITY-SYSTEMS",
-      "address": "Jaidah Square\n0 DOHA\nQATAR"
+      "address": {
+        "text": "Jaidah Square\n0 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.272683,
+        "lon": 51.544842
+      }
     },
     {
       "name": "ISC Group Gulf W.L.L.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ISC-Group-Gulf-W-L-L",
-      "address": "PO 3602 Doha Qatar\n3602 DOHA\nQATAR"
+      "address": {
+        "text": "PO 3602 Doha Qatar\n3602 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2661888,
+        "lon": 51.5148228
+      }
     },
     {
       "name": "IVF HARTMANN LTD",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/IVF-HARTMANN-LTD",
-      "address": "Victor-von-Bruns-Strasse 28\n8212 NEUHAUSEN AM RHEINFALL\nSchhaffhausen\nSWITZERLAND"
+      "address": {
+        "text": "Victor-von-Bruns-Strasse 28\n8212 NEUHAUSEN AM RHEINFALL\nSchhaffhausen\nSWITZERLAND",
+        "iso2": "CH",
+        "lat": 47.6781883,
+        "lon": 8.6246377
+      }
     },
     {
       "name": "Ideal Solutions",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Ideal-Solutions",
-      "address": "Msheireb, Ariane Tower, 6th floor\nDoha, Qatar\nBuilding No. 8, Zone No. 13\n20851 DOHA\nQA\nQATAR"
+      "address": {
+        "text": "Msheireb, Ariane Tower, 6th floor\nDoha, Qatar\nBuilding No. 8, Zone No. 13\n20851 DOHA\nQA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2887681,
+        "lon": 51.5166804
+      }
     },
     {
       "name": "InVeris Training Solutions",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/InVeris-Training-Solutions",
-      "address": "296 Brogdon Road\n30024 SUWANEE\nGeorgia\nUNITED STATES OF AMERICA"
+      "address": {
+        "text": "296 Brogdon Road\n30024 SUWANEE\nGeorgia\nUNITED STATES OF AMERICA",
+        "iso2": "US",
+        "lat": 34.062156,
+        "lon": -84.0654685
+      }
     },
     {
       "name": "JV QATAR DRONES & Technology",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/JV-QATAR-DRONES-and-Technology",
-      "address": "CALLE ESTEBA TERRADAS 1\n28004 MADRID\nMADRID\nSPAIN"
+      "address": {
+        "text": "CALLE ESTEBA TERRADAS 1\n28004 MADRID\nMADRID\nSPAIN",
+        "iso2": "ES",
+        "lat": 40.46952599999999,
+        "lon": -3.6857491
+      }
     },
     {
       "name": "KEY TECHNICAL INTERNATIONAL (KTC)",
@@ -462,92 +862,182 @@
     {
       "name": "KRYPTUS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/KRYPTUS",
-      "address": "Rua Maria Tereza dias da Silva, 270\nBarao Geraldo\n13083-820 CAMPINAS\nSao Paulo\nBRAZIL"
+      "address": {
+        "text": "Rua Maria Tereza dias da Silva, 270\nBarao Geraldo\n13083-820 CAMPINAS\nSao Paulo\nBRAZIL",
+        "iso2": "BR",
+        "lat": -22.8127539,
+        "lon": -47.0794988
+      }
     },
     {
       "name": "Kudelski Security",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Kudelski-Security",
-      "address": "Route de Cheseaux 22-24\nCP 134\n1033 CHESEAUX\nSWITZERLAND"
+      "address": {
+        "text": "Route de Cheseaux 22-24\nCP 134\n1033 CHESEAUX\nSWITZERLAND",
+        "iso2": "CH",
+        "lat": 46.5926024,
+        "lon": 6.5958958
+      }
     },
     {
       "name": "LOUIS MARINE EQUIPMENT SALE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/LOUIS-MARINE-EQUIPMENT-SALE",
-      "address": "Zone: 91, Street 3086, Bldg. 162,\nStreet#38, Gate#126\n9864 BIRKAT AL AWAMER, QATAR\nQATAR"
+      "address": {
+        "text": "Zone: 91, Street 3086, Bldg. 162,\nStreet#38, Gate#126\n9864 BIRKAT AL AWAMER, QATAR\nQATAR",
+        "iso2": "QA",
+        "lat": 25.1845037,
+        "lon": 51.4524578
+      }
     },
     {
       "name": "Lufracom GmbH",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Lufracom-GmbH",
-      "address": "Karlsbader Str. 9a\n65479 RAUNHEIM\nGERMANY"
+      "address": {
+        "text": "Karlsbader Str. 9a\n65479 RAUNHEIM\nGERMANY",
+        "iso2": "DE",
+        "lat": 50.01081869999999,
+        "lon": 8.445254
+      }
     },
     {
       "name": "M&K LOGISTICS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MandK-LOGISTICS",
-      "address": "Rua Jacquey 164, Sala 31\nRudge Ramos\n09634-000 SAO BERNARDO DO CAMPO\nSP\nBRAZIL"
+      "address": {
+        "text": "Rua Jacquey 164, Sala 31\nRudge Ramos\n09634-000 SAO BERNARDO DO CAMPO\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.6536125,
+        "lon": -46.5698933
+      }
     },
     {
       "name": "MANNAI CORPORATION",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MANNAI-CORPORATION",
-      "address": "INDUSTRIAL AREA, STREET 5\n76 DOHA\nDOHA\nQATAR"
+      "address": {
+        "text": "INDUSTRIAL AREA, STREET 5\n76 DOHA\nDOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.21478,
+        "lon": 51.4343705
+      }
     },
     {
       "name": "MBDA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MBDA",
-      "address": "1 avenue Réaumur\n92350 LE PLESSIS-ROBINSON\nFRANCE"
+      "address": {
+        "text": "1 avenue Réaumur\n92350 LE PLESSIS-ROBINSON\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.7792059,
+        "lon": 2.2406432
+      }
     },
     {
       "name": "MC2 TECHNOLOGIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MC2-TECHNOLOGIES",
-      "address": "10 rue Hubble\nParc de la Haute Borne\nBâtiment 7\n59262 SAINGHIN-EN-MÉLANTOIS\nFRANCE"
+      "address": {
+        "text": "10 rue Hubble\nParc de la Haute Borne\nBâtiment 7\n59262 SAINGHIN-EN-MÉLANTOIS\nFRANCE",
+        "iso2": "FR",
+        "lat": 50.60136019999999,
+        "lon": 3.1526359
+      }
     },
     {
       "name": "MINISTRY OF INTERIOR, STATE OF QATAR",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MINISTRY-OF-INTERIOR-STATE-OF-QATAR",
-      "address": "ADMINISTRATIVE ANNEX BLDG\nWEST BAY\nPO BOX 22284\n. DOHA\nQATAR"
+      "address": {
+        "text": "ADMINISTRATIVE ANNEX BLDG\nWEST BAY\nPO BOX 22284\n. DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3217501,
+        "lon": 51.5334078
+      }
     },
     {
       "name": "MIRION TECHNOLOGIES (MGPI) SA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MIRION-TECHNOLOGIES-MGPI-SA",
-      "address": "174 Route d'Eyguières\n13113 LAMANON\nFRANCE"
+      "address": {
+        "text": "174 Route d'Eyguières\n13113 LAMANON\nFRANCE",
+        "iso2": "FR",
+        "lat": 43.6993601,
+        "lon": 5.0819749
+      }
     },
     {
       "name": "MK INDUSTRIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MK-INDUSTRIES",
-      "address": "9/12 Afzal Cheema Shaheed Road\n51310 SIALKOT\nPunjab\nPAKISTAN"
+      "address": {
+        "text": "9/12 Afzal Cheema Shaheed Road\n51310 SIALKOT\nPunjab\nPAKISTAN",
+        "iso2": "PK",
+        "lat": 32.5276189,
+        "lon": 74.5567778
+      }
     },
     {
       "name": "MOHAMMED HAMAD AL MANA SECURITY SYSTEMS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MOHAMMED-HAMAD-AL-MANA-SECURITY-SYSTEMS",
-      "address": "LEVEL 22, TORNADO TOWER, WEST BAY\n27774 DOHA\nQATAR"
+      "address": {
+        "text": "LEVEL 22, TORNADO TOWER, WEST BAY\n27774 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3193029,
+        "lon": 51.5279858
+      }
     },
     {
       "name": "MOSECO TECHNOLOGY",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/MOSECO-TECHNOLOGY",
-      "address": "Sport Accelerator, Aspire Zone\nAspire Zone\n5406 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Sport Accelerator, Aspire Zone\nAspire Zone\n5406 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2637146,
+        "lon": 51.4409012
+      }
     },
     {
       "name": "Malomatia",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Malomatia",
-      "address": "16 Floor, City Tower\nMarriott Marquis Hotel Tower\nOmer Al-Mukhtar St. West Bay\n24069 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "16 Floor, City Tower\nMarriott Marquis Hotel Tower\nOmer Al-Mukhtar St. West Bay\n24069 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3253442,
+        "lon": 51.5280069
+      }
     },
     {
       "name": "Microsoft Qatar",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Microsoft-Qatar",
-      "address": "Qatar\n1 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Qatar\n1 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "Motorola Solutions",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Motorola-Solutions",
-      "address": "Nova South, 160 Victoria St\nSW1E 5LB LONDON\nUNITED KINGDOM"
+      "address": {
+        "text": "Nova South, 160 Victoria St\nSW1E 5LB LONDON\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 51.4968792,
+        "lon": -0.143651
+      }
     },
     {
       "name": "NEXT SMART SOLUTIONS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/NEXT-SMART-SOLUTIONS",
-      "address": "DOHA\nBuilding 1, Flat 1\n00000 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "DOHA\nBuilding 1, Flat 1\n00000 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2122561,
+        "lon": 51.5742924
+      }
     },
     {
       "name": "NEXTER ROBOTICS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/NEXTER-ROBOTICS",
-      "address": "13 ROUTE DE LA MINIERE\n78000 VERSAILLES\nFRANCE"
+      "address": {
+        "text": "13 ROUTE DE LA MINIERE\n78000 VERSAILLES\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.7838304,
+        "lon": 2.1033335
+      }
     },
     {
       "name": "NUCTECH COMPANY LIMITED",
@@ -556,282 +1046,562 @@
     {
       "name": "NUROL MAKINA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/NUROL-MAKINA",
-      "address": "Organize sanayi bölgesi\nAvrupa Hun caddesi n° 6\n06935 SINCAN\nAnkara\nTURKEY"
+      "address": {
+        "text": "Organize sanayi bölgesi\nAvrupa Hun caddesi n° 6\n06935 SINCAN\nAnkara\nTURKEY",
+        "iso2": "TR",
+        "lat": 39.9760692,
+        "lon": 32.5446862
+      }
     },
     {
       "name": "NUVIA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/NUVIA",
-      "address": "280 Avenue Napoléon Bonaparte\n92500 RUEIL-MALMAISON\nFRANCE"
+      "address": {
+        "text": "280 Avenue Napoléon Bonaparte\n92500 RUEIL-MALMAISON\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8743226,
+        "lon": 2.164891
+      }
     },
     {
       "name": "Nokia",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Nokia",
-      "address": "12th Flr, Al Asmakh Tower Building 49\nMajilis Al Taawon 213\nSt. 864, Zone 63, West Bay\n23179 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "12th Flr, Al Asmakh Tower Building 49\nMajilis Al Taawon 213\nSt. 864, Zone 63, West Bay\n23179 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3198024,
+        "lon": 51.5272067
+      }
     },
     {
       "name": "Nuix",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Nuix",
-      "address": "Dubai Internet City\n00000 DUBAI\nUAE\nUNITED ARAB EMIRATES"
+      "address": {
+        "text": "Dubai Internet City\n00000 DUBAI\nUAE\nUNITED ARAB EMIRATES",
+        "iso2": "AE",
+        "lat": 25.0976119,
+        "lon": 55.163109
+      }
     },
     {
       "name": "OBVIOUS TECHNOLOGIES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/OBVIOUS-TECHNOLOGIES",
-      "address": "22 Quai Gallieni\n92150 SURESNES\nFRANCE"
+      "address": {
+        "text": "22 Quai Gallieni\n92150 SURESNES\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8699133,
+        "lon": 2.2307149
+      }
     },
     {
       "name": "OMEGA KONCEPT",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/OMEGA-KONCEPT",
-      "address": "8 rue de l'Égalite\n78490 MÉRÉ\nFRANCE"
+      "address": {
+        "text": "8 rue de l'Égalite\n78490 MÉRÉ\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.786065,
+        "lon": 1.818779
+      }
     },
     {
       "name": "OPD Group",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/OPD-Group",
-      "address": "IL Bustan Bldg 6th Floor Al Sadd\n37586 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "IL Bustan Bldg 6th Floor Al Sadd\n37586 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2838208,
+        "lon": 51.4913579
+      }
     },
     {
       "name": "Ooredoo",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Ooredoo",
-      "address": "West Bay\n217 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "West Bay\n217 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3217501,
+        "lon": 51.5334078
+      }
     },
     {
       "name": "PARAPACTUM",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/PARAPACTUM",
-      "address": "22 quai Alexandre III\n22 Quai Alexandre III,\n50100 CHERBOURG-EN-COTENTIN\nFRANCE"
+      "address": {
+        "text": "22 quai Alexandre III\n22 Quai Alexandre III,\n50100 CHERBOURG-EN-COTENTIN\nFRANCE",
+        "iso2": "FR",
+        "lat": 49.637811,
+        "lon": -1.621889
+      }
     },
     {
       "name": "PITAGONE SA-NV",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/PITAGONE-SA-NV",
-      "address": "Boulevard Paepsem, 16\n1070 BRUSSELS\nBELGIUM"
+      "address": {
+        "text": "Boulevard Paepsem, 16\n1070 BRUSSELS\nBELGIUM",
+        "iso2": "BE",
+        "lat": 50.8251926,
+        "lon": 4.314307299999999
+      }
     },
     {
       "name": "Price Western",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Price-Western",
-      "address": "Vennland way\nPonsford road\nTA24 5DX MINEHEAD\nUNITED KINGDOM"
+      "address": {
+        "text": "Vennland way\nPonsford road\nTA24 5DX MINEHEAD\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 51.2034696,
+        "lon": -3.4709063
+      }
     },
     {
       "name": "Protection Security Services",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Protection-Security-Services",
-      "address": "Salwa RD showroom # 1\nQuality Hyper Market\n7307 DOHA\nQATAR\nQATAR"
+      "address": {
+        "text": "Salwa RD showroom # 1\nQuality Hyper Market\n7307 DOHA\nQATAR\nQATAR",
+        "iso2": "QA",
+        "lat": 25.241891,
+        "lon": 51.4581908
+      }
     },
     {
       "name": "QATAR DATAMATION SYSTEMS W.LL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/QATAR-DATAMATION-SYSTEMS-W-LL",
-      "address": "Street 343\n13856 DOHA\nQATAR"
+      "address": {
+        "text": "Street 343\n13856 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "QATAR INTERNAL SECURITY FORCE",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/QATAR-INTERNAL-SECURITY-FORCE",
-      "address": "Internal Security Force Building\nPO Box 6799\n. DOHA\nQATAR"
+      "address": {
+        "text": "Internal Security Force Building\nPO Box 6799\n. DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2757076,
+        "lon": 51.46902979999999
+      }
     },
     {
       "name": "QATAR SITE & POWER WLL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/QATAR-SITE-and-POWER-WLL",
-      "address": "Bldg 59 Zone 45, Street 250\nD Ring Road, Doha, Qatar\n24538 DOHA\nDoha\nQATAR"
+      "address": {
+        "text": "Bldg 59 Zone 45, Street 250\nD Ring Road, Doha, Qatar\n24538 DOHA\nDoha\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2542639,
+        "lon": 51.5188327
+      }
     },
     {
       "name": "QIASS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/QIASS",
-      "address": "PO Box 18508\n00000 DOHA\nQATAR"
+      "address": {
+        "text": "PO Box 18508\n00000 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "QSUR Trading",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/QSUR-Trading",
-      "address": "Burj Doha, Building No. 15\n31st Floor\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha, Building No. 15\n31st Floor\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3174749,
+        "lon": 51.5283966
+      }
     },
     {
       "name": "Qatar Cybersecurity Academy",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Qatar-Cybersecurity-Academy",
-      "address": "Burj Doha\nCorniche Road\nWest Bay\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Burj Doha\nCorniche Road\nWest Bay\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3174938,
+        "lon": 51.5283427
+      }
     },
     {
       "name": "Qatar Factory Naffco",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Qatar-Factory-Naffco",
-      "address": "Building No 195, Zone- 81, Street 23 K\nNew Industrial Area\nDoha, State of Qatar\n55644 DOHA\nQATAR"
+      "address": {
+        "text": "Building No 195, Zone- 81, Street 23 K\nNew Industrial Area\nDoha, State of Qatar\n55644 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.1957197,
+        "lon": 51.4354009
+      }
     },
     {
       "name": "Qgenius Cyber Security Shield",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Qgenius-Cyber-Security-Shield",
-      "address": "New Al Mirqab,Area no.39, Building 53\nFloor No. 3,Office no. D305\n9804 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "New Al Mirqab,Area no.39, Building 53\nFloor No. 3,Office no. D305\n9804 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "RBAT",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/RBAT",
-      "address": "Qatar Science & Technology Park\nTech4, Building 47, Unit 1\nP.O. Box 210 007\n7178 DOHA\nQATAR"
+      "address": {
+        "text": "Qatar Science & Technology Park\nTech4, Building 47, Unit 1\nP.O. Box 210 007\n7178 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3253148,
+        "lon": 51.4374435
+      }
     },
     {
       "name": "RED-E GROUP",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/RED-E-GROUP",
-      "address": "189 rue d'Aubervilliers\n75018 PARIS\nFRANCE"
+      "address": {
+        "text": "189 rue d'Aubervilliers\n75018 PARIS\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8968651,
+        "lon": 2.3699327
+      }
     },
     {
       "name": "REGULA",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/REGULA",
-      "address": "97 A. Pumpura street\nLV-5404 DAUGAVPILS\nLATVIA\nLATVIA"
+      "address": {
+        "text": "97 A. Pumpura street\nLV-5404 DAUGAVPILS\nLATVIA\nLATVIA",
+        "iso2": "LV",
+        "lat": 55.881241,
+        "lon": 26.5352506
+      }
     },
     {
       "name": "RHODE & SCHWARZ",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/RHODE-and-SCHWARZ",
-      "address": "Office 210, Building No. 1\nDubai Media City, P.O. Box 502075\n502075 DUBAI\nDubai\nUNITED ARAB EMIRATES"
+      "address": {
+        "text": "Office 210, Building No. 1\nDubai Media City, P.O. Box 502075\n502075 DUBAI\nDubai\nUNITED ARAB EMIRATES",
+        "iso2": "AE",
+        "lat": 25.0961362,
+        "lon": 55.1575893
+      }
     },
     {
       "name": "ROSENBAUER INTERNATIONAL AG",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/ROSENBAUER-INTERNATIONAL-AG",
-      "address": "PASCHINGER STRAßE 90\n4060 LEONDING\nOBERÖSTERREICH\nAUSTRIA"
+      "address": {
+        "text": "PASCHINGER STRAßE 90\n4060 LEONDING\nOBERÖSTERREICH\nAUSTRIA",
+        "iso2": "AT",
+        "lat": 48.2713893,
+        "lon": 14.2434823
+      }
     },
     {
       "name": "Rubrik",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Rubrik",
-      "address": "Doha\n22854 AD-DAWHAH\nNot Available\nQATAR"
+      "address": {
+        "text": "Doha\n22854 AD-DAWHAH\nNot Available\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "SAPL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/SAPL",
-      "address": "Le Biot - Gauville\n61550 LA FERTÉ-EN-OUCHE\nFRANCE"
+      "address": {
+        "text": "Le Biot - Gauville\n61550 LA FERTÉ-EN-OUCHE\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.817499,
+        "lon": 0.563402
+      }
     },
     {
       "name": "SEAOWL GROUP",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/SEAOWL-GROUP",
-      "address": "16 RUE RIVAY\n92300 LEVALLOIS PERRET\nFRANCE"
+      "address": {
+        "text": "16 RUE RIVAY\n92300 LEVALLOIS PERRET\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.8920363,
+        "lon": 2.2916075
+      }
     },
     {
       "name": "SERB",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/SERB",
-      "address": "40 avenue George V\n75008 PARIS\nFRANCE"
+      "address": {
+        "text": "40 avenue George V\n75008 PARIS\nFRANCE",
+        "iso2": "FR",
+        "lat": 48.86975750000001,
+        "lon": 2.3014047
+      }
     },
     {
       "name": "SIATT",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/SIATT",
-      "address": "Estrada Dr Altino Bondesan 500 - CE1\nSala 206\n12247-016 SAO JOSE DOS CAMPOS\nSP\nBRAZIL"
+      "address": {
+        "text": "Estrada Dr Altino Bondesan 500 - CE1\nSala 206\n12247-016 SAO JOSE DOS CAMPOS\nSP\nBRAZIL",
+        "iso2": "BR",
+        "lat": -23.1899593,
+        "lon": -45.7880461
+      }
     },
     {
       "name": "STID",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/STID",
-      "address": "20, Parc d'activités des Pradeaux\nBD SALVADOR ALLENDE\n13850 GREASQUE\nFRANCE"
+      "address": {
+        "text": "20, Parc d'activités des Pradeaux\nBD SALVADOR ALLENDE\n13850 GREASQUE\nFRANCE",
+        "iso2": "FR",
+        "lat": 43.4343624,
+        "lon": 5.5412842
+      }
     },
     {
       "name": "Salam Petroleum Services",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Salam-Petroleum-Services",
-      "address": "The Gate Mall, 5th Floor, Tower 2,\nMaysaloun Street\nWest Bay\nPO Bo 2208 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "The Gate Mall, 5th Floor, Tower 2,\nMaysaloun Street\nWest Bay\nPO Bo 2208 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3219867,
+        "lon": 51.526212
+      }
     },
     {
       "name": "Salam Technology",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Salam-Technology",
-      "address": "Maysaloun Street, The Gate Mall, Tower\nTower 2, 6th Floor\nSalam Technology\n22658 DOHA\nDoha\nQATAR"
+      "address": {
+        "text": "Maysaloun Street, The Gate Mall, Tower\nTower 2, 6th Floor\nSalam Technology\n22658 DOHA\nDoha\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3223336,
+        "lon": 51.5268767
+      }
     },
     {
       "name": "Saleh Al Hamad Al Mana Co. (Nissan)",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Saleh-Al-Hamad-Al-Mana-Co-Nissan",
-      "address": "Salwa Road\n91 DOHA\nQatar\nQATAR"
+      "address": {
+        "text": "Salwa Road\n91 DOHA\nQatar\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2304703,
+        "lon": 51.44011980000001
+      }
     },
     {
       "name": "Sarena Textile Industries",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Sarena-Textile-Industries",
-      "address": "22-KM Lahore Sheikhupura Road\n54000 LAHORE\nPunjab\nPAKISTAN"
+      "address": {
+        "text": "22-KM Lahore Sheikhupura Road\n54000 LAHORE\nPunjab\nPAKISTAN",
+        "iso2": "PK",
+        "lat": 31.6674226,
+        "lon": 74.122237
+      }
     },
     {
       "name": "SecuScan®",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/SecuScanr",
-      "address": "Bodenseestraße 113\n81243 MUNICH\nBavaria\nGERMANY"
+      "address": {
+        "text": "Bodenseestraße 113\n81243 MUNICH\nBavaria\nGERMANY",
+        "iso2": "DE",
+        "lat": 48.14427120000001,
+        "lon": 11.4384297
+      }
     },
     {
       "name": "Silent Sentinel Ltd",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Silent-Sentinel-Ltd",
-      "address": "1-2 Riverside\nStanstead Abbotts\nSG12 8AP WARE\nUNITED KINGDOM"
+      "address": {
+        "text": "1-2 Riverside\nStanstead Abbotts\nSG12 8AP WARE\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 51.7868186,
+        "lon": 0.0041529
+      }
     },
     {
       "name": "Stark Motors",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Stark-Motors",
-      "address": "Doha Qatar\n45487 DOHA\nQATAR"
+      "address": {
+        "text": "Doha Qatar\n45487 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2854473,
+        "lon": 51.53103979999999
+      }
     },
     {
       "name": "T3K.AI",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/T3K-AI",
-      "address": "Jacquingasse 51/3\n1030 Vienna, Austria\n1030 VIENNA\nVienna\nAUSTRIA"
+      "address": {
+        "text": "Jacquingasse 51/3\n1030 Vienna, Austria\n1030 VIENNA\nVienna\nAUSTRIA",
+        "iso2": "AT",
+        "lat": 48.1914579,
+        "lon": 16.384759
+      }
     },
     {
       "name": "TACTICAL STEEL",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/TACTICAL-STEEL-2",
-      "address": "117 AV MARCEL BERRE\n83500 LA SEYNE SUR MER\nFRANCE"
+      "address": {
+        "text": "117 AV MARCEL BERRE\n83500 LA SEYNE SUR MER\nFRANCE",
+        "iso2": "FR",
+        "lat": 43.1185937,
+        "lon": 5.8666694
+      }
     },
     {
       "name": "TAURUS ARMAS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/TAURUS-ARMAS",
-      "address": "AV SAO BORJA, 2181\n93035-411 SAO LEOPOLDO\nRS\nBRAZIL"
+      "address": {
+        "text": "AV SAO BORJA, 2181\n93035-411 SAO LEOPOLDO\nRS\nBRAZIL",
+        "iso2": "BR",
+        "lat": -29.7868855,
+        "lon": -51.1186897
+      }
     },
     {
       "name": "TECHNO DOORS",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/TECHNO-DOORS",
-      "address": "New Industrial Area\nPink Zone, Street No. M12\nDoha - Qatar\n203162 DOHA\nQATAR"
+      "address": {
+        "text": "New Industrial Area\nPink Zone, Street No. M12\nDoha - Qatar\n203162 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.31621,
+        "lon": 51.4659616
+      }
     },
     {
       "name": "TEYSEER INDUSTRIAL SUPPLIES & SERVICES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/TEYSEER-INDUSTRIAL-SUPPLIES-and-SERVICES",
-      "address": "SALWA INDUSTRIAL AREA\nBUILDING 121/125 (GATE 55) , STREET NO\nAL WAKALAT STREET\nPO BOX 405 DOHA\nQATAR"
+      "address": {
+        "text": "SALWA INDUSTRIAL AREA\nBUILDING 121/125 (GATE 55) , STREET NO\nAL WAKALAT STREET\nPO BOX 405 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2018699,
+        "lon": 51.4451347
+      }
     },
     {
       "name": "TEYSEER MOTORS W.L.L.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/TEYSEER-MOTORS-W-L-L",
-      "address": "Al Matar Street (Old Airport Road)\n35086 DOHA\nQATAR"
+      "address": {
+        "text": "Al Matar Street (Old Airport Road)\n35086 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2545938,
+        "lon": 51.5634781
+      }
     },
     {
       "name": "THALES",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/THALES",
-      "address": "Al Rayyan Road Kia Showroom Building,\nDOHA - QATAR\n486441 DOHA\nFRANCE"
+      "address": {
+        "text": "Al Rayyan Road Kia Showroom Building,\nDOHA - QATAR\n486441 DOHA\nFRANCE",
+        "iso2": "QA",
+        "lat": 25.2924734,
+        "lon": 51.4933394
+      }
     },
     {
       "name": "Teyseer Security Services",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Teyseer-Security-Services",
-      "address": "Fereej Al Nasr- Al Amir Street- Midmac\nAl Wakalat Street- Industrial Area\nOld Airport road\n55017 DOHA\n---\nQATAR"
+      "address": {
+        "text": "Fereej Al Nasr- Al Amir Street- Midmac\nAl Wakalat Street- Industrial Area\nOld Airport road\n55017 DOHA\n---\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2859002,
+        "lon": 51.4823949
+      }
     },
     {
       "name": "Thompson's Specialties Middle East",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Thompson-s-Specialties-Middle-East",
-      "address": "Street #3 Industrial Bldg 22 Mars Tra\nPO 23909\n23909 DOHA\nQATAR"
+      "address": {
+        "text": "Street #3 Industrial Bldg 22 Mars Tra\nPO 23909\n23909 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2661888,
+        "lon": 51.5148228
+      }
     },
     {
       "name": "Traffic Tech (Gulf) W.L.L.",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Traffic-Tech-Gulf-W-L-L",
-      "address": "Milaha Commercial Building - Zone I\nEast Industrial Street\nP.O. Box 30704, Doha, Qatar\n30704 DOHA\nQATAR"
+      "address": {
+        "text": "Milaha Commercial Building - Zone I\nEast Industrial Street\nP.O. Box 30704, Doha, Qatar\n30704 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2091249,
+        "lon": 51.4445007
+      }
     },
     {
       "name": "UK Defence & Security Exports",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/UK-Defence-and-Security-Exports",
-      "address": "3 Whitehall Place\nLondon\nSW1A 2AW LONDON\nUNITED KINGDOM"
+      "address": {
+        "text": "3 Whitehall Place\nLondon\nSW1A 2AW LONDON\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 51.50633029999999,
+        "lon": -0.1241018
+      }
     },
     {
       "name": "UNION FIRE PROTECTION",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/UNION-FIRE-PROTECTION",
-      "address": "PO 45014,\nWholesale Market Road\n45014 DOHA\n--N/A--\nQATAR"
+      "address": {
+        "text": "PO 45014,\nWholesale Market Road\n45014 DOHA\n--N/A--\nQATAR",
+        "iso2": "QA",
+        "lat": 25.2333324,
+        "lon": 51.4852461
+      }
     },
     {
       "name": "UTM Limited",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/UTM-Limited",
-      "address": "HAMPSTEAD AVENUE\nMILDENHALL\nIP28 7AS MILDENHALL\nSUFFLOK\nUNITED KINGDOM"
+      "address": {
+        "text": "HAMPSTEAD AVENUE\nMILDENHALL\nIP28 7AS MILDENHALL\nSUFFLOK\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 52.3553732,
+        "lon": 0.5071192
+      }
     },
     {
       "name": "UZMAR SHIPYARD",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/UZMAR-SHIPYARD",
-      "address": "KOSBAS Sepetlipinar SB Mah. 102. Cad.\nNo:14-16 Basiskele, 41090 Kocaeli, Tur\n41090 KOCAELI\nTURKEY"
+      "address": {
+        "text": "KOSBAS Sepetlipinar SB Mah. 102. Cad.\nNo:14-16 Basiskele, 41090 Kocaeli, Tur\n41090 KOCAELI\nTURKEY",
+        "iso2": "TR",
+        "lat": 40.7234914,
+        "lon": 29.865111
+      }
     },
     {
       "name": "Waseela",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Waseela",
-      "address": "Al Nasr Tower A office 301 West Bay\n22854 DOHA\nOther\nQATAR"
+      "address": {
+        "text": "Al Nasr Tower A office 301 West Bay\n22854 DOHA\nOther\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3128521,
+        "lon": 51.5190734
+      }
     },
     {
       "name": "Winsted Control Room Consoles",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/Winsted-Control-Room-Consoles",
-      "address": "Winsted Limited\nUnit D1, Bromsgrove Enterprise Park\nB60 3FL BROMSGROVE\nWorcestershire\nUNITED KINGDOM"
+      "address": {
+        "text": "Winsted Limited\nUnit D1, Bromsgrove Enterprise Park\nB60 3FL BROMSGROVE\nWorcestershire\nUNITED KINGDOM",
+        "iso2": "GB",
+        "lat": 52.3154796,
+        "lon": -2.0578028
+      }
     },
     {
       "name": "everteamGS-Intalio",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/everteamGS-Intalio",
-      "address": "Dafna - Onaiza\nAl Reem Tower, West Bay\n7th Floor, Office 29\n17798 DOHA\nQATAR"
+      "address": {
+        "text": "Dafna - Onaiza\nAl Reem Tower, West Bay\n7th Floor, Office 29\n17798 DOHA\nQATAR",
+        "iso2": "QA",
+        "lat": 25.3259788,
+        "lon": 51.5265092
+      }
     },
     {
       "name": "mh Service GmbH",
       "exhibitorUrl": "https://www.milipolqatar.com/Milipol-Qatar-Catalogue/Exhibitor/mh-Service-GmbH",
-      "address": "Office No.10\nAlfa Offices, Nadd Al Hamar\n00000 DUBAI\nUAE\nUNITED ARAB EMIRATES"
+      "address": {
+        "text": "Office No.10\nAlfa Offices, Nadd Al Hamar\n00000 DUBAI\nUAE\nUNITED ARAB EMIRATES",
+        "iso2": "AE",
+        "lat": 25.1847438,
+        "lon": 55.3803616
+      }
     }
   ]
 }

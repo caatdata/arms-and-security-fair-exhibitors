@@ -4,7 +4,12 @@
   "edition": "2022",
   "startDate": "2022-03-10",
   "endDate": "2022-03-13",
-  "address": "Helipad Exhibition Centre (HEC)\nGandhinagar\nGujarat\nIndia",
+  "address": {
+    "text": "Helipad Exhibition Centre (HEC)\nGandhinagar\nGujarat\nIndia",
+    "iso2": "IN",
+    "lat": 23.2254858,
+    "lon": 72.6535723
+  },
   "website": "https://defexpo.gov.in",
   "organiser": [
     {
