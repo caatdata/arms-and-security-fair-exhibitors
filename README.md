@@ -30,6 +30,17 @@ Any enquiries may be directed to `data@caat.org.uk`.
 Corrections may be submitted by email or as GitHub issues.
 
 
+## Visualisations
+
+### Event locations worldwide
+
+![Event heatmap](/image/event.png?raw=true "Event heatmap")
+
+### Exhibitor locations worldwide
+
+![Exhibitor heatmap](/image/exhibitor.png?raw=true "Exhibitor heatmap")
+
+
 ## Statistics
 
 -   **63** series

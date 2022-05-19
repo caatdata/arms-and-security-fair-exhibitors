@@ -22,3 +22,28 @@ summary.csv : $(FAIR_JSON)
 
 task :
 	python/task.py ignore.csv data/
+
+
+image/event.png : python/event.geo.json python/plot-map.py python/map.html python/map.js python/map.css
+	python/plot-map.py -v python/event.geo.json $@
+
+image/exhibitor.png : python/exhibitor.geo.json python/plot-map.py python/map.html python/map.js python/map.css
+	python/plot-map.py -v python/exhibitor.geo.json $@
+
+
+python/event.jsonl : $(FAIR_JSON) python/event-geojson.jq
+	rm -f $@
+	jq --indent N -f python/event-geojson.jq $(FAIR_JSON) >> $@
+
+python/event.geo.json : python/event.jsonl
+	rm -f $@
+	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+
+python/exhibitor.jsonl : $(FAIR_JSON) python/exhibitor-geojson.jq
+	rm -f $@
+	jq --indent N -f python/exhibitor-geojson.jq $(FAIR_JSON) >> $@
+
+python/exhibitor.geo.json : python/exhibitor.jsonl
+	rm -f $@
+	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+
