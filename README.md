@@ -32,17 +32,21 @@ Corrections may be submitted by email or as GitHub issues.
 
 ## Visualisations
 
-### Event locations worldwide
+### Fair locations worldwide
 
-![Event heatmap](/image/event.png?raw=true "Event heatmap")
+![Heatmap of arms and security fair locations worldwide](/image/event.png?raw=true)
 
 ### Exhibitor locations worldwide
 
-![Exhibitor heatmap](/image/exhibitor.png?raw=true "Exhibitor heatmap")
+![Heatmap of arms and security fair exhibitor locations worldwide](/image/exhibitor.png?raw=true)
 
 ### Exhibitor categories
 
-![Exhibitor category word cloud](/image/category.png?raw=true "Exhibitor category word cloud")
+![Word cloud of arms and security fair exhibitor categories](/image/category.png?raw=true)
+
+### Exhibitors at UK fairs
+
+![World map of exhibitors travelling to arms and security fairs in the UK](/image/travel-gb.png?raw=true)
 
 
 ## Statistics

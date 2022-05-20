@@ -2,6 +2,8 @@ SHELL := /bin/bash
 
 FAIR_JSON_GLOB := data/*.json
 FAIR_JSON := $(wildcard $(FAIR_JSON_GLOB))
+TMP_DIR = /tmp/arms-fair-data
+TMP = $(TMP_DIR)/tmp
 
 all : check-schema sanitize summary.csv task
 
@@ -24,39 +26,50 @@ summary.csv : $(FAIR_JSON)
 task :
 	tools/task.py ignore.csv data/
 
-
-image/event.png : tools/event.geo.json tools/heatmap.py tools/heatmap.html tools/heatmap.js tools/heatmap.css
-	tools/heatmap.py -v tools/event.geo.json $@
-
-image/exhibitor.png : tools/exhibitor.geo.json tools/heatmap.py tools/heatmap.html tools/heatmap.js tools/heatmap.css
-	tools/heatmap.py -v tools/exhibitor.geo.json $@
+$(TMP_DIR) :
+	mkdir -p $@
 
 
-tools/event.jsonl : $(FAIR_JSON) tools/event-geojson.jq
-	rm -f $@
-	jq --indent N -f tools/event-geojson.jq $(FAIR_JSON_GLOB) >> $@
+image/event.png : $(TMP_DIR)/event.geo.json tools/map.html tools/map.css tools/heatmap.py tools/heatmap.js
+	tools/heatmap.py -v $< $@
 
-tools/event.geo.json : tools/event.jsonl
-	rm -f $@
-	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+image/exhibitor.png : $(TMP_DIR)/exhibitor.geo.json tools/map.html tools/map.css tools/heatmap.py tools/heatmap.js
+	tools/heatmap.py -v $< $@
 
-tools/exhibitor.jsonl : $(FAIR_JSON) tools/exhibitor-geojson.jq
-	rm -f $@
-	jq --indent N -f tools/exhibitor-geojson.jq $(FAIR_JSON_GLOB) >> $@
+image/travel-gb.png : $(TMP_DIR)/travel-gb.json tools/map.html tools/map.css tools/travel-map.py tools/travel-map.js
+	tools/travel-map.py -v $< $@
 
-tools/exhibitor.geo.json : tools/exhibitor.jsonl
-	rm -f $@
-	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
-
-
-tools/category.txt : $(FAIR_JSON) tools/category.jq
-	rm -f $@
-	jq -sr -f tools/category.jq $(FAIR_JSON_GLOB) >> $@
-
-image/category.png : tools/category.txt
+image/category.png : $(TMP_DIR)/category.txt
 # Add `--no_collocations` to disable bigrams
 	wordcloud_cli --text $^ \
 	  --width=1200 --height=600 --margin=15 \
 	  --background="#FAFAFA" --color="#E20613" \
 	  --imagefile $@
+
+
+$(TMP_DIR)/event.jsonl : tools/event-geojson.jq $(TMP_DIR) $(FAIR_JSON) 
+	rm -f $@
+	jq --indent N -f $< $(FAIR_JSON_GLOB) >> $@
+
+$(TMP_DIR)/event.geo.json : $(TMP_DIR)/event.jsonl
+	rm -f $@
+	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+
+$(TMP_DIR)/exhibitor.jsonl : tools/exhibitor-geojson.jq $(TMP_DIR) $(FAIR_JSON)
+	rm -f $@
+	jq --indent N -f $< $(FAIR_JSON_GLOB) >> $@
+
+$(TMP_DIR)/exhibitor.geo.json : $(TMP_DIR)/exhibitor.jsonl
+	rm -f $@
+	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+
+$(TMP_DIR)/travel-gb.json : tools/travel.jq $(TMP_DIR) $(FAIR_JSON)
+	rm -f $@
+	jq -fs --arg iso2 GB $< $(FAIR_JSON_GLOB) >> $@
+
+
+$(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON) 
+	rm -f $@
+	jq -sr -f $< $(FAIR_JSON_GLOB) >> $@
+
 

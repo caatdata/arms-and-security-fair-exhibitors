@@ -53,12 +53,12 @@ class RequestHandler(http.server.SimpleHTTPRequestHandler):
             self.end_headers()
             return
 
-        if path.name == "heatmap.js":
+        if path.name.endswith("map.js"):
             body = body.replace("__MAPBOX_API_KEY__", json.dumps(PRIVATE["mapboxApiKey"]))
             body = body.replace("__GEO_JSON_NAME__", json.dumps(GEO_JSON_PATH.name))
 
         if path.name == "map.html":
-            body = body.replace("__SCRIPT__", "heatmap.js")
+            body = body.replace("__SCRIPT__", "travel-map.js")
 
         self.send_response(200)
         self.send_header('Content-type', content_type)
