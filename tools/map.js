@@ -6,8 +6,9 @@ var map;
 
 var caatWhite = "#FFFFFF";
 var caatBlue = "#1E1D3E";
-var caatRed = "rgba(226,6,19,1)";
+var caatRed = "rgba(226,6,19,1)"; // #E20613
 var caatRedT = "rgba(226,6,19,0)";
+var caatGraphicBackground = "hsl(0,0,98)"; // #fafafa
 
 var canvas = document.createElement('canvas');
 var hasWebGL = !!(window.WebGLRenderingContext && (canvas.getContext('webgl') || canvas.getContext('experimental-webgl')));

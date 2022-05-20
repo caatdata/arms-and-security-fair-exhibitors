@@ -40,6 +40,10 @@ Corrections may be submitted by email or as GitHub issues.
 
 ![Exhibitor heatmap](/image/exhibitor.png?raw=true "Exhibitor heatmap")
 
+### Exhibitor categories
+
+![Exhibitor category word cloud](/image/category.png?raw=true "Exhibitor category word cloud")
+
 
 ## Statistics
 

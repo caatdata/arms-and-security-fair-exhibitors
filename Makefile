@@ -1,6 +1,7 @@
 SHELL := /bin/bash
 
-FAIR_JSON := $(wildcard data/*.json)
+FAIR_JSON_GLOB := data/*.json
+FAIR_JSON := $(wildcard $(FAIR_JSON_GLOB))
 
 all : check-schema sanitize summary.csv task
 
@@ -18,32 +19,44 @@ sanitize :
 	! grep -RIP '[^\\]"",?$$' data/
 
 summary.csv : $(FAIR_JSON)
-	python/summary.py data/*.json $@
+	tools/summary.py data/*.json $@
 
 task :
-	python/task.py ignore.csv data/
+	tools/task.py ignore.csv data/
 
 
-image/event.png : python/event.geo.json python/plot-map.py python/map.html python/map.js python/map.css
-	python/plot-map.py -v python/event.geo.json $@
+image/event.png : tools/event.geo.json tools/plot-map.py tools/map.html tools/map.js tools/map.css
+	tools/plot-map.py -v tools/event.geo.json $@
 
-image/exhibitor.png : python/exhibitor.geo.json python/plot-map.py python/map.html python/map.js python/map.css
-	python/plot-map.py -v python/exhibitor.geo.json $@
+image/exhibitor.png : tools/exhibitor.geo.json tools/plot-map.py tools/map.html tools/map.js tools/map.css
+	tools/plot-map.py -v tools/exhibitor.geo.json $@
 
 
-python/event.jsonl : $(FAIR_JSON) python/event-geojson.jq
+tools/event.jsonl : $(FAIR_JSON) tools/event-geojson.jq
 	rm -f $@
-	jq --indent N -f python/event-geojson.jq $(FAIR_JSON) >> $@
+	jq --indent N -f tools/event-geojson.jq $(FAIR_JSON_GLOB) >> $@
 
-python/event.geo.json : python/event.jsonl
+tools/event.geo.json : tools/event.jsonl
+	rm -f $@
+	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+
+tools/exhibitor.jsonl : $(FAIR_JSON) tools/exhibitor-geojson.jq
+	rm -f $@
+	jq --indent N -f tools/exhibitor-geojson.jq $(FAIR_JSON_GLOB) >> $@
+
+tools/exhibitor.geo.json : tools/exhibitor.jsonl
 	rm -f $@
 	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
 
-python/exhibitor.jsonl : $(FAIR_JSON) python/exhibitor-geojson.jq
-	rm -f $@
-	jq --indent N -f python/exhibitor-geojson.jq $(FAIR_JSON) >> $@
 
-python/exhibitor.geo.json : python/exhibitor.jsonl
+tools/category.txt : $(FAIR_JSON) tools/category.jq
 	rm -f $@
-	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
+	jq -sr -f tools/category.jq $(FAIR_JSON_GLOB) >> $@
+
+image/category.png : tools/category.txt
+# Add `--no_collocations` to disable bigrams
+	wordcloud_cli --text $^ \
+	  --width=1200 --height=600 --margin=15 \
+	  --background="#FAFAFA" --color="#E20613" \
+	  --imagefile $@
 
