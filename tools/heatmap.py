@@ -1,22 +1,13 @@
 #!/usr/bin/env python3
 
-import os
-import re
-import sys
 import json
 import base64
 import time
 import logging
 import argparse
-import datetime
 import threading
-import requests
 import http.server
-import socket
-from http.server import HTTPServer, SimpleHTTPRequestHandler
-from statistics import mean
 from pathlib import Path
-from collections import defaultdict
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -29,7 +20,7 @@ GEO_JSON_NAME = None
 
 
 
-class RequestHandler(SimpleHTTPRequestHandler):
+class RequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         path = Path(self.path[1:])
         if "/" in str(path):
