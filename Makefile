@@ -25,11 +25,11 @@ task :
 	tools/task.py ignore.csv data/
 
 
-image/event.png : tools/event.geo.json tools/plot-map.py tools/map.html tools/map.js tools/map.css
-	tools/plot-map.py -v tools/event.geo.json $@
+image/event.png : tools/event.geo.json tools/heatmap.py tools/heatmap.html tools/heatmap.js tools/heatmap.css
+	tools/heatmap.py -v tools/event.geo.json $@
 
-image/exhibitor.png : tools/exhibitor.geo.json tools/plot-map.py tools/map.html tools/map.js tools/map.css
-	tools/plot-map.py -v tools/exhibitor.geo.json $@
+image/exhibitor.png : tools/exhibitor.geo.json tools/heatmap.py tools/heatmap.html tools/heatmap.js tools/heatmap.css
+	tools/heatmap.py -v tools/exhibitor.geo.json $@
 
 
 tools/event.jsonl : $(FAIR_JSON) tools/event-geojson.jq

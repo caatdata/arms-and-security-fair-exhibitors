@@ -22,8 +22,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 
 LOG = logging.getLogger("task")
-ROOT = Path(__file__).parent.parent
-PRIVATE = json.loads((ROOT / ".private.json").read_text("utf-8"))
+TOOLS_PATH = Path(__file__).parent
+REPO_PATH = TOOLS_PATH.parent
+PRIVATE = json.loads((REPO_PATH / ".private.json").read_text("utf-8"))
 GEO_JSON_NAME = None
 
 
@@ -36,7 +37,7 @@ class RequestHandler(SimpleHTTPRequestHandler):
             self.end_headers()
             return
 
-        path = ROOT/ "python" / path
+        path = TOOLS_PATH / path
 
         try:
             content_type = {
@@ -58,7 +59,7 @@ class RequestHandler(SimpleHTTPRequestHandler):
             self.end_headers()
             return
 
-        if path.name == "map.js":
+        if path.name == "heatmap.js":
             body = body.replace("__MAPBOX_API_KEY__", json.dumps(PRIVATE["mapboxApiKey"]))
             body = body.replace("__GEO_JSON_NAME__", json.dumps(GEO_JSON_NAME))
 
@@ -135,7 +136,7 @@ def main():
         options=chrome_options,
         service=service,
     )
-    driver.get("http://0.0.0.0:8000/map.html")
+    driver.get("http://0.0.0.0:8000/heatmap.html")
     for item in driver.get_log('browser'):
         LOG.warning(f"{item['level']}: {item['message']}")
     time.sleep(2)
