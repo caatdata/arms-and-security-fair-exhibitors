@@ -36,7 +36,7 @@
     }
   ],
   "exhibitorListUrl": "https://exhibitors.ifsecglobal.com/pam22/",
-  "exhibitorListDate": "2022-04-19T10:25:00+00:00",
+  "exhibitorListDate": "2022-06-03T10:23:26+00:00",
   "exhibitor": [
     {
       "name": "2N Telekomunikace a.s",
@@ -193,7 +193,9 @@
         "lon": -0.4123308
       },
       "category": [
-        "First aid/defibillarators"
+        "First aid training",
+        "First aid/defibillarators",
+        "Lone Worker Protection"
       ]
     },
     {
@@ -260,42 +262,6 @@
       ]
     },
     {
-      "name": "ARM Environments",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/arm-environments-comp304085.html",
-      "telephone": "T: 07759284314",
-      "address": {
-        "text": "Corfe Cottage\nHigh Street\nSP5 3DU\nAlderbury\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.044617,
-        "lon": -1.7376272
-      }
-    },
-    {
-      "name": "ASAP Comply Ltd.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/asap-comply-ltd-comp266715.html",
-      "website": "http://www.asapcomply.com",
-      "telephone": "T: 0151 363 2333",
-      "address": {
-        "text": "S3 Oaklands Office Park\nHooton Road\nHooton\nCH66 7NZ\nEllesmere Port, Merseyside\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 53.3000629,
-        "lon": -2.9708311
-      },
-      "category": [
-        "Health & Safety"
-      ],
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@asapcomply"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/asapcomplyltd"
-        }
-      ]
-    },
-    {
       "name": "Abbott Toxicology Limited",
       "exhibitorUrl": "https://directory.ifsecglobal.com/abbott-toxicology-limited-comp287519.html",
       "website": "https://toxicology.abbott",
@@ -305,7 +271,11 @@
         "iso2": "GB",
         "lat": 51.67169029999999,
         "lon": -1.3040951
-      }
+      },
+      "category": [
+        "Drug and alcohol monitoring & testing",
+        "Workplace Wellbeing"
+      ]
     },
     {
       "name": "Ability Enterprise Co,. Ltd",
@@ -330,6 +300,23 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCGv26rhKDSpcTPvKDSDJeIw/featured"
         }
+      ]
+    },
+    {
+      "name": "Abloy UK Ltd.",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/abloy-uk-ltd-comp256139.html",
+      "website": "http://www.abloy.co.uk",
+      "telephone": "T: 01902 364538",
+      "address": {
+        "text": "School Street\nWV13 3PW\nWillenhall, West Midlands\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5840683,
+        "lon": -2.0658873
+      },
+      "category": [
+        "Access Control Systems",
+        "Locks And Keys",
+        "Security Doors"
       ]
     },
     {
@@ -362,6 +349,18 @@
           "url": "https://www.linkedin.com/company/accruent/"
         }
       ]
+    },
+    {
+      "name": "AccuGrit Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/accugrit-ltd-comp304891.html",
+      "website": "http://www.accugrit.com",
+      "telephone": "T: 07889 812169",
+      "address": {
+        "text": "Office 1 & 2, Rickinghall Business Centre\nIP22 1LQ\nRickinghall, Suffolk\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3119787,
+        "lon": 1.0101592
+      }
     },
     {
       "name": "Advancis Software & Services GmbH",
@@ -491,6 +490,39 @@
       ]
     },
     {
+      "name": "Akuvox (Xiamen) Networks Co.,Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/akuvox-xiamen-networks-co-ltd-comp254541.html",
+      "website": "http://www.akuvox.com",
+      "telephone": "T: +86-592-2133061",
+      "address": {
+        "text": "10/F, No.56 Guanri Road\nSoftware Park II\n361009\nXiamen\nChina",
+        "iso2": "CN",
+        "lat": 24.48669,
+        "lon": 118.18148
+      },
+      "category": [
+        "Door Entry Systems",
+        "Home Automation",
+        "IP Access Control Systems",
+        "Integrated Systems",
+        "Intelligent/Smart Buildings"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/AkuvoxNetworks/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@Akuvox"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/akuvox-networks"
+        }
+      ]
+    },
+    {
       "name": "Alcatraz AI",
       "exhibitorUrl": "https://directory.ifsecglobal.com/alcatraz-ai-comp304227.html",
       "website": "http://www.alcatraz.ai",
@@ -584,13 +616,17 @@
     {
       "name": "Alsys Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/alsys-ltd-comp304346.html",
+      "website": "http://%20www.alsysoft.com",
       "telephone": "T: 07522585427",
       "address": {
         "text": "23 Burgundy Drive\nHP2 7BX\nHemel Hempstead\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.7738701,
         "lon": -0.4346183
-      }
+      },
+      "category": [
+        "Software"
+      ]
     },
     {
       "name": "Altuity Solutions Ltd",
@@ -640,6 +676,18 @@
       }
     },
     {
+      "name": "Ampac Europe Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/ampac-europe-ltd-comp229617.html",
+      "website": "http://www.ampac.net",
+      "telephone": "T: 01420 592444",
+      "address": {
+        "text": "Unit 2\nWaterbrook Estate\nWaterbrook Road\nGU34 2UD\nAlton, Hampshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1534443,
+        "lon": -0.9578045000000001
+      }
+    },
+    {
       "name": "Andrews Sykes Group PLC",
       "exhibitorUrl": "https://directory.ifsecglobal.com/andrews-sykes-group-plc-comp266703.html",
       "website": "http://www.andrews-sykes.com",
@@ -666,38 +714,8 @@
       }
     },
     {
-      "name": "Aquaflow Services",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/aquaflow-services-comp282998.html",
-      "website": "http://www.aquaflowsevices.com",
-      "telephone": "T: 0800 9757075",
-      "address": {
-        "text": "Denton Farm\nDenton Lodge Lees\nCT4 6NS\nCanterbury, Kent\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.1845382,
-        "lon": 1.1567482
-      },
-      "category": [
-        "Maintenance - Grounds & Buildings",
-        "Mechanical & Electrical",
-        "Washroom",
-        "Waste Management"
-      ]
-    },
-    {
-      "name": "Artificial Intelligence Group",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/artificial-intelligence-group-comp304500.html",
-      "website": "http://www.aintelgroup.com",
-      "telephone": "T: +61400305324",
-      "address": {
-        "text": "9 Loftus Street\nLeederville\n6007\nWA\nAustralia",
-        "iso2": "AU",
-        "lat": -31.942309,
-        "lon": 115.8426812
-      }
-    },
-    {
       "name": "BFM",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/bfm-comp267780.html",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/bfm-comp304814.html",
       "website": "http://www.bfmmagazine.co.uk",
       "telephone": "T: 01933 315325",
       "address": {
@@ -803,7 +821,7 @@
       "name": "Bachmann Electrical Engineering Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/bachmann-electrical-engineering-ltd-comp278597.html",
       "website": "http://www.bachmann.com",
-      "telephone": "T: +49 711 866 0217",
+      "telephone": "T: +44 208 0504 721",
       "address": {
         "text": "27 Old Gloucester Street\nWC1N 3AX\nLondon\nUnited Kingdom",
         "iso2": "GB",
@@ -902,8 +920,8 @@
     {
       "name": "Be-Safe technologies ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/besafe-technologies-ltd-comp304656.html",
-      "website": "https://www.be-safetech.com",
-      "telephone": "T: +44(0) 333 800 8150",
+      "website": "http://www.be-safetech.com",
+      "telephone": "T: 0333 800 8150",
       "address": {
         "text": "Granta Lodge\n71 Graham Road\nWR14 2JS\nMalvern Worcestershire\nUnited Kingdom",
         "iso2": "GB",
@@ -993,6 +1011,9 @@
         "lat": 51.3537532,
         "lon": -0.3109118
       },
+      "category": [
+        "Eye & face protection"
+      ],
       "social": [
         {
           "platform": "twitter",
@@ -1033,7 +1054,7 @@
       "website": "http://www.bona.com",
       "telephone": "T: 01908 525 150",
       "address": {
-        "text": "6 Thornton Chase\nLinford Wood\nMK14 6FD\nMilton Keynes, Bucks\nUnited Kingdom",
+        "text": "8 Thornton Chase\nLinford Wood\nMK14 6FD\nMilton Keynes, Bucks\nUnited Kingdom",
         "iso2": "GB",
         "lat": 52.0596415,
         "lon": -0.7616476999999999
@@ -1065,13 +1086,34 @@
       "name": "Bramble Energy",
       "exhibitorUrl": "https://directory.ifsecglobal.com/bramble-energy-comp304585.html",
       "website": "http://www.brambleenergy.com",
-      "telephone": "T: 07876291583",
+      "telephone": "T: 01293400250",
       "address": {
         "text": "6 Satellite Business Village,\nFleming Way\nRH10 9NE\nCrawley, West Sussex\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.1341474,
         "lon": -0.1788782
-      }
+      },
+      "category": [
+        "Energy efficiency and Management",
+        "Plant & Machinery",
+        "Power Supply",
+        "Sensors",
+        "Video Surveillance"
+      ],
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@brambleenergy"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/brambleenergyltd"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCYS4LXfwP0YHYDal4cSul0Q"
+        }
+      ]
     },
     {
       "name": "Brandsafe Protection Ltd",
@@ -1172,7 +1214,11 @@
         "iso2": "US",
         "lat": 38.9863439,
         "lon": -77.0979495
-      }
+      },
+      "category": [
+        "Access Control",
+        "Software"
+      ]
     },
     {
       "name": "C-TEC (Computionics) Ltd",
@@ -1189,6 +1235,25 @@
         "Fire Alarms",
         "Fire Detection",
         "Fire Panel"
+      ]
+    },
+    {
+      "name": "C-Tech Intelligence & Technology Co.,Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/ctech-intelligence-technology-co-ltd-comp224750.html",
+      "website": "http://www.civintec.com",
+      "telephone": "T: +86 755 8611 7608",
+      "address": {
+        "text": "F20,Huatong Building,No.8,Ganli Road 2\nJihua Street\nLonggang District\n518112\nShenzhen, Guangdong\nChina",
+        "iso2": "CN",
+        "lat": 22.5552425,
+        "lon": 114.109888
+      },
+      "category": [
+        "Access Cards and Card Readers",
+        "Access Control Contactless",
+        "Access Control Systems",
+        "Door Entry Systems",
+        "IP Access Control Systems"
       ]
     },
     {
@@ -1209,18 +1274,6 @@
         "Security Camera Lenses",
         "Security Cameras"
       ]
-    },
-    {
-      "name": "CAD Management Ltd.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/cad-management-ltd-comp266816.html",
-      "website": "http://www.cadm.com",
-      "telephone": "T: 0208 223 7500",
-      "address": {
-        "text": "Knowledge Dock\n4-6 University Way\nE16 2RD\nLondon\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.50765699999999,
-        "lon": 0.0621258
-      }
     },
     {
       "name": "CAME BPT UK Ltd",
@@ -1345,6 +1398,21 @@
       ]
     },
     {
+      "name": "CadM.",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/cadm-comp266816.html",
+      "website": "http://www.cadm.com",
+      "telephone": "T: 0208 223 7500",
+      "address": {
+        "text": "Knowledge Dock\n4-6 University Way\nE16 2RD\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50765699999999,
+        "lon": 0.0621258
+      },
+      "category": [
+        "CAFM/ Workplace Technology & Software"
+      ]
+    },
+    {
       "name": "Call Systems Technology",
       "exhibitorUrl": "https://directory.ifsecglobal.com/call-systems-technology-comp304470.html",
       "telephone": "T: 020 8381 1338",
@@ -1353,7 +1421,28 @@
         "iso2": "GB",
         "lat": 51.6400961,
         "lon": -0.3097185
-      }
+      },
+      "category": [
+        "Call Points",
+        "False Alarm Prevention",
+        "Fire Prevention/Protection and Safety",
+        "Fire Safety",
+        "Lone Worker Protection"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "http://www.facebook.com/CallSystemsTechnology"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/handle:%20@callsystemstech"
+        },
+        {
+          "platform": "linkedin",
+          "url": "http://www.linkedin.com/company/call-systems-technology"
+        }
+      ]
     },
     {
       "name": "Cansford Laboratories Ltd.",
@@ -1459,6 +1548,16 @@
       ]
     },
     {
+      "name": "Catering Area",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/catering-area-comp269395.html",
+      "address": {
+        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5064891,
+        "lon": -0.1042498
+      }
+    },
+    {
       "name": "Ceasefire Industries UK Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/ceasefire-industries-uk-ltd-comp287026.html",
       "website": "http://ceasefire.co.uk",
@@ -1468,18 +1567,6 @@
         "iso2": "GB",
         "lat": 51.5187784,
         "lon": -0.1101493
-      }
-    },
-    {
-      "name": "Celli Group (UK) Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/celli-group-uk-ltd-comp285655.html",
-      "website": "http://celligroup.com",
-      "telephone": "T: 01423 324 555",
-      "address": {
-        "text": "Thirsk Industrial Park\nYO7 3BX\nThirsk\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 54.2311791,
-        "lon": -1.3299247
       }
     },
     {
@@ -1500,6 +1587,16 @@
         "Lone worker safety",
         "RFID"
       ]
+    },
+    {
+      "name": "Charging Station",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/charging-station-comp266123.html",
+      "address": {
+        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5064891,
+        "lon": -0.1042498
+      }
     },
     {
       "name": "Check Point Software Technologies Inc",
@@ -1628,8 +1725,8 @@
       }
     },
     {
-      "name": "City Security Magazine",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/city-security-magazine-comp280853.html",
+      "name": "City Security Magazine / CoLCPA",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/city-security-magazine-colcpa-comp280853.html",
       "website": "http://www.citysecuritymagazine.com",
       "telephone": "T: 0207 275 3303",
       "address": {
@@ -1678,6 +1775,17 @@
       ]
     },
     {
+      "name": "ClearVUE Systems",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/clearvue-systems-comp303894.html",
+      "telephone": "T: 0191 543 4663",
+      "address": {
+        "text": "8th Floor Baltic Place\nSouth Shore Road\nNE8 3AE\nGateshead\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9691825,
+        "lon": -1.5948091
+      }
+    },
+    {
       "name": "Clivet Group UK",
       "exhibitorUrl": "https://directory.ifsecglobal.com/clivet-group-uk-comp303510.html",
       "telephone": "T: 07706326095",
@@ -1702,61 +1810,6 @@
       "category": [
         "Health & Safety"
       ]
-    },
-    {
-      "name": "Clockwork Removals",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/clockwork-removals-comp302914.html",
-      "website": "http://www.clockworkremovals.co.uk",
-      "telephone": "T: 0800 195 8671",
-      "address": {
-        "text": "Unit 6, Bush Industrial Estate\nStandard Road\nNW10 6DF\nLondon, London\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.5285092,
-        "lon": -0.2621986
-      },
-      "category": [
-        "Removals/Relocation"
-      ],
-      "social": [
-        {
-          "platform": "facebook",
-          "url": "https://www.facebook.com/ClockworkRemovalsUK"
-        },
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/ClockworkUK"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/clockwork-removals"
-        }
-      ]
-    },
-    {
-      "name": "Co-Cre8",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/cocre8-comp303764.html",
-      "website": "https://co-cre8.earth",
-      "telephone": "T: 03330 165 088",
-      "address": {
-        "text": "Suite 2 Aries House\nStraight Bit, Flackwell Heath\nHP10 9NB\nHigh Wycombe, Buckinghamshire\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.60062019999999,
-        "lon": -0.7095106
-      },
-      "category": [
-        "Waste Management"
-      ]
-    },
-    {
-      "name": "Cochl, Inc.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/cochl-inc-comp304367.html",
-      "telephone": "T: +82-2-9089-5749",
-      "address": {
-        "text": "4th floor, 6 Bongeunsa-ro 112-gil\nGangnam-gu\nSeoul\nKorea, Republic of",
-        "iso2": "KR",
-        "lat": 37.5144642,
-        "lon": 127.0648882
-      }
     },
     {
       "name": "D-Fend Solutions UK",
@@ -1944,6 +1997,39 @@
       ]
     },
     {
+      "name": "Dell Corporation Limited",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/dell-corporation-limited-comp232064.html",
+      "website": "http://www.dell.co.uk/oem",
+      "telephone": "T: +353 1 507 1323",
+      "address": {
+        "text": "Innovation House\nCherrywood Science and Technology Park\n18\nDublin\nIreland",
+        "iso2": "IE",
+        "lat": 53.2447861,
+        "lon": -6.1388773
+      },
+      "category": [
+        "Asset Management",
+        "CCTV Monitoring",
+        "Data Storage Solutions",
+        "Mobile Communications",
+        "Secure Communications"
+      ],
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@DellOEM"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/dell-oem-solutions"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/playlist?list=PLB60F0EDB991A4A6C"
+        }
+      ]
+    },
+    {
       "name": "Dell Technologies Coffee Bar",
       "exhibitorUrl": "https://directory.ifsecglobal.com/dell-technologies-coffee-bar-comp266618.html",
       "address": {
@@ -2031,6 +2117,25 @@
         "lat": 52.898636,
         "lon": 1.310533
       }
+    },
+    {
+      "name": "Dongguan YuTongOpticalTechnology Co.,Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/dongguan-yutongopticaltechnology-co-ltd-comp253174.html",
+      "website": "http://www.ytot.cn",
+      "telephone": "T: +86 769 8926 6655",
+      "address": {
+        "text": "Building D, Chang Tong Yu Kai Ind.Pk\nNo 306 Huan Dong Rd, Chang'an Town\n523857\nDongguan City, Guangdong Province\nChina",
+        "iso2": "CN",
+        "lat": 22.814768,
+        "lon": 113.802516
+      },
+      "category": [
+        "4K Cameras",
+        "Access Control",
+        "CCTV",
+        "Security Camera Lenses",
+        "Video Surveillance"
+      ]
     },
     {
       "name": "Doors Plus Ltd",
@@ -2133,7 +2238,10 @@
         "iso2": "GB",
         "lat": 52.02170169999999,
         "lon": -0.7718085
-      }
+      },
+      "category": [
+        "Cleaning Machines"
+      ]
     },
     {
       "name": "EB Charging Ltd",
@@ -2147,8 +2255,8 @@
       }
     },
     {
-      "name": "ECA / FSA",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/eca-fsa-comp254431.html",
+      "name": "ECA / FCA",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/eca-fca-comp254431.html",
       "website": "http://www.eca.co.uk",
       "telephone": "T: 0207 313 4800",
       "address": {
@@ -2187,6 +2295,17 @@
         "iso2": "GB",
         "lat": 54.7192841,
         "lon": -6.2082351
+      }
+    },
+    {
+      "name": "EINTAC Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/eintac-ltd-comp304177.html",
+      "telephone": "T: 01376 525606",
+      "address": {
+        "text": "Unit 10 Warner Drive, Springwood Industrial Estate\nCM7 2YW\nEssex\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8838483,
+        "lon": 0.5344914
       }
     },
     {
@@ -2250,10 +2369,10 @@
       "website": "http://www.emstone.com",
       "telephone": "T: +82-10-7234-0625",
       "address": {
-        "text": "197-48 Guro-dong\nGuro-gu\n152-050\nSeoul\nKorea, Republic of",
+        "text": "#309 197-48 Guro-dong\nGuro-gu\n152-050\nSeoul\nKorea, Republic of",
         "iso2": "KR",
-        "lat": 37.4951854,
-        "lon": 126.8820641
+        "lat": 37.4893062,
+        "lon": 126.8916581
       }
     },
     {
@@ -2286,20 +2405,8 @@
       }
     },
     {
-      "name": "EVACSTAC",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/evacstac-comp304272.html",
-      "website": "http://www.evacstat.co.uk",
-      "telephone": "T: 00000",
-      "address": {
-        "text": "C/O Sobell Rhodes Llp\nThe Kinetic Centre\nTheobald Street\nWD6 4PJ\nElstree, Hertfordshire\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.6565679,
-        "lon": -0.280704
-      }
-    },
-    {
-      "name": "Eagle Eye Network B.V",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/eagle-eye-network-b-v-comp235231.html",
+      "name": "Eagle Eye Networks B.V",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/eagle-eye-networks-b-v-comp235231.html",
       "website": "http://www.eagleeyenetworks.com",
       "telephone": "T: +31202610460",
       "address": {
@@ -2419,8 +2526,8 @@
       }
     },
     {
-      "name": "Elite Door & Window Operating Equipment",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/elite-door-window-operating-equipment-comp294451.html",
+      "name": "Elite Security",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/elite-security-comp294451.html",
       "website": "http://www.elite-sec.com",
       "telephone": "T: 0208 534 1660",
       "address": {
@@ -2428,7 +2535,14 @@
         "iso2": "GB",
         "lat": 51.6311478,
         "lon": 0.1974724
-      }
+      },
+      "category": [
+        "Access Control",
+        "Building maintenance",
+        "Fire Doors",
+        "Perimeter Protection",
+        "Security"
+      ]
     },
     {
       "name": "Elmdene International Ltd",
@@ -2633,16 +2747,19 @@
       ]
     },
     {
-      "name": "Everbridge",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/everbridge-comp304554.html",
-      "website": "http://www.everbridge.com",
-      "telephone": "T: 07818553345",
+      "name": "Evaccess",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/evaccess-comp267791.html",
+      "website": "https://evaccess.uk",
+      "telephone": "T: 0121 444 3690",
       "address": {
-        "text": "Building 11,\nWatchmoor Park\nGU15 3YL\nCamberley, Surrey\nUnited Kingdom",
+        "text": "197 Vicarage Road\nKings Heath\nB14 7QQ\nBirmingham, West Midlands\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 51.3265266,
-        "lon": -0.7615074000000001
-      }
+        "lat": 52.4294868,
+        "lon": -1.9007892
+      },
+      "category": [
+        "Health & Safety"
+      ]
     },
     {
       "name": "F. Engel K/S",
@@ -2693,71 +2810,6 @@
       }
     },
     {
-      "name": "FSI Limited",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/fsi-limited-comp225363.html",
-      "website": "http://www.fsiltd.com",
-      "telephone": "T: 01530 515 130",
-      "address": {
-        "text": "Westminster Industrial Estate\nTamworth Road\nMeasham\nDE12 7DS\nLeicestershire\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 52.7019245,
-        "lon": -1.5175078
-      },
-      "category": [
-        "Fire Stopping",
-        "Pipes And Joints",
-        "Sealants",
-        "Third Party Approvals"
-      ],
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@FSiLimited"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/fsilimited/"
-        },
-        {
-          "platform": "youtube",
-          "url": "http://www.youtube.com/user/FirestopitLtd"
-        }
-      ]
-    },
-    {
-      "name": "FSI, an MRI Software Company",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/fsi-an-mri-software-company-comp266810.html",
-      "website": "http://www.fsifm.com",
-      "telephone": "T: 01708 251900",
-      "address": {
-        "text": "9 King Street\nEC2V 8EA\nLondon, Greater London\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.5144875,
-        "lon": -0.0921221
-      },
-      "category": [
-        "Building Automation Systems & Building Controls",
-        "CAFM/ Workplace Technology & Software",
-        "Energy efficiency and Management",
-        "Field Service Management Software",
-        "Workplace Apps"
-      ],
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@ConceptCAFM"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/fsi-fm-solutions-limited/"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/playlist?list=PLKJ7yVITSHUlTniDClzztmetJkJeukWDC"
-        }
-      ]
-    },
-    {
       "name": "Facilities Management Journal",
       "exhibitorUrl": "https://directory.ifsecglobal.com/facilities-management-journal-comp266817.html",
       "website": "http://www.fmj.co.uk",
@@ -2775,6 +2827,65 @@
         {
           "platform": "twitter",
           "url": "https://twitter.com/@fmjtoday"
+        }
+      ]
+    },
+    {
+      "name": "Fanvil Technology Co., Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/fanvil-technology-co-ltd-comp272252.html",
+      "website": "http://www.fanvil.com",
+      "telephone": "T: +86-755- 2640 2199",
+      "address": {
+        "text": "F/4,Gaoxinqi Tech. Campus, Liuxianyi Rd,Shenzhen,\n518000, P.R.China\n518000\nShenzhen\nChina",
+        "iso2": "CN",
+        "lat": 22.5411828,
+        "lon": 114.05863
+      },
+      "category": [
+        "Access Control Systems",
+        "Cloud Access Control",
+        "Door Entry Systems",
+        "IP Access Control Systems",
+        "VoIP"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/fanvil1004/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@Fanvil_Tech"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/3042133/"
+        }
+      ]
+    },
+    {
+      "name": "Faraone Industrie S.P.A.",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/faraone-industrie-s-p-a-comp278219.html",
+      "website": "http://www.faraone.com/it",
+      "telephone": "T: +39 086 177 221",
+      "address": {
+        "text": "Via San Gipvanni, 20\nZ.I. Salino\n64018\nTortoreto\nItaly",
+        "iso2": "IT",
+        "lat": 42.7864633,
+        "lon": 13.9123156
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/faraoneindustrie"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/faraoneindustrie"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCKjr8ebtFtsO_hu3k2beKKg?view_as=subscriber"
         }
       ]
     },
@@ -2834,7 +2945,32 @@
         "iso2": "US",
         "lat": 33.8586083,
         "lon": -117.8247776
-      }
+      },
+      "category": [
+        "CCTV Monitoring",
+        "Detectors - Flame",
+        "Detectors - Gas",
+        "Fire Prevention/Protection and Safety"
+      ]
+    },
+    {
+      "name": "Fire Buyer / Security Buyer",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/fire-buyer-security-buyer-comp225082.html",
+      "website": "https://securitybuyer.com",
+      "telephone": "T: 01622 823920",
+      "address": {
+        "text": "Goldings\nElphicks Farm, Water Lane\nHunton\nME15 0SG\nMaidstone, Kent\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2120174,
+        "lon": 0.4569748
+      },
+      "category": [
+        "Extinguishers",
+        "Fire Detection",
+        "Fire Prevention/Protection and Safety",
+        "Fire Safety",
+        "Recruitment/Training"
+      ]
     },
     {
       "name": "Fire Door Inspection Scheme (FDIS)",
@@ -2981,6 +3117,13 @@
         "lat": 52.67712969999999,
         "lon": -0.7357448
       },
+      "category": [
+        "Compliance Training/ Consultancy",
+        "Fire Extinguishers",
+        "Fire Prevention/Protection and Safety",
+        "Fire Safety",
+        "Portablre Fire Extinguishers"
+      ],
       "social": [
         {
           "platform": "youtube",
@@ -3159,6 +3302,18 @@
       }
     },
     {
+      "name": "Fort Engineering Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/fort-engineering-ltd-comp235297.html",
+      "website": "http://www.fortengineering.co.uk",
+      "telephone": "T: +44 (0) 1582 592 541",
+      "address": {
+        "text": "Bramingham Business Park\nEnterprise Way\nLU3 4BU\nLuton\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9206314,
+        "lon": -0.4324422
+      }
+    },
+    {
       "name": "Fosters Foliage by Design Ltd.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/fosters-foliage-by-design-ltd-comp266736.html",
       "website": "http://www.funkyyukka.co.uk",
@@ -3180,43 +3335,30 @@
         "iso2": "GB",
         "lat": 51.5256582,
         "lon": -0.2145252
-      }
-    },
-    {
-      "name": "Frontier Pitts Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/frontier-pitts-ltd-comp230563.html",
-      "website": "http://www.frontierpitts.com",
-      "telephone": "T: 01293 427130",
-      "address": {
-        "text": "Crompton House\nCrompton Way\nManor Royal Industrial Estate\nRH10 9QZ\nCrawley, West Sussex\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.12891949999999,
-        "lon": -0.1802964
       },
       "category": [
-        "Access Control Systems",
-        "Barriers and Bollards",
-        "Counter/Anti Terrorism",
-        "Gates And Fencing",
-        "Perimeter Protection"
-      ],
-      "social": [
-        {
-          "platform": "facebook",
-          "url": "http://www.facebook.com/pages/Frontier-Pitts-Security-Systems/135964983169131"
-        },
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@FrontierPitts"
-        },
-        {
-          "platform": "linkedin",
-          "url": "http://www.linkedin.com/company/1868397"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/channel/UCkzmBOGbrbOR0nlI-hpI_3A"
-        }
+        "Access Control",
+        "Access Control Contactless",
+        "Biometrics"
+      ]
+    },
+    {
+      "name": "GIELLE FIRE SUPPRESSION SYSTEMS",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/gielle-fire-suppression-systems-comp225366.html",
+      "website": "http://www.giellefire.com",
+      "telephone": "T: 0039 0803118998",
+      "address": {
+        "text": "VIA DEL GELSO, 30,\n70022\nAltamura (BA)\nItaly",
+        "iso2": "IT",
+        "lat": 40.8253924,
+        "lon": 16.5527874
+      },
+      "category": [
+        "Detectors - Gas",
+        "Fire Alarms",
+        "Fire Extinguishers",
+        "Fire Signalling Systems",
+        "Recruitment/Training"
       ]
     },
     {
@@ -3261,7 +3403,36 @@
     },
     {
       "name": "Gerda Security Products Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/gerda-security-products-ltd-comp225333.html",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/gerda-security-products-ltd-comp305007.html",
+      "website": "http://www.gerdasecurity.co.uk",
+      "telephone": "T: 0845 2009 435",
+      "address": {
+        "text": "Technologies House\n26 Hampstead Avenue\nIP28 7AS\nMildenhall\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3551146,
+        "lon": 0.5126235
+      },
+      "category": [
+        "Access Control Systems",
+        "Asset Management",
+        "Fire Doors",
+        "Fire Risk Assessment",
+        "Locks And Keys"
+      ],
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@gerdasecurity"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCQN-k6JTe0boqEAN95szugA"
+        }
+      ]
+    },
+    {
+      "name": "Gerda Security Products Ltd, GSP Group®",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/gerda-security-products-ltd-gsp-group-comp225333.html",
       "website": "http://www.gerdasecurity.co.uk",
       "telephone": "T: 0845 2009 435",
       "address": {
@@ -3318,37 +3489,15 @@
       ]
     },
     {
-      "name": "Glass & Glazing Federation",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/glass-glazing-federation-comp266225.html",
-      "website": "http://www.ggf.org.uk",
-      "telephone": "T: 0207 939 9101",
+      "name": "Glass Films",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/glass-films-comp295645.html",
+      "telephone": "T: 0742 767 0321",
       "address": {
-        "text": "Newspaper House\n40 Rushworth Street\nSE1 0RB\nLondon\nUnited Kingdom",
+        "text": "The Lockey Suite, The Nostell Estate Yard\nWF4 1AB\nWakefield, West Yorkshire\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 51.50099549999999,
-        "lon": -0.1011719
-      },
-      "category": [
-        "Associations & Media",
-        "Fire Doors",
-        "Fire Glass, Grates & Guards",
-        "Fire Resistant Glazing",
-        "Fire Safety Training"
-      ],
-      "social": [
-        {
-          "platform": "facebook",
-          "url": "https://www.facebook.com/GGFOrgUK/"
-        },
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@GGF_News"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/glass-and-glazing-federation"
-        }
-      ]
+        "lat": 53.6501378,
+        "lon": -1.3865488
+      }
     },
     {
       "name": "Global HSE Solutions Ltd",
@@ -3386,40 +3535,6 @@
         "First aid training",
         "Health & safety training",
         "Wellbeing & mental health training"
-      ]
-    },
-    {
-      "name": "Gosuncn Technology Group Co., Ltd.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/gosuncn-technology-group-co-ltd-comp277835.html",
-      "website": "http://www.gosuncnctech.com",
-      "telephone": "T: +86 020 2230 3298",
-      "address": {
-        "text": "2819 KaiChuang Blvd.\nScience Town\nHuangpu District\n510530\nGuangzhou City, Guangdong\nChina",
-        "iso2": "CN",
-        "lat": 23.17177,
-        "lon": 113.50253
-      },
-      "category": [
-        "Body Worn Cameras",
-        "Data Storage Solutions",
-        "Dome Camera",
-        "PTZ Camera"
-      ]
-    },
-    {
-      "name": "Green Cross Training Ltd.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/green-cross-training-ltd-comp241148.html",
-      "website": "http://www.greencrosstraining.co.uk",
-      "telephone": "T: 0330 120 0387",
-      "address": {
-        "text": "Building 3\nBothwell Bridge Business Park\nBothwell Road\nML3 0FD\nHamilton, Motherwell\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 55.7927207,
-        "lon": -4.0574319
-      },
-      "category": [
-        "Behavioural safety",
-        "First aid/defibillarators"
       ]
     },
     {
@@ -3488,18 +3603,6 @@
       ]
     },
     {
-      "name": "HAND MEDIA LIMITED",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/hand-media-limited-comp225082.html",
-      "website": "http://www.yourshow-home.com",
-      "telephone": "T: 01622 823920",
-      "address": {
-        "text": "Goldings\nElphicks Farm, Water Lane\nHunton\nME15 0SG\nMaidstone, Kent\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.2120174,
-        "lon": 0.4569748
-      }
-    },
-    {
       "name": "HAVSco Limited",
       "exhibitorUrl": "https://directory.ifsecglobal.com/havsco-limited-comp254835.html",
       "website": "http://www.havsco.co.uk",
@@ -3511,7 +3614,9 @@
         "lon": 1.3867755
       },
       "category": [
-        "Behavioural safety"
+        "Detection & monitoring technology",
+        "Vibration monitoring",
+        "Wearable technology"
       ]
     },
     {
@@ -3741,14 +3846,14 @@
       }
     },
     {
-      "name": "Highlight Parking Systems Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/highlight-parking-systems-ltd-comp304430.html",
-      "telephone": "T: 07958309610",
+      "name": "HikRobot",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/hikrobot-comp305059.html",
+      "website": "https://www.hikrobotics.com/en/",
       "address": {
-        "text": "64 New Cavendish Street\nW1G 8TB\nLondon\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.51905199999999,
-        "lon": -0.1480774
+        "text": "No. 339 Danfeng Road\nBinjiang District\nHangzhou, Zhejiang\nChina",
+        "iso2": "CN",
+        "lat": 30.21537,
+        "lon": 120.22001
       }
     },
     {
@@ -3841,25 +3946,6 @@
       ]
     },
     {
-      "name": "Huper Laboratories Co. Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/huper-laboratories-co-ltd-comp224896.html",
-      "website": "http://www.huperlab.com",
-      "telephone": "T: +886 2 25994041",
-      "address": {
-        "text": "10F,NO.577, LIN SEN NORTH .RD.,\n104\nTaipei\nTaiwan, China",
-        "iso2": "TW",
-        "lat": 25.0570526,
-        "lon": 121.5255054
-      },
-      "category": [
-        "AI/Machine-learning",
-        "CCTV",
-        "Cameras",
-        "Intelligent/Smart Buildings",
-        "Video Surveillance"
-      ]
-    },
-    {
       "name": "Hydro X Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/hydro-x-ltd-comp284793.html",
       "website": "http://www.hydro-x.co.uk",
@@ -3869,6 +3955,17 @@
         "iso2": "GB",
         "lat": 53.3743611,
         "lon": -1.2144543
+      }
+    },
+    {
+      "name": "Hyfire Wireless Fire Solutions Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/hyfire-wireless-fire-solutions-ltd-comp304982.html",
+      "website": "https://hyfirewireless.com",
+      "address": {
+        "text": "Unit B12a, Holly Farm Business Park\nHoniley Road\nHoniley\nCV8 1NP\nKenilworth\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.35477900000001,
+        "lon": -1.6541541
       }
     },
     {
@@ -3902,12 +3999,11 @@
       ]
     },
     {
-      "name": "IASME Consortium",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/iasme-consortium-comp303076.html",
-      "website": "https://iasme.co.uk",
+      "name": "IASME",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/iasme-comp304900.html",
       "telephone": "T: +44 (0) 3300 882752",
       "address": {
-        "text": "Wyche Innovation Centre\nWalwyn Rd\nWR13 6PL\nMalvern\nUnited Kingdom",
+        "text": "Wyche Innovation Centre\nWalwyn Road\nWR13 6PL\nMalvern\nUnited Kingdom",
         "iso2": "GB",
         "lat": 52.090038,
         "lon": -2.3401324
@@ -3980,15 +4076,26 @@
       }
     },
     {
-      "name": "IFSJ",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/ifsj-comp304327.html",
-      "website": "http://www.intsecurityjournal.com",
+      "name": "IFSJ International Fire Safety Journal",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/ifsj-international-fire-safety-journal-comp304912.html",
       "telephone": "T: +44 (0) 1622 684 538",
       "address": {
-        "text": "Centurian Media Limited\n71-75 Shelton Street\nWC2H 9JQ\nLondon, Greater London\nUnited Kingdom",
+        "text": "71-75 Shelton Street\nWC2H 9JQ\nLondon\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.5149056,
         "lon": -0.1235464
+      }
+    },
+    {
+      "name": "IIRSM",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/iirsm-comp241166.html",
+      "website": "http://www.iirsm.org",
+      "telephone": "T: 0208 741 9100",
+      "address": {
+        "text": "Suite 7A\n77 Fulham Palace Road\nW6 8JA\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4887848,
+        "lon": -0.2226068
       }
     },
     {
@@ -4069,17 +4176,6 @@
       ]
     },
     {
-      "name": "IPConfigure, Inc.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/ipconfigure-inc-comp302627.html",
-      "telephone": "T: 001 877-207-1112",
-      "address": {
-        "text": "300 E. Main Street\nSuite 200\n23510\nNorfolk, Virginia\nUnited States",
-        "iso2": "US",
-        "lat": 36.8461676,
-        "lon": -76.2898194
-      }
-    },
-    {
       "name": "Ilimex",
       "exhibitorUrl": "https://directory.ifsecglobal.com/ilimex-comp304636.html",
       "telephone": "T: 028 2003 2333",
@@ -4088,6 +4184,17 @@
         "iso2": "GB",
         "lat": 55.2029997,
         "lon": -6.263212299999999
+      }
+    },
+    {
+      "name": "Immix",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/immix-comp305057.html",
+      "website": "https://www.immixprotect.com",
+      "address": {
+        "text": "Hawthorne House\nTaw Business Village\nPhoenix Way, Enterprise Park\nSA7 9LA\nSwansea\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6523446,
+        "lon": -3.914938
       }
     },
     {
@@ -4318,18 +4425,6 @@
       ]
     },
     {
-      "name": "IoT Security Foundation",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/iot-security-foundation-comp304552.html",
-      "website": "http://www.iotsecurityfoundation.org",
-      "telephone": "T: +44 (0)1506 374231",
-      "address": {
-        "text": "TechWorks Hub Ltd\n1 Michaelson Square\nGarbett Road\nEH54 7DP\nLivingston\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 55.8811384,
-        "lon": -3.5341995
-      }
-    },
-    {
       "name": "J. SCOUT SPORTS",
       "exhibitorUrl": "https://directory.ifsecglobal.com/j-scout-sports-comp304142.html",
       "telephone": "T: 0300-8618640",
@@ -4351,7 +4446,9 @@
         "lon": -0.0902187
       },
       "category": [
-        "CAFM/ Workplace Technology & Software"
+        "CAFM/ Workplace Technology & Software",
+        "Facilities Management",
+        "Workplace Apps"
       ]
     },
     {
@@ -4364,6 +4461,25 @@
         "lat": 51.495583,
         "lon": -0.1290657
       }
+    },
+    {
+      "name": "JWM Hi-Tech Development Co., Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/jwm-hitech-development-co-ltd-comp232025.html",
+      "website": "http://www.jwm-rfid.com",
+      "telephone": "T: +86 24 8378 2790",
+      "address": {
+        "text": "3F, D07, SISP\n(Shenyang International Software Park)\nDongling District\n110167\nShenyang City, Liaoning Province\nChina",
+        "iso2": "CN",
+        "lat": 41.6918927,
+        "lon": 123.4847154
+      },
+      "category": [
+        "Access Cards and Card Readers",
+        "Guard Tour System",
+        "Locks And Keys",
+        "Patrol Monitoring",
+        "RFID"
+      ]
     },
     {
       "name": "Jauch Quartz UK Ltd",
@@ -4423,16 +4539,19 @@
       }
     },
     {
-      "name": "Julius Rutherfoord & Company Ltd",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/julius-rutherfoord-company-ltd-comp285832.html",
-      "website": "http://www.julius-r.co.uk",
+      "name": "Julius Rutherfoord & Co Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/julius-rutherfoord-co-ltd-comp285832.html",
+      "website": "http://www.juliusrutherfoord.co.uk",
       "telephone": "T: 020 7819 6700",
       "address": {
-        "text": "Ingate Place\nSW8 3NS\nLondon\nUnited Kingdom",
+        "text": "12 Ingate Place\nSW8 3NS\nLondon\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 51.474551,
-        "lon": -0.1459146
+        "lat": 51.4744802,
+        "lon": -0.1453973
       },
+      "category": [
+        "Cleaning & Hygiene"
+      ],
       "social": [
         {
           "platform": "twitter",
@@ -4528,8 +4647,8 @@
       ]
     },
     {
-      "name": "Kentec Coffee Bar",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/kentec-coffee-bar-comp271719.html",
+      "name": "Kentec Cafe",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/kentec-cafe-comp271719.html",
       "address": {
         "text": "240 Blackfriars Road\nSE1 8BF\nLondon, London\nUnited Kingdom",
         "iso2": "GB",
@@ -4559,6 +4678,16 @@
       ]
     },
     {
+      "name": "Keynote Theatre",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/keynote-theatre-comp241305.html",
+      "address": {
+        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5064891,
+        "lon": -0.1042498
+      }
+    },
+    {
       "name": "Kidde Safety Europe Limited",
       "exhibitorUrl": "https://directory.ifsecglobal.com/kidde-safety-europe-limited-comp304471.html",
       "website": "https://www.kiddesafetyeurope.co.uk",
@@ -4568,7 +4697,12 @@
         "iso2": "GB",
         "lat": 51.4361353,
         "lon": -0.4672633
-      }
+      },
+      "category": [
+        "Detectors - Gas",
+        "Detectors - Heat",
+        "Detectors - Smoke"
+      ]
     },
     {
       "name": "Kingspan Technical Insulation",
@@ -4750,7 +4884,7 @@
     {
       "name": "Lavazza Professional UK",
       "exhibitorUrl": "https://directory.ifsecglobal.com/lavazza-professional-uk-comp256222.html",
-      "website": "http://www.marsdrinks.co.uk",
+      "website": "http://www.lavazzapro.co.uk",
       "telephone": "T: 0800 104040",
       "address": {
         "text": "Armstrong Road\nDaneshill Industrial Estate\nRG24 8NU\nBasingstoke, Hampshire\nUnited Kingdom",
@@ -4763,7 +4897,7 @@
       "name": "Legrand Electric Limited",
       "exhibitorUrl": "https://directory.ifsecglobal.com/legrand-electric-limited-comp253145.html",
       "website": "http://www.legrand.co.uk",
-      "telephone": "T: 0870 608 9000",
+      "telephone": "T: 0370 608 9000",
       "address": {
         "text": "20 Great King Street North\nB19 2LF\nBirmingham, West Midlands\nUnited Kingdom",
         "iso2": "GB",
@@ -4794,18 +4928,14 @@
     },
     {
       "name": "LightAir International AB",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/lightair-international-ab-comp304161.html",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/lightair-international-ab-comp305073.html",
       "telephone": "T: 0046 70 7960611",
       "address": {
         "text": "Svetsarvagen 15,\n171 41\n2TR Solna\nSweden",
         "iso2": "SE",
         "lat": 59.3594113,
         "lon": 17.9804157
-      },
-      "category": [
-        "Air purification & filtration",
-        "Other – Facilities"
-      ]
+      }
     },
     {
       "name": "Lighthouse (UK) Ltd.",
@@ -4823,30 +4953,15 @@
       ]
     },
     {
-      "name": "Lone Worker Solutions Ltd.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/lone-worker-solutions-ltd-comp267137.html",
-      "website": "http://www.loneworkersolutions.com",
-      "telephone": "T: 0161 885 2122",
+      "name": "Limble CMMS",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/limble-cmms-comp304956.html",
+      "telephone": "T: +15072376527",
       "address": {
-        "text": "2c Crown Business Park\nCown Top Lane\nOL11 2PU\nRochdale, Greater Manchester\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 53.5930642,
-        "lon": -2.1656606
-      },
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@Lone_Worker_Int"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/lone-worker/"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/channel/UC1KaRYapgu0MqzaMjBNtvlw"
-        }
-      ]
+        "text": "3290 West Mayflower Avenue\n84043\nLehi, Utah\nUnited States",
+        "iso2": "US",
+        "lat": 40.4406062,
+        "lon": -111.9032216
+      }
     },
     {
       "name": "Lorenz Technology Aps",
@@ -4886,33 +5001,22 @@
       ]
     },
     {
-      "name": "METRA INZENIRING D.O.O.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/metra-inzeniring-d-o-o-comp268235.html",
-      "website": "http://www.metra.si",
-      "telephone": "T: +386 1 561 0740",
-      "address": {
-        "text": "Špruha 19\n1236\nTrzin\nSlovenia",
-        "iso2": "SI",
-        "lat": 46.1185216,
-        "lon": 14.5467431
-      },
-      "category": [
-        "Mechanical & Electrical"
-      ]
-    },
-    {
-      "name": "MY Compliance Limited",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/my-compliance-limited-comp270638.html",
+      "name": "MY Compliance Management Limited",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/my-compliance-management-limited-comp270638.html",
       "website": "http://www.my-compliance.co.uk",
-      "telephone": "T: 01257 470896",
+      "telephone": "T: 01726 216996",
       "address": {
-        "text": "Unit F8 Coppull Enterprise Centre\nPR7 5BW\nChorley, Lancashire\nUnited Kingdom",
+        "text": "Office 3 & 4 Victoria Commercial Centre\nStation Approach\nPL26 8LG\nRoche, Cornwall\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 53.6276175,
-        "lon": -2.6621261
+        "lat": 50.4180345,
+        "lon": -4.8273754
       },
       "category": [
-        "Health & Safety"
+        "Audits & inspections",
+        "HSE management systems",
+        "Permit to work",
+        "Plant & asset management",
+        "Software"
       ]
     },
     {
@@ -4946,27 +5050,33 @@
       ]
     },
     {
-      "name": "Manifestation Solutions Limited / Glass Films",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/manifestation-solutions-limited-glass-films-comp295645.html",
-      "telephone": "T: 0742 767 0321",
+      "name": "Massage Station",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/massage-station-comp273016.html",
       "address": {
-        "text": "The Lockey Suite, The Nostell Estate Yard\nWF4 1AB\nWakefield, West Yorkshire\nUnited Kingdom",
+        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 53.6501378,
-        "lon": -1.3865488
+        "lat": 51.5064891,
+        "lon": -0.1042498
       }
     },
     {
       "name": "Matrix Booking",
       "exhibitorUrl": "https://directory.ifsecglobal.com/matrix-booking-comp289590.html",
       "website": "http://matrixbooking.com",
-      "telephone": "T: 0203 691 2936",
+      "telephone": "T: 0203 951 8291",
       "address": {
         "text": "18 Soho Square, London\nW1D 3QL\nGreater London\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.5158749,
         "lon": -0.1317564
-      }
+      },
+      "category": [
+        "Building Automation Systems & Building Controls",
+        "Parking",
+        "Sensors",
+        "Visitor Management & Turnstiles",
+        "Workplace Apps"
+      ]
     },
     {
       "name": "Mavili Elektronik Tic Ve San AS",
@@ -5006,6 +5116,16 @@
       ]
     },
     {
+      "name": "Media Zone",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/media-zone-comp241219.html",
+      "address": {
+        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5064891,
+        "lon": -0.1042498
+      }
+    },
+    {
       "name": "Mercator Medical ( Thailand) Ltd.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/mercator-medical-thailand-ltd-comp302990.html",
       "website": "http://www.mercator.co.th",
@@ -5034,6 +5154,25 @@
         "lat": 51.4966202,
         "lon": 0.14887
       }
+    },
+    {
+      "name": "Metra | Smart Locker Systems",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/metra-smart-locker-systems-comp268235.html",
+      "website": "http://www.metra.si",
+      "telephone": "T: +386 1 561 0740",
+      "address": {
+        "text": "Špruha 19\n1236\nTrzin\nSlovenia",
+        "iso2": "SI",
+        "lat": 46.1185216,
+        "lon": 14.5467431
+      },
+      "category": [
+        "CAFM/ Workplace Technology & Software",
+        "Ergonomic Furniture/ Office Furniture",
+        "Lockers & storage",
+        "Post room",
+        "Workplace Interior & supplies"
+      ]
     },
     {
       "name": "Metro Rod Ltd",
@@ -5120,6 +5259,16 @@
         "Fire Safety",
         "Radio Frequency Identification (RFID)",
         "Risk assesments & management"
+      ],
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@MyTAGio"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/9297763"
+        }
       ]
     },
     {
@@ -5263,18 +5412,6 @@
       ]
     },
     {
-      "name": "Nayax UK",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/nayax-uk-comp285755.html",
-      "website": "http://www.nayax.com",
-      "telephone": "T: 972773633157",
-      "address": {
-        "text": "The Maylands Building\nMaylands Avenue\nHP2 7TG\nHemel Hempstead, Hertfordshire\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.7601996,
-        "lon": -0.4386353
-      }
-    },
-    {
       "name": "Nebosh",
       "exhibitorUrl": "https://directory.ifsecglobal.com/nebosh-comp241099.html",
       "website": "http://www.nebosh.org.uk",
@@ -5284,7 +5421,12 @@
         "iso2": "GB",
         "lat": 52.61190029999999,
         "lon": -1.1919554
-      }
+      },
+      "category": [
+        "Health & Safety",
+        "Health & safety training",
+        "Wellbeing & mental health training"
+      ]
     },
     {
       "name": "Nedap Security Management",
@@ -5455,14 +5597,15 @@
       ]
     },
     {
-      "name": "Northern Gas and Power",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/northern-gas-and-power-comp303894.html",
-      "telephone": "T: 0191 543 4663",
+      "name": "Nook Workplace Pods",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/nook-workplace-pods-comp304899.html",
+      "website": "http://www.nookpod.com",
+      "telephone": "T: 0333 577 6665",
       "address": {
-        "text": "Northern Gas and Power Ltd, Baltic Place,\nNE8 3AE\nGateshead\nUnited Kingdom",
+        "text": "Pump House Lane\nBS44RQ\nBristol\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 54.96916479999999,
-        "lon": -1.5949267
+        "lat": 51.4474643,
+        "lon": -2.5376455
       }
     },
     {
@@ -5477,7 +5620,30 @@
         "lon": -1.5039735
       },
       "category": [
-        "Behavioural safety"
+        "Audits & inspections",
+        "Behavioural safety",
+        "HSE management systems",
+        "Health & Safety",
+        "Incident management"
+      ]
+    },
+    {
+      "name": "Nurture Group",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/nurture-group-comp266769.html",
+      "website": "http://www.nurturelandscapes.co.uk",
+      "telephone": "T: 0800 755 5265",
+      "address": {
+        "text": "Nursery Court\nLondon Road\nGU20 6LQ\nWindlesham, Surrey\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3833934,
+        "lon": -0.652793
+      },
+      "category": [
+        "Gritting",
+        "Grounds maintenance",
+        "Landscaping",
+        "Pest Control",
+        "Plants/ Flower supply"
       ]
     },
     {
@@ -5513,6 +5679,17 @@
         "Software",
         "Washroom"
       ]
+    },
+    {
+      "name": "OSH Association",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/osh-association-comp304871.html",
+      "telephone": "T: 01733 666600",
+      "address": {
+        "text": "Allia Future Business Centre, London Rd\nPE2 8AN\nPeterborough\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5645971,
+        "lon": -0.2393987
+      }
     },
     {
       "name": "OUTCO",
@@ -5578,11 +5755,11 @@
         "lon": -0.3234267
       },
       "category": [
-        "Drones/UAVs",
         "Fence Intrusion Detection Systems",
         "Intrusion Detection And Location Systems",
         "Perimeter Protection",
-        "Transmission Equipment"
+        "Remote Surveillance",
+        "Sensors"
       ],
       "social": [
         {
@@ -5759,25 +5936,6 @@
       ]
     },
     {
-      "name": "Paige Electric Co, LP.",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/paige-electric-co-lp-comp287414.html",
-      "website": "https://www.paigedatacom.com",
-      "telephone": "T: +19086877810",
-      "address": {
-        "text": "200 Sheffield Road\nSuite 302\n07092\nMountainside, NJ\nUnited States",
-        "iso2": "US",
-        "lat": 40.7251831,
-        "lon": -74.3442269
-      },
-      "category": [
-        "IP Access Control Systems",
-        "Integrated Security",
-        "Security",
-        "Video Surveillance",
-        "VoIP"
-      ]
-    },
-    {
       "name": "Parcel Pending by Quadient",
       "exhibitorUrl": "https://directory.ifsecglobal.com/parcel-pending-by-quadient-comp285826.html",
       "website": "https://www.quadient.co.uk",
@@ -5858,17 +6016,6 @@
         "iso2": "GB",
         "lat": 53.4846926,
         "lon": -2.8641322
-      }
-    },
-    {
-      "name": "Pelle Safety Gloves",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/pelle-safety-gloves-comp304144.html",
-      "telephone": "T: 0301-3070845",
-      "address": {
-        "text": "Defence Road\nAkbarabad Chowk Mughal Street #1\nSialkot\nPakistan",
-        "iso2": "PK",
-        "lat": 32.4875182,
-        "lon": 74.52450429999999
       }
     },
     {
@@ -6265,6 +6412,37 @@
       ]
     },
     {
+      "name": "Procell by Duracell",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/procell-by-duracell-comp287453.html",
+      "website": "http://www.procell.com",
+      "telephone": "T: +33685330999",
+      "address": {
+        "text": "500 Dashwood Lang Rd, Addlestone KT15 2HJ\nKT15 2HJ\nWeybridge\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3727534,
+        "lon": -0.4791491
+      }
+    },
+    {
+      "name": "ProcessMap Corporation",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/processmap-corporation-comp303517.html",
+      "website": "https://www.processmap.com",
+      "telephone": "T: 07481234981",
+      "address": {
+        "text": "13450 W. Sunrise Boulevard\nSuite: 160 Sunrise\n33323\nFlorida\nUnited States",
+        "iso2": "US",
+        "lat": 26.1437812,
+        "lon": -80.3242726
+      },
+      "category": [
+        "Audits",
+        "Environment & sustainability consulting",
+        "Health & Safety",
+        "Incident investigations",
+        "Risk assesments & management"
+      ]
+    },
+    {
       "name": "Q-net Ltd.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/qnet-ltd-comp264573.html",
       "website": "http://www.q-net.com",
@@ -6305,17 +6483,31 @@
         "lon": -2.3978788
       },
       "category": [
-        "Fire Cement",
-        "Fire Safety Consultancy",
-        "Fire Stopping",
-        "Pipes And Joints",
-        "Sealants"
+        "Fire Stopping"
       ],
       "social": [
         {
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/quelfire"
         }
+      ]
+    },
+    {
+      "name": "R8tech",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/r8tech-comp304796.html",
+      "website": "https://r8tech.io",
+      "telephone": "T: 0773 4325047",
+      "address": {
+        "text": "8A Lõõtsa\n11415\nTallinn\nEstonia",
+        "iso2": "EE",
+        "lat": 59.4206596,
+        "lon": 24.801351
+      },
+      "category": [
+        "AI/Machine-learning",
+        "Building Automation Systems & Building Controls",
+        "Energy efficiency and Management",
+        "HVAC"
       ]
     },
     {
@@ -6515,6 +6707,25 @@
       ]
     },
     {
+      "name": "RealNetworks, Inc.",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/realnetworks-inc-comp304870.html",
+      "website": "http://www.realnetworks.com",
+      "telephone": "T: 07724514394",
+      "address": {
+        "text": "1501 1st Avenue S.\nSuite 600\n98134\nSeattle, Washington\nUnited States",
+        "iso2": "US",
+        "lat": 47.5897702,
+        "lon": -122.3346967
+      },
+      "category": [
+        "AI/Machine-learning",
+        "Access Control",
+        "Biometrics",
+        "Video Analytics",
+        "Video Surveillance"
+      ]
+    },
+    {
       "name": "Rebo BV",
       "exhibitorUrl": "https://directory.ifsecglobal.com/rebo-bv-comp241101.html",
       "website": "http://www.rebosystems.com",
@@ -6532,6 +6743,7 @@
     {
       "name": "Redro Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/redro-ltd-comp304309.html",
+      "website": "https://www.mainteno.com",
       "telephone": "T: 07818 038205",
       "address": {
         "text": "Bowman House\nBusiness Centre Bowman Court\nWhitehill Lane, Royal Wootton Bassett\nSN4 7DB\nSwindon\nUnited Kingdom",
@@ -6651,7 +6863,14 @@
         "iso2": "LV",
         "lat": 56.9811691,
         "lon": 24.1178329
-      }
+      },
+      "category": [
+        "Building Automation Systems & Building Controls",
+        "Detection & monitoring technology",
+        "Energy Management / Green FM",
+        "Energy efficiency and Management",
+        "Sensors"
+      ]
     },
     {
       "name": "SAG- Securitag Assembly Group",
@@ -6738,54 +6957,6 @@
         "lat": 53.4278553,
         "lon": -2.1655743
       }
-    },
-    {
-      "name": "SFG20",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/sfg20-comp266813.html",
-      "website": "http://www.sfg20.co.uk",
-      "telephone": "T: 01768 860459",
-      "address": {
-        "text": "Old Mansion House\nEamont Bridge\nCA10 2BX\nPenrith, Cumbria\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 54.6495063,
-        "lon": -2.740322
-      },
-      "category": [
-        "Facilities Management"
-      ]
-    },
-    {
-      "name": "SFJ Awards",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/sfj-awards-comp301669.html",
-      "website": "https://sfjawards.com",
-      "telephone": "T: 0114 284 1970",
-      "address": {
-        "text": "SFJ Awards\nConsult House\n4 Hayland Street\nS9 1BY\nSheffield\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 53.4121599,
-        "lon": -1.4197293
-      },
-      "category": [
-        "Compliance Training/ Consultancy",
-        "Consulting, audits & investigations",
-        "Fire Safety Training",
-        "News and publications",
-        "Training, recruitment & media"
-      ],
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/@SFJAwards"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/sfj-awards/"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/channel/UC0AgIJuIvp8SM0Vg5tFHMsw"
-        }
-      ]
     },
     {
       "name": "Safe365 Limited",
@@ -7004,6 +7175,24 @@
       }
     },
     {
+      "name": "Securasite",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/securasite-comp304937.html",
+      "telephone": "T: 07766391414",
+      "address": {
+        "text": "Unit 3 Oakdale Trading Estate Ham Lane\nDY6 7JH\nKingswinford\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5087173,
+        "lon": -2.1623364
+      },
+      "category": [
+        "Construction Products",
+        "Maintenance - Grounds & Buildings",
+        "Mechanical & Electrical",
+        "Other – Facilities",
+        "Perimeter Security Fencing"
+      ]
+    },
+    {
       "name": "Secured by Design",
       "exhibitorUrl": "https://directory.ifsecglobal.com/secured-by-design-comp270147.html",
       "website": "http://www.securedbydesign.com",
@@ -7056,11 +7245,10 @@
     },
     {
       "name": "Security Cleared Jobs",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/security-cleared-jobs-comp285211.html",
-      "website": "http://www.securityclearedjobs.com",
-      "telephone": "T: +44 (0)20 8166 0616",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/security-cleared-jobs-comp285376.html",
+      "telephone": "T: 020 81660616",
       "address": {
-        "text": "First floor 19-23\nMasons Hill\nBR29HD\nBromley, Kent\nUnited Kingdom",
+        "text": "First floor 19-23 Masons Hill\nBR2 9HD\nBromley, Kent\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.3993841,
         "lon": 0.017989
@@ -7082,13 +7270,18 @@
       "name": "Secury360",
       "exhibitorUrl": "https://directory.ifsecglobal.com/secury360-comp301435.html",
       "website": "https://www.secury-360.com",
-      "telephone": "T: 0032473176499",
+      "telephone": "T: 003211362646",
       "address": {
         "text": "Industrieweg-zuid 1320\n3520\nZonhoven\nBelgium",
         "iso2": "BE",
         "lat": 51.0001752,
         "lon": 5.3861853
-      }
+      },
+      "category": [
+        "AI/Machine-learning",
+        "Perimeter Protection",
+        "Video Surveillance"
+      ]
     },
     {
       "name": "Seeclear Facilities UK Ltd",
@@ -7136,11 +7329,18 @@
       "website": "http://seoulrobotics.org",
       "telephone": "T: +821046573727",
       "address": {
-        "text": "1003 Seoul Robotics, 311 Gangnam-daero\n06628\nSeocho-gu\nKorea, Republic of",
-        "iso2": "KR",
-        "lat": 37.4908461,
-        "lon": 127.0302812
-      }
+        "text": "10 Corporate Park, Suite 210\n92606\nIrvine, California\nUnited States",
+        "iso2": "US",
+        "lat": 33.6903595,
+        "lon": -117.8295395
+      },
+      "category": [
+        "AI/Machine-learning",
+        "Intelligent/Smart Buildings",
+        "Intrusion Detection And Location Systems",
+        "Perimeter Protection",
+        "Sensors"
+      ]
     },
     {
       "name": "Seriline AB",
@@ -7189,7 +7389,13 @@
         "iso2": "GB",
         "lat": 51.4584756,
         "lon": -0.2101302
-      }
+      },
+      "category": [
+        "CAFM/ Workplace Technology & Software",
+        "Field Service Management Software",
+        "Maintenance - Grounds & Buildings",
+        "Workplace Apps"
+      ]
     },
     {
       "name": "TAL Tag Limited",
@@ -7377,7 +7583,12 @@
         "iso2": "GB",
         "lat": 51.4237254,
         "lon": -0.06205360000000001
-      }
+      },
+      "category": [
+        "Ergonomic Furniture/ Office Furniture",
+        "MSD risk management & ergonomic aids",
+        "Waste Management"
+      ]
     },
     {
       "name": "Technical Safety Products Limited",
@@ -7443,7 +7654,13 @@
         "iso2": "GB",
         "lat": 51.2745458,
         "lon": 0.3947576
-      }
+      },
+      "category": [
+        "Fire Prevention/Protection and Safety",
+        "Perimeter Protection",
+        "Security",
+        "Smart Buildings"
+      ]
     },
     {
       "name": "Telefire",
@@ -7462,6 +7679,18 @@
         "Fire Detection",
         "Fire Panel"
       ]
+    },
+    {
+      "name": "Telepower Communication Co., Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/telepower-communication-co-ltd-comp285672.html",
+      "website": "http://www.telpo.com.cn",
+      "telephone": "T: 008617324131965",
+      "address": {
+        "text": "Bldg.5, Zone A, Hantian Technology Town\n528251\nFoshan\nChina",
+        "iso2": "CN",
+        "lat": 22.87591,
+        "lon": 113.05959
+      }
     },
     {
       "name": "Tenmat Ltd",
@@ -7573,18 +7802,6 @@
       }
     },
     {
-      "name": "The Nurture Landscapes Group",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/the-nurture-landscapes-group-comp266769.html",
-      "website": "http://www.nurturelandscapes.co.uk",
-      "telephone": "T: 0800 755 5265",
-      "address": {
-        "text": "Nursery Court\nLondon Road\nGU20 6LQ\nWindlesham, Surrey\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.3833934,
-        "lon": -0.652793
-      }
-    },
-    {
       "name": "The Rack Group Ltd",
       "exhibitorUrl": "https://directory.ifsecglobal.com/the-rack-group-ltd-comp285552.html",
       "website": "http://www.therackgroup.com",
@@ -7632,6 +7849,9 @@
         "lat": 52.0898654,
         "lon": -1.951921
       },
+      "category": [
+        "Trade Associations & Inspectorates"
+      ],
       "social": [
         {
           "platform": "facebook",
@@ -7657,10 +7877,10 @@
       "website": "http://www.security-institute.org",
       "telephone": "T: 02476346464",
       "address": {
-        "text": "1 The Courtyard\nCV10 OAS\nCaldecote, Nuneaton\nUnited Kingdom",
+        "text": "The Security Institute\nMIRA Technology Park\nTechnology Centre NW05\nCV10 0TU\nWatling Street, Nuneaton\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 52.5500242,
-        "lon": -1.4826706
+        "lat": 52.5437063,
+        "lon": -1.4386551
       },
       "category": [
         "Associations & Media",
@@ -7751,16 +7971,6 @@
       }
     },
     {
-      "name": "UBM Live",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/ubm-live-comp230390.html",
-      "address": {
-        "text": "240 Blackfriars Road\nSE1 8BF\nLondon\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.5064891,
-        "lon": -0.1042498
-      }
-    },
-    {
       "name": "UD INFO CORP.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/ud-info-corp-comp287515.html",
       "website": "http://www.udinfo.com%2Ctw",
@@ -7815,7 +8025,28 @@
         "iso2": "KR",
         "lat": 37.4884717,
         "lon": 127.1289195
-      }
+      },
+      "category": [
+        "Access Control",
+        "Biometrics",
+        "IT & Cyber Security",
+        "Security",
+        "Smart Buildings"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/VIRDIKOREA"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/unioncommunity/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/Unioncommunity"
+        }
+      ]
     },
     {
       "name": "UbiqiSense ApS",
@@ -7845,13 +8076,16 @@
       "name": "Ultimate Visual Solutions",
       "exhibitorUrl": "https://directory.ifsecglobal.com/ultimate-visual-solutions-comp272917.html",
       "website": "http://www.ultimatevs.co.uk",
-      "telephone": "T: +45 88 300 300",
+      "telephone": "T: +44 (0)1282 606 525",
       "address": {
         "text": "PO Box 482\nBB11 9BX\nBurnley, Lancashire\nUnited Kingdom",
         "iso2": "GB",
         "lat": 53.7909444,
         "lon": -2.2408885
-      }
+      },
+      "category": [
+        "Audio visual & digital signage"
+      ]
     },
     {
       "name": "Ultimation Direct Ltd",
@@ -7882,11 +8116,11 @@
         "lon": 19.0509062
       },
       "category": [
-        "Access Control Systems",
-        "Biometrics",
-        "CCTV Monitoring",
-        "Face Detection",
-        "Video Surveillance"
+        "AI/Machine-learning",
+        "Alarm Receiving Centres",
+        "Health & Safety",
+        "Perimeter Protection",
+        "Video Analytics"
       ]
     },
     {
@@ -7948,6 +8182,17 @@
       ]
     },
     {
+      "name": "Urmson Fire Specialists Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/urmson-fire-specialists-ltd-comp304869.html",
+      "telephone": "T: 01257262683",
+      "address": {
+        "text": "Fellery Street\nPR7\nChorley\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.6550693,
+        "lon": -2.6305792
+      }
+    },
+    {
       "name": "VIAKOM CZ s.r.o.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/viakom-cz-s-r-o-comp303514.html",
       "website": "https://www.viakom.cz",
@@ -8003,11 +8248,31 @@
       "website": "http://www.videoexpertsgroup.com",
       "telephone": "T: +1 866 416 0159",
       "address": {
-        "text": "77 Bloor Street West\nM5S 1M2\nToronto, Ontario\nCanada",
+        "text": "77 Bloor St West, Suite 600\nM5S 1M2\nToronto\nCanada",
         "iso2": "CA",
-        "lat": 43.6692249,
-        "lon": -79.38970789999999
-      }
+        "lat": 43.6692182,
+        "lon": -79.3897782
+      },
+      "category": [
+        "Cloud-based surveillance solution",
+        "Video Management Software (VMS)",
+        "Video Surveillance",
+        "Video Surveillance As A Service (VSaaS)"
+      ],
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/vxg_inc"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vxg-inc"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/VXGInc"
+        }
+      ]
     },
     {
       "name": "Vatix Ltd",
@@ -8128,8 +8393,8 @@
       }
     },
     {
-      "name": "Vismo Lone Worker Solutions",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/vismo-lone-worker-solutions-comp284557.html",
+      "name": "Vismo Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/vismo-ltd-comp284557.html",
       "website": "http://vismo.com",
       "telephone": "T: 01904616666",
       "address": {
@@ -8146,12 +8411,12 @@
       ],
       "social": [
         {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/vismo-ltd/"
+          "platform": "twitter",
+          "url": "https://twitter.com/@Vismo_Ltd"
         },
         {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/channel/UC1pYEfYh587iUhwqls-Jcrg"
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vismo-ltd/"
         }
       ]
     },
@@ -8212,6 +8477,18 @@
         "iso2": "KR",
         "lat": 37.4970794,
         "lon": 127.028718
+      }
+    },
+    {
+      "name": "WES Worldwide Expo Services Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/wes-worldwide-expo-services-ltd-comp225237.html",
+      "website": "http://www.wesexpo.com.cn",
+      "telephone": "T: +86 755 2652 8480",
+      "address": {
+        "text": "A10/A, Neptunus Mansion\nNanhai Road\n518054\nShenzhen, Nanshan District\nChina",
+        "iso2": "CN",
+        "lat": 22.52284,
+        "lon": 113.9294
       }
     },
     {
@@ -8368,7 +8645,14 @@
         "iso2": "GB",
         "lat": 53.3798014,
         "lon": -1.4756068
-      }
+      },
+      "category": [
+        "Employee rewards & benefits",
+        "Facilities Management",
+        "Mental health",
+        "Wellbeing & mental health training",
+        "Workplace Wellbeing"
+      ]
     },
     {
       "name": "Whiffaway Ltd.",
@@ -8395,7 +8679,14 @@
         "iso2": "GB",
         "lat": 51.9080514,
         "lon": -1.275923
-      }
+      },
+      "category": [
+        "Facilities Management",
+        "Intelligent/Smart Buildings",
+        "Reporting",
+        "Software",
+        "Workplace Apps"
+      ]
     },
     {
       "name": "William Martin Compliance Ltd.",
@@ -8412,39 +8703,6 @@
         "Compliance consulting",
         "Fire Safety",
         "Health & Safety"
-      ]
-    },
-    {
-      "name": "Wireless CCTV Limited",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/wireless-cctv-limited-comp225246.html",
-      "website": "http://www.wcctv.co.uk",
-      "telephone": "T: 01706 631166",
-      "address": {
-        "text": "Charles Babbage House\nKingsway Business Park\nOL16 4NW\nRochdale, Lancashire\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 53.6411218,
-        "lon": -2.1855547
-      },
-      "category": [
-        "Body Worn Cameras",
-        "Public Space Surveillance",
-        "Remote Surveillance",
-        "Security Cameras",
-        "Video Surveillance"
-      ],
-      "social": [
-        {
-          "platform": "twitter",
-          "url": "https://twitter.com/WirelessCCTV"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/wcctv-ltd"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/channel/UCY0f5HQDO0p85rCBi1W0rDw/feed"
-        }
       ]
     },
     {
@@ -8516,17 +8774,18 @@
         "lon": -1.1796771
       },
       "category": [
+        "Facilities Management",
         "Plant & Machinery",
         "Waste Management"
       ]
     },
     {
-      "name": "XAFER GROUP SRL",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/xafer-group-srl-comp269398.html",
+      "name": "XAFER SRL",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/xafer-srl-comp269398.html",
       "website": "http://www.xafer.com",
       "telephone": "T: +39 0471 509360",
       "address": {
-        "text": "Via Olivetti 4\n39055\nLaives, BZ\nItaly",
+        "text": "XAFER SRL\nVia Olivetti 4\n39055\nLaives, BZ\nItaly",
         "iso2": "IT",
         "lat": 46.4469551,
         "lon": 11.3385795
@@ -8584,6 +8843,39 @@
         "Home Automation",
         "Intelligent/Smart Buildings",
         "Sensors"
+      ]
+    },
+    {
+      "name": "Xiamen Milesight Technology Co., Ltd",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/xiamen-milesight-technology-co-ltd-comp232015.html",
+      "website": "http://www.milesight.com",
+      "telephone": "T: +86 592 5922772",
+      "address": {
+        "text": "Room 202, No.23 Wanghai Rd\n2nd Software Park\n361008\nXiamen\nChina",
+        "iso2": "CN",
+        "lat": 24.48555,
+        "lon": 118.18595
+      },
+      "category": [
+        "CCTV Monitoring",
+        "Cameras",
+        "IP Cameras",
+        "NVR",
+        "PTZ Camera"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MilesightTechnology"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/milesight-technology/?trk=biz-companies-cym"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCaPyo-fDPoTX8eWGpuj3BZw"
+        }
       ]
     },
     {
@@ -8645,10 +8937,10 @@
       "website": "http://www.zenitel.com",
       "telephone": "T: +47 40 002 500",
       "address": {
-        "text": "Mack House\nGatwick Road\nRH10 9RJ\nCrawley, West Sussex\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.1303993,
-        "lon": -0.1701421
+        "text": "Sandakerveien 24C\nNO-0473\nOslo\nNorway",
+        "iso2": "NO",
+        "lat": 59.93445339999999,
+        "lon": 10.7617554
       },
       "category": [
         "Access Control Systems",
@@ -8675,6 +8967,17 @@
           "url": "https://www.youtube.com/channel/UCz1ln425EhvTtjHgM6YpSRA"
         }
       ]
+    },
+    {
+      "name": "Zest4 IoT",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/zest4-iot-comp304938.html",
+      "telephone": "T: 07802222434",
+      "address": {
+        "text": "50 Alderley Road\nSK9 1NY\nWilmslow, Cheshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.324659,
+        "lon": -2.2347484
+      }
     },
     {
       "name": "Zhejiang Dahua Technology Co.,Ltd",
@@ -8706,6 +9009,43 @@
       ]
     },
     {
+      "name": "Zhejiang Uniview Tech. Co., Ltd.",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/zhejiang-uniview-tech-co-ltd-comp229715.html",
+      "website": "http://www.uniview.com",
+      "telephone": "T: +86 571 8650 9000",
+      "address": {
+        "text": "South Tower, Building 10\nWanlun Science Park\n88 Jiangling Road\n310051\nHangzhou, Zhejiang\nChina",
+        "iso2": "CN",
+        "lat": 30.178588,
+        "lon": 120.219874
+      },
+      "category": [
+        "CCTV Monitoring",
+        "Cameras",
+        "Data Network Security",
+        "Data Storage Solutions",
+        "IP Cameras"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Uniview-681062395308426/timeline/?ref=bookmarks"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/@UniviewTech"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/3552987/admin/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCqx937gPiCrFIzXFKQfC5FA"
+        }
+      ]
+    },
+    {
       "name": "Zhuhai RaySharp Technology Co., Ltd.",
       "exhibitorUrl": "https://directory.ifsecglobal.com/zhuhai-raysharp-technology-co-ltd-comp225269.html",
       "website": "http://www.raysharp.cn",
@@ -8715,7 +9055,12 @@
         "iso2": "CN",
         "lat": 22.2506199,
         "lon": 113.52376
-      }
+      },
+      "category": [
+        "CCTV",
+        "Home Automation",
+        "Video Surveillance"
+      ]
     },
     {
       "name": "Zoll Medical UK Ltd.",
@@ -8781,8 +9126,20 @@
       ]
     },
     {
-      "name": "eCapture",
-      "exhibitorUrl": "https://directory.ifsecglobal.com/ecapture-comp289229.html",
+      "name": "dormakaba",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/dormakaba-comp304901.html",
+      "website": "http://www.dormakaba.com",
+      "telephone": "T: +44 (0)1884 256464",
+      "address": {
+        "text": "Centre 3, Wilbury Way\nSG4 0AB\nHitchin, Hertfortshire\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.9653411,
+        "lon": -0.2641759
+      }
+    },
+    {
+      "name": "eCaptureDtech",
+      "exhibitorUrl": "https://directory.ifsecglobal.com/ecapturedtech-comp289229.html",
       "website": "http://www.ecapture3d.com",
       "telephone": "T: +34 924 10 32 27",
       "address": {
@@ -8831,7 +9188,8 @@
     {
       "name": "iOFFICE + SpaceIQ",
       "exhibitorUrl": "https://directory.ifsecglobal.com/ioffice-spaceiq-comp304251.html",
-      "telephone": "T: Please email",
+      "website": "https://www.iofficecorp.com",
+      "telephone": "T: +44 (0)7493 411130",
       "address": {
         "text": "iOFFICE + SpaceIQ\n950 East Paces Ferry Road\nGA 30326\nNE, Atlanta\nUnited States",
         "iso2": "US",
@@ -8843,6 +9201,12 @@
         "Facilities Management",
         "Smart Buildings",
         "Workplace Apps"
+      ],
+      "social": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/iOfficeCorp"
+        }
       ]
     }
   ]
