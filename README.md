@@ -55,7 +55,7 @@ Corrections may be submitted by email or as GitHub issues.
 
 ### Exhibitors at UK fairs
 
-![World map of exhibitors travelling to arms and security fairs in the UK](/image/travel-gb.png?raw=true)
+![World map of exhibitors travelling to arms and security fairs in the UK](/image/iso2.gb.travel.png?raw=true)
 
 
 ## Statistics

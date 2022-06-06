@@ -2,6 +2,7 @@
 
 import io
 import csv
+import sys
 import json
 import shutil
 import logging
@@ -9,6 +10,10 @@ import argparse
 from pathlib import Path
 
 import jsonschema
+
+sys.path.append(Path(__file__).parent)
+
+from common import Fair
 
 
 
@@ -77,40 +82,26 @@ def main():
     out = [titles]
     last_series = None
     for path in args.json_path:
-        data = json.loads(path.read_text())
+        fair = Fair(path)
+        count["organisers"] += len(fair.organiser)
+        count["exhibitors"] += len(fair.exhibitor)
+        count["delegations"] += len(fair.delegation)
+        website = " ".join(fair.website)
+        alias = ";".join(fair.alias)
 
-        organiser = data.get("organiser", "")
-        if organiser:
-            organiser = 1 if isinstance(organiser, dict) else len(organiser)
-            count["organisers"] += organiser
-        exhibitor = data.get("exhibitor", "")
-        if exhibitor:
-            exhibitor = 1 if isinstance(exhibitor, dict) else len(exhibitor)
-            count["exhibitors"] += exhibitor
-        delegation = data.get("delegation", "")
-        if delegation:
-            delegation = 1 if isinstance(delegation, dict) else len(delegation)
-            count["delegations"] += delegation
-        website = data.get("website", "")
-        if website and not isinstance(website, str):
-            website = " ".join(website)
-        alias = data.get("alias", "")
-        if alias and not isinstance(alias, str):
-            alias = ";".join(alias)
-
-        series = data.get("series", None)
+        series = fair.series
         if series != last_series:
             out.append(["", ] * len(titles))
             last_series = series
             count["series"] += 1
 
         out.append((
-            path.stem,
-            data.get("startDate", ""),
-            data.get("endDate", ""),
-            str(organiser),
-            str(exhibitor),
-            str(delegation),
+            fair.slug,
+            fair.start_date or "",
+            fair.end_date or "",
+            str(len(fair.organiser) or ""),
+            str(len(fair.exhibitor) or ""),
+            str(len(fair.delegation) or ""),
             website,
             alias,
         ))

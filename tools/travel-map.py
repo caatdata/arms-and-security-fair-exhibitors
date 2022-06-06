@@ -1,77 +1,25 @@
 #!/usr/bin/env python3
 
+import sys
 import json
-import base64
-import time
 import logging
 import argparse
-import threading
-import http.server
 from pathlib import Path
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
 
-LOG = logging.getLogger("task")
+LOG = logging.getLogger("travel_map")
 TOOLS_PATH = Path(__file__).parent
 REPO_PATH = TOOLS_PATH.parent
 PRIVATE = json.loads((REPO_PATH / ".private.json").read_text("utf-8"))
-GEO_JSON_PATH = None
 
+sys.path.append(TOOLS_PATH)
 
-
-class RequestHandler(http.server.SimpleHTTPRequestHandler):
-    def do_GET(self):
-        path = Path(self.path[1:])
-        if "/" in str(path):
-            self.send_response(404)
-            self.end_headers()
-            return
-
-        if path.name == GEO_JSON_PATH.name:
-            path = GEO_JSON_PATH
-        else:
-            path = TOOLS_PATH / path
-
-        try:
-            content_type = {
-                ".ico": "image/x-icon",
-                ".html": "text/html",
-                ".js": "text/javascript",
-                ".css": "text/css",
-                ".json": "application/json"
-            }[path.suffix]
-        except KeyError:
-            self.send_response(404)
-            self.end_headers()
-            return
-
-        try:
-            body = path.read_text("utf-8")
-        except FileNotFoundError:
-            self.send_response(404)
-            self.end_headers()
-            return
-
-        if path.name.endswith("map.js"):
-            body = body.replace("__MAPBOX_API_KEY__", json.dumps(PRIVATE["mapboxApiKey"]))
-            body = body.replace("__GEO_JSON_NAME__", json.dumps(GEO_JSON_PATH.name))
-
-        if path.name == "map.html":
-            body = body.replace("__SCRIPT__", "travel-map.js")
-
-        self.send_response(200)
-        self.send_header('Content-type', content_type)
-        self.end_headers()
-        self.wfile.write(body.encode("utf-8"))
+from map import map_to_png
 
 
 
 def main():
-    global GEO_JSON_PATH
-
     parser = argparse.ArgumentParser(
-        description="Determine scraping tasks based on event dates.")
+        description="Produce a travel map PNG from JSON location data.")
 
     parser.add_argument(
         "--verbose", "-v",
@@ -105,53 +53,29 @@ def main():
         logging.INFO,
         logging.DEBUG
     )[max(0, min(4, 2 + offset))]
-    LOG.addHandler(logging.StreamHandler())
-    LOG.setLevel(level)
+    for log in (LOG, logging.getLogger("map")):
+        log.addHandler(logging.StreamHandler())
+        log.setLevel(level)
 
-    GEO_JSON_PATH = args.json_path
+    path_dict = {
+        args.json_path.name: args.json_path
+    }
 
-    server = http.server.ThreadingHTTPServer(("", 8000), RequestHandler)
-    LOG.info("Starting Server in background.")
-    thread = threading.Thread(target = server.serve_forever)
-    thread.daemon = True
-    thread.start()
+    replace_dict = {
+        "map.html": {
+            "__SCRIPT__": "travel-map.js",
+        },
+        "travel-map.js": {
+            "__MAPBOX_API_KEY__": json.dumps(PRIVATE["mapboxApiKey"]),
+            "__GEO_JSON_NAME__": json.dumps(args.json_path.name),
+        },
+    }
 
-    time.sleep(1)
-
-    chrome_options = Options()
-    chrome_options.set_capability('goog:loggingPrefs', {
-        "browser": "ALL",
-    })
-    service = Service(PRIVATE["chromedriverPath"])
-
-    LOG.info("Starting Chromedriver.")
-    driver = webdriver.Chrome(
-        options=chrome_options,
-        service=service,
+    map_to_png(
+        path_dict, replace_dict,
+        args.png_path,
+        driver_path=PRIVATE["chromedriverPath"]
     )
-    driver.get("http://0.0.0.0:8000/map.html")
-    for item in driver.get_log('browser'):
-        LOG.warning(f"{item['level']}: {item['message']}")
-    time.sleep(2)
-
-    LOG.info("Requesting canvas data.")
-    result = driver.execute_script("return mapPng();")
-    head = "data:image/png;base64,"
-    assert result.startswith(head)
-    png_data = base64.b64decode(result[len(head):])
-
-    LOG.info(f"Writing canvas data to `{args.png_path}`.")
-    with args.png_path.open("wb") as fp:
-        fp.write(png_data)
-
-    LOG.info("Closing Chromedriver.")
-    driver.close()
-
-    LOG.info("Stopping Server.")
-    server.shutdown()
-
-    thread.join()
-    LOG.info("Done.")
 
 
 

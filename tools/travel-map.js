@@ -32,7 +32,6 @@ map = new mapboxgl.Map({
 });
 
 function mapPng() {
-  console.log(map.getCanvas().toDataURL());
   return map.getCanvas().toDataURL();
 }
 
@@ -51,7 +50,7 @@ function filterGeoJson(result) {
     "type": "FeatureCollection",
     "features": []
   };
-  console.log(data);
+
   var datelineOffset = 15;
   for (var i = 0; i < data.length; i++) {
     var event = data[i];
@@ -75,7 +74,8 @@ function filterGeoJson(result) {
           "type": "Feature",
           "properties": {
             "eventName": event.name,
-            "exhibitorName": exhibitor.name
+            "exhibitorName": exhibitor.name,
+            "distance": generator.g,
           },
           "geometry": {
             "type": "LineString",
@@ -87,12 +87,15 @@ function filterGeoJson(result) {
     }
   }
 
-  console.log(out);
+  out.features.sort(function (a, b) {
+    return a.properties.distance - b.properties.distance;
+  });
 
   map.on('load', () => {
   map.setCenter([10, datelineOffset]);
   map.addSource('exhibitor', {
     type: 'geojson',
+    lineMetrics: true,
     data: out
   });
   map.addLayer(
@@ -102,11 +105,24 @@ function filterGeoJson(result) {
       source: 'exhibitor',
       layout: {
         'line-join': 'round',
-        'line-cap': 'round'},
+        'line-cap': 'round'
+      },
       paint: {
-        'line-color': caatRed,
-        'line-opacity': .5,
-        'line-width': .5
+        'line-opacity': 1,
+        'line-width': 1,
+        'line-gradient': [
+          'interpolate',
+          [
+            'linear'
+          ],
+          [
+            'line-progress'
+          ],
+          0.3,
+          caatRed,
+          0.7,
+          caatBlue
+        ]
       }
 
     },
