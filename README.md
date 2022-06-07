@@ -5,6 +5,14 @@ Data about arms and security trade fairs and the companies that exhibit at them.
 A collaborative project between [Campaign Against Arms Trade](https://caat.org.uk) and [Omega Research Foundation](https://omegaresearchfoundation.org/).
 
 
+## Online Browsers
+
+This data can be explored interactively at:
+
+-   [CAAT's Arms Fair Factfiles](https://caat.org.uk/data/arms-fairs)
+-   [Omega's Arms Fair Dashboard](https://experience.arcgis.com/experience/da375ddd2fcc48a0b31eae58e2cf218e/)
+
+
 ## What is considered an arms and security fair?
 
 We include here events which feature an ‘exhibition’ or are attended by ‘exhibitors’, and which meet either of the following criteria:
