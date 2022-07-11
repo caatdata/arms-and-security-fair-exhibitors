@@ -15,7 +15,7 @@ LOG = logging.getLogger("task")
 
 
 BEFORE_INTERVAL = datetime.timedelta(days=180)
-IGNORE_INTERVAL = datetime.timedelta(days=365)
+IGNORE_INTERVAL = datetime.timedelta(days=180)
 UPDATE_INTERVAL = datetime.timedelta(days=30)
 
 
@@ -125,6 +125,7 @@ def main():
         LOG.debug(series_slug)
         last_year = None
         last_data = None
+        task_years = set()
         years = sorted(list(fair_dict[series_slug]))
         for y, year in enumerate(years):
             data = fair_dict[series_slug][year]
@@ -147,7 +148,7 @@ def main():
                     for v in (last_data, data) if v and v.get("exhibitorListUrl", None)
                 ]))
 
-                if str(next_year) not in fair_dict[series_slug]:
+                if str(next_year) not in (set(fair_dict[series_slug]) ^ task_years):
                     end_date = (
                             datetime.datetime(next_year, 1, 1) +
                             datetime.timedelta(days=doy - 1)
@@ -157,6 +158,7 @@ def main():
                             end_date < today + BEFORE_INTERVAL
                     ):
                         slug = f"{series_slug}-{next_year}"
+                        task_years.add(str(next_year))
                         tasks["new"].append({
                             "slug": slug,
                             "endDate": end_date,
@@ -187,7 +189,6 @@ def main():
                         "exhibitorListDate": data["exhibitorListDate"],
                     })
 
-
     for k, message in category.items():
         if tasks[k]:
             print()
@@ -200,11 +201,6 @@ def main():
                     print(f"    Scraped: {item['exhibitorListDate']}")
 
                 print()
-
-
-
-
-
 
 
 
