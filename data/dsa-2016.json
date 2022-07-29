@@ -1374,10 +1374,16 @@
     },
     {
       "name": "EPE",
-      "country": {
-        "text": "AUSTRALIA / NEW ZEALAND",
-        "iso2": "NZ"
-      }
+      "country": [
+        {
+          "text": "AUSTRALIA",
+          "iso2": "AU"
+        },
+        {
+          "text": "NEW ZEALAND",
+          "iso2": "NZ"
+        }
+      ]
     },
     {
       "name": "EQUIPMENT SECURITY CORPORATION",
@@ -3033,10 +3039,16 @@
     },
     {
       "name": "PATRIA HELICOPTERS AB",
-      "country": {
-        "text": "SWEDEN / NORWAY",
-        "iso2": "SE"
-      }
+      "country": [
+        {
+          "text": "SWEDEN",
+          "iso2": "SE"
+        },
+        {
+          "text": "NORWAY",
+          "iso2": "NO"
+        }
+      ]
     },
     {
       "name": "PATRIA OYJ",

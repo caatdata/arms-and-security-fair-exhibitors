@@ -1709,10 +1709,16 @@
     },
     {
       "name": "BERETTA (FABRICA D'ARMI PIETRO",
-      "country": {
-        "text": "ITALY / UK",
-        "iso2": "IT"
-      }
+      "country": [
+        {
+          "text": "ITALY",
+          "iso2": "IT"
+        },
+        {
+          "text": "UK",
+          "iso2": "GB"
+        }
+      ]
     },
     {
       "name": "CELLEBRITE",

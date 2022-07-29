@@ -158,10 +158,16 @@
     },
     {
       "name": "ACME PORTABLE CORP",
-      "country": {
-        "text": "TAIWAN/UNITED STATES",
-        "iso2": "TW"
-      }
+      "country": [
+        {
+          "text": "TAIWAN",
+          "iso2": "TW"
+        },
+        {
+          "text": "UNITED STATES",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "ACTA LTD., ADVANCED COMMUNICATIONS TESTING APPLICATIONS",
@@ -228,10 +234,16 @@
     },
     {
       "name": "ADVANTAGE AUSTRIA",
-      "country": {
-        "text": "AUSTRIA / MALAYSIA",
-        "iso2": "MY"
-      }
+      "country": [
+        {
+          "text": "AUSTRIA",
+          "iso2": "AT"
+        },
+        {
+          "text": "MALAYSIA",
+          "iso2": "MY"
+        }
+      ]
     },
     {
       "name": "ADVENTURE TACTICAL",
@@ -648,10 +660,16 @@
     },
     {
       "name": "ASIA INFRARED SYSTEMS",
-      "country": {
-        "text": "FRANCE/SINGAPORE",
-        "iso2": "SG"
-      }
+      "country": [
+        {
+          "text": "FRANCE",
+          "iso2": "FR"
+        },
+        {
+          "text": "SINGAPORE",
+          "iso2": "SG"
+        }
+      ]
     },
     {
       "name": "ASIAN DEFENCE DIRECTORY",
@@ -1138,10 +1156,16 @@
     },
     {
       "name": "BLACK TIGER",
-      "country": {
-        "text": "SINGAPORE/UAE",
-        "iso2": "AE"
-      }
+      "country": [
+        {
+          "text": "SINGAPORE",
+          "iso2": "SG"
+        },
+        {
+          "text": "UAE",
+          "iso2": "AE"
+        }
+      ]
     },
     {
       "name": "BLUEYE EYEWEAR PTY LTD",
@@ -4095,10 +4119,16 @@
     },
     {
       "name": "KESTRAL",
-      "country": {
-        "text": "MALAYSIA/UNITED STATES",
-        "iso2": "MY"
-      }
+      "country": [
+        {
+          "text": "MALAYSIA",
+          "iso2": "MY"
+        },
+        {
+          "text": "UNITED STATES",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "KIA",
@@ -4809,10 +4839,32 @@
     },
     {
       "name": "MONCH PUBLISHING GROUP",
-      "country": {
-        "text": "GERMANY / SPAIN / FRANCE / INDIA / UNITED KINGDOM / ITALY",
-        "iso2": "DE"
-      }
+      "country": [
+        {
+          "text": "GERMANY",
+          "iso2": "DE"
+        },
+        {
+          "text": "SPAIN",
+          "iso2": "ES"
+        },
+        {
+          "text": "FRANCE",
+          "iso2": "FR"
+        },
+        {
+          "text": "INDIA",
+          "iso2": "IN"
+        },
+        {
+          "text": "UNITED KINGDOM",
+          "iso2": "GB"
+        },
+        {
+          "text": "ITALY",
+          "iso2": "IT"
+        }
+      ]
     },
     {
       "name": "MSI TURKISH DEFENCE REVIEW",
@@ -6391,10 +6443,16 @@
     },
     {
       "name": "SOLBRITE RESOURCES PTE LTD",
-      "country": {
-        "text": "INDONESIA/SINGAPORE",
-        "iso2": "SG"
-      }
+      "country": [
+        {
+          "text": "INDONESIA",
+          "iso2": "ID"
+        },
+        {
+          "text": "SINGAPORE",
+          "iso2": "SG"
+        }
+      ]
     },
     {
       "name": "SONIVISION S.A.",
@@ -7252,10 +7310,16 @@
     },
     {
       "name": "VIGILANT SOLUTIONS",
-      "country": {
-        "text": "MALAYSIA/UNITED STATES",
-        "iso2": "MY"
-      }
+      "country": [
+        {
+          "text": "MALAYSIA",
+          "iso2": "MY"
+        },
+        {
+          "text": "UNITED STATES",
+          "iso2": "US"
+        }
+      ]
     },
     {
       "name": "VTN",

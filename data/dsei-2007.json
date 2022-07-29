@@ -2630,10 +2630,16 @@
     },
     {
       "name": "General Dynamics Land Systems",
-      "country": {
-        "text": "USA/Canada",
-        "iso2": "CA"
-      }
+      "country": [
+        {
+          "text": "USA",
+          "iso2": "US"
+        },
+        {
+          "text": "Canada",
+          "iso2": "CA"
+        }
+      ]
     },
     {
       "name": "General Dynamics Santa Barbara Sistemas",
