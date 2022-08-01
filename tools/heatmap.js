@@ -12,9 +12,7 @@ var caatGraphicBackground = "hsl(0,0,98)"; // #fafafa
 
 var canvas = document.createElement('canvas');
 var hasWebGL = !!(window.WebGLRenderingContext && (canvas.getContext('webgl') || canvas.getContext('experimental-webgl')));
-console.log(hasWebGL);
 console.assert(hasWebGL);
-console.log(mapboxgl);
 
 map = new mapboxgl.Map({
   preserveDrawingBuffer: true,

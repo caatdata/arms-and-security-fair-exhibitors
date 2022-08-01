@@ -6,10 +6,9 @@ TMP_DIR = /tmp/arms-fair-data
 TMP = $(TMP_DIR)/tmp
 IMAGE_FAIR_DIR = image/fair
 IMAGE_TRAVEL_ISO2_LIST := gb
-IMAGE_TRAVEL_ISO2_PNG := $(patsubst %,image/iso2.%.travel.png,$(IMAGE_TRAVEL_ISO2_LIST))
-# IMAGE_TRAVEL_NAME_LIST := lockheed boeing bae raytheon
-# IMAGE_TRAVEL_NAME_PNG := $(patsubst %,image/name.%.travel.png,$(IMAGE_TRAVEL_NAME_LIST))
-# IMAGE_TRAVEL_FAIR_PNG := $(patsubst %.json,$(IMAGE_FAIR_DIR)/%.travel.png,$(shell jq -r 'first(.exhibitor[]? | select(.address)) | input_filename | sub("data/"; "")' $(FAIR_JSON)))
+IMAGE_TRAVEL_ISO2_PNG := $(patsubst %,image/iso2.%.exhibitor-travel.png,$(IMAGE_TRAVEL_ISO2_LIST))
+MAP_ASSETS := tools/map.html tools/map.css tools/map.js tools/map.py
+
 
 .PHONY : image
 
@@ -39,50 +38,18 @@ summary.csv : $(FAIR_JSON)
 task :
 	tools/task.py ignore.csv data/
 
+release : $(TMP_DIR)/arms-fair-data.zip
+
+list-fair-address-country : $(FAIR_JSON) tools/fair-address-country.jq
+	jq -sr -f tools/fair-address-country.jq $(FAIR_JSON_GLOB)
+
+
 $(TMP_DIR) :
 	mkdir -p $@
 
 $(IMAGE_FAIR_DIR) :
 	mkdir -p $@
 
-
-image/event.png : $(TMP_DIR)/event.geo.json tools/map.html tools/map.css tools/heatmap.py tools/heatmap.js
-	tools/heatmap.py -v $< $@
-
-image/exhibitor.png : $(TMP_DIR)/exhibitor.geo.json tools/map.html tools/map.css tools/heatmap.py tools/heatmap.js
-	tools/heatmap.py -v $< $@
-
-image/iso2.%.travel.png : $(TMP_DIR)/iso2.%.travel.json tools/map.html tools/map.css tools/travel-map.py tools/travel-map.js
-	tools/travel-map.py -v $< $@
-
-# image/name.%.travel.png : $(TMP_DIR)/name.%.travel.json tools/map.html tools/map.css tools/travel-map.py tools/travel-map.js
-# 	tools/travel-map.py -v $< $@
-
-# $(IMAGE_FAIR_DIR)/%.travel.png : $(TMP_DIR)/%.travel.json $(IMAGE_FAIR_DIR) tools/map.html tools/map.css tools/travel-map.py tools/travel-map.js
-# 	tools/travel-map.py -v $< $@
-
-
-
-
-image/category.png : $(TMP_DIR)/category.txt
-# Add `--no_collocations` to disable bigrams
-	wordcloud_cli --text $^ \
-	  --width=1200 --height=600 --margin=15 \
-	  --background="#FAFAFA" --color="#E20613" \
-	  --imagefile $@
-
-
-$(TMP_DIR)/iso2.%.travel.json : $(FAIR_JSON) tools/travel.jq $(TMP_DIR)
-	rm -f $@
-	jq -s --arg iso2 $* -f tools/travel.jq $(FAIR_JSON_GLOB) >> $@
-
-# $(TMP_DIR)/name.%.travel.json : $(FAIR_JSON) tools/travel.jq $(TMP_DIR)
-# 	rm -f $@
-# 	jq -s --arg name $* -f tools/travel.jq $(FAIR_JSON_GLOB) >> $@
-
-# $(TMP_DIR)/%.travel.json : data/%.json tools/travel.jq $(TMP_DIR)
-# 	rm -f $@
-# 	jq -s -f tools/travel.jq $< >> $@
 
 $(TMP_DIR)/event.jsonl : tools/event-geojson.jq $(TMP_DIR) $(FAIR_JSON) 
 	rm -f $@
@@ -92,6 +59,10 @@ $(TMP_DIR)/event.geo.json : $(TMP_DIR)/event.jsonl
 	rm -f $@
 	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
 
+image/event.png : $(TMP_DIR)/event.geo.json $(MAP_ASSETS) tools/heatmap.js
+	tools/map.py -v -j heatmap.js $< $@
+
+
 $(TMP_DIR)/exhibitor.jsonl : tools/exhibitor-geojson.jq $(TMP_DIR) $(FAIR_JSON)
 	rm -f $@
 	jq --indent N -f $< $(FAIR_JSON_GLOB) >> $@
@@ -100,10 +71,48 @@ $(TMP_DIR)/exhibitor.geo.json : $(TMP_DIR)/exhibitor.jsonl
 	rm -f $@
 	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
 
+image/exhibitor.png : $(TMP_DIR)/exhibitor.geo.json $(MAP_ASSETS) tools/heatmap.js
+	tools/map.py -v -j heatmap.js $< $@
+
+
+$(TMP_DIR)/iso2.%.exhibitor-travel.json : $(FAIR_JSON) tools/travel.jq $(TMP_DIR)
+	rm -f $@
+	jq -s --arg iso2 $* -f tools/exhibitor-travel.jq $(FAIR_JSON_GLOB) >> $@
+
+image/iso2.%.exhibitor-travel.png : $(TMP_DIR)/iso2.%.exhibitor-travel.json $(MAP_ASSETS) tools/exhibitor-travel.js
+	tools/map.py -v -j exhibitor-travel.js $< $@
+
+
+$(TMP_DIR)/%.exhibitor-travel.json : data/%.json tools/exhibitor-travel.jq $(TMP_DIR)
+	rm -f $@
+	jq -s -f tools/exhibitor-travel.jq $< >> $@
+
+$(IMAGE_FAIR_DIR)/%.exhibitor-travel.png : $(TMP_DIR)/%.exhibitor-travel.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-travel.js
+	tools/map.py -v -j exhibitor-travel.js $< $@
+
+$(TMP_DIR)/%.exhibitor-country.json : data/%.json tools/exhibitor-country.jq $(TMP_DIR)
+	rm -f $@
+	jq -s -f tools/exhibitor-country.jq --rawfile countryGeoCsv tools/country.geo.csv $< > $@
+
+$(IMAGE_FAIR_DIR)/%.exhibitor-country.png : $(TMP_DIR)/%.exhibitor-country.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-country.js
+	tools/map.py -v -j exhibitor-country.js $< $@
+
 
 $(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON) 
 	rm -f $@
 	jq -sr -f $< $(FAIR_JSON_GLOB) >> $@
+
+image/category.png : $(TMP_DIR)/category.txt
+# Add `--no_collocations` to disable bigrams
+	wordcloud_cli --text $^ \
+	  --width=1200 --height=600 --margin=15 \
+	  --background="#FAFAFA" --color="#E20613" \
+	  --imagefile $@
+
+
+tools/country.geo.json : $(FAIR_JSON) tools/country.geo.jq
+	rm -f $@
+	jq -s -f tools/country.geo.jq $(FAIR_JSON_GLOB) >> $@
 
 
 $(TMP_DIR)/fair.csv : tools/fair-csv.jq $(TMP_DIR) $(FAIR_JSON)
@@ -122,4 +131,3 @@ $(TMP_DIR)/arms-fair-data.zip : $(TMP_DIR)/fair.csv $(TMP_DIR)/exhibitor.csv $(T
 	rm -f $@
 	zip -r $@ $^
 
-release : $(TMP_DIR)/arms-fair-data.zip

@@ -1,16 +1,23 @@
+#!/usr/bin/env python3
+
+import re
+import json
 import time
 import base64
+import argparse
 import logging
 import threading
 import http.server
 from pathlib import Path
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 
-TOOLS_PATH = Path(__file__).parent
-
 LOG = logging.getLogger("map")
+TOOLS_PATH = Path(__file__).parent
+REPO_PATH = TOOLS_PATH.parent
+PRIVATE = json.loads((REPO_PATH / ".private.json").read_text("utf-8"))
 
 
 
@@ -28,10 +35,13 @@ def request_handler_factory(path_dict, replace_dict):
             try:
                 content_type = {
                     ".ico": "image/x-icon",
+                    ".png": "image/png",
+
                     ".html": "text/html",
-                    ".js": "text/javascript",
                     ".css": "text/css",
-                    ".json": "application/json"
+                    ".js": "text/javascript",
+
+                    ".json": "application/json",
                 }[path.suffix]
             except KeyError:
                 self.send_response(404)
@@ -39,19 +49,24 @@ def request_handler_factory(path_dict, replace_dict):
                 return
 
             try:
-                body = path.read_text("utf-8")
+                body = path.read_bytes()
             except FileNotFoundError:
                 self.send_response(404)
                 self.end_headers()
                 return
 
-            for key, value in replace_dict.get(path.name, {}).items():
-                body = body.replace(key, value)
+            if not content_type.startswith("image/"):
+                body = body.decode("utf-8")
+                for pattern, lookup in replace_dict.items():
+                    if re.search(pattern, path.name):
+                        for key, value in lookup.items():
+                            body = body.replace(key, value)
+                body = body.encode("utf-8")
 
             self.send_response(200)
             self.send_header('Content-type', content_type)
             self.end_headers()
-            self.wfile.write(body.encode("utf-8"))
+            self.wfile.write(body)
 
 
     return RequestHandler
@@ -103,3 +118,79 @@ def map_to_png(path_dict, replace_dict, png_path, driver_path):
 
     thread.join()
     LOG.info("Done.")
+
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Produce a map PNG from JSON location data.")
+
+    parser.add_argument(
+        "--verbose", "-v",
+        action="count",
+        help="Print verbose information for debugging.", default=0)
+    parser.add_argument(
+        "--quiet", "-q",
+        action="count",
+        help="Suppress warnings.", default=0)
+
+    parser.add_argument(
+        "--javascript", "-j",
+        type=Path,
+        action="append",
+        help="Path to Javascript file to load.")
+
+    parser.add_argument(
+        "json_path",
+        metavar="JSON",
+        type=Path,
+        help="Path to input GeoJSON.")
+
+    parser.add_argument(
+        "png_path",
+        metavar="PNG",
+        type=Path,
+        help="Path to output PNG.")
+
+
+    args = parser.parse_args()
+
+    offset = args.verbose - args.quiet if args else 0
+    level = (
+        logging.FATAL,
+        logging.ERROR,
+        logging.WARNING,
+        logging.INFO,
+        logging.DEBUG
+    )[max(0, min(4, 2 + offset))]
+    for log in (LOG, ):
+        log.addHandler(logging.StreamHandler())
+        log.setLevel(level)
+
+    path_dict = {
+        args.json_path.name: args.json_path
+    }
+
+    replace_dict = {
+        r"^map\.html$": {
+            "__SCRIPT__": "\n".join([
+                f'    <script src="{v}"></script>'
+                for v in (["map.js"] + args.javascript)
+            ])
+        },
+        r"^.*\.js$": {
+            "__MAPBOX_API_KEY__": json.dumps(PRIVATE["mapboxApiKey"]),
+            "__GEO_JSON_NAME__": json.dumps(args.json_path.name),
+        },
+    }
+
+    map_to_png(
+        path_dict, replace_dict,
+        args.png_path,
+        driver_path=PRIVATE["chromedriverPath"]
+    )
+
+
+
+if __name__ == "__main__":
+    main()
