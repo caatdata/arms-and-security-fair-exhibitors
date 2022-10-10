@@ -33,17 +33,57 @@
     }
   ],
   "exhibitorListUrl": "https://www.3cdse.co.uk/exhibitors",
-  "exhibitorListDate": "2022-09-09T13:59:26+00:00",
+  "exhibitorListDate": "2022-10-10T11:22:30+00:00",
   "exhibitor": [
+    {
+      "name": "3CDSG",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/3cdsg",
+      "address": {
+        "text": "℅ Harrison Clark Rickerbys\n5 Deansway\nWorcester\nWorcestershire\nWR1 2JG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1897982,
+        "lon": -2.2205067
+      },
+      "category": [
+        "2019",
+        "2021",
+        "2022",
+        "Yes",
+        "Associations | Trade & Professional",
+        "Business Services"
+      ],
+      "website": "http://www.3cdsg.co.uk"
+    },
+    {
+      "name": "ADS",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/ads"
+    },
+    {
+      "name": "Allen-Vanguard",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/allen-vanguard"
+    },
+    {
+      "name": "Altiora Marketing Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/altiora-marketing",
+      "category": [
+        "2022"
+      ],
+      "website": "https://www.altioramarketing.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
     {
       "name": "Ancora Solutions",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/ancora-solutions",
       "category": [
+        "Yes",
+        "2022",
         "Communications",
         "Design/implementation of Security Architecture, policy, governance, secure software development, DevOps",
         "Solidier Modernisation Systems",
-        "Small & Medium Enterprises (SME's)",
-        "2022"
+        "Small & Medium Enterprises (SME's)"
       ],
       "website": "https://www.ancora-solutions.com",
       "country": {
@@ -74,16 +114,24 @@
       },
       "category": [
         "Aerospace",
-        "Drones | UAV | Counter UAV",
+        "Engineering | Design | Manufacturing",
         "Government | Military",
-        "Radar",
+        "Space",
         "2022"
       ],
       "website": "https://www.atlanticmicrowave.com"
     },
     {
+      "name": "Axnes",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/axnes"
+    },
+    {
       "name": "Axon Cable Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/axon-cable"
+    },
+    {
+      "name": "BAE Systems",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/bae-systems"
     },
     {
       "name": "BlackTree Technologies",
@@ -127,6 +175,10 @@
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/cds-defence-security"
     },
     {
+      "name": "CMCA (UK)",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/cmca-uk"
+    },
+    {
       "name": "Canny Comms",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/canny-comms",
       "address": {
@@ -136,7 +188,8 @@
         "lon": -1.7045898
       },
       "category": [
-        "2022"
+        "2022",
+        "Yes"
       ],
       "website": "https://www.canny-comms.co.uk"
     },
@@ -150,23 +203,60 @@
         "lon": -0.4421023
       },
       "category": [
+        "2022",
         "Technology",
         "Digital Technology",
-        "VR",
-        "2022"
+        "VR"
       ],
       "website": "https://www.canon.co.uk"
     },
     {
+      "name": "Castle Microwave",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/castle-microwave"
+    },
+    {
       "name": "Cloud RF",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/cloud-rf",
+      "address": {
+        "text": "Corinium House\nCorinium Avenue\nGloucester\nGloucestershire\nGL4 3HX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.8666806,
+        "lon": -2.206551
+      },
       "category": [
+        "Aerospace",
+        "Communications",
+        "IT Software & Hardware",
+        "Research | Academia | Training",
         "2022"
       ],
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "website": "https://cloudrf.com"
+    },
+    {
+      "name": "Cyberpal",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/cyberpal"
+    },
+    {
+      "name": "DASA",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/dasa"
+    },
+    {
+      "name": "DIT DSE",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/dit",
+      "address": {
+        "text": "Old Admiralty Building\nAdmiralty Place\nLondon\nSW1A 2DY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5055999,
+        "lon": -0.1281449
+      },
+      "category": [
+        "2019",
+        "2021",
+        "2022",
+        "Yes",
+        "Government | Military"
+      ],
+      "website": "https://www.gov.uk/government/organisations/export"
     },
     {
       "name": "DSTL",
@@ -201,7 +291,15 @@
       "website": "https://eazitax.co.uk/security"
     },
     {
-      "name": "Enterprise Control",
+      "name": "Eizo Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/eizo"
+    },
+    {
+      "name": "Elma Electronic",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/elma-electronics"
+    },
+    {
+      "name": "Enterprise Control Systems Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/enterprise-control",
       "address": {
         "text": "ECS Technology Park\nWappenham\nNorthamptonshire\nNN12 8WJ\nUnited Kingdom",
@@ -230,6 +328,10 @@
         "lon": -88.02814599999999
       },
       "category": [
+        "Special Reconnaissance Surveillance and Exploitation (SRSE)",
+        "COMINT/ELINT, Direction finding systems, RCIED, RF Jammers",
+        "Penetration testing, cyber threat, risk analysis, intelligence",
+        "Drones | UAV | Counter UAV",
         "2022"
       ],
       "website": "https://epiqsolutions.com"
@@ -256,23 +358,7 @@
     },
     {
       "name": "Fischer Connectors",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/fischer-connectors",
-      "address": {
-        "text": "11 The Briars\nWaterberry Drive\nWaterlooville\nHampshire\nPO7 7YH\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 50.8856222,
-        "lon": -1.042239
-      },
-      "category": [
-        "2019",
-        "2021",
-        "2022",
-        "Communications",
-        "Engineering | Design | Manufacturing",
-        "Night vision | Optics | Optronics",
-        "Police | Security services | Counter terrorism"
-      ],
-      "website": "http://www.fischerconnectors.com"
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/fischer-connectors"
     },
     {
       "name": "Forcepoint",
@@ -287,26 +373,7 @@
     },
     {
       "name": "Fourth Element",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/fourth-element",
-      "address": {
-        "text": "Fourth Element\nWater-Ma-Trout\nHelston\nCornwall\nTR13 0LW\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 50.1126662,
-        "lon": -5.2705442
-      },
-      "category": [
-        "2021",
-        "2022",
-        "Associations | Trade & Professional",
-        "Equipment Manufacturers",
-        "Government | Military",
-        "Police | Security services | Counter terrorism"
-      ],
-      "website": "https://mp.fourthelement.com"
-    },
-    {
-      "name": "GFirst LEP",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/gfirst-lep"
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/fourth-element"
     },
     {
       "name": "Glenair",
@@ -331,31 +398,61 @@
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/harrison-clark-rickerbys"
     },
     {
-      "name": "IGENEC SOFTWARE LTD",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/igenec-software",
+      "name": "Heligan Group",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/heligan-group",
       "category": [
-        "2022"
+        "2022",
+        "Yes"
       ],
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
+    },
+    {
+      "name": "INT Research Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/int-research"
     },
     {
       "name": "IQHQ",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/iqhq-f7le"
     },
     {
-      "name": "Intrepid Minds",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/intrepid-minds-975z",
+      "name": "Igence Software Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/igenec-software",
+      "address": {
+        "text": "Moor Hall\nSandhawes Hill\nEast Grinstead\nSurrey\nRH19 3NR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1413879,
+        "lon": 0.007415399999999999
+      },
       "category": [
-        "2021",
         "2022"
       ],
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "website": "https://www.igence.com"
+    },
+    {
+      "name": "Intrepid Minds",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/intrepid-minds-975z",
+      "address": {
+        "text": "Hemdale Business Park\nUnit 2-3\nWarwickshire\nEngland\nCV11 6TQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.522112,
+        "lon": -1.440802
+      },
+      "category": [
+        "2021",
+        "2022",
+        "Drones | UAV | Counter UAV",
+        "Engineering | Design | Manufacturing",
+        "Equipment Manufacturers",
+        "IT Software & Hardware"
+      ],
+      "website": "https://intrepidminds.co.uk"
+    },
+    {
+      "name": "Invest in Gloucestershire",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/gfirst-lep"
     },
     {
       "name": "Kinected",
@@ -405,6 +502,10 @@
       "website": "https://marlboroughcomms.com"
     },
     {
+      "name": "MetOcean Telematics",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/metocean"
+    },
+    {
       "name": "Meta Mission Data",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/meta-mission-data",
       "address": {
@@ -414,11 +515,11 @@
         "lon": -2.3115423
       },
       "category": [
+        "2022",
         "Technology",
         "Intelligence | ISTAR",
         "Cyber",
-        "Space",
-        "2022"
+        "Space"
       ],
       "website": "https://meta.aero/mmd/"
     },
@@ -426,10 +527,10 @@
       "name": "Metis Aerospace",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/metis-aerospace",
       "address": {
-        "text": "Boole Technology Centre\nBeevor Street\nLincoln\nLincolnshire\nLN6 7DJ\nUnited Kingdom",
+        "text": "Unit C\nWestminster Industrial Estate\nStation Road, NORTH HYKEHAM\nLincoln\nLincolnshire\nLN6 3QY\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 53.2275792,
-        "lon": -0.5569788999999999
+        "lat": 53.1987155,
+        "lon": -0.5975041999999999
       },
       "category": [
         "2021",
@@ -442,6 +543,10 @@
       "website": "http://www.metisaerospace.com"
     },
     {
+      "name": "Mildef",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/mildef"
+    },
+    {
       "name": "Motorola Solutions Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/motorola-solutions",
       "address": {
@@ -451,28 +556,18 @@
         "lon": -0.143651
       },
       "category": [
+        "Yes",
+        "2022",
         "Technology",
         "Communications",
         "Cyber",
-        "Drones | UAV | Counter UAV",
-        "2022"
+        "Drones | UAV | Counter UAV"
       ],
       "website": "https://www.motorolasolutions.com"
     },
     {
-      "name": "Network Innovations",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/network-innovations-882d",
-      "address": {
-        "text": "Unit D, Harvey's Place\nFarncombe Estate\nBroadway\nWorcestershire\nWR12 7LJ\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 52.0397966,
-        "lon": -1.8341357
-      },
-      "category": [
-        "2021",
-        "2022"
-      ],
-      "website": "https://www.networkinv.com"
+      "name": "Oxley Group",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/oxley-group"
     },
     {
       "name": "PPM Systems",
@@ -484,9 +579,44 @@
         "lon": -1.6445867
       },
       "category": [
+        "Intelligence | ISTAR",
+        "Special Reconnaissance Surveillance and Exploitation (SRSE)",
+        "Engineering | Design | Manufacturing",
+        "EOD | IEDD | Bomb disposal",
         "2022"
       ],
       "website": "https://ppmsystems.com"
+    },
+    {
+      "name": "Peli Products Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/peli-products-ltd"
+    },
+    {
+      "name": "Providence Global ITF Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/providence-itf-myyw"
+    },
+    {
+      "name": "QinetiQ",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/qinetiq-zxs9",
+      "address": {
+        "text": "Cody Technology Park\nIvely Road\nFarnborough\nHampshire\nGU14 0LX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.2794862,
+        "lon": -0.7921119999999999
+      },
+      "category": [
+        "2021",
+        "2022",
+        "Communications",
+        "Cyber",
+        "Drones | UAV | Counter UAV",
+        "Radar"
+      ],
+      "website": "https://www.qinetiq.com"
+    },
+    {
+      "name": "Qioptiq",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/qioptiq-2bsf"
     },
     {
       "name": "Raptor Photonics",
@@ -500,10 +630,10 @@
       "name": "Roke",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/roke",
       "address": {
-        "text": "Roke\nRoke Manor Research Limited\nOld Salisbury Lane\nRomsey\nHampshire\nSO51 0ZN\nUnited Kingdom",
+        "text": "Roke Manor\nOld Salisbury Lane\nRomsey\nHampshire\nSO51 0ZN\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 50.9993975,
-        "lon": -1.5198327
+        "lat": 50.9995075,
+        "lon": -1.5186235
       },
       "category": [
         "2019",
@@ -532,38 +662,46 @@
       "website": "https://www.ssafa.org.uk"
     },
     {
+      "name": "Securiclad",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/isoclad"
+    },
+    {
       "name": "SecurityClearedJobs.com",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/securityclearedjobscom",
+      "address": {
+        "text": "19-23 Masons Hill\nBromley\nKent\nBR2 9HD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3993841,
+        "lon": 0.017989
+      },
       "category": [
         "2022"
       ],
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "website": "https://www.SecurityClearedJobs.com"
     },
     {
       "name": "Sentinel One",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/sentinel-one"
     },
     {
+      "name": "Serbus Group",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/serbus-group"
+    },
+    {
+      "name": "Silent Sentinel",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/silent-sentinel-t5yn"
+    },
+    {
       "name": "Steatite",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/steatite-qnlr"
     },
     {
-      "name": "TRICIS",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/tricis"
+      "name": "Tek Military",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/tek-military"
     },
     {
       "name": "Teledyne e2v",
-      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/teledyne-e2v",
-      "category": [
-        "2022"
-      ],
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/teledyne-e2v"
     },
     {
       "name": "Telent Technology Services Ltd",
@@ -578,6 +716,34 @@
         "2022"
       ],
       "website": "https://www.Telent.com"
+    },
+    {
+      "name": "Thales",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/thales",
+      "address": {
+        "text": "Manor Royal\nWest Sussex\nRH10 9HA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.1297657,
+        "lon": -0.1833124
+      },
+      "category": [
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "website": "http://www.thalesgroup.com"
+    },
+    {
+      "name": "TriCIS",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/tricis"
+    },
+    {
+      "name": "Ultra Electronics",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/ultra-electronics"
+    },
+    {
+      "name": "Videosys Broadcast Ltd",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/videosys-broadcast"
     },
     {
       "name": "West Midlands Cyber Resilience Centre",
@@ -598,8 +764,28 @@
       "website": "https://www.wmcrc.co.uk"
     },
     {
+      "name": "Worcester LEP",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/worcester-lep",
+      "category": [
+        "2022",
+        "Yes"
+      ],
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "Workspace Technology",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/workspace-technology"
+    },
+    {
       "name": "Xi Systems Ltd",
       "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/xi-systems"
+    },
+    {
+      "name": "techUK",
+      "exhibitorUrl": "https://www.3cdse.co.uk/exhibitor/techuk"
     },
     {
       "name": "tlm Nexus",
