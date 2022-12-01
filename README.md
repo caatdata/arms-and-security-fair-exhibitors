@@ -70,7 +70,7 @@ Corrections may be submitted by email or as GitHub issues.
 
 -   **67** series
 -   **540** events
--   **144860** exhibitors
+-   **144918** exhibitors
 -   **553** organisers
 -   **2308** delegations
 
