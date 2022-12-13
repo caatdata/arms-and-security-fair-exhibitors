@@ -42,6 +42,10 @@
       "type": "string",
       "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
     },
+    "dateStringPartial": {
+      "type": "string",
+      "pattern": "^[0-9]{4}(-[0-9]{2}){0,2}$"
+    },
     "utcDatetimeString": {
       "type": "string",
       "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}\\+00:00$"
@@ -252,6 +256,19 @@
   "required": [
     "name"
   ],
+  "oneOf": [
+    {
+      "required": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "required": [
+        "approxDate"
+      ]
+    }
+  ],
   "dependencies": {
     "exhibitor": [
       "exhibitorListDate"
@@ -279,6 +296,9 @@
     },
     "endDate": {
       "$ref": "#/definitions/dateString"
+    },
+    "approxDate": {
+      "$ref": "#/definitions/dateStringPartial"
     },
     "address": {
       "$ref": "#/definitions/addressOrAddressArray"

@@ -10,6 +10,8 @@ from statistics import mean
 from pathlib import Path
 from collections import defaultdict
 
+from common import Fair
+
 
 LOG = logging.getLogger("task")
 
@@ -83,21 +85,22 @@ def main():
         slug = path.stem
         data = json.loads(path.read_text())
 
+        fair = Fair(data)
+
         if not re.match(r"\d{4}$", data["edition"]):
             LOG.warning("%s: Ignoring non-year edition %s.", path, repr(data["edition"]))
             continue
 
         series_slug, year = split(slug)
         assert not year in fair_dict[series_slug]
+
         item = {
-            "endDate": data["endDate"],
+            "endDate": fair.end_date,
             "website": data.get("website", None),
             "exhibitor": bool(data.get("exhibitor", None)),
             "exhibitorListDate": data.get("exhibitorListDate", None),
             "exhibitorListUrl": data.get("exhibitorListUrl", None),
         }
-        item["endDate"] = datetime.datetime.strptime(
-            item["endDate"], "%Y-%m-%d").date()
         if item["exhibitorListDate"]:
             item["exhibitorListDate"] = datetime.datetime.strptime(
                 item["exhibitorListDate"][:10], "%Y-%m-%d").date()

@@ -4,6 +4,8 @@ import datetime
 from pathlib import Path
 from typing import Union
 
+from dateutil.relativedelta import relativedelta
+
 
 def multi(v):
     "Return a list whether property is multiple, single, or null."
@@ -125,6 +127,7 @@ class Fair(LocationMixin):
         self.name = None
         self.start_date: Union[datetime.date, None] = None
         self.end_date: Union[datetime.date, None] = None
+        self.approx_date: Union[datetime.date, None] = None
         self.series: Union[str, None] = None
         self.edition: Union[str, None] = None
         self.online: Union[bool, None] = None
@@ -152,8 +155,14 @@ class Fair(LocationMixin):
             data = json.loads(data.read_text())
 
         self.name = data["name"]
-        self.start_date = datetime.datetime.strptime(data["startDate"], Fair.DATE_FORMAT).date()
-        self.end_date = datetime.datetime.strptime(data["endDate"], Fair.DATE_FORMAT).date()
+        if approx_date_str := data.get("approxDate", None):
+            approx_date_str = (approx_date_str + "-01-01")[:10]
+            self.approx_date = approx_date_str
+            self.start_date = datetime.datetime.strptime(approx_date_str, Fair.DATE_FORMAT).date()
+            self.end_date = self.start_date + relativedelta(years=1, days=-1)
+        else:
+            self.start_date = datetime.datetime.strptime(data["startDate"], Fair.DATE_FORMAT).date()
+            self.end_date = datetime.datetime.strptime(data["endDate"], Fair.DATE_FORMAT).date()
         self.series = data.get("series", None)
         self.edition = data.get("edition", None)
         self.online = data.get("online", None)
