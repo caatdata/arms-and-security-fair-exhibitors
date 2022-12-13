@@ -1,12 +1,487 @@
 {
   "name": "HLS Indonesia 2020",
   "series": "HLS Indonesia",
+  "alias": "Homeland Security Indonesia 2022",
   "edition": "2020",
   "startDate": "2020-03-04",
   "endDate": "2020-03-06",
-  "website": "https://www.hlsindonesia.com/",
-  "organiser": {
-    "name": "HLS Indonesia",
-    "address": "7500A Beach Road, #07-306 / 307\nThe Plaza\n199591\nSingapore"
-  }
+  "address": {
+    "text": "Jakarta Convention Center (JCC)\nGelora\nCentral Jakarta\nJakarta\nIndonesia",
+    "iso2": "ID",
+    "lat": -6.214308900000001,
+    "lon": 106.8072055
+  },
+  "website": "https://www.hlsindonesia.com",
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/hlsindonesia/"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/HLSIndonesia"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/showcase/hlsindonesia"
+    }
+  ],
+  "organiser": [
+    {
+      "name": "COMEXPOSIUM Group",
+      "address": "7500A Beach Road\n#07-306 / 307\nThe Plaza\n199591\nSingapore"
+    }
+  ],
+  "exhibitorListUrl": "https://www.hlsindonesia.com/exhibition/exhibitor-list/",
+  "exhibitorListDate": "2022-12-13T17:35:55+00:00",
+  "exhibitor": [
+    {
+      "name": "ACE6 TECHNOLOGY",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "ALPINE INTEGRATED SOLUTIONS SDN BHD (CYDES 2020)",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
+    },
+    {
+      "name": "ANGKASA PURA 1",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "ARUBA, A HEWLETT PACKARD ENTERPRISE COMPANY",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "ASIAN DEFENCE JOURNAL",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
+    },
+    {
+      "name": "ASLI RANCANGAN INDONESIA",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "ASOSISASI PENGUSAHA TIK NASIONAL (APTIKNAS)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "ASSOCIATION OF INFORMATION SECURITY PROFESSIONALS (AiSP)",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "ASSOCIATION OF SMALL & MEDIUM ENTERPRISES",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "ATOMTEX SPE",
+      "country": {
+        "text": "Republic of Belarus",
+        "iso2": "BY"
+      }
+    },
+    {
+      "name": "AXON",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "BIOFIRE DEFENSE",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "BIOFLYTE",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "BLÜCHER GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "CANON",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "CELLEBRITE",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "CRISTANINI S.p.A",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "DATAEXPERT TECHNOLOGY LIMITED",
+      "country": {
+        "text": "Hong Kong",
+        "iso2": "HK"
+      }
+    },
+    {
+      "name": "DIGIFOR INTERTECH ASIA",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "ENVIRONICS",
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      }
+    },
+    {
+      "name": "EXPLOMO TECHNICAL SERVICES PTE LTD",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "FALCON COMMUNICATIONS (CBRNE WORLD)",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "FORENSCOPE",
+      "country": {
+        "text": "Malaysia",
+        "iso2": "MY"
+      }
+    },
+    {
+      "name": "GASMET TECHNOLOGIES (ASIA) LTD.",
+      "country": {
+        "text": "Hong Kong",
+        "iso2": "HK"
+      }
+    },
+    {
+      "name": "GEDION",
+      "country": {
+        "text": "Lithuania",
+        "iso2": "LT"
+      }
+    },
+    {
+      "name": "GREYSCAN",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "HOMELAND SECURITY (HLS) INDONESIA 2022",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "HOTZONE SOLUTIONS GROUP",
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
+      }
+    },
+    {
+      "name": "INDONESIAN NATIONAL POLICE (INP)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "INNOSYSTEC GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "INNOVATRICS",
+      "country": {
+        "text": "Slovakia",
+        "iso2": "SK"
+      }
+    },
+    {
+      "name": "INSPIRE-TECH PTE LTD",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "INTERNATIONAL RELATIONS DIVISION OF INDONESIAN NATIONAL POLICE",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "ITHPP",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "KROMEK LTD",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "LEAPERS, INC",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "LOUISIANA STATE UNIVERSITY",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "MC PRODUCTS",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "MILIPOL ASIA-PACIFIC 2021",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "MINISTRY OF LAW AND HUMAN RIGHTS (IMMIGRATION) – DIREKTORAT JENDERAL IMIGRASI",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "MINISTRY OF LAW AND HUMAN RIGHTS (PRISON SERVICE) – DIREKTORAT JENDERAL PEMASYARAKATAN",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "NATIONAL COUNTER TERRORISM AGENCY (BNPT)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "NATIONAL CYBER AND CRYTO AGENCY (BSSN)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "NATIONAL NARCOTICS BOARD (BNN)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "NBC-SYS",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "NETMONK",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PAUL BOYÉ TECHNOLOGIES",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "PLATH GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "PROENGIN",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "PT DATASCRIP",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT FIRST WAP INTERNATIONAL",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT PROSA SOLUSI CERDAS",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT. BANK CENTRAL ASIA, TBK.",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT. EOD TECHNOLOGY",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT. JALA BERIKAT NUSANTARA",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "PT. PINDAD (PERSERO)",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "RAPISCAN SYSTEMS",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "SEC TECHNOLOGIES, S.R.O",
+      "country": {
+        "text": "Slovakia",
+        "iso2": "SK"
+      }
+    },
+    {
+      "name": "SELENA ELECTRONICS PTE LTD",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "SSGS-UI",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "SW3 SOLUTIONS",
+      "country": {
+        "text": "Singapore",
+        "iso2": "SG"
+      }
+    },
+    {
+      "name": "TAIWAN PRODUCT CENTER",
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
+      "name": "UTIMACO",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    }
+  ]
 }
