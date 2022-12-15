@@ -1,25 +1,30 @@
 {
-  "name": "CIAAE 2006",
+  "name": "CIAAE 2016",
   "series": "CIAAE",
-  "edition": "2006",
+  "edition": "2016",
   "alias": [
-    "6th China International Aviation and Aerospace Exhibition",
+    "11th China International Aviation and Aerospace Exhibition",
     "Airshow China"
   ],
-  "startDate": "2006-10-31",
-  "endDate": "2006-11-05",
+  "startDate": "2016-11-01",
+  "endDate": "2016-11-06",
   "address": {
-    "text": "China International Aviation & Aerospace Exhibition Center\nAirport Road\nJinwan District\nZhuhai\nGuangdong Province\nChina",
+    "text": "Zhuhai International Airshow Center\nZhuhai Airport\nJinwan District\nZhuhai\nGuangdong Province\nChina",
     "iso2": "CN",
-    "lat": 22.01914,
-    "lon": 113.386506
+    "lat": 22.0080725,
+    "lon": 113.3785933
   },
-  "website": "http://www.airshow.com.cn/en/Index.html",
-  "exhibitorListUrl": "http://www.airshow.com.cn/en/Article/hzxx/2006-10-16/10920.html",
-  "exhibitorListDate": "2022-12-14T17:17:27+00:00",
+  "website": "https://www.airshow.com.cn/en/",
+  "organiser": {
+    "name": "Zhuhai Airshow Co., Ltd.",
+    "address": "NO.1, Jiuzhou Lane 2\nJiuzhou Avenue\nZhuhai\nGuangdong\nChina"
+  },
+  "exhibitorListUrl": "http://www.airshow.com.cn/en/Soft/UploadSoft/200705/6thlist.xls",
+  "exhibitorListDate": "2022-12-15T10:57:21+00:00",
   "exhibitor": [
     {
       "name": "A.I.A.D. and MoD ITALY",
+      "alias": "意大利航空航天及国防工业协会与意大利国防部",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -34,6 +39,7 @@
     },
     {
       "name": "ABC",
+      "alias": "航空机械设备和液压实验台",
       "country": {
         "text": "France",
         "iso2": "FR"
@@ -62,6 +68,7 @@
     },
     {
       "name": "AEROCHEMICALS/CONTEC",
+      "alias": "康泰无尘科技(苏州)有限公司",
       "country": {
         "text": "USA",
         "iso2": "US"
@@ -75,7 +82,8 @@
       }
     },
     {
-      "name": "Aeronautecal Manufacturing Technology Magazine",
+      "name": "Aeronautecal Manufacturing Technology  Magazine",
+      "alias": "航空制造技术杂志社",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -118,6 +126,7 @@
     },
     {
       "name": "AGUSTAWESTLAND",
+      "alias": "阿古斯特西地有限公司　",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -125,6 +134,7 @@
     },
     {
       "name": "AIRBUS",
+      "alias": "空中客车公司　",
       "country": {
         "text": "France",
         "iso2": "FR"
@@ -132,6 +142,7 @@
     },
     {
       "name": "Ameco Beijing",
+      "alias": "北京飞机维修工程有限公司　",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -237,13 +248,14 @@
     },
     {
       "name": "Avion Pacific Limited　",
+      "alias": "亚飞太平洋有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "AVIONICA MOSCOW RESEARCH - PRODUCTION COMPLEX (MRPC)JOINT STOCK COMPANY (JSC)",
+      "name": "AVIONICA MOSCOW RESEARCH - PRODUCTION COMPLEX (MRPC)JOINT STOCK COMPANY  (JSC)",
       "country": {
         "text": "Russia",
         "iso2": "RU"
@@ -258,6 +270,7 @@
     },
     {
       "name": "Beijing B.V.E.Low Altitude Spatial Technology Co.,LTD",
+      "alias": "北京必威易低空空间技术有限公司　",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -265,6 +278,7 @@
     },
     {
       "name": "Beijing BeiMoGaoKe friction mate realco,lta",
+      "alias": "北京北摩高科摩擦材料有限责任公司　",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -272,6 +286,7 @@
     },
     {
       "name": "Beijing GoBetter Advertising Co., LTD (GBT)",
+      "alias": "北京高博特广告有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -279,13 +294,15 @@
     },
     {
       "name": "BEIJING SKY TECHNOLOGY Co.,LTD",
+      "alias": "清华大学北京思凯飞翔科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Beijing Spaceflight Hong'en Power & Tech. Co.,Ltd",
+      "name": "Beijing Spaceflight Hong'en Power & Tech.  Co.,Ltd",
+      "alias": "北京航天宏恩动力技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -293,6 +310,7 @@
     },
     {
       "name": "Beijing WAEVT Industrial Endoscope Company Limited",
+      "alias": "北京韦林意威特工业内窥镜有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -300,6 +318,7 @@
     },
     {
       "name": "Bodycote(Wuxi)Technology Co.,Ltd",
+      "alias": "鲍迪克(无锡)技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -321,6 +340,7 @@
     },
     {
       "name": "Bose Electronics (Shanghai) Co., Ltd",
+      "alias": "博士视听系统(上海)有限公司",
       "country": {
         "text": "USA",
         "iso2": "US"
@@ -349,6 +369,7 @@
     },
     {
       "name": "China Aviation Meida Group(CAMG)/International Aviation Group(IAG)",
+      "alias": "中航传媒集团/国际航空杂志社",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -356,6 +377,7 @@
     },
     {
       "name": "China aviation news",
+      "alias": "中国航空报社",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -363,6 +385,7 @@
     },
     {
       "name": "CHINA AVIATION SUPPLIES IMP.& EXP. GROUP CORPORATION",
+      "alias": "中国航空器材进出口集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -370,6 +393,7 @@
     },
     {
       "name": "China Civil Aviation Magazine 、Aviation Buyer China Magazine、AvBuyer.com.cn",
+      "alias": "中国民用航空、中国航空采购、航采网",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -377,6 +401,7 @@
     },
     {
       "name": "China Europe GNSS Technology Training and Cooperation Center",
+      "alias": "中欧卫星导航技术培训合作中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -384,6 +409,7 @@
     },
     {
       "name": "China National Aero-Technology Import & Export Corporation（CATIC）",
+      "alias": "中国航空技术进出口总公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -391,6 +417,7 @@
     },
     {
       "name": "China New Era Group Corporation 　",
+      "alias": "中国新时代控股（集团）公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -398,6 +425,7 @@
     },
     {
       "name": "China Space News",
+      "alias": "中国航天报社",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -405,6 +433,7 @@
     },
     {
       "name": "CIRA-ITALIAN AEROSPACE RESEARCH CENTER",
+      "alias": "CIRA – 意大利宇航研究中心",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -412,13 +441,15 @@
     },
     {
       "name": "Cirrus Design Corporation",
+      "alias": "美国西锐设计公司上海代表处",
       "country": {
         "text": "USA",
         "iso2": "US"
       }
     },
     {
-      "name": "Civil aviation management",
+      "name": "Civil  aviation  management",
+      "alias": "民航管理杂志社",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -440,6 +471,7 @@
     },
     {
       "name": "Consulate General of Belgium – Wallonia Trade Commission",
+      "alias": "比利时王国驻广州总领事馆商务处（瓦隆州）",
       "country": {
         "text": "Belgium",
         "iso2": "BE"
@@ -461,6 +493,7 @@
     },
     {
       "name": "Dalian Sanke Aviation Technology Co., Ltd.",
+      "alias": "大连三科航空科技有限公司　",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -482,6 +515,7 @@
     },
     {
       "name": "DESIGN NEWS China",
+      "alias": "设计创新",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -531,6 +565,7 @@
     },
     {
       "name": "Embraer- Empresa Brasileira de Aeronáutica S.A.",
+      "alias": "巴西航空工业公司",
       "country": {
         "text": "Brazil",
         "iso2": "BR"
@@ -601,6 +636,7 @@
     },
     {
       "name": "FSUE “MMBPE “Salut”",
+      "alias": "莫斯科“萨留特”机械制造生产公司",
       "country": {
         "text": "Russia",
         "iso2": "RU"
@@ -608,6 +644,7 @@
     },
     {
       "name": "GALILEO AVIONICA",
+      "alias": "伽利略航空公司",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -615,6 +652,7 @@
     },
     {
       "name": "GALILEO JOINT UNDERTAKING",
+      "alias": "伽利略联合执行体(GJU)",
       "country": {
         "text": "Belgium",
         "iso2": "BE"
@@ -622,6 +660,7 @@
     },
     {
       "name": "GE - Aviation",
+      "alias": "GE航空集团",
       "country": {
         "text": "USA",
         "iso2": "US"
@@ -629,6 +668,7 @@
     },
     {
       "name": "GIFAS",
+      "alias": "法国宇航协会",
       "country": {
         "text": "France",
         "iso2": "FR"
@@ -636,13 +676,15 @@
     },
     {
       "name": "Guangzhou Aircraft Maintenance & Engineering Company Limited",
+      "alias": "广州飞机维修工程有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "HEATCON SUNAERO",
+      "name": "HEATCON  SUNAERO",
+      "alias": "北京博宇合众工程技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -650,6 +692,7 @@
     },
     {
       "name": "Hong Kong Aviation Club Ltd.",
+      "alias": "香港飞行总会",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -657,6 +700,7 @@
     },
     {
       "name": "ICE - ITALIAN TRADE COMMISSION",
+      "alias": "I.C.E. - 意大利对外贸易委员会",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -664,6 +708,7 @@
     },
     {
       "name": "IDS - INGEGNERIA DEI SISTEMI",
+      "alias": "IDS – 系统工程",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -678,6 +723,7 @@
     },
     {
       "name": "International Aero Engines",
+      "alias": "国际航空发动机公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -713,6 +759,7 @@
     },
     {
       "name": "JPR-CAP",
+      "alias": "法国杰鹏公司",
       "country": {
         "text": "France",
         "iso2": "FR"
@@ -755,6 +802,7 @@
     },
     {
       "name": "Klimov Company",
+      "alias": "克里莫夫企业　",
       "country": {
         "text": "Russia",
         "iso2": "RU"
@@ -797,6 +845,7 @@
     },
     {
       "name": "MD Helicopters Inc",
+      "alias": "美国麦道直升机公司　",
       "country": {
         "text": "USA",
         "iso2": "US"
@@ -825,6 +874,7 @@
     },
     {
       "name": "Metang Novatech Shanghai Co,.Ltd",
+      "alias": "上海美唐机电科技有限公司　",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -867,6 +917,7 @@
     },
     {
       "name": "MTCS Systems Engineering Co.,Ltd.",
+      "alias": "北京汉通达科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -887,7 +938,7 @@
       }
     },
     {
-      "name": "Nauka Scientific & Production Enterprise JSC",
+      "name": "«Nauka» Scientific & Production Enterprise JSC",
       "country": {
         "text": "Russia",
         "iso2": "RU"
@@ -895,6 +946,7 @@
     },
     {
       "name": "Nanjing Research Institute on Simulation Technique (NRIST)",
+      "alias": "南京模拟技术研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -909,6 +961,7 @@
     },
     {
       "name": "NingBo XingJian Space Manufactory",
+      "alias": "宁波星箭航天机械厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -965,6 +1018,7 @@
     },
     {
       "name": "Peiport (Zhuhai) Aerosport Ltd.",
+      "alias": "珠海（彼岸）航体器材制造有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -978,7 +1032,7 @@
       }
     },
     {
-      "name": "Polskie Zakady Lotnicze, Co. Ltd.",
+      "name": "Polskie Zakłady Lotnicze, Co. Ltd.",
       "country": {
         "text": "Poland",
         "iso2": "PL"
@@ -1070,6 +1124,7 @@
     },
     {
       "name": "Rosler Oberfachentechnik GmbH",
+      "alias": "德国罗斯勒有限公司",
       "country": {
         "text": "Germany",
         "iso2": "DE"
@@ -1105,6 +1160,7 @@
     },
     {
       "name": "Saisina Aviation Technology (Shanghai) Ltd.",
+      "alias": "赛斯纳航空技术(上海) 有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1133,6 +1189,7 @@
     },
     {
       "name": "Scope Metal Trading and Technical Services Ltd.",
+      "alias": "思科普金属贸易及技术服务有限公司",
       "country": {
         "text": "Israel",
         "iso2": "IL"
@@ -1140,6 +1197,7 @@
     },
     {
       "name": "SELEX Communications",
+      "alias": "Selex通讯公司",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -1147,13 +1205,15 @@
     },
     {
       "name": "SHAANXI LANTAI AVIATION EQUIPMENT CO.,LTD　",
+      "alias": "陕西蓝太航空设备有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Shanghai ICHWAY INDUSTRIAL CO.,LTD",
+      "name": "Shanghai  ICHWAY  INDUSTRIAL  CO.,LTD",
+      "alias": "上海英之华实业有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1161,6 +1221,7 @@
     },
     {
       "name": "Shanghai Benli Telecommunication CO.Ltd.",
+      "alias": "上海奔力通讯设备有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1168,6 +1229,7 @@
     },
     {
       "name": "Shantou Chenghai Wanchengfeng Craft Co.ltd",
+      "alias": "汕头市万成丰工艺有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1175,6 +1237,7 @@
     },
     {
       "name": "Shenzhen DAJIANG Creative Technology Co., Ltd.",
+      "alias": "深圳大疆创新科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1182,6 +1245,7 @@
     },
     {
       "name": "SHENZHEN DONICA TECHNOLOGY CO.,LTD.",
+      "alias": "深圳市多尼卡电子技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1189,6 +1253,7 @@
     },
     {
       "name": "Sicong Opto-electronic LTD.",
+      "alias": "西安北方光电有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1196,6 +1261,7 @@
     },
     {
       "name": "Smiths Aerospace",
+      "alias": "史密斯宇航",
       "country": {
         "text": "UK",
         "iso2": "GB"
@@ -1238,6 +1304,7 @@
     },
     {
       "name": "StarragHeckert AG (SIP,TTL)",
+      "alias": "斯达拉格海科特公司(西普，TTL)",
       "country": {
         "text": "Switzerland",
         "iso2": "CH"
@@ -1315,6 +1382,7 @@
     },
     {
       "name": "TELESPAZIO SPA",
+      "alias": "空间电讯有限公司",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -1336,6 +1404,7 @@
     },
     {
       "name": "The Administrative Committee of XI’an Yanliang National Aviation Hi-Tech Industrial Base",
+      "alias": "西安阎良国家航空高技术产业基地",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1357,6 +1426,7 @@
     },
     {
       "name": "The Society of Japanese Aerospace Companies (SJAC)",
+      "alias": "日本航空宇宙工业会",
       "country": {
         "text": "Japan",
         "iso2": "JP"
@@ -1364,6 +1434,7 @@
     },
     {
       "name": "Timken Aerospace",
+      "alias": "美国铁姆肯公司",
       "country": {
         "text": "USA",
         "iso2": "US"
@@ -1406,6 +1477,7 @@
     },
     {
       "name": "ULAN-UDE AVIATION PLANT JSC",
+      "alias": "乌兰乌德航空制造厂",
       "country": {
         "text": "Russia",
         "iso2": "RU"
@@ -1469,6 +1541,7 @@
     },
     {
       "name": "Xi'an Fang Yuanming Science & Technology Development Co.,Ltd.",
+      "alias": "西安方元明科技发展有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1476,6 +1549,7 @@
     },
     {
       "name": "Zhuhai Hi-tech Business Incubator",
+      "alias": "珠海高新技术创业服务中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1560,6 +1634,7 @@
     },
     {
       "name": "The General Administration of Civil Aviation of China（CAAC）",
+      "alias": "中国民用航空总局",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1567,6 +1642,7 @@
     },
     {
       "name": "AIR CHINA LIMITED",
+      "alias": "中国国际航空股份有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1574,6 +1650,7 @@
     },
     {
       "name": "CENTER OF AVIATION SAFETY TECHNOLOGY, CAAC",
+      "alias": "中国民用航空总局航空安全技术中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1581,6 +1658,7 @@
     },
     {
       "name": "CHINA EASTERN AIR H0LDING C0MPANY",
+      "alias": "中国东方航空集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1588,6 +1666,7 @@
     },
     {
       "name": "CHINA EASTERN AIR LINES CO.,LTD",
+      "alias": "中国东方航空股份有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1595,6 +1674,7 @@
     },
     {
       "name": "CHINA S0UTHERN AIRLINES COMPANY LIMITED",
+      "alias": "中国南方航空股份有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1602,6 +1682,7 @@
     },
     {
       "name": "CHINA TRAVELSKY HOLDING COMPANY",
+      "alias": "中国民航信息集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1609,6 +1690,7 @@
     },
     {
       "name": "CHINA’S INDUSTRIAL BASE OF CIVIL AVIATION",
+      "alias": "中国民航科技产业化基地",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1616,6 +1698,7 @@
     },
     {
       "name": "CIVIL AVIATION FLIGHT UNIVERSITY OF CHINA",
+      "alias": "中国民用航空飞行学院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1623,6 +1706,7 @@
     },
     {
       "name": "CIVIL AVIATION UNIVERSITY OF CHINA (CAUC)",
+      "alias": "中国民航大学",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1630,6 +1714,7 @@
     },
     {
       "name": "SHENZHEN AIRLINES",
+      "alias": "深圳航空有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1637,6 +1722,7 @@
     },
     {
       "name": "XIAMEN AIRLINES",
+      "alias": "厦门航空有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1644,6 +1730,7 @@
     },
     {
       "name": "China Aviation Industry Corporation I (AVIC I)",
+      "alias": "中国航空工业第一集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1651,6 +1738,7 @@
     },
     {
       "name": "Aerospace Life-Support Industries. Ltd",
+      "alias": "航宇救生装备有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1658,6 +1746,7 @@
     },
     {
       "name": "Aircraft Strength Research Institute",
+      "alias": "中国飞机强度研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1665,6 +1754,7 @@
     },
     {
       "name": "Anhui jianghuai Aviation Oxygen Supply and Refrigeration Equipment Company.LTD.",
+      "alias": "安徽江淮航空供氧制冷设备有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1672,6 +1762,7 @@
     },
     {
       "name": "AVIC Ⅰ AVIATION MOTOR CONTROL SYSTEM INSTITUTE",
+      "alias": "中国一航动力控制系统研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1679,13 +1770,15 @@
     },
     {
       "name": "AVIC I Chengdu Aircraft Design & Research Institute",
+      "alias": "中国一航成都飞机设计研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "AVIC I TAIYUAN AERO-INSTRUMENTS CO., LTD.",
+      "name": "AVIC I TAIYUAN  AERO-INSTRUMENTS  CO., LTD.",
+      "alias": "中国一航太原航空仪表有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1693,6 +1786,7 @@
     },
     {
       "name": "AVIC I XIAN AIRCRAFT INDUSTRY(GROUP)COMPANY LTD.",
+      "alias": "中国一航西安飞机工业(集团)有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1700,6 +1794,7 @@
     },
     {
       "name": "AVIC1 Commercial Aircraft CO., Ltd",
+      "alias": "中航商用飞机有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1707,6 +1802,7 @@
     },
     {
       "name": "AVICⅠ Beijing Raise Science Co., Ltd.",
+      "alias": "中国一航北京瑞赛科技有限公司（634所）",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1714,6 +1810,7 @@
     },
     {
       "name": "AVICⅠ Shenyang Liming Aero-Engine Group Corporation LTD",
+      "alias": "中国一航沈阳黎明航空发动机（集团）有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1721,6 +1818,7 @@
     },
     {
       "name": "Beijing Aeronautical manufacturing Technology Research Institute",
+      "alias": "中国航空工业第一集团公司北京航空制造工程研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1728,6 +1826,7 @@
     },
     {
       "name": "BEIJING KEEVEN AVIATION INSTRUMENT CO., LTD",
+      "alias": "北京青云航空仪表有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1735,6 +1834,7 @@
     },
     {
       "name": "Brief Introduction for Xi’an Aviation Brake Technology Co., Ltd.",
+      "alias": "西安航空制动科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1742,6 +1842,7 @@
     },
     {
       "name": "CAIC",
+      "alias": "成都航空仪表有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1749,6 +1850,7 @@
     },
     {
       "name": "Changcheng Institute of Metrology & Measurement (CIMM)",
+      "alias": "中国一航北京长城计量测试技术研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1756,13 +1858,15 @@
     },
     {
       "name": "Chengdu Aircraft Industry (Group) Co. Ltd",
+      "alias": "中国一航成都飞机工业（集团）有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "CHINA NATIONAL GUIZHOU AVIATION INDUSTRY（GROUP）CO. , LTD",
+      "name": "CHINA  NATIONAL  GUIZHOU  AVIATION  INDUSTRY（GROUP）CO. , LTD",
+      "alias": "中国贵州航空工业（集团）有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1770,6 +1874,7 @@
     },
     {
       "name": "China Aviation Gas Turbine Co., Ltd.",
+      "alias": "一航燃机（中航世新燃汽轮机股份有限公司）",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1777,6 +1882,7 @@
     },
     {
       "name": "China Gas Turbine Establishment",
+      "alias": "中国燃气涡轮研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1784,6 +1890,7 @@
     },
     {
       "name": "Chinese Aerodynamics Research Institute of Aeronautics (CARIA)",
+      "alias": "中国航空工业空气动力研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1791,6 +1898,7 @@
     },
     {
       "name": "Chinese Aeronautical Radio Electronics Research Institute",
+      "alias": "中国航空无线电电子研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1798,6 +1906,7 @@
     },
     {
       "name": "Chinese Flight Test Establishment of AVIC I",
+      "alias": "中国飞行试验研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1805,6 +1914,7 @@
     },
     {
       "name": "Flight Automatic Control Research Institute",
+      "alias": "西安飞行自动控制研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1812,6 +1922,7 @@
     },
     {
       "name": "GUIZHOU ANDA AVIATION FORGING Co., Ltd.",
+      "alias": "贵州安大航锻造有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1819,6 +1930,7 @@
     },
     {
       "name": "Guizhou Anji Aviation Investment Casting Co., LTD",
+      "alias": "贵州安吉航空精密铸造有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1826,6 +1938,7 @@
     },
     {
       "name": "GUIZHOU TIANYI ELECTRICAL CO., LTD",
+      "alias": "贵州天义电器有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1833,6 +1946,7 @@
     },
     {
       "name": "Hong Yuan Aviation Forging & Casting Industry Company",
+      "alias": "红原航空锻铸工业公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1840,6 +1954,7 @@
     },
     {
       "name": "Jilin Aviation Maintenance Limited Liability Company",
+      "alias": "吉林航空维修有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1847,6 +1962,7 @@
     },
     {
       "name": "Luoyang Optoelectro Technology Development Center",
+      "alias": "洛阳光电技术发展中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1854,6 +1970,7 @@
     },
     {
       "name": "Nanjing Engineering Institute of Aircraft Systems, Jincheng, AVICⅠ",
+      "alias": "中国一航金城南京机电液压工程研究中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1861,6 +1978,7 @@
     },
     {
       "name": "QINGAN GROUP CO.，LTD",
+      "alias": "庆安集团有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1868,13 +1986,15 @@
     },
     {
       "name": "Research Institute for Special Structures of Aeronautical Composites (RISAC) of AVIC I",
+      "alias": "中国航空工业第一集团公司第六三七研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "SHANXI AERO ELECTRIC CO.LTD",
+      "name": "SHANXI  AERO  ELECTRIC  CO.LTD",
+      "alias": "陕西航空电气有限责任公司（115厂）",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1882,6 +2002,7 @@
     },
     {
       "name": "Shanxi Baocheng Aviation Instrument Co.，Ltd.",
+      "alias": "陕西宝成航空仪表有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1889,6 +2010,7 @@
     },
     {
       "name": "Shenyang aircraft corporation",
+      "alias": "沈阳飞机工业（集团）有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1896,6 +2018,7 @@
     },
     {
       "name": "Shenyang Aircraft Design & Research Institute AVIC I",
+      "alias": "中国航空工业第一集团公司沈阳飞机设计研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1903,6 +2026,7 @@
     },
     {
       "name": "SHENYANG XINGHUA AERO-ELECTRIC APPLIANCE Co., Ltd.",
+      "alias": "沈阳兴华航空电器有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1910,6 +2034,7 @@
     },
     {
       "name": "THE FIRST AIRCRAFT INSTITUTE OF AVIC-1",
+      "alias": "中航第一飞机设计研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1917,13 +2042,15 @@
     },
     {
       "name": "The Shanghai Aeronautical Measurement-Controlling Research",
+      "alias": "上海航空测控技术研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Xi’an Aeronautics Computing Technique Research Institute",
+      "name": "Xi’an  Aeronautics   Computing  Technique Research Institute",
+      "alias": "中国航空工业第六三一研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1931,6 +2058,7 @@
     },
     {
       "name": "Xian Airfoil Technology Co. Ltd",
+      "alias": "西安安泰叶片技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1938,6 +2066,7 @@
     },
     {
       "name": "XI’an Aero-Engine(Group)Ltd.(XAE) of AVICⅠ",
+      "alias": "中国一航西安航空发动机（集团）有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1945,6 +2074,7 @@
     },
     {
       "name": "Radar and Avionics Institute of AVIC",
+      "alias": "中国一航雷达与电子设备研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1952,20 +2082,23 @@
     },
     {
       "name": "Luoyang Institute of Electro-optical Equipment of AVIC I",
+      "alias": "中国一航光电研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Beijing Aviation Science and Technology Co., Ltd.",
+      "name": "Beijing  Aviation  Science  and  Technology  Co., Ltd.",
+      "alias": "北京蓝天航空科技有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Xi′an Aero-engine Controls Co.of AVICⅠ",
+      "name": "Xi´an Aero-engine Controls Co.of AVICⅠ",
+      "alias": "中国一航西安航空动力控制公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1973,6 +2106,7 @@
     },
     {
       "name": "Guizhou Liyang Aero-engine Corp.",
+      "alias": "贵州黎阳航空发动机公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1980,6 +2114,7 @@
     },
     {
       "name": "Shenyang Aeroengine Research Institute(SAeRI)",
+      "alias": "沈阳发动机设计研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1987,6 +2122,7 @@
     },
     {
       "name": "China Aviation Industry Corporation II (AVIC II)",
+      "alias": "中国航空工业第二集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -1994,6 +2130,7 @@
     },
     {
       "name": "Baoding Huiyang Aviation Propeller Factory",
+      "alias": "保定惠阳航空螺旋桨制造厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2001,6 +2138,7 @@
     },
     {
       "name": "Changhe Aircraft Industries Group",
+      "alias": "昌河飞机工业（集团）有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2008,6 +2146,7 @@
     },
     {
       "name": "CHINA AVIATION POWERPLANT RESEARCH INSTITUTE",
+      "alias": "中国航空动力机械研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2015,13 +2154,15 @@
     },
     {
       "name": "China Helicopter Research & Development Institute",
+      "alias": "中国直升机设计研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "CHINA NATIONAI SOUTH AVIATION INDUSTRY C0. LTD",
+      "name": "CHINA NATIONAI SOUTH AVIATION  INDUSTRY C0. LTD",
+      "alias": "中国南方航空工业有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2029,6 +2170,7 @@
     },
     {
       "name": "Harbin Aviation Industry Group Corp.",
+      "alias": "哈尔滨航空工业（集团）有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2036,6 +2178,7 @@
     },
     {
       "name": "Hongdu Aviation Industry (Group) Co. Ltd",
+      "alias": "洪都航空工业集团有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2043,6 +2186,7 @@
     },
     {
       "name": "LANZHOU AVIATION ELECTROMECHANIC INC.",
+      "alias": "兰州航空机电有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2050,6 +2194,7 @@
     },
     {
       "name": "Lanzhou Flight Control Co.，Ltd.",
+      "alias": "兰州飞行控制有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2057,6 +2202,7 @@
     },
     {
       "name": "Nanjing Hongguang Airborne Equipment Factory",
+      "alias": "南京宏光空降装备厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2064,6 +2210,7 @@
     },
     {
       "name": "Qianshan Electronic Equipment Factory",
+      "alias": "千山电子仪器厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2071,6 +2218,7 @@
     },
     {
       "name": "SHANXI AIRCRAFT INDUSTRY (GROUP) CO., LTD",
+      "alias": "陕西飞机工业（集团）有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2078,6 +2226,7 @@
     },
     {
       "name": "Shanxi Liaoyuan Aero-Mech. Corp.",
+      "alias": "陕西燎原航空机械制造公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2085,6 +2234,7 @@
     },
     {
       "name": "Shijiazhuang Aircraft Industry Co., Ltd.",
+      "alias": "石家庄飞机工业有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2092,6 +2242,7 @@
     },
     {
       "name": "Sichuan ChengFa Aero Science & Technology Co., Ltd.",
+      "alias": "四川成发航空科技股份有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2099,6 +2250,7 @@
     },
     {
       "name": "Sichuan Fanhua Aviation Instrument & Electrical Appliance Factory",
+      "alias": "四川泛华航空仪表电器厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2106,6 +2258,7 @@
     },
     {
       "name": "Tianjin Aviation Electro-Mechanical Co.,Ltd",
+      "alias": "天津航空机电有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2113,6 +2266,7 @@
     },
     {
       "name": "Xinxiang Aviation Industry (Group) Co., Ltd.",
+      "alias": "新乡航空工业（集团）有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2120,13 +2274,15 @@
     },
     {
       "name": "ZHENGZHOU AIRCRAFT EQUIPMENT CO., LTD.",
+      "alias": "郑州飞机装备有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "ZHONGNAN TRANSMISSION MACHINERY WORKS OF AVIATION INDUSTRIES CHANGSHA",
+      "name": "ZHONGNAN  TRANSMISSION  MACHINERY  WORKS OF  AVIATION  INDUSTRIES  CHANGSHA",
+      "alias": "长沙航空工业中南传动机械厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2134,6 +2290,7 @@
     },
     {
       "name": "China Aerospace Science and Technology Corporation (CASTC)",
+      "alias": "中国航天科技集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2141,6 +2298,7 @@
     },
     {
       "name": "Academy of Aerospace Liquid Propulsion Technology",
+      "alias": "航天推进技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2148,6 +2306,7 @@
     },
     {
       "name": "Academy of Aerospace Solid Propulsion Technology",
+      "alias": "航天动力技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2155,6 +2314,7 @@
     },
     {
       "name": "Aerostrong Technology Co., Ltd.",
+      "alias": "航天四创",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2162,6 +2322,7 @@
     },
     {
       "name": "Beijing Shenzhou Aerospace Software Technology Co.,Ltd.",
+      "alias": "北京神舟航天软件技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2169,6 +2330,7 @@
     },
     {
       "name": "China Academy of Aerospace Aerodynamics (CAAA)",
+      "alias": "航天空气动力学研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2176,6 +2338,7 @@
     },
     {
       "name": "China Academy of Launch Vehicle Technology (CALT)",
+      "alias": "中国运载火箭技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2183,6 +2346,7 @@
     },
     {
       "name": "China Academy of Space Technology",
+      "alias": "中国空间技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2190,6 +2354,7 @@
     },
     {
       "name": "China Aerospace Times Electronics Corporation",
+      "alias": "中国航天时代电子公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2197,6 +2362,7 @@
     },
     {
       "name": "China Center for Resource Satellite Data and Applications (CRESDA)",
+      "alias": "中国资源卫星应用中心",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2204,6 +2370,7 @@
     },
     {
       "name": "Shanghai Academy of Spaceflight Technology (SAST)",
+      "alias": "上海航天技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2211,6 +2378,7 @@
     },
     {
       "name": "Sichuan Academy of Aerospace Technology (SAAT)",
+      "alias": "四川航天技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2218,6 +2386,7 @@
     },
     {
       "name": "Sino Satellite Communications Company Ltd.",
+      "alias": "鑫诺卫星通信有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2225,6 +2394,7 @@
     },
     {
       "name": "China Aerospace Science and Industry Corporation (CASIC)",
+      "alias": "中国航天科工集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2232,6 +2402,7 @@
     },
     {
       "name": "Aerospace Computer Group Corporation (ACGC)",
+      "alias": "航天计算机集团公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2239,6 +2410,7 @@
     },
     {
       "name": "Aerospace Solid Rocket Engine Technology Academy",
+      "alias": "航天固体火箭发动机技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2246,6 +2418,7 @@
     },
     {
       "name": "Beijing Aerospace Measurement & Control Technology Development Co. (BAMCDC)",
+      "alias": "北京航天测控技术开发公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2253,6 +2426,7 @@
     },
     {
       "name": "China Changfeng Mechanics and Electronics Technology Academy",
+      "alias": "中国长峰机电技术研究设计院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2260,6 +2434,7 @@
     },
     {
       "name": "China Haiying Electro-Mechanical Technology Academy",
+      "alias": "中国海鹰机电技术研究院",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2267,6 +2442,7 @@
     },
     {
       "name": "China Jiangnan Space Industry Co. Group (CJSG)",
+      "alias": "中国江南航天集团",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2274,6 +2450,7 @@
     },
     {
       "name": "China Sanjiang Space Group (CSSG)",
+      "alias": "中国三江航天集团",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2281,6 +2458,7 @@
     },
     {
       "name": "Hangtian Tsinghua Satellite Technology Ltd.",
+      "alias": "航天科工卫星技术有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2288,6 +2466,7 @@
     },
     {
       "name": "Hunan Aerospace Corporation (HASC)",
+      "alias": "湖南航天工业总公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2295,13 +2474,15 @@
     },
     {
       "name": "Liuzhou Changhong Machinery Building Company(LCMMC)",
+      "alias": "柳州长虹机器制造公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "Nanjing Chenguang Machinery Manufacturer",
+      "name": "Nanjing Chenguang  Machinery Manufacturer",
+      "alias": "南京晨光集团有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2309,6 +2490,7 @@
     },
     {
       "name": "Antech",
+      "alias": "东莞安达电机有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2316,6 +2498,7 @@
     },
     {
       "name": "Jiangsu Jingjiang Forklift Truck Co., Ltd.",
+      "alias": "江苏靖江叉车有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2323,6 +2506,7 @@
     },
     {
       "name": "NUCTECH Co., Ltd.",
+      "alias": "清华同方威视技术股份有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2330,13 +2514,15 @@
     },
     {
       "name": "Sichuan HSQ Cooling Equipment Co., Ltd.",
+      "alias": "四川华盛强制冷设备有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "　",
+      "name": "浙江大丰实业有限公司",
+      "alias": "浙江大丰实业有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2344,6 +2530,7 @@
     },
     {
       "name": "PLYWAVE Technology Co., Ltd.",
+      "alias": "上海磐维通信科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2351,13 +2538,15 @@
     },
     {
       "name": "Lanyu Aircraft Tire Development Co.",
+      "alias": "桂林蓝宇航空轮胎发展公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "　",
+      "name": "中国电子科技集团公司第三十八研究所",
+      "alias": "中国电子科技集团公司第三十八研究所",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2365,6 +2554,7 @@
     },
     {
       "name": "Zhongshan Xiaolan HENGYI Electronic Factory",
+      "alias": "中山市小榄镇恒毅电子厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2372,6 +2562,7 @@
     },
     {
       "name": "Beijing Aerospace Huge Dragon Science & Technology Developing Co., Ltd.",
+      "alias": "北京航天瀚龙科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2379,6 +2570,7 @@
     },
     {
       "name": "Shantou Yonghang Model Airplane Factory",
+      "alias": "汕头市永航发展有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2386,6 +2578,7 @@
     },
     {
       "name": "Nanjing YuanXun Technology Co.,Ltd.",
+      "alias": "南京远讯科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2393,6 +2586,7 @@
     },
     {
       "name": "Zhejiang Shaoxing public health disinfections products company",
+      "alias": "浙江绍兴民康消毒用品有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2400,20 +2594,23 @@
     },
     {
       "name": "Yingkou Guangming instrument fty",
+      "alias": "营口市光明仪器厂",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "　",
+      "name": "北京中晨发展有限责任公司",
+      "alias": "北京中晨发展有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "　",
+      "name": "广州舜达科技有限公司",
+      "alias": "广州舜达科技有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2421,6 +2618,7 @@
     },
     {
       "name": "ShanTou City SanWei Airplane Model Crafts Factory",
+      "alias": "汕头市三维飞机模型工艺厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2428,13 +2626,15 @@
     },
     {
       "name": "Crawford door (Kunshan) Co., Ltd.",
+      "alias": "昆山阔福门业有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
-      "name": "　",
+      "name": "西安爱科电子有限责任公司",
+      "alias": "西安爱科电子有限责任公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2442,6 +2642,7 @@
     },
     {
       "name": "Jiangsu Blue Sky Airport Support Co., Ltd.",
+      "alias": "江苏蓝天空港设备有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2449,6 +2650,7 @@
     },
     {
       "name": "LPE",
+      "alias": "东莞桥头远浩塑胶厂",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2456,6 +2658,7 @@
     },
     {
       "name": "ZIBO JINHANG TEXTILES CO., LTD.",
+      "alias": "淄博锦航纺织品有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -2463,6 +2666,7 @@
     },
     {
       "name": "Jinan Meichen Packing Co., Ltd.",
+      "alias": "济南美臣包装有限公司",
       "country": {
         "text": "China",
         "iso2": "CN"
