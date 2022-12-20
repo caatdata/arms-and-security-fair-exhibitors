@@ -1,9 +1,482 @@
 {
-  "name": "LIBDEX 2008",
-  "series": "LIBDEX",
+  "name": "LibDex 2008",
+  "series": "LibDex",
   "edition": "2008",
-  "alias": "Libya Defence and Security Exhibition 2008",
-  "approxDate": "2008",
-  "website": "http://www.libdex.ly/",
-  "country": "Libya"
+  "startDate": "2008-11-10",
+  "endDate": "2008-11-13",
+  "address": {
+    "text": "Mitiga Airport, Tripoli, Libya",
+    "iso2": "LY",
+    "lat": 32.9049496,
+    "lon": 13.2739406
+  },
+  "website": "http://www.libdex.ly",
+  "exhibitorListUrl": "http://rusexpo.net/files/LibDex_2008_EXHIBITORS_LIST.pdf",
+  "exhibitorListDate": "2021-03-11T13:33:03+00:00",
+  "exhibitor": [
+    {
+      "name": "AALAN- ALAN AGENCY - CROATIAN DEFENCE INDUSTRY",
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "ACMAT SA.",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "ADRIA - MAR SIBUILDING LTD",
+      "country": {
+        "text": "CROATIA",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "AGUSTA WESTLAND",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "ARSENAL 200 JSCO.",
+      "country": {
+        "text": "BULGARIA",
+        "iso2": "BG"
+      }
+    },
+    {
+      "name": "ASSAHER CO.",
+      "country": {
+        "text": "LIBYA",
+        "iso2": "LY"
+      }
+    },
+    {
+      "name": "AUSTAL",
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "AWAL FOR INFORMATION TECHNOLOGY COMPANY",
+      "country": {
+        "text": "LIBYA",
+        "iso2": "LY"
+      }
+    },
+    {
+      "name": "BRITANNIA 2000 LTD",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "CARL ZEISS OPTRONICS ( PTY ) LTD",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "CONVERSION SECURITY INNOVATION GMBH",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "CSV INTERNATION",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "DAEWOO INTERNATIONAL CORPORATION",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      }
+    },
+    {
+      "name": "DASSALT AVIATION",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "DCI / COFRAS",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "DENEL",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "DESCHAMPS",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "EAGLE CREST INC",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      }
+    },
+    {
+      "name": "EUROSATORY - COGES GROUP",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "FN HERSTAL",
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
+    },
+    {
+      "name": "FOREIGN TRADE FIRM \"KRAZ\" , JOINT - STOCK COMPANY",
+      "country": {
+        "text": "UKRAINE",
+        "iso2": "UA"
+      }
+    },
+    {
+      "name": "GEM ELECTRONICS",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "GENERAL DYNAMICS",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "GICAT ( FRENCH LAND DEFENCE MANFACTURES ASSOCIATION )",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "GLOCK PERFECTION",
+      "country": {
+        "text": "AUSTRIA",
+        "iso2": "AT"
+      }
+    },
+    {
+      "name": "IMPERIAL ARMOUR",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "INDRA",
+      "country": {
+        "text": "SPAIN",
+        "iso2": "ES"
+      }
+    },
+    {
+      "name": "INTERMAT GROUP",
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
+    },
+    {
+      "name": "JANKEL ARMOURING LIMITED",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "LA BARONNE CITAF",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "LG INTERNATION",
+      "country": {
+        "text": "KOREA",
+        "iso2": "KR"
+      }
+    },
+    {
+      "name": "LIATEC",
+      "country": {
+        "text": "LIBYA",
+        "iso2": "LY"
+      }
+    },
+    {
+      "name": "MECAR S. A.",
+      "country": {
+        "text": "BELGIUM",
+        "iso2": "BE"
+      }
+    },
+    {
+      "name": "NERA NETWORKS.",
+      "country": {
+        "text": "NORWAY",
+        "iso2": "NO"
+      }
+    },
+    {
+      "name": "NEXTER GROUP",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "NMS – BRITISH GROUP",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "NORTHROP GRUMMAN CORPORATION (US)",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "OTT ARMOURED WEHICLES",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "PANHARD",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "PENMAN",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "PROENGIN",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "PRONAL",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "PYSER - SGI LTD",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "Q-MAC ELECTRONICS PTY LTD",
+      "country": {
+        "text": "AUSTRALIA",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "RADMOR",
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
+    },
+    {
+      "name": "RADWAR",
+      "country": {
+        "text": "POLAND",
+        "iso2": "PL"
+      }
+    },
+    {
+      "name": "RAFALE",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "RENAULT TRUCKS DEFENCE COMMUNICATION",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "RENK AND SESM",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "REPUBLICAN UNITARY ENTERPRISE \" DB RADAR \"",
+      "country": {
+        "text": "BELARUS",
+        "iso2": "BY"
+      }
+    },
+    {
+      "name": "RIPPEL EFFECT WEAPON SYSTEMS ( PTY ) LTD",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "ROHDE & SCHWARZ GMBH & CO. KG",
+      "country": {
+        "text": "GERMANY",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "ROXEL SALES & BUSINESS DEVELOPMENT DEPARTMENT",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "SAMSUNG",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "SELEX SISTEMI INTEGRATI",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "SELEX COMMUNICATIONS",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "SELEX GALILEO",
+      "country": {
+        "text": "ITALY",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "SOFIA TRADING",
+      "address": {
+        "text": "DUBAI",
+        "iso2": "AE",
+        "lat": 25.2048493,
+        "lon": 55.2707828
+      }
+    },
+    {
+      "name": "SOVAM",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "THALES GROUP",
+      "country": {
+        "text": "FRANCE",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "THEON",
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
+    },
+    {
+      "name": "TILDEN INTERNATIONAL",
+      "country": {
+        "text": "LIBYA",
+        "iso2": "LY"
+      }
+    },
+    {
+      "name": "TRUVALO MANUFACTURERS ( PTY ) LTD.",
+      "country": {
+        "text": "SOUTH AFRICA",
+        "iso2": "ZA"
+      }
+    },
+    {
+      "name": "VALPAK",
+      "country": {
+        "text": "GREECE",
+        "iso2": "GR"
+      }
+    },
+    {
+      "name": "VOMAL - DEFENCE SECURITY SYSTEMS",
+      "country": {
+        "text": "LIBYA",
+        "iso2": "LY"
+      }
+    },
+    {
+      "name": "WALLOP DEFENCE SYSTEMS",
+      "country": {
+        "text": "UK",
+        "iso2": "GB"
+      }
+    }
+  ]
 }
