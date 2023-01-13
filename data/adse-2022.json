@@ -1,9 +1,358 @@
 {
-  "name": "Aerospace, Defence and Security Expo 2022",
-  "series": "Aerospace, Defence and Security Expo",
+  "name": "ADSE 2022",
+  "series": "ADSE",
   "edition": "2022",
+  "alias": "Aerospace, Defence and Security Expo 12th edition",
   "startDate": "2022-08-03",
   "endDate": "2022-08-05",
+  "address": {
+    "text": "Westin Bayshore\n1601 Bayshore Drive\nVancouver\nCA V6G 2V4\nCanada",
+    "iso2": "CA",
+    "lat": 49.2923317,
+    "lon": -123.1291619
+  },
   "website": "https://adse.ca",
-  "country": "Canada"
+  "exhibitorListUrl": "https://adse.ca/about-adse/participating-organizations/",
+  "exhibitorListDate": "2023-01-12T16:29:22+00:00",
+  "exhibitor": [
+    {
+      "name": "ACD Systems International Inc."
+    },
+    {
+      "name": "ADHoc Services"
+    },
+    {
+      "name": "AIAC Pacific"
+    },
+    {
+      "name": "APOLLO MACHINE & WELDING LTD."
+    },
+    {
+      "name": "Abbotsford International Airshow Society"
+    },
+    {
+      "name": "Aerospace Industries Association of Canada"
+    },
+    {
+      "name": "Air Cadet League of Canada. BC Provincial Committee."
+    },
+    {
+      "name": "Airbus"
+    },
+    {
+      "name": "Airbus Defence and Space Canada Inc."
+    },
+    {
+      "name": "Analytic Systems"
+    },
+    {
+      "name": "Anodyne Electronics Manufacturing Corporation (AEM)"
+    },
+    {
+      "name": "Anotek Anodizing"
+    },
+    {
+      "name": "Asco Aerospace"
+    },
+    {
+      "name": "Association of British Columbia Marine Industries (ABCMI)"
+    },
+    {
+      "name": "Avcorp Industries Inc"
+    },
+    {
+      "name": "BC Air Guards"
+    },
+    {
+      "name": "BC Ministry of Jobs, Trade and Technology"
+    },
+    {
+      "name": "BCIT Aerospace Campus"
+    },
+    {
+      "name": "BDC"
+    },
+    {
+      "name": "Babcock Canada"
+    },
+    {
+      "name": "Blue Aerospace LLC"
+    },
+    {
+      "name": "CAE Inc."
+    },
+    {
+      "name": "CFN Consultants"
+    },
+    {
+      "name": "CIMTECH MFG. INC."
+    },
+    {
+      "name": "Canadian Commercial Corporation"
+    },
+    {
+      "name": "Canadian Helicopters Limited"
+    },
+    {
+      "name": "Canvas GFX"
+    },
+    {
+      "name": "Cascade Aerospace"
+    },
+    {
+      "name": "Caster Town"
+    },
+    {
+      "name": "Central Nervous Systems"
+    },
+    {
+      "name": "Chinook Helicopters"
+    },
+    {
+      "name": "City of Abbotsford"
+    },
+    {
+      "name": "Collins Aerospace"
+    },
+    {
+      "name": "Composites Research Network – University of British Columbia"
+    },
+    {
+      "name": "Conair Aerial Firefighting"
+    },
+    {
+      "name": "Consortium of Aerospace Research in Canada"
+    },
+    {
+      "name": "De havllind Aircraft of Canada Ltd."
+    },
+    {
+      "name": "Department of National Defence"
+    },
+    {
+      "name": "Dumur Industries"
+    },
+    {
+      "name": "ENAC Consulting"
+    },
+    {
+      "name": "Electric Air & Marine Inc."
+    },
+    {
+      "name": "Emergco Aerospace Ltd."
+    },
+    {
+      "name": "Eurofighter Typhoon"
+    },
+    {
+      "name": "Export Development Canada (EDC)"
+    },
+    {
+      "name": "GARDN"
+    },
+    {
+      "name": "Gastops Ltd."
+    },
+    {
+      "name": "Global Affairs Canada"
+    },
+    {
+      "name": "Global Airparts Inc"
+    },
+    {
+      "name": "Government of Canada"
+    },
+    {
+      "name": "HYAS Infosec Inc."
+    },
+    {
+      "name": "Harbour Air"
+    },
+    {
+      "name": "Heli-One"
+    },
+    {
+      "name": "Helinalysis"
+    },
+    {
+      "name": "Heroux-Devtek"
+    },
+    {
+      "name": "Highland West Capital Ltd."
+    },
+    {
+      "name": "INO"
+    },
+    {
+      "name": "Innovation, Science Economic Development (ISED)"
+    },
+    {
+      "name": "Innovative Solutions Canada"
+    },
+    {
+      "name": "JOL consultants inc"
+    },
+    {
+      "name": "JPOM"
+    },
+    {
+      "name": "Javelin Technologies"
+    },
+    {
+      "name": "KF Aerospace"
+    },
+    {
+      "name": "KPMG"
+    },
+    {
+      "name": "Kaiser Aluminum"
+    },
+    {
+      "name": "L3 MAS"
+    },
+    {
+      "name": "L3 Technologies Canada"
+    },
+    {
+      "name": "Latitude Technologies"
+    },
+    {
+      "name": "Leonardo"
+    },
+    {
+      "name": "Lockheed Martin"
+    },
+    {
+      "name": "Lockheed Martin Aeronautics"
+    },
+    {
+      "name": "MBS Technical Services"
+    },
+    {
+      "name": "MDA"
+    },
+    {
+      "name": "MHD-ROCKLAND Inc."
+    },
+    {
+      "name": "MTU Canada"
+    },
+    {
+      "name": "Marshall Aerospace"
+    },
+    {
+      "name": "Metal Action"
+    },
+    {
+      "name": "NICOMATIC"
+    },
+    {
+      "name": "OSME (Office of Small and Medium Sized Enterprise)"
+    },
+    {
+      "name": "PAL Aerospace"
+    },
+    {
+      "name": "PSPC"
+    },
+    {
+      "name": "Pacific Northwest Aerospace Alliance"
+    },
+    {
+      "name": "PointMan Canada Ltd/WestCaRD"
+    },
+    {
+      "name": "Pratt & Whitney"
+    },
+    {
+      "name": "Pyrotek Aerospace"
+    },
+    {
+      "name": "RaceRocks 3D Inc."
+    },
+    {
+      "name": "Rockwell Collins"
+    },
+    {
+      "name": "Rockwell Collins Canada"
+    },
+    {
+      "name": "Roland Berger"
+    },
+    {
+      "name": "Royal Canadian Air Force"
+    },
+    {
+      "name": "SAI Global"
+    },
+    {
+      "name": "SED, a division of Calian Ltd."
+    },
+    {
+      "name": "STELIA Aerospace USA"
+    },
+    {
+      "name": "Saxon Aerospace"
+    },
+    {
+      "name": "SkyAlyne"
+    },
+    {
+      "name": "Spidertracks"
+    },
+    {
+      "name": "StandardAero"
+    },
+    {
+      "name": "Stevested Machinery & Eng Ltd"
+    },
+    {
+      "name": "TRU Simulation + Training"
+    },
+    {
+      "name": "Team SkyGuardian Top Aces"
+    },
+    {
+      "name": "Technical Aero, LLC"
+    },
+    {
+      "name": "The Boeing Company"
+    },
+    {
+      "name": "The Honourable Company of Air Pilots"
+    },
+    {
+      "name": "Toray Composite Materials America, Inc."
+    },
+    {
+      "name": "Trade & Invest British Columbia"
+    },
+    {
+      "name": "Tulmar Safety Systems Inc."
+    },
+    {
+      "name": "University of British Columbia"
+    },
+    {
+      "name": "Urthecast"
+    },
+    {
+      "name": "Versaform"
+    },
+    {
+      "name": "Viasat, Inc."
+    },
+    {
+      "name": "Viking Air Limited"
+    },
+    {
+      "name": "WaVv / ConvergX"
+    },
+    {
+      "name": "Western Economic Diversification (WD)"
+    },
+    {
+      "name": "Westwood Precision, Inc."
+    }
+  ]
 }
