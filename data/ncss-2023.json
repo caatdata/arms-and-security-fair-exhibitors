@@ -35,8 +35,42 @@
       "address": "Central House\n1 Alwyne Road\nWimbledon\nLondon\nSW19 7AB"
     }
   ],
-  "exhibitorListDate": "2023-01-30T11:31:13+00:00",
+  "exhibitorListDate": "2023-03-10T16:27:40+00:00",
   "exhibitor": [
+    {
+      "name": "AppGuard",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/assurity-security",
+      "category": [
+        "Application security",
+        "Managed security services",
+        "Endpoint security",
+        "Network security",
+        "SCADA (Supervisory Control And Data Acquisition) & Information control systems"
+      ],
+      "website": "https://appguard.us",
+      "address": {
+        "text": "26\nBerkeley Square\nBristol\nBristol\nBS8 1HP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4555233,
+        "lon": -2.6054145
+      }
+    },
+    {
+      "name": "Arctic Wolf Networks",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/arctic-wolf-networks-uk",
+      "address": {
+        "text": "75-85 Grey St\nNewcastle upon Tyne\nNE1 6EF\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9722369,
+        "lon": -1.6132333
+      },
+      "category": [
+        "Managed security services",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://arcticwolf.com/uk/"
+    },
     {
       "name": "Asigra",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/asigra",
@@ -50,57 +84,158 @@
       }
     },
     {
-      "name": "Assurity Systems Ltd",
-      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/assurity-security",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
-    },
-    {
       "name": "Bosch CyberCompare",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/experbuy",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": [
+        "Email security",
+        "Endpoint security",
+        "Identification, authentication & access control management",
+        "Incident response & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://cybercompare.com/en",
+      "address": {
+        "text": "Broadwater Park\nNorth Orbital Road\nDenham\nUB9 5HJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5855975,
+        "lon": -0.4969713
       }
     },
     {
       "name": "Chartered Institute of Information Security (CIISEC)",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/chartered-institute-information-security-ciisec",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": "Awareness, training & education",
+      "website": "https://www.ciisec.org",
+      "address": {
+        "text": "Chartered Institute of Information Security\nHaddonsacre Business Centre\nOffenham\nWR11 8JJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1033959,
+        "lon": -1.902515
       }
     },
     {
-      "name": "Culture Gem Ltd",
+      "name": "Citation Cyber",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/mitigate-cyber-limited",
+      "category": [
+        "Managed security services",
+        "Awareness, training & education",
+        "Information risk assessment & management",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.citationcyber.com",
+      "address": {
+        "text": "InfoLab21\nLancaster University\nLancaster\nLA1 4WA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.005554,
+        "lon": -2.784785
+      }
+    },
+    {
+      "name": "Culture Gem",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/culture-gem",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       },
-      "category": "Awareness, training & education",
+      "category": [
+        "Awareness, training & education",
+        "Information risk assessment & management"
+      ],
       "website": "https://www.culturegem.co.uk"
+    },
+    {
+      "name": "CyberSecure365",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/cybersecure365",
+      "category": [
+        "Email security",
+        "Managed security services",
+        "Endpoint security",
+        "Identification, authentication & access control management",
+        "Information risk assessment & management"
+      ],
+      "website": "https://www.cybersecure365.com",
+      "address": {
+        "text": "27 Old Gloucester Street\nLondon\nWC1N 3AX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5206343,
+        "lon": -0.1222098
+      }
     },
     {
       "name": "Cybercy",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/cybercy",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": [
+        "Managed security services",
+        "Awareness, training & education",
+        "Identification, authentication & access control management",
+        "Incident response & management",
+        "Information risk assessment & management"
+      ],
+      "website": "http://htttps//www.cybercy.co.uk/",
+      "address": {
+        "text": "Zenith House\nOffice 31\nHighlands Road\nSolihull\nWest Midlands\nB90 4PD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.39888020000001,
+        "lon": -1.8079262
       }
     },
     {
       "name": "D2NA",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/d2na",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": [
+        "Application security",
+        "Email security",
+        "Managed security services",
+        "Identification, authentication & access control management",
+        "Network security"
+      ],
+      "website": "https://d2na.com",
+      "address": {
+        "text": "300 King Street\nFenton\nStoke on Trent\nStaffordshire\nST3 1EZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9942532,
+        "lon": -2.1459949
       }
     },
     {
-      "name": "Equilibrium Security Services Limited",
+      "name": "DigitalXRAID",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/digitalxraid",
+      "category": [
+        "Managed security services",
+        "Endpoint security",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://hubs.la/Q01DDkXx0",
+      "address": {
+        "text": "9a Cavendish Court\nSouth Parade\nDoncaster\nSouth Yorkshire\nDN1 2DJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.52126519999999,
+        "lon": -1.1245081
+      }
+    },
+    {
+      "name": "ESET UK",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/eset-uk",
+      "category": [
+        "Email security",
+        "Managed security services",
+        "Endpoint security",
+        "Incident response & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.eset.com/uk/",
+      "address": {
+        "text": "Ocean 80\n80 Holdenhurst Rd\nBournemouth\nDorset\nBH8 8AQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.7237083,
+        "lon": -1.8631898
+      }
+    },
+    {
+      "name": "Equilibrium Security Services",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/equilibrium-security-services-limited-f8pz",
       "category": [
         "Managed security services",
@@ -118,20 +253,55 @@
       }
     },
     {
-      "name": "Gemserv Limited",
+      "name": "Gemserv",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/gemserv-limited",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": [
+        "Awareness, training & education",
+        "Identification, authentication & access control management",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://gemserv.com",
+      "address": {
+        "text": "Gartmore House\n8 Fenchurch Place\nLondon\nEC3M 4AJ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5118935,
+        "lon": -0.0789845
+      }
+    },
+    {
+      "name": "Hanco Global Partnered with SOCRadar",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/hanco-global-solutions-partnered-soc-radar",
+      "category": [
+        "Incident response & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://hancoglobal.com",
+      "address": {
+        "text": "151 Technology House\nSilburty Boulevard\nMilton Keynes\nBucks\nMK9 1LH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0388503,
+        "lon": -0.7706451999999999
       }
     },
     {
       "name": "Heimdal Security UK",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/heimdal-security-uk-vurn",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "6th Floor (Beyond), Aldgate Tower\n2 Leman Street\nLondon\nE1 8FA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5147519,
+        "lon": -0.0722078
+      },
+      "category": [
+        "Application security",
+        "Email security",
+        "Managed security services",
+        "Endpoint security",
+        "Incident response & management"
+      ],
+      "website": "https://heimdalsecurity.com"
     },
     {
       "name": "IASME",
@@ -148,6 +318,36 @@
         "lat": 52.090038,
         "lon": -2.3401324
       }
+    },
+    {
+      "name": "Increase Your Skills",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/increase-skills",
+      "category": "Awareness, training & education",
+      "website": "https://increaseyourskills.com/en",
+      "address": {
+        "text": "Katharinenstraße 21\nLeipzig\nSaxony\n04277\nGermany",
+        "iso2": "DE",
+        "lat": 51.34278399999999,
+        "lon": 12.3746909
+      }
+    },
+    {
+      "name": "JUMPSEC",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/jumpsec",
+      "address": {
+        "text": "Unit 3E – 3F, 33 – 34 Westpoint, Warple Way\nActon\nLONDON\nW3 0RG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.504297,
+        "lon": -0.2553121
+      },
+      "category": [
+        "Application security",
+        "Managed security services",
+        "Incident response & management",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.jumpsec.com"
     },
     {
       "name": "KnowBe4",
@@ -168,10 +368,6 @@
     {
       "name": "Little Fish",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/little-fish",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      },
       "category": [
         "Managed security services",
         "Awareness, training & education",
@@ -179,15 +375,31 @@
         "Network security",
         "Threat intelligence, monitoring, detection & analysis"
       ],
-      "website": "https://www.littlefish.co.uk"
+      "website": "https://www.littlefish.co.uk",
+      "address": {
+        "text": "Price House\n37 Stoney St\nNottingham\nNG1 1LS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.9521729,
+        "lon": -1.1426393
+      }
     },
     {
       "name": "Livesilver Consulting",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/livesilver-consulting",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Level 33, Leadenhall Building\nLondon\nEngland\nEC3V 4AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.51386189999999,
+        "lon": -0.0823131
+      },
+      "category": [
+        "Application security",
+        "Control systems",
+        "Identification, authentication & access control management",
+        "Information risk assessment & management",
+        "SCADA (Supervisory Control And Data Acquisition) & Information control systems"
+      ],
+      "website": "http://www.livesilver.net"
     },
     {
       "name": "Maltego Technologies GmbH",
@@ -208,36 +420,131 @@
       "website": "https://www.maltego.com/about-us/"
     },
     {
-      "name": "Mitigate Cyber Limited",
-      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/mitigate-cyber-limited",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "name": "Meridian IT",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/meridian",
+      "address": {
+        "text": "Forward House\n17 High Street\nHenley-in-Arden\nWarwickshire\nB95 5AA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2964069,
+        "lon": -1.7778744
+      },
+      "category": [
+        "Application security",
+        "Managed security services",
+        "Endpoint security",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "http://www.themeridian.com"
+    },
+    {
+      "name": "National Crime Agency",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/national-crime-agency",
+      "category": [
+        "Awareness, training & education",
+        "Incident response & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://nationalcrimeagency.gov.uk",
+      "address": {
+        "text": "PO Box 58359\nLondon\nLondon\nNW1W 9LB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5072178,
+        "lon": -0.1275862
+      }
+    },
+    {
+      "name": "Nettitude",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/nettitude",
+      "category": [
+        "Managed security services",
+        "Endpoint security",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.nettitude.com",
+      "address": {
+        "text": "Nettitude\nJephson Court\nTancred Close\nLeamington Spa\nWarwickshire\nCV31 3RZ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2755557,
+        "lon": -1.5369057
+      }
+    },
+    {
+      "name": "Next Generation Security",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/next-generation-security",
+      "address": {
+        "text": "Business Cube\n2-7 Clerkenwell Green\nLondon\nEC1R 0DE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5230507,
+        "lon": -0.1044641
+      },
+      "category": [
+        "Managed security services",
+        "Awareness, training & education",
+        "Incident response & management",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://ngsuk.com"
+    },
+    {
+      "name": "Nine23",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/nine23",
+      "category": [
+        "Managed security services",
+        "Endpoint security",
+        "Identification, authentication & access control management",
+        "Information risk assessment & management",
+        "Network security"
+      ],
+      "website": "https://www.nine23.co.uk",
+      "address": {
+        "text": "2 Venture Road\nSouthampton University Science Park\nSouthampton\nSO16 7NP\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.9611593,
+        "lon": -1.4225166
       }
     },
     {
       "name": "OccamSec",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/occamsec",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "category": [
+        "Application security",
+        "Information risk assessment & management",
+        "Mobile security",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.occamsec.com",
+      "address": {
+        "text": "49 Greek Street\nLondon\nW1D 4EG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5140035,
+        "lon": -0.1310873
       }
     },
     {
       "name": "Orpheus",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/orpheus",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "19 Willow St, London EC2A 4BH\nLondon\nEC2A 4BH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5253706,
+        "lon": -0.08326009999999999
+      },
+      "category": [
+        "Identification, authentication & access control management",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://orpheus-cyber.com"
     },
     {
       "name": "Perimeter 81",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/perimeter-81",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      },
       "category": [
         "Managed security services",
         "Identification, authentication & access control management",
@@ -245,10 +552,16 @@
         "Network security",
         "Threat intelligence, monitoring, detection & analysis"
       ],
-      "website": "https://www.perimeter81.com"
+      "website": "https://www.perimeter81.com",
+      "address": {
+        "text": "13 Leonardo da Vinci St\nTel Aviv\n6453315\nIsrael",
+        "iso2": "IL",
+        "lat": 32.0742088,
+        "lon": 34.7844959
+      }
     },
     {
-      "name": "QA Ltd",
+      "name": "QA",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/qa-ltd",
       "address": {
         "text": "International House, 1st Floor\n1 St Katharines Way\nLondon\nE1W 1UN\nUnited Kingdom",
@@ -256,10 +569,17 @@
         "lat": 51.5075167,
         "lon": -0.0738037
       },
-      "website": "https://www.qa.com"
+      "category": [
+        "Application security",
+        "Awareness, training & education",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "SCADA (Supervisory Control And Data Acquisition) & Information control systems"
+      ],
+      "website": "https://www.qa.com/cyber"
     },
     {
-      "name": "Rights Chain Ltd",
+      "name": "Rights Chain",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/rights-chain",
       "address": {
         "text": "25 Hill Street\nc/o BE Advisors UK Ltd.\nLondon\nW1J 5LW\nUnited Kingdom",
@@ -277,8 +597,60 @@
       "website": "https://rightschain.net"
     },
     {
+      "name": "Riot Security Inc",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/riot-security-inc",
+      "category": "Awareness, training & education",
+      "website": "https://tryriot.com",
+      "address": {
+        "text": "Paris\nFrance",
+        "iso2": "FR",
+        "lat": 48.856614,
+        "lon": 2.3522219
+      }
+    },
+    {
+      "name": "SA Group",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/sa-group",
+      "address": {
+        "text": "SA Group Ltd, Newbury House\nAintree Avenue\nWhite Horse Business Park\nTrowbridge\nWiltshire\nBA14 0XB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3024233,
+        "lon": -2.199016
+      },
+      "category": [
+        "Application security",
+        "Managed security services",
+        "Awareness, training & education",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.sa-group.com"
+    },
+    {
+      "name": "SCADEMY Secure Coding Academy",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/scademy-secure-coding-academy",
+      "address": {
+        "text": "LOKOMOTIV \"B\" II. floor\nBudafoki út\n187-189\nBudapest\nBudapest\n1117\nHungary",
+        "iso2": "HU",
+        "lat": 47.455473,
+        "lon": 19.051485
+      },
+      "category": [
+        "Application security",
+        "Awareness, training & education",
+        "Network security"
+      ],
+      "website": "https://www.scademy.com"
+    },
+    {
       "name": "SenseOn",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/senseon",
+      "address": {
+        "text": "8 St James’ Square\nLondon\nSW1Y 4JU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5078483,
+        "lon": -0.1356575
+      },
       "category": [
         "Managed security services",
         "Endpoint security",
@@ -286,24 +658,25 @@
         "Network security",
         "Threat intelligence, monitoring, detection & analysis"
       ],
-      "website": "https://www.senseon.io",
-      "address": {
-        "text": "35 Luke Street\nLondon\nEC2A 4LH\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.5239497,
-        "lon": -0.0833672
-      }
+      "website": "https://www.senseon.io"
     },
     {
       "name": "Setyl",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/setyl",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "St James' House\n9-15 St James Road\nSurbiton\nLondon\nKT6 4QH\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.3933429,
+        "lon": -0.3047185
+      },
+      "category": [
+        "Managed security services",
+        "Endpoint security"
+      ],
+      "website": "https://www.setyl.com"
     },
     {
-      "name": "Socura Limited",
+      "name": "Socura",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/socura-limited",
       "country": {
         "text": "United Kingdom",
@@ -334,7 +707,23 @@
       "website": "https://sosafe-awareness.com"
     },
     {
-      "name": "TecSec Services Ltd",
+      "name": "Stamus Networks LLC",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/stamus-networks-llc",
+      "address": {
+        "text": "450 E. 96th St., Suite 500\nIndianapolis\nIndiana\n46240\nUnited States",
+        "iso2": "US",
+        "lat": 39.9283287,
+        "lon": -86.1504301
+      },
+      "category": [
+        "Incident response & management",
+        "Network security",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "http://www.stamus-networks.com"
+    },
+    {
+      "name": "TecSec Services",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/tecsec-services",
       "address": {
         "text": "St. James House\nVicar Lane\nSheffield\nSouth Yorkshire\nS1 2EX\nUnited Kingdom",
@@ -370,6 +759,10 @@
       "website": "https://www.techvets.co"
     },
     {
+      "name": "Thales",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/thales"
+    },
+    {
       "name": "The 848 Group",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/848-group",
       "category": [
@@ -388,7 +781,7 @@
       }
     },
     {
-      "name": "Think Cyber Security Limited",
+      "name": "Think Cyber Security",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/think-cyber-security-limited",
       "address": {
         "text": "20-22 Wenlock Road\nLondon\nLondon\nN1 7GU\nUnited Kingdom",
@@ -404,11 +797,39 @@
       "website": "https://thinkcyber.co.uk"
     },
     {
-      "name": "Trident Search Ltd",
+      "name": "Trident Search",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/trident-search",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "The Ministry\n79-81 Borough Road\nLondon\nSE1 1DN\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4989639,
+        "lon": -0.0983062
+      },
+      "category": [
+        "Managed security services",
+        "Awareness, training & education",
+        "Incident response & management",
+        "Information risk assessment & management",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.tridentsearch.co.uk"
+    },
+    {
+      "name": "Vysiion",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/vysiion",
+      "category": [
+        "Endpoint security",
+        "Identification, authentication & access control management",
+        "Network security",
+        "SCADA (Supervisory Control And Data Acquisition) & Information control systems",
+        "Threat intelligence, monitoring, detection & analysis"
+      ],
+      "website": "https://www.vysiion.co.uk",
+      "address": {
+        "text": "Jenner House\nAvon Way\nLangley Park\nChippenham\nWiltshire\nSN15 1GG\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4683481,
+        "lon": -2.1082772
       }
     },
     {
