@@ -26,7 +26,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/",
-  "exhibitorListDate": "2023-03-15T09:33:46+00:00",
+  "exhibitorListDate": "2023-06-02T12:03:16+00:00",
   "exhibitor": [
     {
       "name": "3DX-RAY Ltd",
@@ -1865,7 +1865,10 @@
         "lon": -0.8741179
       },
       "telephone": "+44 1428 751655",
-      "website": "www.ems-imo.com & www.ems-uk.com"
+      "website": [
+        "www.ems-imo.com",
+        "www.ems-uk.com"
+      ]
     },
     {
       "name": "Emergency Services Times",
@@ -3169,11 +3172,12 @@
       "name": "MindLink Software",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/mindlink-software/",
       "address": {
-        "text": "SE23 1JS",
+        "text": "London\nSE23 1JS\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.44868959999999,
         "lon": -0.0415742
-      }
+      },
+      "website": "www.mindlinksoft.com"
     },
     {
       "name": "Mitie",
@@ -3235,6 +3239,17 @@
       },
       "telephone": "+44 2476 702802",
       "website": "www.npaerospace.com"
+    },
+    {
+      "name": "NW PRO",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/nw-pro/",
+      "address": {
+        "text": "Innovation House, Holly Farm Barn\nBedford\nMK45 5EA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0680446,
+        "lon": -0.4714140000000001
+      },
+      "website": "www.nwpro.biz"
     },
     {
       "name": "National CBRN Centre",
@@ -3554,7 +3569,10 @@
         "lon": -0.7721766000000001
       },
       "telephone": "+44 7752 464760",
-      "website": "https://eu.connect.panasonic.com/gb/en www.panasonic.co.uk/lumix"
+      "website": [
+        "https://eu.connect.panasonic.com/gb/en",
+        "www.panasonic.co.uk/lumix"
+      ]
     },
     {
       "name": "Panoptech",
@@ -4141,7 +4159,15 @@
     },
     {
       "name": "Sayari",
-      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/sayari/"
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/sayari/",
+      "address": {
+        "text": "829 7th Street Northwest, Floor 3\nWashington\n20001\nUnited States",
+        "iso2": "US",
+        "lat": 38.9006109,
+        "lon": -77.02169529999999
+      },
+      "telephone": "+1 (120) 262-1982",
+      "website": "https://sayari.com"
     },
     {
       "name": "Scanna Msc Ltd",
@@ -4811,6 +4837,18 @@
       "website": "www.trasco-bremen.de"
     },
     {
+      "name": "Trilateral Research",
+      "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/trilateral-research/",
+      "address": {
+        "text": "One Knightsbridge Green\nLondon\nSW1X 7QA\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.5009173,
+        "lon": -0.1625255
+      },
+      "telephone": "+44 7977 203704",
+      "website": "https://trilateralresearch.com"
+    },
+    {
       "name": "Triple Audio",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/triple-audio/",
       "category": [
@@ -5242,7 +5280,7 @@
       "name": "netsearch s.r.o.",
       "exhibitorUrl": "https://www.securityandpolicing.co.uk/exhibitors/exhibitors-list-2023/netsearch/",
       "address": {
-        "text": "Palackho 437/17\nProstjov\n796 01\nCzech Republic",
+        "text": "Palackeho 437/17\nProstjov\n796 01\nCzech Republic",
         "iso2": "CZ",
         "lat": 49.4710888,
         "lon": 17.1071982
