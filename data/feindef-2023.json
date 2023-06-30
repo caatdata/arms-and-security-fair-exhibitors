@@ -12,7 +12,7 @@
   },
   "website": "http://feindef.com",
   "exhibitorListUrl": "https://feindef.com/index.php/en/exhibitors/2023-exhibitors-list",
-  "exhibitorListDate": "2023-06-02T12:30:09+00:00",
+  "exhibitorListDate": "2023-06-30T08:40:30+00:00",
   "exhibitor": [
     {
       "name": "80% ELÉCTRICO",
@@ -30,7 +30,13 @@
     {
       "name": "A. PAUKNER S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-a-paukner-s-a-en",
-      "address": "Pza. Manuel Gómez Moreno s/n",
+      "address": {
+        "text": "Pza. Manuel Gómez Moreno s/n 28020 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4478322,
+        "lon": -3.6946796
+      },
+      "telephone": "+34 915982300",
       "email": "defensa@pauknergroup.com",
       "website": "www.pauknergroup.com"
     },
@@ -50,7 +56,15 @@
     {
       "name": "ABACO SYSTEMS - AMETEK",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-abaco-systems-ametek-en",
-      "address": "Bat D, rondpoint de l’épine des champs"
+      "address": {
+        "text": "Bat D, rondpoint de l’épine des champs 78990 Elancourt.\nFrance",
+        "iso2": "FR",
+        "lat": 48.795313,
+        "lon": 1.9817046
+      },
+      "telephone": "+33 (0) 6-4678-4678",
+      "email": "Ahmed.Razzak@ametek.com",
+      "website": "www.abaco.com"
     },
     {
       "name": "ABANCE INGENIERIA Y SERVICIOS",
@@ -76,16 +90,19 @@
       },
       "telephone": "+34 91 500 78 61 - +34 649 871 763 - +34 691 813 284",
       "email": "Pedro.morata@abconex.es & nuno.neves@abconex.es",
-      "website": "www.abconex.es"
+      "website": [
+        "www.abconex.es",
+        "www.conexionlider.com"
+      ]
     },
     {
       "name": "ABRARESIST",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-abraresist-en",
       "address": {
-        "text": "Calle Jara 5 C\nEspaña",
+        "text": "Calle Jara 5 C 28440 – GUADARRAMA (Madrid)\nEspaña",
         "iso2": "ES",
-        "lat": 37.6284801,
-        "lon": -1.0002654
+        "lat": 40.6627939,
+        "lon": -4.0798871
       },
       "telephone": "+34 918573581",
       "email": "contact@abraresist.com",
@@ -95,11 +112,14 @@
       "name": "ACCENTURE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-accenture-en",
       "address": {
-        "text": "P.º de la Castellana, 85",
+        "text": "P.º de la Castellana, 85 28046 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.44839630000001,
         "lon": -3.691961799999999
-      }
+      },
+      "telephone": "+34 915 96 60 00",
+      "email": "lucia.lopez.olivares@accenture.com",
+      "website": "https://www.accenture.es"
     },
     {
       "name": "ACITURRI Y ALESTIS AEROSPACE",
@@ -110,8 +130,12 @@
         "lat": 42.6938983,
         "lon": -2.9151108
       },
-      "telephone": "+34 947 05 90 00",
-      "email": "yolanda.garcia@aciturri.com"
+      "telephone": "+34 947 05 90 00 +34 955 34 30 20",
+      "email": "yolanda.garcia@aciturri.com ana.faet@alestis.aero",
+      "website": [
+        "www.aciturri.com",
+        "www.alestis.aero"
+      ]
     },
     {
       "name": "ACK3 CONSULTORIA DE RIESGOS GLOBALES SL",
@@ -143,36 +167,53 @@
       "name": "ACR CASES & CONTAINERS – NANUK",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-acr-cases-containers-nanuk-en",
       "address": {
-        "text": "Ctra. N-634 Km. 327",
+        "text": "Ctra. N-634 Km. 327 33560 Ribadesella- Asturias\nEspaña",
         "iso2": "ES",
         "lat": 43.3496415,
         "lon": -5.3308493
-      }
+      },
+      "telephone": "+34 985861551",
+      "email": "mcuesta@acrcases.com",
+      "website": "www.acrcases.com"
     },
     {
       "name": "ADARO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-adaro-en",
-      "address": "Jimena Fernández de la Vega 38"
+      "address": {
+        "text": "Jimena Fernández de la Vega 38 33203, Gijón\nEspaña",
+        "iso2": "ES",
+        "lat": 43.5218123,
+        "lon": -5.610004099999999
+      },
+      "telephone": "+34 985 347 806",
+      "email": "info@adaro.es",
+      "website": "www.adaro.es"
     },
     {
       "name": "ADVANCED NAVIGATION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-advanced-navigation-en",
       "address": {
-        "text": "255 George Street",
+        "text": "255 George Street Sydney, NSW, 2000\nAustralia",
         "iso2": "AU",
-        "lat": -33.8638225,
-        "lon": 151.2070568
-      }
+        "lat": -33.8636715,
+        "lon": 151.2071551
+      },
+      "telephone": "+61 2 9099 3800",
+      "email": "sales@advancednavigation.com",
+      "website": "www.advancednavigation.com"
     },
     {
       "name": "ADVANCED TOPOGRAPHIC DEVELOPMENT AND IMAGES LTD (ATDI)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-advanced-topographic-development-and-images-ltd-atdi-en",
       "address": {
-        "text": "11 Old Jewry",
+        "text": "11 Old Jewry London, EC2R 8DU\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.5143834,
         "lon": -0.09067839999999999
-      }
+      },
+      "telephone": "+44 7483391926",
+      "email": "sarah.sasson@atdi-group.com",
+      "website": "www.atdi.com"
     },
     {
       "name": "AERNNOVA AEROSPACE",
@@ -183,7 +224,9 @@
         "lat": 42.9105139,
         "lon": -2.6641496
       },
-      "telephone": "+34 945 185 600"
+      "telephone": "+34 945 185 600",
+      "email": "general@aernnova.com",
+      "website": "www.aernnova.com"
     },
     {
       "name": "AERTEC",
@@ -215,21 +258,27 @@
       "name": "AGENCIA DE SEGURIDAD Y EMERGENCIAS MADRID 112 – O.A. MADRID 112",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-agencia-de-seguridad-y-emergencias-madrid-112-o-a-madrid-112-en",
       "address": {
-        "text": "Paseo del Rio, 1",
-        "iso2": "US",
-        "lat": 35.0279954,
-        "lon": -106.6665996
-      }
+        "text": "Paseo del Rio, 1 28223 Pozuelo de Alarcón - Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4218153,
+        "lon": -3.804393799999999
+      },
+      "telephone": "+34 917 089 120",
+      "email": "imagen@madrid112.es",
+      "website": "https://www.comunidad.madrid/servicios/112/"
     },
     {
       "name": "AGLOWLIGHT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-aglowlight-en",
       "address": {
-        "text": "Calle Johannes Kepler, 29590 Málaga - Johannes Kepler str",
+        "text": "Calle Johannes Kepler, 29590 Málaga - Johannes Kepler str 29590 Málaga\nEspaña",
         "iso2": "ES",
         "lat": 36.7333949,
         "lon": -4.5429813
-      }
+      },
+      "telephone": "+34 652764824",
+      "email": "aglowlight@aglowlight.com",
+      "website": "www.aglowlight.com"
     },
     {
       "name": "AICOX SOLUCIONES S.A.",
@@ -253,17 +302,34 @@
         "lat": 52.16456530000001,
         "lon": 4.4707497
       },
-      "telephone": "Contact"
+      "email": "serena.dimartino@airbus.com",
+      "website": "www.airbus.com"
     },
     {
       "name": "AIRTIFICIAL AEROSPACE & DEFENSE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-airtificial-aerospace-defense-en",
-      "address": "P.E. Aerópolis, C/Juan Olivert, 24"
+      "address": {
+        "text": "P.E. Aerópolis, C/Juan Olivert, 24 41300, La Rinconada, Sevilla\nEspaña",
+        "iso2": "ES",
+        "lat": 37.4345731,
+        "lon": -5.8588774
+      },
+      "telephone": "+95 418 90 10",
+      "email": "ad.sales@airtificial.com",
+      "website": "https://airtificial.com"
     },
     {
       "name": "AISTER ALUMINIUM SHIPYARD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-aister-aluminium-shipyard-en",
-      "address": "Baixada do Cocho, 228"
+      "address": {
+        "text": "Baixada do Cocho, 228 36955 Moaña\nEspaña",
+        "iso2": "ES",
+        "lat": 42.30061260000001,
+        "lon": -8.7123309
+      },
+      "telephone": "+34 986 240 294",
+      "email": "contact@aister.es",
+      "website": "www.aister.com"
     },
     {
       "name": "AITOR KNIVES",
@@ -282,37 +348,56 @@
       "name": "AKKODIS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-akkodis-en",
       "address": {
-        "text": "Calle Martínez Villergas 52, Bloque C, planta 4",
+        "text": "Calle Martínez Villergas 52, Bloque C, planta 4 28027 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4454338,
         "lon": -3.6565952
-      }
+      },
+      "telephone": "+34 685281556",
+      "email": "cristina.mayor-martin@akkodis.com",
+      "website": "www.akkodis.com"
     },
     {
       "name": "ALCAR ESTUDIO ARQUITECTURA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-alcar-estudio-arquitectura-en",
       "address": {
-        "text": "Calle Los Chopos 12, 2c",
+        "text": "Calle Los Chopos 12, 2c 14006 Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.8977945,
         "lon": -4.781490600000001
-      }
+      },
+      "telephone": "+34 675863211",
+      "email": "josalccar@gmail.com",
+      "website": [
+        "Estudio",
+        "Arquitectura"
+      ]
     },
     {
       "name": "ALCUPLA S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-alcupla-s-a-en",
-      "address": "Pol. Ind. El Pla Parc. 14 C Nave III"
+      "address": {
+        "text": "Pol. Ind. El Pla Parc. 14 C Nave III 46290 Alcacer – Valencia\nEspaña",
+        "iso2": "ES",
+        "lat": 39.3768239,
+        "lon": -0.44552
+      },
+      "telephone": "+34 96 124 28 32",
+      "email": "diegoaceituno@alcupla.com",
+      "website": "www.alcupla.com"
     },
     {
       "name": "ALFA BIENES Y SERVICIOS, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-alfa-bs-en",
       "address": {
-        "text": "Avda. Reina Victoria, 26. Edificio Los Negrales. Of. 13",
+        "text": "Avda. Reina Victoria, 26. Edificio Los Negrales. Of. 13 28430 Alpedrete, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.6382793,
         "lon": -4.0241901
       },
-      "email": "administracion@alfabs.es"
+      "telephone": "+34 91 000 57 51",
+      "email": "administracion@alfabs.es pedro@alfabs.es",
+      "website": "www.alfabs.es"
     },
     {
       "name": "ALFA ESCUELA DE LÍDERES",
@@ -336,7 +421,11 @@
         "lon": -3.693697299999999
       },
       "telephone": "+34 910 200 000",
-      "email": "Jorgina.diaz@alisys.net"
+      "email": "Jorgina.diaz@alisys.net info@alisys.net",
+      "website": [
+        "www.alisysrobotics.com",
+        "www.alisys.net"
+      ]
     },
     {
       "name": "ALPHA UNMANNED S.L.",
@@ -367,7 +456,15 @@
     {
       "name": "ALTAIX ELECTRÓNICA, S.A",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-altaix-electronica-en",
-      "address": "C/Colquide, 6. Edificio Prisma. Portal 2, 3ºB"
+      "address": {
+        "text": "C/Colquide, 6. Edificio Prisma. Portal 2, 3ºB Las Rozas de Madrid. 28231 MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4996776,
+        "lon": -3.8748373
+      },
+      "telephone": "+34 91 636 39 39",
+      "email": "info@altaix.com",
+      "website": "www.altaix.com"
     },
     {
       "name": "ALUFASE S.A",
@@ -386,21 +483,25 @@
       "name": "ALUSÍN TECNOLOGÍA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-alusin-tecnologia-en",
       "address": {
-        "text": "Avda. del Zinc 11, P.E.P.A.",
+        "text": "Avda. del Zinc 11, P.E.P.A. 33490 Avilés (Asturias)\nEspaña",
         "iso2": "ES",
         "lat": 43.5571231,
         "lon": -5.9034001
-      }
+      },
+      "telephone": "+34 661713178 +34 985514068",
+      "email": "direccion.comercial@alusin.es javier.maniega@alusin.es info@alusin.es",
+      "website": "www.alusin.es"
     },
     {
       "name": "AMAZON WEB SERVICES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-amazon-web-services-en",
       "address": {
-        "text": "Paseo de la Castellana, 259A. Planta 11",
+        "text": "Paseo de la Castellana, 259A. Planta 11 28046 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4756425,
-        "lon": -3.6877199
+        "lat": 40.4781919,
+        "lon": -3.6874821
       },
+      "telephone": "+34 618270645",
       "email": "albduena@amazon.es",
       "website": "https://aws.amazon.com/es/"
     },
@@ -420,48 +521,67 @@
     {
       "name": "AMPHENOL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-amphenol-corporation-en",
+      "address": {
+        "text": "Amphenol World Headquarters 358 Hall Avenue Wallingford, CT 06492, USA\nUSA",
+        "iso2": "US",
+        "lat": 41.4607871,
+        "lon": -72.83307169999999
+      },
       "telephone": "+34 650 610 870",
       "email": "j.fernandez@amphenol-roe.eu",
-      "website": "https://amphenol.com",
-      "country": {
-        "text": "Amphenol World Headquarters\nUSA",
-        "iso2": "US"
-      }
+      "website": "https://amphenol.com"
     },
     {
       "name": "ANSCHÜTZ GMBH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-anschuetz-gmbh-en",
       "address": {
-        "text": "Zeyestrasse 16-24",
+        "text": "Zeyestrasse 16-24 24106 Kiel\nGermany",
         "iso2": "DE",
         "lat": 54.3619795,
         "lon": 10.1422148
-      }
+      },
+      "telephone": "+49 (0)431 3019-585",
+      "email": "Hernan.Benitez@anschuetz.com",
+      "website": "www.anschuetz.com"
     },
     {
       "name": "APPLUS+ LABORATORIES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-applus-laboratories-en",
       "address": {
-        "text": "Campus UAB - Ronda de la Font del Carme s/n",
+        "text": "Campus UAB - Ronda de la Font del Carme s/n 08193 Bellaterra (Barcelona)\nEspaña",
         "iso2": "ES",
         "lat": 41.5015523,
         "lon": 2.1096005
-      }
+      },
+      "telephone": "+34 935 67 20 00",
+      "email": "alvaro.carballo@applus.com",
+      "website": "www.appluslaboratories.com"
     },
     {
       "name": "AQUALUNG ESPAÑA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-aqualung-espana-en",
       "address": {
-        "text": "Avenida de la Antigua Peseta, 145 - Pol. Ind. Las Atalayas",
+        "text": "Avenida de la Antigua Peseta, 145 - Pol. Ind. Las Atalayas 03114 ALICANTE\nEspaña",
         "iso2": "ES",
         "lat": 38.3355749,
         "lon": -0.5614566999999999
-      }
+      },
+      "telephone": "+34 673 598 717",
+      "email": "vmartinez@aqualung.com",
+      "website": "https://milproaqualung.com"
     },
     {
       "name": "ARAGON PHOTONICS LABS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-aragon-photonics-labs-en",
-      "address": "C/ Prado 5, local"
+      "address": {
+        "text": "C/ Prado 5, local 50009 Zaragoza\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6313856,
+        "lon": -0.9100233999999999
+      },
+      "telephone": "+34 976 35 99 72",
+      "email": "marketing@aragonphotonics.com",
+      "website": "www.aragonphotonics.com"
     },
     {
       "name": "ARASAF INDUSTRIAL SL.",
@@ -480,41 +600,52 @@
       "name": "ARMADA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-armada-en",
       "address": {
-        "text": "Montalbán, 2",
-        "iso2": "VE",
-        "lat": 10.4742299,
-        "lon": -66.9545065
-      }
+        "text": "Montalbán, 2 28014 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4156747,
+        "lon": -3.6952896
+      },
+      "email": "comunicacion@fn.mde.es",
+      "website": "https://armada.defensa.gob.es"
     },
     {
       "name": "ARPA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-arpa-en",
       "address": {
-        "text": "Pol. Centrovía C/ La Habana, 25",
+        "text": "Pol. Centrovía C/ La Habana, 25 La Muela, 50198\nEspaña",
         "iso2": "ES",
         "lat": 41.6141315,
         "lon": -1.0648468
-      }
+      },
+      "telephone": "+34 976 144 770",
+      "email": "comercial@arpaemc.com",
+      "website": "www.arpaemc.com"
     },
     {
       "name": "ARQUIMEA AEROSPACE DEFENCE AND SECURITY,S.L.U",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-arquimea-en",
       "address": {
-        "text": "Calle Margarita Salas, Nº 10",
+        "text": "Calle Margarita Salas, Nº 10 28919 Leganés, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.3533535,
         "lon": -3.7469607
-      }
+      },
+      "telephone": "+34 916 89 80 94",
+      "email": "bfrutos@arquimea.com",
+      "website": "www.arquimea.com"
     },
     {
       "name": "ARSOFT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-arsoft-en",
       "address": {
-        "text": "Calle del Adaja 10",
+        "text": "Calle del Adaja 10 17185, Villamayor (Salamanca)\nEspaña",
         "iso2": "ES",
         "lat": 40.9952735,
         "lon": -5.719698999999999
-      }
+      },
+      "telephone": "+34 923 040 031 +34 644 236 306",
+      "email": "info@arsoft-company.com",
+      "website": "www.arsoft-company.com"
     },
     {
       "name": "ASEMECO. ASOCIACIÓN EMPRESARIOS METAL MECÁNICO, TECNOLÓGICO Y DIGITAL DE CÓRDOBA",
@@ -545,17 +676,31 @@
     {
       "name": "ASOCIACION EMPRESARIAL CENTRO TECNOLOGICO DEL METAL DE LA REGION DE MURCIA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-asociacion-empresarial-centro-tecnologico-del-metal-de-la-region-de-murcia-en",
-      "address": "Avda. Descubrimiento 15. P.I Oeste"
+      "address": {
+        "text": "Avda. Descubrimiento 15. P.I Oeste 30169 San Gines Murcia\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9564718,
+        "lon": -1.1977726
+      },
+      "telephone": "+34 968 897065",
+      "email": "jlfuster@ctmetal.es",
+      "website": "www.ctmetal.es"
     },
     {
       "name": "ASOCIACION REDCOMERCIO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-asociacion-redcomercio-en",
       "address": {
-        "text": "Pza Vizconde de Miranda 2, casa 16",
+        "text": "Pza Vizconde de Miranda 2, casa 16 14002 - Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.8830453,
         "lon": -4.770068699999999
-      }
+      },
+      "telephone": "+34 606555701 +34 600727212",
+      "email": "redcomercionet@gmail.com",
+      "website": [
+        "https://www.redcomercio.org/#/",
+        "https://www.tetravol.com"
+      ]
     },
     {
       "name": "ASOCIACIÓN PROFESIONAL DE INDUSTRIALES ELECTRICISTAS Y TELECOMUNICACIONES DE CÓRDOBA Y PROVINCIA",
@@ -579,7 +724,8 @@
         "lat": 50.6995659,
         "lon": 15.0938301
       },
-      "telephone": "+420 488 100 300",
+      "telephone": "+420 488 100 300 +420 737 962 397",
+      "email": "k.bucharova@asphericon.cz sales@asphericon.cz",
       "website": "www.asphericon.cz"
     },
     {
@@ -599,21 +745,27 @@
       "name": "ASTURIAS HUB DEFENSA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-asturias-hub-defensa-en",
       "address": {
-        "text": "Calle Profesor Potter, 72 Edificio 15 - AS5HUB",
+        "text": "Calle Profesor Potter, 72 Edificio 15 - AS5HUB 33203, Gijón\nEspaña",
         "iso2": "ES",
         "lat": 43.5221356,
         "lon": -5.6127107
-      }
+      },
+      "telephone": "+34663865334",
+      "email": "secretaria@asturiashubdefensa.com",
+      "website": "www.asturiashubdefensa.com"
     },
     {
       "name": "ATL EUROPA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-atl-europa-en",
       "address": {
-        "text": "Calle Carbón, 17",
+        "text": "Calle Carbón, 17 28918 Leganés, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.3481985,
         "lon": -3.7995779
-      }
+      },
+      "telephone": "+34 916106880",
+      "email": "info@atleuropa.es",
+      "website": "http://www.atleuropa.es"
     },
     {
       "name": "AUDIOBUS",
@@ -632,11 +784,14 @@
       "name": "AUNAV",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-aunav-en",
       "address": {
-        "text": "Ctra. Nacional 240, Km 134,5",
+        "text": "Ctra. Nacional 240, Km 134,5 22500 Binéfar, Huesca, Spain\nEspaña",
         "iso2": "ES",
-        "lat": 41.6762184,
-        "lon": 0.5011768
-      }
+        "lat": 41.8418763,
+        "lon": 0.2906228
+      },
+      "telephone": "+34 608204151",
+      "email": "Josep.sola.raurell@aunav.com",
+      "website": "http://www.aunav.com"
     },
     {
       "name": "AUTEK INGENIERIA S.L.",
@@ -666,11 +821,14 @@
       "name": "AUZIKER",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-auziker-en",
       "address": {
-        "text": "Edificio Rectorado, Campus de Bizkaia, Barrio Sarriena, S/N, Leioa",
+        "text": "Edificio Rectorado, Campus de Bizkaia, Barrio Sarriena, S/N, Leioa 48910, Bizkaia\nEspaña",
         "iso2": "ES",
-        "lat": 43.3343636,
-        "lon": -2.9853687
-      }
+        "lat": 43.3071403,
+        "lon": -3.0000604
+      },
+      "telephone": "+34 617279254",
+      "email": "ainhoa.isla@auziker.com",
+      "website": "www.auziker.com"
     },
     {
       "name": "AVEC CHEM S.R.O.",
@@ -689,11 +847,14 @@
       "name": "AVIENT PROTECTIVE MATERIALS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-avient-protective-materials-en",
       "address": {
-        "text": "Urmonderbaan 22",
+        "text": "Urmonderbaan 22 6167 RD, Geleen\nNetherlands",
         "iso2": "NL",
-        "lat": 50.9854499,
-        "lon": 5.793052299999999
-      }
+        "lat": 50.9843114,
+        "lon": 5.7878671
+      },
+      "telephone": "+31 631965509",
+      "email": "madalina.natutavares@avient.com",
+      "website": "www.dyneema.com"
     },
     {
       "name": "AVINCIS AVIATION",
@@ -705,27 +866,47 @@
         "lon": -0.4744114
       },
       "telephone": "+34 699651349",
+      "email": "Carlos.zori@avincis.eu gema.martindelburgo@avincis.eu",
       "website": "www.avincis.com"
     },
     {
       "name": "AXON CABLE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-axon-cable-en",
       "address": {
-        "text": "2, route de Châlons en Champagne",
+        "text": "2, route de Châlons en Champagne 51210 MONTMIRAIL\nFrance",
         "iso2": "FR",
-        "lat": 49.1946439,
-        "lon": 4.140525999999999
-      }
+        "lat": 48.872349,
+        "lon": 3.5580421
+      },
+      "telephone": "+33 326 81 72 40",
+      "email": "L.DeSoultrait@axon-cable.com",
+      "website": "www.axon-cable.com"
     },
     {
       "name": "AYUNTAMIENTO DE CÓRDOBA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ayuntamiento-de-cordoba-en",
-      "address": "Capitulares, 1"
+      "address": {
+        "text": "Capitulares, 1 14001 Córdoba.\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8850438,
+        "lon": -4.7763592
+      },
+      "telephone": "+34 957 49 99 00 Ext 17096 / 17213",
+      "email": "Reactivacioneconomica@ayuncordoba.es",
+      "website": "www.cordoba.es"
     },
     {
       "name": "AYUNTAMIENTO DE GETAFE - GISA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-getafe-iniciativas-s-a-m-en",
-      "address": "C/PADRE BLANCO 2"
+      "address": {
+        "text": "C/PADRE BLANCO 2 GETAFE (MADRID)\nEspaña",
+        "iso2": "ES",
+        "lat": 40.30676,
+        "lon": -3.73407
+      },
+      "telephone": "+34 916653620",
+      "email": "gerencia@getafeiniciativas.es",
+      "website": "www.getafeiniciativas.es"
     },
     {
       "name": "AZIMUT",
@@ -770,23 +951,27 @@
       "name": "BAUBLOCK",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-baublock-en",
       "address": {
-        "text": "Calle Albert Einstein, 21, Polígono Las Salinas de Poniente",
+        "text": "Calle Albert Einstein, 21, Polígono Las Salinas de Poniente Puerto de Santa Maria. Cádiz\nEspaña",
         "iso2": "ES",
-        "lat": 37.4035603,
-        "lon": -6.0052678
-      }
+        "lat": 36.61122599999999,
+        "lon": -6.199834
+      },
+      "telephone": "+34 956 92 64 51",
+      "email": "rv@baublock.com",
+      "website": "https://baublock.com"
     },
     {
       "name": "BAUER KOMPRESSOREN IBÉRICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-bauer-kompressoren-iberica-en",
       "address": {
-        "text": "Polígono Industrial Sesrovires, C/ Ricardo de la Cierva, 54\nEspaña",
+        "text": "Polígono Industrial Sesrovires, C/ Ricardo de la Cierva, 54 08635 Sant Esteve Sesrovires Barcelona\nEspaña",
         "iso2": "ES",
         "lat": 41.4977786,
         "lon": 1.8695787
       },
-      "telephone": "+34 678 404 225",
-      "email": "t.perez@bauer-kompressoren.de"
+      "telephone": "+34 678 404 225 +34 672 217 287",
+      "email": "t.perez@bauer-kompressoren.de n.maidero@bauer-kompressoren.es",
+      "website": "https://www.bauer-kompressoren.de/es"
     },
     {
       "name": "BERTEN DSP S.L.",
@@ -805,21 +990,27 @@
       "name": "BETA IBERIA SL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-beta-en",
       "address": {
-        "text": "Avda. de Castilla, 26, Nave 4",
+        "text": "Avda. de Castilla, 26, Nave 4 28830 San Fernando de Henares (MADRID)\nEspaña",
         "iso2": "ES",
         "lat": 40.4533119,
         "lon": -3.5004005
-      }
+      },
+      "telephone": "+34 91 677 83 40",
+      "email": "diana.garcia@beta-tools.com",
+      "website": "www.beta-tools.es"
     },
     {
       "name": "BEZZIER",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-bezzier-en",
       "address": {
-        "text": "Parque Científico Tecnológico -Edificio Bezzier",
+        "text": "Parque Científico Tecnológico -Edificio Bezzier 33203 GIJON\nEspaña",
         "iso2": "ES",
         "lat": 43.5218128,
         "lon": -5.610684399999999
-      }
+      },
+      "telephone": "+34 985175127",
+      "email": "marketing@bezzier.com",
+      "website": "www.bezzier.com"
     },
     {
       "name": "BIBUS SPAIN",
@@ -838,11 +1029,12 @@
       "name": "BIOMETRIC VOX",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-biometric-vox-en",
       "address": {
-        "text": "CALLE GABRIEL GARCIA MARQUEZ (ESPINARDO), S/N – BJ.",
+        "text": "CALLE GABRIEL GARCIA MARQUEZ (ESPINARDO), S/N – BJ. CP:30.100\nEspaña",
         "iso2": "ES",
         "lat": 38.0072499,
         "lon": -1.159227
       },
+      "telephone": "+34 649 13 24 38 +34 868 12 47 37",
       "email": "magarcia@biometricvox.com",
       "website": "www.biometricvox.com"
     },
@@ -850,32 +1042,40 @@
       "name": "BLANCH INTERNACIONAL Y ASOCIADOS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-blanch-internacional-en",
       "address": {
-        "text": "CALLE REYES CATOLICOS 6 NAVE 201",
+        "text": "CALLE REYES CATOLICOS 6 NAVE 201 28108 ALCOBENDAS-MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.5371743,
         "lon": -3.652620499999999
-      }
+      },
+      "telephone": "(+34) 91 740 00 59",
+      "email": "pablo@blanch-internacional.com",
+      "website": "www.blanch-internacional.com"
     },
     {
       "name": "BLUEMING BIOTECH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-blueming-biotech-en",
       "address": {
-        "text": "Av. del Taibilla, 1",
+        "text": "Av. del Taibilla, 1 30740 San Pedro del Pinatar, Murcia\nEspaña",
         "iso2": "ES",
         "lat": 37.8349809,
         "lon": -0.7954605
-      }
+      },
+      "telephone": "+34 653017963",
+      "email": "info@bluemingbiotech.com",
+      "website": "http://bluemingbiotech.com"
     },
     {
       "name": "BODEGAS VALTRAVIESO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-bodegas-valtravieso-en",
       "address": {
-        "text": "FINCA LA REVILLA S/N\nEspaña",
+        "text": "FINCA LA REVILLA S/N 47316 PIÑEL DE ARRIBA VALLADOLID\nEspaña",
         "iso2": "ES",
-        "lat": 42.0127709,
-        "lon": -3.3310426
+        "lat": 41.6988393,
+        "lon": -4.1280287
       },
-      "telephone": "+34 983484012"
+      "telephone": "+34 983484012 +34 636828640",
+      "email": "pablogonzalez@valtravieso.com",
+      "website": "www.valtravieso.com"
     },
     {
       "name": "BREN-TRONICS",
@@ -899,17 +1099,22 @@
         "lat": 40.5317772,
         "lon": -3.6471803
       },
-      "telephone": "+34 955 762 933 Ext. 182"
+      "telephone": "+34 955 762 933 Ext. 182 +34 692 952 903",
+      "email": "info@bulnesmba.com",
+      "website": "www.bulnesengineering.com"
     },
     {
       "name": "CABLE AND TUBING SOLUTIONS GMBH (CTS)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cable-and-tubing-solutions-gmbh-en",
       "address": {
-        "text": "Cable & Tubing Solutions GmbH, Hinter der Schmiede 10,",
+        "text": "Cable & Tubing Solutions GmbH, Hinter der Schmiede 10, DE-72401 Haigerloch Tel: +49 (0) 74 74 - 27 82\nGermany",
         "iso2": "DE",
-        "lat": 48.3864239,
-        "lon": 8.8455326
-      }
+        "lat": 48.3667098,
+        "lon": 8.7919702
+      },
+      "telephone": "+49 (0) 74 74 - 27 82",
+      "email": "yanvolking@cabletubingsolutions.com",
+      "website": "www.cabletubingsolutions.com"
     },
     {
       "name": "CADAMADRID",
@@ -928,7 +1133,7 @@
       "name": "CANARD DRONES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-canard-drones-en",
       "address": {
-        "text": "Av. Gregorio Peces Barba, 1",
+        "text": "Av. Gregorio Peces Barba, 1 28919 Leganés, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.3545473,
         "lon": -3.7445008
@@ -940,21 +1145,27 @@
       "name": "CAPGEMINI ESPAÑA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-capgemini-espana-en",
       "address": {
-        "text": "C. del Puerto de Somport, 9, Edificio Oxxeo",
+        "text": "C. del Puerto de Somport, 9, Edificio Oxxeo 28050 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4962824,
         "lon": -3.6722972
-      }
+      },
+      "telephone": "+34 660.047.211",
+      "email": "vanessa.barbera@capgemini.com",
+      "website": "https://www.capgemini.com/es-es/"
     },
     {
       "name": "CASCO ANTIGUO COMERCIAL S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-casco-antiguo-comercial-s-l-en",
       "address": {
-        "text": "Calle de Senda Galiana 16C",
+        "text": "Calle de Senda Galiana 16C 28821 Coslada - Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4440559,
         "lon": -3.5346648
-      }
+      },
+      "telephone": "(+34) 638239617",
+      "email": "ventas@cascoantiguo.com",
+      "website": "www.cascoantiguopro.com"
     },
     {
       "name": "CASEMEDIA EMBALAJES",
@@ -967,7 +1178,10 @@
       },
       "telephone": "+34 954 380 624 - +34 694 422 097",
       "email": "info@casemedia.es",
-      "website": "www.casemedia.es"
+      "website": [
+        "www.casemedia.es",
+        "https://tienda.casemedia.es"
+      ]
     },
     {
       "name": "CASEZ",
@@ -985,17 +1199,26 @@
     {
       "name": "CDTI E.P.E.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cdti-e-p-e-en",
-      "address": "CID 4"
+      "address": {
+        "text": "CID 4 28001, MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4221765,
+        "lon": -3.6896221
+      },
+      "telephone": "+34 91 581 55 00",
+      "email": "dptoGIPD@cdti.es",
+      "website": "www.cdti.es"
     },
     {
       "name": "CEGAM",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cegam-en",
       "address": {
-        "text": "Calle Arenal, 25 Fernán Núñez",
+        "text": "Calle Arenal, 25 Fernán Núñez Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.6712704,
         "lon": -4.7231638
       },
+      "telephone": "+34 957382127 +34 618630689",
       "email": "anabeljurado@cegam.com",
       "website": "https://www.cegam.com"
     },
@@ -1003,11 +1226,14 @@
       "name": "CENTRO AVANZADO DE TECNOLOGÍAS AEROESPACIALES (CATEC)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-centro-avanzado-de-tecnologias-aeroespaciales-catec-en",
       "address": {
-        "text": "Parque Tecnológico y Aeronáutico de Andalucía",
+        "text": "Parque Tecnológico y Aeronáutico de Andalucía C/ Wilbur y Orville Wright 19 - 41309 La Rinconada, Sevilla (ESPAÑA)\nEspaña",
         "iso2": "ES",
-        "lat": 36.7356241,
-        "lon": -4.5495489
-      }
+        "lat": 37.4319054,
+        "lon": -5.8592702
+      },
+      "telephone": "+34 954 179 002",
+      "email": "ihuertas@catec.aero",
+      "website": "http://www.catec.aero/es"
     },
     {
       "name": "CENTRO NACIONAL DE INTELIGENCIA - CENTRO CRIPTOLÓGICO NACIONAL / OFICINA NACIONAL DE SEGURIDAD",
@@ -1019,17 +1245,24 @@
         "lon": -3.7478389
       },
       "telephone": "+34 913725000",
-      "website": "www.cni.es"
+      "email": "eventos@ccn-cert.cni.es gestion-ons@ons.cni.es",
+      "website": [
+        "www.cni.es",
+        "www.ccn.cni.es"
+      ]
     },
     {
       "name": "CENTRO TECNOLÓGICO NAVAL Y DEL MAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-centro-tecnologico-naval-y-del-mar-en",
       "address": {
-        "text": "Ctra. El Estrecho-Lobosillo, Km. 2",
+        "text": "Ctra. El Estrecho-Lobosillo, Km. 2 30320 Fuente Álamo (Murcia)\nEspaña",
         "iso2": "ES",
-        "lat": 37.7287787,
-        "lon": -1.0831624
-      }
+        "lat": 37.7286748,
+        "lon": -1.1640968
+      },
+      "telephone": "+34 682252181",
+      "email": "milaaniorte@ctnaval.com",
+      "website": "www.ctnaval.com"
     },
     {
       "name": "CENTUM RESEARCH & TECHNOLOGY",
@@ -1048,11 +1281,14 @@
       "name": "CEOTRONICS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ceotronics-en",
       "address": {
-        "text": "Calle Ciudad de Frías 7 y 9 Nave 19",
+        "text": "Calle Ciudad de Frías 7 y 9 Nave 19 28021 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.3353293,
-        "lon": -3.7144765
-      }
+        "lat": 40.3353294,
+        "lon": -3.7144775
+      },
+      "telephone": "+34 91 460 82 50 / +34 609 022 550",
+      "email": "gil@ceotronics.es",
+      "website": "www.ceotronics.es"
     },
     {
       "name": "CESA (HÉROUX-DEVTEK SPAIN)",
@@ -1084,26 +1320,34 @@
       "name": "CETEMET",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cetemet-en",
       "address": {
-        "text": "Parque Empresarial Santana, Avda. Primero de Mayo, s/n",
+        "text": "Parque Empresarial Santana, Avda. Primero de Mayo, s/n 23700 Linares\nEspaña",
         "iso2": "ES",
         "lat": 38.1041919,
         "lon": -3.6238765
-      }
+      },
+      "telephone": "+34 629075843",
+      "email": "gaspar.moral@cetemet.es",
+      "website": "www.cetemet.es"
     },
     {
       "name": "CHORA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-chora-en",
       "address": {
-        "text": "Borneovej 28",
+        "text": "Borneovej 28 8000 Aarhus C\nDenmark",
         "iso2": "DK",
-        "lat": 55.64567599999999,
-        "lon": 12.6331798
-      }
+        "lat": 56.1573535,
+        "lon": 10.2268625
+      },
+      "telephone": "+45 8618 9955",
+      "email": "sales@chora.com",
+      "website": "www.chora.com"
     },
     {
       "name": "CIBINAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cibinar-en",
-      "telephone": "+34 670 857 866",
+      "telephone": "+34 670 857 866 +34 900 877 766",
+      "email": "dario@cibinar.com",
+      "website": "www.cibinar.com",
       "country": {
         "text": "Calle Nelva, 2 Edificio Torres Azules ( Torre A ) Plana 3\nEspaña",
         "iso2": "ES"
@@ -1112,33 +1356,60 @@
     {
       "name": "CIMSA INGENIERÍA DE SISTEMAS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cimsa-ingenieria-de-sistemas-en",
-      "address": "Vallés, s/n – El Ramassar"
+      "address": {
+        "text": "Vallés, s/n – El Ramassar 08520 Las Franquesas - Barcelona\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6107032,
+        "lon": 2.3030288
+      },
+      "telephone": "+34 983 617 040",
+      "email": "info@cimsa.com",
+      "website": "www.cimsa.com"
     },
     {
       "name": "CIPHERBIT -GRUPO OESÍA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cipherbit-grupo-oesia-en",
-      "address": "Marie Curie, 19 – Edificio Avalon II"
+      "address": {
+        "text": "Marie Curie, 19 – Edificio Avalon II 28521 Rivas Vaciamadrid, MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.336709,
+        "lon": -3.5241286
+      },
+      "telephone": "+34 913098600",
+      "email": "valvarez@oesia.com",
+      "website": "http://grupooesia.com"
     },
     {
       "name": "CLIMADEF PROYECTOS DE CLIMATIZACIÓN SLL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-climadef-proyectos-de-climatizacion-en",
       "address": {
-        "text": "CALLE ARROYO FONTARRÓN 53",
+        "text": "CALLE ARROYO FONTARRÓN 53 28030 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4029883,
         "lon": -3.6501653
-      }
+      },
+      "telephone": "+34 918832667",
+      "email": "info@climadef.com",
+      "website": "www.climadef.com"
     },
     {
       "name": "CLUSTER DE LA INDUSTRIA DE LA DEFENSA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cluster-de-la-industria-de-la-defensa-en",
-      "address": "CtPLAZA VELARDE , 5"
+      "address": {
+        "text": "CtPLAZA VELARDE , 5 39001 SANTANDER – CANTABRIA\nEspaña",
+        "iso2": "ES",
+        "lat": 43.4620112,
+        "lon": -3.8059431
+      },
+      "telephone": "+34 609484709",
+      "email": "director@clusterdefensa.es",
+      "website": "www.clusterdefensa.es"
     },
     {
       "name": "CLÚSTER ANDALUCÍA AEROSPACE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cluster-andalucia-aerospace-en",
       "address": {
-        "text": "Parque Tecnológico Aeroespacial de Andalucía.\nEspaña",
+        "text": "Parque Tecnológico Aeroespacial de Andalucía. C/Ingeniero Rafael Rubio Elola, 1 Centro de Empresas) 3 2ª Planta Oficina M.2.4. Oeste, 41309 La Rinconada, Sevilla\nEspaña",
         "iso2": "ES",
         "lat": 37.4326709,
         "lon": -5.8603615
@@ -1150,13 +1421,15 @@
     {
       "name": "CLÚSTER MARÍTIMO NAVAL DE CÁDIZ",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cluster-maritimo-naval-de-cadiz-en",
+      "address": {
+        "text": "Polígono Industrial Trocadero, Calle Francia Centro de Empresas Trocadero 11510 Puerto Real Cádiz\nEspaña",
+        "iso2": "ES",
+        "lat": 36.5301047,
+        "lon": -6.2029758
+      },
       "telephone": "+34 956 98 03 76",
       "email": "comunicacion@clusternavalcadiz.es",
-      "website": "https://www.clusternavalcadiz.es",
-      "country": {
-        "text": "Polígono Industrial Trocadero, Calle Francia Centro de Empresas Trocadero\nEspaña",
-        "iso2": "ES"
-      }
+      "website": "https://www.clusternavalcadiz.es"
     },
     {
       "name": "CNC BARCENAS BELLÓN, S.L.",
@@ -1175,11 +1448,14 @@
       "name": "CNIM SYSTÈMES INDUSTRIELS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cnim-systemes-industriels-en",
       "address": {
-        "text": "Zone portuaire de Brégaillon – CS 60208",
+        "text": "Zone portuaire de Brégaillon – CS 60208 83 507 La Seyne-sur-Mer Cedex\nFrance",
         "iso2": "FR",
         "lat": 43.1094524,
         "lon": 5.8829645
-      }
+      },
+      "telephone": "+33 4 94 10 30 00",
+      "email": "contact-systemes-industriels@cnim.com",
+      "website": "https://cnim-systemes-industriels.com"
     },
     {
       "name": "COBRA AERONAUTICS",
@@ -1211,11 +1487,12 @@
       "name": "COLEGIO BRITÁNICO DE CÓRDOBA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-colegio-britanico-de-cordoba-en",
       "address": {
-        "text": "Calle México 4,",
+        "text": "Calle México 4, 14012, Córdoba\nEspaña",
         "iso2": "ES",
-        "lat": 38.3344758,
-        "lon": -0.5067466
+        "lat": 37.9056956,
+        "lon": -4.7940413
       },
+      "telephone": "636 977 916 957 767 048",
       "email": "ana.ortiz@bscordoba.es",
       "website": "https://www.colegiobritanicodecordoba.com/es"
     },
@@ -1223,22 +1500,27 @@
       "name": "COLEGIO OFICIAL DE INGENIEROS TÉCNICOS INDUSTRIALES DE CÓRDOBA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-colegio-oficial-de-ingenieros-tecnicos-industriales-de-cordoba-en",
       "address": {
-        "text": "AVDA. PASEO DE LA VICTORIA, 11",
-        "iso2": "MX",
-        "lat": 31.66848329999999,
-        "lon": -106.3981505
-      }
+        "text": "AVDA. PASEO DE LA VICTORIA, 11 14008 CÓRDOBA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.88575429999999,
+        "lon": -4.7843296
+      },
+      "telephone": "+ 34 636 913 727",
+      "email": "copitico@copitico.es",
+      "website": "www.coitico.es"
     },
     {
       "name": "COLLINS AEROSPACE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-europavia-collins-aerospace-en",
       "address": {
-        "text": "6 avenue Didier Daurat",
+        "text": "6 avenue Didier Daurat 31 700 Blagnac.\nFrancia",
         "iso2": "FR",
         "lat": 43.6284641,
         "lon": 1.3804932
       },
-      "email": "Herve.lalanne@collins.com"
+      "telephone": "+33 05 61 71 77 00",
+      "email": "Herve.lalanne@collins.com Gilles.maccarini@collins.com",
+      "website": "www.collins.com"
     },
     {
       "name": "COMMTACT",
@@ -1257,11 +1539,17 @@
       "name": "COMPEGPS / TWONAV",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-compegps-twonav-en",
       "address": {
-        "text": "C/ Draper 13 Arenys de Mar",
+        "text": "C/ Draper 13 Arenys de Mar 08350 Barcelona\nEspaña",
         "iso2": "ES",
-        "lat": 41.5783288,
-        "lon": 2.5346498
-      }
+        "lat": 41.5855397,
+        "lon": 2.5470339
+      },
+      "telephone": "+34 933 968 068",
+      "email": "stwose@twonav.com",
+      "website": [
+        "www.compegps.com",
+        "www.twonav.com"
+      ]
     },
     {
       "name": "COMPUTERS AND COMMUNICATIONS AEROMARINE S.A",
@@ -1305,7 +1593,13 @@
     {
       "name": "CONSUEGRA S.COOP.MAD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-consuegra-s-ccop-mad-en",
-      "address": "Camino De las Bodegas,2",
+      "address": {
+        "text": "Camino De las Bodegas,2 28140 Fuente el Saz de Jarama. Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.6352139,
+        "lon": -3.5107894
+      },
+      "telephone": "+34 91 620 14 61",
       "email": "enrique.martínez@csc-consuegra.com",
       "website": "www.csc-consuegra.com"
     },
@@ -1325,25 +1619,27 @@
     {
       "name": "CORVUS OFF-ROAD VEHICLES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-corvus-off-road-vehicles-en",
+      "address": {
+        "text": "C/ Paraje la Loma, parcela 1 Pol. Ind. Cabecicos Blancos 30892 Librilla (Murcia)\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9097083,
+        "lon": -1.3161358
+      },
       "telephone": "(+34) 968 785 201",
       "email": "lginer@corvus-utv.com",
-      "website": "www.corvus-utv.com",
-      "country": {
-        "text": "C/ Paraje la Loma, parcela 1\nEspaña",
-        "iso2": "ES"
-      }
+      "website": "www.corvus-utv.com"
     },
     {
       "name": "COSIGEIN S.L. (GSG INGENIERIA)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cosigein-s-l-gsg-ingenieria-en",
       "address": {
-        "text": "PCT Rabanales 21\nEspaña",
+        "text": "PCT Rabanales 21 C/Astrónoma Cecilia Payne M4.2 14014 Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.9076119,
         "lon": -4.7290196
       },
       "telephone": "+34 957 326 155",
-      "email": "fchacon@csgingenieria.es",
+      "email": "fchacon@csgingenieria.es mchacon@dadrev.com aizquierdo@csgingenieria.es",
       "website": "https://csgingenieria.es"
     },
     {
@@ -1363,12 +1659,14 @@
       "name": "COXPACE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-coxpace-en",
       "address": {
-        "text": "C/ Raso de la Estrella s/n, Nave 1",
+        "text": "C/ Raso de la Estrella s/n, Nave 1 28300 Aranjuez (Madrid)\nEspaña",
         "iso2": "ES",
-        "lat": 40.0353284,
-        "lon": -3.6197621
+        "lat": 40.0353253,
+        "lon": -3.6197121
       },
-      "email": "antonio@coxpace.net"
+      "telephone": "+34 661 120 147",
+      "email": "antonio@coxpace.net marta@coxpace.net",
+      "website": "www.coxpace.net"
     },
     {
       "name": "CRISTANINI SPA",
@@ -1387,21 +1685,25 @@
       "name": "CRISÁLIDA CENTRO ESPECIAL DE EMPLEO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-crisalida-centro-especial-de-empleo-en",
       "address": {
-        "text": "Avd. Fuente de las Piedras s/n",
+        "text": "Avd. Fuente de las Piedras s/n Cabra (Córdoba) CP14940\nEspaña",
         "iso2": "ES",
-        "lat": 37.6911185,
-        "lon": -4.903125
-      }
+        "lat": 37.4774678,
+        "lon": -4.4451096
+      },
+      "telephone": "+34 619 00 79 47",
+      "email": "vdpino@promi.es",
+      "website": "www.crisalidacee.es"
     },
     {
       "name": "CSA - CENTRO REGIONAL DE SERVICIOS AVANZADOS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-csa-centro-regional-de-servicios-avanzados-en",
       "address": {
-        "text": "Paseo de la Castellana, 93, Planta 12.",
+        "text": "Paseo de la Castellana, 93, Planta 12. Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.45105,
         "lon": -3.691579999999999
       },
+      "telephone": "+34 91 838 53 54 +34 677 019 808",
       "email": "marketing@csa.es",
       "website": "www.csa.es"
     },
@@ -1435,17 +1737,25 @@
       "name": "CTICONTROL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-cticontrol-en",
       "address": {
-        "text": "Ctra de Santomera a Abanilla 35B",
+        "text": "Ctra de Santomera a Abanilla 35B 30140, Santomera, Murcia\nEspaña",
         "iso2": "ES",
-        "lat": 38.0601529,
-        "lon": -1.0470905
+        "lat": 38.0763671,
+        "lon": -1.0582755
       },
-      "email": "francisco@cticontrol.com"
+      "telephone": "+34 968308127",
+      "email": "francisco@cticontrol.com miguel@cticontrol.com",
+      "website": "www.cticontrol.com"
     },
     {
       "name": "CZECHTRADE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-czechtrade-en",
-      "address": "Avda.Pío XII, 22-24",
+      "address": {
+        "text": "Avda.Pío XII, 22-24 28016 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4661211,
+        "lon": -3.6747997
+      },
+      "telephone": "+34 722 583 965 +420 724 687 656",
       "email": "marek.zmrzlik@czechtrade.cz",
       "website": "www.czechtradeoffices.com/es/es"
     },
@@ -1456,21 +1766,27 @@
       "name": "DANIMA INGENIERIA AMBIENTAL S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-danima-ingenieria-ambiental-s-a-en",
       "address": {
-        "text": "AVENIDA CONDE DE GUADALHORCE 57-59",
+        "text": "AVENIDA CONDE DE GUADALHORCE 57-59 33401 AVILES – ASTURIAS\nEspaña",
         "iso2": "ES",
         "lat": 43.5663336,
         "lon": -5.922606900000001
-      }
+      },
+      "telephone": "+34 985 514 450",
+      "email": "danima@danima.es",
+      "website": "www.danima.es"
     },
     {
       "name": "DANTHERM A/S",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-dantherm-a-s-en",
       "address": {
-        "text": "Marienlystvej 65",
+        "text": "Marienlystvej 65 7800 Skive\nDenmark",
         "iso2": "DK",
         "lat": 56.6002838,
         "lon": 9.021769899999999
-      }
+      },
+      "telephone": "+45 96 14 37 00",
+      "email": "info.mhc@dantherm.com",
+      "website": "www.danthermgroup.com"
     },
     {
       "name": "DASSAULT AVIATION",
@@ -1489,11 +1805,17 @@
       "name": "DATA DEVICE CORPORATION & POWER DEVICE CORPORATION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-data-device-corporation-power-device-corporation-en",
       "address": {
-        "text": "105 Wilbur Place",
+        "text": "105 Wilbur Place Bohemia NY 11716\nUSA",
         "iso2": "US",
         "lat": 40.77852499999999,
         "lon": -73.1041788
-      }
+      },
+      "telephone": "631-567-5600",
+      "email": "prato@ddc-web.com",
+      "website": [
+        "www.ddc-web.com",
+        "www.powerdevicecorp.com"
+      ]
     },
     {
       "name": "DATATEC INSTRUMENTS",
@@ -1510,8 +1832,9 @@
         "lat": 43.3905287,
         "lon": -5.7871229
       },
-      "telephone": "+34 609304932",
-      "email": "alejandra.albes@dbvservices.com"
+      "telephone": "+34 609304932 +34 635671551",
+      "email": "alejandra.albes@dbvservices.com daniel.albes@dbvservices.com",
+      "website": "https://www.dbvservices.com"
     },
     {
       "name": "DEIMOS ENGINEERING AND SYSTEMS S.L.U",
@@ -1555,7 +1878,13 @@
     {
       "name": "DETEGASA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-detegasa-en",
-      "address": "Condesa de Cavalcantti 5",
+      "address": {
+        "text": "Condesa de Cavalcantti 5 15578 Narón, A Coruña\nEspaña",
+        "iso2": "ES",
+        "lat": 43.5012892,
+        "lon": -8.192374299999999
+      },
+      "telephone": "+34 981 494 000",
       "email": "commercial@detegasa.com",
       "website": "www.detegasa.com"
     },
@@ -1563,12 +1892,14 @@
       "name": "DHV TECNOLOGIA ESPACIAL AVANZADA MALAGUEÑA S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-dhv-technology-en",
       "address": {
-        "text": "Severo Ochoa 13, Parque Tecnológico de Andalucía",
+        "text": "Severo Ochoa 13, Parque Tecnológico de Andalucía 29590 Málaga\nEspaña",
         "iso2": "ES",
         "lat": 36.7335477,
         "lon": -4.5555118
       },
-      "email": "v.diaz@dhvtechnology.com"
+      "telephone": "(+)34 629 023 519 / +34 636 44 52 81",
+      "email": "v.diaz@dhvtechnology.com v.burgos@dhvtechnology.com",
+      "website": "www.dhvtechnology.com"
     },
     {
       "name": "DICOMOL S.L.",
@@ -1586,27 +1917,53 @@
     {
       "name": "DINUMEC",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-dinumec-en",
-      "address": "C/ FRANCISCO ALONSO, 15, NAVE 13F"
+      "address": {
+        "text": "C/ FRANCISCO ALONSO, 15, NAVE 13F 28806 ALCALÁ DE HENARES - MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.488691,
+        "lon": -3.387465
+      },
+      "telephone": "+34 91 878 73 40",
+      "email": "dinumec@dinumec.com",
+      "website": "www.dinumec.com"
     },
     {
       "name": "DIPUTACIÓN PROVINCIAL DE JAÉN * AYUNTAMIENTO DE JAÉN",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-diputacion-provincial-de-jaen-ayuntamiento-de-jaen-en",
-      "address": "HURTADO, 29"
+      "address": {
+        "text": "HURTADO, 29 23071 JAÉN\nEspaña",
+        "iso2": "ES",
+        "lat": 37.7666487,
+        "lon": -3.7872077
+      },
+      "telephone": "+34 953 24 80 00 Ext 1658 / 1601",
+      "email": "empleo@dipujaen.es",
+      "website": "www.dipujaen.es"
     },
     {
       "name": "DJI ARS MADRID",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-dji-ars-madrid-en",
-      "address": "Calle Mónaco 30"
+      "address": {
+        "text": "Calle Mónaco 30 28232 Las Rozas (Madrid)\nEspaña",
+        "iso2": "ES",
+        "lat": 40.50356439999999,
+        "lon": -3.8926348
+      },
+      "telephone": "+34 91 316 14 15",
+      "email": "industrial@djiarsmadrid.com",
+      "website": "www.djiarsmadrid.com"
     },
     {
       "name": "DRONICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-dronica-en",
       "address": {
-        "text": "C/Berlin 3F, edif. CEEIC, oficina 0.8, P.I.",
-        "iso2": "DE",
-        "lat": 52.52000659999999,
-        "lon": 13.404954
+        "text": "C/Berlin 3F, edif. CEEIC, oficina 0.8, P.I. Cabezo Beaza (Cartagena) Murcia\nEspaña",
+        "iso2": "ES",
+        "lat": 37.6224883,
+        "lon": -0.965889
       },
+      "telephone": "+34 625 57 69 87 +34 696 47 98 85",
+      "email": "pedro.trenza@dronica.es antonio.saura@dronica.es",
       "website": "www.dronica.es"
     },
     {
@@ -1632,7 +1989,8 @@
         "lon": -3.4961936
       },
       "telephone": "+34 910 211 009",
-      "email": "carlos.moreno@es.dsv.com"
+      "email": "carlos.moreno@es.dsv.com carlos.medinaavila@es.dsv.com",
+      "website": "www.es.dsv.com"
     },
     {
       "name": "ECAPTUREDTECH",
@@ -1653,20 +2011,24 @@
       "name": "EDEPRO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-edepro-en",
       "address": {
-        "text": "33 Kralja Milutina Street",
+        "text": "33 Kralja Milutina Street 11000 Belgrade, Serbia\nSerbia",
         "iso2": "RS",
         "lat": 44.8040044,
         "lon": 20.4664361
-      }
+      },
+      "telephone": "+381653210011",
+      "email": "office@edepro.com",
+      "website": "www.edepro.com"
     },
     {
       "name": "EDGE AUTONOMY RIGA LTD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-edge-autonomy-en",
-      "address": {
-        "text": "Jaunbridagi 1, Marupe",
-        "iso2": "LV",
-        "lat": 56.9021321,
-        "lon": 24.0401848
+      "telephone": "+371 28318323",
+      "email": "dneimanis@edgeautonomy.io",
+      "website": "www.edgeautonomy.io",
+      "country": {
+        "text": "Jaunbridagi 1, Marupe Latvia, LV-1073\nLetonia / USA",
+        "iso2": "US"
       }
     },
     {
@@ -1679,7 +2041,8 @@
         "lon": -2.7368604
       },
       "telephone": "(+34) 945 290 001",
-      "email": "dir-nacional@egamaster.com"
+      "email": "dir-nacional@egamaster.com engineering@egasolutions.com",
+      "website": "www.egamaster.com"
     },
     {
       "name": "EGILE MECHANICS",
@@ -1703,7 +2066,9 @@
         "lat": 40.4760402,
         "lon": -3.3999858
       },
-      "telephone": "+34 91 880 90 00"
+      "telephone": "+34 91 880 90 00",
+      "email": "info@einsa.es",
+      "website": "www.einsa.es"
     },
     {
       "name": "EIPC - EIBAR PRECISION CASTING",
@@ -1722,30 +2087,32 @@
       "name": "EIZO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-eizo-en",
       "address": {
-        "text": "Avda.de la Industria, Nº 4, Natea Business,\nEspaña",
+        "text": "Avda.de la Industria, Nº 4, Natea Business, Park. E2. Portal 2. Planta 3, 28108 Alcobendas (Madrid)\nEspaña",
         "iso2": "ES",
-        "lat": 40.5355336,
-        "lon": -3.642352
+        "lat": 40.5355816,
+        "lon": -3.6421001
       },
       "telephone": "+34 916 574 822",
+      "email": "avalverde@eizo.es aroa@aryan.es",
       "website": "https://www.eizorugged.com"
     },
     {
       "name": "EJERCITO DE TIERRA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ejercito-de-tierra-en",
       "address": {
-        "text": "Calle Prim 6-8",
+        "text": "Calle Prim 6-8 28004 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4218265,
         "lon": -3.6927638
       },
-      "email": "WEB"
+      "telephone": "+34 91 780 22 00",
+      "website": "https://ejercito.defensa.gob.es"
     },
     {
       "name": "EJÉRCITO DEL AIRE Y DEL ESPACIO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ejercito-del-aire-y-del-espacio-en",
       "address": {
-        "text": "Cuartel General del Ejército del Aire y del Espacio\nEspaña",
+        "text": "Cuartel General del Ejército del Aire y del Espacio Romero Robledo, 8 28071 - Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4337021,
         "lon": -3.7195872
@@ -1758,37 +2125,51 @@
       "name": "EKIPOL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ekipol-en",
       "address": {
-        "text": "AVD GRAN VIA DE HORTALEZA Nº68",
+        "text": "AVD GRAN VIA DE HORTALEZA Nº68 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4668944,
         "lon": -3.653557
-      }
+      },
+      "telephone": "+34 916178486",
+      "email": "administracion@ekipol.com",
+      "website": "www.ekipol.com"
     },
     {
       "name": "EL SIGLO 1870 S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-el-siglo-1870-en",
-      "address": "Navio San Juan Nepomuceno, Nave 24",
+      "address": {
+        "text": "Navio San Juan Nepomuceno, Nave 24 11100 San Fernando (Cádiz)\nEspaña",
+        "iso2": "ES",
+        "lat": 36.4797419,
+        "lon": -6.1823153
+      },
+      "telephone": "+34 669 495 948 +34 956 881 416",
+      "email": "Alejandro.ybarra@elsiglo.es carmenconde@el-siglo.es",
       "website": "www.el-siglo.es"
     },
     {
       "name": "ELBIT SYSTEMS LTD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-elbit-systems-ltd-en",
       "address": {
-        "text": "Advanced Technology Center",
-        "iso2": "US",
-        "lat": 36.7841982,
-        "lon": -76.0993767
-      }
+        "text": "Advanced Technology Center Haifa 3100401\nIsrael",
+        "iso2": "IL",
+        "lat": 32.7940463,
+        "lon": 34.989571
+      },
+      "telephone": "972-54-9995326",
+      "email": "uzi.tishel@elbitsystems.com",
+      "website": "www.elbitsystems.com"
     },
     {
       "name": "ELECTRONIQUEL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-electroniquel-en",
       "address": {
-        "text": "Avda. Siderurgia Nº1",
+        "text": "Avda. Siderurgia Nº1 33211 Gijón\nEspaña",
         "iso2": "ES",
-        "lat": 43.5590572,
-        "lon": -5.891357
+        "lat": 43.5267226,
+        "lon": -5.7135735
       },
+      "telephone": "+34 985323912",
       "email": "comercial@electroniquel.es",
       "website": "www.electroniquel.es"
     },
@@ -1796,11 +2177,12 @@
       "name": "ELMEQ",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-elmeq-en",
       "address": {
-        "text": "Passeig Ferrocarrils Catalans 178",
+        "text": "Passeig Ferrocarrils Catalans 178 Cornellà de Llobregat 08940\nEspaña",
         "iso2": "ES",
         "lat": 41.3535183,
         "lon": 2.084543
       },
+      "telephone": "+34 93 422 70 33",
       "email": "contacto@elmeq.es",
       "website": "www.elmeq-motion.es"
     },
@@ -1821,32 +2203,40 @@
       "name": "ENCAJA EMBALAJES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-encaja-embalajes-en",
       "address": {
-        "text": "POLÍGONO INDUSTRIAL RIAÑO II C/ PEÑA VILLA, 6",
+        "text": "POLÍGONO INDUSTRIAL RIAÑO II C/ PEÑA VILLA, 6 33920 LANGREO – ASTURIAS\nEspaña",
         "iso2": "ES",
         "lat": 43.3243884,
         "lon": -5.7307198
       },
+      "telephone": "+34 637422918 +34 984 106 600",
+      "email": "jesus.alvarez@cajaeco.com ingenieria@cajaeco.com com15@encajaembalajes.com marketing@encajaembalajes.com",
       "website": "www.encajaembalajes.com"
     },
     {
       "name": "ENGINEERED LAND SYSTEMS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-engineered-land-systems-en",
       "address": {
-        "text": "Carretera de Argamasilla de Alba, Km 1.9",
+        "text": "Carretera de Argamasilla de Alba, Km 1.9 13700 Tomelloso (C. Real)\nEspaña",
         "iso2": "ES",
-        "lat": 39.1264201,
-        "lon": -3.0951959
-      }
+        "lat": 39.1507246,
+        "lon": -3.0316107
+      },
+      "telephone": "+34 926 51 05 86",
+      "email": "sarenas@els-industries.com",
+      "website": "www.els-industries.com"
     },
     {
       "name": "ENTHEC SOLUTIONS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-enthec-solutions-en",
       "address": {
-        "text": "Calle del Turia, 53",
+        "text": "Calle del Turia, 53 46008 Valencia\nEspaña",
         "iso2": "ES",
         "lat": 39.4770913,
         "lon": -0.3855956
-      }
+      },
+      "telephone": "+34 639423818",
+      "email": "amorena@enthec.com",
+      "website": "www.enthec.com"
     },
     {
       "name": "EONESIA - GAMIFICACIÓN INMERSIVA",
@@ -1857,7 +2247,9 @@
         "lat": 37.91778430000001,
         "lon": -4.7878546
       },
-      "telephone": "+34 619 00 79 47"
+      "telephone": "+34 619 00 79 47",
+      "email": "rafa.dorado@eonesia.com",
+      "website": "www.eonesia.com"
     },
     {
       "name": "EPICOM",
@@ -1900,11 +2292,14 @@
       "name": "ERMEC S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ermec-en",
       "address": {
-        "text": "Puerto Rico, 4 - 28220 Majadahonda (Madrid)",
+        "text": "Puerto Rico, 4 - 28220 Majadahonda (Madrid) Francesc Teixidó, 22 - 08918 Badalona (Barcelona)\nEspaña",
         "iso2": "ES",
-        "lat": 40.47515689999999,
-        "lon": -3.871237299999999
-      }
+        "lat": 40.4737586,
+        "lon": -3.8683123
+      },
+      "telephone": "+34 918 285 651 / +34 934 501 600",
+      "email": "info@ermec.com",
+      "website": "www.ermec.com"
     },
     {
       "name": "ESCRIBANO Mechanical and Engineering S.L.",
@@ -1922,20 +2317,28 @@
     {
       "name": "ETEL 88",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-etel-88-en",
-      "country": {
-        "text": "C/ PERÚ Nº6, EDIFICIO B, OFICINA 5, PLANTA BAJA",
-        "iso2": "PE"
-      }
+      "address": {
+        "text": "C/ PERÚ Nº6, EDIFICIO B, OFICINA 5, PLANTA BAJA 28290 LAS ROZAS (MADRID)\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4935329,
+        "lon": -3.8757916
+      },
+      "telephone": "+34 91 114 05 20",
+      "email": "info@etel88.com",
+      "website": "www.etel88.com"
     },
     {
       "name": "ETRA AIR, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-etra-air-s-l-en",
       "address": {
-        "text": "C/ FORJADORES 9",
+        "text": "C/ FORJADORES 9 28660 BOADILLA DEL MONTE (MADRID)\nEspaña",
         "iso2": "ES",
-        "lat": 37.4216804,
-        "lon": -5.963121399999999
-      }
+        "lat": 40.3932209,
+        "lon": -3.849101099999999
+      },
+      "telephone": "+34 605 280 437",
+      "email": "acastro.etrair@grupoetra.com",
+      "website": []
     },
     {
       "name": "EUROLAMP S.R.O.",
@@ -1947,7 +2350,8 @@
         "lon": 16.6377785
       },
       "telephone": "+420 545 215 712",
-      "email": "svitak@eurolamp.cz"
+      "email": "svitak@eurolamp.cz eurolamp@eurolamp.cz",
+      "website": "www.eurolamp.cz"
     },
     {
       "name": "EUROPAVIA ESPAÑA",
@@ -1966,42 +2370,53 @@
       "name": "EUROPEAN COMMISSION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-european-commission-en",
       "address": {
-        "text": "Avenue d'Auderghem 45, B-1040",
+        "text": "Avenue d'Auderghem 45, B-1040 Etterbeek\nBelgium",
         "iso2": "BE",
         "lat": 50.8402217,
         "lon": 4.384907
       },
+      "telephone": "+32 2 29 96553 +32 229-67062",
+      "email": "Arnoud.heeres@ec.europa.eu Javier.BOIXAREU-TORRES@ec.europa.eu",
       "website": "https://defence-industry-space.ec.europa.eu/index_en"
     },
     {
       "name": "EUROTEMPEST BV",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-eurotempest-bv-en",
       "address": {
-        "text": "Collse Heide 44",
+        "text": "Collse Heide 44 5674 VN Nuenen\nThe Netherlands",
         "iso2": "NL",
         "lat": 51.4461713,
         "lon": 5.5607011
-      }
+      },
+      "telephone": "+31 40 2906934",
+      "email": "info@eurotempest.net",
+      "website": "www.eurotempest.net"
     },
     {
       "name": "EVIDEN",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-eviden-en",
       "address": {
-        "text": "Albarracin 25",
+        "text": "Albarracin 25 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4348354,
-        "lon": -3.632784
-      }
+        "lat": 40.4347563,
+        "lon": -3.6325326
+      },
+      "telephone": "+34 91 214 8800",
+      "email": "jose.juan.fernandez@atos.net",
+      "website": "https://atos.net/en/industries/public-sector-defense"
     },
     {
       "name": "EXAIL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-exail-en",
       "address": {
-        "text": "34 rue de la croix de fer",
+        "text": "34 rue de la croix de fer 78100 St Germain en Laye\nFrance",
         "iso2": "FR",
         "lat": 48.899423,
         "lon": 2.0640214
-      }
+      },
+      "telephone": "+33130088888",
+      "email": "Carlos.lopes@exail.com",
+      "website": "www.exail.com"
     },
     {
       "name": "EXCEM GRUPO 1971 S.A.",
@@ -2046,11 +2461,12 @@
       "name": "EXPLOSTOP PROTECTION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-explostop-protection-en",
       "address": {
-        "text": "C/ URANO 21 B , 28936 MOSTOLESC/ URANO 21 B",
+        "text": "C/ URANO 21 B , 28936 MOSTOLESC/ URANO 21 B 28936 MOSTOLES\nEspaña",
         "iso2": "ES",
         "lat": 40.3114305,
         "lon": -3.8425742
       },
+      "telephone": "+34 691345523",
       "email": "EXPLOSTOP@GMAIL.COM",
       "website": "WWW.EXPLOSTOP.COM"
     },
@@ -2058,21 +2474,25 @@
       "name": "FABITIVE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fabitive-en",
       "address": {
-        "text": "Pedro Jorquera 13",
+        "text": "Pedro Jorquera 13 30202, Cartagena, Murcia\nEspaña",
         "iso2": "ES",
         "lat": 37.5971,
         "lon": -0.9720699999999999
-      }
+      },
+      "telephone": "+34 657032985",
+      "email": "abelramos@fabitive.es",
+      "website": "www.fabitive.es"
     },
     {
       "name": "FACET BOX S.L.U.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-facet-box-en",
       "address": {
-        "text": "CALLE CIERZO, 8",
+        "text": "CALLE CIERZO, 8 28918 LEGANÉS (MADRID)\nEspaña",
         "iso2": "ES",
-        "lat": 40.4079468,
-        "lon": -3.7931908
+        "lat": 40.3483244,
+        "lon": -3.7984417
       },
+      "telephone": "+34 91 472 72 97",
       "email": "comercial@facetbox.com",
       "website": "www.facetbox.com"
     },
@@ -2080,10 +2500,10 @@
       "name": "FACTOR INGENIERIA Y DECOLETAJE S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-factor-ingenieria-y-decoletaje-en",
       "address": {
-        "text": "Pol. Inds. Nº2\nEspaña",
+        "text": "Pol. Inds. Nº2 c/ Regadores nº2 46530-Puçol (Valencia)\nEspaña",
         "iso2": "ES",
-        "lat": 38.211003,
-        "lon": -0.5766203
+        "lat": 39.45688579999999,
+        "lon": -0.4050633
       },
       "telephone": "+34 963 55 78 68",
       "email": "a.gastaldo@factorsl.es",
@@ -2098,14 +2518,25 @@
         "lat": 42.2308732,
         "lon": -2.0960962
       },
-      "telephone": "+34 941 380 800"
+      "telephone": "+34 941 380 800",
+      "email": "info@falseguridad.es",
+      "website": "www.falseguridad.es"
     },
     {
       "name": "FALKEN S.A.U.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-falken-en",
-      "address": "Apartado de Correos, 41.043",
+      "address": {
+        "text": "Apartado de Correos, 41.043 28080 MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4737314,
+        "lon": -3.8683123
+      },
+      "telephone": "+34 91 798 14 18",
       "email": "info@falken.es",
-      "website": "www.falken.es"
+      "website": [
+        "www.falken.es",
+        "https://www.linkedin.com/company/falken-etienne-lacroix-group/"
+      ]
     },
     {
       "name": "FAYMM (FABRICACIONES Y MONTAJES MECANICOS S.L.)",
@@ -2116,22 +2547,43 @@
         "lat": 40.3202138,
         "lon": -3.6777641
       },
-      "telephone": "+34 916 83 95 40"
+      "telephone": "+34 916 83 95 40",
+      "email": "info@faymm.es / gabrielnavarrete@faymm.es",
+      "website": "www.faymm.es"
     },
     {
       "name": "FCAS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fcas-en",
-      "address": "Country"
+      "country": {
+        "text": "España",
+        "iso2": "ES"
+      }
     },
     {
       "name": "FIDAE 2024",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fidae-2024-en",
-      "address": "DIEGO BARROS ORTIZ 2300"
+      "address": {
+        "text": "DIEGO BARROS ORTIZ 2300 PUDAHUEL, SANTIAGO\nChile",
+        "iso2": "CL",
+        "lat": -33.3869606,
+        "lon": -70.7964096
+      },
+      "telephone": "+562 2976 9514",
+      "email": "pacevedo@fidae.cl",
+      "website": "www.fidae.cl"
     },
     {
       "name": "FIGLES CONSULTING",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-figles-consulting-en",
-      "address": "Getafe"
+      "address": {
+        "text": "Getafe Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3082504,
+        "lon": -3.7323934
+      },
+      "telephone": "+34 620 277 167",
+      "email": "info@figles.es",
+      "website": "www.figles.es"
     },
     {
       "name": "FINANZAUTO",
@@ -2166,7 +2618,6 @@
         "lat": 51.5037543,
         "lon": -0.1159719
       },
-      "telephone": "Contact",
       "email": "intl-ps-team@dataminr.com",
       "website": "www.dataminr.com"
     },
@@ -2174,11 +2625,12 @@
       "name": "FJ | FERNANDEZ JOVE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fj-integral-supply-en",
       "address": {
-        "text": "Pol. Emp. Tanos Viernoles, c/ La espina 44",
+        "text": "Pol. Emp. Tanos Viernoles, c/ La espina 44 39300 Torrelavega, Cantabria\nEspaña",
         "iso2": "ES",
-        "lat": 43.321389,
-        "lon": -4.520277999999999
+        "lat": 43.31928569999999,
+        "lon": -4.0554936
       },
+      "telephone": "+34629426621 +34942892739",
       "email": "irenediaz@fjove.com",
       "website": "www.Fjove.com"
     },
@@ -2186,21 +2638,27 @@
       "name": "FOTÓNICA21, PLATAFORMA TECNOLÓGICA ESPAÑOLA DE FOTÓNICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fotonica21-plataforma-tecnologica-espanola-de-fotonica-en",
       "address": {
-        "text": "Calle Jordi Girona, 31",
+        "text": "Calle Jordi Girona, 31 08024 Barcelona\nEspaña",
         "iso2": "ES",
         "lat": 41.3892675,
         "lon": 2.1157401
-      }
+      },
+      "telephone": "+34 648 77 34 78 +34 649 34 95 75",
+      "email": "secretaria@fotonica21.org",
+      "website": "www.fotonica21.org"
     },
     {
       "name": "FRAMUN TECHNO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-framun-techno-en",
       "address": {
-        "text": "CTRA DE VIC, 325",
+        "text": "CTRA DE VIC, 325 08243- MANRESA (BARCELONA)\nEspaña",
         "iso2": "ES",
         "lat": 41.73784879999999,
         "lon": 1.8483011
-      }
+      },
+      "telephone": "+34 93 873 51 42",
+      "email": "Mamonros@framun.com",
+      "website": "www.framuntechno.com"
     },
     {
       "name": "FRIZONIA REFRIGERACION-CLIMATIZACION S.L.",
@@ -2232,11 +2690,13 @@
       "name": "FUJITSU TECHNOLOGY SOLUTIONS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fujitsu-technology-solutions-en",
       "address": {
-        "text": "Camino Cerro de los Gamos, 1",
+        "text": "Camino Cerro de los Gamos, 1 28224 Pozuelo de Alarcón (Madrid)\nEspaña",
         "iso2": "ES",
         "lat": 40.4618622,
         "lon": -3.810533
       },
+      "telephone": "+34 609 722 496 +34 691 699 718",
+      "email": "miguel.feu@fujitsu.com gabriela.padronsandor@fujitsu.com",
       "website": [
         "Fujitsu",
         "Fujitsu",
@@ -2253,12 +2713,19 @@
         "lon": -3.6685413
       },
       "telephone": "+34 91 432 22 49",
-      "email": "SECRETARIA@FUNDACIONCIRCULO.ES"
+      "email": "SECRETARIA@FUNDACIONCIRCULO.ES COMUNICACION@FUNDACIONCIRCULO.ES",
+      "website": "www.fundacioncirculo.es"
     },
     {
       "name": "FUNDACIÓN PARA EL CONOCIMIENTO MADRI+D",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-fundacion-para-el-conocimiento-madri-d-en",
-      "address": "Country"
+      "country": {
+        "text": "España",
+        "iso2": "ES"
+      },
+      "telephone": "+34 91 781 65 70",
+      "email": "Jesus.rojo@madrimasd.org",
+      "website": "www.madrimasd.org"
     },
     {
       "name": "FUTURE SPACE S.A",
@@ -2303,11 +2770,13 @@
       "name": "GABADI & ISONELL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-gabadi-isonell-en",
       "address": {
-        "text": "GABADI",
-        "iso2": "IN",
-        "lat": 13.7205111,
-        "lon": 75.36579689999999
+        "text": "GABADI Avenida Jesús Fernandez Pita, 53 15578 - Narón, A Coruña ISONELL Polígono Industrial de Ayala sn 01479 - Murga, Alava\nEspaña",
+        "iso2": "ES",
+        "lat": 43.0757851,
+        "lon": -3.0253906
       },
+      "telephone": "+34 981 397 301 +34 945 399 210",
+      "email": "gabadi@gabadi.com info@isonell.net",
       "website": "www.gabadi.com"
     },
     {
@@ -2326,7 +2795,15 @@
     {
       "name": "GAM",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-gam-en",
-      "address": "Ctra. Tiñana km 1"
+      "address": {
+        "text": "Ctra. Tiñana km 1 33199, Siero, Asturias\nEspaña",
+        "iso2": "ES",
+        "lat": 43.3670622,
+        "lon": -5.750869
+      },
+      "telephone": "+34 629537297",
+      "email": "bberzal@gamrentals.com",
+      "website": "www.gamrentals.com"
     },
     {
       "name": "GAPTEC 2011, S.L",
@@ -2358,20 +2835,23 @@
       "name": "GAUZON IBERICA S.L.U.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-gauzon-iberica-s-l-u-en",
       "address": {
-        "text": "CALLE ALONSO LOPEZ, 100, BAJO",
+        "text": "CALLE ALONSO LOPEZ, 100, BAJO 15401 FERROL\nEspaña",
         "iso2": "ES",
         "lat": 43.48070329999999,
-        "lon": -8.2454641
-      }
+        "lon": -8.2454643
+      },
+      "telephone": "(+34) 981 35 68 13",
+      "email": "omate@gauzoniberica.com",
+      "website": "www.gauzoniberica.com"
     },
     {
       "name": "GDELS SANTA BARBARA SISTEMAS S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-gdels-santa-barbara-sistemas-en",
       "address": {
-        "text": "C/ Vía de los Poblados, 3 (P.E. Cristalia – Edif. 7/8)",
+        "text": "C/ Vía de los Poblados, 3 (P.E. Cristalia – Edif. 7/8) 28033 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4760777,
-        "lon": -3.6341222
+        "lat": 40.4752331,
+        "lon": -3.634824
       },
       "email": "Miguel.ardaiz@gdels.com",
       "website": "www.gdels.com"
@@ -2406,21 +2886,25 @@
       "name": "GENERAL ATOMICS AERONAUTICAL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-general-atomics-aeronautical-en",
       "address": {
-        "text": "14200 Kirkham Way, Poway",
+        "text": "14200 Kirkham Way, Poway CA 92064 USA\nUSA",
         "iso2": "US",
         "lat": 32.9365926,
         "lon": -117.0224907
-      }
+      },
+      "telephone": "+1-858-312-2810",
+      "email": "ASI-MediaRelations@ga-asi.com",
+      "website": "www.ga-asi.com"
     },
     {
       "name": "GENUA GMBH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-genua-gmbh-en",
       "address": {
-        "text": "Domagkstr. 7",
+        "text": "Domagkstr. 7 85551 Kirchheim\nGermany",
         "iso2": "DE",
-        "lat": 48.1844048,
-        "lon": 11.5875466
+        "lat": 48.1774856,
+        "lon": 11.7602252
       },
+      "telephone": "+49 89 991950-0",
       "email": "sales@genua.de",
       "website": "https://www.genua.eu"
     },
@@ -2428,21 +2912,27 @@
       "name": "GESMATIK",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-gesmatik-en",
       "address": {
-        "text": "C/UZBINA 24, PABELLÓN F1",
-        "iso2": "US",
-        "lat": 35.5946521,
-        "lon": -82.55543899999999
-      }
+        "text": "C/UZBINA 24, PABELLÓN F1 01015. VITORIA-GASTEIZ (ÁLAVA)\nEspaña",
+        "iso2": "ES",
+        "lat": 42.8361441,
+        "lon": -2.7331928
+      },
+      "telephone": "+34 945 29 08 66",
+      "email": "administracion@vendingmodular.com",
+      "website": "www.gesmatik.com"
     },
     {
       "name": "GETAC TECHNOLOGY COORPORATION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-getac-technology-coorporation-en",
       "address": {
-        "text": "5F., Building A, No. 209, Sec. 1, Nangang Rd",
+        "text": "5F., Building A, No. 209, Sec. 1, Nangang Rd Nangang Dist., Taipei City, 115018, Taiwan, R.O.C.\nTaiwan",
         "iso2": "TW",
-        "lat": 25.0312347,
-        "lon": 121.6111949
-      }
+        "lat": 25.0542708,
+        "lon": 121.6109712
+      },
+      "telephone": "+34 644 998 657",
+      "email": "unai.ortolachipi@getac.com",
+      "website": "https://www.getac.com/es/"
     },
     {
       "name": "GHENOVA",
@@ -2485,42 +2975,56 @@
       "name": "GO TAPPING, S.L. – IANUS INGENIERIA - GAMOR, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-go-tapping-en",
       "address": {
-        "text": "C/ NUEVA, 6",
+        "text": "C/ NUEVA, 6 20150 VILLABONA-GUIPUZCOA\nEspaña",
         "iso2": "ES",
-        "lat": 38.155774,
-        "lon": -0.8891229
-      }
+        "lat": 43.1904379,
+        "lon": -2.0530789
+      },
+      "telephone": "+34 943 561135",
+      "email": "go-tap@go-tap.es",
+      "website": "www-go-tap.es"
     },
     {
       "name": "GORE-TEX Professional",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-w-l-gore-associates-en",
       "address": {
-        "text": "C/ CIUDAT DE GRANADA, 178",
+        "text": "C/ CIUDAT DE GRANADA, 178 08018 BARCELONA\nEspaña",
         "iso2": "ES",
         "lat": 41.4049435,
         "lon": 2.1897537
       },
-      "email": "imartinez@wlgore.com"
+      "telephone": "+49 89 461 2238",
+      "email": "imartinez@wlgore.com ptillman@wlgore.com",
+      "website": [
+        "https://www.goretexprofessional.com",
+        "https://www.gore.com/products/industries/aerospace"
+      ]
     },
     {
       "name": "GRANDAUDITION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-grandaudition-en",
       "address": {
-        "text": "ANTONIO MAURA , 47",
+        "text": "ANTONIO MAURA , 47 14005 CÓRDOBA\nEspaña",
         "iso2": "ES",
-        "lat": 39.5679643,
-        "lon": 2.6460544
-      }
+        "lat": 37.8813543,
+        "lon": -4.7913906
+      },
+      "telephone": "+34617131032",
+      "email": "Javier.martinez@grandaudition.com",
+      "website": "https://grandaudition.es/grandaudition-cordoba/"
     },
     {
       "name": "GRUPO AMI EQUIPAMIENTO S.L",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-grupo-ami-equipamiento-en",
       "address": {
-        "text": "CALLE PARSI 9 NAVE 11",
+        "text": "CALLE PARSI 9 NAVE 11 41016 SEVILLA\nEspaña",
         "iso2": "ES",
         "lat": 37.3748279,
         "lon": -5.9179372
-      }
+      },
+      "telephone": "918832667",
+      "email": "paco.perretta@grupoami.es",
+      "website": "www.grupoami.es"
     },
     {
       "name": "GRUPO AMPER S.A.",
@@ -2565,7 +3069,7 @@
       "name": "GRUPO EOS IBÉRICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-grupo-eos-iberica-en",
       "address": {
-        "text": "Avda. de la torrecilla S/N\nEspaña",
+        "text": "Avda. de la torrecilla S/N Edificio la Torre II, Nave 7 CP 14013 Córdoba (Andalucía)\nEspaña",
         "iso2": "ES",
         "lat": 37.854597,
         "lon": -4.7950775
@@ -2578,21 +3082,27 @@
       "name": "GRUPO HISPA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-grupo-hispa-en",
       "address": {
-        "text": "CALLE DUQUE DE SESTO 13",
+        "text": "CALLE DUQUE DE SESTO 13 28009 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.42261,
         "lon": -3.6769132
-      }
+      },
+      "telephone": "+34 911 574 581",
+      "email": "info@grupo-hispa.com",
+      "website": "https://www.grupo-hispa.com"
     },
     {
       "name": "GRUPO PEÑA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-grupo-pena-en",
       "address": {
-        "text": "C/ Francisco Peña, 1 (Pol. Industrial Torrecilla)",
+        "text": "C/ Francisco Peña, 1 (Pol. Industrial Torrecilla) 14013 Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.8560107,
         "lon": -4.7935911
-      }
+      },
+      "telephone": "+34 957 293 377",
+      "email": "fpa@gpautomocion.com",
+      "website": "www.gpautomocion.com"
     },
     {
       "name": "GRUPO UNCETA S.A.",
@@ -2611,31 +3121,40 @@
       "name": "GRUPO VISIONA IBERICA SL (MUNDICAM)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mundicam-security-distribution-en",
       "address": {
-        "text": "Carril Morenos 5, Nave 1",
+        "text": "Carril Morenos 5, Nave 1 30006, Puente Tocinos, Murcia\nEspaña",
         "iso2": "ES",
         "lat": 37.9966322,
         "lon": -1.0975483
-      }
+      },
+      "telephone": "+34 96 862 93 83 / +34 601 27 03 39",
+      "email": "rcano@mundicam.com / pruiperez@mundicam.com",
+      "website": "www.mundicam.com"
     },
     {
       "name": "GUANTES ARRIBAS S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-guantes-arribas-en",
+      "address": {
+        "text": "Calle La Venta, 2 – Edificio 11 – Nave 9 Parque Empresarial Neinor 28880 Meco (Madrid)\nEspaña",
+        "iso2": "ES",
+        "lat": 40.5539468,
+        "lon": -3.3263003
+      },
       "telephone": "+34 914 291 139 / +34 914 291 140",
-      "country": {
-        "text": "Calle La Venta, 2 – Edificio 11 – Nave 9\nEspaña",
-        "iso2": "ES"
-      }
+      "email": "arribas@arribas.es",
+      "website": "www.arribas.es"
     },
     {
       "name": "GUARDIA CIVIL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-guardia-civil-en",
       "address": {
-        "text": "DIRECCIÓN GENERAL DE LA GUARDIA CIVIL\nEspaña",
+        "text": "DIRECCIÓN GENERAL DE LA GUARDIA CIVIL C/ GUZMÁN EL BUENO 110 MADRID 28003\nEspaña",
         "iso2": "ES",
-        "lat": 40.4444259,
-        "lon": -3.7121172
+        "lat": 40.4445687,
+        "lon": -3.712058899999999
       },
-      "telephone": "+34 91 514 60 00"
+      "telephone": "+34 91 514 60 00 +34 91 514 60 16",
+      "email": "cpoza@guardiacivil.es",
+      "website": "www.guardiacivil.es"
     },
     {
       "name": "GUARNICIONERIA ROAL",
@@ -2646,7 +3165,9 @@
         "lat": 40.251451,
         "lon": -3.7128553
       },
-      "telephone": "+34 91 366 96 11 / +34 91 691 59 10"
+      "telephone": "+34 91 366 96 11 / +34 91 691 59 10",
+      "email": "info@roal.com",
+      "website": "www.roal.com"
     },
     {
       "name": "HANDHELD EUROPE AB",
@@ -2657,7 +3178,9 @@
         "lat": 58.5095768,
         "lon": 13.1623963
       },
-      "telephone": "+46 (0)510 54 71 70"
+      "telephone": "+46 (0)510 54 71 70",
+      "email": "l.simme@handheldeurope.com",
+      "website": "www.handheldgroup.com"
     },
     {
       "name": "HARMONIC DRIVE ESPAÑA SLU",
@@ -2705,22 +3228,25 @@
       "name": "HEXAGON",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-hexagon-en",
       "address": {
-        "text": "Calle Gobelas 21",
+        "text": "Calle Gobelas 21 28023, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4719395,
         "lon": -3.8216055
       },
+      "telephone": "+34 917 088 843",
+      "email": "jose.luis.peinado@hexagon.com natalia.inigo@hexagon.com",
       "website": "https://hexagon.com/company/divisions/safety-infrastructure-geospatial"
     },
     {
       "name": "HISDESAT, SERVICIOS ESTRATÉGICOS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-hisdesat-servicios-estrategicos-en",
       "address": {
-        "text": "Paseo de la Castellana 149",
+        "text": "Paseo de la Castellana 149 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4604423,
         "lon": -3.6905955
       },
+      "email": "mgomez@hisdesat.es maredondo@hisdesat.es",
       "website": "www.hisdesat.es"
     },
     {
@@ -2753,11 +3279,12 @@
       "name": "HOFFMANN IBERIA QUALITY TOOLS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-hoffmann-iberia-quality-tools-en",
       "address": {
-        "text": "Avenida de Castilla 2.",
+        "text": "Avenida de Castilla 2. Parque empresarial de San Fernando de Henares\nEspaña",
         "iso2": "ES",
-        "lat": 40.4520248,
-        "lon": -3.5115875
+        "lat": 40.45184080000001,
+        "lon": -3.5109117
       },
+      "telephone": "+34 900 90 07 28 +34 91 748 18 12",
       "email": "Jaime.espinosa@hoffmann-group.com",
       "website": "https://www.hoffmann-group.com/ES/es/hoe/"
     },
@@ -2783,7 +3310,9 @@
         "lat": 37.8881751,
         "lon": -4.7793835
       },
-      "telephone": "+34 957 4696037"
+      "telephone": "+34 957 4696037 +34 630 463 959",
+      "email": "Miguel.fernandez@ibpgroup.com",
+      "website": "www.conexbanninger.com"
     },
     {
       "name": "ICOMPPLUS ELECTRONICS",
@@ -2795,27 +3324,32 @@
         "lon": -3.7991695
       },
       "telephone": "+34 910 22 54 18",
-      "email": "CARMEN@ICOMPPLUS.COM"
+      "email": "CARMEN@ICOMPPLUS.COM FERNANDOPM@ICOMPPLUS.COM",
+      "website": "www.icompplus.com"
     },
     {
       "name": "IDBOTIC",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-idbotic-en",
       "address": {
-        "text": "Calle Progreso 2 oficinas 142 y 147",
+        "text": "Calle Progreso 2 oficinas 142 y 147 28906 – Getafe\nEspaña",
         "iso2": "ES",
-        "lat": 40.3157187,
-        "lon": -3.6909267
-      }
+        "lat": 40.3153951,
+        "lon": -3.690375099999999
+      },
+      "telephone": "+34 91 250 49 32",
+      "email": "info@idbotic.com",
+      "website": "www.idbotic.com"
     },
     {
       "name": "IDONIAL TECHNOLOGY CENTRE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-idonial-technology-centre-en",
       "address": {
-        "text": "Parque Científico Tecnológico de Gijón, zona INTRA - “Antiguo secadero de tabacos”",
+        "text": "Parque Científico Tecnológico de Gijón, zona INTRA - “Antiguo secadero de tabacos” 33203 Gijón, Asturias. España\nEspaña",
         "iso2": "ES",
-        "lat": 43.5225792,
-        "lon": -5.6112999
+        "lat": 43.5272164,
+        "lon": -5.6217951
       },
+      "telephone": "+34 984 390 060",
       "email": "info@idonial.com",
       "website": "https://www.idonial.com"
     },
@@ -2835,7 +3369,15 @@
     {
       "name": "IMPLEMENTOS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-implementos-en",
-      "address": "Calle Álamo 17"
+      "address": {
+        "text": "Calle Álamo 17 28850 Torrejón de Ardoz, Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4460439,
+        "lon": -3.4570679
+      },
+      "telephone": "+34 915623898",
+      "email": "implementosmk@gmail.com",
+      "website": "www.implementos.com"
     },
     {
       "name": "INBENTUS Medical Technology",
@@ -2852,11 +3394,13 @@
       "name": "INCIBE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-incibe-en",
       "address": {
-        "text": "Avenida de José Aguado, 41",
+        "text": "Avenida de José Aguado, 41 24005 León\nEspaña",
         "iso2": "ES",
         "lat": 42.58397679999999,
         "lon": -5.5644352
       },
+      "telephone": "+34 690224663 +34 676271550",
+      "email": "bayon@incibe.es javier.rodriguezm@incibe.es",
       "website": "www.incibe.es"
     },
     {
@@ -2875,34 +3419,54 @@
     {
       "name": "INDUSTRIAL OLMAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-industrial-olmar-en",
-      "address": "POL. INDUSTRIAL SOMONTE III, C/ NICOLÁS REDONDO URBIETA 330"
+      "address": {
+        "text": "POL. INDUSTRIAL SOMONTE III, C/ NICOLÁS REDONDO URBIETA 330 33393 GIJON\nEspaña",
+        "iso2": "ES",
+        "lat": 43.515147,
+        "lon": -5.723893599999999
+      },
+      "telephone": "+34 985321700",
+      "email": "mori@olmar.com",
+      "website": "www.olmar.com"
     },
     {
       "name": "INDUSTRIAS FERRI",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-industrias-ferri-en",
       "address": {
-        "text": "P.I. A Pasaxe, 81 - Vincios",
+        "text": "P.I. A Pasaxe, 81 - Vincios 36316 Gondomar, Pontevedra\nEspaña",
         "iso2": "ES",
         "lat": 42.1564636,
         "lon": -8.717878299999999
       },
+      "telephone": "+34 986 468 201",
       "email": "info@ferri-sa.es",
       "website": "www.ferri-sa.es"
     },
     {
       "name": "INDUSTRIAS MURTRA CADENAS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-industrias-murtra-cadenas-en",
-      "address": "Jordi Camp, 94"
+      "address": {
+        "text": "Jordi Camp, 94 08403 GRANOLLERS (Barcelona)\nEspaña",
+        "iso2": "ES",
+        "lat": 41.60323959999999,
+        "lon": 2.276466
+      },
+      "telephone": "+34 938 402 400",
+      "email": "aarregui@murlink.com",
+      "website": "www.murlink.com"
     },
     {
       "name": "INEOS AUTOMOTIVE GMBH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ineos-automotive-en",
       "address": {
-        "text": "Passeig de Gràcia, 53, Ático 1",
+        "text": "Passeig de Gràcia, 53, Ático 1 08007 Barcelona\nEspaña",
         "iso2": "ES",
         "lat": 41.3923074,
         "lon": 2.1638662
-      }
+      },
+      "telephone": "+34 900031151",
+      "email": "customerservice@ineosgrenadier.com",
+      "website": "www.ineosgrenadier.com/es"
     },
     {
       "name": "INETUM ESPAÑA S.A",
@@ -2921,27 +3485,33 @@
       "name": "INFACOM",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-infacom-en",
       "address": {
-        "text": "TUMACO 18",
-        "iso2": "CO",
-        "lat": 1.787434,
-        "lon": -78.791265
-      }
+        "text": "TUMACO 18 28027 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4453937,
+        "lon": -3.6344482
+      },
+      "telephone": "+34 91 3205871",
+      "email": "info@infacom.es",
+      "website": "www.infacom.es"
     },
     {
       "name": "INFODEFENSA.COM",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-infodefensa-com-en",
       "address": {
-        "text": "Calle Guzmán el Bueno 98, entreplanta A",
+        "text": "Calle Guzmán el Bueno 98, entreplanta A 28003 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4415672,
-        "lon": -3.7122167
-      }
+        "lat": 40.4387246,
+        "lon": -3.7128678
+      },
+      "telephone": "+34 915 940 734",
+      "email": "gabad@idsolutions.biz",
+      "website": "https://www.infodefensa.com"
     },
     {
       "name": "INGEDECA CONSTRUCTORA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ingedeca-constructora-en",
       "address": {
-        "text": "Avda Apreama, nº 34 P.I. La Torrecilla, C.P",
+        "text": "Avda Apreama, nº 34 P.I. La Torrecilla, C.P 14013, Córdoba.\nEspaña",
         "iso2": "ES",
         "lat": 37.8500942,
         "lon": -4.7960389
@@ -2952,7 +3522,13 @@
     {
       "name": "INGENIACITY",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ingeniacity-en",
-      "address": "C/Pedro Puig Adam, SN, Oficina 13",
+      "address": {
+        "text": "C/Pedro Puig Adam, SN, Oficina 13 Gijón (Asturias)\nEspaña",
+        "iso2": "ES",
+        "lat": 43.5238955,
+        "lon": -5.6303643
+      },
+      "telephone": "(+34) 984 29 74 79 (+34) 650 32 27 96",
       "email": "tamara@ingeniacity.com",
       "website": "https://www.ingeniacity.com/en/"
     },
@@ -2960,21 +3536,27 @@
       "name": "INGEYSER DPC",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ingeyser-dpc-en",
       "address": {
-        "text": "PSO. LINAREJOS 52",
+        "text": "PSO. LINAREJOS 52 LINARES (JAÉN)\nEspaña",
         "iso2": "ES",
-        "lat": 41.9379882,
-        "lon": -6.489314599999999
-      }
+        "lat": 38.1030995,
+        "lon": -3.6229856
+      },
+      "telephone": "+34 953 897 564",
+      "email": "ingeyser@ingeyser.es",
+      "website": "www.ingeyser.es"
     },
     {
       "name": "INNOVASUR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-innovasur-en",
       "address": {
-        "text": "Calle Sierra Morena 12-A Parque Científico y Tecnológico Geolit",
+        "text": "Calle Sierra Morena 12-A Parque Científico y Tecnológico Geolit 23620 Mengíbar, Jaén\nEspaña",
         "iso2": "ES",
-        "lat": 37.9398061,
-        "lon": -3.7914603
-      }
+        "lat": 37.9697471,
+        "lon": -3.8146526
+      },
+      "telephone": "+34 627070605",
+      "email": "Isabel.reyes@innovasur.com",
+      "website": "www.innovasur.com"
     },
     {
       "name": "INNOVATION FOR SHELTER S.L. (I-4S)",
@@ -2986,6 +3568,7 @@
         "lon": -4.0672298
       },
       "telephone": "+34 918 990 990 / +34 620 678 341",
+      "email": "contact@i-4s.com q.graullera@i-4s.com",
       "website": "https://www.i-4s.com"
     },
     {
@@ -2997,33 +3580,48 @@
         "lat": 41.6525545,
         "lon": -0.8692295
       },
-      "telephone": "+34 976 293 422"
+      "telephone": "+34 976 293 422",
+      "email": "comercial@instalaza.es",
+      "website": "www.instalaza.com"
     },
     {
       "name": "INSTER-GRUPO OESÍA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-inster-grupo-oesia-en",
       "address": {
-        "text": "Av. Rita Levi Montalcini, 2,",
+        "text": "Av. Rita Levi Montalcini, 2, 28906 Getafe, MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.2736769,
         "lon": -3.7366064
-      }
+      },
+      "telephone": "+34 913 80 20 22",
+      "email": "isegoviano@oesia.com / valvarez@oesia.com",
+      "website": "http://grupooesia.com"
     },
     {
       "name": "INSTITUTO NACIONAL DE TÉCNICA AEROESPACIAL (INTA)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-instituto-nacional-de-tecnica-aeroespacial-inta-en",
       "address": {
-        "text": "CRTA. AJALVIR PKm 4 Torrejón de Ardoz",
+        "text": "CRTA. AJALVIR PKm 4 Torrejón de Ardoz (Madrid) 28850\nEspaña",
         "iso2": "ES",
-        "lat": 40.4567552,
-        "lon": -3.4754967
+        "lat": 40.0998831,
+        "lon": -3.6339291
       },
-      "email": "carrionmj@inta.es"
+      "telephone": "+34 915201506 / +34 915201822",
+      "email": "carrionmj@inta.es ubedaco@inta.es",
+      "website": "www.inta.es"
     },
     {
       "name": "INSYTE SOLUCIONES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-insyte-soluciones-en",
-      "address": "C. Alta Nº 11"
+      "address": {
+        "text": "C. Alta Nº 11 23669 La Bobadilla - Jaén\nEspaña",
+        "iso2": "ES",
+        "lat": 37.6638706,
+        "lon": -4.1056104
+      },
+      "telephone": "+34 91 492 06 60",
+      "email": "info@insytesoluciones.es",
+      "website": "https://www.insytesoluciones.es"
     },
     {
       "name": "INSYTE, S.A",
@@ -3047,7 +3645,9 @@
         "lat": 40.4321388,
         "lon": -3.5428727
       },
-      "telephone": "+34 911 888 898"
+      "telephone": "+34 911 888 898",
+      "email": "info@integra-international.es",
+      "website": "https://integra-international.es"
     },
     {
       "name": "INTEGRACION TECNOLOGICA EMPRESARIAL",
@@ -3066,31 +3666,38 @@
       "name": "INTEGRALIA ENERGIA INSTALACIONES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-integralia-energia-instalaciones-en",
       "address": {
-        "text": "C/ BERLIN ESQUINA C/ OSLO, PARCELA B-1 POL. IND.",
-        "iso2": "NO",
-        "lat": 59.9138688,
-        "lon": 10.7522454
-      }
+        "text": "C/ BERLIN ESQUINA C/ OSLO, PARCELA B-1 POL. IND. CABEZO BEAZA 30353 CARTAGENA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.6229122,
+        "lon": -0.9575678
+      },
+      "telephone": "+34 650 470 907",
+      "email": "a.baraza@integraliaenergia.es",
+      "website": "www.integraliaenergia.es"
     },
     {
       "name": "INVEST IN LA CAROLINA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-invest-in-la-carolina-en",
       "address": {
-        "text": "Plaza del Ayuntamiento, 1",
+        "text": "Plaza del Ayuntamiento, 1 23200. La Carolina (Jaén)\nEspaña",
         "iso2": "ES",
-        "lat": 39.4698437,
-        "lon": -0.3769634
-      }
+        "lat": 38.2742141,
+        "lon": -3.6151515
+      },
+      "telephone": "+34 606883989",
+      "email": "jgomez@lacarolina.es",
+      "website": "www.investinlacarolina.es"
     },
     {
       "name": "IQUA ROBOTICS SL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-iqua-robotics-en",
       "address": {
-        "text": "Pic de Peguera 11",
+        "text": "Pic de Peguera 11 17003 Girona\nEspaña",
         "iso2": "ES",
-        "lat": 42.54037100000001,
-        "lon": 1.005252
+        "lat": 41.9667269,
+        "lon": 2.8365565
       },
+      "telephone": "+34 972183311",
       "email": "info@iquarobotics.com",
       "website": "www.iquarobotics.com"
     },
@@ -3124,11 +3731,14 @@
       "name": "ITEMAT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-itemat-en",
       "address": {
-        "text": "Polígono de Olloniego, parcela A18",
+        "text": "Polígono de Olloniego, parcela A18 33660 Oviedo\nEspaña",
         "iso2": "ES",
         "lat": 43.3131933,
         "lon": -5.8165983
-      }
+      },
+      "telephone": "+34 985451472",
+      "email": "javierescotet@itemat.net",
+      "website": "http://www.itemat.net"
     },
     {
       "name": "ITP Aero - INDUSTRIA DE TURBO PROPULSORES S.A.U.",
@@ -3147,11 +3757,14 @@
       "name": "ITS DEFENSE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-its-defense-en",
       "address": {
-        "text": "Pol. Promogranda 2",
-        "iso2": "IT",
-        "lat": 44.3881667,
-        "lon": 7.542584100000001
-      }
+        "text": "Pol. Promogranda 2 33199 Granda, Siero – Asturias\nEspaña",
+        "iso2": "ES",
+        "lat": 43.3771143,
+        "lon": -5.7734499
+      },
+      "telephone": "+34 985 722 601",
+      "email": "cesar@itssafety.com",
+      "website": "www.itssafety.com"
     },
     {
       "name": "ITURRI",
@@ -3195,7 +3808,15 @@
     {
       "name": "JOWO - SYSTEMTECHNIK AG",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-jowo-systemtechnik-ag-en",
-      "address": "Lange Wand 12"
+      "address": {
+        "text": "Lange Wand 12 27753 Delmenhorst\nGermany",
+        "iso2": "DE",
+        "lat": 53.0391035,
+        "lon": 8.5855066
+      },
+      "telephone": "+49 4221 916 495-0",
+      "email": "h.janssen@jowo.ag",
+      "website": "www.jowo.ag"
     },
     {
       "name": "KA SAFE ENGINEERING AND CONSULTING",
@@ -3214,21 +3835,26 @@
       "name": "KABALLERO SYSTEM",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-kaballero-system-en",
       "address": {
-        "text": "Eufemiano Jurado 29, 2D",
+        "text": "Eufemiano Jurado 29, 2D 35016. Las Palmas de Gran Canaria\nEspaña",
         "iso2": "ES",
         "lat": 28.0957961,
         "lon": -15.4178094
-      }
+      },
+      "telephone": "+34 699267616",
+      "email": "info@kaballerosystem.com",
+      "website": "www.kaballerosystem.com"
     },
     {
       "name": "KERBEROS ENGINEERING",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-kerberos-engineering-en",
       "address": {
-        "text": "Calle Salvador Dali 31",
+        "text": "Calle Salvador Dali 31 30520, Jumilla, Murcia\nEspaña",
         "iso2": "ES",
-        "lat": 39.4084529,
-        "lon": -2.9511195
-      }
+        "lat": 38.4741402,
+        "lon": -1.3166395
+      },
+      "telephone": "+34 722414687",
+      "email": "Emilio.lozano@kerberosengineering.com"
     },
     {
       "name": "KEYTER",
@@ -3245,17 +3871,27 @@
       "name": "KHEGAL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-khegal-en",
       "address": {
-        "text": "Pol. Ind. Egiburuberri, 11ª\nEspaña",
+        "text": "Pol. Ind. Egiburuberri, 11ª 20100 RENTERIA Gipuzkoa\nEspaña",
         "iso2": "ES",
-        "lat": 43.2975544,
-        "lon": -1.8964647
+        "lat": 43.2933769,
+        "lon": -1.9002692
       },
-      "telephone": "+34 943 260 072"
+      "telephone": "+34 943 260 072",
+      "email": "comercial@khegal.com",
+      "website": "www.khegal.com"
     },
     {
       "name": "KONGSBERG DEFENCE AND AEROSPACE AS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-kongsberg-defence-aerospace-en",
-      "address": "Kirkegårdsveien 45 P.O. Box 1003"
+      "address": {
+        "text": "Kirkegårdsveien 45 P.O. Box 1003 NO-3601 Kongsberg\nNorway",
+        "iso2": "NO",
+        "lat": 59.65348160000001,
+        "lon": 9.644131
+      },
+      "telephone": "0047 934 58 680",
+      "email": "Helene.stene@kongsberg.com",
+      "website": "https://www.kongsberg.com/kda/"
     },
     {
       "name": "KORTA",
@@ -3274,60 +3910,88 @@
       "name": "KRC ESPAÑOLA S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-krc-espanola-en",
       "address": {
-        "text": "C/ Barbastro 5, local",
+        "text": "C/ Barbastro 5, local 28022 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 42.0360435,
-        "lon": 0.1284404
-      }
+        "lat": 40.4461792,
+        "lon": -3.6106608
+      },
+      "telephone": "+34 913930396",
+      "email": "info@krc.es",
+      "website": "www.krc.es"
     },
     {
       "name": "KYMATIO - WAYRA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-kymatio-en",
       "address": {
-        "text": "Herreros de Tejada 10, 5ºA",
+        "text": "Herreros de Tejada 10, 5ºA Madrid 28016, España\nEspaña",
         "iso2": "ES",
         "lat": 40.4538796,
         "lon": -3.6812607
-      }
+      },
+      "telephone": "+34 629454985",
+      "email": "fernando.mateus@kymatio.com",
+      "website": "https://kymatio.com"
     },
     {
       "name": "LAGUN MACHINE TOOLS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-lagun-machine-tools-en",
-      "address": "BAZTERRETXE AUZOA 4"
+      "address": {
+        "text": "BAZTERRETXE AUZOA 4 20720 AZKOITIA GIPUZKOA\nEspaña",
+        "iso2": "ES",
+        "lat": 43.054714,
+        "lon": -2.1769336
+      },
+      "telephone": "+34 652 735 490",
+      "email": "iaizpurua@lagunmt.com",
+      "website": [
+        "www.lagunmt.com",
+        "www.portable.lagunmt.com"
+      ]
     },
     {
       "name": "LANCO GROUP GMBH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-lanco-group-gmbh-en",
       "address": {
-        "text": "Sure Wisch 6",
+        "text": "Sure Wisch 6 D-30625 Hannover\nGermany",
         "iso2": "DE",
         "lat": 52.3801054,
         "lon": 9.8274727
-      }
+      },
+      "telephone": "+49 511 367 155-0",
+      "email": "rvoivoda@lanco-group.com",
+      "website": "https://www.lanco-tents.com"
     },
     {
       "name": "LEMO CONNECTORS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ficha-lemo-connectors-en",
-      "country": {
-        "text": "C/BRASIL 45",
-        "iso2": "BR"
-      }
+      "address": {
+        "text": "C/BRASIL 45 08402, GRANOLLERS, BARCELONA\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6079853,
+        "lon": 2.2971766
+      },
+      "telephone": "+34 938604420",
+      "email": "eventura@lemo.com",
+      "website": "https://www.lemo.com/es/application/militar"
     },
     {
       "name": "LIDERKIT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-liderkit-en",
       "address": {
-        "text": "P.I. EL GUADIEL, AVDA. LINARES, 17",
+        "text": "P.I. EL GUADIEL, AVDA. LINARES, 17 23210 GUARROMÁN (JAÉN)\nEspaña",
         "iso2": "ES",
-        "lat": 38.0719158,
-        "lon": -3.5893215
-      }
+        "lat": 38.1476374,
+        "lon": -3.7215456
+      },
+      "telephone": "+34 647507714",
+      "email": "msoria@liderkit.com",
+      "website": "www.liderkit.com"
     },
     {
       "name": "LINEAS Y CABLES S.A",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-lineas-y-cables-s-a-en",
       "address": {
-        "text": "Calle Virgilio 19\nEspaña",
+        "text": "Calle Virgilio 19 Ciudad de la Imagen 28223 Pozuelo de Alarcón (Madrid)\nEspaña",
         "iso2": "ES",
         "lat": 40.3964556,
         "lon": -3.7954834
@@ -3340,11 +4004,12 @@
       "name": "LOCKHEED MARTIN ESPAÑA, S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-lockheed-martin-espana-s-a-en",
       "address": {
-        "text": "C/Orense 34 – 9ª Planta",
+        "text": "C/Orense 34 – 9ª Planta MADRID 28020\nEspaña",
         "iso2": "ES",
         "lat": 40.4544246,
         "lon": -3.6941006
       },
+      "telephone": "+34 91 598 12 90",
       "email": "beatriz.albiac@lmco.com",
       "website": "www.lockheedmartin.com"
     },
@@ -3352,31 +4017,39 @@
       "name": "LOOP TECHNICAL SERVICES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-loop-technical-services-en",
       "address": {
-        "text": "CALLE BUGANVILLA, 2 4D",
+        "text": "CALLE BUGANVILLA, 2 4D 28036 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4715,
         "lon": -3.67641
-      }
+      },
+      "telephone": "+34651526095",
+      "email": "loop@weloopyou.com",
+      "website": "www.weloopyou.com"
     },
     {
       "name": "LUBAWA SA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-lubawa-en",
       "address": {
-        "text": "Staroprzygodzka 117",
+        "text": "Staroprzygodzka 117 63-400 Ostrów Wielkopolski\nPoland",
         "iso2": "PL",
         "lat": 51.6231683,
         "lon": 17.7999601
-      }
+      },
+      "telephone": "+48 607 150 778",
+      "email": "tradziminski@lubawa.com.pl",
+      "website": "https://lubawa.com.pl/en/"
     },
     {
       "name": "MAGTEL OPERACIONES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-magtel-operaciones-en",
       "address": {
-        "text": "c/Gabriel Ramos Bejarano, 114 - Pol. Ind Las Quemadas",
+        "text": "c/Gabriel Ramos Bejarano, 114 - Pol. Ind Las Quemadas 14014 Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.8995644,
         "lon": -4.723391599999999
       },
+      "telephone": "+34 629136835",
+      "email": "comunicacion@magtel.es juan.cifuentes@magtel.es",
       "website": "www.magtel.es"
     },
     {
@@ -3388,18 +4061,22 @@
         "lat": 38.3891958,
         "lon": -4.967559899999999
       },
-      "telephone": "+34 606194770",
-      "email": "martin@mallasgalbis.es"
+      "telephone": "+34 606194770 +34 957770888",
+      "email": "martin@mallasgalbis.es maria@mallasgalbis.es",
+      "website": "www.mallasgalbis.es"
     },
     {
       "name": "MALTIVERSE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-maltiverse-en",
       "address": {
-        "text": "Calle Goya 51",
+        "text": "Calle Goya 51 28001, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4252857,
         "lon": -3.6818551
-      }
+      },
+      "telephone": "+34 630971493",
+      "email": "Hesaul.sanchez@maltiverse.com",
+      "website": "www.maltiverse.com"
     },
     {
       "name": "MANN - HUMMEL IBÉRICA S.A.U.",
@@ -3430,86 +4107,132 @@
     {
       "name": "MARINE SPECIALISED TECHNOLOGY GROUP",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-marine-specialised-technology-group-en",
-      "address": "The Shipyard, Riverbank Road"
+      "address": {
+        "text": "The Shipyard, Riverbank Road Bromborough, Wirral, CH62 3JQ\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.3453743,
+        "lon": -2.9696592
+      },
+      "telephone": "+44 (0) 151 708 4112",
+      "email": "sales@mstltd.com",
+      "website": "www.mstltd.com"
     },
     {
       "name": "MAXWELL APPLIED TECHNOLOGIES S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-maxwell-applied-technologies-en",
       "address": {
-        "text": "Rúa das Hedras, 2, 3ºD",
+        "text": "Rúa das Hedras, 2, 3ºD 15895 O Milladoiro, La Coruña\nEspaña",
         "iso2": "ES",
-        "lat": 42.8777824,
-        "lon": -8.5275872
-      }
+        "lat": 42.8487737,
+        "lon": -8.581558000000001
+      },
+      "telephone": "+34 981 522 200",
+      "email": "info@maxwell.team",
+      "website": "www.maxwell-atech.com"
     },
     {
       "name": "MBDA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mbda-en",
       "address": {
-        "text": "Plaza Pablo Ruiz Picasso, 1. Torre Picasso, 28020 Madrid",
+        "text": "Plaza Pablo Ruiz Picasso, 1. Torre Picasso, 28020 Madrid 1 avenue Réaumur 92350 Le Plessis-Robinson\nSpain and France",
         "iso2": "ES",
-        "lat": 40.450278,
-        "lon": -3.6925
+        "lat": 40.4167754,
+        "lon": -3.7037902
       },
-      "email": "MBDA.ES@mbda-systems.com"
+      "telephone": "+34 917 693 804 +33 171 54 10 00",
+      "email": "MBDA.ES@mbda-systems.com salesenquiries@mbda-systems.com",
+      "website": "www.mbda-systems.com/"
     },
     {
       "name": "MECANICAS BOLEA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mecanicas-bolea-en",
       "address": {
-        "text": "AVDA BRUSELAS S/N",
+        "text": "AVDA BRUSELAS S/N CARTAGENA (MURCIA)\nEspaña",
         "iso2": "ES",
-        "lat": 40.4396908,
-        "lon": -3.6636913
+        "lat": 37.6250549,
+        "lon": -0.956791
       },
-      "email": "psbolea@gmbolea.com"
+      "telephone": "+34 968324220",
+      "email": "psbolea@gmbolea.com evalcarcel@gmbolea.com",
+      "website": "www.mecanicasbolea.com"
     },
     {
       "name": "MECANIZADOS J.J. CELDRAN S.L.U.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mecanizados-j-j-celdran-en",
-      "address": "Av. Bruselas 138, Pol Ind",
+      "address": {
+        "text": "Av. Bruselas 138, Pol Ind Cabezo Beaza 30353 Cartagena, Murcia\nEspaña",
+        "iso2": "ES",
+        "lat": 37.6229011,
+        "lon": -0.952464
+      },
+      "telephone": "+34 616 94 55 94 +34 618 70 86 75",
+      "email": "oscarpagaza@jjceldran.com nicolas@jjceldran.com",
       "website": "www.jjceldran.com"
     },
     {
       "name": "MECANUS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mecanus-en",
-      "address": "POL. INDUSTRIAL VALDEFERRIN PARCELA R 48-49"
+      "address": {
+        "text": "POL. INDUSTRIAL VALDEFERRIN PARCELA R 48-49 EJEA DE LOS CABALLEROS (ZARAGOZA)\nEspaña",
+        "iso2": "ES",
+        "lat": 42.127858,
+        "lon": -1.1700982
+      },
+      "telephone": "+34 685859731",
+      "email": "esumelzo@mecanus.com",
+      "website": "www.mecanus.com"
     },
     {
       "name": "MECÁNICA DE PRECISIÓN TEJEDOR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mecanica-de-precision-tejedor-en",
       "address": {
-        "text": "c/ Milanos, 11, Polígono Industrial La Estación",
+        "text": "c/ Milanos, 11, Polígono Industrial La Estación 28320 Pinto (Madrid)\nEspaña",
         "iso2": "ES",
-        "lat": 40.2491261,
-        "lon": -3.7057443
-      }
+        "lat": 40.2488872,
+        "lon": -3.7062676
+      },
+      "telephone": "+34 91 691 30 00",
+      "email": "informacion@mptejedor.com pablotejedor@mptejedor.com jcarranz@mptejedor.com",
+      "website": "www.mptejedor.com"
     },
     {
       "name": "MEISA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-meisa-en",
-      "address": "Pol. Ind. El Cabezuelo s/n."
+      "address": {
+        "text": "Pol. Ind. El Cabezuelo s/n. 13440 Argamasilla de Cva. (Ciudad Real)\nEspaña",
+        "iso2": "ES",
+        "lat": 38.7186035,
+        "lon": -4.086796
+      },
+      "telephone": "+34 663 039 375",
+      "email": "Rogelio.denova@meisa-e.com",
+      "website": "www.meisa-e.com"
     },
     {
       "name": "MENPRO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-menpro-en",
       "address": {
-        "text": "C/ Marie Curie, 5-7, Edif. Alfa, 7.ª planta",
+        "text": "C/ Marie Curie, 5-7, Edif. Alfa, 7.ª planta 28521 Rivas-Vaciamadrid (Madrid)\nEspaña",
         "iso2": "ES",
-        "lat": 41.43746480000001,
-        "lon": 2.1666352
-      }
+        "lat": 40.3385483,
+        "lon": -3.524672
+      },
+      "telephone": "(+34) 91 552 21 61",
+      "email": "info@menpro.es",
+      "website": "www.menpro.es"
     },
     {
       "name": "MERCURY SYSTEMS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mercury-systems-en",
       "address": {
-        "text": "50 Minuteman Road",
+        "text": "50 Minuteman Road Andover, MA 01810\nUSA",
         "iso2": "US",
         "lat": 42.6884746,
         "lon": -71.2156787
       },
-      "email": "Xavier.fito@ch.mrcy.com"
+      "telephone": "+41 22 884 51 65 (Xavier) / +1 (978) 967-1300 (David)",
+      "email": "Xavier.fito@ch.mrcy.com David.esteban@es.mrcy.com",
+      "website": "www.mrcy.com"
     },
     {
       "name": "METALCORDOBA",
@@ -3520,27 +4243,35 @@
         "lat": 37.902112,
         "lon": -4.7184177
       },
-      "telephone": "+34 633 747 860"
+      "telephone": "+34 633 747 860 +34 957 927 922",
+      "email": "metalcordoba@metalcordoba.com",
+      "website": "www.metalcordoba.com"
     },
     {
       "name": "METALMECANICAS HERJIMAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-metalmecanicas-herjimar-en",
       "address": {
-        "text": "Calle Manganeso 78-86 Pol. Industrial",
+        "text": "Calle Manganeso 78-86 Pol. Industrial Los Camachos, Cartagena (Murcia)\nEspaña",
         "iso2": "ES",
         "lat": 37.6481946,
         "lon": -0.9243026
-      }
+      },
+      "telephone": "+34 629 69 02 87 +34 607 98 55 23",
+      "email": "jayala@herjimar.com",
+      "website": "www.herjimar.com"
     },
     {
       "name": "METROHM HISPANIA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-metrohm-hispania-en",
       "address": {
-        "text": "CALLE AGUACATE 15",
+        "text": "CALLE AGUACATE 15 28044 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.37160009999999,
         "lon": -3.7473342
-      }
+      },
+      "telephone": "+34 915086586",
+      "email": "MH@METROHM.ES",
+      "website": "WWW.METROHM.ES"
     },
     {
       "name": "MIILUX OY",
@@ -3559,21 +4290,27 @@
       "name": "MILANION NTGS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-milanion-ntgs-en",
       "address": {
-        "text": "Calle Buril, 65",
+        "text": "Calle Buril, 65 Collado Villalba - Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.6239578,
         "lon": -4.0197824
-      }
+      },
+      "telephone": "+34 91 710 5489",
+      "email": "jce@ntgs.es",
+      "website": "www.ntgs.es"
     },
     {
       "name": "MILDEF",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mildef-en",
       "address": {
-        "text": "Muskötgatan 6",
+        "text": "Muskötgatan 6 254 66 Helsingborg\nSweden",
         "iso2": "SE",
-        "lat": 57.8037898,
-        "lon": 12.0314557
-      }
+        "lat": 56.0734827,
+        "lon": 12.7179615
+      },
+      "telephone": "+46-42-25 00 00",
+      "email": "jesper.tuomi@mildef.com",
+      "website": "www.mildef.com"
     },
     {
       "name": "MILEXIA IBÉRICA S.A.U.",
@@ -3597,18 +4334,20 @@
         "lat": 43.36025859999999,
         "lon": -5.8493346
       },
-      "telephone": "+34 600543264",
-      "email": "avalecas@militex.eu"
+      "telephone": "+34 600543264 +34 626309486",
+      "email": "avalecas@militex.eu dfortiz@militex.eu",
+      "website": "www.militex.eu"
     },
     {
       "name": "MINISTERIO DE DEFENSA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ministerio-de-defensa-en",
       "address": {
-        "text": "Paseo de la Castellana 109",
+        "text": "Paseo de la Castellana 109 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4556078,
         "lon": -3.6918811
       },
+      "telephone": "+34 661482539 +34 687137799",
       "email": "jdelgo5@mde.es",
       "website": "https://www.defensa.gob.es"
     },
@@ -3616,33 +4355,43 @@
       "name": "MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ministerio-de-industria-comercio-y-turismo-en",
       "address": {
-        "text": "Paseo de la Castellana 160",
+        "text": "Paseo de la Castellana 160 Madrid 28071\nEspaña",
         "iso2": "ES",
-        "lat": 40.4569265,
-        "lon": -3.6892214
+        "lat": 40.4260571,
+        "lon": -3.6898134
       },
+      "telephone": "+34 91 349 43 72 +34 91 349 46 41",
+      "email": "AMLAGARES@mincotur.es mcastilla@mincotur.es",
       "website": "www.mincotur.es"
     },
     {
       "name": "MINISTERIO DEL INTERIOR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ministerio-del-interior-en",
       "address": {
-        "text": "Amador de los Ríos, 7",
+        "text": "Amador de los Ríos, 7 28010 Madrid.\nEspaña",
         "iso2": "ES",
         "lat": 40.4276104,
         "lon": -3.6912892
-      }
+      },
+      "telephone": "+34 91 537 18 05",
+      "email": "sgpgims.secretaria@interior.es",
+      "website": [
+        "www.policia.es",
+        "www.guardiacivil.es"
+      ]
     },
     {
       "name": "MIRANDA MILITARY",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-miranda-military-en",
       "address": {
-        "text": "ul. Jedwabnicza 1",
+        "text": "ul. Jedwabnicza 1 62-700 Turek\nPoland",
         "iso2": "PL",
         "lat": 52.0205058,
         "lon": 18.5257035
       },
-      "email": "lzieba@miranda.pl"
+      "telephone": "+48 63 280 01 11 +48 451 116 811",
+      "email": "lzieba@miranda.pl military@miranda.pl",
+      "website": "https://mirandamilitary.pl"
     },
     {
       "name": "MITIGA SOLUTIONS",
@@ -3661,11 +4410,12 @@
       "name": "MIZAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-mizar-en",
       "address": {
-        "text": "C/ Arriurdina, 11",
+        "text": "C/ Arriurdina, 11 01015 Gasteiz/Vitoria\nEspaña",
         "iso2": "ES",
         "lat": 42.83519099999999,
         "lon": -2.7286789
       },
+      "telephone": "+34 945 284 035 +34 620 87 13 57",
       "email": "josetxu.martinez@mizaradditive.com",
       "website": "https://mizaradditive.com"
     },
@@ -3686,11 +4436,13 @@
       "name": "MÁLAGA AEROSPACE, DEFENSE AND ELECTRONICS SYSTEMS (MADES)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-malaga-aerospace-defense-and-electronics-systems-mades-en",
       "address": {
-        "text": "Av. Juan López de Peñalver 12. Malaga TechPark",
+        "text": "Av. Juan López de Peñalver 12. Malaga TechPark 29590. Málaga\nEspaña",
         "iso2": "ES",
         "lat": 36.7353761,
         "lon": -4.5516439
       },
+      "telephone": "+34 659 08 79 28 +34 629 66 58 19",
+      "email": "agarcia@mades.es leandro@mades.es",
       "website": "www.mades.es"
     },
     {
@@ -3702,8 +4454,9 @@
         "lat": 60.7293838,
         "lon": 10.616415
       },
-      "telephone": "+47 99 23 13 84",
-      "email": "gry.merethe.evensen@nammo.com"
+      "telephone": "+47 99 23 13 84 +34 606 089 683",
+      "email": "gry.merethe.evensen@nammo.com lucas.garcia@nammo.com",
+      "website": "www.nammo.com"
     },
     {
       "name": "NANOCARBONOIDS",
@@ -3721,17 +4474,27 @@
     {
       "name": "NARWHAL BOATS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-narwhal-boats-en",
-      "address": "POL.IND.A GRANXA, Avenida Principal s/n"
+      "address": {
+        "text": "POL.IND.A GRANXA, Avenida Principal s/n 36475 Porriño, Pontevedra\nEspaña",
+        "iso2": "ES",
+        "lat": 42.1054289,
+        "lon": -8.6187661
+      },
+      "telephone": "(+34) 661 516 060",
+      "email": "export@narwhal.es",
+      "website": "www.narwhal.es"
     },
     {
       "name": "NATIONAL AIR CARGO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-national-air-cargo-en",
       "address": {
-        "text": "Calle Bahía de Pollensa, 11, Bajo A",
+        "text": "Calle Bahía de Pollensa, 11, Bajo A 28042, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4657302,
         "lon": -3.5934884
       },
+      "telephone": "+34 608 359 011 +34 660 779 815",
+      "email": "gfernandez@nationalaircargo.com kcodallo@nationalaircargo.com",
       "website": "https://www.nationalaircargo.com"
     },
     {
@@ -3748,7 +4511,13 @@
     {
       "name": "NEFAB SAU",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nefab-en",
-      "address": "C/ Gutemberg, 23 - Pol. Ind. El Lomo",
+      "address": {
+        "text": "C/ Gutemberg, 23 - Pol. Ind. El Lomo 28906 Getafe - Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.2953152,
+        "lon": -3.6985248
+      },
+      "telephone": "+34 916 96 69 11",
       "email": "yasmina.jara@nefab.com",
       "website": "https://nefab.com"
     },
@@ -3775,33 +4544,47 @@
         "lon": -3.6600388
       },
       "telephone": "+34 91 381 06 00",
-      "email": "Jorge.delatorre@nvlspain.es",
+      "email": "Jorge.delatorre@nvlspain.es diego.grinan@nvlspain.es lidia.torres@nvlsapin.es",
       "website": "https://www.nvls.es"
     },
     {
       "name": "NISTICS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nistics-en",
       "address": {
-        "text": "Avd de la fábrica, s/n",
+        "text": "Avd de la fábrica, s/n 14005 Córdoba\nEspaña",
         "iso2": "ES",
-        "lat": 37.8811863,
-        "lon": -4.8094499
-      }
+        "lat": 37.8770841,
+        "lon": -4.8154585
+      },
+      "telephone": "+34 663151245",
+      "email": "Rocio_zamorano@nistics.com",
+      "website": "https://nistics.com"
     },
     {
       "name": "NIXUS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nixus-en",
-      "address": "Gen.M.R.Stefanika 7061"
+      "address": {
+        "text": "Gen.M.R.Stefanika 7061 Trencin 91101\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.8947374,
+        "lon": 18.0612618
+      },
+      "telephone": "+421 918 516 922",
+      "email": "zuzana@zepelin.sk",
+      "website": "www.nixus2protect.com"
     },
     {
       "name": "NODO ANDALUZ DE INNOVACIÓN Y TECNOLOGÍA EN DEFENSA (JUNTA DE ANDALUCÍA)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nodo-andaluz-de-innovacion-y-tecnologia-en-defensa-junta-de-andalucia-en",
       "address": {
-        "text": "C/ Johannes Kepler, 1",
+        "text": "C/ Johannes Kepler, 1 41092 Isla de la Cartuja, Sevilla\nESPAÑA",
         "iso2": "ES",
-        "lat": 36.7337555,
-        "lon": -4.5429255
-      }
+        "lat": 37.40838,
+        "lon": -6.004303
+      },
+      "telephone": "+34 955 007 497",
+      "email": "defensa.aac@juntadeandalucia.es",
+      "website": "https://juntadeandalucia.es/organismos/aac.html"
     },
     {
       "name": "NORDMEYER SMAG GMBH",
@@ -3858,7 +4641,13 @@
     {
       "name": "NUTRIPEOPLE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nutripeople-en",
-      "address": "PARAJE BARRANCO MOLAX S/N",
+      "address": {
+        "text": "PARAJE BARRANCO MOLAX S/N 30550 ABARÁN MURCIA\nEspaña",
+        "iso2": "ES",
+        "lat": 38.2040853,
+        "lon": -1.4012039
+      },
+      "telephone": "+34 660127676",
       "email": "reyes@nutripeople.org",
       "website": "www.nutripeople.org"
     },
@@ -3879,35 +4668,49 @@
       "name": "NWORLD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-nworld-en",
       "address": {
-        "text": "C/ Roldán y Marín 12",
+        "text": "C/ Roldán y Marín 12 Jaén\nEspaña",
         "iso2": "ES",
         "lat": 37.7687764,
         "lon": -3.7880126
-      }
+      },
+      "telephone": "+34 656 819 831",
+      "email": "eduardo.remirez@bosonit.com",
+      "website": "https://n.world/en/"
     },
     {
       "name": "OCCAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-occar-en",
       "address": {
-        "text": "Godesberger Allee 150-154,",
+        "text": "Godesberger Allee 150-154, 53175 Bonn\nGermany",
         "iso2": "DE",
         "lat": 50.6981745,
         "lon": 7.1402397
-      }
+      },
+      "telephone": "+49 (0) 228 5502 116",
+      "email": "Fernand.vanwilder@occar.int",
+      "website": "www.occar.int"
     },
     {
       "name": "ODIN SOLUTIONS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-odin-solutions-en",
-      "address": "Calle Palma de Mallorca, 2"
+      "address": {
+        "text": "Calle Palma de Mallorca, 2 30009, Murcia\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9987152,
+        "lon": -1.1434715
+      },
+      "telephone": "+34 868 123 395",
+      "email": "monika@odins.es",
+      "website": "www.odins.es"
     },
     {
       "name": "OFFICINE FONDERIE PATRONE SPA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-officine-fonderie-patrone-spa-en",
       "address": {
-        "text": "Via Ravecca, 23",
+        "text": "Via Ravecca, 23 19123 La Spezia\nItaly",
         "iso2": "IT",
-        "lat": 44.4052435,
-        "lon": 8.934163999999999
+        "lat": 44.1200989,
+        "lon": 9.802294
       },
       "email": "f.cannata@patronespa.it"
     },
@@ -3915,11 +4718,14 @@
       "name": "OKU (OKUN KONEISTUSPALVELU OY)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-oku-okun-koneistuspalvelu-oy-en",
       "address": {
-        "text": "Sätöksentie 66 A",
+        "text": "Sätöksentie 66 A FI-83500 Outokumpu\nFinland",
         "iso2": "FI",
         "lat": 62.7351099,
         "lon": 29.1283724
-      }
+      },
+      "telephone": "+358 45 647 8000",
+      "email": "emi.yoshida@oku.fi",
+      "website": "www.oku.fi"
     },
     {
       "name": "OMNI COMERCIAL",
@@ -3938,27 +4744,33 @@
       "name": "ORACLE IBÉRICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-oracle-iberica-en",
       "address": {
-        "text": "Paseo de la Castellana, 81.",
+        "text": "Paseo de la Castellana, 81. Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4476559,
         "lon": -3.6920397
-      }
+      },
+      "telephone": "+34 91 603 61 88",
+      "email": "Pilar.i.inigo@oracle.com",
+      "website": "https://www.oracle.com/es/"
     },
     {
       "name": "ORBITAL CRITICAL SYSTEMS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-orbital-critical-systems-en",
       "address": {
-        "text": "Carretera de Artica, 29, 3ª planta",
+        "text": "Carretera de Artica, 29, 3ª planta Artica (Navarra)\nEspaña",
         "iso2": "ES",
         "lat": 42.8347577,
         "lon": -1.6533925
       },
+      "telephone": "+34 916756700",
       "email": "info@orbitalcs.com",
       "website": "https://orbitalcs.com"
     },
     {
       "name": "ORTEC ENGINEERING – SONOVISION",
-      "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ortec-engineering-sonovision-en"
+      "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ortec-engineering-sonovision-en",
+      "email": "Info-spain@sonovisiongroup.com",
+      "website": "www.sonovisiongroup.com"
     },
     {
       "name": "OTOKAR A.S.",
@@ -3970,7 +4782,8 @@
         "lon": 29.12472259999999
       },
       "telephone": "+90 216 489 29 50",
-      "email": "bcamci@otokar.com.tr"
+      "email": "bcamci@otokar.com.tr ksukun@otokar.com.tr",
+      "website": "www.otokar.com.tr"
     },
     {
       "name": "OVZON",
@@ -3989,11 +4802,12 @@
       "name": "OXIPLANT CENTRO DE TRANSFORMACIÓN DEL ACERO, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-oxiplant-centro-de-transformacion-del-acero-s-l-en",
       "address": {
-        "text": "POLIGONO INDUSTRIAL TABAZA I – PARCELAS 7-8",
+        "text": "POLIGONO INDUSTRIAL TABAZA I – PARCELAS 7-8 33468 TABAZA – CARREÑO (ASTURIAS)\nEspaña",
         "iso2": "ES",
         "lat": 43.5371825,
         "lon": -5.8343947
       },
+      "telephone": "(+34) 985 51 51 27",
       "email": "oxiplant@oxiplant.com",
       "website": "www.oxiplant.com"
     },
@@ -4006,7 +4820,8 @@
         "lat": 40.4339273,
         "lon": -3.6857838
       },
-      "telephone": "Contact"
+      "email": "spain@palantir.com",
+      "website": "https://www.palantir.com"
     },
     {
       "name": "PANASONIC CONNECT EUROPE GMBH",
@@ -4017,37 +4832,47 @@
         "lat": 50.04909809999999,
         "lon": 8.2187673
       },
-      "telephone": "Contact"
+      "email": "Isaac.feijoo@eu.panasonic.com",
+      "website": "https://business.panasonic.co.uk"
     },
     {
       "name": "PARQUE TECNOLÓGICO DE CORDOBA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-parque-tecnologico-de-cordoba-en",
       "address": {
-        "text": "Calle Astrónoma Cecilia Payne. Edificio Centauro. Planta Baja",
+        "text": "Calle Astrónoma Cecilia Payne. Edificio Centauro. Planta Baja 14014. Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.9066577,
         "lon": -4.7290833
-      }
+      },
+      "telephone": "+34 957340115",
+      "email": "Carmen.gomez@rabanales21.com",
+      "website": "www.rabanales21.com"
     },
     {
       "name": "PARTENON",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-partenon-en",
       "address": {
-        "text": "Prego de Montaos, 7",
+        "text": "Prego de Montaos, 7 36800 Redondela – Pontevedra\nEspaña",
         "iso2": "ES",
         "lat": 42.2805515,
         "lon": -8.6094967
-      }
+      },
+      "telephone": "+34 986 400 558",
+      "email": "nieves@partenon.net / angeles.rodriguez@partenon.net",
+      "website": "https://www.partenon.net"
     },
     {
       "name": "PAYTHUNDER",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-paythunder-en",
       "address": {
-        "text": "Pasaje Balcón de Lagartijo, 31-33",
+        "text": "Pasaje Balcón de Lagartijo, 31-33 14014 Córdoba\nEspaña",
         "iso2": "ES",
         "lat": 37.9001972,
         "lon": -4.7303025
-      }
+      },
+      "telephone": "+34 657132763",
+      "email": "fran@paythunder.com",
+      "website": "www.paythunder.com"
     },
     {
       "name": "PEI GENESIS",
@@ -4079,11 +4904,13 @@
       "name": "PHILIPS IBERICA SAU",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-philips-iberica-sau-en",
       "address": {
-        "text": "C/ Maria de Portugal 1",
+        "text": "C/ Maria de Portugal 1 28050 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4969014,
-        "lon": -3.6635164
+        "lat": 40.495157,
+        "lon": -3.6654386
       },
+      "telephone": "+34 902881082 +34 651134129",
+      "email": "Xavier.teixidor@philips.com ma-anne.valmeoignacio@philips.com",
       "website": "https://www.philips.es/healthcare"
     },
     {
@@ -4129,31 +4956,40 @@
       "name": "PILATUS AIRCRAFT LTD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-pilatus-aircraft-ltd-en",
       "address": {
-        "text": "Pilatusstrasse 1",
+        "text": "Pilatusstrasse 1 6371 Stans\nSwitzerland",
         "iso2": "CH",
-        "lat": 47.0497018,
-        "lon": 8.309100899999999
-      }
+        "lat": 46.9738937,
+        "lon": 8.3802075
+      },
+      "telephone": "+41 79 257 15 15",
+      "email": "giorgio.spada@pilatus-aircraft.com",
+      "website": "www.pilatus-aircraft.com"
     },
     {
       "name": "PIXELS HUB",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-pixels-hub-en",
       "address": {
-        "text": "EDIFICIO INDUSTRIA 4.0. Calle Ada Byron 39, 2 planta",
+        "text": "EDIFICIO INDUSTRIA 4.0. Calle Ada Byron 39, 2 planta 33203 Parque Científico Tecnológico de Gijón. Gijón, Asturias\nEspaña",
         "iso2": "ES",
-        "lat": 43.5210806,
-        "lon": -5.6095219
-      }
+        "lat": 43.5225792,
+        "lon": -5.6112999
+      },
+      "telephone": "+34 689 172 250",
+      "email": "hola@pixels-hub.com",
+      "website": "www.pixels-hub.com"
     },
     {
       "name": "PLAESA (PLANCHAS, AISLAMIENTOS Y EMBALAJES S.L)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-plaesa-planchas-aislamientos-y-embalajes-en",
       "address": {
-        "text": "AVDA. COSTITUCIÓN, 201 POL. IND. MONTE BOYAL",
+        "text": "AVDA. COSTITUCIÓN, 201 POL. IND. MONTE BOYAL 45950 CASARRUBIOS DEL MONTE TOLEDO\nEspaña",
         "iso2": "ES",
         "lat": 40.2148392,
         "lon": -4.0540996
-      }
+      },
+      "telephone": "(+34) 91 818 32 19",
+      "email": "marketing@plaesa.es",
+      "website": "www,plaesa.es"
     },
     {
       "name": "PLD SPACE",
@@ -4164,17 +5000,20 @@
         "lat": 38.2932605,
         "lon": -0.6240435999999999
       },
-      "telephone": "+34 965 06 31 39"
+      "telephone": "+34 965 06 31 39",
+      "email": "info@pldspace.com",
+      "website": "www.pldspace.com"
     },
     {
       "name": "PROMEGA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-promega-en",
       "address": {
-        "text": "P.E PORTO DO MOLLE, RÚA DA MADANELA, 18 NAVE 7D",
+        "text": "P.E PORTO DO MOLLE, RÚA DA MADANELA, 18 NAVE 7D 36350 NIGRÁN. PONTEVEDRA\nEspaña",
         "iso2": "ES",
-        "lat": 42.1397831,
-        "lon": -8.7887934
+        "lat": 42.1398755,
+        "lon": -8.788371399999999
       },
+      "telephone": "+34 986 111 082",
       "email": "promega@promegagalicia.es",
       "website": "https://promegagalicia.es"
     },
@@ -4193,11 +5032,14 @@
       "name": "QP MICROWAVE, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-qp-microwave-s-l-en",
       "address": {
-        "text": "C/Colquide, 6. Edificio Prisma. Portal 2, 3ºC",
+        "text": "C/Colquide, 6. Edificio Prisma. Portal 2, 3ºC Las Rozas de Madrid. 28231 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4996776,
         "lon": -3.8748373
-      }
+      },
+      "telephone": "+34 91 640 95 91",
+      "email": "info@qpmw.com",
+      "website": "www.qpmw.com"
     },
     {
       "name": "QUEST GLOBAL ENGINEERING ESPAÑA S.L.U",
@@ -4215,22 +5057,31 @@
     {
       "name": "R&G METAL SHAPING",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-r-g-metal-shaping-en",
-      "country": {
-        "text": "C/ ESQUIROL,4 (POL.INDD. MALLOLES)",
-        "iso2": "PL"
-      }
+      "address": {
+        "text": "C/ ESQUIROL,4 (POL.INDD. MALLOLES) 08500 - VIC\nEspaña",
+        "iso2": "ES",
+        "lat": 41.9468095,
+        "lon": 2.2808991
+      },
+      "telephone": "+34 93 812 27 44",
+      "email": "gemma@rgmetalshaping.com",
+      "website": "www.rgmetalshaping.com"
     },
     {
       "name": "RAFAEL ADVANCED DEFENSE SYSTEMS LTD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-rafael-advanced-defense-systems-ltd-en",
       "address": {
-        "text": "POB 2250, Haifa, 3102102 Israel",
-        "iso2": "IL",
-        "lat": 32.7940463,
-        "lon": 34.989571
+        "text": "POB 2250, Haifa, 3102102 Israel Av. de las Estaciones, 8, 28850 Torrejón de Ardoz, Madrid, Spain\nIsrael Spain",
+        "iso2": "ES",
+        "lat": 40.4567552,
+        "lon": -3.4754967
       },
-      "telephone": "+972 52 470 45 86",
-      "email": "alberton@rafael.co.il"
+      "telephone": "+972 52 470 45 86 +34 650 977 407",
+      "email": "alberton@rafael.co.il mrial@paptecnos.es",
+      "website": [
+        "https://www.rafael.co.il",
+        "https://www.paptecnos.com/es/"
+      ]
     },
     {
       "name": "RAMOS STS",
@@ -4242,7 +5093,7 @@
         "lon": -3.6849025
       },
       "telephone": "+34 91 797 65 50",
-      "email": "ana@sts-proteccion.es",
+      "email": "ana@sts-proteccion.es pablo@sts-proteccion.es marketing@sts-proteccion.es",
       "website": "https://www.sts-proteccion.com"
     },
     {
@@ -4262,21 +5113,26 @@
       "name": "RED TEAM SHIELD",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-red-team-shield-en",
       "address": {
-        "text": "Calle Aguilón 3, Puerta 1 Local",
+        "text": "Calle Aguilón 3, Puerta 1 Local 28045 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.3978182,
         "lon": -3.7014254
-      }
+      },
+      "telephone": "+34 650 461435",
+      "email": "juan.chulilla@redteamshield.com"
     },
     {
       "name": "REGION DE MURCIA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-region-de-murcia-en",
       "address": {
-        "text": "CL. CONDUCTO, 5-1º",
+        "text": "CL. CONDUCTO, 5-1º 30201. CARTAGENA\nEspaña",
         "iso2": "ES",
         "lat": 37.6023978,
         "lon": -0.9887408000000001
-      }
+      },
+      "telephone": "+34 968507050",
+      "email": "admin@cocin-cartagena.es",
+      "website": "www.cocin-cartagena.es"
     },
     {
       "name": "RENISHAW",
@@ -4301,6 +5157,7 @@
         "lon": -3.6846091
       },
       "telephone": "+34 648960435",
+      "email": "pdiazmarcote@repsol.com jorge.romero.s@repsol.com",
       "website": "www.repsol.com"
     },
     {
@@ -4333,21 +5190,31 @@
       "name": "RHENUS WAREHOUSING SOLUTIONS SPAIN",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-rhenus-warehousing-solutions-spain-en",
       "address": {
-        "text": "Rotonda René Descartes, 2 Nave 1B",
+        "text": "Rotonda René Descartes, 2 Nave 1B 28806 Alcalá de Henares. Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4800104,
         "lon": -3.4061526
-      }
+      },
+      "telephone": "+34 954 115 171",
+      "email": "salesws@rhenus.com",
+      "website": [
+        "Soluciones",
+        "logísticas",
+        "almacenamiento",
+        "(rhenus.group)"
+      ]
     },
     {
       "name": "RODISA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-rodisa-en",
       "address": {
-        "text": "Polígono Ind. de Somonte. C/María González “La Pondala”, 36",
+        "text": "Polígono Ind. de Somonte. C/María González “La Pondala”, 36 33393 Gijón (Asturias)\nEspaña",
         "iso2": "ES",
         "lat": 43.51087589999999,
         "lon": -5.7274629
       },
+      "telephone": "+34 645 765 866 +34 670 624 108",
+      "email": "rpascali@rodisa.es rodisa@rodisa.es",
       "website": "www.rodisa.es"
     },
     {
@@ -4393,11 +5260,14 @@
       "name": "S2 GRUPO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-s2-grupo-en",
       "address": {
-        "text": "C/ Ramiro de Maeztu 7 bj",
+        "text": "C/ Ramiro de Maeztu 7 bj 46022, Valencia\nEspaña",
         "iso2": "ES",
-        "lat": 40.44883979999999,
-        "lon": -3.7192251
-      }
+        "lat": 39.4678638,
+        "lon": -0.3495193
+      },
+      "telephone": "+34 963 110 300",
+      "email": "clientes@s2grupo.es",
+      "website": "www.s2grupo.es"
     },
     {
       "name": "SAAB AB",
@@ -4429,31 +5299,38 @@
       "name": "SAFRAN ELECTRONICS & DEFENSE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-safran-electronics-defense-en",
       "address": {
-        "text": "55 bulevar Charles De Gaulle",
+        "text": "55 bulevar Charles De Gaulle 92240 Malakoff\nFrance",
         "iso2": "FR",
-        "lat": 48.9662918,
-        "lon": 2.3673502
-      }
+        "lat": 48.8223679,
+        "lon": 2.298694
+      },
+      "telephone": "+33 1 55 64 24 24",
+      "email": "info-contact.f.sed.blg@safrangroup.com",
+      "website": "https://www.safran-group.com/fr/societes/safran-electronics-defense"
     },
     {
       "name": "SAINSEL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sainsel-en",
       "address": {
-        "text": "Av. de Castilla 2, Parque Empresarial San Fernando, Edificio Canadá",
+        "text": "Av. de Castilla 2, Parque Empresarial San Fernando, Edificio Canadá 28830 San Fernando de Henares. Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4504154,
         "lon": -3.4991288
-      }
+      },
+      "telephone": "+34 916781550",
+      "email": "sales@sainsel.es",
+      "website": "www.sainsel.eu"
     },
     {
       "name": "SANEAMIENTOS MARCOS GAMERO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-saneamientos-marcos-gamero-en",
       "address": {
-        "text": "PLAZA DE ANDALUCIA, nº 8",
+        "text": "PLAZA DE ANDALUCIA, nº 8 14013 - CORDOBA\nEspaña",
         "iso2": "ES",
         "lat": 37.8703268,
         "lon": -4.780405
       },
+      "telephone": "+34 957290017 +34 957291726",
       "email": "direccion@marcosgamero.com",
       "website": "www.marcosgamero.com"
     },
@@ -4467,37 +5344,46 @@
         "lon": -3.8782283
       },
       "telephone": "+34 942 016346",
-      "email": "WEB"
+      "website": "www.santanderteleport.com"
     },
     {
       "name": "SAPA OPERACIONES, S.L",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sapa-placencia-en",
       "address": {
-        "text": "c/ María de Molina, 40 – 7ª planta",
+        "text": "c/ María de Molina, 40 – 7ª planta 28006 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4374531,
         "lon": -3.6827086
-      }
+      },
+      "telephone": "+34 914 31 80 80",
+      "email": "oficinamadrid@sapa.es",
+      "website": "www.sapa.es"
     },
     {
       "name": "SATLANTIS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-satlantis-en",
       "address": {
-        "text": "SATLANTIS MICROSATS, S.L.",
+        "text": "SATLANTIS MICROSATS, S.L. Edif. SEDE 2ª planta, Parque Científico, Campus UPV Leioa, 48940 LEIOA (Vizcaya)\nEspaña",
         "iso2": "ES",
         "lat": 43.3319469,
         "lon": -2.9673146
-      }
+      },
+      "telephone": "+34 944 344 780",
+      "email": "business@satlantis.com",
+      "website": "https://satlantis.com"
     },
     {
       "name": "SCHIEBEL AIRCRAFT GMBH",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-schiebel-aircraft-gmbh-en",
       "address": {
-        "text": "Margaretenstrasse 112",
+        "text": "Margaretenstrasse 112 1050 Vienna\nAustria",
         "iso2": "AT",
-        "lat": 48.18883150000001,
-        "lon": 16.3540832
-      }
+        "lat": 48.1888586,
+        "lon": 16.3540467
+      },
+      "telephone": "+43 1 546 26 66",
+      "email": "info@schiebel.net",
+      "website": "www.schiebel.net"
     },
     {
       "name": "SCP SINTERSA",
@@ -4516,52 +5402,64 @@
       "name": "SEABOTS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-seabots-en",
       "address": {
-        "text": "C/ Maracaibo 1, 08030",
+        "text": "C/ Maracaibo 1, 08030 Barcelona\nEspaña",
         "iso2": "ES",
         "lat": 41.4420875,
         "lon": 2.2036586
-      }
+      },
+      "telephone": "+34 931 256 536",
+      "email": "info@gpaseabots.com",
+      "website": "https://www.gpaseabots.com"
     },
     {
       "name": "SEADRONE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-seadrone-en",
       "address": {
-        "text": "Seadrone S.L.",
+        "text": "Seadrone S.L. Estrada Lameiro 42, 36240 Vigo, Pontevedra\nEspaña",
         "iso2": "ES",
         "lat": 42.2127648,
         "lon": -8.7016247
       },
-      "email": "iechenique@seadrone.es"
+      "telephone": "+34 986118012",
+      "email": "iechenique@seadrone.es info@seadrone.es",
+      "website": "www.seadrone.es"
     },
     {
       "name": "SEMATRON ESPAÑA S.L",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sematron-espana-s-l-en",
       "address": {
-        "text": "Alegria de Oria 49-57",
+        "text": "Alegria de Oria 49-57 28027 Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 43.098049,
-        "lon": -2.0953297
-      }
+        "lat": 40.4436921,
+        "lon": -3.632856
+      },
+      "telephone": "+34 91 7412300",
+      "email": "jcald@sematron.es",
+      "website": "www.sematron.es"
     },
     {
       "name": "SENER AEROESPACIAL Y DEFENSA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sener-aeroespacial-en",
       "address": {
-        "text": "Calle Severo Ochoa 4",
+        "text": "Calle Severo Ochoa 4 Parque Tecnológico de Madrid 28760 Tres Cantos, Madrid Centros de Producción: Getxo Tres Cantos Arganda del Rey Cerdanyola del Vallès\nEspaña",
         "iso2": "ES",
-        "lat": 40.33260689999999,
-        "lon": -3.523645
-      }
+        "lat": 40.3064074,
+        "lon": -3.4479915
+      },
+      "telephone": "+34 91 807 73 34",
+      "email": "defensa@aeroespacial.sener",
+      "website": "www.aeroespacial.sener"
     },
     {
       "name": "SENSIA SOLUTIONS, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sensia-en",
       "address": {
-        "text": "Calle Margarita Salas,12",
+        "text": "Calle Margarita Salas,12 28919 Leganés-Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.3533714,
-        "lon": -3.7464052
+        "lat": 40.353633,
+        "lon": -3.7454688
       },
+      "telephone": "+34 91 0559290",
       "email": "contact@sensia-solutions.com",
       "website": "www.sensia-solutions.com"
     },
@@ -4569,11 +5467,14 @@
       "name": "SENSTAR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-senstar-en",
       "address": {
-        "text": "An der Bleicherei 15",
+        "text": "An der Bleicherei 15 88214 Ravensburg\nGermany",
         "iso2": "DE",
         "lat": 47.7658634,
         "lon": 9.5946108
-      }
+      },
+      "telephone": "+351-918-877-011",
+      "email": "gabriel.furtado@senstar.com",
+      "website": "www.senstar.com"
     },
     {
       "name": "SERMAN-PRO",
@@ -4621,35 +5522,46 @@
         "lat": 38.0868492,
         "lon": -3.6549906
       },
-      "telephone": "+34 953 888 089"
+      "telephone": "+34 953 888 089",
+      "email": "info@sicnova3d.com",
+      "website": "www.sicnova3d.com"
     },
     {
       "name": "SIGMA VÝZKUMNÝ A VÝVOJOVÝ ÚSTAV, S.R.O.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sigma-vyzkumny-a-vyvojovy-ustav-s-r-o-en",
       "address": {
-        "text": "Jana Sigmunda 313",
+        "text": "Jana Sigmunda 313 783 49 Lutín\nCzech Republic",
         "iso2": "CZ",
         "lat": 49.5565852,
         "lon": 17.143395
       },
+      "telephone": "+420 585 652 440 +420 731 543 349",
+      "email": "v.slovak@sigma.cz p.zarsky@sigma.cz",
       "website": "www.sigma-vvu.cz"
     },
     {
       "name": "SINERGIA RACING GROUP",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sinergia-racing-group-en",
       "address": {
-        "text": "C/ URANIO, PARCELA, 7B – POL. IND. LOS CAMACHOS",
+        "text": "C/ URANIO, PARCELA, 7B – POL. IND. LOS CAMACHOS 30369 CARTAGENA\nEspaña",
         "iso2": "ES",
-        "lat": 37.6483537,
-        "lon": -0.9419026
+        "lat": 37.6463887,
+        "lon": -0.9204024
       },
+      "telephone": "968505096 639661499 647771111",
       "email": "ccoello@srgtyp.com",
       "website": "www.srgtyp.com"
     },
     {
       "name": "SISTEMAS AVANZADOS DE TECNOLOGIA (SATEC)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-satec-en",
-      "address": "Avda. Europa 34A",
+      "address": {
+        "text": "Avda. Europa 34A 28023 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4458165,
+        "lon": -3.787489099999999
+      },
+      "telephone": "+34 91 7089000",
       "email": "info@satec.es",
       "website": "https://www.satec.es"
     },
@@ -4657,73 +5569,92 @@
       "name": "SISTEMAS DE CONTROL REMOTO, S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sistemas-de-control-remoto-s-l-en",
       "address": {
-        "text": "Calle Isla de la Palma 36",
+        "text": "Calle Isla de la Palma 36 28703 San Sebastián de los Reyes (Madrid)\nEspaña",
         "iso2": "ES",
         "lat": 40.5585206,
         "lon": -3.622807
-      }
+      },
+      "telephone": "+34 91 651 82 27",
+      "email": "javier.gonzalez@scrtargets.es",
+      "website": "https://scrdrones.com"
     },
     {
       "name": "SISTEMAS Y MONTAJES INDUSTRIALES, SA (SISTEM)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sistemas-y-montajes-industriales-sa-sistem-en",
       "address": {
-        "text": "Avenida Rita Levi Montalcini,2",
+        "text": "Avenida Rita Levi Montalcini,2 28906 Getafe\nEspaña",
         "iso2": "ES",
         "lat": 40.2736769,
         "lon": -3.7366064
-      }
+      },
+      "telephone": "+34 682175468",
+      "email": "lurrutia@sistem-group.com",
+      "website": "www.sistem-group.com"
     },
     {
       "name": "SITEP",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sitep-en",
       "address": {
-        "text": "C. Pere IV 78 4º 1ª",
+        "text": "C. Pere IV 78 4º 1ª 08005 Barcelona\nEspaña",
         "iso2": "ES",
         "lat": 41.3971761,
         "lon": 2.1936637
       },
+      "telephone": "+34 933 208 215",
+      "email": "cmarcos@sitep.com erabadan@sitep.com",
       "website": "www.sitep.com"
     },
     {
       "name": "SKYDWELLER S.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-skydweller-en",
       "address": {
-        "text": "Arbea Campus Empresarial Parque, Carretera de Fuencarral, Edificio 2, 5",
+        "text": "Arbea Campus Empresarial Parque, Carretera de Fuencarral, Edificio 2, 5 28108 Alcobendas, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.5293421,
         "lon": -3.6480666
       },
-      "email": "Sebastien.renouard@skydweller.aero"
+      "telephone": "+34 648235463 / +34 662573821",
+      "email": "Sebastien.renouard@skydweller.aero pablo.velasco@skydweller.aero",
+      "website": "https://skydweller.aero"
     },
     {
       "name": "SKYLIFE ENGINEERING SL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-skylife-engineering-sl-en",
       "address": {
-        "text": "PCT CARTUJA; C/ Américo Vespucio 5, Blq 1, Loc A8-12",
-        "iso2": "IT",
-        "lat": 44.5345216,
-        "lon": 11.2878593
-      }
+        "text": "PCT CARTUJA; C/ Américo Vespucio 5, Blq 1, Loc A8-12 41092 Sevilla\nEspaña",
+        "iso2": "ES",
+        "lat": 37.3890924,
+        "lon": -5.9844589
+      },
+      "telephone": "+34 955260304",
+      "email": "daniel@danielarmenta.com",
+      "website": "https://skylife-eng.com"
     },
     {
       "name": "SMARTKEEPER",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-smartkeeper-en",
       "address": {
-        "text": "B-1904, 70, Dusan-ro, Geumcheon-gu",
+        "text": "B-1904, 70, Dusan-ro, Geumcheon-gu Seoul, South Korea, 08584\nSouth Korea",
         "iso2": "KR",
-        "lat": 37.470235,
-        "lon": 126.88779
-      }
+        "lat": 37.4692213,
+        "lon": 126.8953954
+      },
+      "telephone": "82-2-804-0122",
+      "email": "wooksinger@comxi.com",
+      "website": "https://www.smartkeeper.kr"
     },
     {
       "name": "SMARTLIVE INGENIERÍA S.L",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-smartlive-ingenieria-s-l-en",
       "address": {
-        "text": "Paseo Arco de Ladrillo 82",
+        "text": "Paseo Arco de Ladrillo 82 Valladolid\nEspaña",
         "iso2": "ES",
-        "lat": 41.6321621,
-        "lon": -4.7290537
-      }
+        "lat": 41.6303334,
+        "lon": -4.7283389
+      },
+      "telephone": "+34 653412436",
+      "email": "salgado@smartlive.es",
+      "website": "www.smartlive.es"
     },
     {
       "name": "SMOWLTECH - WAYRA",
@@ -4742,12 +5673,14 @@
       "name": "SMS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sms-en",
       "address": {
-        "text": "Agustín de Betancourt, 21",
+        "text": "Agustín de Betancourt, 21 28003 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.4449624,
         "lon": -3.6954474
       },
-      "email": "maria.gonzalezubeda@sms-defensa.es"
+      "telephone": "+34 689 053 120",
+      "email": "maria.gonzalezubeda@sms-defensa.es administracion@sms-defensa.es",
+      "website": "www.sms-defensa.es"
     },
     {
       "name": "SNAP-ON",
@@ -4766,10 +5699,10 @@
       "name": "SOAR SIMULATION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-soar-simulation-en",
       "address": {
-        "text": "Via Dos Castillas 33\nEspaña",
+        "text": "Via Dos Castillas 33 Complejo Empresarial Atica – Edificio 4 28224 Pozuelo de Alarcon\nEspaña",
         "iso2": "ES",
-        "lat": 40.440252,
-        "lon": -3.785964
+        "lat": 40.4402575,
+        "lon": -3.7865681
       },
       "telephone": "+34 644 13 82 82",
       "email": "info@soarsimulation.com",
@@ -4779,32 +5712,40 @@
       "name": "SOCIEDAD DE PROMOCION EXTERIOR PRINCIPADO DE ASTURIAS S.A. (ASTUREX)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sociedad-de-promocion-exterior-principado-de-asturias-s-a-asturex-en",
       "address": {
-        "text": "PARQUE TECNOLOGICO DE ASTURIAS, EDIFICIO CEEI",
+        "text": "PARQUE TECNOLOGICO DE ASTURIAS, EDIFICIO CEEI 33428 LLANERA (ASTURIAS)\nEspaña",
         "iso2": "ES",
         "lat": 43.4210058,
         "lon": -5.8252245
-      }
+      },
+      "telephone": "+34985269002",
+      "email": "javiertf@asturex.org",
+      "website": "www.asturex.org"
     },
     {
       "name": "SOHO BOUTIQUE HOTELS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-soho-boutique-hotels-en",
       "address": {
-        "text": "Alameda de Colón nº9, planta 3ª, puerta 6",
+        "text": "Alameda de Colón nº9, planta 3ª, puerta 6 29001 Málaga\nEspaña",
         "iso2": "ES",
         "lat": 36.7151074,
         "lon": -4.4246156
       },
-      "email": "bgil@sohohoteles.com"
+      "telephone": "+34 952225577",
+      "email": "bgil@sohohoteles.com jmalvarez@sohohoteles.com",
+      "website": "www.sohohoteles.com"
     },
     {
       "name": "SOLAVANCE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-solavance-en",
       "address": {
-        "text": "Pol. Casablanca – N-IV, km. 382",
-        "iso2": "ES",
-        "lat": 42.4899766,
-        "lon": -2.484762
-      }
+        "text": "Pol. Casablanca – N-IV, km. 382 14.610 Alcolea de Córdoba\nEspaña",
+        "iso2": "MA",
+        "lat": 33.5731104,
+        "lon": -7.589843399999999
+      },
+      "telephone": "+34 957320660",
+      "email": "Francisco.lozano@avancelogistica.es",
+      "website": "www.avancelogistica.es"
     },
     {
       "name": "SOLCERA IBERICA, Innovaciones Cerámicas",
@@ -4822,28 +5763,36 @@
     {
       "name": "SOLEMCCOR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-solemccor-en",
-      "address": "CALLE POLONIA 189 (P.I. TECNOCÓRDOBA)"
+      "address": {
+        "text": "CALLE POLONIA 189 (P.I. TECNOCÓRDOBA) 14014 CÓRDOBA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8971964,
+        "lon": -4.7335635
+      },
+      "telephone": "+34 635324607",
+      "email": "comunicacion@caritascordoba.org"
     },
     {
       "name": "SOLINTAL LRD S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-solintal-lrd-en",
-      "address": {
-        "text": "Calle de la Pelaya, 10\nEspaña",
-        "iso2": "ES",
-        "lat": 40.5908167,
-        "lon": -3.5423965
-      },
-      "telephone": "+34 91 662 04 29 / +34 91 662 05 87"
+      "telephone": "+34 91 662 04 29 / +34 91 662 05 87",
+      "email": "commercial@solintal.es",
+      "website": "www.solintal.es",
+      "country": {
+        "text": "Calle de la Pelaya, 10 Calle Rafael Pillado Mourelle 2 Polígono Industrial Rio de Janeiro\nEspaña",
+        "iso2": "ES"
+      }
     },
     {
       "name": "SONY EUROPE B.V.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sony-europe-b-v-en",
       "address": {
-        "text": "Avda. Diagonal 640, Planta 4 Puerta A",
+        "text": "Avda. Diagonal 640, Planta 4 Puerta A 08017 Barcelona\nEspaña",
         "iso2": "ES",
-        "lat": 41.390978,
-        "lon": 2.1352416
+        "lat": 41.3910386,
+        "lon": 2.1356979
       },
+      "telephone": "+34 678 608 772 +34 934 02 64 00",
       "email": "Javier.Garces@sony.com",
       "website": "http://www.sony.eu/businesssolutions"
     },
@@ -4851,11 +5800,14 @@
       "name": "SR7",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sr7-en",
       "address": {
-        "text": "C/ Los sotos, 35 Polígono de Riaño II",
+        "text": "C/ Los sotos, 35 Polígono de Riaño II 33920, Langreo (Asturias)\nEspaña",
         "iso2": "ES",
         "lat": 43.3230347,
         "lon": -5.7313879
-      }
+      },
+      "telephone": "+34 985 220 313",
+      "email": "sastre@sr7.eu",
+      "website": "www.SR7.eu"
     },
     {
       "name": "STAHWILLE",
@@ -4873,7 +5825,15 @@
     {
       "name": "STAR DEFENCE LOGISTICS ENGINEERING",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-star-defence-logistics-engineering-en",
-      "address": "Polígono Industrial 1, calle C 24"
+      "address": {
+        "text": "Polígono Industrial 1, calle C 24 28938 Móstoles – Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.30853219999999,
+        "lon": -3.8735542
+      },
+      "telephone": "+34914989196",
+      "email": "kfigueroa@sdle.es",
+      "website": "www.sdle.es"
     },
     {
       "name": "STAR ROBOTICS",
@@ -4884,8 +5844,9 @@
         "lat": 40.4902688,
         "lon": -3.6910885
       },
-      "telephone": "+34 91 438 08 53 (oficina)",
-      "email": "Angel.alejandre@star-robotics.com"
+      "telephone": "+34 91 438 08 53 (oficina) +34 600 959 232 (Ángel Alejandre Gómez)",
+      "email": "Angel.alejandre@star-robotics.com celia.delaserna@star-robotics.com",
+      "website": "www.star-robotics.com"
     },
     {
       "name": "STARTIA OPERADORA",
@@ -4918,22 +5879,25 @@
       "name": "STV TECHNOLOGY S.R.O.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-stv-technology-s-r-o-en",
       "address": {
-        "text": "Hvězdova 1716/2B",
+        "text": "Hvězdova 1716/2B 140 000 Praha\nCzech Republic",
         "iso2": "CZ",
         "lat": 50.0516089,
         "lon": 14.4374271
       },
+      "telephone": "+420 606319264 +420 602362431",
+      "email": "ventasLA@stvtechnology.cz pavel.kudrhalt@stvtechnology.cz",
       "website": "www.stvtechnology.cz"
     },
     {
       "name": "SUMISUR",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-sumisur-en",
       "address": {
-        "text": "C/FAUSTO GARCIA TENA 49ª",
+        "text": "C/FAUSTO GARCIA TENA 49ª 14014 CORDOBA\nEspaña",
         "iso2": "ES",
-        "lat": 37.9035388,
-        "lon": -4.719103500000001
+        "lat": 37.9045197,
+        "lon": -4.7194408
       },
+      "telephone": "+34 957201211 +34 696977010",
       "email": "fromero@sumisur.es",
       "website": "www.sumisur.es"
     },
@@ -4954,21 +5918,25 @@
       "name": "SYVALUE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-syvalue-en",
       "address": {
-        "text": "Avenida de la Victoria 23",
+        "text": "Avenida de la Victoria 23 28023 Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.46671509999999,
         "lon": -3.8126291
-      }
+      },
+      "telephone": "+34 670399718 +34 695662212 +34 629132660",
+      "email": "cjramos@syvalue.com",
+      "website": "www.syvalue.com"
     },
     {
       "name": "TACTICAL FIBER SYSTEMS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tactical-fiber-systems-en",
       "address": {
-        "text": "Carrer Luxemburgo, 4, Platja d’Aro,",
+        "text": "Carrer Luxemburgo, 4, Platja d’Aro, 17250, provincia Girona\nEspaña",
         "iso2": "ES",
         "lat": 41.81535179999999,
         "lon": 3.0623166
       },
+      "telephone": "+34 851 000 887",
       "email": "info@tacticalfiber.eu",
       "website": "www.tacticalfiber.eu"
     },
@@ -4976,11 +5944,17 @@
       "name": "TAURUS ARMAS S.A",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-taurus-armas-en",
       "address": {
-        "text": "Av. São Borja, 2181",
+        "text": "Av. São Borja, 2181 Distrito Industrial, São Leopoldo - RS, 93035-411\nBrazil",
         "iso2": "BR",
         "lat": -29.7868855,
         "lon": -51.1186897
-      }
+      },
+      "telephone": "+55 (51) 3021-3000",
+      "email": "regis.jacobsen@taurus.com.br",
+      "website": [
+        "Taurus",
+        "Export"
+      ]
     },
     {
       "name": "TAURUS SYSTEMS - GmbH",
@@ -4999,11 +5973,14 @@
       "name": "TECHNO PRO HISPANIA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-techno-pro-hispania-en",
       "address": {
-        "text": "Calle Real 37, Los Barreros",
+        "text": "Calle Real 37, Los Barreros 30310 Cartagena\nEspaña",
         "iso2": "ES",
         "lat": 37.62844339999999,
         "lon": -0.9979729
-      }
+      },
+      "telephone": "+34680443553",
+      "email": "ifernandez@tphispania.com",
+      "website": "www.tphispania.com"
     },
     {
       "name": "TECHNOLOGY AND SECURITY DEVELOPMENTS (TSD)",
@@ -5015,29 +5992,43 @@
         "lon": -3.3538262
       },
       "telephone": "+34 926 574 720",
-      "email": "export@tsdinternational.com"
+      "email": "export@tsdinternational.com comercial@tsdinternational.com",
+      "website": "www.tsdinternational.com"
     },
     {
       "name": "TECNASA/COECA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tecnasa-coeca-en",
       "address": {
-        "text": "C/ ZURRUPITIETA 7",
+        "text": "C/ ZURRUPITIETA 7 01015, VITORIA, ÁLAVA\nEspaña",
         "iso2": "ES",
         "lat": 42.8441906,
         "lon": -2.730939
       },
-      "website": "www.tecnasa.com.es"
+      "telephone": "+34 945 290 737",
+      "email": "info@tecnasa.com.es ioseba.monje@tecnasa.com.es",
+      "website": [
+        "www.tecnasa.com.es",
+        "www.coeca.com"
+      ]
     },
     {
       "name": "TECNOBIT-GRUPO OESÍA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tecnobit-grupo-oesia-en",
-      "address": "Marie Curie, 19 – Edificio Avalón II"
+      "address": {
+        "text": "Marie Curie, 19 – Edificio Avalón II 28521 Rivas Vaciamadrid, MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.336709,
+        "lon": -3.5241286
+      },
+      "telephone": "+34 916617161",
+      "email": "valvarez@oesia.com",
+      "website": "http://grupooesia.com"
     },
     {
       "name": "TECNOVE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tecnove-en",
       "address": {
-        "text": "Avda. Alcázar 6\nEspaña",
+        "text": "Avda. Alcázar 6 13640 Herencia Ciudad Real\nEspaña",
         "iso2": "ES",
         "lat": 39.3690979,
         "lon": -3.3524704
@@ -5050,21 +6041,30 @@
       "name": "TECSUMAGA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tecsumaga-en",
       "address": {
-        "text": "POL. IND. LO BOLARIN, C/ SIGLO XXI, PARC. H8-H9-",
+        "text": "POL. IND. LO BOLARIN, C/ SIGLO XXI, PARC. H8-H9- 30360 LA UNION\nEspaña",
         "iso2": "ES",
         "lat": 37.6313605,
         "lon": -0.8982988
-      }
+      },
+      "telephone": "+34 627 95 03 88",
+      "email": "rpintos@tecsumaga.com",
+      "website": "www.tecsumaga.com"
     },
     {
       "name": "TEKNE - WEXHAN S.A.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-wexhan-en",
       "address": {
-        "text": "Pol. Malpica calle E nº 9-10 nave 23",
+        "text": "Pol. Malpica calle E nº 9-10 nave 23 50.016-ZARAGOZA\nEspaña",
         "iso2": "ES",
         "lat": 41.6530914,
         "lon": -0.7857326
-      }
+      },
+      "telephone": "+34 605 853 660",
+      "email": "isabelle.darricau@oberaigner.com",
+      "website": [
+        "https://tekne4x4.es",
+        "https://www.oberaigner.com/es/"
+      ]
     },
     {
       "name": "TEKPYME",
@@ -5114,27 +6114,35 @@
         "lat": 43.4623848,
         "lon": -3.8070913
       },
-      "telephone": "Jose: 674 881752"
+      "telephone": "Jose: 674 881752 Oficina: +34 (942) 356695",
+      "email": "jose.Lacal@DataSDR.com",
+      "website": "https://terraintwin.com"
     },
     {
       "name": "TESS DEFENCE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tess-defence-en",
       "address": {
-        "text": "Agustín de Foxá 29, 9º A",
+        "text": "Agustín de Foxá 29, 9º A 28036 / Madrid\nEspaña",
         "iso2": "ES",
-        "lat": 40.4713688,
-        "lon": -3.6848087
-      }
+        "lat": 40.4712711,
+        "lon": -3.6849283
+      },
+      "telephone": "+34 91 911 53 16",
+      "email": "info@tess-defence.es",
+      "website": "www.tess-defence.es"
     },
     {
       "name": "TEXATHENEA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-texathenea-en",
       "address": {
-        "text": "Carretera de Caudete k1",
+        "text": "Carretera de Caudete k1 03400, Villena (alicante)\nEspaña",
         "iso2": "ES",
-        "lat": 38.6184031,
-        "lon": -1.1082295
-      }
+        "lat": 38.6468329,
+        "lon": -0.8691194
+      },
+      "telephone": "+34 634964500",
+      "email": "mario.morelles@texathenea.es",
+      "website": "www.texathenea.net"
     },
     {
       "name": "TEXTIL SANTANDERINA, S.A",
@@ -5146,7 +6154,11 @@
         "lon": -4.229663
       },
       "telephone": "+34 942 700125",
-      "email": "marketing@techs.es"
+      "email": "marketing@techs.es robertog@tsanta.es",
+      "website": [
+        "www.techs.es",
+        "www.santanderinagroup.com"
+      ]
     },
     {
       "name": "THALES ESPAÑA",
@@ -5165,11 +6177,14 @@
       "name": "TOLPIN, S.A",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tolpin-s-a-en",
       "address": {
-        "text": "Carretera de Argamasilla de Alba, Km 0.300",
+        "text": "Carretera de Argamasilla de Alba, Km 0.300 13700 Tomelloso (C. Real)\nEspaña",
         "iso2": "ES",
-        "lat": 39.1264201,
-        "lon": -3.0951959
-      }
+        "lat": 39.1507246,
+        "lon": -3.0316107
+      },
+      "telephone": "+34 926 514 074",
+      "email": "mjramirez@tolpinsa.com",
+      "website": "http://www.tolpinsa.com"
     },
     {
       "name": "TRC INFORMATICA S.L.",
@@ -5188,31 +6203,38 @@
       "name": "TREXON",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-trexon-en",
       "address": {
-        "text": "9600 Valley View Road Macedonia,",
+        "text": "9600 Valley View Road Macedonia, OH 44056\nUSA",
         "iso2": "US",
         "lat": 41.3079109,
         "lon": -81.50352149999999
-      }
+      },
+      "telephone": "+1 480-356-9066",
+      "email": "rmartinez@trexonglobal.com",
+      "website": "www.trexonglobal.com"
     },
     {
       "name": "TRIDITIVE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-triditive-en",
       "address": {
-        "text": "Carretera Oviedo-Santander, Km8",
+        "text": "Carretera Oviedo-Santander, Km8 33199 Meres, Asturias\nEspaña",
         "iso2": "ES",
-        "lat": 43.1670395,
-        "lon": -2.5628084
-      }
+        "lat": 43.3622522,
+        "lon": -5.8485461
+      },
+      "telephone": "+34 984 200 010",
+      "email": "guillermo.sanchez@triditive.com jcamero@triditive.com lvaldes@triditive.com",
+      "website": "https://triditive.com"
     },
     {
       "name": "TSP INNOVACION",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tsp-innovacion-en",
       "address": {
-        "text": "CALLE ESTONIA NAVE 2 8A C.P: 14014 POL. IND.",
+        "text": "CALLE ESTONIA NAVE 2 8A C.P: 14014 POL. IND. TECNOCÓRDOBA (CÓRDOBA)\nEspaña",
         "iso2": "ES",
         "lat": 37.8993672,
         "lon": -4.7305532
       },
+      "telephone": "+34 688905528 +34 957945884",
       "email": "SCANOVAS@TSPINNOVACION.ES",
       "website": "HTTPS://TSPINNOVACION.ES"
     },
@@ -5220,11 +6242,14 @@
       "name": "TTTGROUP",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-tttgroup-en",
       "address": {
-        "text": "Elgeta Bidea - Post. 130",
+        "text": "Elgeta Bidea - Post. 130 20570 BERGARA (Gipuzkoa)\nEspaña",
         "iso2": "ES",
-        "lat": 43.1362181,
-        "lon": -2.4894758
-      }
+        "lat": 43.1191723,
+        "lon": -2.416652
+      },
+      "telephone": "+34 646 023 625",
+      "email": "xb.oyanguren@grupottt.com",
+      "website": "www.grupottt.com"
     },
     {
       "name": "TUBACEX GROUP",
@@ -5242,7 +6267,13 @@
     {
       "name": "TURBO INDIA INTERCONNECT SOLUTIONS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-turbo-india-interconnect-solutions-en",
-      "address": "#114, P.C INDUSTRIAL ESTATE",
+      "address": {
+        "text": "#114, P.C INDUSTRIAL ESTATE KAMAKSHIPALYA, BANGALORE 560 0 79\nIndia",
+        "iso2": "IN",
+        "lat": 12.9976166,
+        "lon": 77.5144413
+      },
+      "telephone": "+91-6360162805",
       "email": "sales@turboindia.co.in",
       "website": "www.turboindia.co.in"
     },
@@ -5275,23 +6306,33 @@
     {
       "name": "UEE ITALIA S.R.L.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-uee-italia-s-r-l-en",
-      "address": "Via Canalescuro n. 9"
+      "address": {
+        "text": "Via Canalescuro n. 9 54016 Terrarossa (MS)\nItaly",
+        "iso2": "IT",
+        "lat": 44.2299337,
+        "lon": 9.9858576
+      },
+      "telephone": "+39 0187 409029",
+      "email": "info.ueeitalia@ueeitalia.it"
     },
     {
       "name": "UGT FICA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ugt-fica-en",
       "address": {
-        "text": "AVENIDA DE AMERICA, 25, 5ª PLANTA",
+        "text": "AVENIDA DE AMERICA, 25, 5ª PLANTA 28002 MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4393032,
         "lon": -3.6747628
-      }
+      },
+      "telephone": "+34 915897501",
+      "email": "lgarcia@fica.ugt.org",
+      "website": "www.ugt-fica.org"
     },
     {
       "name": "ULTRA I&C LIMITED",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-ultra-i-c-limited-en",
       "address": {
-        "text": "5990 Cote-de-Liesse Blvd",
+        "text": "5990 Cote-de-Liesse Blvd Montreal, Quebec, H4T 1V7\nCanada",
         "iso2": "CA",
         "lat": 45.489403,
         "lon": -73.68361589999999
@@ -5314,12 +6355,12 @@
       "name": "UNIDAD MILITAR DE EMERGENCIAS (UME)",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-unidad-militar-de-emergencias-ume-en",
       "address": {
-        "text": "BASE AÉREA DE TORREJÓN DE ARDOZ CARRETERA A-2 KM 22\nEspaña",
+        "text": "BASE AÉREA DE TORREJÓN DE ARDOZ CARRETERA A-2 KM 22 TORREJON AIR BASE A-2 HIGHWAY KM 22 28850, TORREJÓN DE ARDOZ , MADRID\nEspaña",
         "iso2": "ES",
-        "lat": 40.4839019,
-        "lon": -3.4505913
+        "lat": 41.612247,
+        "lon": -0.6972768
       },
-      "telephone": "+34 91 748 75 29",
+      "telephone": "+34 91 748 75 29 +34 690 044 201",
       "email": "jmonmal1@et.mde.es",
       "website": "https://ume.defensa.gob.es"
     },
@@ -5327,11 +6368,13 @@
       "name": "UNIVERSAE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-universae-en",
       "address": {
-        "text": "Avenida Isla Graciosa, número 5",
+        "text": "Avenida Isla Graciosa, número 5 28703, San Sebastián de los Reyes, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.5543211,
         "lon": -3.6182184
-      }
+      },
+      "telephone": "+34 919 033 434",
+      "website": "www.universae.com"
     },
     {
       "name": "UNIVERSIDAD POLITÉCNICA DE CARTAGENA",
@@ -5350,7 +6393,7 @@
       "name": "UNMANNED DYNAMICS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-unmanned-dynamics-en",
       "address": {
-        "text": "Gyneju 4 – 303\nLithuania",
+        "text": "Gyneju 4 – 303 Vilnius Lithuania\nLithuania",
         "iso2": "LT",
         "lat": 54.6905758,
         "lon": 25.2643773
@@ -5376,11 +6419,14 @@
       "name": "UPLIFTING VERTICAL S.A",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-up-lifting-en",
       "address": {
-        "text": "Plataforma LogÍstica Huesca Sur, Avda Pebredo 25",
+        "text": "Plataforma LogÍstica Huesca Sur, Avda Pebredo 25 22197 HUESCA\nEspaña",
         "iso2": "ES",
         "lat": 42.1082725,
         "lon": -0.4492585
-      }
+      },
+      "telephone": "+34 620271060",
+      "email": "jmaspas@uplifting.es",
+      "website": "www.uplifitng.es"
     },
     {
       "name": "URO VEHÍCULOS ESPECIALES S.A.",
@@ -5416,7 +6462,9 @@
         "lat": 49.231279,
         "lon": 6.224993
       },
-      "telephone": "+33 387 71 60 74"
+      "telephone": "+33 387 71 60 74",
+      "email": "contact@utilis.fr",
+      "website": "www.utilis-international.com"
     },
     {
       "name": "V-CONSULTING",
@@ -5434,22 +6482,36 @@
     {
       "name": "VANGUARD MARINE, LDA",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-vanguard-en",
-      "address": "Country"
+      "country": {
+        "text": "España",
+        "iso2": "ES"
+      }
     },
     {
       "name": "VEROT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-verot-en",
-      "address": "P. I. de Tabaza II. Parcela 30"
+      "address": {
+        "text": "P. I. de Tabaza II. Parcela 30 33438 LOGREZANA. ASTURIAS\nEspaña",
+        "iso2": "ES",
+        "lat": 43.5483819,
+        "lon": -5.8320871
+      },
+      "telephone": "+34 689035776",
+      "email": "ventas@verot.com",
+      "website": "www.verot.com"
     },
     {
       "name": "VIASAT",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-viasat-en",
       "address": {
-        "text": "6155 El Camino Real, Carlsbad",
+        "text": "6155 El Camino Real, Carlsbad CA 92009\nUSA",
         "iso2": "US",
-        "lat": 35.4892945,
-        "lon": -120.669621
-      }
+        "lat": 33.126769,
+        "lon": -117.2669894
+      },
+      "telephone": "908-415-4654",
+      "email": "Michelle.casserly@viasat.com",
+      "website": "https://www.viasat.com/defense/solutions/"
     },
     {
       "name": "VIATOR PLUS ULTRA",
@@ -5468,11 +6530,14 @@
       "name": "VIRTUAL REALITY EXPERIENCE SL",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-virtual-reality-experience-en",
       "address": {
-        "text": "C/ Miquel Torelló i Pagès, 33",
+        "text": "C/ Miquel Torelló i Pagès, 33 08750 Molins de Rei (Barcelona)\nEspaña",
         "iso2": "ES",
         "lat": 41.4003444,
         "lon": 2.0279966
-      }
+      },
+      "telephone": "+34 678435565",
+      "email": "info@vrxsim.com",
+      "website": "www.vrxsim.com"
     },
     {
       "name": "VIRTUALWARE",
@@ -5484,14 +6549,17 @@
         "lon": -2.879683
       },
       "telephone": "+34 946452130",
+      "email": "dmoreno@virtualwareco.com aotaola@virtualwareco.com",
       "website": "www.virtualwareco.com"
     },
     {
       "name": "VODAFONE BUSINESS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-vodafone-business-en",
-      "country": {
-        "text": "España",
-        "iso2": "ES"
+      "address": {
+        "text": "Avda. de América, 115 Madrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4505348,
+        "lon": -3.6021721
       },
       "telephone": "+34 610443379",
       "email": "Alicia.peinado@vodafone.com",
@@ -5501,33 +6569,46 @@
       "name": "VRGINEERS, INC.",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-vrgineers-inc-en",
       "address": {
-        "text": "Jankovcova 1037/49",
+        "text": "Jankovcova 1037/49 Prague 170 00\nCzech Republic",
         "iso2": "CZ",
         "lat": 50.1074069,
         "lon": 14.4546587
-      }
+      },
+      "telephone": "+420 603358401",
+      "email": "business@vrgineers.com",
+      "website": "www.vrgineers.com"
     },
     {
       "name": "W. L. GORE & ASSOCIATES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-w-l-gore-associates-en",
       "address": {
-        "text": "C/ CIUDAT DE GRANADA, 178",
+        "text": "C/ CIUDAT DE GRANADA, 178 08018 BARCELONA\nEspaña",
         "iso2": "ES",
         "lat": 41.4049435,
         "lon": 2.1897537
       },
-      "email": "imartinez@wlgore.com"
+      "telephone": "+49 89 461 2238",
+      "email": "imartinez@wlgore.com ptillman@wlgore.com",
+      "website": [
+        "https://www.goretexprofessional.com",
+        "https://www.gore.com/products/industries/aerospace"
+      ]
     },
     {
       "name": "W.L. GORE & ASSOCIATES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-w-l-gore-associates-en",
       "address": {
-        "text": "C/ CIUDAT DE GRANADA, 178",
+        "text": "C/ CIUDAT DE GRANADA, 178 08018 BARCELONA\nEspaña",
         "iso2": "ES",
         "lat": 41.4049435,
         "lon": 2.1897537
       },
-      "email": "imartinez@wlgore.com"
+      "telephone": "+49 89 461 2238",
+      "email": "imartinez@wlgore.com ptillman@wlgore.com",
+      "website": [
+        "https://www.goretexprofessional.com",
+        "https://www.gore.com/products/industries/aerospace"
+      ]
     },
     {
       "name": "W2M INDUSTRIES OY",
@@ -5546,31 +6627,40 @@
       "name": "WEC - WALLAIR ENGINE COMPONENTS",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-wec-wallair-engine-components-en",
       "address": {
-        "text": "Polígono Ind BOROA Parc 3B (23)",
-        "iso2": "CA",
-        "lat": 46.9438103,
-        "lon": -71.4760127
-      }
+        "text": "Polígono Ind BOROA Parc 3B (23) 48340 Amorebieta\nEspaña",
+        "iso2": "ES",
+        "lat": 43.24006,
+        "lon": -2.7496725
+      },
+      "telephone": "+34 636 470 694",
+      "email": "azn@wallair.es",
+      "website": "www.wallair.es"
     },
     {
       "name": "XPANEL BUILDING TECHNOLOGIES EUROPE",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-xpanel-building-technologies-europe-en",
       "address": {
-        "text": "Calle Aragón, Núm. 5 Polígono Industrial",
+        "text": "Calle Aragón, Núm. 5 Polígono Industrial 29200 Antequera (Málaga)\nEspaña",
         "iso2": "ES",
-        "lat": 39.5731579,
-        "lon": 2.6570479
-      }
+        "lat": 37.0456152,
+        "lon": -4.5155743
+      },
+      "telephone": "+34 683 40 44 74",
+      "email": "mariam@xpaneltechnologies.com",
+      "website": "https://xpaneltechnologies.com"
     },
     {
       "name": "YEGLES",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-yegles-en",
       "address": {
-        "text": "CALLE SUIZA 7",
+        "text": "CALLE SUIZA 7 23200, LA CAROLINA (JAEN)\nEspaña",
         "iso2": "ES",
-        "lat": 39.4531381,
-        "lon": -0.339215
-      }
+        "lat": 38.2824858,
+        "lon": -3.6035353
+      },
+      "telephone": "+34 953032315",
+      "email": "juansebastian@yegles.es",
+      "website": "www.rubberautomotive.com"
     },
     {
       "name": "YUMA S.A",
@@ -5582,6 +6672,7 @@
         "lon": -0.7769851
       },
       "telephone": "+34 976 33 00 00",
+      "email": "jmgarcia@yumaltus.com cgascon@yumaltus.com",
       "website": "www.wearealtus.com"
     },
     {
@@ -5593,34 +6684,48 @@
         "lat": 49.5553483,
         "lon": 15.9311146
       },
-      "telephone": "+420 566 642 405",
-      "email": "jaromir.pospisil@zdas.cz"
+      "telephone": "+420 566 642 405 +420 566 643 212",
+      "email": "jaromir.pospisil@zdas.cz stanislav.pelikan@zdas.cz",
+      "website": "https://www.zdas.com"
     },
     {
       "name": "ZEALAB",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-zealab-en",
       "address": {
-        "text": "C/ Artesano 5, Polígono Empresarial Prado del Espino",
+        "text": "C/ Artesano 5, Polígono Empresarial Prado del Espino 28660 Boadilla del Monte, Madrid\nEspaña",
         "iso2": "ES",
         "lat": 40.3950578,
         "lon": -3.8476824
-      }
+      },
+      "telephone": "+34 91 068 81 75",
+      "email": "info@zealab.es",
+      "website": "www.zealab.es"
     },
     {
       "name": "ZITRON",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-zitron-en",
       "address": {
-        "text": "Autovia AS-II, 2386",
+        "text": "Autovia AS-II, 2386 Gijon 33211\nEspaña",
         "iso2": "ES",
         "lat": 43.5042421,
         "lon": -5.7004316
-      }
+      },
+      "telephone": "+34 985168132",
+      "email": "jarodriguez@zitron.com",
+      "website": "www.zitron.com"
     },
     {
       "name": "ZODIAC MILPRO",
       "exhibitorUrl": "https://feindef.com/index.php/en/ficha-zodiac-milpro-en",
-      "address": "Carretera Gi-610, Km. 2",
-      "email": "jordi.soler@zodiacmilpro.com"
+      "address": {
+        "text": "Carretera Gi-610, Km. 2 17480 Roses, Girona\nEspaña",
+        "iso2": "ES",
+        "lat": 42.2830085,
+        "lon": 3.1551499
+      },
+      "telephone": "+34 972 252 200",
+      "email": "jordi.soler@zodiacmilpro.com dayanna.torres@zodiacmilpro.com",
+      "website": "https://www.zodiacmilpro.com"
     }
   ]
 }
