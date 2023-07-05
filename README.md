@@ -68,10 +68,10 @@ Corrections may be submitted by email or as GitHub issues.
 
 ## Statistics
 
--   **521** series
--   **1705** events
--   **170009** exhibitors
--   **598** organisers
+-   **522** series
+-   **1721** events
+-   **170614** exhibitors
+-   **614** organisers
 -   **2308** delegations
 
 
