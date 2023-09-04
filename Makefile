@@ -20,7 +20,7 @@ image : $(IMAGE_TRAVEL_ISO2_PNG)
 
 
 check-schema :
-	jsonschema`for json in data/*.json; do printf -- " -i %s" $$json; done;` schema/fair.schema.json
+	check-jsonschema --schemafile schema/fair.schema.json data/*.json
 
 sanitize :
 # Dereference Wayback Machine links:
