@@ -33,7 +33,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.dsei.co.uk/exhibitors",
-  "exhibitorListDate": "2023-09-03T19:13:38+00:00",
+  "exhibitorListDate": "2023-11-08T12:07:29+00:00",
   "exhibitor": [
     {
       "name": "'RSI Europe''",
@@ -85,7 +85,7 @@
       "name": "2 Excel Aviation",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/2-excel-aviation",
       "address": {
-        "text": "Finance Department Site B, Hall Farm 2 Sywell Aerodrome\nNorthamptonshire\nNN6 0BN\nUnited Kingdom",
+        "text": "Hall Farm 2\nSywell Aerodrome\nSywell\nNorthamptonshire\nNN6 0BN\nUnited Kingdom",
         "iso2": "GB",
         "lat": 52.3053889,
         "lon": -0.7885248
@@ -396,6 +396,16 @@
       ]
     },
     {
+      "name": "AGM Global Vision",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/agm-global-vision-1",
+      "address": {
+        "text": "173 W. Main St. #962\nSpringerville\nArizona\n85938\nUnited Kingdom",
+        "iso2": "US",
+        "lat": 34.1333799,
+        "lon": -109.2859196
+      }
+    },
+    {
       "name": "AIAD and MOD Italy",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/aiad-mod-italy",
       "address": {
@@ -564,6 +574,16 @@
       ]
     },
     {
+      "name": "ANR Design, LLC",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/anr-design-llc-1",
+      "address": {
+        "text": "630 Harvard Street, Unit 2\nManchester\nNew Hampshire\n03103\nUnited States",
+        "iso2": "US",
+        "lat": 42.9783281,
+        "lon": -71.447119
+      }
+    },
+    {
       "name": "ANT-Scientific",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/ants",
       "address": {
@@ -573,16 +593,16 @@
         "lon": -0.3408536
       },
       "category": [
-        "Intelligence, Surveillance, Target Acquisition, and Reconnaissance (ISTAR)",
-        "Reconnaissance Systems",
+        "Sensors",
+        "Artificial Intelligence",
+        "Surveillance Platforms",
         "Surveillance Devices",
-        "Soldier Systems & Equipment",
         "Unmanned and Autonomous Systems"
       ]
     },
     {
       "name": "APC Technology Group",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/apc-technology-group-1",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/apc-technology-group-3",
       "address": {
         "text": "6 Stirling park Laker Road Laker Road Laker Road\nRochester\nKent\nME1 3QR\nUnited Kingdom",
         "iso2": "GB",
@@ -605,7 +625,11 @@
         "iso2": "US",
         "lat": 43.9137841,
         "lon": -72.6574093
-      }
+      },
+      "category": [
+        "Border Control and Customs",
+        "Personnel Communication Equipment"
+      ]
     },
     {
       "name": "APPLIED VIRTUAL SIMULATION PTY LTD",
@@ -790,7 +814,7 @@
     },
     {
       "name": "ATN Europe Ltd",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/atn-europe",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/atn-europe-1",
       "address": {
         "text": "ATN International Skylon Place\nHereford\nHR2 6NX\nUnited Kingdom",
         "iso2": "GB",
@@ -1046,7 +1070,7 @@
     },
     {
       "name": "Advanced Navigation",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/advanced-navigation",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/advanced-navigation-6",
       "address": {
         "text": "Level 12/255 George Street\nSydney\nNew South Wales\n2000\nAustralia",
         "iso2": "AU",
@@ -1078,7 +1102,7 @@
     },
     {
       "name": "Aerco",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/aerco-9",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/aerco-16",
       "address": {
         "text": "17 Lawson Hunt Industrial ParkBroadridge Heath\nHorsham\nWest Sussex\nRH12 3JR\nUnited Kingdom",
         "iso2": "GB",
@@ -1199,14 +1223,31 @@
       "name": "Aerospace Wales Forum",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/aerospace-wales",
       "address": {
-        "text": "QED, Treforest Industrial Estate,\nTreforest,\nMid Glamorgan\nCF37 5YR\nUnited Kingdom",
+        "text": "Aerospace Wales\nWaterton Industrial Estate,\nBridgend\nMid Glamorgan\nCF31 3WT\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 51.5648418,
-        "lon": -3.2824749
+        "lat": 51.4953814,
+        "lon": -3.5424628
       },
       "category": [
         "Consultancy",
         "Space"
+      ]
+    },
+    {
+      "name": "Afry",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/afry",
+      "address": {
+        "text": "Frosundaleden 2A 75\nSolna\nSolna\nSE-1639\nSweden",
+        "iso2": "SE",
+        "lat": 59.36451020000001,
+        "lon": 18.0205182
+      },
+      "category": [
+        "Consultancy",
+        "Cyber Security",
+        "Data Management",
+        "Training & Simulation",
+        "Computer Based Training, Multimedia and Interactive"
       ]
     },
     {
@@ -1477,7 +1518,7 @@
       "name": "Amokabel",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/amokabel",
       "address": {
-        "text": "Amo Special Cables Limited, West Bridgewater Street,\nLeigh\nLancashire\nWN7 4HB\nUnited Kingdom",
+        "text": "Amo Special Cables Limited\nWest Bridgewater Street,\nLeigh\nLancashire\nWN7 4HB\nUnited Kingdom",
         "iso2": "GB",
         "lat": 53.492452,
         "lon": -2.5178961
@@ -1515,6 +1556,23 @@
         "Information Technology",
         "Cloud Services",
         "Data Management"
+      ]
+    },
+    {
+      "name": "Analox Ltd",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/analox",
+      "address": {
+        "text": "15 Ellerbeck CourtStokesley Business ParkStokesley\nMiddlesbrough\nNorth Yorkshire\nTS9 5PT\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.4618022,
+        "lon": -1.1756155
+      },
+      "category": [
+        "Sensors",
+        "Naval Platforms & Equipment, Ships",
+        "Sub Surface Platforms & Equipment",
+        "Diving Equipment",
+        "Submarine Systems"
       ]
     },
     {
@@ -1570,6 +1628,16 @@
         "Consultancy",
         "Training & Simulation"
       ]
+    },
+    {
+      "name": "Antcom",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/novatel-antcom",
+      "address": {
+        "text": "Company address 367 Van Ness Way, Suite 602\nTorrance\nCalifornia\n90501\nUnited States",
+        "iso2": "US",
+        "lat": 33.8456817,
+        "lon": -118.3213174
+      }
     },
     {
       "name": "Apem Components",
@@ -1654,7 +1722,7 @@
     },
     {
       "name": "Arcadia Desiccant Technology",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/arcadia-desiccant-technology",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/arcadia-desiccant-technology-2",
       "address": {
         "text": "Unit 3BCorinium Industrial EstateRaans Road\nAmersham\nHP6 6JQ\nUnited Kingdom",
         "iso2": "GB",
@@ -1668,6 +1736,16 @@
         "Sensors",
         "Surveillance Devices"
       ]
+    },
+    {
+      "name": "Arcanum Cyber Security",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/arcanum-cyber-security",
+      "address": {
+        "text": "Dryslwyn\nCarmarthen\nCarmarthenshire\nSA32 8SD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.89277509999999,
+        "lon": -4.1054921
+      }
     },
     {
       "name": "Archangel Imaging Ltd",
@@ -1760,7 +1838,7 @@
     },
     {
       "name": "Arqit",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/arqit",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/arqit-1",
       "address": {
         "text": "Nova North.Floor 7.11 Bressenden Place\nLondon\nSW1E 5BY\nUnited Kingdom",
         "iso2": "GB",
@@ -1981,6 +2059,16 @@
       ]
     },
     {
+      "name": "Aviation Week Network",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/aviation-week-network",
+      "address": {
+        "text": "605 Third Avenue\nNew York\nNY\n10158\nUnited States",
+        "iso2": "US",
+        "lat": 40.7492889,
+        "lon": -73.9751799
+      }
+    },
+    {
       "name": "Avidrone Aerospace Incorporated",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/avidrone-aerospace-incorporated-15",
       "address": {
@@ -2045,10 +2133,10 @@
       "name": "Axon Cable",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/axon-cable",
       "address": {
-        "text": "Unit F Admiralty Park Rosyth\nDunfermline\nKY11 2YW\nUnited Kingdom",
+        "text": "Unit FAdmiralty ParkRosyth\nDunfermline\nKY11 2YW\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 56.0345964,
-        "lon": -3.434469
+        "lat": 56.0367603,
+        "lon": -3.4339396
       },
       "category": [
         "Avionics",
@@ -2120,6 +2208,16 @@
       ]
     },
     {
+      "name": "BATTLESPACE Publications",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/battlespace-publications-1",
+      "address": {
+        "text": "Old Charlock, Abthorpe Road,\nSilverstone\nTowcester\nNN12 8TW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.1293453,
+        "lon": -1.0033967
+      }
+    },
+    {
       "name": "BCB International",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/bcb-international-3",
       "address": {
@@ -2170,7 +2268,14 @@
         "iso2": "GB",
         "lat": 54.9667136,
         "lon": -1.5781937
-      }
+      },
+      "category": [
+        "Air Platforms & Equipment",
+        "Consultancy",
+        "Defence & Security Construction",
+        "Military/ Public Sector",
+        "Naval Platforms & Equipment, Ships"
+      ]
     },
     {
       "name": "BEML LIMITED",
@@ -2554,7 +2659,7 @@
     },
     {
       "name": "BeaverFit",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/beaverfit-3",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/beaverfit-13",
       "address": {
         "text": "Old Mill Farm, Walkmills,\nChurch Stretton\nShropshire\nSY6 6NJ\nUnited Kingdom",
         "iso2": "GB",
@@ -2902,11 +3007,11 @@
         "lon": 115.924207
       },
       "category": [
-        "C5 (Command, Control, Communications, Computers & Cyber)",
-        "Radios",
-        "Information Technology",
-        "Radar",
-        "Space"
+        "Command",
+        "Control",
+        "Communications",
+        "Secure Communications",
+        "Information Technology"
       ]
     },
     {
@@ -3268,7 +3373,27 @@
     },
     {
       "name": "British Army",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/british-army-1"
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/british-army-4",
+      "category": [
+        "Military/ Public Sector"
+      ]
+    },
+    {
+      "name": "Brixtel Defense",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/brixtel-defense-1",
+      "address": {
+        "text": "1544 Spring Hill Rd, Unit 9100,\nWest McLean\nVirginia\n22102\nUnited States",
+        "iso2": "US",
+        "lat": 38.9294959,
+        "lon": -77.23755249999999
+      },
+      "category": [
+        "Consultancy",
+        "Countermeasures",
+        "Cyber Security",
+        "Munitions, Ammunition",
+        "Counter UAS"
+      ]
     },
     {
       "name": "Broady Flow Control",
@@ -3581,7 +3706,7 @@
     },
     {
       "name": "CERBAIR",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/cerbair",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/cerbair-3",
       "address": {
         "text": "47, rue de la Vanne\nMONTROUGE\n92120\nFrance",
         "iso2": "FR",
@@ -3856,7 +3981,7 @@
       }
     },
     {
-      "name": "CREOMAGIC",
+      "name": "CREOMAGIC / ELTA",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/creomagic",
       "address": {
         "text": "Golda Meir 3\nNess-Ziona\nCenter District\n7403648\nIsrael",
@@ -5032,10 +5157,11 @@
         "lon": -82.3585717
       },
       "category": [
-        "Consultancy",
+        "Defence & Security Construction",
         "Machinery",
-        "Ammunition",
-        "Munitions, Ammunition"
+        "Explosives, Propellants, Pyrotechnics",
+        "Propellants",
+        "Ammunition"
       ]
     },
     {
@@ -5063,7 +5189,13 @@
         "iso2": "FI",
         "lat": 60.7898803,
         "lon": 23.6526977
-      }
+      },
+      "category": [
+        "Defence & Security Construction",
+        "Electronics, Electrical Equipment",
+        "Information Technology",
+        "Space"
+      ]
     },
     {
       "name": "DARDANEL",
@@ -5194,7 +5326,12 @@
         "iso2": "FR",
         "lat": 47.7515686,
         "lon": 1.6750631
-      }
+      },
+      "category": [
+        "Ammunition",
+        "Munitions, Ammunition",
+        "Large Calibre Ammunition"
+      ]
     },
     {
       "name": "DMG MORI",
@@ -5531,7 +5668,7 @@
     },
     {
       "name": "Defence Equipment & Support",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-equipment-support",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-equipment-support-1",
       "country": {
         "text": "1\n0\nUnited Kingdom",
         "iso2": "GB"
@@ -5549,7 +5686,7 @@
     },
     {
       "name": "Defence Medical Services",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-medical-services-1"
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-medical-services-4"
     },
     {
       "name": "Defence Procurement International",
@@ -5584,7 +5721,7 @@
     },
     {
       "name": "Defence Space",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-space"
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/defence-space-1"
     },
     {
       "name": "Defence in Lincolnshire",
@@ -5724,6 +5861,16 @@
         "iso2": "GB",
         "lat": 52.0429604,
         "lon": -0.7559155
+      }
+    },
+    {
+      "name": "Delta Development Team",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/delta-development-team-1",
+      "address": {
+        "text": "1635 South Research Loop, #303\nTucson\nArizona\n85710\nUnited Kingdom",
+        "iso2": "US",
+        "lat": 32.20202,
+        "lon": -110.825536
       }
     },
     {
@@ -6109,7 +6256,7 @@
       "name": "EIZO Limited",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/eizo-limited-15",
       "address": {
-        "text": "1 Queens Square, Ascot Business Park, Lyndhurst Road\nAscot\nBerkshire\nSL5 9FE\nUnited Kingdom",
+        "text": "1 Queens Square\nAscot Business Park\nLyndhurst Road\nAscot\nBerkshire\nSL5 9FE\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.4053715,
         "lon": -0.6783743
@@ -6322,7 +6469,12 @@
         "iso2": "GB",
         "lat": 51.38388380000001,
         "lon": -0.2931199
-      }
+      },
+      "category": [
+        "Accessories, Components, Spare Parts",
+        "Electronics, Electrical Equipment",
+        "Sensors"
+      ]
     },
     {
       "name": "EW Solutions Ltd",
@@ -6388,10 +6540,10 @@
       "name": "Eagle Eye Innovations Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/eagle-eye-innovations",
       "address": {
-        "text": "Unit D4Weaver Road\nLincoln\nLN6 3QN\nUnited Kingdom",
+        "text": "Building B,\nWest Central,\nRuncorn Road,\nLincoln\nLN6 3QP\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 53.2013301,
-        "lon": -0.6123265999999999
+        "lat": 53.2013284,
+        "lon": -0.6161212
       },
       "category": [
         "ISTAR Aircraft",
@@ -7279,9 +7431,9 @@
     },
     {
       "name": "Finnish Pavilion",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/finnish-pavilion",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/finnish-pavilion-1",
       "address": {
-        "text": "Kilonkartanontie 3\n02610 Espoo\nFinland",
+        "text": "Kilonkartanontie 3\n02610 Espoo\n181\nFinland",
         "iso2": "FI",
         "lat": 60.22314669999999,
         "lon": 24.7844093
@@ -7535,23 +7687,6 @@
       ]
     },
     {
-      "name": "Foxcom",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/foxcom",
-      "address": {
-        "text": "16 Hataasia StreetHartuv Industrial Zone\nBeit Shemesh\nBeit Shemesh\n9958008\nIsrael",
-        "iso2": "IL",
-        "lat": 31.747041,
-        "lon": 34.988099
-      },
-      "category": [
-        "Avionics",
-        "C5 (Command, Control, Communications, Computers & Cyber)",
-        "Electronics, Electrical Equipment",
-        "Signals Intelligence",
-        "Positioning, Navigation and Timing"
-      ]
-    },
-    {
       "name": "Frazer-Nash Consultancy Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/frazer-nash-consultancy",
       "address": {
@@ -7745,7 +7880,7 @@
     },
     {
       "name": "GCAP",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/gcap",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/gcap-1",
       "country": {
         "text": "1\n0\nUnited Kingdom",
         "iso2": "GB"
@@ -8184,6 +8319,23 @@
       ]
     },
     {
+      "name": "Global Foxcom",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/foxcom",
+      "address": {
+        "text": "16 Hataasia StreetHartuv Industrial Zone\nBeit Shemesh\nBeit Shemesh\n9958008\nIsrael",
+        "iso2": "IL",
+        "lat": 31.747041,
+        "lon": 34.988099
+      },
+      "category": [
+        "Avionics",
+        "C5 (Command, Control, Communications, Computers & Cyber)",
+        "Electronics, Electrical Equipment",
+        "Signals Intelligence",
+        "Positioning, Navigation and Timing"
+      ]
+    },
+    {
       "name": "Global RadioData Communications Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/global-radiodata-communications",
       "address": {
@@ -8221,7 +8373,12 @@
         "iso2": "IN",
         "lat": 12.9968177,
         "lon": 77.5849312
-      }
+      },
+      "category": [
+        "Clothing, Textiles",
+        "Clothes and Uniforms",
+        "Personal & Protection Equipment"
+      ]
     },
     {
       "name": "Golight",
@@ -8238,7 +8395,7 @@
       ]
     },
     {
-      "name": "Google",
+      "name": "Google Cloud",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/google-15",
       "address": {
         "text": "Pancras Square\nLondon\nN1C 4AG\nUnited Kingdom",
@@ -8402,6 +8559,16 @@
       }
     },
     {
+      "name": "HALO Maritime Defense Systems",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/halo-maritime-defense-systems-1",
+      "address": {
+        "text": "5 Puzzle Lane PO Box 449\nNewton\nNew Hampshire\n03858\nUnited States",
+        "iso2": "US",
+        "lat": 42.84473879999999,
+        "lon": -71.05706599999999
+      }
+    },
+    {
       "name": "HAVELSAN",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/havelsan",
       "address": {
@@ -8457,6 +8624,16 @@
         "Counter UAS",
         "Land Vehicles & Robotics"
       ]
+    },
+    {
+      "name": "HFE International",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/hfe-international-1",
+      "address": {
+        "text": "8060 East Research Court\nTucson\nArizona\n85710\nUnited Kingdom",
+        "iso2": "US",
+        "lat": 32.1997597,
+        "lon": -110.8201811
+      }
     },
     {
       "name": "HGH",
@@ -8934,7 +9111,7 @@
       "name": "Helsing",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/helsing",
       "address": {
-        "text": "167-169 Great Portland Street 5th Floor\nLondon\nW1W 5PF\nUnited Kingdom",
+        "text": "167-169 Great Portland Street5th Floor\nLondon\nW1W 5PF\nUnited Kingdom",
         "iso2": "GB",
         "lat": 51.52146,
         "lon": -0.1433206
@@ -9244,7 +9421,14 @@
         "iso2": "US",
         "lat": 38.8850381,
         "lon": -76.9957982
-      }
+      },
+      "category": [
+        "Border Control and Customs",
+        "Border Patrol",
+        "Control",
+        "Communications",
+        "Secure Communications"
+      ]
     },
     {
       "name": "Humanihut UK Ltd",
@@ -9347,6 +9531,16 @@
         "Submarine Systems",
         "Naval"
       ]
+    },
+    {
+      "name": "Hydronalix",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/hydronalix-1",
+      "address": {
+        "text": "1691 West Duval Commerce Ct. #141\nGreen Valley\nArizona\n85614\nUnited Kingdom",
+        "iso2": "US",
+        "lat": 31.8542511,
+        "lon": -110.9937019
+      }
     },
     {
       "name": "Hytec Inter Co.,LTD.",
@@ -9514,6 +9708,16 @@
       ]
     },
     {
+      "name": "INDO DEFENCE 2024 EXPO & FORUM",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/napindo",
+      "address": {
+        "text": "JL kalimalang, Ruko Green terrace Blok 9 F,\nPondok kelapa\nJakarta\n13450\nIndonesia",
+        "iso2": "ID",
+        "lat": -6.2387298,
+        "lon": 106.9353385
+      }
+    },
+    {
       "name": "INMM UK",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/inmm-uk",
       "address": {
@@ -9521,7 +9725,14 @@
         "iso2": "GB",
         "lat": 52.1901471,
         "lon": -1.7088912
-      }
+      },
+      "category": [
+        "C5 (Command, Control, Communications, Computers & Cyber)",
+        "CBRN Equipment & Services",
+        "Medical, Medivac, Hospitals",
+        "Medical Simulation and Training",
+        "Vehicle Components & Systems"
+      ]
     },
     {
       "name": "IRTS",
@@ -9909,16 +10120,6 @@
       ]
     },
     {
-      "name": "Intrepid Minds Ltd",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/intrepid-minds",
-      "address": {
-        "text": "3 Caldecote Mews\nCaldecote Hall Drive\nNuneaton\nCV11 0TQ\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 52.5503418,
-        "lon": -1.482829
-      }
-    },
-    {
       "name": "Inveris Training Solutions Limited",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/inveris-training-solutions-limited-3",
       "address": {
@@ -10017,6 +10218,16 @@
         "Naval Platforms & Equipment, Ships",
         "Radar"
       ]
+    },
+    {
+      "name": "Israel Ministry of Defense",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/israel-ministry-defense",
+      "address": {
+        "text": "7A Street Hakirya\nHakirya\nTel - Aviv District\n6473424\nIsrael",
+        "iso2": "IL",
+        "lat": 32.0734595,
+        "lon": 34.7847439
+      }
     },
     {
       "name": "J-Squared Technologies",
@@ -10144,6 +10355,16 @@
         "iso2": "GB",
         "lat": 50.7897407,
         "lon": 0.3006426
+      }
+    },
+    {
+      "name": "Jewell Instruments",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/jewell-instruments-1",
+      "address": {
+        "text": "850 Perimeter Road\nManchester\nNew Hampshire\n03103\nUnited States",
+        "iso2": "US",
+        "lat": 42.936524,
+        "lon": -71.4426443
       }
     },
     {
@@ -10306,7 +10527,13 @@
         "iso2": "IE",
         "lat": 53.3424554,
         "lon": -6.309391499999999
-      }
+      },
+      "category": [
+        "Communications",
+        "Hardware",
+        "Secure Communications",
+        "Cloud Services"
+      ]
     },
     {
       "name": "KNDS",
@@ -12230,7 +12457,7 @@
       ]
     },
     {
-      "name": "Metal Sharks",
+      "name": "Metal Shark Boats",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/metal-sharks",
       "address": {
         "text": "6814 E Admiral Doyle Dr,\nJeanerette\nLouisiana\n70544\nUnited States",
@@ -12243,10 +12470,10 @@
       "name": "Metalweb Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/metalweb-21",
       "address": {
-        "text": "Unit 1 Stargate Business Park Cuckoo Road\nBirmingham\nWest Midlands\nB7 5SE\nUnited Kingdom",
+        "text": "Unit 1Stargate Business ParkCuckoo Road\nBirmingham\nWest Midlands\nB7 5SE\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 52.5047298,
-        "lon": -1.8607678
+        "lat": 52.505961,
+        "lon": -1.8612324
       }
     },
     {
@@ -12301,7 +12528,14 @@
         "iso2": "GB",
         "lat": 54.9742055,
         "lon": -1.4575768
-      }
+      },
+      "category": [
+        "Naval Platforms & Equipment, Ships",
+        "Naval Propulsion Systems",
+        "Sub Surface Platforms & Equipment",
+        "Submarine Systems",
+        "Submarines"
+      ]
     },
     {
       "name": "Micro Systems Technologies",
@@ -12745,6 +12979,23 @@
       ]
     },
     {
+      "name": "Musketeer Solutions Ltd",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/musketeer-solutions",
+      "address": {
+        "text": "14 Commerce Road\nLynchwood\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.5511712,
+        "lon": -0.3192508
+      },
+      "category": [
+        "Air Platforms & Equipment",
+        "Consultancy",
+        "Military/ Public Sector",
+        "Radar",
+        "Unmanned and Autonomous Systems"
+      ]
+    },
+    {
       "name": "Myriad Technologies Pty Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/myriad-technologies-pty",
       "address": {
@@ -12840,7 +13091,13 @@
         "iso2": "BR",
         "lat": -22.8750304,
         "lon": -47.0341161
-      }
+      },
+      "category": [
+        "Intelligence, Surveillance, Target Acquisition, and Reconnaissance (ISTAR)",
+        "Signals Intelligence",
+        "Unmanned and Autonomous Systems",
+        "Counter UAS"
+      ]
     },
     {
       "name": "NEW LACHAUSSEE",
@@ -13272,10 +13529,10 @@
       "name": "Nexor",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/nexor",
       "address": {
-        "text": "8 The Triangle Enterprise Way ng2 Business Park\nNottingham\nNG2 1AE\nUnited Kingdom",
+        "text": "8 The Triangle\nEnterprise Wayng2 Business Park\nNottingham\nNG2 1AE\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 52.9407902,
-        "lon": -1.1671284
+        "lat": 52.940805,
+        "lon": -1.1671296
       },
       "category": [
         "C5 (Command, Control, Communications, Computers & Cyber)",
@@ -13492,7 +13749,7 @@
       ]
     },
     {
-      "name": "NovAtel & Antcom",
+      "name": "NovAtel",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/novatel-antcom-1",
       "address": {
         "text": "10921 14th Street NE\nCalgary\nAlberta\nT3K 2L5\nCanada",
@@ -13721,9 +13978,9 @@
       },
       "category": [
         "Actuators",
-        "Air Platforms & Equipment",
         "Aviation Components",
         "Missiles",
+        "Unmanned and Autonomous Systems",
         "Vehicle Components & Systems"
       ]
     },
@@ -14056,7 +14313,14 @@
         "iso2": "US",
         "lat": 37.3347121,
         "lon": -79.99187239999999
-      }
+      },
+      "category": [
+        "C5 (Command, Control, Communications, Computers & Cyber)",
+        "Electronics, Electrical Equipment",
+        "Information Technology",
+        "Naval Platforms & Equipment, Ships",
+        "Radar"
+      ]
     },
     {
       "name": "Opticoelectron Group",
@@ -14453,6 +14717,16 @@
         "Target Acquisition",
         "Soldier Systems & Equipment"
       ]
+    },
+    {
+      "name": "POLITICO",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/politico",
+      "address": {
+        "text": "Rue de la Loi 61\nBrussels\n1040\nBelgium",
+        "iso2": "BE",
+        "lat": 50.8443026,
+        "lon": 4.3738901
+      }
     },
     {
       "name": "POLOMARCONI",
@@ -15412,6 +15686,19 @@
       }
     },
     {
+      "name": "Quality Precision Electronics",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/quality-precision-electronics-3",
+      "address": {
+        "text": "15 Faraday Road\nGlenrothes\nKY6 2RU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 56.1810579,
+        "lon": -3.1966914
+      },
+      "category": [
+        "Electronics, Electrical Equipment"
+      ]
+    },
+    {
       "name": "Quantic Thistle",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/thistle-design",
       "address": {
@@ -15489,7 +15776,14 @@
         "iso2": "GB",
         "lat": 55.8659009,
         "lon": -4.282706399999999
-      }
+      },
+      "category": [
+        "Defence & Security Construction",
+        "Infrastructure",
+        "Disaster Relief & Peacekeeping",
+        "Land Platforms & Equipment",
+        "Personal & Protection Equipment"
+      ]
     },
     {
       "name": "RADLINK COMMUNICATIONS",
@@ -15741,7 +16035,14 @@
         "iso2": "AU",
         "lat": -37.9482832,
         "lon": 145.0536109
-      }
+      },
+      "category": [
+        "Accessories, Components, Spare Parts",
+        "Land Platforms & Equipment",
+        "Space",
+        "Unmanned and Autonomous Systems",
+        "Vehicles"
+      ]
     },
     {
       "name": "ROTINOR",
@@ -15882,7 +16183,14 @@
         "iso2": "NO",
         "lat": 63.41809060000001,
         "lon": 10.4601373
-      }
+      },
+      "category": [
+        "Communications",
+        "Cyber",
+        "Radios",
+        "Digitised Soldier Equipment",
+        "Personnel Communication Equipment"
+      ]
     },
     {
       "name": "Radnik",
@@ -16016,7 +16324,12 @@
         "iso2": "IE",
         "lat": 52.2787732,
         "lon": -9.7009068
-      }
+      },
+      "category": [
+        "Explosive Detection Devices",
+        "Unmanned and Autonomous Systems",
+        "Land Vehicles & Robotics"
+      ]
     },
     {
       "name": "Recotech",
@@ -16026,7 +16339,12 @@
         "iso2": "SE",
         "lat": 59.3935938,
         "lon": 15.9071178
-      }
+      },
+      "category": [
+        "Defence & Security Construction",
+        "Military/ Public Sector",
+        "Munitions, Ammunition"
+      ]
     },
     {
       "name": "Redeployable Camp Systems SA (Pty) Ltd",
@@ -16124,7 +16442,12 @@
         "iso2": "GB",
         "lat": 51.0656924,
         "lon": -1.7921142
-      }
+      },
+      "category": [
+        "Food & Rations",
+        "Data Analytics",
+        "Load Carrying Equipment"
+      ]
     },
     {
       "name": "Resonate Testing Ltd",
@@ -16270,7 +16593,14 @@
         "iso2": "GB",
         "lat": 51.457837,
         "lon": -2.5946833
-      }
+      },
+      "category": [
+        "CBRN Equipment & Services",
+        "Consultancy",
+        "Information Technology",
+        "Artificial Intelligence",
+        "Space"
+      ]
     },
     {
       "name": "Rockford",
@@ -16425,7 +16755,7 @@
     },
     {
       "name": "Royal Air Force",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/royal-air-force"
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/royal-air-force-1"
     },
     {
       "name": "Royal HaskoningDHV",
@@ -16456,7 +16786,7 @@
     },
     {
       "name": "Royal Navy",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/royal-navy"
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/royal-navy-1"
     },
     {
       "name": "Rubb",
@@ -16607,10 +16937,10 @@
       "name": "SARSILMAZ SILAH SANAYI A.S",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/sarsilmaz",
       "address": {
-        "text": "istiklal OSBE mah.5.cadde\nDuzce\nDuzce\n81600\nTurkey",
+        "text": "ISTIKLAL OSB1 MAH. 5. CADDE NO:12\nBEYKÖY\nDuzce\nDuzce\n81600\nTurkey",
         "iso2": "TR",
-        "lat": 40.83872,
-        "lon": 31.162609
+        "lat": 40.777622,
+        "lon": 31.173259
       },
       "category": [
         "Firearms"
@@ -16896,7 +17226,7 @@
       ]
     },
     {
-      "name": "SMAG",
+      "name": "SMAG Mobile Antenna Masts GmbH",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/smag"
     },
     {
@@ -17174,7 +17504,7 @@
     },
     {
       "name": "STS Defence",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/sts-defence-23",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/sts-defence-38",
       "address": {
         "text": "Mumby Road\nGosport\nHampshire\nPO12 1AF\nUnited Kingdom",
         "iso2": "GB",
@@ -17658,7 +17988,8 @@
       "category": [
         "Defence & Security Construction",
         "Infrastructure",
-        "Civil Engineering"
+        "Civil Engineering",
+        "Military/ Public Sector"
       ]
     },
     {
@@ -18022,7 +18353,12 @@
         "iso2": "CA",
         "lat": 49.2546104,
         "lon": -122.998838
-      }
+      },
+      "category": [
+        "Surveillance Devices",
+        "Unmanned and Autonomous Systems",
+        "Counter UAS"
+      ]
     },
     {
       "name": "Skydio",
@@ -18187,6 +18523,21 @@
         "Personal & Protection Equipment",
         "Training & Simulation",
         "Unmanned and Autonomous Systems"
+      ]
+    },
+    {
+      "name": "Solid State Supplies",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/solid-state-supplies",
+      "address": {
+        "text": "Hedera Road\nRedditch,\nWorcestershire\nB98 9EY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.3158307,
+        "lon": -1.8847792
+      },
+      "category": [
+        "Accessories, Components, Spare Parts",
+        "Electronics, Electrical Equipment",
+        "Night Vision, Optics, Optronics"
       ]
     },
     {
@@ -18388,6 +18739,16 @@
       ]
     },
     {
+      "name": "Sponsor",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/sponsor-15",
+      "address": {
+        "text": "House 69, Bedford,\n79 Fulham High St\nSW6 3JW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.46868509999999,
+        "lon": -0.209945
+      }
+    },
+    {
       "name": "StandardAero",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/standardaero",
       "address": {
@@ -18513,7 +18874,7 @@
     },
     {
       "name": "Strategic Command",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/strategic-command",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/strategic-command-1",
       "category": [
         "Information Systems",
         "Field Medicine",
@@ -18673,10 +19034,10 @@
       "name": "Survitec Group",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/survitec-group",
       "address": {
-        "text": "1-5 Beaufort Road\nBirkenhead\nMerseyside\nCH41 1HQ\nUnited Kingdom",
+        "text": "Unit A, Aviator Industrial Park\nEric Fountain Road\nEllesmere Port\nCH65 1AX\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 53.4033437,
-        "lon": -3.0504406
+        "lat": 53.3087196,
+        "lon": -2.9371685
       }
     },
     {
@@ -18989,17 +19350,15 @@
     {
       "name": "TEKUMA PTY LTD",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/tekuma-pty",
-      "address": {
-        "text": "1A Malvern Avenue,\nCroydon\nNew South Wales\n2132\nAustralia",
-        "iso2": "AU",
-        "lat": -33.8837913,
-        "lon": 151.1134234
-      },
       "category": [
         "C5 (Command, Control, Communications, Computers & Cyber)",
         "Electronics, Electrical Equipment",
         "Unmanned and Autonomous Systems"
-      ]
+      ],
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
     },
     {
       "name": "THALES AUSTRALIA LIMITED",
@@ -19347,6 +19706,16 @@
       ]
     },
     {
+      "name": "Teledyne",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/teledyne-1",
+      "address": {
+        "text": "106 Waterhouse Lane\nChelmsford\nEssex\nCM1 2QU\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.7317195,
+        "lon": 0.4562485
+      }
+    },
+    {
       "name": "Teledyne Space",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/teledyne-space",
       "address": {
@@ -19487,7 +19856,12 @@
         "iso2": "NO",
         "lat": 59.9115635,
         "lon": 10.7382199
-      }
+      },
+      "category": [
+        "Air Traffic Control Systems",
+        "C5 (Command, Control, Communications, Computers & Cyber)",
+        "Cyber Security"
+      ]
     },
     {
       "name": "The Box Group",
@@ -19664,6 +20038,23 @@
       "category": [
         "Air Platforms & Equipment",
         "Training Aircraft"
+      ]
+    },
+    {
+      "name": "Transupport, Inc.",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/transupport-inc-1",
+      "address": {
+        "text": "53 Turbine Way\nMerrimack\nNew Hampshire\n03054\nUnited States",
+        "iso2": "US",
+        "lat": 42.8555407,
+        "lon": -71.4865883
+      },
+      "category": [
+        "Spare Parts",
+        "Attack Helicopters",
+        "Heavy-Lift Helicopters",
+        "Utility Helicopters",
+        "Maritime Helicopters"
       ]
     },
     {
@@ -19998,20 +20389,10 @@
     },
     {
       "name": "UK MOD Science & Innovation",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/uk-mod-science-innovation",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/uk-mod-science-innovation-1",
       "category": [
         "Military/ Public Sector"
       ]
-    },
-    {
-      "name": "UKDSE Company",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/ukdse-company",
-      "address": {
-        "text": "Royal Victoria Dock, 1 Western Gateway\nLondon\nE16 1XL\nUnited Kingdom",
-        "iso2": "GB",
-        "lat": 51.5083079,
-        "lon": 0.0298589
-      }
     },
     {
       "name": "UMBRAGROUP",
@@ -20425,6 +20806,23 @@
       ]
     },
     {
+      "name": "Vibrac Precision Test Systems",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/vibrac-precision-test-systems-1",
+      "address": {
+        "text": "1050 Perimeter Rd, Suite 600\nManchester\nNew Hampshire\n03103\nUnited States",
+        "iso2": "US",
+        "lat": 42.9333475,
+        "lon": -71.4461249
+      },
+      "category": [
+        "Defence & Security Construction",
+        "Electronics, Electrical Equipment",
+        "Helicopters, Rotary Wing",
+        "Night Vision, Optics, Optronics",
+        "Space Transport"
+      ]
+    },
+    {
       "name": "VideoRay, LLC",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/videoray-llc",
       "address": {
@@ -20808,7 +21206,7 @@
     },
     {
       "name": "Western Global",
-      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/western-global",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/western-global-1",
       "address": {
         "text": "Western House, Broad Lane, Yate,\nBristol\nSomerset\nBS37 7LD\nUnited Kingdom",
         "iso2": "GB",
@@ -21052,6 +21450,14 @@
       ]
     },
     {
+      "name": "ZenaDrone",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/zenadrone-1",
+      "country": {
+        "text": "64 East Broadway Road, Ste 203\nTempe\nArizona\n85282\nUnited Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
       "name": "ZeroAlpha Solutions Ltd",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/zeroalpha-solutions",
       "address": {
@@ -21138,6 +21544,16 @@
       }
     },
     {
+      "name": "goTenna",
+      "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/gotenna-1",
+      "address": {
+        "text": "3800 North Central Ave, Suite 460\nPhoenix\nArizona\n85032\nUnited Kingdom",
+        "iso2": "US",
+        "lat": 33.4483771,
+        "lon": -112.0740373
+      }
+    },
+    {
       "name": "i2k",
       "exhibitorUrl": "https://www.dsei.co.uk/exhibitors/i2k",
       "address": {
@@ -21172,7 +21588,13 @@
         "iso2": "IL",
         "lat": 32.829821,
         "lon": 35.0606978
-      }
+      },
+      "category": [
+        "Cyber Security",
+        "Hardware",
+        "Software",
+        "Secure Communications"
+      ]
     },
     {
       "name": "maxon",
