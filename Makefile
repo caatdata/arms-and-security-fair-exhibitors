@@ -20,6 +20,7 @@ image : $(IMAGE_TRAVEL_ISO2_PNG)
 
 
 check-schema :
+#	ulimit -n 2048
 	check-jsonschema --schemafile schema/fair.schema.json data/*.json
 
 sanitize :
