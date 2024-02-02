@@ -23,14 +23,39 @@
     }
   ],
   "exhibitorListUrl": "https://www.defenceleaders.com/combat-engineer-logistics-sponsors-exhibitors",
-  "exhibitorListDate": "2023-11-08T11:29:13+00:00",
+  "exhibitorListDate": "2024-02-02T12:06:23+00:00",
   "exhibitor": [
     {
       "name": "AAR Mobility Systems",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/aar-mobility-systems",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.aarcorp.com/en/products/mobility-systems",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/AARCORP"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/AARCORP"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aar-corp/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aarcorp/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/AARCORPNEWS"
+        }
+      ],
+      "address": {
+        "text": "AAR Mobility Systems\n201 Haynes St\nCadillac\nMichigan\n49601\nUnited States",
+        "iso2": "US",
+        "lat": 44.2532387,
+        "lon": -85.4070742
       }
     },
     {
@@ -50,44 +75,101 @@
       }
     },
     {
-      "name": "Acrow / Mabey Bridge",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/acrow-group-1",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
-    },
-    {
-      "name": "Alaska Defence",
+      "name": "Alaska Defense",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/alaska-defence",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "6991 E. Camelback Rd.\nSuite D-216\nScottsdale\nArizona\n85251\nUnited States",
+        "iso2": "US",
+        "lat": 33.501371,
+        "lon": -111.9317436
+      },
+      "website": "https://www.alaskadefense.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/AlaskaDefense"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/alaskadefense"
+        }
+      ]
     },
     {
       "name": "Alpinter",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/alpinter",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.alpinter.com",
+      "address": {
+        "text": "Alpinter\nCharles de Gaullestraat 7\nRonse\n9600\nBelgium",
+        "iso2": "BE",
+        "lat": 50.7435984,
+        "lon": 3.5997513
       }
     },
     {
       "name": "American Roll-On-Roll Carrier Group (ARC Group)",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/american-roll-roll-carrier-group-arc-group"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/american-roll-roll-carrier-group-arc-group",
+      "address": {
+        "text": "American Roll-on Roll-off Carrier Group\n816 A1A North\nSuite 100\nPonte Vedra Beach\nFL\n32082\nUnited States",
+        "iso2": "US",
+        "lat": 30.2010537,
+        "lon": -81.3812524
+      },
+      "website": "https://www.arcshipping.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ARCships/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/feed/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC3dJKa6EfAL8Iy4bJr8xX4w/featured"
+        }
+      ]
     },
     {
       "name": "AmeyBriggs",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/ameybriggs"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/ameybriggs",
+      "website": "https://www.ameybriggs.co.uk",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/ameybriggs/?viewAsMember=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bg5XC%2FLoSSBOFtrbq9bhogg%3D%3D"
+      },
+      "address": {
+        "text": "Suite G\nWindrush Court\nBlacklands Way\nAbingdon\nOxfordshire\nOX14 1SY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.6731813,
+        "lon": -1.3022159
+      }
     },
     {
       "name": "Arijus, UAB",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/arijus-uab",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "ARIJUS UAB\nJūrininkų pr.27\nKlaipėda\nLT-95226\nLithuania",
+        "iso2": "LT",
+        "lat": 55.65751419999999,
+        "lon": 21.1856911
+      },
+      "website": "https://www.arijus.lt",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Arijusuab/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/uab-arijus/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/arijus_group/"
+        }
+      ]
     },
     {
       "name": "Atlantic Contract",
@@ -95,11 +177,51 @@
     },
     {
       "name": "BOH Solutions",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/boh-solutions"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/boh-solutions",
+      "website": "https://www.bohsolutions.com",
+      "social": {
+        "platform": "instagram",
+        "url": "https://www.linkedin.com/company/boh-solutions/"
+      },
+      "address": {
+        "text": "BOH Solutions\n143 Terra Bella Blvd\nCovington\nLA\n70433\nUnited States",
+        "iso2": "US",
+        "lat": 30.4699386,
+        "lon": -90.14296949999999
+      }
     },
     {
       "name": "BR International Consulting Services",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/br-international-consulting-services"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/br-international-consulting-services",
+      "address": {
+        "text": "Office Park 4\nTop B.80\nVienna Airport\n1300\nAustria",
+        "iso2": "AT",
+        "lat": 48.123212,
+        "lon": 16.5609941
+      },
+      "website": "https://br-ics.com/en/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/search/top?q=br%20international%20consulting%20services%20gmbh"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/42342353/admin/feed/posts/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/br_ics/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCsP6TU53wEC6g8GjezAmmsg"
+        }
+      ]
+    },
+    {
+      "name": "Baltic Container Terminal",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/baltic-container-terminal"
     },
     {
       "name": "Beardsell & Sons Limited",
@@ -108,18 +230,44 @@
     {
       "name": "BeaverFit North America LLC",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/beaverfit-north-america-llc",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://beaverfitusa.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/beaverfitUSA/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/BeaverFitUSA"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/beaverfitusa/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCaLwA8o99pfJ9qYPLT5uaPA"
+        }
+      ],
+      "address": {
+        "text": "BEAVERFIT\n120 Woodland Ave\nSuite D\nReno\nNevada\n89523\nUnited States",
+        "iso2": "US",
+        "lat": 39.5055573,
+        "lon": -119.8962555
       }
     },
     {
       "name": "Birdon UK Ltd",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/birdon-uk",
       "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+        "text": "United States",
+        "iso2": "US"
+      },
+      "website": "https://www.birdongroup.com"
+    },
+    {
+      "name": "British Army",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/british-army"
     },
     {
       "name": "C.E.I.A S.p.A",
@@ -136,21 +284,83 @@
     {
       "name": "CEFA SAS",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/cefa-sas",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "CEFA\n1 route de woerth\nSOULTZ SOUS FORETS\nBas-Rhin\n67250\nFrance",
+        "iso2": "FR",
+        "lat": 48.9361143,
+        "lon": 7.8697386
+      },
+      "website": "https://www.cefa.fr/fr/",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cefasas/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCxbem0OyPxXGndG_CJro_Jw/videos"
+        }
+      ]
     },
     {
       "name": "CELINA Tent",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/celina-tent"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/celina-tent",
+      "address": {
+        "text": "CELINA Tent, Inc.\n5373 State Route 29\nCelina\nOhio\n45822\nUnited States",
+        "iso2": "US",
+        "lat": 40.5470695,
+        "lon": -84.5949172
+      },
+      "website": "https://celinamilitaryshelters.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/celinatent"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/celina-tent-fabric-structures"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/celinatent"
+        }
+      ]
     },
     {
-      "name": "CNIM",
+      "name": "CNIM Systèmes Industriels",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/cnim",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "Zone portuaire de Brégaillon\nCS 60208\nLa Seyne-sur-Mer\n83507\nFrance",
+        "iso2": "FR",
+        "lat": 43.1094524,
+        "lon": 5.8829645
+      },
+      "website": "https://cnim-systemes-industriels.com/en",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cnim-syst%C3%A8mes-industriels/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@cnimsystemesindustriels3195"
+        }
+      ]
+    },
+    {
+      "name": "CTG, a Division of Blue Raven Solutions",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/crestwood-technology-group-jsfq",
+      "website": "https://ctgnow.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/ctg-crestwood-technology-group/?viewAsMember=true"
+      },
+      "address": {
+        "text": "One Odell Plaza\nSuite 139\nYonkers\nNY\n10701\nUnited States",
+        "iso2": "US",
+        "lat": 40.9687109,
+        "lon": -73.8827489
       }
     },
     {
@@ -162,12 +372,83 @@
       }
     },
     {
+      "name": "Chapman Freeborn",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/chapman-freeborn",
+      "address": {
+        "text": "Main Airport Center\nUnterschweinstiege 2 - 14\nMain Airport Center\nFrankfurt am Main\n60549\nGermany",
+        "iso2": "DE",
+        "lat": 50.0582947,
+        "lon": 8.5875946
+      },
+      "website": "https://chapmanfreeborn.aero",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/chapmanfreeborn/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/80888"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cfcharter/"
+        }
+      ]
+    },
+    {
       "name": "Continest Technologies",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/continest-technologies",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Fő tér 14. 3/A\nSzentendre\n2000\nHungary",
+        "iso2": "HU",
+        "lat": 47.6675789,
+        "lon": 19.0753802
+      },
+      "website": "https://www.continest.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ContiNest"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/ContinestW"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/continest"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/continestworldwide"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCrhtq-qMs0Pl4kSaipo7Qlw"
+        }
+      ]
+    },
+    {
+      "name": "Corimec",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/edilsider",
+      "address": {
+        "text": "Via Caorsana, 19\nFossadello di Caorso\nPiacenza\n29012\nItaly",
+        "iso2": "IT",
+        "lat": 45.0437625,
+        "lon": 9.8060039
+      },
+      "website": "https://www.corimec.com/company/company-profile.html",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/edilsiderspa/insights/?viewAsMember=true"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/edilsider/"
+        }
+      ]
     },
     {
       "name": "Creative Tent International, Inc",
@@ -179,36 +460,96 @@
       "category": "Exhibitor"
     },
     {
-      "name": "Crestwood Technology Group",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/crestwood-technology-group-jsfq",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
-    },
-    {
       "name": "Cummins Power Generation",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/cummins-power-generation",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.cummins.com/generators-power-systems",
+      "address": {
+        "text": "Cummins Power Generation\n1400 73rd Ave NE\nFridley\nAnoka\n55421\nUnited States",
+        "iso2": "US",
+        "lat": 45.0988198,
+        "lon": -93.2340688
       }
     },
     {
       "name": "DESCHAMPS",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/deschamps"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/deschamps",
+      "address": {
+        "text": "ETS A. DESCHAMPS ET FILS\nUsine de Bourisson\nLa Couronne\n16400\nFrance",
+        "iso2": "FR",
+        "lat": 45.59082919999999,
+        "lon": 0.1400055
+      },
+      "website": "https://defense.mobi-mat.com/fr/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mobimat.defense/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://www.twitter.com/mobimat_defense"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/deschamps/mycompany/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mobimat.defense/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@deschampsdefense"
+        }
+      ]
     },
     {
       "name": "DIRICKX Systems Ltd",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/dirickx-systems"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/dirickx-systems",
+      "website": "https://dirickx-systems.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/dirickx-systems/"
+      },
+      "address": {
+        "text": "Wakefield Road\nLeeds\nYorkshire\nLS10 1DS\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.7734299,
+        "lon": -1.5157938
+      }
     },
     {
       "name": "DOK-ING",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/dok-ing",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "DOK-ING\nSlavonska avenija 22G\nGrad Zagreb\n10000\nCroatia",
+        "iso2": "HR",
+        "lat": 45.7929266,
+        "lon": 16.0335341
+      },
+      "website": "https://dok-ing.hr",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/doking.ltd/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/DOK_ING_"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/1367885/admin/feed/posts/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dok__ing/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/DOKINGltd"
+        }
+      ]
     },
     {
       "name": "Dantherm A/S",
@@ -219,12 +560,38 @@
       }
     },
     {
+      "name": "Deflog",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/deflog",
+      "address": {
+        "text": "Jetflite Oy\nSiipitie 5-7\nVantaa\n01530\nFinland",
+        "iso2": "FI",
+        "lat": 60.3093488,
+        "lon": 24.9756586
+      },
+      "website": "http://htttps//www.jetlogistics.fi",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/showcase/jetlogistics-cargo/"
+      }
+    },
+    {
       "name": "Deployed Logix",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/deployed-logix"
     },
     {
       "name": "Dewey Electronics",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/dewey-electronics"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/dewey-electronics",
+      "website": "https://deweyelectronics.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/the-dewey-electronics-corporation/"
+      },
+      "address": {
+        "text": "27 Muller Road\nOakland\n07436\nUnited States",
+        "iso2": "US",
+        "lat": 41.02523720000001,
+        "lon": -74.2662582
+      }
     },
     {
       "name": "Donaldson Company, Inc",
@@ -250,22 +617,69 @@
     {
       "name": "Ecolog Interntional FZE",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/ecolog-interntional-fze",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
-    },
-    {
-      "name": "Edilsider",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/edilsider"
+      "website": "https://www.ecolog-international.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/EcologGroup/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/ecologint"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ecolog-international"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ecolog_international/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/Ecolog-Intl"
+        }
+      ]
     },
     {
       "name": "Exsel Group & Dynasystems",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/exsel-group-dynasystems"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/exsel-group-dynasystems",
+      "website": "https://www.exsel-group.com",
+      "address": {
+        "text": "Exsel Group\n3 Talina Centre\nBagleys Lane\nLondon\nEngland\nSW6 2BW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4746483,
+        "lon": -0.1862372
+      }
     },
     {
       "name": "FAE Group",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/fae-group"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/fae-group",
+      "address": {
+        "text": "FAE Group S.p.A.\nZona Produttiva 18\nBorgo d'Anaunia\nItaly\n38013\nItaly",
+        "iso2": "IT",
+        "lat": 46.446373,
+        "lon": 11.134651
+      },
+      "website": "https://www.fae-group.com/en/products/demining",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/FAEgroup"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/fae-group"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/faegroup/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/playlist?list=PLvG1PwUqbVoyBAAKngopHmUC9TgQhQaYd"
+        }
+      ]
     },
     {
       "name": "FAUN Trackway",
@@ -291,6 +705,37 @@
       }
     },
     {
+      "name": "FORTS USA",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/forts-usa",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "website": "https://www.fortsusa.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.linkedin.com/in/usajoethomas/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://www.linkedin.com/in/usajoethomas/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/usajoethomas/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.linkedin.com/in/usajoethomas/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.linkedin.com/in/usajoethomas/"
+        }
+      ]
+    },
+    {
       "name": "Farm Machinery Group OY",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/farm-machinery-group-oy",
       "country": {
@@ -300,7 +745,24 @@
     },
     {
       "name": "Fischer Panda",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/fischer-panda"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/fischer-panda",
+      "address": {
+        "text": "17 Blackmoor Road, Ebblake Industrial Estate\nEbblake Industrial Estate\nVerwood\nDorset\nBH31 6AX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.8686756,
+        "lon": -1.8513477
+      },
+      "website": "https://www.fischerpanda.co.uk",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/FischerPandaUK"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/fischerpanda/"
+        }
+      ]
     },
     {
       "name": "Fuelco",
@@ -334,10 +796,27 @@
     {
       "name": "G-CON",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/g-con",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Bochenskiego 6\nWarsaw\nPoland\n04-478\nPoland",
+        "iso2": "PL",
+        "lat": 52.2543354,
+        "lon": 21.165333
+      },
+      "website": "https://g-con.pl",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gconspzoo"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://pl.linkedin.com/company/g-con-containers"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gcon_containers?igsh=ZnRsa240N3MzbXJk"
+        }
+      ]
     },
     {
       "name": "G-Logistic",
@@ -348,36 +827,151 @@
       }
     },
     {
-      "name": "General Dynamics European Land Systems'Bridge Systems GmbH",
+      "name": "General Dynamics European Land Systems–Bridge Systems GmbH",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/general-dynamics-european-land-systemsbridge-systems-gmbh",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.gdels.com",
+      "address": {
+        "text": "Barbarossastraße 30\nKaiserslautern\n67655\nGermany",
+        "iso2": "DE",
+        "lat": 49.4385725,
+        "lon": 7.776188599999999
       }
     },
     {
       "name": "Global RTS",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/global-rts"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/global-rts",
+      "address": {
+        "text": "23 Parva Str.\nGelemenovo\nBulgaria\n4444\nBulgaria",
+        "iso2": "BG",
+        "lat": 42.2730395,
+        "lon": 24.3156087
+      },
+      "website": "https://global-rts.bg",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pages/Global-RTS/275921405746"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/global-rts-ltd-a45ab1260/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/globalrtsltd/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCk-4zptFOPqr3hhml2wx87w"
+        }
+      ]
+    },
+    {
+      "name": "Globe Tech LLC",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/globe-tech-llc",
+      "address": {
+        "text": "Globe Tech, LLC\n40300 Plymouth Rd\nPlymouth Twp\nMI\n48170\nUnited States",
+        "iso2": "US",
+        "lat": 42.374771,
+        "lon": -83.4381125
+      },
+      "website": "https://www.globetech-us.com"
+    },
+    {
+      "name": "Grove Defense",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/grove-defense",
+      "website": "https://www.manitowoc.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ManitowocCompany/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-manitowoc-company/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/manitowoc_company/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/manitowoccranes"
+        }
+      ],
+      "address": {
+        "text": "1565 Buchanan Trail East\nShady Grove\nPA\n17256\nUnited States",
+        "iso2": "US",
+        "lat": 39.7823974,
+        "lon": -77.6815396
+      }
     },
     {
       "name": "HIPPO Multipower",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/hippo-multipower",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://hippomultipower.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/hippomultipower"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hippo-multipower"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/HippoKC"
+        }
+      ],
+      "address": {
+        "text": "Hippo Multipower HQ\n3600 Fibreglass Road\nKansas City\nKansas\n66115\nUnited States",
+        "iso2": "US",
+        "lat": 39.1502298,
+        "lon": -94.6167349
       }
     },
     {
       "name": "Hesco Bastion Limited",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/hesco-bastion-limited"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/hesco-bastion-limited",
+      "website": "http://www.hesco.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hescogroup"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@HESCOGroup"
+        }
+      ],
+      "address": {
+        "text": "Hesco Bastion Limited\nLeeds\nLS15 8GB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.799001,
+        "lon": -1.4261127
+      }
     },
     {
       "name": "Highland Engineering",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/highland-engineering",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Highland Engineering, Inc.\n1153 Grand Oaks Drive\nHowell\nMichigan\n48843\nUnited States",
+        "iso2": "US",
+        "lat": 42.5847383,
+        "lon": -83.88498709999999
+      },
+      "website": "http://www.high-eng.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/HighlandEngineeringInc"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/highland-engineering-inc./"
+        }
+      ]
     },
     {
       "name": "Holleman Specail Transport & Project Cargo Srl",
@@ -389,7 +983,24 @@
     },
     {
       "name": "INTRACOM DEFENSE",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/intracom-defense"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/intracom-defense",
+      "address": {
+        "text": "21km Markopoulou Avenue\nKoropi, Athens\nAttiki\n19441\nGreece",
+        "iso2": "GR",
+        "lat": 37.9295471,
+        "lon": 23.8624849
+      },
+      "website": "https://www.intracomdefense.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/intracomd?lang=el"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://gr.linkedin.com/company/intracom-defense"
+        }
+      ]
     },
     {
       "name": "ISS Aerospace",
@@ -408,11 +1019,43 @@
       }
     },
     {
+      "name": "InQuik, Inc",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/inquik-inc",
+      "website": "http://www.inquikbridge.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/inquik/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/inquikaustralia/"
+        }
+      ]
+    },
+    {
+      "name": "Innocorps Research Corporation",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/innocorps-research-corporation"
+    },
+    {
       "name": "Janson Bridging B.V",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/janson-bridging-bv",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "http://jansonbridging.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/janson-bridging-nederland/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/watch?v=gTZXtII1pis"
+        }
+      ],
+      "address": {
+        "text": "Keizersveer 9\nHank\n4273 LD\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.7216428,
+        "lon": 4.895531099999999
       }
     },
     {
@@ -421,7 +1064,14 @@
     },
     {
       "name": "KJR Supply",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kjr-supply"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kjr-supply",
+      "address": {
+        "text": "Magenta 142\nWarsaw\nPoland\n04-429\nPoland",
+        "iso2": "PL",
+        "lat": 52.2702389,
+        "lon": 21.1561889
+      },
+      "website": "https://kjrsupply.pl"
     },
     {
       "name": "KT-Shelter Oy",
@@ -434,9 +1084,34 @@
     {
       "name": "KVG LLC",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kvg-llc",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://kvg.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/KVG.Main"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/KVG_LLC"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kvgteam/mycompany/verification/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kilo.victor.golf/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCrVvFhsu3TnIMwqi6Y9p-Sg/featured"
+        }
+      ],
+      "address": {
+        "text": "180 Redding Lane\nGettysburg\nPennsylvania\n17325\nUnited States",
+        "iso2": "US",
+        "lat": 39.8210205,
+        "lon": -77.2532896
       }
     },
     {
@@ -444,23 +1119,119 @@
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kenno-tech"
     },
     {
-      "name": "Krauss-Maffei Wegmann GmbH & Co. KG (KMW)",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kmw",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "name": "Kesla",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kesla",
+      "website": "https://kesla.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Kesla.Oyj"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kesla-oyj/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kesla_official/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@KESLA"
+        }
+      ],
+      "address": {
+        "text": "Kuurnankatu 24\nJOENSUU\n80100\nFinland",
+        "iso2": "FI",
+        "lat": 62.62032989999999,
+        "lon": 29.7536803
       }
     },
     {
+      "name": "Krauss-Maffei Wegmann GmbH & Co. KG (KMW)",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/kmw",
+      "address": {
+        "text": "Krauss-Maffei Wegmann Gmbh & Co. KG\nKrauss-Maffei-Str. 11\nMunich\n80997\nGermany",
+        "iso2": "DE",
+        "lat": 48.1941216,
+        "lon": 11.4727521
+      },
+      "website": "https://www.knds.de",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kmw-knds"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kmw_knds/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@kmw_knds"
+        }
+      ]
+    },
+    {
       "name": "LANCO Group",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/lanco-group"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/lanco-group",
+      "website": "https://www.lanco-tents.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/LANCOzelte/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/lanco-group-gmbh/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lanco_shelters/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@lancohannover"
+        }
+      ],
+      "address": {
+        "text": "Sure Wisch 6\nHannover\n30625\nGermany",
+        "iso2": "DE",
+        "lat": 52.3801054,
+        "lon": 9.8274727
+      }
     },
     {
       "name": "Leonardo DRS",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/leonardo-drs",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.leonardodrs.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/leonardodrsinc/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/LeonardoDRSnews"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/leonardodrs/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/leonardodrs/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/leonardodrs"
+        }
+      ],
+      "address": {
+        "text": "Leonardo DRS\n4201 Innovation Way\nBridgeton\n63044\nUnited States",
+        "iso2": "US",
+        "lat": 38.7481656,
+        "lon": -90.39582999999999
       }
     },
     {
@@ -469,32 +1240,80 @@
     },
     {
       "name": "MOVEONE",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/moveone"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/moveone",
+      "website": "https://www.moveoneinc.com/our-locations/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MoveOne.Logistics/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/showcase/move-one-logistics/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/moveoneinc/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@MoveOneRelo/videos"
+        }
+      ],
+      "address": {
+        "text": "UBora Office Tower\nBusiness Bay\nDubai\nUnited Arab Emirates\n85579\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.1807808,
+        "lon": 55.27096299999999
+      }
     },
     {
       "name": "MSS International B.V",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/mss-international-bv",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://mss-international.com",
+      "address": {
+        "text": "MSS International BV\nde Stad 15\nOirschot\n5688NX\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.5012846,
+        "lon": 5.3293724
       }
     },
     {
       "name": "MaXi Cargo",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/maxi-cargo",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Maxi Cargo\nNowowiejska 28\nSwarzędz\n62-020\nPoland",
+        "iso2": "PL",
+        "lat": 52.402765,
+        "lon": 17.0722875
+      },
+      "website": "https://mx-cargo.pl",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/transportmaxicargo/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@maxicargo2811"
+        }
+      ]
     },
     {
       "name": "Marshall Futureworx",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/marshall-futureworx"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/marshall-futureworx",
+      "website": "https://www.marshallgroup.co.uk",
+      "address": {
+        "text": "Airport Way\nNewmarket road\nCambridgeshire\nUK\ncb5 8RY\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.2068469,
+        "lon": 0.1863174
+      }
     },
     {
       "name": "Marshall Land Systems Ltd",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/marshall-land-systems",
-      "website": "https://marshall-landsystems.com",
+      "website": "https://www.marshallgroup.co.uk",
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/marshall-land-systems-group/"
@@ -507,8 +1326,75 @@
       }
     },
     {
+      "name": "Maru Defence",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/maru-defence"
+    },
+    {
+      "name": "Maschinenbau Haldenwang GmbH & Co. KG",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/maha",
+      "address": {
+        "text": "MAHA Maschinenbau Haldenwang GmbH & Co. KG\nHoyen 20\nHaldenwang\n87490\nGermany",
+        "iso2": "DE",
+        "lat": 47.7983323,
+        "lon": 10.333379
+      },
+      "website": "https://www.maha.de",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MAHAheadquarter/?locale=de_DE"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/maha-maschinenbau-haldenwang-gmbh-&-co-kg"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mahamaschinenbauhaldenwang/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@maha87490"
+        }
+      ]
+    },
+    {
       "name": "Modular Systems",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/modular-systems"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/modular-systems",
+      "address": {
+        "text": "Modular System\nBielska 19\nOgorzelice\n09-412\nPoland",
+        "iso2": "PL",
+        "lat": 52.6469017,
+        "lon": 19.7039521
+      },
+      "website": "https://www.modularsystem.pl",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ModularSystemPolska"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/modularsystem"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/modular_system/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@modularsystempl"
+        }
+      ]
+    },
+    {
+      "name": "NCS Fuel",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/nordic-camp-supply-aps",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://ncsfuel.com"
     },
     {
       "name": "Nixus 2 Protect",
@@ -521,65 +1407,169 @@
     {
       "name": "Noble Supply & Logistics",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/noble-supply-logistics",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
-    },
-    {
-      "name": "Nordic Camp Supply ApS",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/nordic-camp-supply-aps",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "BOSTON HEADQUARTERS\nOne Marina Park Drive, Suite 220\nBoston\n02210\nUnited States",
+        "iso2": "US",
+        "lat": 42.3532485,
+        "lon": -71.04531089999999
+      },
+      "website": "https://www.noble.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/NobleSupplyAndLogistics/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/noblellc/mycompany/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/nobledefense/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@noblesupply"
+        }
+      ]
     },
     {
       "name": "Nordic Shelter",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/nordic-shelter",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://nordicshelter.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/NordicShelter/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/955115/"
+        }
+      ],
+      "address": {
+        "text": "Jerikoveien 14\nOslo\nNorway\n1067\nNorway",
+        "iso2": "NO",
+        "lat": 59.9339427,
+        "lon": 10.8793074
       }
     },
     {
       "name": "Norlense AS",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/norlense",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/norlense"
     },
     {
       "name": "Officine Maccaferri Italia",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/officine-maccaferri-italia",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.maccaferri.com/sectors/defence-security/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MaccaferriWorld/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/MaccaferriWorld"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/maccaferri/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/maccaferriworld/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/maccaferriworld"
+        }
+      ],
+      "address": {
+        "text": "Via John Fitzgerald Kennedy 10\nZola Predosa\nBO\n40069\nItaly",
+        "iso2": "IT",
+        "lat": 44.4940335,
+        "lon": 11.2263034
       }
     },
     {
-      "name": "One Network",
+      "name": "One Network Enterprises",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/one-network",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.onenetwork.com/industries/public-sector-and-defense/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/OneNetworkEnterprises"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/onenetwork"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/one-network-enterprises"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.linkedin.com/company/one-network-enterprises"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.linkedin.com/company/one-network-enterprises"
+        }
+      ],
+      "address": {
+        "text": "One Network Enterprises\n4055 Valley View Lane\nSuite 1000\nDallas\nTX\n75244\nUnited States",
+        "iso2": "US",
+        "lat": 32.9261127,
+        "lon": -96.84365629999999
       }
     },
     {
       "name": "P.S.D",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/psd",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "Bukowka 11\nSlupsk\n76-200\nPoland",
+        "iso2": "PL",
+        "lat": 54.5189479,
+        "lon": 17.0984712
+      },
+      "website": "https://www.psd-services.com",
+      "social": {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/PSDProjectsSafelyDelivered/"
       }
     },
     {
       "name": "Pearson Engineering",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/pearson-engineering",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.pearson-eng.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/PearsonEngineeringLimited/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/Pearson_Eng_Ltd"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/pearson-engineering-ltd"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pearson_engineering/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@PearsonEngineeringLtd"
+        }
+      ],
+      "address": {
+        "text": "Armstrong Works\nScotswood Road\nNewcastle Upon Tyne\nTyne and Wear\nNE15 6UX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.96660869999999,
+        "lon": -1.6825385
       }
     },
     {
@@ -595,8 +1585,48 @@
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/pol-mare"
     },
     {
+      "name": "Polfrost",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/polfrost",
+      "address": {
+        "text": "TYNIECKA 27/2\nWARSZAWA\n02-615\nPoland",
+        "iso2": "PL",
+        "lat": 52.1928688,
+        "lon": 21.022514
+      },
+      "website": "https://www.polfrost.com.pl/en/about-us/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/search/top?q=polfrost"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://pl.linkedin.com/company/polfrost-internationale-spedition-sp-z-o-o-"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/polfrost/?igshid=MzRlODBiNWFlZA%3D%3D"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://youtube.com/@polfrost3450?si=67gXxz8tdkhrJJWw"
+        }
+      ]
+    },
+    {
       "name": "Pond & Company",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/pond-company"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/pond-company",
+      "address": {
+        "text": "Pond & Company\n3500 Parkway Ln\nSuite #500\nPeachtree Corners\nGeorgia\n30092\nUnited States",
+        "iso2": "US",
+        "lat": 33.9591127,
+        "lon": -84.2328654
+      },
+      "website": "https://www.pondco.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/pond-&-company/mycompany/"
+      }
     },
     {
       "name": "Potti Corp",
@@ -608,6 +1638,11 @@
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
+      },
+      "website": "https://pts.careers",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/precision-talent-solutions/"
       }
     },
     {
@@ -621,14 +1656,53 @@
     {
       "name": "Quehenberger Logistics",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/quehenberger-logistics",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.quehenberger.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/QuehenbergerLogistics/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/quehenberger-logistics/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/quehenbergerlogisticsofficial/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@quehenbergerlogistics"
+        }
+      ],
+      "address": {
+        "text": "Gutenbergstrasse 19\nWeiterstadt\nStandard\n64331\nGermany",
+        "iso2": "DE",
+        "lat": 49.8895789,
+        "lon": 8.6070948
+      }
+    },
+    {
+      "name": "RVM",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rvm",
+      "website": "https://rvmbv.com",
+      "address": {
+        "text": "15 Industriestraat\nGenemuiden\n8281BN\nNetherlands",
+        "iso2": "NL",
+        "lat": 52.62793,
+        "lon": 6.0442771
       }
     },
     {
       "name": "Raikka",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/raikka"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/raikka",
+      "address": {
+        "text": "Nuottaniementie 9\nEspoo\nEspoo\nFI-02230\nFinland",
+        "iso2": "FI",
+        "lat": 60.1481234,
+        "lon": 24.7457286
+      },
+      "website": "https://raikka.fi/rajahdetehdas/"
     },
     {
       "name": "Rekord Hale Namiotowe Sp z.o.o",
@@ -637,34 +1711,193 @@
     {
       "name": "Rheinmetall MAN Military Vehicles GmbH",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rheinmetall",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "Rheinmetall-Platz 1\nDüsseldorf\n40476\nGermany",
+        "iso2": "DE",
+        "lat": 51.25348529999999,
+        "lon": 6.7848843
+      },
+      "website": "https://www.rheinmetall.com/en",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/RheinmetallAG"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/rheinmetall"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rheinmetallag/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@RheinmetallGroup"
+        }
+      ]
+    },
+    {
+      "name": "Rich Global Solutions",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rich-global-solutions",
+      "address": {
+        "text": "Alfred-Hummel-Str. 6\nLenzkirch\n79853\nGermany",
+        "iso2": "DE",
+        "lat": 47.8564415,
+        "lon": 8.2088853
+      },
+      "website": "https://richglobalsolutions.com"
+    },
+    {
+      "name": "Rosehill Polymers",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rosehill-polymers",
+      "website": "https://rosehillpolymers.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/rosehill-polymers-limited"
+      },
+      "address": {
+        "text": "Spring Bank Mills\nWatson Mill Lane\nSowerby Bridge\nWest Yorkshire\nHX6 3BW\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.703294,
+        "lon": -1.9168125
       }
     },
     {
       "name": "Rubb Buildings Ltd",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rubb-buildings"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/rubb-buildings",
+      "website": "https://www.rubbuk.com/rubb-market-sectors/military-buildings/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/rubb.buildings"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/company/rubbuk"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rubbgroup/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@rubb-buildings"
+        }
+      ],
+      "address": {
+        "text": "246 Dukesway\nTeam Valley Trading Estate\nGateshead\nNE11 0QE\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 54.9293991,
+        "lon": -1.6237188
+      }
+    },
+    {
+      "name": "SACO Airport Equipment",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/saco-airport-equipment",
+      "website": "https://www.saco.aero",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sacoairportequipment/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://nl.linkedin.com/company/saco-airport-equipment"
+        }
+      ],
+      "address": {
+        "text": "Industrieweg 2\nNetherlands\n5731hr\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.4481493,
+        "lon": 5.6253062
+      }
     },
     {
       "name": "SEKO Government Services & Defence",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/seko-logistics",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.sekologistics.com/us/freight-forwarding/government-space-and-defense/",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A85109883&keywords=seko%20gsd%20%20government%2C%20space%20%26%20defense&origin=RICH_QUERY_SUGGESTION&position=2&searchId=4334fba1-a33b-4adb-8b30-33362baf8f73&sid=.m.&spellCorrectionEnabled=false"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/watch?v=1qgnqbi1v_I"
+        }
+      ],
+      "address": {
+        "text": "GEYSSENDORFFERWEG 25\nROTTERDAM\n3088JJ\nNetherlands",
+        "iso2": "NL",
+        "lat": 51.87627029999999,
+        "lon": 4.4437503
       }
     },
     {
       "name": "SPEE3D",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/spee3d",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "address": {
+        "text": "SPEE3D\nUnit 2/2 Darby Way, Dandenong South\nMelbourne\nVictoria\n3175\nAustralia",
+        "iso2": "AU",
+        "lat": -38.004782,
+        "lon": 145.202344
+      },
+      "website": "https://www.spee3d.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/SPEE3Dofficial"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/OfficialSPEE3D"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/spee3d"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC4a9pweYKPJwS2wvz9ekGXw"
+        }
+      ]
+    },
+    {
+      "name": "Scan Global Logistics",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/scan-global-logistics",
+      "website": "https://www.scangl.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/scan-global-logistics/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/scanglobal/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@scangloballogistics"
+        }
+      ],
+      "address": {
+        "text": "Jernholmen 49\nHvidovre\n2650\nDenmark",
+        "iso2": "DK",
+        "lat": 55.6053042,
+        "lon": 12.4898829
       }
     },
     {
       "name": "Signature Systems",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/signature-systems"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/signature-systems",
+      "website": "https://signature-systems.com",
+      "address": {
+        "text": "1201 Lakeside Pkwy\nSuite 150\nFlower Mound\nTexas\n75028\nUnited States",
+        "iso2": "US",
+        "lat": 32.9942183,
+        "lon": -97.0480896
+      }
     },
     {
       "name": "Specialist Services",
@@ -679,20 +1912,95 @@
       }
     },
     {
-      "name": "Teknoprod",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/teknoprod"
+      "name": "TDW",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/tdw"
     },
     {
       "name": "Textron Systems Corporation",
-      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/textron-systems-corporation"
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/textron-systems-corporation",
+      "website": "http://www.textronsystems.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/textronsystems/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/txtsystems"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/textron-systems"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/textronsystems/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/textronsystems"
+        }
+      ],
+      "address": {
+        "text": "Textron Systems\n124 Industry ln\nHunt Valley\nMD\n21030\nUnited States",
+        "iso2": "US",
+        "lat": 39.4900013,
+        "lon": -76.65850739999999
+      }
+    },
+    {
+      "name": "The Acrow Group",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/acrow-group-1",
+      "address": {
+        "text": "181 New Road - Suite 202\nParsippany\nNew Jersey\n07054-5625\nUnited States",
+        "iso2": "US",
+        "lat": 40.85460519999999,
+        "lon": -74.3477468
+      },
+      "website": "https://acrow.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100057044307258"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/AcrowBridge"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/acrow-corporation-of-america/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCu-527JrFWVtoQqUNv4pMfQ"
+        }
+      ]
     },
     {
       "name": "The Box Group",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/box-group",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "The Box Group\n17-19 St Georges Street\nNorwich\nNR3 1AB\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.6325721,
+        "lon": 1.2946299
+      },
+      "website": "https://www.theboxgrp.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/theboxgroupuk"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-box-group-company/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theboxgroup_uk/"
+        }
+      ]
     },
     {
       "name": "Trailer Bridge",
@@ -705,26 +2013,79 @@
     {
       "name": "UTILIS SAS",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/utilis-sas",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Utilis SAS\nRue de l'Abbé Mariotte, 64\nEnnery\nMoselle\n57365\nFrance",
+        "iso2": "FR",
+        "lat": 49.2313232,
+        "lon": 6.2243876
+      },
+      "website": "https://www.utilis-international.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/utilis.sas"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/i/flow/login?redirect_after_login=%2Futilis_sas"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/utilis-sas"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/utilis_sas/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCQuyUReXkeuG-zdAh2B_GLQ"
+        }
+      ]
     },
     {
       "name": "Ucargo LLP",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/ucargo-llp",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
-      }
+      "address": {
+        "text": "Windmill House\n127-130 Windmill Street\nGravesend\nKent\nDA12 1BL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.4415412,
+        "lon": 0.3694396
+      },
+      "website": "https://www.ucargo.co.uk",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ucargo"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ucargo-llp/mycompany/?viewAsMember=true"
+        }
+      ]
     },
     {
-      "name": "Valiant Intergrated Services",
+      "name": "VYVOJ Martin",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/vyvoj-martin"
+    },
+    {
+      "name": "Valiant Integrated Services",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/valiant-intergrated-services",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
+    },
+    {
+      "name": "Viking Lighting",
+      "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/teknoprod",
+      "address": {
+        "text": "VIKING LIGHTING\nEldarvagen 1\nTaby\nStockholm\nSE187-75\nSweden",
+        "iso2": "SE",
+        "lat": 59.4832809,
+        "lon": 18.0568336
+      },
+      "website": "https://vikinglighting.com"
     },
     {
       "name": "WFEL Limited",
@@ -737,17 +2098,49 @@
     {
       "name": "Weatherhaven",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/weatherhaven",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://www.weatherhaven.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/weatherhaven"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/WeatherhavenUK"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/weatherhaven/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/weatherhaven"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCgO3fzLzdHTwLRE7rYS3qKg"
+        }
+      ],
+      "address": {
+        "text": "Oakleys Yard\nGatehouse Road\nRotherwas Industrial Estate\nHereford\nHerefordshire\nHR2 6LR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 52.0360549,
+        "lon": -2.682846
       }
     },
     {
       "name": "Western Global",
       "exhibitorUrl": "https://www.defenceleaders.com/exhibitors/western-global",
-      "country": {
-        "text": "United Kingdom",
-        "iso2": "GB"
+      "website": "https://western-global.com/us/defense/",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/westernglobal/"
+      },
+      "address": {
+        "text": "Western Global\nBroad Lane\nYate\nBristol\nUK\nBS37 7LD\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.55130459999999,
+        "lon": -2.4318305
       }
     },
     {
