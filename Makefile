@@ -2,42 +2,47 @@ SHELL := /bin/bash
 
 FAIR_JSON_GLOB := data/*.json
 FAIR_JSON := $(wildcard $(FAIR_JSON_GLOB))
+FAIR_VALID := $(patsubst data/%.json,.valid/%,$(FAIR_JSON))
 TMP_DIR = /tmp/arms-fair-data
 TMP = $(TMP_DIR)/tmp
 IMAGE_FAIR_DIR = image/fair
 IMAGE_TRAVEL_ISO2_LIST := gb
 IMAGE_TRAVEL_ISO2_PNG := $(patsubst %,image/iso2.%.exhibitor-travel.png,$(IMAGE_TRAVEL_ISO2_LIST))
 MAP_ASSETS := tools/map.html tools/map.css tools/map.js tools/map.py
+VENV := .venv
 
 
 .PHONY : image
 
 
-all : check-schema sanitize summary.csv task
+all : validate summary.csv task
 
 image : $(IMAGE_TRAVEL_ISO2_PNG)
 # travel-fair : $(IMAGE_TRAVEL_FAIR_PNG)
 
 
-check-schema :
-#	ulimit -n 2048
-	check-jsonschema --schemafile schema/fair.schema.json data/*.json
+validate : $(FAIR_VALID)
 
-sanitize :
+
+.valid/% : data/%.json
+	mkdir -p .valid
+	check-jsonschema --schemafile schema/fair.schema.json $^
 # Dereference Wayback Machine links:
-	grep -RIPl "https://web.archive.org/web/\d{14}/" data | xargs -r sed -i 's_https://web.archive.org/web/[[:digit:]]\{14\}/__'
-	grep -RIPl ":80/" data | xargs -r sed -i 's_:80/_/_'
-	! grep -RIPl '\t' data
-	! grep -RIPl '\xa0' data
-	! grep -RIPl ' ",?$$' data/
-	! grep -RIPl '": " ' data/
-	! grep -RIP '[^\\]"",?$$' data/
+	grep -RIPl "https://web.archive.org/web/\d{14}/" $^ | xargs -r sed -i 's_https://web.archive.org/web/[[:digit:]]\{14\}/__'
+	grep -RIPl ":80/" $^ | xargs -r sed -i 's_:80/_/_'
+	! grep -RIPl '\t' $^
+	! grep -RIPl '\xa0' $^
+	! grep -RIPl ' ",?$$' $^
+	! grep -RIPl '": " ' $^
+	! grep -RIP '[^\\]"",?$$' $^
+	touch $@
+
 
 summary.csv : $(FAIR_JSON)
-	tools/summary.py data/*.json $@
+	$(VENV)/bin/python tools/summary.py data/*.json $@
 
 task :
-	tools/task.py ignore.csv data/
+	$(VENV)/bin/python tools/task.py ignore.csv data/
 
 release : $(TMP_DIR)/arms-fair-data.zip
 
@@ -52,6 +57,13 @@ $(IMAGE_FAIR_DIR) :
 	mkdir -p $@
 
 
+images: \
+	image/event.png \
+	image/exhibitor.png \
+	image/category.png \
+	image/iso2.gb.exhibitor-travel.png \
+
+
 $(TMP_DIR)/event.jsonl : tools/event-geojson.jq $(TMP_DIR) $(FAIR_JSON) 
 	rm -f $@
 	jq --indent N -f $< $(FAIR_JSON_GLOB) >> $@
@@ -61,7 +73,7 @@ $(TMP_DIR)/event.geo.json : $(TMP_DIR)/event.jsonl
 	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
 
 image/event.png : $(TMP_DIR)/event.geo.json $(MAP_ASSETS) tools/heatmap.js
-	tools/map.py -v -j heatmap.js $< $@
+	$(VENV)/bin/python tools/map.py -v -j heatmap.js $< $@
 
 
 $(TMP_DIR)/exhibitor.jsonl : tools/exhibitor-geojson.jq $(TMP_DIR) $(FAIR_JSON)
@@ -73,7 +85,7 @@ $(TMP_DIR)/exhibitor.geo.json : $(TMP_DIR)/exhibitor.jsonl
 	jq -s '{"type": "FeatureCollection", "features": .}' $^ >> $@
 
 image/exhibitor.png : $(TMP_DIR)/exhibitor.geo.json $(MAP_ASSETS) tools/heatmap.js
-	tools/map.py -v -j heatmap.js $< $@
+	$(VENV)/bin/python tools/map.py -v -j heatmap.js $< $@
 
 
 $(TMP_DIR)/iso2.%.exhibitor-travel.json : $(FAIR_JSON) tools/travel.jq $(TMP_DIR)
@@ -81,7 +93,7 @@ $(TMP_DIR)/iso2.%.exhibitor-travel.json : $(FAIR_JSON) tools/travel.jq $(TMP_DIR
 	jq -s --arg iso2 $* -f tools/exhibitor-travel.jq $(FAIR_JSON_GLOB) >> $@
 
 image/iso2.%.exhibitor-travel.png : $(TMP_DIR)/iso2.%.exhibitor-travel.json $(MAP_ASSETS) tools/exhibitor-travel.js
-	tools/map.py -v -j exhibitor-travel.js $< $@
+	$(VENV)/bin/python tools/map.py -v -j exhibitor-travel.js $< $@
 
 
 $(TMP_DIR)/%.exhibitor-travel.json : data/%.json tools/exhibitor-travel.jq $(TMP_DIR)
@@ -89,14 +101,14 @@ $(TMP_DIR)/%.exhibitor-travel.json : data/%.json tools/exhibitor-travel.jq $(TMP
 	jq -s -f tools/exhibitor-travel.jq $< >> $@
 
 $(IMAGE_FAIR_DIR)/%.exhibitor-travel.png : $(TMP_DIR)/%.exhibitor-travel.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-travel.js
-	tools/map.py -v -j exhibitor-travel.js $< $@
+	$(VENV)/bin/python tools/map.py -v -j exhibitor-travel.js $< $@
 
 $(TMP_DIR)/%.exhibitor-country.json : data/%.json tools/exhibitor-country.jq $(TMP_DIR)
 	rm -f $@
 	jq -s -f tools/exhibitor-country.jq --rawfile countryGeoCsv tools/country.geo.csv $< > $@
 
 $(IMAGE_FAIR_DIR)/%.exhibitor-country.png : $(TMP_DIR)/%.exhibitor-country.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-country.js
-	tools/map.py -v -j exhibitor-country.js $< $@
+	$(VENV)/bin/python tools/map.py -v -j exhibitor-country.js $< $@
 
 
 $(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON) 
@@ -105,7 +117,7 @@ $(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON)
 
 image/category.png : $(TMP_DIR)/category.txt
 # Add `--no_collocations` to disable bigrams
-	wordcloud_cli --text $^ \
+	$(VENV)/bin/wordcloud_cli --text $^ \
 	  --width=1200 --height=600 --margin=15 \
 	  --background="#FAFAFA" --color="#E20613" \
 	  --imagefile $@
