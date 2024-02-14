@@ -26,7 +26,7 @@ validate : $(FAIR_VALID)
 
 .valid/% : data/%.json
 	mkdir -p .valid
-	check-jsonschema --schemafile schema/fair.schema.json $^
+	$(VENV)/bin/check-jsonschema --schemafile schema/fair.schema.json $^
 # Dereference Wayback Machine links:
 	grep -RIPl "https://web.archive.org/web/\d{14}/" $^ | xargs -r sed -i 's_https://web.archive.org/web/[[:digit:]]\{14\}/__'
 	grep -RIPl ":80/" $^ | xargs -r sed -i 's_:80/_/_'
