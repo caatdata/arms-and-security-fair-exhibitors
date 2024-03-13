@@ -110,6 +110,9 @@ $(TMP_DIR)/%.exhibitor-country.json : data/%.json tools/exhibitor-country.jq $(T
 $(IMAGE_FAIR_DIR)/%.exhibitor-country.png : $(TMP_DIR)/%.exhibitor-country.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-country.js
 	$(VENV)/bin/python tools/map.py -v -j exhibitor-country.js $< $@
 
+$(IMAGE_FAIR_DIR)/%.exhibitor-address-gb.png : $(TMP_DIR)/%.exhibitor-travel.json $(IMAGE_FAIR_DIR) $(MAP_ASSETS) tools/exhibitor-address-gb.js
+	$(VENV)/bin/python tools/map.py -v -j exhibitor-address-gb.js $< $@
+
 
 $(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON) 
 	rm -f $@

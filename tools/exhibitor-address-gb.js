@@ -1,6 +1,4 @@
 onMapLoad(function (data) {
-  var srcFreq = {};
-
   var out = {
     "type": "FeatureCollection",
     "features": []
@@ -11,37 +9,33 @@ onMapLoad(function (data) {
     var event = data[i];
     for (var j = 0; j < event.exhibitor.length; j++) {
       var exhibitor = event.exhibitor[j];
-      if (typeof(srcFreq[exhibitor.latLon]) == "undefined") {
-        srcFreq[exhibitor.latLon] = {
-          "type": "Feature",
-          "properties": {
-            "freq": 0
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              exhibitor.latLon[1],
-              exhibitor.latLon[0],
-            ]
-          }
+      out.features.push({
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            exhibitor.latLon[1],
+            exhibitor.latLon[0],
+          ]
         }
-      }
-      srcFreq[exhibitor.latLon].properties.freq += 1;
+      });
+
     }
   }
 
-  out.features = Object.values(srcFreq);
+  var markerPath = "/marker-dot.png";
 
   map.on('load', () => {
-    map.setCenter([10, datelineOffset]);
+    map.fitBounds([
+      [-18.0, 50.0],
+      [-2.0, 59.0]
+    ]);
     map.addSource('exhibitor', {
       type: 'geojson',
+      lineMetrics: true,
       data: out
     });
 
-    var markerPath = "/marker-circle.png";
-
-    // Symbol
     map.loadImage(
       markerPath,
       (error, image) => {
@@ -61,7 +55,7 @@ onMapLoad(function (data) {
             "icon-ignore-placement": true,
             "text-allow-overlap": true,
             "text-ignore-placement": true,
-            'text-field': ['get', 'freq'],
+            // 'text-field': ['get', 'freq'],
             'text-font': ['Open Sans Semibold'],
             'text-offset': [0, 0],
             'text-anchor': 'center',

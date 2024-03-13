@@ -69,8 +69,13 @@ Corrections may be submitted by email or as GitHub issues.
 ## Statistics
 
 -   **523** series
+<<<<<<< HEAD
 -   **1732** events
 -   **175577** exhibitors
+=======
+-   **1733** events
+-   **175843** exhibitors
+>>>>>>> c52a45e (Update Security & Policing exhibitor list and add image generation for UK exhibitor addresses.)
 -   **642** organisers
 -   **2308** delegations
 
