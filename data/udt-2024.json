@@ -36,7 +36,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.udt-global.com/udt-exhibitors",
-  "exhibitorListDate": "2024-02-07T11:04:56+00:00",
+  "exhibitorListDate": "2024-04-09T14:33:26+00:00",
   "exhibitor": [
     {
       "name": "AMDA Foundation",
@@ -44,7 +44,18 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Electronics, Electrical Equipment",
+        "Maritime Security",
+        "Naval Architecture and Engineering",
+        "ROVs",
+        "Submarines",
+        "Systems Integration",
+        "Training and Simulation",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://amda.com.au"
     },
     {
       "name": "AML3D",
@@ -52,15 +63,25 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Commercial Marine Technology",
+        "Fleet Management",
+        "Submarines",
+        "Underwater Vehicles"
+      ],
+      "website": "https://aml3d.com"
     },
     {
       "name": "Acacia Systems",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/acacia-systems",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Littoral Defence",
+        "Maritime Security",
+        "Maritime Surveillance",
+        "Unmanned and Autonomous Systems"
+      ]
     },
     {
       "name": "Advanced Navigation",
@@ -68,7 +89,17 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Positioning, Navigation and Timing",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.advancednavigation.com"
+    },
+    {
+      "name": "Agents",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/agents"
     },
     {
       "name": "Anschütz GmbH",
@@ -77,7 +108,25 @@
     },
     {
       "name": "Aselsan",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/aselsan"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/aselsan",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "https://www.aselsan.com/en"
+    },
+    {
+      "name": "Atlas Elektronik GmbH",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/atlas",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.atlas-elektronik.com"
+    },
+    {
+      "name": "Avon Protection",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/avon-protecion"
     },
     {
       "name": "Axiom Holographics",
@@ -85,27 +134,78 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Imaging, Graphics, GIS, Mapping, Displays",
+        "IT Hardware and Software",
+        "Training and Simulation"
+      ],
+      "website": "https://axiomholographics.com/industries/defence/"
     },
     {
-      "name": "BFBS",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bfbs"
-    },
-    {
-      "name": "BMT",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bmt"
-    },
-    {
-      "name": "Babcock International",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/babcock-international"
-    },
-    {
-      "name": "Bartington Instruments Ltd",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bartington-instruments-1",
+      "name": "BAE Systems",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bae-systems",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
-      }
+      },
+      "website": "http://www.baesystems.com"
+    },
+    {
+      "name": "BFBS",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bfbs",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://about.bfbs.com/media-innovation"
+    },
+    {
+      "name": "BMT",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bmt",
+      "website": "https://www.bmt.org/how-we-work-with-you/defence-security-customer-friend/submarine-consultancy/"
+    },
+    {
+      "name": "Babcock International",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/babcock-international",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.babcockinternational.com"
+    },
+    {
+      "name": "Bartington Instruments Ltd",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/bartington-instruments",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Sensors",
+        "Ship Design and Signature Management"
+      ],
+      "website": "http://bartington.com"
+    },
+    {
+      "name": "Blue Abyss",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/blue-abyss",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Cables and Connectors",
+        "Communications",
+        "Diving Equipment",
+        "Maritime Security",
+        "Rescue and Survival Equipment",
+        "ROVs",
+        "Training and Simulation",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "http://www.blueabyss.uk"
     },
     {
       "name": "Blue Ocean Marine Tech Systems",
@@ -113,69 +213,231 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Commercial Marine Technology",
+        "Environmental Effects and Monitoring",
+        "Maritime Surveillance",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "http://www.blueoceanmts.com"
     },
     {
-      "name": "Blueprint Subsea / Avon Protection / Suex",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/blueprint-subsea-avon-protection-suex"
+      "name": "Blueprint Subsea",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/blueprint-subsea-avon-protection-suex",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://www.blueprintsubsea.com"
+    },
+    {
+      "name": "C-Kore Systems Limited",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/c-kore-systems-limited",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Cables and Connectors",
+        "Electronics, Electrical Equipment",
+        "Fibre Optics",
+        "Oil and Gas"
+      ],
+      "website": "http://www.c-kore.com"
+    },
+    {
+      "name": "CMS Strategic",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cms-strategic"
     },
     {
       "name": "Calytrix",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/calytrix",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/calytrix"
     },
     {
       "name": "Cathxocean",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cathxocean"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cathxocean",
+      "country": "Ireland",
+      "website": "http://www.cathxocean.com"
     },
     {
       "name": "Cellula",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cellula"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cellula",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "website": "https://cellula.com"
     },
     {
-      "name": "Clarion Defence and Security",
+      "name": "Clarion Defence & Security",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/clarion-defence-security"
     },
     {
       "name": "Copper Alloys",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/copper-alloys",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
       "website": "https://copperalloys.net"
     },
     {
-      "name": "Cudajet",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cudajet"
+      "name": "CudaJet",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/cudajet",
+      "category": [
+        "Diving Equipment",
+        "Rescue and Survival Equipment",
+        "Underwater Vehicles"
+      ],
+      "website": "https://cudajet.com"
     },
     {
       "name": "Curtiss-Wright",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/curtiss-wright"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/curtiss-wright",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "category": "Naval Architecture and Engineering",
+      "website": "http://www.cw-ems.com/indal"
     },
     {
       "name": "DSIT SOLUTIONS",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/dsit-solutions"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/dsit-solutions",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
+      "website": "https://dsit.co.il"
     },
     {
       "name": "Deep Trekker",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/deep-trekker"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/deep-trekker",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "category": [
+        "Diving Equipment",
+        "ROVs",
+        "Underwater Vehicles"
+      ],
+      "website": "https://www.deeptrekker.com"
     },
     {
       "name": "Drumgrange",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/drumgrange"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/drumgrange",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://www.drumgrange.com"
+    },
+    {
+      "name": "EID",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/eid",
+      "country": {
+        "text": "Portugal",
+        "iso2": "PT"
+      },
+      "category": [
+        "Communications",
+        "Systems Integration"
+      ],
+      "website": "https://www.eid.pt"
+    },
+    {
+      "name": "ELAC SONAR",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/elac",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "category": [
+        "Acoustics",
+        "Anti-Submarine Warfare Capabilities",
+        "Maritime Security",
+        "Maritime Surveillance",
+        "Mine Detection and Clearance",
+        "Naval Architecture and Engineering",
+        "Sensors",
+        "Sonar"
+      ],
+      "website": "https://www.elac-sonar.de"
+    },
+    {
+      "name": "ELWAVE",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/elwave",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Commercial Marine Technology",
+        "Maritime Security",
+        "Maritime Surveillance",
+        "Mine Detection and Clearance",
+        "Oil and Gas",
+        "Remote Sensing",
+        "Sensors",
+        "Undersea Hydrography"
+      ],
+      "website": "http://www.elwave.fr"
+    },
+    {
+      "name": "Edgar Brothers",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/edgar-brothers",
+      "category": [
+        "Diving Equipment",
+        "Imaging, Graphics, GIS, Mapping, Displays",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems",
+        "Weapons",
+        "Weapons Simulation and Training"
+      ],
+      "website": "http://www.edgarbrothers.com"
     },
     {
       "name": "Elta Systems",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/elta-systems"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/elta-systems",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
+      "website": "https://www.iai.co.il/about/groups/elta-systems"
     },
     {
       "name": "EuroTorp",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/eurotorp",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
       "website": "http://www.eurotorp.com"
     },
     {
       "name": "EvoLogics GmbH",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/evologics-gmbh"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/evologics-gmbh",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "category": [
+        "Acoustics",
+        "Communications",
+        "Positioning, Navigation and Timing",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://evologics.com"
+    },
+    {
+      "name": "ExCeL London Hospitality",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/excel-london-hospitality"
     },
     {
       "name": "Fleet Space Technologies",
@@ -183,7 +445,9 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": "Communications",
+      "website": "https://www.fleetspace.com"
     },
     {
       "name": "Flinders University",
@@ -191,15 +455,84 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Acoustics",
+        "ROVs",
+        "Sonar",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "http://www.flinders.edu.au/defence"
+    },
+    {
+      "name": "Forsberg Services Ltd.",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/forsberg-services-",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": "Positioning, Navigation and Timing",
+      "website": "https://forsbergpnt.com"
+    },
+    {
+      "name": "G4S",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/g4s"
     },
     {
       "name": "GABLER Naval Technology",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/gabler-naval-technology"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/gabler-naval-technology",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "https://www.gabler-naval.com"
     },
     {
-      "name": "GEM Elettronica",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/gem"
+      "name": "GE Vernova, Power Conversion",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ge-vernova-power-conversion",
+      "website": "https://www.gepowerconversion.com",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "GEM",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/gem",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.gemrad.com"
+    },
+    {
+      "name": "Global Underwater Hub",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/global-underwater-hub",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Cables and Connectors",
+        "Commercial Marine Technology",
+        "Communications",
+        "Diving Equipment",
+        "Electronics, Electrical Equipment",
+        "Environmental Effects and Monitoring",
+        "Imaging, Graphics, GIS, Mapping, Displays",
+        "Oil and Gas",
+        "Publishing, Media, Events",
+        "Remote Sensing",
+        "ROVs",
+        "Sensors",
+        "Sonar",
+        "Training and Simulation",
+        "Undersea Hydrography",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.globalunderwaterhub.com"
     },
     {
       "name": "Hensoldt",
@@ -207,32 +540,80 @@
       "website": "http://www.hensoldt.net"
     },
     {
+      "name": "INNOVO",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/innovo"
+    },
+    {
       "name": "Igence Software",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/igence-software"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/igence-software",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.igence.com"
     },
     {
       "name": "Image Soft Oy",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/image-soft-oy"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/image-soft-oy",
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      },
+      "website": "http://www.imagesoft.fi"
     },
     {
       "name": "Indra",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/indra"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/indra",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      },
+      "website": "http://www.indracompany.com"
     },
     {
       "name": "J3Seven",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/j3seven",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/j3seven"
+    },
+    {
+      "name": "JAIA Robotics",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/jaia-robotics"
     },
     {
       "name": "Kongsberg Defence & Aerospace AS",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/kongsberg-defence-aerospace"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/kongsberg-defence-aerospace",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
+      "website": "https://www.kongsberg.com/kda/"
     },
     {
       "name": "L3Harris",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/l3harris"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/l3harris",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "https://www.l3harris.com/italy"
+    },
+    {
+      "name": "LALO",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/lalo",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": "Rescue and Survival Equipment",
+      "website": "http://www.lalo.com"
+    },
+    {
+      "name": "LITEF",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ng-litef",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.litef.com"
     },
     {
       "name": "Lagun Machine Tools",
@@ -240,16 +621,42 @@
       "website": "http://www.portable.lagunmt.com"
     },
     {
+      "name": "LiveBuzz",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/livebuzz"
+    },
+    {
       "name": "Lockheed Martin",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/lockheed-martin"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/lockheed-martin",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "website": "http://www.lockheedmartin.com"
+    },
+    {
+      "name": "Luther",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/luther"
     },
     {
       "name": "MCT",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/mct"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/mct",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "https://www.mctbrattberg.com"
     },
     {
       "name": "MOOG",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/moog",
+      "category": [
+        "Naval Architecture and Engineering",
+        "Submarine Engines and Propulsion",
+        "Submarines",
+        "Torpedoes",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
       "website": "http://www.moog.com/navalsystems"
     },
     {
@@ -264,19 +671,16 @@
     },
     {
       "name": "Matrix Composites & Engineering",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/matrix-composites-engineering",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/matrix-composites-engineering"
     },
     {
       "name": "Mind Foundry",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/mind-foundry"
-    },
-    {
-      "name": "NG Litef",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ng-litef"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/mind-foundry",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.mindfoundry.ai"
     },
     {
       "name": "NORCO Composites & GRP",
@@ -284,12 +688,111 @@
       "website": "https://www.norco.co.uk"
     },
     {
+      "name": "National Subsea Centre",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/national-subsea-centre",
+      "category": [
+        "Remote Sensing",
+        "Sensors"
+      ],
+      "website": "https://www.nationalsubseacentre.com"
+    },
+    {
+      "name": "Northern Diver International Ltd",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/northern-diver-international",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "https://www.ndiver-military.com"
+    },
+    {
+      "name": "OSI Maritime Systems",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/osi-maritime-systems",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "website": "http://www.osimaritime.com"
+    },
+    {
+      "name": "Ocean Acoustic Developments",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ocean-acoustic-developments",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Acoustics",
+        "Anti-Submarine Warfare Capabilities",
+        "IT Hardware and Software",
+        "ROVs",
+        "Sensors",
+        "Sonar",
+        "Sonobuoys"
+      ],
+      "website": "http://oadltd.com"
+    },
+    {
+      "name": "Ocean Infinity",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/oceaninfinity",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Commercial Marine Technology",
+        "Fleet Management",
+        "Maritime Security",
+        "Maritime Surveillance",
+        "Mine Detection and Clearance",
+        "Port Security",
+        "ROVs",
+        "Sonar",
+        "Sonobuoys",
+        "Towed Arrays and Bodies",
+        "Undersea Hydrography",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://oceaninfinity.com"
+    },
+    {
       "name": "Ocean Sonic",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ocean-sonic"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ocean-sonic",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "website": "https://oceansonics.com"
+    },
+    {
+      "name": "Ocean Technology Systems",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ocean-technology-systems",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": "Diving Equipment",
+      "website": "http://www.oceantechnologysystems.com"
     },
     {
       "name": "OceanScan-MST",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/oceanscan-mst"
+    },
+    {
+      "name": "PATRIOT3, INC",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/patriot3-inc",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": [
+        "Submarine Engines and Propulsion",
+        "Submarine Hardware and Electrics",
+        "Underwater Vehicles"
+      ],
+      "website": "https://www.patriot3.com"
     },
     {
       "name": "PMB Defence",
@@ -297,7 +800,9 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": "Power Supplies, Batteries",
+      "website": "http://www.pmbdefence.com.au"
     },
     {
       "name": "Perfect Bore Manufacturing LTD",
@@ -305,32 +810,43 @@
       "website": "http://www.pbm-ltd.com"
     },
     {
+      "name": "Photospace",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/photospace",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.mtt1.fr"
+    },
+    {
       "name": "Prevco",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/prevco-1",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/prevco",
       "country": {
         "text": "United States",
         "iso2": "US"
-      }
+      },
+      "website": "http://www.prevco.com"
     },
     {
       "name": "PrioriAnalytica",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/priorianalytica",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/priorianalytica"
     },
     {
       "name": "Q-CTRL",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/q-ctrl",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/q-ctrl"
     },
     {
-      "name": "RTSYS",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/rtsys"
+      "name": "Quadrant2design",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/quadrant2design"
+    },
+    {
+      "name": "RTsys",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/rtsys",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "https://rtsys.eu"
     },
     {
       "name": "Reach Robotics",
@@ -338,101 +854,207 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "category": [
+        "Electronics, Electrical Equipment",
+        "Maritime Security",
+        "Mine Detection and Clearance",
+        "Oil and Gas",
+        "Port Security",
+        "ROVs",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://reachrobotics.com"
     },
     {
       "name": "Richmond Defence Systems",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/richmond-defence-systems-1",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/richmond-defence-systems",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
-      }
+      },
+      "website": "http://www.richmond-dfs.com"
     },
     {
       "name": "Rohlok Pty Ltd",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/rohlok-pty",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/rohlok-pty"
     },
     {
       "name": "Rolls Royce",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/rolls-royce",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
       "website": "https://www.mtu-solutions.com"
     },
     {
       "name": "Ron Allum Deepsea Services Pty Ltd",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ron-allum-deepsea-services-pty",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ron-allum-deepsea-services-pty"
+    },
+    {
+      "name": "S&S Precision, LLC",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ss-precision-llc",
       "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": [
+        "Catering, Logistics, Battlefield Support",
+        "Rescue and Survival Equipment"
+      ],
+      "website": "http://www.sandsprecision.com"
     },
     {
       "name": "S2IX - Driving Information Superiority",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/s2ix-driving-information-superiority",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/s2ix-driving-information-superiority"
     },
     {
       "name": "SAAB",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/saab",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
       "website": "http://www.saab.com"
     },
     {
       "name": "SEA",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/sea-1"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/sea-1",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.sea.co.uk"
+    },
+    {
+      "name": "SOS Group",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/sos-group",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Diving Equipment",
+        "Rescue and Survival Equipment"
+      ],
+      "website": "http://www.sosgroup.co"
     },
     {
       "name": "SPEE3D",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/spee3d",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/spee3d"
     },
     {
       "name": "SRS",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/srs"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/srs",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "website": "https://www.srsfusion.com"
+    },
+    {
+      "name": "STL Systems AG",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/stl",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      },
+      "category": [
+        "Countermeasures",
+        "Electronics, Electrical Equipment",
+        "Maritime Security",
+        "Mine Detection and Clearance",
+        "Port Security",
+        "Sensors",
+        "Ship Design and Signature Management"
+      ],
+      "website": "http://www.stl.systems"
+    },
+    {
+      "name": "SUEX",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/suex"
     },
     {
       "name": "Safran Electronics & Defense",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/safran-electronics-defense"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/safran-electronics-defense",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "https://www.safran-group.com/companies/safran-electronics-defense"
+    },
+    {
+      "name": "ScubaPro",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/scubapro",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": "Diving Equipment",
+      "website": "https://scubapro.johnsonoutdoors.com/us"
+    },
+    {
+      "name": "SeaSplit",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seasplit"
     },
     {
       "name": "Seaber",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seaber"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seaber",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Countermeasures",
+        "Mine Detection and Clearance",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://seaber.fr"
     },
     {
       "name": "Seacraft",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seacraft"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seacraft",
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      },
+      "website": "https://seacraft.eu"
     },
     {
       "name": "Senetas Corportation Ltd",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/senetas-corportation",
       "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": "IT Hardware and Software",
+      "website": "http://www.senetas.com"
     },
     {
       "name": "Sensear",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/sensear",
-      "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/sensear"
     },
     {
-      "name": "Seyir",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seyir"
+      "name": "Seyir Defence",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/seyir",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      },
+      "website": "https://www.seyirsavunma.com.tr"
     },
     {
       "name": "Shark Marine",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/shark-marine"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/shark-marine",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "website": "http://www.sharkmarine.com"
     },
     {
       "name": "Shoal Group",
@@ -440,15 +1062,78 @@
       "country": {
         "text": "Australia",
         "iso2": "AU"
-      }
+      },
+      "website": "http://www.shoalgroup.com"
+    },
+    {
+      "name": "Smarter Subsea Handling",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/smarter-subsea-handling"
+    },
+    {
+      "name": "Somers Forge Ltd",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/somers-forge",
+      "category": "Submarine Engines and Propulsion",
+      "website": "http://www.somersforge.com"
+    },
+    {
+      "name": "Subracing Series",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/subracing-series"
+    },
+    {
+      "name": "TKMS",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/tkms",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.thyssenkrupp-marinesystems.com"
     },
     {
       "name": "Team Defence Australia",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/team-defence-australia"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/team-defence-australia",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "Teem",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/teem"
+    },
+    {
+      "name": "Test Beth Exhibitor",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/test-beth-exhibitor"
+    },
+    {
+      "name": "Test Beth Exhibitor Delegate FOC",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/test-beth-exhibitor-delegate-foc"
+    },
+    {
+      "name": "Test Beth Sharer",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/test-beth-sharer"
+    },
+    {
+      "name": "Test Beth Smartscan Mandate",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/test-beth-smartscan-mandate"
+    },
+    {
+      "name": "Thales Group",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/thales-group",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "category": "Communications",
+      "website": "https://www.thalesgroup.com"
     },
     {
       "name": "Tods Technology",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/tods-techonlogy"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/tods-techonlogy",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.tods.co.uk"
     },
     {
       "name": "UDT 2024",
@@ -460,16 +1145,41 @@
       "website": "http://www.waterlinked.com"
     },
     {
-      "name": "WithYouWithMe",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/withyouwithme",
+      "name": "Watershed",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/watershed",
       "country": {
-        "text": "Australia",
-        "iso2": "AU"
-      }
+        "text": "United States",
+        "iso2": "US"
+      },
+      "category": "Diving Equipment",
+      "website": "https://www.drybags.com"
     },
     {
-      "name": "iBule Photonics",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ibule-photonics"
+      "name": "WeAreJME",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/wearejme"
+    },
+    {
+      "name": "Westley Group",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/westley-group",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "website": "http://www.westleygroup.co.uk"
+    },
+    {
+      "name": "WithYouWithMe",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/withyouwithme"
+    },
+    {
+      "name": "iBULe Photonics",
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ibule-photonics",
+      "category": "Acoustics",
+      "website": "http://www.ibule.com",
+      "country": {
+        "text": "Korea, Republic of",
+        "iso2": "KR"
+      }
     }
   ]
 }
