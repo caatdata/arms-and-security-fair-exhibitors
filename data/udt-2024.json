@@ -36,7 +36,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.udt-global.com/udt-exhibitors",
-  "exhibitorListDate": "2024-04-09T14:33:26+00:00",
+  "exhibitorListDate": "2024-07-05T11:08:04+00:00",
   "exhibitor": [
     {
       "name": "AMDA Foundation",
@@ -126,7 +126,16 @@
     },
     {
       "name": "Avon Protection",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/avon-protecion"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/avon-protecion",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      },
+      "category": [
+        "Countermeasures",
+        "Diving Equipment"
+      ],
+      "website": "http://www.avon-protection.com"
     },
     {
       "name": "Axiom Holographics",
@@ -254,12 +263,29 @@
     },
     {
       "name": "Calytrix",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/calytrix"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/calytrix",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      },
+      "category": "Training and Simulation",
+      "website": "http://www.calytrix.com"
     },
     {
       "name": "Cathxocean",
       "exhibitorUrl": "https://www.udt-global.com/exhibitors/cathxocean",
       "country": "Ireland",
+      "category": [
+        "Electronics, Electrical Equipment",
+        "Environmental Effects and Monitoring",
+        "Fibre Optics",
+        "Homeland Security/Peacekeeping",
+        "Imaging, Graphics, GIS, Mapping, Displays",
+        "IT Hardware and Software",
+        "ROVs",
+        "Sensors",
+        "Underwater Vehicles"
+      ],
       "website": "http://www.cathxocean.com"
     },
     {
@@ -572,7 +598,21 @@
     },
     {
       "name": "J3Seven",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/j3seven"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/j3seven",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      },
+      "category": [
+        "Anti-Submarine Warfare Capabilities",
+        "Homeland Security/Peacekeeping",
+        "Littoral Defence",
+        "Mine Detection and Clearance",
+        "ROVs",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.j3seven.com.au"
     },
     {
       "name": "JAIA Robotics",
@@ -764,6 +804,24 @@
         "text": "Canada",
         "iso2": "CA"
       },
+      "category": [
+        "Acoustics",
+        "Cables and Connectors",
+        "Communications",
+        "Environmental Effects and Monitoring",
+        "Maritime Security",
+        "Maritime Surveillance",
+        "Naval Architecture and Engineering",
+        "Noise Reduction",
+        "Port Security",
+        "Remote Sensing",
+        "ROVs",
+        "Sensors",
+        "Sonar",
+        "Towed Arrays and Bodies",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
       "website": "https://oceansonics.com"
     },
     {
@@ -891,7 +949,17 @@
     },
     {
       "name": "Ron Allum Deepsea Services Pty Ltd",
-      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ron-allum-deepsea-services-pty"
+      "exhibitorUrl": "https://www.udt-global.com/exhibitors/ron-allum-deepsea-services-pty",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      },
+      "category": [
+        "Power Supplies, Batteries",
+        "Underwater Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "http://www.ronallum.com"
     },
     {
       "name": "S&S Precision, LLC",
