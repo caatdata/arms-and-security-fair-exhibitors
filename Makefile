@@ -115,7 +115,7 @@ $(TMP_DIR)/category.txt : tools/category.jq $(FAIR_JSON)
 	rm -f $@
 	jq -sr -f $< $(FAIR_JSON_GLOB) >> $@
 
-image/category.png : $(TMP_DIR) $(IMAGE_FAIR_DIR) $(TMP_DIR)/category.txt
+image/category.png : $(TMP_DIR) $(TMP_DIR)/category.txt
 # Add `--no_collocations` to disable bigrams
 	$(VENV)/bin/wordcloud_cli --text $^ \
 	  --width=1200 --height=600 --margin=15 \
