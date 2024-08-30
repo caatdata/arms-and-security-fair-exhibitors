@@ -1,69 +1,83 @@
 {
-  "name": "ASDA 2015",
+  "name": "ASDA 2011",
   "series": "ASDA",
-  "edition": "2015",
+  "edition": "2011",
   "alias": [
-    "Adriatic Sea Defense & Aerospace Third Edition"
+    "Adriatic Sea Defense & Aerospace First Edition"
   ],
-  "startDate": "2015-04-22",
-  "endDate": "2015-04-24",
+  "startDate": "2011-03-29",
+  "endDate": "2011-03-31",
   "address": {
     "text": "Spaladium Arena\nZrinsko\nFrankopanska 211\nSplit\nCroatia",
     "iso2": "HR",
     "lat": 43.523747,
     "lon": 16.4341578
   },
-  "website": "http://adriaticseadefense.com",
+  "website": "http://www.adriaticseadefense.com",
   "organiser": [
     {
       "name": "TNT Productions, Inc.",
-      "website": "tntexpo.com",
+      "website": "http://www.tntexpo.com",
       "address": "9912A Georgetown Pike, Suite 206\nGreat Falls\nVA 22066\nU.S.A"
     },
     {
-      "name": "TNT Productions, Romania.",
-      "address": "Grigore Iancu Street\nNo 22C, 3rd District\nRO-32923 Bucharest\nRomania"
+      "name": "TNT Productions Romania",
+      "address": "12, Nerva Traian Street\nBI. M37, Sc. 1, Et. 1, Ap. 4\n031046 Bucharest\nSector 3\nRomania"
     },
     {
       "name": "Government of Croatia"
     }
   ],
-  "exhibitorListUrl": "http://adriaticseadefense.com/wp-content/uploads/2015/08/ASDA-2015-Exhibitors-List-By-Countries.pdf",
-  "exhibitorListDate": "2024-08-30T14:27:26+00:00",
+  "exhibitorListUrl": "http://adriaticseadefense.com/doc/Exhibitors-List-By-Countries.pdf",
+  "exhibitorListDate": "2024-08-30T09:17:42+00:00",
   "exhibitor": [
     {
-      "name": "Airborne Technologies GmbH",
+      "name": "AUSTAL Shipyards",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "GLOBETrekker",
+      "country": {
+        "text": "Australia",
+        "iso2": "AU"
+      }
+    },
+    {
+      "name": "Diamond Aircraft Industries GmbH",
       "country": {
         "text": "Austria",
         "iso2": "AT"
       }
     },
     {
-      "name": "Rohde & Schwarz Österreich Ges.m.b.H.",
+      "name": "Pewag Scheeketten GmbH & Co. KG",
       "country": {
         "text": "Austria",
         "iso2": "AT"
       }
     },
     {
-      "name": "OIP Sensor Systems",
+      "name": "Spinner Austria GmbH",
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      }
+    },
+    {
+      "name": "Seyntex",
       "country": {
         "text": "Belgium",
         "iso2": "BE"
       }
     },
     {
-      "name": "Embraer Defense & Security",
+      "name": "Optix Co.",
       "country": {
-        "text": "Brazil",
-        "iso2": "BR"
-      }
-    },
-    {
-      "name": "Argo",
-      "country": {
-        "text": "Canada",
-        "iso2": "CA"
+        "text": "Bulgaria",
+        "iso2": "BG"
       }
     },
     {
@@ -74,77 +88,119 @@
       }
     },
     {
-      "name": "Agencija Alan d.o.o.",
+      "name": "Adria-Mar Shipbuilding Ltd.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Adria Mar Shipbuilding Ltd.",
+      "name": "Aeronautical — Technical Center J.S.C. — Zrakoplovno-Tehnicki Centar d.d.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Aeronautical Technical Center Jsc Velika Gorica",
+      "name": "Agencija Alan do.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Borovo",
+      "name": "American Chamber of Commerce in Croatia",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Brodarski Institut d.o.o.",
+      "name": "Bene Valete d.o.o. “Botteri Boats”",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Brodosplit Inc.",
+      "name": "Berta Projekt",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "CEI-IETA d.o.o.",
+      "name": "Brodarski Institut",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Croshield Ltd.",
+      "name": "Brodogradiliste Kraljevica d.d.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "DOK-ING d.o.o.",
+      "name": "BSO Brodosplit",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Duro Daković Special Vehicles",
+      "name": "Cerberus d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Foto Soft d.o.o.",
+      "name": "DAT — CON d.o.o.",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "DOK — ING",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Đuro Đaković Specijalna Vozila d.d.",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Faculty of Electrical Engineering and Computing — Laboratory for Underwater Systems and Technologies",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "FER - Fakultet elektrotehnike i računarstva Sveučilišta u Zagrebu",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Fujifilm",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "G.T. Automobili d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
@@ -158,56 +214,77 @@
       }
     },
     {
-      "name": "Galko d.o.o.",
+      "name": "Gavrilović d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Hemco",
+      "name": "Geofoto",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "HGK — Croatian Chamber of Economy",
+      "name": "GHR-CHD Grupacija za humanitarno razminiranje u inozemstvu",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Hrvatski Vojnik",
+      "name": "Hidraulik Kurelja d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "HS Produkt d.o.o.",
+      "name": "HS Produkt",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Inkop obuća d.o.o.",
+      "name": "HSM informatika d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "INsig2 d.o.o.",
+      "name": "I&I d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Institut Ruđer Bošković",
+      "name": "Inkop",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Insig2 Ltd.",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "INSTITUT RUĐER BOŠKOVIĆ - LAIR",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "IRB Lair",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
@@ -221,49 +298,28 @@
       }
     },
     {
-      "name": "Jacquard d.o.o.",
+      "name": "Jacquard",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Jelen Professional",
+      "name": "JLM Perković",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Kap-Ko d.o.o.",
+      "name": "Kraljevica Shipyard Ltd.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Kovnica d.o.o.",
-      "country": {
-        "text": "Croatia",
-        "iso2": "HR"
-      }
-    },
-    {
-      "name": "Kroko International",
-      "country": {
-        "text": "Croatia",
-        "iso2": "HR"
-      }
-    },
-    {
-      "name": "Kroko Proizvodnja i Razvoj d.o.o.",
-      "country": {
-        "text": "Croatia",
-        "iso2": "HR"
-      }
-    },
-    {
-      "name": "Krokoteks",
+      "name": "KROKO International d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
@@ -277,49 +333,56 @@
       }
     },
     {
-      "name": "Ministry of Defense - MORH",
+      "name": "MA-RA",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Ministry of Interior - MUP",
+      "name": "Metallic",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Obris Magazine",
+      "name": "Montmontaža — Greben d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Odjeća d.o.o.",
+      "name": "NCP Repair Shipyard",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Pmtc d.o.o.",
+      "name": "NISSAN",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "POB d.o.o.",
+      "name": "Novi Link",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Pomorski Centar Za Elektroniku d.o.o.",
+      "name": "Podravka d.d.",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Pomorski Centar Za Elektroniku",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
@@ -333,56 +396,63 @@
       }
     },
     {
-      "name": "SDT Sustav",
+      "name": "RIZ Professional Electronic",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Šešir d.o.o.",
+      "name": "SCAM Marine",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Šestan-Busch d.o.o.",
+      "name": "Sestan Busch",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Tectus d.o.o.",
+      "name": "Tehnomobil d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Teksko mreža d.o.o.",
+      "name": "TEHNOMONT Brodogradilište Pula d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Tehnomobil Securitas d.o.o.",
+      "name": "TEKSKO MREŽA",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Varteks Pro",
+      "name": "TEMAKS HR",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
       }
     },
     {
-      "name": "Zagrebacki Prometni Zavod d.o.o.",
+      "name": "U.S. Commercial Service Croatia",
+      "country": {
+        "text": "Croatia",
+        "iso2": "HR"
+      }
+    },
+    {
+      "name": "Werkos d.o.o.",
       "country": {
         "text": "Croatia",
         "iso2": "HR"
@@ -396,210 +466,301 @@
       }
     },
     {
-      "name": "Beatronic Supply Ltd.",
+      "name": "Beatronic Supply",
       "country": {
         "text": "Czech Republic",
         "iso2": "CZ"
       }
     },
     {
-      "name": "Gumotex",
+      "name": "Česká Letecká Servisni, A.S.",
       "country": {
         "text": "Czech Republic",
         "iso2": "CZ"
       }
     },
     {
-      "name": "Beatronic Supply Ltd.",
+      "name": "#Denmark",
       "country": {
-        "text": "Denmark",
-        "iso2": "DK"
+        "text": "Czech Republic",
+        "iso2": "CZ"
       }
     },
     {
-      "name": "Dantherm",
+      "name": "Reson",
       "country": {
-        "text": "Denmark",
-        "iso2": "DK"
+        "text": "Czech Republic",
+        "iso2": "CZ"
       }
     },
     {
-      "name": "Terma A/S",
+      "name": "MBDA Systems",
       "country": {
-        "text": "Denmark",
-        "iso2": "DK"
+        "text": "France",
+        "iso2": "FR"
       }
     },
     {
-      "name": "Logic Instrument",
+      "name": "Panhard General Defense",
       "country": {
-        "text": "Finland",
-        "iso2": "FI"
+        "text": "France",
+        "iso2": "FR"
       }
     },
     {
-      "name": "Sema World",
+      "name": "S.E.R.T.",
       "country": {
-        "text": "Finland",
-        "iso2": "FI"
+        "text": "France",
+        "iso2": "FR"
       }
     },
     {
-      "name": "Ant",
+      "name": "THALES France",
       "country": {
-        "text": "Germany",
-        "iso2": "DE"
+        "text": "France",
+        "iso2": "FR"
       }
     },
     {
-      "name": "EST Energetics GmbH",
-      "country": {
-        "text": "Germany",
-        "iso2": "DE"
-      }
-    },
-    {
-      "name": "Geroh",
+      "name": "Atlas Elektronik GmbH",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "ISK Spreewerk",
+      "name": "Bruker Daltronik GmbH",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "Krauss-Maffei Wegmann GmbH & Co. KG",
+      "name": "Cassidian",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "MK Technology Gmbh",
+      "name": "Cobham Surveilance GmbH",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "Spreewerk Lübben GmbH",
+      "name": "Eurofighter Jagdflugzeug GmbH",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "Weber Rescue Systems",
+      "name": "F. R. Lürssen",
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "Avis Ignis KFT",
+      "name": "Fujinon",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Heckler & Koch",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Kärcher Futuretech GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Krauss — Maffei Wegmann GmbH & Co. KG",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Panasonic Marketing Europe GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Rheinmetall MAN Military Vehicles (RMMV)",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      }
+    },
+    {
+      "name": "Panasonic Marketing Europe GmbH",
       "country": {
         "text": "Hungary",
         "iso2": "HU"
       }
     },
     {
-      "name": "Defence-Industries Magazine",
-      "country": {
-        "text": "India",
-        "iso2": "IN"
-      }
-    },
-    {
-      "name": "ELBIT Systems",
+      "name": "Elbit Systems Ltd.",
       "country": {
         "text": "Israel",
         "iso2": "IL"
       }
     },
     {
-      "name": "Eurotempest BV",
+      "name": "Rafael",
       "country": {
-        "text": "Netherlands",
-        "iso2": "NL"
+        "text": "Israel",
+        "iso2": "IL"
       }
     },
     {
-      "name": "MetaSensing BV",
+      "name": "EDISERVICE SRL",
       "country": {
-        "text": "Netherlands",
-        "iso2": "NL"
+        "text": "Italy",
+        "iso2": "IT"
       }
     },
     {
-      "name": "Kongsberg Defence & Aerospace AS",
+      "name": "Eurofigther GmbH",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "Fireco SRL",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "IVECO Defense Vehicles",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "JP4",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "Panorama Difesa",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "Selex Sistemi Integrati SPA",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
+    },
+    {
+      "name": "Kongsberg Defence & Aerospace",
       "country": {
         "text": "Norway",
         "iso2": "NO"
       }
     },
     {
-      "name": "PZL Mielec / a Sikorsky Company",
+      "name": "NACRE",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      }
+    },
+    {
+      "name": "Dom Samochodowy Germaz SP. z 0.0.",
       "country": {
         "text": "Poland",
         "iso2": "PL"
       }
     },
     {
-      "name": "Avioane Craiova S. A.",
+      "name": "Axis & Associès",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "BAE Systems",
+      "name": "IPCE-CA S.A.",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "F.A. Cugir",
+      "name": "Motexco Romania",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "MB Telecom Ltd.",
+      "name": "National Company ROMARM S.A.",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "Romaero S. A.",
+      "name": "Pro Optica",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "Romanian Cluster Association",
+      "name": "ROMAERO S.A",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "ROMARM National Company",
+      "name": "Romanian Ministry of Commerce",
       "country": {
         "text": "Romania",
         "iso2": "RO"
       }
     },
     {
-      "name": "ROMTEHNICA S. A.",
+      "name": "Romearbon S.A.",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
+    },
+    {
+      "name": "Romtehnica S.A.",
+      "country": {
+        "text": "Romania",
+        "iso2": "RO"
+      }
+    },
+    {
+      "name": "Syscom 18 S.R.L.",
       "country": {
         "text": "Romania",
         "iso2": "RO"
@@ -613,42 +774,14 @@
       }
     },
     {
-      "name": "U. M. Cugir",
-      "country": {
-        "text": "Romania",
-        "iso2": "RO"
-      }
-    },
-    {
-      "name": "U. M. Mija",
-      "country": {
-        "text": "Romania",
-        "iso2": "RO"
-      }
-    },
-    {
-      "name": "U. M. Sadu",
-      "country": {
-        "text": "Romania",
-        "iso2": "RO"
-      }
-    },
-    {
-      "name": "Beatronic Supply d.o.o.",
-      "country": {
-        "text": "Serbia",
-        "iso2": "RS"
-      }
-    },
-    {
-      "name": "C-Astral d.o.o.",
+      "name": "AREX d.o.o. Šentjernej",
       "country": {
         "text": "Slovenia",
         "iso2": "SI"
       }
     },
     {
-      "name": "Dat-Con d.o.o.",
+      "name": "em.tronic d.o.",
       "country": {
         "text": "Slovenia",
         "iso2": "SI"
@@ -662,31 +795,73 @@
       }
     },
     {
-      "name": "Rohde & Schwarz Österreich Ges.m.b.H.",
+      "name": "Air Tractor Europe",
       "country": {
-        "text": "Slovenia",
-        "iso2": "SI"
+        "text": "Spain",
+        "iso2": "ES"
       }
     },
     {
-      "name": "S-TMM Sistemi d.o.o.",
+      "name": "Airbus Military",
       "country": {
-        "text": "Slovenia",
-        "iso2": "SI"
+        "text": "Spain",
+        "iso2": "ES"
       }
     },
     {
-      "name": "Ruag Aviation",
+      "name": "FAM",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
+    },
+    {
+      "name": "Saab/Gripen",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      }
+    },
+    {
+      "name": "Crypto AG",
       "country": {
         "text": "Switzerland",
         "iso2": "CH"
       }
     },
     {
-      "name": "Vectronix AG",
+      "name": "RUAG AG",
       "country": {
         "text": "Switzerland",
         "iso2": "CH"
+      }
+    },
+    {
+      "name": "RUAG Aviation",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
+    },
+    {
+      "name": "RUAG Defense",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
+    },
+    {
+      "name": "Vectronix",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      }
+    },
+    {
+      "name": "DAMEN Shipyard Group",
+      "country": {
+        "text": "The Netherlands",
+        "iso2": "NL"
       }
     },
     {
@@ -697,126 +872,84 @@
       }
     },
     {
-      "name": "BAE Systems Applied Intelligence",
+      "name": "BAE Systems",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
     },
     {
-      "name": "BAE Systems PLC",
+      "name": "Cobham",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
     },
     {
-      "name": "L-3 TRL Technology Ltd.",
+      "name": "L-3 Communications TRL",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
     },
     {
-      "name": "Scott Safety",
+      "name": "Land Rover",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
       }
     },
     {
-      "name": "5.11 Tactical",
+      "name": "Pearson Engineering",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
+      }
+    },
+    {
+      "name": "Air Tractor",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "Alaska Structures",
+      "name": "Armalite, Inc.",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "Avis Ignis LLC.",
+      "name": "Insight Technologies",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "BAE Systems Applied Intelligence",
+      "name": "ITT Corporation",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "Bell Helicopter",
+      "name": "Norsat International",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "CAMELBAK",
+      "name": "Otis Technology",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "Exelis Inc.",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "Fisher Labs",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "Integrated Tower Systems - ITS",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "L-3 Communication-Systems West",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "L-3 TRL",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "L-3 Wescam",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "Med Eng",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "Sikorsky Aircraft Corporation",
+      "name": "Prism Lighting Services LLC",
       "country": {
         "text": "United States of America",
         "iso2": "US"
@@ -830,28 +963,21 @@
       }
     },
     {
-      "name": "Southwest Microwave Inc.",
+      "name": "Snap-on Tools International",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "Textron Aviation",
+      "name": "TNT Productions, Inc.",
       "country": {
         "text": "United States of America",
         "iso2": "US"
       }
     },
     {
-      "name": "The Will-Burt Company.",
-      "country": {
-        "text": "United States of America",
-        "iso2": "US"
-      }
-    },
-    {
-      "name": "TNT Productions, LLC.",
+      "name": "U.S Embassy — Commercial Department in Zagreb",
       "country": {
         "text": "United States of America",
         "iso2": "US"
