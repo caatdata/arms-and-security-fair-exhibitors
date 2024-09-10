@@ -23,6 +23,11 @@ image : $(IMAGE_TRAVEL_ISO2_PNG)
 
 validate : $(FAIR_VALID)
 
+python : $(VENV)
+	$(VENV)/bin/pip install -r tools/requirements.txt
+
+$(VENV) :
+	virtualenv $@
 
 .valid/% : data/%.json
 	mkdir -p .valid
