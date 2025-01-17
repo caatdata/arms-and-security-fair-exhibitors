@@ -1,9 +1,731 @@
 {
-  "name": "Future Forces International Exhibition 2022",
-  "series": "Future Forces International Exhibition",
+  "name": "Future Forces 2022",
+  "series": "Future Forces",
+  "alias": [
+    "Future Forces International Exhibition",
+    "Advanced Technologies in Defence & Security, 14th Evolution Edition"
+  ],
   "edition": "2022",
   "startDate": "2022-10-19",
   "endDate": "2022-10-21",
-  "website": "https://www.future-forces.org/",
-  "address": "Prague\nCzech Republic"
+  "address": {
+    "text": "PVA EXPO PRAHA\nBeranových 667\n199 00 Praha 9\nLetňany\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 50.129672,
+    "lon": 14.5155794
+  },
+  "website": "http://future-forces.org",
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/futureforcesforum/"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/ForcesForum"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/futureforcesforum"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/future-forces-forum"
+    },
+    {
+      "platform": "youtube",
+      "url": "http://www.youtube.com/user/NATOexhibition/featured"
+    }
+  ],
+  "exhibitorListUrl": "http://future-forces.org/exhibitors/list?lang=en",
+  "delegationListUrl": "https://future-forces-forum.org/official-guests/?lang=en",
+  "exhibitorListDate": "2025-01-17T11:41:32+00:00",
+  "exhibitor": [
+    {
+      "name": "3M Česko, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.3mcesko.cz"
+    },
+    {
+      "name": "ANV KNIVES s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.anvknives.com"
+    },
+    {
+      "name": "ARUBA, A HEWLETT PACKARD ENTERPRISE COMPANY",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.arubanetworks.com"
+    },
+    {
+      "name": "ATLANTIS TELECOM spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.atlantis.cz"
+    },
+    {
+      "name": "AUDIOPRO s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.audiopro.cz"
+    },
+    {
+      "name": "CAIRO CZ spol. s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cairocz.cz"
+    },
+    {
+      "name": "CENTRAL BOHEMIAN INNOVATION CENTER",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://s-ic.cz"
+    },
+    {
+      "name": "CHARLES UNIVERSITY",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cuni.cz"
+    },
+    {
+      "name": "CNM TEXTIL a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cnm.cz"
+    },
+    {
+      "name": "COLSYS-AUTOMATIK, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.colaut.cz"
+    },
+    {
+      "name": "CORPUS SOLUTIONS",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.corpus.cz"
+    },
+    {
+      "name": "CZECH ARMED FORCES",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.army.cz"
+    },
+    {
+      "name": "CZECH TECHNICAL UNIVERSITY IN PRAGUE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cvut.cz"
+    },
+    {
+      "name": "Centre for Knowledge and Technology Transfer of the Charles University",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cppt.cuni.cz"
+    },
+    {
+      "name": "DEFENCE AND SECURITY INDUSTRY ASSOCIATION",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.aobp.cz"
+    },
+    {
+      "name": "DELINFO, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.delinfo.cz"
+    },
+    {
+      "name": "Dekonta, a.s. - DEKONTA CBRN s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.dekonta.cz"
+    },
+    {
+      "name": "EAGLE.ONE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://eagle.one"
+    },
+    {
+      "name": "FIDELIS CYBERSECURITY",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.fidelissecurity.com"
+    },
+    {
+      "name": "FIRE RESCUE SERVICE OF THE CZECH REPUBLIC",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.hzscr.cz"
+    },
+    {
+      "name": "GREYCORTEX s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.greycortex.com"
+    },
+    {
+      "name": "INTERLINK CS, spol. s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.interlinkcs.cz"
+    },
+    {
+      "name": "JISR INSTITUTE, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.jisr-institute.org"
+    },
+    {
+      "name": "KOUTNÝ",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.koutny.cz"
+    },
+    {
+      "name": "LIAZ a. s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.liaz-uav.com"
+    },
+    {
+      "name": "MASADA SECURITY SOLUTIONS",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.masadasecurity.cz"
+    },
+    {
+      "name": "MEOPTA SYSTEMS, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.meopta.com"
+    },
+    {
+      "name": "MIKOV s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.mikov.cz"
+    },
+    {
+      "name": "MILITARY TECHNICAL INSTITUTE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.vtusp.cz"
+    },
+    {
+      "name": "MINISTRY OF DEFENCE OF THE CZECH REPUBLIC",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.army.cz"
+    },
+    {
+      "name": "MODELÁRNA LIAZ spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.modelarna-liaz.cz"
+    },
+    {
+      "name": "MS LINE, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.msline.cz"
+    },
+    {
+      "name": "PRAMACOM-HT",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.infrared.cz"
+    },
+    {
+      "name": "PRISON SERVICE OF THE CZECH REPUBLIC",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.vscr.cz"
+    },
+    {
+      "name": "PROAMMO Central Europe",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.proammo.cz"
+    },
+    {
+      "name": "RAY SERVICE a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.rayservice.com"
+    },
+    {
+      "name": "REGI BASE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.regibase.cz"
+    },
+    {
+      "name": "RESCUE TRAILER",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.rescuetrailer.cz"
+    },
+    {
+      "name": "SECURITY MAGAZÍN",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.securitymagazin.cz"
+    },
+    {
+      "name": "TOVEK, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.tovek.cz"
+    },
+    {
+      "name": "UNIVERSITY OF DEFENCE IN BRNO",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.unob.cz"
+    },
+    {
+      "name": "VRGINEERS, Inc.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://vrgineers.com"
+    },
+    {
+      "name": "ČESKÁ ZBROJOVKA a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.czub.cz"
+    }
+  ],
+  "delegationListDate": "2025-01-17T11:37:16+00:00",
+  "delegation": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Armenia"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Bolivia"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei Darussalam"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Ecuador"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "Georgia"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Indonesia"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kenya"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Cambodia"
+    },
+    {
+      "name": "Republic of Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Lebanon"
+    },
+    {
+      "name": "Sri Lanka"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Republic of Moldova"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Macedonia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Mozambique"
+    },
+    {
+      "name": "Malaysia"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Republic of Kosovo"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Somalia"
+    },
+    {
+      "name": "Serbia"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkey"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "United States of America"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vietnam"
+    },
+    {
+      "name": "Yemen"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ]
 }
