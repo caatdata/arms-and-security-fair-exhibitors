@@ -1,8 +1,1998 @@
 {
-  "name": "Future Forces Forum 2018",
-  "series": "Future Forces Forum",
+  "name": "Future Forces 2018",
+  "series": "Future Forces",
+  "alias": [
+    "Future Forces International Exhibition",
+    "Advanced Technologies in Defence & Security, 13th Evolution Edition"
+  ],
   "edition": "2018",
-  "approxDate": "2018-10",
-  "website": "http://www.future-forces-forum.org/?lang=en",
-  "country": "Czech Republic"
+  "startDate": "2018-10-17",
+  "endDate": "2018-10-19",
+  "address": {
+    "text": "PVA EXPO PRAHA\nBeranových 667\n199 00 Praha 9\nLetňany\nCzech Republic",
+    "iso2": "CZ",
+    "lat": 50.129672,
+    "lon": 14.5155794
+  },
+  "website": "http://future-forces.org/ff18/?lang=en",
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/futureforcesforum/"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/ForcesForum"
+    },
+    {
+      "platform": "linkedin",
+      "url": "http://www.linkedin.com/groups?gid=4169952&trk=tyah"
+    },
+    {
+      "platform": "youtube",
+      "url": "http://www.youtube.com/user/NATOexhibition/featured"
+    }
+  ],
+  "exhibitorListUrl": "http://www.future-forces.org/exhibitors/list?param=all&alpha=A&lang=en",
+  "exhibitorListDate": "2025-01-17T10:46:29+00:00",
+  "exhibitor": [
+    {
+      "name": "3M Česko, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.3m.cz/OOPP"
+    },
+    {
+      "name": "4M SYSTEMS a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.4msystems.cz"
+    },
+    {
+      "name": "ACLIMA AS",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
+      "website": "http://www.aclima.com"
+    },
+    {
+      "name": "AFCEA Czech Chapter",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.afcea.cz"
+    },
+    {
+      "name": "AIM INFRAROT-MODULE GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.aim-ir.com"
+    },
+    {
+      "name": "AIRBORNE SYSTEMS North America",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.airborne-sys.com"
+    },
+    {
+      "name": "ALITER TECHNOLOGIES, a.s.",
+      "country": {
+        "text": "Slovakia",
+        "iso2": "SK"
+      },
+      "website": "http://www.aliter.com"
+    },
+    {
+      "name": "AQYR",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.aqyrtech.com"
+    },
+    {
+      "name": "ARC VEHICLES s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.arcvehicles.cz"
+    },
+    {
+      "name": "ARGUN s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.argun.cz"
+    },
+    {
+      "name": "ARMOR SOURCE",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.armorsource.com"
+    },
+    {
+      "name": "ARQUUS",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "https://www.arquus-defense.com"
+    },
+    {
+      "name": "ASOCIACE OBRANNÉHO A BEZPEČNOSTNÍHO PRŮMYSLU",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.aobp.cz"
+    },
+    {
+      "name": "ASTONA - Lubomír Mlček",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.astona.cz"
+    },
+    {
+      "name": "ATLANTIS TELECOM spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.atlantis.cz"
+    },
+    {
+      "name": "AVERIA LTD. – organizační složka",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.averia.news"
+    },
+    {
+      "name": "Agentura vojenského zdravotnictví AČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zdravotnictvi.army.cz"
+    },
+    {
+      "name": "Akademie věd ČR, v. v. i.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://ssc.cas.cz"
+    },
+    {
+      "name": "BAE SYSTEMS",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "http://www.baesystems.com"
+    },
+    {
+      "name": "BARRETT",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.barrett.net"
+    },
+    {
+      "name": "BERGHAUS",
+      "website": "https://berghaus.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "BETH-EL Industries",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
+      "website": "http://www.beind.com"
+    },
+    {
+      "name": "BLACKBOX BIOMETRICS",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.blastgauge.com"
+    },
+    {
+      "name": "BO GWANG TEXTILE CO., LTD.",
+      "country": {
+        "text": "South Korea",
+        "iso2": "KR"
+      },
+      "website": "http://www.bogwangint.com"
+    },
+    {
+      "name": "C.P.E. Production Oy",
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      },
+      "website": "http://www.cpe.fi"
+    },
+    {
+      "name": "CARINTHIA / Goldeck Textil GmbH",
+      "country": {
+        "text": "Austria",
+        "iso2": "AT"
+      },
+      "website": "http://www.carinthia.eu"
+    },
+    {
+      "name": "CARRINGTON TEXTILES",
+      "website": "http://www.carrington.co.uk",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "CHECK POINT Software Technologies Ltd.",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
+      "website": "http://www.checkpoint.com"
+    },
+    {
+      "name": "CLUTEX - Cluster Technical Textiles",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.clutex.cz"
+    },
+    {
+      "name": "CONCORDIA TEXTILES N.V.",
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
+      },
+      "website": "http://www.concordiatextiles.com"
+    },
+    {
+      "name": "CORDURA Fabric - INVISTA Textiles UK Ltd",
+      "website": "http://www.cordura.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "CRYSTAL GROUP Inc",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.crystalrugged.com"
+    },
+    {
+      "name": "CSC European Defense Business Management GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.cscgmbh.eu"
+    },
+    {
+      "name": "CYBERGYM EUROPE, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.cybergymeurope.com"
+    },
+    {
+      "name": "Capability Planning Division, MoD",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Centre for Knowledge and Technology Transfer of the Charles University / Centrum pro přenos poznatků a technologií Univerzity Karlovy",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.cppt.cuni.cz"
+    },
+    {
+      "name": "Chemical Corps of the Czech Armed Forces / Chemické vojsko AČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Czech Academy of Sciences",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://ssc.cas.cz"
+    },
+    {
+      "name": "Czech Hydrometeorological Institute / Český hydrometeorologický ústav",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.chmi.cz"
+    },
+    {
+      "name": "Czech Technical University in Prague / České vysoké učení technické v Praze",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.cvut.cz/en"
+    },
+    {
+      "name": "DALETEC",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
+      "website": "https://www.daletec.com"
+    },
+    {
+      "name": "DALLMEIER ELECTRONIC GmbH & Co.KG",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.dallmeier.com"
+    },
+    {
+      "name": "DANTHERM A/S",
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      },
+      "website": "http://www.dantherm.com"
+    },
+    {
+      "name": "DEFENCE AND SECURITY INDUSTRY ASSOCIATION",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.aobp.cz"
+    },
+    {
+      "name": "DEKONTA, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.dekonta.cz"
+    },
+    {
+      "name": "DELINFO, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.delinfo.cz"
+    },
+    {
+      "name": "DELOITTE ADVISORY s.r.o",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.deloitte.cz"
+    },
+    {
+      "name": "DSM DYNEEMA",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.dyneema.com"
+    },
+    {
+      "name": "DST DEFENCE SERVICE TRACKS GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.defence-st.com"
+    },
+    {
+      "name": "DYNAMIT NOBEL DEFENCE",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.dn-defence.com"
+    },
+    {
+      "name": "Diebold Nixdorf",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.dieboldnixdorf.com"
+    },
+    {
+      "name": "EAGLE.ONE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://eagle.one"
+    },
+    {
+      "name": "EMERGENT BIOSOLUTIONS Inc.",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://www.emergentbiosolutions.com"
+    },
+    {
+      "name": "ENVI-PUR, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.envi-pur.cz"
+    },
+    {
+      "name": "ESTAMBRIL INTERNATIONAL",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      },
+      "website": "http://www.estambrilinternational.com"
+    },
+    {
+      "name": "EUROLAMP",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.eurolamp.cz"
+    },
+    {
+      "name": "EXENSOR Technology Ltd.",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "http://www.exensor.com"
+    },
+    {
+      "name": "EXPLORER CASES by GT LINE",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.explorercases.com"
+    },
+    {
+      "name": "EXPLOSIA a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.explosia.cz"
+    },
+    {
+      "name": "EXXEL Outdoor",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://exxel.com"
+    },
+    {
+      "name": "Emergency Medical Service",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zzsjck.cz"
+    },
+    {
+      "name": "Epson Europe B.V. - organizační složka",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.epson.cz"
+    },
+    {
+      "name": "European Security & Defence",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.euro-sd.com"
+    },
+    {
+      "name": "F5 Networks",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.f5.com"
+    },
+    {
+      "name": "FIDELIS CYBERSECURITY",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.fidelissecurity.com"
+    },
+    {
+      "name": "FK BRNO Engineering s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.fkbrno.com"
+    },
+    {
+      "name": "FLIGHTCELL International",
+      "country": {
+        "text": "New Zealand",
+        "iso2": "NZ"
+      },
+      "website": "http://www.flightcell.com"
+    },
+    {
+      "name": "FORCEPOINT",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.forcepoint.com"
+    },
+    {
+      "name": "FRESTEMS Oy (ltd.)",
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      },
+      "website": "http://www.frestems.fi"
+    },
+    {
+      "name": "Force Development Division, MoD",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "GARANT PROTECTION",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.garant-protection.com"
+    },
+    {
+      "name": "GARDANT GLOBAL",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.gardantglobal.com"
+    },
+    {
+      "name": "GENERAL DYNAMICS European Land Systems",
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      },
+      "website": "http://www.gdels.com"
+    },
+    {
+      "name": "GENTEX Corporation",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://gentexcorp.com"
+    },
+    {
+      "name": "GLOMEX MS, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.glomex-ms.com"
+    },
+    {
+      "name": "GLOSYS Electronics",
+      "country": {
+        "text": "United Arab Emirates",
+        "iso2": "AE"
+      },
+      "website": "http://www.glosys.org"
+    },
+    {
+      "name": "GPS Source Inc.",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.gpssource.com"
+    },
+    {
+      "name": "GRANQVISTS AB",
+      "country": {
+        "text": "Sweden",
+        "iso2": "SE"
+      },
+      "website": "http://www.granqvists.se"
+    },
+    {
+      "name": "GUMOTEX",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.gumotex-rescue-systems.cz"
+    },
+    {
+      "name": "Geographic Service of the Czech Armed Forces / Geografická služba AČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.geoservice.army.cz"
+    },
+    {
+      "name": "HEXONIA GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.hexonia.de"
+    },
+    {
+      "name": "HM Armcom Zrt.",
+      "country": {
+        "text": "Hungar",
+        "iso2": "HU"
+      },
+      "website": "http://www.armcom.hu"
+    },
+    {
+      "name": "HM Arzenál Zrt",
+      "country": {
+        "text": "Hungar",
+        "iso2": "HU"
+      },
+      "website": "http://www.hmarzenal.hu"
+    },
+    {
+      "name": "HM Currus Zrt.",
+      "country": {
+        "text": "Hungar",
+        "iso2": "HU"
+      },
+      "website": "https://www.hmei.hu/en/_ehmei_kiallitas_2014/_ehm_currus_zrt.html"
+    },
+    {
+      "name": "HM EI Zrt",
+      "country": {
+        "text": "Hungar",
+        "iso2": "HU"
+      },
+      "website": "http://www.hmei.hu"
+    },
+    {
+      "name": "HUDYsport a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.hudy.cz"
+    },
+    {
+      "name": "HUNGARIAN DEFENCE INDUSTRY",
+      "country": {
+        "text": "Hungar",
+        "iso2": "HU"
+      },
+      "website": "http://www.hmei.hu%20www.currus.hu%20www.hmarzenal.hu%20www.armcom.hu%20www.vedelmiipar.hu"
+    },
+    {
+      "name": "Hlavní velitelství Vojenské policie",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vp.army.cz"
+    },
+    {
+      "name": "Hydrometeorological Service of the Czech Armed Forces / Hydrometeorologická služba AČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.hydrometeoservice.army.cz"
+    },
+    {
+      "name": "ICZ a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.iczgroup.com"
+    },
+    {
+      "name": "INTERCOLOR a. s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.intercolor.cz"
+    },
+    {
+      "name": "INTERLINK CS, spol. s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.interlinkcs.cz"
+    },
+    {
+      "name": "INTRACOM DEFENSE ELECTRONICS",
+      "country": {
+        "text": "Greece",
+        "iso2": "GR"
+      },
+      "website": "http://www.intracomdefense.com"
+    },
+    {
+      "name": "ISRAELI Ministry of Defense - SIBAT",
+      "country": {
+        "text": "Israel",
+        "iso2": "IL"
+      },
+      "website": "http://www.sibat.mod.gov.il"
+    },
+    {
+      "name": "Institute of Microbiology of the Czech Academy of Sciences / Mikrobiologický ústav AV ČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://mbucas.cz"
+    },
+    {
+      "name": "Institute of Physics of Materials, Czech Academy of Sciences / Ústav fyziky materiálů AV ČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.ipm.cz"
+    },
+    {
+      "name": "JISR INSTITUTE, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.jisr-institute.org"
+    },
+    {
+      "name": "JSC \"KSF \"Peredovaya tekstilshchitsa\"",
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      },
+      "website": "http://airsilk.ru"
+    },
+    {
+      "name": "JUSTRA TREZORY s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.justratrezory.cz"
+    },
+    {
+      "name": "KARRIMOR SF",
+      "website": "http://www.karrimorsf.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "KEELA/ILASCO",
+      "website": "http://www.keela.co.uk%20&%20www.ilasco.co.uk",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "KIDDE-DEUGRA Brandschutzsysteme GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.kidde-deugra.com"
+    },
+    {
+      "name": "KMW",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "https://www.kmweg.com"
+    },
+    {
+      "name": "KOUTNÝ spol. s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.koutny.cz"
+    },
+    {
+      "name": "LEONARDO Helicopters",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.leonardocompany.com"
+    },
+    {
+      "name": "LEONARDO S.p.A.",
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      },
+      "website": "http://www.leonardocompany.com/en"
+    },
+    {
+      "name": "LEUPOLD",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.leupold.com"
+    },
+    {
+      "name": "LIAZ a. s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.liaz-uav.com"
+    },
+    {
+      "name": "LOGISTICS AGENCY / AGENTURA LOGISTIKY",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.alog.army.cz"
+    },
+    {
+      "name": "LOM PRAHA s.p.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.lompraha.cz"
+    },
+    {
+      "name": "LUFTHANSA Technik",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.lufthansa-technik.com"
+    },
+    {
+      "name": "LUVO Prague Ltd.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.luvo.cz"
+    },
+    {
+      "name": "LUXFER MAGTECH",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://luxfermagtech.com"
+    },
+    {
+      "name": "LV EQUIPMENT BV",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.lvequipment.nl"
+    },
+    {
+      "name": "Land Survey Office",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cuzk.cz"
+    },
+    {
+      "name": "MAWASHI SCIENCE & TECHNOLOGY",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      },
+      "website": "http://www.mawashi.net"
+    },
+    {
+      "name": "MAXIMUM Services",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.maximumservices.cz"
+    },
+    {
+      "name": "MESIT asd, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.mesit.cz"
+    },
+    {
+      "name": "MILITARY INTELLIGENCE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vzcr.cz"
+    },
+    {
+      "name": "MILITARY TECHNICAL INSTITUTE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vtusp.cz"
+    },
+    {
+      "name": "MILLIKEN & COMPANY",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.millikenmilitary.milliken.com"
+    },
+    {
+      "name": "MINISTRY OF DEFENCE of the Czech Republic / MINISTERSTVO OBRANY ČR",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.army.cz"
+    },
+    {
+      "name": "MITTET SPESIALPRODUKTER AS",
+      "country": {
+        "text": "Norway",
+        "iso2": "NO"
+      },
+      "website": "http://www.mittet.com"
+    },
+    {
+      "name": "MITTLER REPORT VERLAG GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.mittler-report.de"
+    },
+    {
+      "name": "MODELÁRNA LIAZ spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.modelarna-liaz.cz"
+    },
+    {
+      "name": "MORIS DISTRIBUTION",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.moris-distribution.cz"
+    },
+    {
+      "name": "MS LINE, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.msline.cz"
+    },
+    {
+      "name": "MV - GŘ HZS ČR, Institut ochrany obyvatelstva",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.ioolb.cz"
+    },
+    {
+      "name": "Medical Rescue Service of South Bohemia Region",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zzsjck.cz"
+    },
+    {
+      "name": "Microflown AVISA",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.microflown-avisa.com"
+    },
+    {
+      "name": "Military Medical Agency of the Czech Armed Forces",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zdravotnictvi.army.cz"
+    },
+    {
+      "name": "Military Police Headquarters, MoD",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vp.army.cz"
+    },
+    {
+      "name": "Ministry of Defence - Cyber & IMINT Division",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      }
+    },
+    {
+      "name": "Ministry of Transport / Ministerstvo dopravy",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.mdcr.cz"
+    },
+    {
+      "name": "Ministry of the Environment / Ministerstvo životního prostředí",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://mzp.cz"
+    },
+    {
+      "name": "Ministry of the Interior / Ministerstvo vnitra",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.mvcr.cz"
+    },
+    {
+      "name": "Ministry of the Interior General Directorate of Fire Rescue Service of the Czech Republic Population Protection Institute",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.ioolb.cz"
+    },
+    {
+      "name": "Multinational Logistics Coordination Centre",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.mlcc-eng.army.cz"
+    },
+    {
+      "name": "NANOMEBRANE s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.nanomembrane.cz"
+    },
+    {
+      "name": "NATO Centre of Excellence for Military Medicine",
+      "website": "http://www.coemed.org"
+    },
+    {
+      "name": "NATO Communications and Information Agency",
+      "website": "https://www.ncia.nato.int"
+    },
+    {
+      "name": "NATO Energy Security Centre of Excellence",
+      "website": "http://www.enseccoe.org/en"
+    },
+    {
+      "name": "NATO Explosive Ordnance Disposal Centre of Excellence",
+      "website": "http://www.eodcoe.org"
+    },
+    {
+      "name": "NATO Joint Chemical, Biological, Radiological and Nuclear Defence Centre of Excellence",
+      "website": "http://www.jcbrncoe.cz"
+    },
+    {
+      "name": "NATO Land Capability Group on Dismounted Soldier Systems",
+      "website": "https://www.nato.int"
+    },
+    {
+      "name": "NATO Modelling & Simulation Centre of Excellence",
+      "website": "http://www.mscoe.org"
+    },
+    {
+      "name": "NATO Science & Technology Organization",
+      "website": "https://www.sto.nato.int"
+    },
+    {
+      "name": "NATO Science & Technology Organization - The Collaboration Support Office",
+      "website": "https://www.cso.nato.int"
+    },
+    {
+      "name": "NET.POINTERS s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://net.pointers.cz"
+    },
+    {
+      "name": "NETHERLANDS Ministry of Defence",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.mindef.nl"
+    },
+    {
+      "name": "NIDES s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.nides.cz"
+    },
+    {
+      "name": "NIGHT PEARL",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zahoritrade.cz"
+    },
+    {
+      "name": "NIGHTLINE, Inc.",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.nightline.us"
+    },
+    {
+      "name": "NOVICOM s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.novicom.cz"
+    },
+    {
+      "name": "NYKLÍČEK a spol. s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.nyklicekaspol.cz"
+    },
+    {
+      "name": "National Cyber and Information Security Agency / Národní úřad pro kybernetickou a informační bezpečnost",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://nukib.cz/en"
+    },
+    {
+      "name": "National Institute for Nuclear, Chemical and Biological Protection",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.sujchbo.cz"
+    },
+    {
+      "name": "OLYMPIA TRIUMPH MANUFACTURING",
+      "website": "http://www.olytri.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "OPS-CORE",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://gentexcorp.eu.com"
+    },
+    {
+      "name": "OPTOKON, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.optokon.com"
+    },
+    {
+      "name": "OUVRY SAS",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.ouvry.com"
+    },
+    {
+      "name": "Odbor vojskového průzkumu a elektronického boje MO",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Office of Military Geography and Hydrometeorology",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.geoservice.army.cz/vghmur-dobruska"
+    },
+    {
+      "name": "Office of the U.S. Deputy Assistant Secretary of Defense for Threat Reduction and Arms Control",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.acq.osd.mil/ncbdp/trac/index.html"
+    },
+    {
+      "name": "PALO ALTO NETWORKS",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.paloaltonetworks.com"
+    },
+    {
+      "name": "PANASONIC - Computer Product Solutions",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.toughbook.eu"
+    },
+    {
+      "name": "PARDAM, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.pardam.cz"
+    },
+    {
+      "name": "PENNANT International Group PLC",
+      "website": "http://www.pennantplc.co.uk",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "PHONEXIA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.phonexia.com"
+    },
+    {
+      "name": "POLICE of the Czech Republic",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.policie.cz"
+    },
+    {
+      "name": "PORELLE MEMBRANES",
+      "website": "http://www.porellemembranes.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "PRAMACOM-HT, spol.s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.infrared.cz"
+    },
+    {
+      "name": "PRISON SERVICE of the Czech Republic",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vscr.cz"
+    },
+    {
+      "name": "PROAMMO Central Europe",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.proammo.cz"
+    },
+    {
+      "name": "PROENGIN",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      },
+      "website": "http://www.proengin.com"
+    },
+    {
+      "name": "PROPEL LLC",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.propel-llc.com"
+    },
+    {
+      "name": "PSM PROJEKT SYSTEM & MANAGEMENT GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.psm-spz.com"
+    },
+    {
+      "name": "Police Academy / Policejní akademie",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.polac.cz"
+    },
+    {
+      "name": "Q CYBER TECHNOLOGIES",
+      "country": {
+        "text": "Luxembourg",
+        "iso2": "LU"
+      }
+    },
+    {
+      "name": "QINETIQ North America",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.qinetiq-na.com"
+    },
+    {
+      "name": "R&T ČR, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.luxfer.cz"
+    },
+    {
+      "name": "RAY SERVICE, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.rayservice.com"
+    },
+    {
+      "name": "REAL TARGET s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.realtarget.cz"
+    },
+    {
+      "name": "REBTECH",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.rebtechnvg.com"
+    },
+    {
+      "name": "REVISION",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.revisionmilitary.com"
+    },
+    {
+      "name": "RHEINMETALL Ceska republika s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.rheinmetall.com"
+    },
+    {
+      "name": "RHEINMETALL Defence Electronics GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.rheinmetall-defence.com"
+    },
+    {
+      "name": "ROHDE & SCHWARZ – Praha, Ltd.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.rohde-schwarz.com/cz"
+    },
+    {
+      "name": "Reconnaissance and Electronic Warfare Branch, MoD",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Research Institute of Geodesy, Topography and Cartography",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vugtk.cz"
+    },
+    {
+      "name": "SAFRAN VECTRONIX AG",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      },
+      "website": "http://www.safran-vectronix.com"
+    },
+    {
+      "name": "SAPPHIRE FINISHING MILLS LIMITED",
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      },
+      "website": "http://www.sapphiremills.com"
+    },
+    {
+      "name": "SARENA INDUSTRIES & EMBROIDERY MILLS",
+      "country": {
+        "text": "Pakistan",
+        "iso2": "PK"
+      },
+      "website": "http://www.sarenapk.com"
+    },
+    {
+      "name": "SCHUBERTH GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.schuberth.com"
+    },
+    {
+      "name": "SCOTT SAFETY",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "http://www.3mscott.com"
+    },
+    {
+      "name": "SEFIRA spol. s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.sefira.cz"
+    },
+    {
+      "name": "SENOP",
+      "country": {
+        "text": "Finland",
+        "iso2": "FI"
+      },
+      "website": "http://www.senop.fi"
+    },
+    {
+      "name": "SETOLITE Lichttechnik GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "https://www.setolite.com"
+    },
+    {
+      "name": "SHANGHAI EASTIMAGE EQUIPMENT Co., Ltd",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      },
+      "website": "http://www.eastimagesecurity.com"
+    },
+    {
+      "name": "SILK & PROGRESS, spol. s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.silkandprogress.cz"
+    },
+    {
+      "name": "SINTEX, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.sintex.cz"
+    },
+    {
+      "name": "SMITH ELITE",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://www.smithoptics.com"
+    },
+    {
+      "name": "SOLAIYA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.solaiya.com"
+    },
+    {
+      "name": "SORSYA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.sorsya.cz"
+    },
+    {
+      "name": "STAP a. s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.stap.cz"
+    },
+    {
+      "name": "STEINER",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "https://www.steiner-optics.com"
+    },
+    {
+      "name": "SVITAP J.H.J. spol. s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.svitap.cz"
+    },
+    {
+      "name": "SVOS, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.armsvos.cz"
+    },
+    {
+      "name": "Sekce plánování schopností MO",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Sekce podpory MO",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Sekce rozvoje sil MO",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "Státní ústav jaderné, chemické a biologické ochrany, v.v.i.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.sujchbo.cz"
+    },
+    {
+      "name": "Support Division, MoD",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.acr.army.cz"
+    },
+    {
+      "name": "TATRA DEFENCE VEHICLE a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.tatradv.cz"
+    },
+    {
+      "name": "TECH DATA AS Czech s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.as.techdata.eu/cz"
+    },
+    {
+      "name": "TENCATE PROTECTIVE FABRICS",
+      "country": {
+        "text": "Netherlands",
+        "iso2": "NL"
+      },
+      "website": "http://www.tencatefabrics.com"
+    },
+    {
+      "name": "THERMOTEKNIX Systems Ltd.",
+      "website": "http://www.thermoteknix.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "TOMAS BATA UNIVERSITY in Zlín - Faculty of Applied Informatics",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.fai.utb.cz"
+    },
+    {
+      "name": "TOMAS BATA UNIVERSITY in Zlín - Faculty of Logistics and Crisis Management",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.flkr.utb.cz"
+    },
+    {
+      "name": "TOVEK, spol. s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.tovek.cz"
+    },
+    {
+      "name": "TRANSAERO",
+      "country": {
+        "text": "United States of America",
+        "iso2": "US"
+      },
+      "website": "https://www.aviationpros.com"
+    },
+    {
+      "name": "TTC TELEKOMUNIKACE, s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.ttc-telekomunikace.cz"
+    },
+    {
+      "name": "ULTIMATE TRAINING MUNITIONS",
+      "website": "https://utmworldwide.com",
+      "address": {
+        "text": "Great Britain",
+        "iso2": "GB",
+        "lat": 53.8337367,
+        "lon": -2.4290148
+      }
+    },
+    {
+      "name": "URC Systems, spol.s r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.urc-systems.cz"
+    },
+    {
+      "name": "University of Defence / Univerzita obrany",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.unob.cz"
+    },
+    {
+      "name": "VAKUFORM spol.s r. o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vakuform.cz"
+    },
+    {
+      "name": "VICTORINOX",
+      "country": {
+        "text": "Switzerland",
+        "iso2": "CH"
+      },
+      "website": "https://www.victorinox.com"
+    },
+    {
+      "name": "VIENNA HOUSE DIPLOMAT PRAGUE",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.viennahouse.com"
+    },
+    {
+      "name": "VOJENSKÉ ZPRAVODAJSTVÍ",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.vzcr.cz"
+    },
+    {
+      "name": "VOJENSKÝ TECHNICKÝ ÚSTAV, s.p.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vtusp.cz"
+    },
+    {
+      "name": "VOLAREZA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.volareza.cz"
+    },
+    {
+      "name": "VOP CZ, s.p.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vop.cz"
+    },
+    {
+      "name": "VR Group, a.s.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.vrg.cz"
+    },
+    {
+      "name": "Vojenský geografický a hydrometeorologický úřad (VGHMÚř)",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.geoservice.army.cz/vghmur-dobruska"
+    },
+    {
+      "name": "Výzkumný ústav geodetický, topografický a kartografický, v.v.i.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.vugtk.cz"
+    },
+    {
+      "name": "Vězeňská služba České republiky",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.vscr.cz"
+    },
+    {
+      "name": "W. L. GORE & ASSOCIATES GmbH",
+      "country": {
+        "text": "Germany",
+        "iso2": "DE"
+      },
+      "website": "http://www.gore-workwear.com"
+    },
+    {
+      "name": "WB ELECTRONICS S.A.",
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      },
+      "website": "http://www.wbgroup.pl"
+    },
+    {
+      "name": "WILEY X EMEA LLC",
+      "country": {
+        "text": "Denmark",
+        "iso2": "DK"
+      },
+      "website": "http://www.wileyx.eu"
+    },
+    {
+      "name": "WOJSKO I TECHNIKA MAGAZINE Zespól Badań i Analiz Militarnych",
+      "country": {
+        "text": "Poland",
+        "iso2": "PL"
+      },
+      "website": "http://www.zbiam.pl"
+    },
+    {
+      "name": "YVENTECH",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.eventech.cz"
+    },
+    {
+      "name": "ZAHORI TRADE s.r.o.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zahoritrade.cz"
+    },
+    {
+      "name": "ZEBRA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zebra.com"
+    },
+    {
+      "name": "Zdravotnická záchranná služba Jihočeského kraje",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.zzsjck.cz"
+    },
+    {
+      "name": "Zeměměřický úřad",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "https://www.cuzk.cz"
+    },
+    {
+      "name": "Ústav fyziky materiálů Akademie věd ČR, v. v. i.",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.ipm.cz"
+    },
+    {
+      "name": "ČESKÁ ZBROJOVKA",
+      "country": {
+        "text": "Czech Republic",
+        "iso2": "CZ"
+      },
+      "website": "http://www.czub.cz"
+    }
+  ]
 }
