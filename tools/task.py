@@ -108,13 +108,29 @@ def main():
 
 
     for line in args.ignore_path.read_text().split("\n")[1: ]:
+        if line.startswith("#"):
+            continue
         if not line.strip():
             continue
-        slug = line.split(",", 1)[0].strip()
+        slug, notes = [v.strip() for v in line.split(",", 1)]
         LOG.debug(slug)
+        LOG.debug(notes)
         series_slug, year = split(slug)
-        assert not year in fair_dict[series_slug]
-        fair_dict[series_slug][year] = False
+
+        if "no exhibitor list" in notes.lower():
+            if year not in fair_dict[series_slug]:
+                raise Exception(
+                    "No data found for slug `%s` marked in ignore file `%s` "
+                    "as `No exhibitor list`", slug, args.ignore_path
+                )
+            fair_dict[series_slug][year]["noExhibitorList"] = True
+        else:
+            if year in fair_dict[series_slug]:
+                raise Exception(
+                    "Data found for slug `%s` listed in ignore file `%s`.",
+                    slug, args.ignore_path
+                )
+            fair_dict[series_slug][year] = False
 
     category = {
         "new": "Check for new fairs",
@@ -174,7 +190,11 @@ def main():
         if data:
             slug = f"{series_slug}-{year}"
             if data["endDate"] > today - IGNORE_INTERVAL:
-                if not data["exhibitor"] and data["endDate"] < today + BEFORE_INTERVAL:
+                if (
+                        not data["exhibitor"]
+                        and not data.get("noExhibitorList", None)
+                        and data["endDate"] < today + BEFORE_INTERVAL
+                ):
                     tasks["exhibitor"].append({
                         "slug": slug,
                         "endDate": data["endDate"],
