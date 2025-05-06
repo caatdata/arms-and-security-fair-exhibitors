@@ -70,7 +70,7 @@ Corrections may be submitted by email or as GitHub issues.
 
 -   **521** series
 -   **1809** events
--   **201724** exhibitors
+-   **202129** exhibitors
 -   **759** organisers
 -   **2783** delegations
 
