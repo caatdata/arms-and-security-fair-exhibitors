@@ -24,7 +24,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.navyleaders.com/combined-naval-event-exhibitors",
-  "exhibitorListDate": "2025-04-29T14:39:46+00:00",
+  "exhibitorListDate": "2025-06-03T11:57:52+00:00",
   "exhibitor": [
     {
       "name": "AACE Aerospace & Airworthiness Consultancy Enterprises Ltd",
@@ -306,6 +306,16 @@
         "iso2": "GB",
         "lat": 52.0709348,
         "lon": -0.08205839999999999
+      }
+    },
+    {
+      "name": "Cellula Robotics",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/cellula-robotics",
+      "address": {
+        "text": "B109-9000 Bill Fox Way\nBurnaby\nBritish Columbia\nV5J 5J3\nCanada",
+        "iso2": "CA",
+        "lat": 49.1994946,
+        "lon": -122.9889069
       }
     },
     {
@@ -630,7 +640,18 @@
     },
     {
       "name": "F.M. Marine Services Ltd",
-      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/fm-marine-services"
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/fm-marine-services",
+      "website": "https://cygnusboats.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/p/Cygnus-Boats-100058955080689/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cygnus-boats"
+        }
+      ]
     },
     {
       "name": "FN Herstal",
@@ -669,10 +690,10 @@
       "name": "Force Development Services Ltd",
       "exhibitorUrl": "https://www.navyleaders.com/exhibitors/force-development-services",
       "address": {
-        "text": "Unit H2\nKnowle Village Business Park\nFareham\nHampshire\nPO17 5DY\nUnited Kingdom",
+        "text": "14/15 Bridge Industries\nFareham\nHampshire\nPO16 8SX\nUnited Kingdom",
         "iso2": "GB",
-        "lat": 50.88240889999999,
-        "lon": -1.2075213
+        "lat": 50.860052,
+        "lon": -1.1714613
       }
     },
     {
@@ -886,6 +907,29 @@
         "lat": 52.5067919,
         "lon": -1.8717008
       }
+    },
+    {
+      "name": "Impact Subsea",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/impact-subsea",
+      "website": "https://www.impactsubsea.co.uk",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/impactsubsea/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/ImpactSubsea"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/impact-subsea-ltd/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/impactsubsea/"
+        }
+      ]
     },
     {
       "name": "Insitu Inc. A Boeing Company",
@@ -1383,8 +1427,13 @@
       "exhibitorUrl": "https://www.navyleaders.com/exhibitors/srs"
     },
     {
-      "name": "STADT",
-      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/stadt"
+      "name": "STADT NAVAL AS",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/stadt",
+      "website": "https://www.stadt.no",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/hallvard-l-slettevoll-44473428/"
+      }
     },
     {
       "name": "SYOS",
@@ -1634,6 +1683,20 @@
       }
     },
     {
+      "name": "The Royal Navy & Royal Marines Charity",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/royal-navy-royal-marines-charity-o85x",
+      "address": {
+        "text": "RNRMC\nBuilding 37\nPortsmouth\nHampshire\nPO2 8ER\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 50.81846729999999,
+        "lon": -1.0957502
+      }
+    },
+    {
+      "name": "Theyr",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/theyr"
+    },
+    {
       "name": "Thinklogical",
       "exhibitorUrl": "https://www.navyleaders.com/exhibitors/thinklogical",
       "address": {
@@ -1733,6 +1796,25 @@
     {
       "name": "Waypoint LLC",
       "exhibitorUrl": "https://www.navyleaders.com/exhibitors/waypoint-llc"
+    },
+    {
+      "name": "West Special Fasteners Limited",
+      "exhibitorUrl": "https://www.navyleaders.com/exhibitors/west-special-fasteners-limited",
+      "website": "http://www.westspecialfasteners.co.uk",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/westspecialfasteners1999"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/5103129/admin/dashboard/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/westspecialfasteners/"
+        }
+      ]
     },
     {
       "name": "Whippendell Marine",
