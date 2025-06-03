@@ -8,7 +8,12 @@
   "edition": "2025",
   "startDate": "2025-10-21",
   "endDate": "2025-10-23",
-  "address": "Warszawa\nPoland",
+  "address": {
+    "text": "Warszawa\nPoland",
+    "iso2": "PL",
+    "lat": 52.2296756,
+    "lon": 21.0122287
+  },
   "website": "https://defenceleaders.com/global-defence-aviation/",
   "organiser": [
     {
@@ -19,7 +24,7 @@
     }
   ],
   "exhibitorListUrl": "https://defenceleaders.com/gda-sponsors-page/",
-  "exhibitorListDate": "2025-04-30T11:10:55+00:00",
+  "exhibitorListDate": "2025-06-03T11:54:18+00:00",
   "exhibitor": [
     {
       "name": "ACE AERONAUTICS",
@@ -138,6 +143,10 @@
       "exhibitorUrl": "https://defenceleaders.com/exhibitors/dart-aerospace/"
     },
     {
+      "name": "DAVENPORT AVIATION",
+      "exhibitorUrl": "https://defenceleaders.com/exhibitors/davenport-aviation/"
+    },
+    {
       "name": "EAST WEST",
       "exhibitorUrl": "https://defenceleaders.com/exhibitors/east-west/"
     },
@@ -180,6 +189,10 @@
     {
       "name": "GENERAL DYNAMICS UK LTD",
       "exhibitorUrl": "https://defenceleaders.com/exhibitors/general-dynamics-uk-ltd/"
+    },
+    {
+      "name": "GENTEX EUROPE",
+      "exhibitorUrl": "https://defenceleaders.com/exhibitors/gentex-europe/"
     },
     {
       "name": "GTA CONTAINERS",
@@ -384,6 +397,10 @@
     {
       "name": "TROLL SYSTEMS CORPORATION",
       "exhibitorUrl": "https://defenceleaders.com/exhibitors/troll-systems-corporation/"
+    },
+    {
+      "name": "VISION ENGINEERING",
+      "exhibitorUrl": "https://defenceleaders.com/exhibitors/vision-engineering/"
     }
   ]
 }
