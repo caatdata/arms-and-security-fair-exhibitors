@@ -12,7 +12,7 @@
   },
   "website": "http://feindef.com",
   "exhibitorListUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Search",
-  "exhibitorListDate": "2025-04-30T10:04:08+00:00",
+  "exhibitorListDate": "2025-06-03T11:56:26+00:00",
   "exhibitor": [
     {
       "name": "3CS ESTRATEGIA ECONÓMICA",
@@ -555,11 +555,15 @@
     {
       "name": "AERO GYROCOPTER SPAIN SA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4250250",
+      "website": "www.aerogyrocopterspain.com",
+      "category": [
+        "Aeroespacial"
+      ],
       "address": {
-        "text": "C/Pedro Rico 31 - bajo 1\nMadrid/Murcia\n28029\nMadrid\nEspaña",
+        "text": "Calle Cieza\nMolina De Segura\n30500\nMurcia\nREGIÓN DE MURCIA\nEspaña",
         "iso2": "ES",
-        "lat": 40.48464209999999,
-        "lon": -3.695306199999999
+        "lat": 38.0383733,
+        "lon": -1.1881932
       }
     },
     {
@@ -880,6 +884,30 @@
       ]
     },
     {
+      "name": "AISTER",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4257019",
+      "website": "https://aister.com/es/",
+      "category": [
+        "Naval"
+      ],
+      "address": {
+        "text": "Baixada do Cocho, 228\nMoaña\n36955\nPontevedra\nGALICIA\nEspaña",
+        "iso2": "ES",
+        "lat": 42.259454,
+        "lon": -8.6736388
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aister---aislamientos-t%C3%A9rmicos-de-galicia-sa/?viewAsMember=true"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@AisterShipyard"
+        }
+      ]
+    },
+    {
       "name": "AITEX",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4079239",
       "website": "http://www.aitex.es",
@@ -1017,6 +1045,20 @@
           "url": "https://www.instagram.com/aliot_innovacion?igsh=NHZ5Nm5scmc5aXg3"
         }
       ]
+    },
+    {
+      "name": "ALPHASIP",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4238904",
+      "website": "www.alphasip.es",
+      "category": [
+        "Armamento y Munición, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Logística, Auxiliar y Servicios, Naval, Tecnologías Duales Habilitadoras (*), Terrestre"
+      ],
+      "address": {
+        "text": "Calle Belgica 5, nave 3\nMonreal Del Campo\n44300\nTeruel\nARAGÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 41.70742060000001,
+        "lon": -1.0033882
+      }
     },
     {
       "name": "ALSETEX",
@@ -1532,17 +1574,6 @@
       ]
     },
     {
-      "name": "ASCLAN",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4238904",
-      "website": "www.alphasip.es",
-      "address": {
-        "text": "Calle Belgica 5, nave 3\nMonreal Del Campo\n44300\nTeruel\nARAGÓN\nEspaña",
-        "iso2": "ES",
-        "lat": 41.70742060000001,
-        "lon": -1.0033882
-      }
-    },
-    {
       "name": "ASECOS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4015711",
       "website": "www.asecos.com",
@@ -1571,6 +1602,20 @@
         "iso2": "ES",
         "lat": 37.8893025,
         "lon": -4.779275300000001
+      }
+    },
+    {
+      "name": "ASEMECO. Asociación Empresarios del Metal Mecánico, Tecnológico y Digital de Córdoba",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4065462",
+      "website": "http://www.asemeco.com",
+      "category": [
+        "Consultoría e Ingeniería, Logística, Auxiliar y Servicios"
+      ],
+      "address": {
+        "text": "JOSE GALVEZ ARANDA 31 PACELA B\n14014\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9034818,
+        "lon": -4.716480199999999
       }
     },
     {
@@ -1728,20 +1773,6 @@
         "iso2": "PT",
         "lat": 38.79479,
         "lon": -9.1123442
-      }
-    },
-    {
-      "name": "AYUNTAMIENTO DE CÓRDOBA",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4065462",
-      "website": "http://cordoba.es",
-      "category": [
-        "Terrestre"
-      ],
-      "address": {
-        "text": "Capitulares,1\nCórdoba\n14002\nCórdoba\nANDALUCÍA\nEspaña",
-        "iso2": "ES",
-        "lat": 37.8833812,
-        "lon": -4.770453
       }
     },
     {
@@ -2318,10 +2349,10 @@
         "Aeroespacial, Armamento y Munición, Electrónica, Comunicaciones y TIC, Logística, Auxiliar y Servicios, Naval, Terrestre"
       ],
       "address": {
-        "text": "Astute House, Rutherford Close,\nStevenage\nSG12 EF\nStevenage\nStevenage\nReino Unido",
-        "iso2": "GB",
-        "lat": 51.9071451,
-        "lon": -0.2223527
+        "text": "Av. Manoteras, 38 D005\nMadrid\n28050\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4867378,
+        "lon": -3.6656468
       },
       "social": [
         {
@@ -2427,6 +2458,42 @@
         {
           "platform": "youtube",
           "url": "https://www.youtube.com/@b2spaceltd502"
+        }
+      ]
+    },
+    {
+      "name": "BCN3D",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4253363",
+      "website": "https://www.bcn3d.com/es/contactar/",
+      "category": [
+        "Logística, Auxiliar y Servicios"
+      ],
+      "address": {
+        "text": "Polígono Activa Park, Carrer Térmens, 3\nLleida\n25191\nLleida\nCATALUÑA\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6128926,
+        "lon": 0.6628894
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bcn3dtechnologies/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/bcn3dtech"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/bcn3d-technologies/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bcn3dtech/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/REPRAPBCN"
         }
       ]
     },
@@ -2846,6 +2913,9 @@
       "name": "CAMARA DE COMERCIO DE CARTAGENA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921843",
       "website": "www.cocin-cartagena.es",
+      "category": [
+        "Logística, Auxiliar y Servicios"
+      ],
       "address": {
         "text": "CL. CONDUCTO, 5-1º\nCartagena\n30201\nMurcia\nREGIÓN DE MURCIA\nEspaña",
         "iso2": "ES",
@@ -2948,12 +3018,19 @@
     {
       "name": "CARROCERÍAS LA LLANA, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232220",
+      "website": "www.carroceriaslallana.com",
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Calle Ingeniero juan de la cierva\nCórdoba\n14013\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8565527,
+        "lon": -4.789522
+      },
+      "social": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/carrocerias_la_llana?utm_source=qr&igsh=MTcya2N3ZG5qM2kwYw=="
+        }
+      ]
     },
     {
       "name": "CASEMEDIA",
@@ -3229,6 +3306,9 @@
       "name": "CLIMADEF proyectos de climatización S.L.L",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921964",
       "website": "www.climadef.com",
+      "category": [
+        "Terrestre"
+      ],
       "address": {
         "text": "Calle Arroyo Fontarrón 53\nMadrid\n28030\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
@@ -3454,20 +3534,6 @@
       ]
     },
     {
-      "name": "CONECTORES Y CABLES VAHER, S.L",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921949",
-      "website": "www.vahersl.com",
-      "category": [
-        "Aeroespacial, Electrónica, Comunicaciones y TIC, Terrestre, Naval"
-      ],
-      "address": {
-        "text": "Calle Malcampo 14 (Local)\nMadrid\n28002\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
-        "iso2": "ES",
-        "lat": 40.445517,
-        "lon": -3.6737212
-      }
-    },
-    {
       "name": "CONFECCIONES OROEL",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4050208",
       "website": "https://oroel.com",
@@ -3612,6 +3678,38 @@
       ]
     },
     {
+      "name": "CORTEC MECANIZADOS",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4257337",
+      "website": "https://cortec.es",
+      "category": [
+        "Armamento y Munición, Naval, Tecnologías Duales Habilitadoras (*), Terrestre"
+      ],
+      "address": {
+        "text": "C/Suecia, 119 (Pol. Ind. Tecnocórdoba)\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8975354,
+        "lon": -4.7321588
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/CortecMecanizados/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/15089860/admin/dashboard/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cortecmecanizados/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@cortec9605"
+        }
+      ]
+    },
+    {
       "name": "CORVUS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4205483",
       "website": "www.corvus-utv.com",
@@ -3646,13 +3744,19 @@
     {
       "name": "COSIGEIN CSG INGENIERIA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232256",
+      "country": [
+        {
+          "text": "España",
+          "iso2": "ES"
+        },
+        {
+          "text": "España",
+          "iso2": "ES"
+        }
+      ],
       "category": [
         "Electrónica, Comunicaciones y TIC"
-      ],
-      "country": {
-        "text": "España",
-        "iso2": "ES"
-      }
+      ]
     },
     {
       "name": "COTECMAR",
@@ -3925,6 +4029,42 @@
       ]
     },
     {
+      "name": "Centro Tecnológico de las Materias Primas Minerales y Materiales",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4204301",
+      "website": "https://ctmarmol.es",
+      "category": [
+        "Tecnologías Duales Habilitadoras (*)"
+      ],
+      "address": {
+        "text": "Ctra. Murcia, s/n, Cehegín, Murcia\nCehegín\n30430\nMurcia\nREGIÓN DE MURCIA\nEspaña",
+        "iso2": "ES",
+        "lat": 38.0903724,
+        "lon": -1.7964095
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/CTMARMOL/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/ctmarmol"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ctmarmol"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ctmarmol/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@CTMARMOL#:~:text=Canal%20oficial%20del%20Centro%20Tec.%20del%20M%C3%A1rmol,%20Piedra%20y"
+        }
+      ]
+    },
+    {
       "name": "Centro Tecnológico del Metal de la Región de Murcia.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4204302",
       "website": "https://ctmetal.es",
@@ -3933,17 +4073,6 @@
         "iso2": "ES",
         "lat": 37.9486518,
         "lon": -1.1770765
-      }
-    },
-    {
-      "name": "Centro Tecnológico del Mármol, la Piedra y materiales de la Región de Murcia.",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4204301",
-      "website": "https://ctmarmol.es",
-      "address": {
-        "text": "Ctra. Murcia, s/n - Pol. Ind. El Matadero.\nCehegín\n30340\nMurcia\nEspaña",
-        "iso2": "ES",
-        "lat": 38.0922055,
-        "lon": -1.7963757
       }
     },
     {
@@ -3961,15 +4090,24 @@
       }
     },
     {
-      "name": "Cintranaval Ship Design",
+      "name": "Cintranaval Group",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4163636",
       "website": "http://www.cintranaval.com",
+      "category": [
+        "Consultoría e Ingeniería, Naval"
+      ],
       "address": {
-        "text": "Lauroeta Etorbidea, 4\nLoiu\n48180\nBizkaia\nEspaña",
+        "text": "Lauroeta Etorbidea, 4\nLoiu\n48180\nBizkaia\nPAÍS VASCO\nEspaña",
         "iso2": "ES",
-        "lat": 43.3141057,
-        "lon": -2.9211851
-      }
+        "lat": 43.2936164,
+        "lon": -2.9895822
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cintranaval-defcar-s-l-"
+        }
+      ]
     },
     {
       "name": "Cisco Systems",
@@ -3996,26 +4134,6 @@
         {
           "platform": "youtube",
           "url": "https://www.youtube.com/@CiscoSystems"
-        }
-      ]
-    },
-    {
-      "name": "Coges",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4219521",
-      "website": "http://www.coges.com",
-      "category": [
-        "Logística, Auxiliar y Servicios"
-      ],
-      "address": {
-        "text": "39 Rue Mstislav Rostropovitch\nParis\n75017\nFrance\nFrancia",
-        "iso2": "FR",
-        "lat": 48.8899647,
-        "lon": 2.3121367
-      },
-      "social": [
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/coges/"
         }
       ]
     },
@@ -4072,15 +4190,21 @@
       ]
     },
     {
-      "name": "Consejería de Industria, Energía y Minas. Secretaría General de Industria y Minas. Junta de Andalucí",
+      "name": "Consejería de Industria, Energía y Minas. Junta de Andalucía",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4243224",
       "website": "https://juntadeandalucia.es/organismos/industriaenergiayminas.html",
       "address": {
-        "text": "C/ Johannes Kepler, 1\nSevilla\n41092\nSevilla\nEspaña",
+        "text": "C/ Johannes Kepler, 1\n41092\nEspaña",
         "iso2": "ES",
         "lat": 37.4090394,
         "lon": -6.0041949
-      }
+      },
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/IndustriaAnd"
+        }
+      ]
     },
     {
       "name": "Corimec SpA",
@@ -4326,7 +4450,13 @@
         "iso2": "ES",
         "lat": 43.529656,
         "lon": -8.1748313
-      }
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://es.linkedin.com/company/detegasain"
+        }
+      ]
     },
     {
       "name": "DHV TECHNOLOGY",
@@ -4400,6 +4530,9 @@
       "name": "DINUMEC, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922043",
       "website": "http://www.dinumec.com",
+      "category": [
+        "Aeroespacial"
+      ],
       "address": {
         "text": "Calle Francisco Alonso 15, Nave 13-F\nAlcalá De Henares\n28806\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
@@ -4468,6 +4601,19 @@
         "iso2": "FR",
         "lat": 47.33982580000001,
         "lon": 6.167735
+      }
+    },
+    {
+      "name": "DJI Enterprise / Owo Defense",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4253364",
+      "category": [
+        "Aeroespacial, Terrestre"
+      ],
+      "address": {
+        "text": "Calle Rosalind Franklin, 26\nGetafe\n28906\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.2844769,
+        "lon": -3.6846335
       }
     },
     {
@@ -4756,9 +4902,12 @@
     {
       "name": "Datatec Instruments",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921954",
-      "website": "https://tienda.datatec.es",
+      "website": "https://datatec.es/es/",
+      "category": [
+        "Electrónica, Comunicaciones y TIC"
+      ],
       "address": {
-        "text": "Cl Manuel Tovar 36 1 Iz\nMadrid\n28034\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "text": "Calle Manuel Tovar 36\nMadrid\n28034\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
         "lat": 40.4890599,
         "lon": -3.691068699999999
@@ -4852,6 +5001,10 @@
     {
       "name": "E&Q",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4220472",
+      "website": "www.eqeng.com",
+      "category": [
+        "Aeroespacial, Consultoría e Ingeniería, Tecnologías Duales Habilitadoras (*)"
+      ],
       "address": {
         "text": "Plaza del 11 de marzo 2\nAlcalá De Henares\n28807\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
@@ -4860,11 +5013,11 @@
       }
     },
     {
-      "name": "E-lightHouse Network Solutions",
+      "name": "E-lighthouse Network Solutions",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4245531",
       "website": "https://www.e-lighthouse.com",
       "category": [
-        "Electrónica, Comunicaciones y TIC"
+        "Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC"
       ],
       "address": {
         "text": "C/Carlos III 42 2ºC\nCartagena\n30203\nMurcia\nREGIÓN DE MURCIA\nEspaña",
@@ -4887,12 +5040,25 @@
       "name": "E.M.C ELEKTRONIK INS. SAN. VE TIC. LTD. STI.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4241236",
       "website": "http://www.emcelectronic.com",
+      "category": [
+        "Electrónica, Comunicaciones y TIC"
+      ],
       "address": {
         "text": "SULTANORHAN MAH. HASKÖY SAN. SIT. IDARI BINA NO:16/13 GEBZE - KOCAELI\nGebze\n41470\nKocaeli\nTurquía",
         "iso2": "TR",
         "lat": 40.8047455,
         "lon": 29.4706971
-      }
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/emcturkey"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@emctestvekontrolhizmetleri7839"
+        }
+      ]
     },
     {
       "name": "EBROACERO, S.A.",
@@ -4965,7 +5131,7 @@
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235719",
       "website": "https://edgegroup.ae",
       "category": [
-        "Aeroespacial, Armamento y Munición, Terrestre, Naval"
+        "Aeroespacial, Armamento y Munición, Naval, Terrestre"
       ],
       "address": {
         "text": "Al Raha\nAl Raha\n43221\nUnited Arab Emirates\nAbu Dhabi\nEmiratos Árabes Unidos",
@@ -5351,19 +5517,45 @@
     {
       "name": "EMBACOR",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232408",
+      "website": "https://embacor.com",
+      "category": [
+        "Logística, Auxiliar y Servicios"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Polg. Tecnocórdoba, C/ Estonia Parc. 155 Nave 16,\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8993672,
+        "lon": -4.7305532
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/embacor.envasesyembalajescordobeses/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/embacor"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://es.linkedin.com/company/embacor"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/embacorcordoba/?hl=es"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@embacorembalajedeproteccio2072/videos"
+        }
+      ]
     },
     {
       "name": "EMIRATES DEFENSE COMPANIES COUNCIL",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235989",
       "website": "https://www.edcc.gov.ae",
       "address": {
-        "text": "Mamoura B, Al Nahyan, Abu Dhabi\nAbu Dhabi\n000\nAbu Dhabi\nEmiratos Árabes Unidos",
+        "text": "Mamoura B, Al Nahyan, Abu Dhabi\nAbu Dhabi\n000\nAbu Dhabi\nAbu Dhabi\nEmiratos Árabes Unidos",
         "iso2": "AE",
         "lat": 24.4640045,
         "lon": 54.3876006
@@ -5411,6 +5603,30 @@
         {
           "platform": "facebook",
           "url": "https://www.facebook.com/Encaja360"
+        }
+      ]
+    },
+    {
+      "name": "EONESIA",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4257340",
+      "website": "https://www.eonesia.com",
+      "category": [
+        "Consultoría e Ingeniería, Tecnologías Duales Habilitadoras (*), Terrestre"
+      ],
+      "address": {
+        "text": "Calle Ebro 9\nCórdoba\n14012\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9127331,
+        "lon": -4.7983563
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/eonesia"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/@eonesia_world"
         }
       ]
     },
@@ -5730,14 +5946,24 @@
       }
     },
     {
-      "name": "EUROPA INOVA GROUP",
+      "name": "EUROPA INNOVA GROUP",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232438",
+      "website": "https://europainnovagroup.eu",
+      "category": [
+        "Consultoría e Ingeniería"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Ingeniero Barbudo, S/N\nCórdoba\n14013\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8459924,
+        "lon": -4.7973161
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/consultor-licitaciones-publicas"
+        }
+      ]
     },
     {
       "name": "EXIDES, SL",
@@ -6120,6 +6346,20 @@
       ]
     },
     {
+      "name": "Explostop Protection SL / GeoTool Box Ibérica, SL",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4236912",
+      "website": "https://www.explostop.com / www.gtbi.net",
+      "category": [
+        "Electrónica, Comunicaciones y TIC, Logística, Auxiliar y Servicios"
+      ],
+      "address": {
+        "text": "CALLE URANO 21B\nMóstoles\n28936\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3114132,
+        "lon": -3.842575999999999
+      }
+    },
+    {
       "name": "Extremadura Avante SAP SLU",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173774",
       "website": "http://www.extremaduraavante.es",
@@ -6290,7 +6530,7 @@
       }
     },
     {
-      "name": "FCC ÁMBITO SAU",
+      "name": "FCC ÁMBITO",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232439",
       "website": "WWW.FCCAMBITO.COM",
       "category": [
@@ -6411,12 +6651,21 @@
       "name": "FIDAMC",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4250802",
       "website": "http://WWW.FIDAMC.ES",
+      "category": [
+        "Aeroespacial"
+      ],
       "address": {
-        "text": "AVDA RITA LEVI MONTALCINI 29\nGetafe\n28906\nMadrid\nEspaña",
+        "text": "AVDA RITA LEVI MONTALCINI 29\nGetafe\n28906\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
-        "lat": 40.2742666,
-        "lon": -3.7273584
-      }
+        "lat": 40.2747163,
+        "lon": -3.7285976
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/fidamc-composites-madrid/posts/?feedView=all"
+        }
+      ]
     },
     {
       "name": "FIGLES Consulting",
@@ -7226,6 +7475,19 @@
       }
     },
     {
+      "name": "GRUPO AMI EQUIPAMIENTO S.L",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921993",
+      "category": [
+        "Logística, Auxiliar y Servicios, Terrestre"
+      ],
+      "address": {
+        "text": "Calle Parsi 9 nave 11\nSevilla\n41016\nSevilla\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.3748279,
+        "lon": -5.9179372
+      }
+    },
+    {
       "name": "GRUPO AMYGO",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922064",
       "website": "https://www.grupoamygo.com",
@@ -7300,10 +7562,30 @@
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "country": {
-        "text": "GRUPO PEÑA\nAJ3A9WC\nEspaña",
-        "iso2": "ES"
-      }
+      "address": {
+        "text": "GRUPO PEÑA\nCórdoba\n14013\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8560107,
+        "lon": -4.7935911
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/GPAutomocion1971/?locale=es_LA"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://es.linkedin.com/company/grupo-pe%C3%B1a-automoci%C3%B3n-sl"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gpautomocion_/?hl=es"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCBrBnNLxe0ORn5hnz-cCLiw"
+        }
+      ]
     },
     {
       "name": "GRUPO ZELENZA",
@@ -7344,6 +7626,9 @@
       "name": "GUARNECIDOS Y TRANSFORMACIONES DE VEHICULOS. SL",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4219840",
       "website": "http://www.gtvballistic.com",
+      "category": [
+        "Naval"
+      ],
       "address": {
         "text": "Calle Oriente, 14\nAjalvir\n28864\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
@@ -7505,6 +7790,9 @@
       "name": "Gradiant",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922053",
       "website": "https://www.gradiant.org",
+      "category": [
+        "Electrónica, Comunicaciones y TIC"
+      ],
       "address": {
         "text": "Carretera do Vilar, 56-58\nVigo\n36214\nPontevedra\nGALICIA\nEspaña",
         "iso2": "ES",
@@ -7994,23 +8282,44 @@
     {
       "name": "IBP ATCOSA S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232444",
+      "website": "https://conexbanninger.com/es/",
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "IBP Atcosa, S.l. Fábrica: Polígono Industrial, Quintos-Aeropuerto,14005 CÓRDOBA\nCórdoba\n14005\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8519471,
+        "lon": -4.8625444
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/conexbanningeres/posts/?feedView=all"
+        }
+      ]
     },
     {
       "name": "ICC – Indústria e Comercio de Calçado S.A.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234461",
       "website": "https://lavoroeurope.com",
       "address": {
-        "text": "Rua Sol Pinheiro, 4810-718 Guimarães\nGuimarães\n4810-718\nGuimarães",
+        "text": "Rua Sol Pinheiro, 4810-718 Guimarães\nGuimarães\n4810-718\nGuimarães\nPortugal",
         "iso2": "PT",
         "lat": 41.4155778,
         "lon": -8.2905697
-      }
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lavoroeurope"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/lavoro-europe-532b23273/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lavoroeurope/"
+        }
+      ]
     },
     {
       "name": "ICEYE",
@@ -8079,12 +8388,22 @@
     {
       "name": "ICT EXPORT EASY, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4232445",
+      "website": "https://www.ictexporta.com",
+      "category": [
+        "Consultoría e Ingeniería"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Av. Ronda de los Tejares, 4, ESC.B 4.1B, Centro, 14001 Córdoba\nCórdoba\n14001\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8892797,
+        "lon": -4.7799518
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://es.linkedin.com/company/ictexporteasy"
+        }
+      ]
     },
     {
       "name": "IDBOTIC",
@@ -8199,37 +8518,15 @@
     },
     {
       "name": "INDRA",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922040",
-      "website": "www.indracompany.com",
-      "category": [
-        "Aeroespacial, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Naval, Terrestre"
-      ],
-      "address": {
-        "text": "Avda. Bruselas, 35\nAlcobendas\n28108\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
-        "iso2": "ES",
-        "lat": 40.5290729,
-        "lon": -3.641366
-      },
-      "social": [
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4283304",
+      "country": [
         {
-          "platform": "facebook",
-          "url": "https://www.facebook.com/indracompany/"
+          "text": "España",
+          "iso2": "ES"
         },
         {
-          "platform": "twitter",
-          "url": "https://x.com/IndraCompany"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/indra/"
-        },
-        {
-          "platform": "instagram",
-          "url": "https://www.instagram.com/indracompany/"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/@theindracompany"
+          "text": "España",
+          "iso2": "ES"
         }
       ]
     },
@@ -8394,7 +8691,7 @@
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921877",
       "website": "www.inmapa.com",
       "category": [
-        "Terrestre"
+        "Aeroespacial, Terrestre"
       ],
       "address": {
         "text": "Ctra. Palencia-Magaz, KM 2.5\nVillamuriel De Cerrato\n34190\nPalencia\nCASTILLA Y LEÓN\nEspaña",
@@ -8507,6 +8804,9 @@
       "name": "INSYTE",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921900",
       "website": "www.insyte.es",
+      "category": [
+        "Electrónica, Comunicaciones y TIC"
+      ],
       "address": {
         "text": "C/ Calidad, 6 PI Los Olivos\nGetafe\n28906\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
@@ -8633,7 +8933,7 @@
         "Consultoría e Ingeniería, Naval, Terrestre"
       ],
       "address": {
-        "text": "17. Cd. No:38 Baskent OSB\nAnkara\n06909\nSincan\nTurquía",
+        "text": "17. Cd. No:38 Baskent OSB\nAnkara\n06909\nSincan\nANKARA\nTurquía",
         "iso2": "TR",
         "lat": 39.793734,
         "lon": 32.3849877
@@ -8678,14 +8978,38 @@
       }
     },
     {
+      "name": "ISDEFE",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4283305",
+      "country": [
+        {
+          "text": "España",
+          "iso2": "ES"
+        },
+        {
+          "text": "España",
+          "iso2": "ES"
+        }
+      ]
+    },
+    {
       "name": "ISOIN",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234953",
+      "website": "www.isoin.es",
+      "category": [
+        "Consultoría e Ingeniería"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "C/ Astronomía, 1, Torre 4, Planta 3ª\nSevilla\n41015\nSevilla\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.4250805,
+        "lon": -5.974674299999999
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/search/results/all/?keywords=isoin&origin=GLOBAL_SEARCH_HEADER&sid=iGd"
+        }
+      ]
     },
     {
       "name": "ITG",
@@ -8848,12 +9172,29 @@
       "name": "Indumil",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4250801",
       "website": "https://www.indumil.gov.co",
+      "category": [
+        "Armamento y Munición"
+      ],
       "address": {
-        "text": "Calle 44 #54-11\nBogotá D.C.\n111321\nBogotá D.C.\nColombia",
+        "text": "Calle 44 #54-11\nBogotá D.C.\n111321\nBogotá D.C.\nBogotá D.C.\nColombia",
         "iso2": "CO",
         "lat": 4.6454156,
         "lon": -74.0922745
-      }
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/industriamilitar/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/indumilcolombia/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@indumilcolombia9063/featured"
+        }
+      ]
     },
     {
       "name": "Infranor",
@@ -8874,6 +9215,17 @@
           "url": "https://www.linkedin.com/company/infranorspain"
         }
       ]
+    },
+    {
+      "name": "Inmobiliaria Tucasacórdoba",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235677",
+      "website": "www.tucasacordoba.com",
+      "address": {
+        "text": "Calle Cruz Conde 24 1º derecha\nCórdoba\n14001\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8875287,
+        "lon": -4.7806861
+      }
     },
     {
       "name": "Interface Concept",
@@ -9319,7 +9671,13 @@
         "iso2": "ES",
         "lat": 41.4004555,
         "lon": 2.0281112
-      }
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kinnetekmotion"
+        }
+      ]
     },
     {
       "name": "Kongsberg Defence & Aerospace",
@@ -9404,11 +9762,12 @@
     {
       "name": "LAGAIN PROFESSIONAL SL",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234955",
+      "website": "www.lagain.com",
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "C/ ESTONIA NAVE 76, POLIGONO INDUSTRIAL TECNOCORDOBA\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
+        "lat": 37.8993672,
+        "lon": -4.7305532
       }
     },
     {
@@ -10000,6 +10359,35 @@
       ]
     },
     {
+      "name": "METALCÓRDOBA",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4257345",
+      "website": "https://www.metalcordoba.com",
+      "address": {
+        "text": "PI TECNOCORDOBA CALLE NORUEGA / PARCELA 180-181\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.898626,
+        "lon": -4.7386663
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100066850560170"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/home"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/metalcordoba/posts/?feedView=all"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/metalcordoba/"
+        }
+      ]
+    },
+    {
       "name": "MICHELIN",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4152597",
       "website": "pro.michelin.es",
@@ -10096,7 +10484,7 @@
       }
     },
     {
-      "name": "MINISTERIO DE DEFENSA DEL REPUBLICA DEL PERÚ",
+      "name": "MINISTERIO DE DEFENSA DE LA REPÚBLICA DEL PERÚ",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4220270",
       "website": "https://www.gob.pe/mindef",
       "category": [
@@ -10116,6 +10504,20 @@
         {
           "platform": "youtube",
           "url": "https://www.youtube.com/@mindef1000"
+        }
+      ]
+    },
+    {
+      "name": "MONODON",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4283301",
+      "country": [
+        {
+          "text": "España",
+          "iso2": "ES"
+        },
+        {
+          "text": "España",
+          "iso2": "ES"
         }
       ]
     },
@@ -10341,6 +10743,9 @@
       "name": "Mecánicas Bolea, SA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4206174",
       "website": "https://mecanicasbolea.com",
+      "category": [
+        "Aeroespacial, Logística, Auxiliar y Servicios, Naval"
+      ],
       "address": {
         "text": "Avda Bruselas, 101. Pol Cabezo Beaza (Cartagena)\n30353\nEspaña",
         "iso2": "ES",
@@ -10351,6 +10756,10 @@
         {
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/mecanicasbolea/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@mecanicasbolea333/videos"
         }
       ]
     },
@@ -10425,6 +10834,16 @@
         }
       ],
       "website": "www.mintur.gob.es/"
+    },
+    {
+      "name": "Ministerio del Interior - Secretaría de Estado de Seguridad",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4269814",
+      "address": {
+        "text": "Amador de los Ríos, 7\nMadrid\n28010\nMadrid\nEspaña",
+        "iso2": "ES",
+        "lat": 40.427448,
+        "lon": -3.6913659
+      }
     },
     {
       "name": "Miranda Spólka z o.o.",
@@ -10957,13 +11376,22 @@
     {
       "name": "Neoradix Solutions",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4206178",
-      "website": "http://www.neoradixsolutions.com",
+      "website": "www.neoradixsolutions.com/",
+      "category": [
+        "Tecnologías Duales Habilitadoras (*)"
+      ],
       "address": {
-        "text": "Pol. Industrial Alcantarilla , 11b. Cl Paraguay\nMurcia\n308820\nMurcia\nEspaña",
+        "text": "Pol. Industrial Alcantarilla , 11b. Cl Paraguay\n308820\nEspaña",
         "iso2": "ES",
         "lat": 37.9620808,
         "lon": -1.1952959
-      }
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/neoradixsolutions/?viewAsMember=true"
+        }
+      ]
     },
     {
       "name": "Next Level Technologies",
@@ -11718,10 +12146,6 @@
         {
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/plus-ultra-tactical-rescue/"
-        },
-        {
-          "platform": "youtube",
-          "url": "https://www.youtube.com/user/viatorplusultra/videos"
         }
       ]
     },
@@ -11847,6 +12271,26 @@
       }
     },
     {
+      "name": "PROSIX",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4219521",
+      "website": "www.prosix.es",
+      "category": [
+        "Aeroespacial, Consultoría e Ingeniería"
+      ],
+      "address": {
+        "text": "9 Rue Pierre Georges Latecoere, 64100 Bayonne, Francia\nBayonne\n64100\nFrance\nFrancia",
+        "iso2": "FR",
+        "lat": 43.4648665,
+        "lon": -1.4929608
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/77574829/admin/dashboard/"
+        }
+      ]
+    },
+    {
       "name": "PROSIX FRANCE",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4219883",
       "website": "https://www.prosix.es",
@@ -11878,10 +12322,10 @@
         "Consultoría e Ingeniería"
       ],
       "address": {
-        "text": "Calle Maldonado 4\nMadrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "text": "Madrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
         "iso2": "ES",
-        "lat": 40.4339083,
-        "lon": -3.6857314
+        "lat": 40.4351996,
+        "lon": -3.68134
       },
       "social": [
         {
@@ -11983,14 +12427,14 @@
       ]
     },
     {
-      "name": "Pewag",
+      "name": "Pewag Portugal, Lda.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234369",
       "website": "https://www.pewag.com/pt/",
       "address": {
-        "text": "R. Francisco Canas, Nº 23, Fracção BC,\nLoures\n2660-500\nLoures",
+        "text": "R. Francisco Canas, Nº 23, Fracção BC,\nLoures\n2660-500 SANTO ANTÃO DO TOJAL\nLoures\nPortugal",
         "iso2": "PT",
-        "lat": 38.8471245,
-        "lon": -9.1716157
+        "lat": 38.8454235,
+        "lon": -9.1715634
       }
     },
     {
@@ -12158,13 +12602,17 @@
       }
     },
     {
-      "name": "QUALICA-RD",
+      "name": "QUALICA-RD S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235665",
+      "website": "www.qualicard.eu",
+      "category": [
+        "Logística, Auxiliar y Servicios"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Pasaje Balcón de Lagartijo, 31-33-35\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
+        "lat": 37.9006106,
+        "lon": -4.7309641
       }
     },
     {
@@ -12247,12 +12695,22 @@
     {
       "name": "RECAMBIOS OCHO RUEDAS, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235666",
+      "website": "WWW.RECAMBIOSOCHORUEDAS.COM",
+      "category": [
+        "Logística, Auxiliar y Servicios"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "C/INGENIERO TORROJA Y MIRET PARC 20 NAVE 3-4 LA TORRECILLA\nCórdoba\n14013\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.8527187,
+        "lon": -4.7985335
+      },
+      "social": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/@RECAMBIOSOCHORUEDAS"
+        }
+      ]
     },
     {
       "name": "RELSUM HEREDEROS, S.L.",
@@ -12439,12 +12897,30 @@
     {
       "name": "ROTHER INDUSTRIES & TECHNOLOGY S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235667",
+      "website": "www.rotherindustrial.es",
+      "category": [
+        "Electrónica, Comunicaciones y TIC, Logística, Auxiliar y Servicios, Terrestre"
+      ],
       "address": {
-        "text": "Córdoba\nEspaña",
+        "text": "Pol.lndustrial la Quemadas Calle Fausto Garcia Tena 16 C-D\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
         "iso2": "ES",
-        "lat": 37.8893025,
-        "lon": -4.779275300000001
-      }
+        "lat": 37.9058609,
+        "lon": -4.7210768
+      },
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/RotherIT/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/rother-industries-technology/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rotherindustrial/"
+        }
+      ]
     },
     {
       "name": "RapidFort",
@@ -12570,10 +13046,10 @@
         "Aeroespacial, Armamento y Munición, Terrestre, Naval"
       ],
       "address": {
-        "text": "Düsseldorf\nDüsseldorf\n40476\nDüsseldorf\nNRW\nAlemania",
+        "text": "Rheinmetall Platz 1\nDuesseldorf\n40476\nGermany\nNRW\nAlemania",
         "iso2": "DE",
-        "lat": 51.248009,
-        "lon": 6.7790167
+        "lat": 51.2535853,
+        "lon": 6.7856562
       },
       "social": [
         {
@@ -13057,6 +13533,17 @@
       ]
     },
     {
+      "name": "SEADRONE S.L.",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173942",
+      "website": "www.zelenza.com",
+      "address": {
+        "text": "AVENIDA SAN DIEGO 1\n28053\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3896752,
+        "lon": -3.6713579
+      }
+    },
+    {
       "name": "SEKUENS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4074051",
       "website": "https://www.idepa.es/agencia_sekuens",
@@ -13208,7 +13695,7 @@
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922080",
       "website": "http://www.sicnova3d.com",
       "category": [
-        "Armamento y Munición"
+        "Aeroespacial, Consultoría e Ingeniería, Logística, Auxiliar y Servicios, Naval, Tecnologías Duales Habilitadoras (*), Terrestre"
       ],
       "address": {
         "text": "Polígono Industrial Los Rubiales, Calle 3 Nave 7\nLinares\n23700\nJaén\nANDALUCÍA\nEspaña",
@@ -13257,10 +13744,10 @@
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4214281",
       "website": "https://www.sim-tek.com.tr",
       "category": [
-        "Aeroespacial, Electrónica, Comunicaciones y TIC, Terrestre, Logística, Auxiliar y Servicios"
+        "Aeroespacial, Electrónica, Comunicaciones y TIC, Logística, Auxiliar y Servicios, Terrestre"
       ],
       "address": {
-        "text": "Üniversiteler Mahallesi 1596. Cadde Hacettepe Teknokent 6. Ar-Ge C Blok No: 6C/77 Beytepe Çankaya/Ankara TÜRKIYE\nAnkara\n6800\nAnkara\nTurquía",
+        "text": "Üniversiteler Mahallesi 1596. Cadde Hacettepe Teknokent 6. Ar-Ge C Blok No: 6C/77 Beytepe Çankaya/Ankara TÜRKIYE\nAnkara\n6800\nAnkara\nANKARA\nTurquía",
         "iso2": "TR",
         "lat": 39.9049915,
         "lon": 32.7328714
@@ -13301,10 +13788,6 @@
       },
       "social": [
         {
-          "platform": "twitter",
-          "url": "https://x.com/Sitep_Com"
-        },
-        {
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/sitep/"
         },
@@ -13339,7 +13822,7 @@
       ]
     },
     {
-      "name": "SMS - SISTEMAS MISILES ESPAÑA",
+      "name": "SMS - SISTEMAS DE MISILES ESPAÑA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4074053",
       "website": "www.sms-defensa.es",
       "category": [
@@ -13936,12 +14419,16 @@
     {
       "name": "SpanSet",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922099",
-      "country": "España",
       "website": "http://www.spanset.es",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "Pol. Ind. 7 - Barrio Agaratiz s/n\nVillabona\n20150\nGipuzkoa\nPAÍS VASCO\nEspaña",
+      "address": {
+        "text": "Pol. Ind. 7 - Barrio Agaratiz s/n\nVillabona\n20150\nGipuzkoa\nPAÍS VASCO\nEspaña",
+        "iso2": "ES",
+        "lat": 43.1869294,
+        "lon": -2.0525483
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -13953,7 +14440,23 @@
       "name": "Submëtrika",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4226982",
       "website": "www.submetrika.com",
-      "address": "Plaza Aragón 3\nZaragoza\n50004\nZaragoza\nEspaña"
+      "address": {
+        "text": "Plaza Aragón 3\nZaragoza\n50004\nZaragoza\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6482728,
+        "lon": -0.8841677000000001
+      }
+    },
+    {
+      "name": "Swarming Technologies and Solutions",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173943",
+      "website": "www.zelenza.com",
+      "address": {
+        "text": "AVENIDA SAN DIEGO 1\n28053\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3896752,
+        "lon": -3.6713579
+      }
     },
     {
       "name": "TALLERES CORRAL",
@@ -13962,7 +14465,12 @@
       "category": [
         "Terrestre"
       ],
-      "address": "Ctra. Palma del Rio, km 11.500\nCórdoba\n14711\nCórdoba\nANDALUCÍA\nEspaña",
+      "address": {
+        "text": "Ctra. Palma del Rio, km 11.500\nCórdoba\n14711\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8708942,
+        "lon": -4.8635614
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -13973,22 +14481,30 @@
     {
       "name": "TCH SPAIN",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921901",
-      "country": "España",
       "website": "https://www.tchspain.com",
       "category": [
         "Armamento y Munición"
       ],
-      "address": "calle helsinki 1\nRozas De Madrid, Las\n28232\nMadrid\nCOMUNIDAD DE MADRID\nEspaña"
+      "address": {
+        "text": "calle helsinki 1\nRozas De Madrid, Las\n28232\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.50079909999999,
+        "lon": -3.890656
+      }
     },
     {
       "name": "TECHNOLOGY & SECURITY DEVELOPMENTS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922026",
-      "country": "España",
       "website": "http://WWW.TSDINTERNATIONAL.COM",
       "category": [
         "Terrestre"
       ],
-      "address": "Pol. Ind. C/ Los Jaboneros, 14\nHerencia\n13640\nCiudad Real\nCASTILLA-LA MANCHA\nEspaña",
+      "address": {
+        "text": "Pol. Ind. C/ Los Jaboneros, 14\nHerencia\n13640\nCiudad Real\nCASTILLA-LA MANCHA\nEspaña",
+        "iso2": "ES",
+        "lat": 39.3769537,
+        "lon": -3.3424956
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14007,22 +14523,30 @@
     {
       "name": "TECNASA | COECA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173958",
-      "country": "España",
       "website": "https://www.tecnasa.com.es",
       "category": [
         "Aeroespacial, Terrestre"
       ],
-      "address": "Pol. Ind. de Jundiz-Zurrupitieta, 7\nVitoria-Gasteiz\n01015\nAraba/Álava\nPAÍS VASCO\nEspaña"
+      "address": {
+        "text": "Pol. Ind. de Jundiz-Zurrupitieta, 7\nVitoria-Gasteiz\n01015\nAraba/Álava\nPAÍS VASCO\nEspaña",
+        "iso2": "ES",
+        "lat": 42.8361441,
+        "lon": -2.7331928
+      }
     },
     {
       "name": "TECNESIS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4059956",
-      "country": "España",
-      "website": "https://t3k.es",
+      "website": "www.tecnesis.es",
       "category": [
         "Armamento y Munición, Consultoría e Ingeniería"
       ],
-      "address": "C/ José Ortega y Gasset, 34\nMadrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "C/ José Ortega y Gasset, 34 1ºE\nMadrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4299874,
+        "lon": -3.6808178
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14037,12 +14561,16 @@
     {
       "name": "TECNOBIT - GRUPO OESÍA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4188569",
-      "country": "España",
       "website": "grupooesia.com",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Marie Curie, 19, Edificio II\nRivas-Vaciamadrid\n28521\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "Marie Curie, 19, Edificio II\nRivas-Vaciamadrid\n28521\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3366289,
+        "lon": -3.5227285
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14069,12 +14597,16 @@
     {
       "name": "TECNOLANEMA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4050210",
-      "country": "Portugal",
       "website": "http://www.tecnolanema.pt",
       "category": [
-        "Aeroespacial"
+        "Aeroespacial, Armamento y Munición, Consultoría e Ingeniería, Logística, Auxiliar y Servicios, Naval"
       ],
-      "address": "Zona Industrial de Ovar, Rua do Brasil 143\nOvar\n3880-108\nAveiro\nPortugal\nPortugal",
+      "address": {
+        "text": "Zona Industrial de Ovar, Rua do Brasil 143\nOvar\n3880-108\nAveiro\nPortugal\nPortugal",
+        "iso2": "PT",
+        "lat": 40.8821453,
+        "lon": -8.6248449
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14105,7 +14637,12 @@
       "category": [
         "Logística, Auxiliar y Servicios, Terrestre"
       ],
-      "address": "Avd. Alcázar, 6, Herencia, Ciudad Real\nHerencia\n13640\nCiudad Real\nCASTILLA-LA MANCHA\nEspaña",
+      "address": {
+        "text": "Avd. Alcázar, 6, Herencia, Ciudad Real\nHerencia\n13640\nCiudad Real\nCASTILLA-LA MANCHA\nEspaña",
+        "iso2": "ES",
+        "lat": 39.3690979,
+        "lon": -3.3524704
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14124,12 +14661,16 @@
     {
       "name": "TEKOM SAVUNMA VE HAVACILIK SANAYI A.S",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4176683",
-      "country": "Turquía",
       "website": "http://www.tekom.com.tr",
       "category": [
         "Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Terrestre"
       ],
-      "address": "ERTUGRULGAZI MAHALLESI DOGANLAR SOKAK NO 27/A KARTEPE\nKartepe/Kocaeli\n41130\nKocaeli\nKOCAELI\nTurquía",
+      "address": {
+        "text": "ERTUGRULGAZI MAHALLESI DOGANLAR SOKAK NO 27/A KARTEPE\nKartepe/Kocaeli\n41130\nKocaeli\nKOCAELI\nTurquía",
+        "iso2": "TR",
+        "lat": 40.7760697,
+        "lon": 29.9545944
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14148,29 +14689,41 @@
     {
       "name": "TELEFÓNICA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922062",
-      "country": "España",
       "website": "www.telefonica.com",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Gran Vía, 28\nMadrid\n28013\nMadrid\nCOMUNIDAD DE MADRID\nEspaña"
+      "address": {
+        "text": "Gran Vía, 28\nMadrid\n28013\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4202714,
+        "lon": -3.7017719
+      }
     },
     {
       "name": "TESS-Defence",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921867",
-      "country": "España",
       "website": "https://tess-defence.es",
       "category": [
         "Terrestre"
       ],
-      "address": "Agustín de Foxá 29 - 9 A\nMadrid\n28036\nMadrid\nCOMUNIDAD DE MADRID\nEspaña"
+      "address": {
+        "text": "Agustín de Foxá 29 - 9 A\nMadrid\n28036\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4712828,
+        "lon": -3.6849274
+      }
     },
     {
       "name": "TEXTIL SANTANDERINA, S.A.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922111",
-      "country": "España",
       "website": "http://www.techs.es",
-      "address": "Avda Textil Santanderina\n39500\nEspaña",
+      "address": {
+        "text": "Avda Textil Santanderina\n39500\nEspaña",
+        "iso2": "ES",
+        "lat": 43.3089301,
+        "lon": -4.229663
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14181,12 +14734,16 @@
     {
       "name": "THALES",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922096",
-      "country": "España",
       "website": "www.thalesgroup.com",
       "category": [
         "Aeroespacial, Electrónica, Comunicaciones y TIC, Terrestre, Naval"
       ],
-      "address": "Calle Diego Marín Aguilera 1\nLeganés\n28919\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "Calle Diego Marín Aguilera 1\nLeganés\n28919\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3561348,
+        "lon": -3.7460642
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14205,7 +14762,12 @@
       "category": [
         "Armamento y Munición"
       ],
-      "address": "830 Route Nationale\nPuybrun\n46130\nFrancia",
+      "address": {
+        "text": "830 Route Nationale\nPuybrun\n46130\nFrancia",
+        "iso2": "FR",
+        "lat": 44.917306,
+        "lon": 1.787149
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14220,24 +14782,37 @@
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "Parque Tecnológico Rabanales 21, Edificio Aldebarán, Calle Astronoma Cecilia Payne\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña"
+      "address": {
+        "text": "Parque Tecnológico Rabanales 21, Edificio Aldebarán, Calle Astronoma Cecilia Payne\nCórdoba\n14014\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9079257,
+        "lon": -4.7297144
+      }
     },
     {
       "name": "TONOLI IMPIANTI SRL",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4202138",
-      "country": "Italia",
       "website": "https://tonoli-impianti.com",
-      "address": "VIA ZANARDELLI 102\nVillanuova Sul Clisi\n25089\nBrescia\nItalia"
+      "address": {
+        "text": "VIA ZANARDELLI 102\nVillanuova Sul Clisi\n25089\nBrescia\nItalia",
+        "iso2": "IT",
+        "lat": 45.6042825,
+        "lon": 10.462595
+      }
     },
     {
-      "name": "TOP GSE Airports, Aircarft & More",
+      "name": "TOP GSE Airports, Aircraft & More",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235990",
-      "country": "España",
       "website": "https://www.topgse.com",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "C/ Castilla la Mancha 11, 1B\nPalma De Mallorca\n07013\nBalears, Illes\nBALEARS, ILLES\nEspaña",
+      "address": {
+        "text": "C/ Castilla la Mancha 11, 1B\nPalma De Mallorca\n07013\nBalears, Illes\nBALEARS, ILLES\nEspaña",
+        "iso2": "ES",
+        "lat": 39.5868256,
+        "lon": 2.5941239
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14252,12 +14827,16 @@
     {
       "name": "TRAKA IBERIA, Gestión de Llaves y recursos SLU",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922055",
-      "country": "España",
       "website": "http://www.traka.es",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Calle Alfareros, 1A\nSan Martín De Valdeiglesias\n28680\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "Calle Alfareros, 1A\nSan Martín De Valdeiglesias\n28680\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.3598541,
+        "lon": -4.4078329
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14280,12 +14859,16 @@
     {
       "name": "TRC",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921944",
-      "country": "España",
       "website": "www.trc.es",
       "category": [
-        "Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC"
+        "Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Tecnologías Duales Habilitadoras (*)"
       ],
-      "address": "c/ Albasanz 25\nMadrid\n28037\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "c/ Albasanz 25\nMadrid\n28037\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4375648,
+        "lon": -3.6278317
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14304,12 +14887,16 @@
     {
       "name": "TRESCA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4094931",
-      "country": "España",
       "website": "https://tresca.es",
       "category": [
         "Consultoría e Ingeniería"
       ],
-      "address": "Calle Julia Morros s/n · 2º Planta Edif Usos Comunes Parque Tecnológico de León (León)\nLeón\n24009\nLeón\nCASTILLA Y LEÓN\nEspaña",
+      "address": {
+        "text": "Calle Julia Morros s/n · 2º Planta Edif Usos Comunes Parque Tecnológico de León (León)\nLeón\n24009\nLeón\nCASTILLA Y LEÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 42.5799387,
+        "lon": -5.595829
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14332,12 +14919,16 @@
     {
       "name": "TRIGO ADR IBERIA S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4132757",
-      "country": "España",
       "website": "https://www.trigo-group.com/en",
       "category": [
         "Aeroespacial, Armamento y Munición, Consultoría e Ingeniería, Naval, Terrestre"
       ],
-      "address": "Calle Papiro\nSevilla\n41016\nSevilla\nANDALUCÍA\nEspaña",
+      "address": {
+        "text": "Calle Papiro\nSevilla\n41016\nSevilla\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.3832921,
+        "lon": -5.9327239
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14348,12 +14939,16 @@
     {
       "name": "TTT GROUP",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173959",
-      "country": "España",
       "website": "https://grupottt.com/sectores/aeronautica/",
       "category": [
         "Aeroespacial, Terrestre"
       ],
-      "address": "Crta. de Elgeta, s/n\nBergara\n20570\nGipuzkoa\nPAÍS VASCO\nEspaña",
+      "address": {
+        "text": "Crta. de Elgeta, s/n\nBergara\n20570\nGipuzkoa\nPAÍS VASCO\nEspaña",
+        "iso2": "ES",
+        "lat": 43.1362181,
+        "lon": -2.4894758
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14362,19 +14957,18 @@
       ]
     },
     {
-      "name": "TU CASA CÓRDOBA INMOBILIARIA",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4235677",
-      "address": "Córdoba\nEspaña"
-    },
-    {
       "name": "Target Tecnología",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922087",
-      "country": "España",
       "website": "http://www.target-tecnologia.es",
       "category": [
         "Armamento y Munición, Logística, Auxiliar y Servicios, Terrestre"
       ],
-      "address": "Ctra de Fuencarral, 24. Edificio Europa 1, Portal 1, Planta 3ª\nAlcobendas\n28108\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "Ctra de Fuencarral, 24. Edificio Europa 1, Portal 1, Planta 3ª\nAlcobendas\n28108\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.5322654,
+        "lon": -3.6468305
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14385,12 +14979,16 @@
     {
       "name": "Titanium Industrial Security",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173775",
-      "country": "España",
       "website": "http://www.titaniumindustrialsecurity.com",
       "category": [
         "Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Mikeletegi 43\nDonostia/San Sebastián\n20009\nGipuzkoa\nPAÍS VASCO\nEspaña",
+      "address": {
+        "text": "Mikeletegi 43\nDonostia/San Sebastián\n20009\nGipuzkoa\nPAÍS VASCO\nEspaña",
+        "iso2": "ES",
+        "lat": 43.28989,
+        "lon": -1.9836232
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14413,12 +15011,16 @@
     {
       "name": "Trexon",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4214283",
-      "country": "Estados Unidos de América",
       "website": "http://trexon.com",
       "category": [
         "Tecnologías Duales Habilitadoras (*)"
       ],
-      "address": "One Financial Center, Suite 2440\nBoston\n02111\nMassachusetts\nEstados Unidos de América",
+      "address": {
+        "text": "One Financial Center, Suite 2440\nBoston\n02111\nMassachusetts\nEstados Unidos de América",
+        "iso2": "US",
+        "lat": 42.3522418,
+        "lon": -71.0563765
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14429,12 +15031,16 @@
     {
       "name": "Turkish Aerospace",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4167982",
-      "country": "Turquía",
       "website": "https://www.tusas.com",
       "category": [
         "Aeroespacial"
       ],
-      "address": "Fethiye Mh, Havacilik Blv, No:17\nKahramankazan\n06980\nAnkara\nTurquía",
+      "address": {
+        "text": "Fethiye Mh, Havacilik Blv, No:17\nKahramankazan\n06980\nAnkara\nTurquía",
+        "iso2": "TR",
+        "lat": 40.1352593,
+        "lon": 32.5570472
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14461,12 +15067,16 @@
     {
       "name": "UAV NAVIGATION - GRUPO OESÍA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4188586",
-      "country": "España",
       "website": "uavnavigation.com",
       "category": [
         "Aeroespacial"
       ],
-      "address": "Calle Teide 3, Oficina 0.1\nSan Sebastián De Los Reyes\n28703\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "Calle Teide 3, Oficina 0.1\nSan Sebastián De Los Reyes\n28703\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.5541574,
+        "lon": -3.619544
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14485,12 +15095,16 @@
     {
       "name": "UCALSA, S.A",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921945",
-      "country": "España",
       "website": "WWW.UCALSA.COM",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "OQUENDO 23 4º PLANTA\nMadrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "OQUENDO 23 4º PLANTA\nMadrid\n28006\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4407916,
+        "lon": -3.682018
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14505,7 +15119,12 @@
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "C/ Ariza 1, Edif. Expozaragoza, Nave 1\nZaragoza\n50012\nZaragoza\nARAGÓN\nEspaña",
+      "address": {
+        "text": "C/ Ariza 1, Edif. Expozaragoza, Nave 1\nZaragoza\n50012\nZaragoza\nARAGÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6455385,
+        "lon": -0.9330754999999998
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14524,9 +15143,13 @@
     {
       "name": "UGT FICA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4187307",
-      "country": "España",
       "website": "https://ugt-fica.org",
-      "address": "AVENIDA DE AMERICA, 25, 5\n28002\nEspaña",
+      "address": {
+        "text": "AVENIDA DE AMERICA, 25, 5\n28002\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4393032,
+        "lon": -3.6747628
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14545,12 +15168,16 @@
     {
       "name": "ULAK Communications Inc.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4167981",
-      "country": "Turquía",
       "website": "https://www.ulakhaberlesme.com.tr/en/",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Mustafa Kemal Mahallesi Sehit Ögretmen Senay Aybüke Yalçin Caddesi, 2120. Cd. No:13/A, 06510\nAnkara\n06510\nÇankaya\nTurquía",
+      "address": {
+        "text": "Mustafa Kemal Mahallesi Sehit Ögretmen Senay Aybüke Yalçin Caddesi, 2120. Cd. No:13/A, 06510\nAnkara\n06510\nÇankaya\nTurquía",
+        "iso2": "TR",
+        "lat": 39.9133166,
+        "lon": 32.7814816
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14573,19 +15200,27 @@
     {
       "name": "UNDERHEAT - prendas refrigerantes / cooling garments -",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4059957",
-      "country": "España",
       "website": "https://underheat.net",
-      "address": "AVDA MANOTERAS 8, ESC 4 PISO 3E\n28050\nEspaña"
+      "address": {
+        "text": "AVDA MANOTERAS 8, ESC 4 PISO 3E\n28050\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4880199,
+        "lon": -3.6712157
+      }
     },
     {
       "name": "UNIDAD MILITAR DE EMERGENCIAS",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4152595",
-      "country": "España",
       "website": "https://www.defensa.gob.es/ume/",
       "category": [
         "Terrestre"
       ],
-      "address": "CTRA. DE ZARAGOZA (A-2) KM. 22\nTorrejón De Ardoz\n28850\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "CTRA. DE ZARAGOZA (A-2) KM. 22\nTorrejón De Ardoz\n28850\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.4666945,
+        "lon": -3.4589311
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14608,12 +15243,16 @@
     {
       "name": "UPLIFTING",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921947",
-      "country": "España",
       "website": "www.uplifting.es",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "Plataforma Log. HUesca Sur, Avda Pebredo 25,\nHuesca\n22197\nHuesca\nARAGÓN\nEspaña",
+      "address": {
+        "text": "Plataforma Log. HUesca Sur, Avda Pebredo 25,\nHuesca\n22197\nHuesca\nARAGÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 42.1406362,
+        "lon": -0.4081062
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14624,19 +15263,30 @@
     {
       "name": "UROVESA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921996",
-      "country": "España",
       "website": "www.urovesa.com",
-      "address": "POL.IND.TAMBRE-VIA EDISON 17\n15890\nEspaña"
+      "category": [
+        "Terrestre"
+      ],
+      "address": {
+        "text": "POL.IND.TAMBRE-VIA EDISON 17\nSantiago De Compostela\n15890\nCoruña, A\nGALICIA\nEspaña",
+        "iso2": "ES",
+        "lat": 42.9130359,
+        "lon": -8.489734499999999
+      }
     },
     {
       "name": "UTEK",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4015706",
-      "country": "España",
       "website": "http://www.utek.es",
       "category": [
         "Tecnologías Duales Habilitadoras (*)"
       ],
-      "address": "C/ Faraday, 7\nMadrid\n28049\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "C/ Faraday, 7\nMadrid\n28049\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.5491089,
+        "lon": -3.6891392
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14647,12 +15297,16 @@
     {
       "name": "UTILIS, S.A.S",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921948",
-      "country": "Francia",
       "website": "www.utilis-international.com",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "Rue Abbé Mariotte- ZAC EUROTRANSIT\nMoselle\n57365\nMoselle\nFrancia",
+      "address": {
+        "text": "Rue Abbé Mariotte- ZAC EUROTRANSIT\nMoselle\n57365\nMoselle\nFrancia",
+        "iso2": "FR",
+        "lat": 49.231279,
+        "lon": 6.224993
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14665,11 +15319,35 @@
       ]
     },
     {
+      "name": "VAHER",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921949",
+      "website": "www.vahersl.com",
+      "category": [
+        "Aeroespacial, Electrónica, Comunicaciones y TIC, Naval, Terrestre"
+      ],
+      "address": {
+        "text": "Calle Malcampo 14 (Local)\nMadrid\n28002\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.445517,
+        "lon": -3.6737212
+      },
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/conectores-y-cables-vaher/"
+        }
+      ]
+    },
+    {
       "name": "VANGUARD MARINE LDA",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922116",
-      "country": "Portugal",
       "website": "http://www.vanguardmarine.com",
-      "address": "ZONA IND Nº 2 CAMPOS\nVila Nova De Cerveira\n4920-012\nViana\nPortugal",
+      "address": {
+        "text": "ZONA IND Nº 2 CAMPOS\nVila Nova De Cerveira\n4920-012\nViana\nPortugal",
+        "iso2": "PT",
+        "lat": 41.9772064,
+        "lon": -8.698646799999999
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14688,12 +15366,16 @@
     {
       "name": "VECTORNAV TECHNOLOGIES",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921960",
-      "country": "Estados Unidos de América",
       "website": "https://www.vectornav.com",
       "category": [
         "Aeroespacial"
       ],
-      "address": "10501 MARKISON RD\nTexas\n75238\nTexas\nDallas\nEstados Unidos de América",
+      "address": {
+        "text": "10501 MARKISON RD\nTexas\n75238\nTexas\nDallas\nEstados Unidos de América",
+        "iso2": "US",
+        "lat": 32.89178,
+        "lon": -96.7033318
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14704,12 +15386,16 @@
     {
       "name": "VENCO ELECTRÓNICA S.A.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4059960",
-      "country": "España",
       "website": "https://www.vencoel.com",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Francesc Moragas 72 Nave 4-5B\nHospitalet De Llobregat, L'\n08907\nBarcelona\nCATALUÑA\nEspaña",
+      "address": {
+        "text": "Francesc Moragas 72 Nave 4-5B\nHospitalet De Llobregat, L'\n08907\nBarcelona\nCATALUÑA\nEspaña",
+        "iso2": "ES",
+        "lat": 41.3555636,
+        "lon": 2.098873
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14720,32 +15406,44 @@
     {
       "name": "VIKING LIGHTING",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4015704",
-      "country": "Suecia",
       "website": "http://www.vikinglighting.com",
       "category": [
         "Electrónica, Comunicaciones y TIC, Terrestre, Logística, Auxiliar y Servicios"
       ],
-      "address": "Eldarvagen 1\nTaby\n18775\nStockholm\nSuecia"
+      "address": {
+        "text": "Eldarvagen 1\nTaby\n18775\nStockholm\nSuecia",
+        "iso2": "SE",
+        "lat": 59.4832809,
+        "lon": 18.0568336
+      }
     },
     {
       "name": "VIMAD GLOBAL SERVICES, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4059954",
-      "country": "España",
       "website": "https://vimadglobal.es",
       "category": [
         "Aeroespacial, Armamento y Munición, Electrónica, Comunicaciones y TIC, Terrestre"
       ],
-      "address": "AVDA. LA CORUÑA 68, PORTAL 2\nRozas De Madrid, Las\n28231\nMadrid\nCOMUNIDAD DE MADRID\nEspaña"
+      "address": {
+        "text": "AVDA. LA CORUÑA 68, PORTAL 2\nRozas De Madrid, Las\n28231\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.49074700000001,
+        "lon": -3.8672431
+      }
     },
     {
       "name": "VIPULSE TECNOLOGY",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4186893",
-      "country": "Turquía",
       "website": "http://www.vipulsetech.com",
       "category": [
         "Aeroespacial, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Terrestre, Logística, Auxiliar y Servicios, Naval"
       ],
-      "address": "Ostim OSB Mah. Cevat Dündar Cad. No: 1-1-52 Yenimahalle/ANKARA\nAnkara\n06374\nYenimahalle\nTurquía",
+      "address": {
+        "text": "Ostim OSB Mah. Cevat Dündar Cad. No: 1-1-52 Yenimahalle/ANKARA\nAnkara\n06374\nYenimahalle\nTurquía",
+        "iso2": "TR",
+        "lat": 39.9805522,
+        "lon": 32.7420487
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14760,7 +15458,12 @@
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "Calle Del Transporte, 1 Aldea Quintana (Córdoba)\nCarlota, La\n14191\nCórdoba\nANDALUCÍA\nEspaña",
+      "address": {
+        "text": "Calle Del Transporte, 1 Aldea Quintana (Córdoba)\nCarlota, La\n14191\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.7132719,
+        "lon": -4.8656771
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14775,12 +15478,16 @@
     {
       "name": "VITEC",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922074",
-      "country": "Francia",
       "website": "http://www.vitec.com",
       "category": [
         "Electrónica, Comunicaciones y TIC, Terrestre"
       ],
-      "address": "99 rue Pierre Sémard\nChatillon\n92320\nHauts-De-Seine\nFRANCE\nFrancia",
+      "address": {
+        "text": "99 rue Pierre Sémard\nChatillon\n92320\nHauts-De-Seine\nFRANCE\nFrancia",
+        "iso2": "FR",
+        "lat": 48.806131,
+        "lon": 2.2969192
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14799,7 +15506,12 @@
       "category": [
         "Aeroespacial, Electrónica, Comunicaciones y TIC, Terrestre"
       ],
-      "address": "1971 Kraft Drive\nBlacksburg, Va\n24060\nKraft Dr Sw\nEstados Unidos de América",
+      "address": {
+        "text": "1971 Kraft Drive\nBlacksburg, Va\n24060\nKraft Dr Sw\nEstados Unidos de América",
+        "iso2": "US",
+        "lat": 37.2028681,
+        "lon": -80.40938129999999
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14814,12 +15526,16 @@
     {
       "name": "VQ Communications",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4214282",
-      "country": "Reino Unido",
       "website": "www.vqcomms.com",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "Unit 4B, Byron House, Lansdowne Court, Bumpers Way, Chippenham, Wiltshire, SN14 6RZ UK\nChippenham\nSN14 6RZ\nWiltshire\nReino Unido",
+      "address": {
+        "text": "Unit 4B, Byron House, Lansdowne Court, Bumpers Way, Chippenham, Wiltshire, SN14 6RZ UK\nChippenham\nSN14 6RZ\nWiltshire\nReino Unido",
+        "iso2": "GB",
+        "lat": 51.4622335,
+        "lon": -2.1449987
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14834,12 +15550,16 @@
     {
       "name": "VULKAN ESPAÑOLA. S.A",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4060554",
-      "country": "España",
       "website": "WWW.VULKAN.COM",
       "category": [
         "Naval"
       ],
-      "address": "AVDA MONTES DE OCA 19, NAVE 7\nSan Sebastián De Los Reyes\n28703\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+      "address": {
+        "text": "AVDA MONTES DE OCA 19, NAVE 7\nSan Sebastián De Los Reyes\n28703\nMadrid\nCOMUNIDAD DE MADRID\nEspaña",
+        "iso2": "ES",
+        "lat": 40.5517717,
+        "lon": -3.6115783
+      },
       "social": [
         {
           "platform": "twitter",
@@ -14854,12 +15574,16 @@
     {
       "name": "Viasat",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173948",
-      "country": "Estados Unidos de América",
       "website": "www.viasat.com",
       "category": [
         "Electrónica, Comunicaciones y TIC"
       ],
-      "address": "6155 El Camino Real\nCarlsbad\n92009\nCa\nEstados Unidos de América",
+      "address": {
+        "text": "6155 El Camino Real\nCarlsbad\n92009\nCa\nEstados Unidos de América",
+        "iso2": "US",
+        "lat": 33.126769,
+        "lon": -117.2669894
+      },
       "social": [
         {
           "platform": "facebook",
@@ -14886,19 +15610,27 @@
     {
       "name": "Volo Kompozit ve Mühendislik Ltd. Sti.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4205479",
-      "country": "Turquía",
       "website": "http://www.volo.com.tr",
-      "address": "Saray OSB Mh. Sabiha Gökçen Bulvari No:14 Kahramankazan Ankara/Turkey\nAnkara\n06980\nAnkara\nTurquía"
+      "address": {
+        "text": "Saray OSB Mh. Sabiha Gökçen Bulvari No:14 Kahramankazan Ankara/Turkey\nAnkara\n06980\nAnkara\nTurquía",
+        "iso2": "TR",
+        "lat": 40.8944747,
+        "lon": 29.3130928
+      }
     },
     {
       "name": "W.L GORE Y ASOCIADOS, S.L",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921985",
-      "country": "España",
       "website": "https://www.gore.com/products/industries/aerospace/defense",
       "category": [
         "Aeroespacial, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Terrestre"
       ],
-      "address": "CALLE CIUDAD DE GRANADA 178\nBarcelona\n08018\nBarcelona\nCATALUÑA\nEspaña",
+      "address": {
+        "text": "CALLE CIUDAD DE GRANADA 178\nBarcelona\n08018\nBarcelona\nCATALUÑA\nEspaña",
+        "iso2": "ES",
+        "lat": 41.4049435,
+        "lon": 2.1897537
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14911,19 +15643,42 @@
       ]
     },
     {
+      "name": "WAYRA",
+      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4283303",
+      "country": [
+        {
+          "text": "España",
+          "iso2": "ES"
+        },
+        {
+          "text": "España",
+          "iso2": "ES"
+        }
+      ]
+    },
+    {
       "name": "WE PACK",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234949",
-      "address": "Córdoba\nEspaña"
+      "address": {
+        "text": "Córdoba\nEspaña",
+        "iso2": "ES",
+        "lat": 37.8893025,
+        "lon": -4.779275300000001
+      }
     },
     {
       "name": "WILLBRANDT KG",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922030",
-      "country": "Alemania",
       "website": "http://www.willbrandt.de",
       "category": [
         "Electrónica, Comunicaciones y TIC, Terrestre, Naval"
       ],
-      "address": "Schnackenburgallee 180\nHamburg\n22525\nHamburg\nAlemania",
+      "address": {
+        "text": "Schnackenburgallee 180\nHamburg\n22525\nHamburg\nAlemania",
+        "iso2": "DE",
+        "lat": 53.5929386,
+        "lon": 9.905465099999999
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14934,12 +15689,16 @@
     {
       "name": "Wehl & Partner Advanced Manufacturing",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3998623",
-      "country": "España",
       "website": "https://wehl-partner.com",
       "category": [
         "Aeroespacial, Armamento y Munición, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Naval, Terrestre"
       ],
-      "address": "Pol. Ind. Morea Sur Ampliación Calle D 11-15\nBeriáin\n31191\nNavarra\nNAVARRA\nEspaña",
+      "address": {
+        "text": "Pol. Ind. Morea Sur Ampliación Calle D 11-15\nBeriáin\n31191\nNavarra\nNAVARRA\nEspaña",
+        "iso2": "ES",
+        "lat": 42.7287196,
+        "lon": -1.6356456
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14958,7 +15717,12 @@
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "CALLE ESCULTOR RAMÓN BARBA 70\nCórdoba\n14012\nCórdoba\nANDALUCÍA\nEspaña",
+      "address": {
+        "text": "CALLE ESCULTOR RAMÓN BARBA 70\nCórdoba\n14012\nCórdoba\nANDALUCÍA\nEspaña",
+        "iso2": "ES",
+        "lat": 37.9092565,
+        "lon": -4.7844831
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -14973,26 +15737,38 @@
     {
       "name": "Yilmaz Makina",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4205480",
-      "country": "Turquía",
       "website": "http://yilmazdefence.com",
-      "address": "SIMSIR SOK NO 12 HADIMKOY\nArnavutkoy\n34555\nIstanbul\nTurquía"
+      "address": {
+        "text": "SIMSIR SOK NO 12 HADIMKOY\nArnavutkoy\n34555\nIstanbul\nTurquía",
+        "iso2": "TR",
+        "lat": 41.144932,
+        "lon": 28.618882
+      }
     },
     {
       "name": "ZFoam",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922103",
-      "country": "España",
       "website": "http://www.zfoam.com",
-      "address": "POLÍGONO EL SACO PARCELA 9-10\nAlfajarín\n50172\nZaragoza\nARAGÓN\nEspaña"
+      "address": {
+        "text": "POLÍGONO EL SACO PARCELA 9-10\nAlfajarín\n50172\nZaragoza\nARAGÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6133494,
+        "lon": -0.6972903
+      }
     },
     {
       "name": "ZODIAC MILPRO",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3921911",
-      "country": "España",
       "website": "www.zodiacmilpro.com",
       "category": [
         "Naval"
       ],
-      "address": "Ctra. Gi-610, Km 2\nRoses\n17480\nGirona\nCATALUÑA\nEspaña",
+      "address": {
+        "text": "Ctra. Gi-610, Km 2\nRoses\n17480\nGirona\nCATALUÑA\nEspaña",
+        "iso2": "ES",
+        "lat": 42.2830085,
+        "lon": 3.1551499
+      },
       "social": [
         {
           "platform": "facebook",
@@ -15015,12 +15791,16 @@
     {
       "name": "alegría-activity",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4234947",
-      "country": "España",
       "website": "www.alegria-activity.com",
       "category": [
         "Consultoría e Ingeniería, Logística, Auxiliar y Servicios, Terrestre"
       ],
-      "address": "C/ Landaluzea, 24\nVitoria-Gasteiz\n01015\nAraba/Álava\nPAÍS VASCO\nEspaña",
+      "address": {
+        "text": "C/ Landaluzea, 24\nVitoria-Gasteiz\n01015\nAraba/Álava\nPAÍS VASCO\nEspaña",
+        "iso2": "ES",
+        "lat": 42.8416337,
+        "lon": -2.7310006
+      },
       "social": [
         {
           "platform": "facebook",
@@ -15047,12 +15827,16 @@
     {
       "name": "eSim Games Deutschland GmbH",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922014",
-      "country": "Alemania",
       "website": "www.eSimGames.com",
       "category": [
         "Terrestre"
       ],
-      "address": "Seegershof 9\nHannover\n30163\nAlemania",
+      "address": {
+        "text": "Seegershof 9\nHannover\n30163\nAlemania",
+        "iso2": "DE",
+        "lat": 52.3946079,
+        "lon": 9.7488981
+      },
       "social": [
         {
           "platform": "youtube",
@@ -15063,12 +15847,16 @@
     {
       "name": "ecaptureDtech",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922068",
-      "country": "España",
       "website": "https://ecapturedtech.com",
       "category": [
         "Tecnologías Duales Habilitadoras (*)"
       ],
-      "address": "Paseo Fluvial 15, Planta 11, Edificio Badajoz S.XXI, 06011 Badajoz\nBadajoz\n06011\nBadajoz\nEXTREMADURA\nEspaña",
+      "address": {
+        "text": "Paseo Fluvial 15, Planta 11, Edificio Badajoz S.XXI, 06011 Badajoz\nBadajoz\n06011\nBadajoz\nEXTREMADURA\nEspaña",
+        "iso2": "ES",
+        "lat": 38.8736008,
+        "lon": -6.990215999999999
+      },
       "social": [
         {
           "platform": "facebook",
@@ -15093,28 +15881,29 @@
       ]
     },
     {
-      "name": "explostop protection sl",
-      "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4236912",
-      "country": "España",
-      "website": "https://www.explostop.com",
-      "address": "CALLE URANO 21B\nMostoles\n28936\nMadrid\nEspaña"
-    },
-    {
       "name": "grupo contact fitness s.l.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/3922085",
-      "country": "España",
       "website": "http://www.grupocontact.com",
-      "address": "carretera Puebla Farnals al Puig S/N nave 1\n46540\nEspaña"
+      "address": {
+        "text": "carretera Puebla Farnals al Puig S/N nave 1\n46540\nEspaña",
+        "iso2": "ES",
+        "lat": 39.5907504,
+        "lon": -0.3031029
+      }
     },
     {
       "name": "idD – Portugal Defence, S.A.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4223726",
-      "country": "Portugal",
       "website": "https://www.iddportugal.pt",
       "category": [
         "Aeroespacial, Armamento y Munición, Consultoría e Ingeniería, Electrónica, Comunicaciones y TIC, Terrestre, Logística, Auxiliar y Servicios, Naval"
       ],
-      "address": "Estrada da Luz nº 153\nLisboa\n1600-153\nLisboa\nLisboa\nPortugal",
+      "address": {
+        "text": "Estrada da Luz nº 153\nLisboa\n1600-153\nLisboa\nLisboa\nPortugal",
+        "iso2": "PT",
+        "lat": 38.7540807,
+        "lon": -9.175181499999999
+      },
       "social": [
         {
           "platform": "facebook",
@@ -15137,12 +15926,16 @@
     {
       "name": "sbp | Sandmair, Boehler & Partner, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4188619",
-      "country": "España",
       "website": "http://www.sbp-automation.es",
       "category": [
         "Consultoría e Ingeniería"
       ],
-      "address": "C/ Constantino Cabal, 2 Bajo\nOviedo\n33005\nAsturias\nPRINCIPADO DE ASTURIAS\nEspaña",
+      "address": {
+        "text": "C/ Constantino Cabal, 2 Bajo\nOviedo\n33005\nAsturias\nPRINCIPADO DE ASTURIAS\nEspaña",
+        "iso2": "ES",
+        "lat": 43.35860599999999,
+        "lon": -5.8528489
+      },
       "social": [
         {
           "platform": "linkedin",
@@ -15153,29 +15946,41 @@
     {
       "name": "tek can grup",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4207567",
-      "country": "Turquía",
       "website": "http://www.aksarunflat.com.tr",
-      "address": "ahievran mah 243 cad. no 14 sincan\nAnkara\n06100\nAhievran\nTurquía"
+      "address": {
+        "text": "ahievran mah 243 cad. no 14 sincan\nAnkara\n06100\nAhievran\nTurquía",
+        "iso2": "TR",
+        "lat": 39.9683658,
+        "lon": 32.5683826
+      }
     },
     {
       "name": "ÁNGEL GABARDÓS GALINDO SUCESORES, S.L.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4176052",
-      "country": "España",
       "website": "www.gabardos.com",
       "category": [
         "Logística, Auxiliar y Servicios"
       ],
-      "address": "CALLE CARAVIS, 36\nZaragoza\n50197\nZaragoza\nARAGÓN\nEspaña"
+      "address": {
+        "text": "CALLE CARAVIS, 36\nZaragoza\n50197\nZaragoza\nARAGÓN\nEspaña",
+        "iso2": "ES",
+        "lat": 41.6438541,
+        "lon": -0.9835956999999999
+      }
     },
     {
       "name": "ŽDAS, a.s.",
       "exhibitorUrl": "https://registro.feindefevent.com/feindef2025/es/Company/Details/4173949",
-      "country": "República Checa",
       "website": "https://www.zdas.com",
       "category": [
         "Armamento y Munición, Consultoría e Ingeniería, Logística, Auxiliar y Servicios, Terrestre"
       ],
-      "address": "Strojirenska 675/6\nZdar Nad Sazavou\n591 01\nRepública Checa",
+      "address": {
+        "text": "Strojirenska 675/6\nZdar Nad Sazavou\n591 01\nRepública Checa",
+        "iso2": "CZ",
+        "lat": 49.5553483,
+        "lon": 15.9311146
+      },
       "social": [
         {
           "platform": "facebook",
