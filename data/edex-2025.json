@@ -36,11 +36,37 @@
     }
   ],
   "exhibitorListUrl": "https://www.egyptdefenceexpo.com/edex2025-exhibitors",
-  "exhibitorListDate": "2025-09-05T09:46:39+00:00",
+  "exhibitorListDate": "2025-10-30T17:03:44+00:00",
   "exhibitor": [
     {
-      "name": "4iG Space & DEFENCE TECHNOLOGIES",
+      "name": "4iG Space & Defence Technologies",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/4ig-space-defence-technologies",
+      "category": [
+        "Artillery Systems and Ammunitions",
+        "Guns and Ammunition",
+        "Land Vehicles",
+        "Satellite Communications",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://4igsdt.hu",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sarhegyiistvan"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/4igsdt"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/4ig-space-and-technology/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@4iGSDT"
+        }
+      ],
       "country": {
         "text": "Hungary",
         "iso2": "HU"
@@ -49,9 +75,38 @@
     {
       "name": "ABIMDE",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/abimde",
+      "address": {
+        "text": "ABIMDE\nAv Brig Luiz antonio 2367 - 12th floor\nBela Vista\nSao Paulo - SP\nBrazil\n01401-000\nBrazil",
+        "iso2": "BR",
+        "lat": -23.5684528,
+        "lon": -46.6493373
+      },
+      "website": "http://www.abimde.org.br",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://pt-br.facebook.com/ABIMDE/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/abimde/?originalSubdomain=br"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/abimde/?hl=pt-br"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UClrSzeiNXQzAhUwlCEFHPhQ"
+        }
+      ]
+    },
+    {
+      "name": "ABU ZAABAL For Trading and General Supplies",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/abu-zaabal-petroleum-services",
       "country": {
-        "text": "Brazil",
-        "iso2": "BR"
+        "text": "Egypt",
+        "iso2": "EG"
       }
     },
     {
@@ -65,10 +120,35 @@
     {
       "name": "ADNEC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/adnec",
-      "country": {
-        "text": "United Arab Emirates",
-        "iso2": "AE"
-      }
+      "address": {
+        "text": "ADNEC Centre Abu Dhabi\nKhaleej Al Arabi Street\nAbu Dhabi\nUnited Arab Emirates\nP.O. Box 5546\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.4180756,
+        "lon": 54.436645
+      },
+      "website": "https://www.adnec.ae/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ADNOCGroupOfficial/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/ADNECGroup"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/adnecgroup/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/adnecgroup/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/ADNECUAE"
+        }
+      ]
     },
     {
       "name": "ADT Havacilik",
@@ -77,6 +157,18 @@
         "text": "Turkey",
         "iso2": "TR"
       }
+    },
+    {
+      "name": "AERO Vodochody AEROSPACE",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/aero-vodochody-aerospace"
+    },
+    {
+      "name": "AKAER",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/akaer"
+    },
+    {
+      "name": "AL Jundi Journal",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/al-jundi-journal"
     },
     {
       "name": "ALIT",
@@ -89,12 +181,6 @@
     {
       "name": "AM General",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/general",
-      "address": {
-        "text": "105 N Niles Ave\nSouth Bend\nIndiana\n46617\nUnited States",
-        "iso2": "US",
-        "lat": 41.6770009,
-        "lon": -86.24466710000002
-      },
       "category": "Land Vehicles",
       "website": "http://www.amgeneral.com",
       "social": [
@@ -118,27 +204,38 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/AMGeneral_LLC"
         }
-      ]
-    },
-    {
-      "name": "ARA",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ara",
+      ],
       "country": {
         "text": "United States",
         "iso2": "US"
       }
     },
     {
-      "name": "ARGUS",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/argus",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
-      }
+      "name": "AMMROC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ammroc"
     },
     {
-      "name": "ATOLA TECHNOLOGY",
+      "name": "ATOLA Technology",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/atola-technology",
+      "website": "https://www.atola.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/AtolaTechnology"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://ca.linkedin.com/company/atola-technology"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atolatechnology/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/atolainsight"
+        }
+      ],
       "country": {
         "text": "Canada",
         "iso2": "CA"
@@ -147,33 +244,115 @@
     {
       "name": "AV",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/av",
+      "address": {
+        "text": "AV\n241 18th Street South, #650\nArlington\nVA\n22202\nUnited States",
+        "iso2": "US",
+        "lat": 38.857798,
+        "lon": -77.05005709999999
+      },
+      "website": "http://www.avinc.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aerovironmentinc/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/aerovironment"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aerovironment/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aerovironmentinc/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/AeroVironmentInc/"
+        }
+      ]
+    },
+    {
+      "name": "AVAS",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/avas",
+      "address": {
+        "text": "AVAS METAL\nSARAY MAHALLESİ ATOM CAD. NO 40 KAHRAMANKAZAN\nANKARA\n06980\nTurkey",
+        "iso2": "TR",
+        "lat": 40.0610868,
+        "lon": 32.5994888
+      },
+      "website": "https://www.avasmetal.com.tr",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/p/AVAS-METAL-Sanayi-ve-Ticaret-A%C5%9E-100054278271478/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/avasmetal/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/avasmetal/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@AVASMETALA.%C5%9E"
+        }
+      ]
+    },
+    {
+      "name": "AVIONICS",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/avionics"
+    },
+    {
+      "name": "Abramak",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/abramak",
+      "category": [
+        "Command, Control and Communication (C3) Systems",
+        "Communication Systems",
+        "Navigation Systems",
+        "Information Security",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.abramakbilisim.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://www.twitter.com/AbramakBilisim/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.instagram.com/abramakbilgiteknolojileri/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://tr.linkedin.com/company/abramak-bilgi-teknolojileri"
+        }
+      ],
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
+    },
+    {
+      "name": "Accelint",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/accelint",
       "country": {
         "text": "United States",
         "iso2": "US"
       }
     },
     {
-      "name": "AVAS",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/avas",
+      "name": "Advanced Design Solution s.r.o.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/advanced-design-solution-sro",
+      "category": "Land Vehicles",
+      "website": "https://www.ads-cz.com",
       "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
-    },
-    {
-      "name": "Abramak",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/abramak",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
-    },
-    {
-      "name": "Abu Zaabal for Petroleum Services",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/abu-zaabal-petroleum-services",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+        "text": "Czech Republic",
+        "iso2": "CZ"
       }
     },
     {
@@ -187,92 +366,325 @@
     {
       "name": "Aeromac",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/aeromac",
+      "category": [
+        "Shipbuilders",
+        "Training & Simulation Equipment / Services",
+        "Unmanned and Autonomous Systems",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://aeromacelectronic.com",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
+      }
+    },
+    {
+      "name": "Airbus",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/airbus-defence-space",
+      "category": [
+        "Air Defence Systems",
+        "Communication Systems",
+        "Training & Simulation Equipment / Services",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.airbus.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://de.linkedin.com/company/airbus-defence-and-space"
+      },
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
       }
     },
     {
       "name": "Aktif Savunma",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/aktif-savunma",
+      "category": [
+        "Defence Barriers & Walls",
+        "Close Defence Weapons",
+        "Guns and Ammunition",
+        "Helmets, Visors, Masks, Ear and Eye Protection",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.aksav.com.tr",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
+      }
+    },
+    {
+      "name": "Al Defaiya",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/al-defaiya",
+      "address": {
+        "text": "Minkara Center\nMme Curie Street\nBeirut\n113/6194\nLebanon",
+        "iso2": "LB",
+        "lat": 33.892061,
+        "lon": 35.4832961
+      },
+      "category": [
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "C4ISR Systems",
+        "Command, Control and Communication (C3) Systems",
+        "Communication Systems",
+        "Artillery Systems and Ammunitions"
+      ],
+      "website": "https://www.defaiya.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/defaiya"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/al-defaiya-magazine/"
+        }
+      ]
+    },
+    {
+      "name": "Al OPK LLC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/al-opk-llc",
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
       }
     },
     {
       "name": "Al Safy Integrated Solutions",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/al-safy-integrated-solutions",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "address": {
+        "text": "Al Safy Integrated Solutions\n2/6 S First District, Sixth District, Fifth Settle\n23 Abdullah Daraz ard el golf Cairo\nEgypt/Cairo\nCairo [ EG-C ]\n11835\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0084868,
+        "lon": 31.4284756
+      },
+      "category": [
+        "Command, Control and Communication (C3) Systems",
+        "Communication Systems",
+        "Engines and Transmission Systems - Propulsion Systems",
+        "Information Security",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://www.aisegy.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/aisegy/"
       }
     },
     {
       "name": "Amstone International Group",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/amstone-international-group",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "City Stars F2 , corporate towers\n2 Makrem Ebeid, Masaken Al Mohandesin, Nasr City\ncairo\nEgypt\n4451620\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0720706,
+        "lon": 31.3447703
+      },
+      "website": "https://amstoneig.com"
     },
     {
       "name": "Andar",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/andar",
+      "category": [
+        "Air Defence Systems",
+        "Missile Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://andar.com.tr",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/15195916"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/andarmotion/"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
+      }
+    },
+    {
+      "name": "Arabian Defence",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/arabian-defence",
+      "website": "https://www.arabiandefence.com",
+      "country": {
+        "text": "India",
+        "iso2": "IN"
       }
     },
     {
       "name": "Ares",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ares",
-      "address": {
-        "text": "ANTALYA FREE ZONE\nANTALYA\nTÜRKİYE\n07070\nTurkey",
-        "iso2": "TR",
-        "lat": 36.878145,
-        "lon": 30.6530644
-      },
       "category": [
         "Shipbuilders",
         "Unmanned and Autonomous Systems"
+      ],
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
+    },
+    {
+      "name": "Argus Information Technology Co. Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/argus-information-technology-co",
+      "address": {
+        "text": "12B-1, Building 1, Future Venture Plaza\nGangxing 3rd Road, High-tech Zone\nJinan\nShandong\n250000\nChina",
+        "iso2": "CN",
+        "lat": 36.6518399,
+        "lon": 117.12009
+      },
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "Day-Night Vision Devices",
+        "Sighting / Aiming Systems",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Tactical Equipment"
+      ],
+      "website": "http://www.argustecn.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/alvinwang-defense-cameras/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@argustec-alvin3813"
+        }
       ]
     },
     {
       "name": "Armelsan",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/armelsan",
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "Diving and Underwater Operations, Vehicles and Equipment",
+        "Software for Military Applications",
+        "Sonar and Radar Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://armelsan.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/SavunmaArmelsan"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/armelsan-savunma-teknolojileri/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/armelsansavunma/#"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCUHBz2TSiptwxCnhc4Oy-EQ"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
       }
     },
     {
+      "name": "Armoured Vechiles Nigam Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/armoured-vechiles-nigam-limited"
+    },
+    {
       "name": "Armsto",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/armsto",
+      "category": [
+        "Air Defence Systems",
+        "C4ISR Systems",
+        "Communication Systems",
+        "Missile Systems",
+        "Satellite Communications"
+      ],
+      "website": "https://www.armsto.com.tr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/armsto/"
+      },
       "country": {
         "text": "Turkey",
         "iso2": "TR"
+      }
+    },
+    {
+      "name": "Army Recognition",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/army-recognition",
+      "country": {
+        "text": "Belgium",
+        "iso2": "BE"
       }
     },
     {
       "name": "Arsenal 2000 JSCo",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/arsenal-2000-jsco",
+      "website": "https://www.arsenal-bg.com",
       "country": {
         "text": "Bulgaria",
         "iso2": "BG"
       }
     },
     {
+      "name": "Arzamas Machinery Plant",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/arzamas-machinery-plant",
+      "country": {
+        "text": "Russia",
+        "iso2": "RU"
+      }
+    },
+    {
       "name": "Aselsan",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/aselsan",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
+      "address": {
+        "text": "ASELSAN Head Office\nMehmet Akif Ersoy Mah. Istiklal Marsi Cad.\nNo:16, Macunkoy, Yenimahalle\nAnkara\nTürkiye\n06370\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9659964,
+        "lon": 32.7645173
+      },
+      "website": "https://www.aselsan.com/en",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/aselsan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aselsan/posts/?feedView=all"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@AselsanTV"
+        }
+      ]
     },
     {
       "name": "Ashmand",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ashmand",
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "Day-Night Vision Devices",
+        "Cyber Defence - Electronic Warfare",
+        "Close Defence Weapons",
+        "Guns and Ammunition"
+      ],
+      "website": "https://ashmand.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Ashmandco?mibextid=kFxxJD"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ashmand_egypt/?igsh=MWF6dWcyNzZhOHd2dw%3D%3D#"
+        }
+      ],
       "country": {
         "text": "Egypt",
         "iso2": "EG"
@@ -281,22 +693,126 @@
     {
       "name": "BAE SYSTEMS",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bae-systems",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
-      }
+      "address": {
+        "text": "Victory Point\nLyon Way\nFrimley\nSurrey\nGU16 7EX\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.316849,
+        "lon": -0.747518
+      },
+      "category": [
+        "Air Defence Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Artillery Systems and Ammunitions",
+        "Land Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.baesystems.com/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/BAESystemsplc/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/BAESystemsplc"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/bae-systems"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/baesystems/"
+        }
+      ]
+    },
+    {
+      "name": "BCA",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bca"
     },
     {
       "name": "BHARAT ELECTRONICS LTD",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bharat-electronics",
+      "address": {
+        "text": "Bharat Electronics Limited\nCorporate Office\nOuter Ring Road, Nagavara\nBangalore\nKarnataka\n560045\nIndia",
+        "iso2": "IN",
+        "lat": 13.040935,
+        "lon": 77.6159919
+      },
+      "website": "https://bel-india.in",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/BharatElectronicsLimited"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/BEL_CorpCom"
+        }
+      ]
+    },
+    {
+      "name": "BMI",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bmi"
+    },
+    {
+      "name": "BMW Group",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/global-auto-se",
+      "category": "Land Vehicles",
+      "website": "https://www.bmw-special-sales.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/BMW"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/bmw"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/showcase/bmw"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bmw"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/BMW"
+        }
+      ],
       "country": {
-        "text": "India",
-        "iso2": "IN"
+        "text": "Egypt",
+        "iso2": "EG"
       }
     },
     {
       "name": "BTRY ENERGY",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/btry-energy",
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://btry.energy/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/p/%D0%A2%D0%9E%D0%92-%D0%91%D0%B5%D1%82%D1%80%D0%B0%D0%B9%D0%95%D0%BD%D0%B5%D1%80%D0%B4%D0%B6%D1%96-%D0%B2%D0%B8%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D0%BA-%D0%B0%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%96%D0%B2-%D0"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/btry-energy/posts/?feedView=all"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/btry.energy?igsh=MWYyNGZuMnE1MWx3Zw=="
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@BTRY.ENERGY"
+        }
+      ],
       "country": {
         "text": "Ukraine",
         "iso2": "UA"
@@ -305,6 +821,7 @@
     {
       "name": "Barret Communications",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/barret-communications",
+      "website": "https://www.motorolasolutions.com/en_us.html",
       "country": {
         "text": "United Kingdom",
         "iso2": "GB"
@@ -313,9 +830,20 @@
     {
       "name": "Base Studio",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/base-studio",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
+      "address": {
+        "text": "BALCIK MAH. 3273 SOK NO:28\nGEBZE KOCAELI\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8123155,
+        "lon": 29.4416463
+      },
+      "category": [
+        "Engines and Transmission Systems - Propulsion Systems",
+        "Land Vehicles"
+      ],
+      "website": "https://www.basestudio.com.tr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/base-studio"
       }
     },
     {
@@ -327,6 +855,16 @@
       }
     },
     {
+      "name": "Beijing DMS Technology Co., Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/beijing-dms-technology-co-",
+      "category": "Search, Rescue and Safety Equipment",
+      "website": "https://www.dmstech.com.cn",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
+    },
+    {
       "name": "Beijing Photoelectric Science &Technology Co. Ltd",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/beijing-photoelectric-science-technology-co",
       "country": {
@@ -335,48 +873,142 @@
       }
     },
     {
+      "name": "Beijing Ruidaen Technology Co. Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/beijing-ruidaen-technology-co-",
+      "category": [
+        "Air Defence Systems",
+        "Navigation Systems",
+        "Sonar and Radar Systems",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Target Acquisition / Rangefinder"
+      ],
+      "website": "https://en.ruidaen.com",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
+    },
+    {
       "name": "Belss Ltd",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/belss",
+      "category": [
+        "Air Defence Systems",
+        "Communication Systems",
+        "Consultancy and Planning Organisations",
+        "Unmanned and Autonomous Systems",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://www.belss.lv/en/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/BELSSSIA"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/672593/"
+        }
+      ],
       "country": {
         "text": "Latvia",
         "iso2": "LV"
       }
     },
     {
-      "name": "Birant",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/birant",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
+      "name": "Beyond Technologies",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/beyond-technologies",
+      "address": {
+        "text": "Via Flat Business and Life Center\nBeştepe Neighborhood, Nergiz Street, Building No:7\nOffice No:42\nAnkara\nTurkey\n06560\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9333635,
+        "lon": 32.8597419
+      },
+      "category": [
+        "Air Defence Systems",
+        "Software for Military Applications",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://beyondtech.com.tr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/beyondtechtr/"
       }
     },
     {
-      "name": "Bites",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bites",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
+      "name": "Bharat Dynamics Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/bharat-dynamics-limited"
+    },
+    {
+      "name": "Birant Makina",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/birant",
+      "address": {
+        "text": "Birant Makina Mühendislik\nOstim OSB Mah. 1203 Sok (Eski 32) No 4\nYenimahalle\nAnkara\nTurkey\n06378\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9734191,
+        "lon": 32.7413399
+      },
+      "website": "https://birantmakina.com"
     },
     {
       "name": "Boeing",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/boeing",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
-      }
+      "address": {
+        "text": "929 Long Bridge Drive\nArlington, Virginia\n22202\nUnited States",
+        "iso2": "US",
+        "lat": 38.8642623,
+        "lon": -77.05006
+      },
+      "website": "https://www.boeing.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Boeing/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/BoeingDefense"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/boeing/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/boeing/"
+        }
+      ]
     },
     {
       "name": "Brahmos Aerospace",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/brahmos-aerospace",
-      "country": {
-        "text": "India",
-        "iso2": "IN"
+      "address": {
+        "text": "16\nCariappa Marg, Kirby Place\nDelhi Cantt.\nNew Delhi\nIndia\n110010\nIndia",
+        "iso2": "IN",
+        "lat": 28.5977792,
+        "lon": 77.145943
+      },
+      "category": "Missile Systems",
+      "website": "https://www.brahmos.com",
+      "social": {
+        "platform": "twitter",
+        "url": "https://x.com/BrahMosMissile"
       }
     },
     {
-      "name": "CARRIAR EL TRADING LTD",
+      "name": "CAPHMICRO Inc",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/caphmicro-inc"
+    },
+    {
+      "name": "CARRIAR EL",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/carriar-el-trading",
+      "category": [
+        "Clothing - Camouflage",
+        "Close Defence Weapons",
+        "Helmets, Visors, Masks, Ear and Eye Protection",
+        "Weapons and Combat Systems",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.carriar.eu",
       "country": {
         "text": "Cyprus",
         "iso2": "CY"
@@ -385,14 +1017,29 @@
     {
       "name": "CATIC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/catic",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
-      }
+      "address": {
+        "text": "CATIC PLAZA NO.15 RONGHUA SOUTH ROAD\nBEIJING\nCHINA\n100176\nChina",
+        "iso2": "CN",
+        "lat": 39.78673,
+        "lon": 116.51475
+      },
+      "website": "https://www.catic.cn"
+    },
+    {
+      "name": "CBC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cbc"
     },
     {
       "name": "CEIA",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ceia",
+      "category": [
+        "Diving and Underwater Operations, Vehicles and Equipment",
+        "Software for Military Applications",
+        "Training & Simulation Equipment / Services",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.ceia.net",
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -401,6 +1048,12 @@
     {
       "name": "CETC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cetc",
+      "category": [
+        "C4ISR Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Sonar and Radar Systems"
+      ],
+      "website": "http://en.cetc.com.cn",
       "country": {
         "text": "China",
         "iso2": "CN"
@@ -409,33 +1062,135 @@
     {
       "name": "CFTI",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cfti",
+      "category": "Consultancy and Planning Organisations",
+      "website": "https://www.cftiegypt.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/cfti-egypt-9b3b04271"
+      },
       "country": {
         "text": "Egypt",
         "iso2": "EG"
       }
     },
     {
-      "name": "CPIMC",
+      "name": "CITY TRADE SERVICE EGYPT - CTSE",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/city-trade-service-egypt-cts",
+      "category": [
+        "Day-Night Vision Devices",
+        "Parachuting and Air Delivery",
+        "Sighting / Aiming Systems",
+        "Sonar and Radar Systems",
+        "Training & Simulation Equipment / Services"
+      ],
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "CPMIEC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cpimc",
+      "category": [
+        "Air Defence Systems",
+        "Air-to-Ground and Coastal Defence Systems",
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "Close Defence Weapons",
+        "Missile Systems"
+      ],
+      "website": "http://www.cpmiec.com.cn",
       "country": {
         "text": "China",
         "iso2": "CN"
       }
+    },
+    {
+      "name": "CSA",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/csa"
     },
     {
       "name": "CSSC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cssc",
+      "category": [
+        "Shipbuilders",
+        "Sonar and Radar Systems"
+      ],
       "country": {
         "text": "China",
         "iso2": "CN"
       }
     },
     {
+      "name": "Cairo Hydraulic Group",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cairo-hydraulic-group",
+      "address": {
+        "text": "Cairo Hydraulic\n45 Kolaly ST . Saptieh - Cairo- Egypt\nCairo\nEgypt\n11221\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0617333,
+        "lon": 31.2423636
+      },
+      "category": [
+        "Artillery Systems and Ammunitions",
+        "Engines and Transmission Systems - Propulsion Systems",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Navigation Systems",
+        "Tactical Equipment"
+      ],
+      "website": "https://cairohydraulic.com",
+      "social": {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/cairo.hydraulic.3"
+      }
+    },
+    {
+      "name": "Calidus",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/calidus"
+    },
+    {
       "name": "Canovate",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/canovate",
+      "website": "https://canovate.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://tr.linkedin.com/company/canovate-group"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCqQWRc6CgMUJ3hRCAJ5Nn7w"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
+      }
+    },
+    {
+      "name": "Chanakya Aerospace, Defence & Maritime Review Magazine",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/chanakya-aerospace-defence-maritime-review-magazine",
+      "address": {
+        "text": "7/13, Kalkaji Extension,\nNew Delhi\n110019\nIndia",
+        "iso2": "IN",
+        "lat": 28.5421788,
+        "lon": 77.2567012
+      },
+      "category": "Media & Events",
+      "website": "https://www.chanakyaaerospacedefence.com"
+    },
+    {
+      "name": "Chengdu Honpho Technology Co., Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/chengdu-honpho-technology-co-",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
+    },
+    {
+      "name": "China Defence",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/poly",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
       }
     },
     {
@@ -447,32 +1202,124 @@
       }
     },
     {
-      "name": "City Trade Service Egypt -CTS",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/city-trade-service-egypt-cts",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "name": "Coges",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/coges",
+      "address": {
+        "text": "39 rue Mstislav Rostropovitch\nParis\n750017\nFrance",
+        "iso2": "FR",
+        "lat": 48.8899647,
+        "lon": 2.3121367
+      },
+      "category": "Media & Events",
+      "website": "https://www.cogesevents.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/coges/"
       }
     },
     {
       "name": "Conotech",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/conotech",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
-      }
+      "address": {
+        "text": "Floor 2, Building 7, East Lake Net Valley\nEast Lake Net Valley, No.5 Maodianshan\nWuhan\nHubei\n430223\nChina",
+        "iso2": "CN",
+        "lat": 30.5927599,
+        "lon": 114.30525
+      },
+      "category": "Day-Night Vision Devices",
+      "website": "https://cono-defense.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/conotech.global"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/80272420"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/conotech.global"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC_QHmL6MvfzAa-6Go-T7v7A"
+        }
+      ]
     },
     {
       "name": "Cukurova Makina",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/cukurova-makina",
+      "category": [
+        "Command, Control and Communication (C3) Systems",
+        "Land Vehicles",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.cukurovadefence.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/share/1ATTZpmGE2/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/CukurovaMakina?t=1s7k3vHo0YyJmDLdpnkjig&s=08"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://x.com/CukurovaMakina?t=1s7k3vHo0YyJmDLdpnkjig&s=08"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/officialcukurovamakina?utm_source=qr&igsh=YWU1cXloNnF0bDV5"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@cukurovamakinaimalatvetica6684"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
       }
     },
     {
+      "name": "DACC Carbon",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dacc-carbon"
+    },
+    {
+      "name": "DBDC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dbdc",
+      "address": {
+        "text": "11 Zinonos Sozou str, Office 103, CY-1075 Nicosia,\nNicosia\n1075\nCyprus",
+        "iso2": "CY",
+        "lat": 35.1623483,
+        "lon": 33.364123
+      },
+      "website": "https://www.dbdcgroup.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/dbdcltd/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/DBDCLTD"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/dbdcltd/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@dbdc.defence"
+        }
+      ]
+    },
+    {
       "name": "DHL GLOBAL",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dhl-global",
+      "website": "https://www.dhl.com",
       "country": {
         "text": "Egypt",
         "iso2": "EG"
@@ -481,73 +1328,251 @@
     {
       "name": "DLG Tactical",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dlg-tactical",
+      "address": {
+        "text": "Organizational Industry Zone No:6\nKONYA\nSelçuklu\n42280\nTurkey",
+        "iso2": "TR",
+        "lat": 37.9570364,
+        "lon": 32.4523855
+      },
+      "category": "Tactical Equipment",
+      "website": "https://www.dlg-tactical.com",
+      "social": [
+        {
+          "platform": "instagram",
+          "url": "https://instagram.com/dlg_tactical"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@dlg_tactical"
+        }
+      ]
+    },
+    {
+      "name": "Dart Aerospace",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dart-aerospace",
+      "category": [
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Search, Rescue and Safety Equipment"
+      ],
+      "website": "https://dartaerospace.com",
+      "country": {
+        "text": "Canada",
+        "iso2": "CA"
+      }
+    },
+    {
+      "name": "Dassault Aviation",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dassault-aviation",
+      "address": {
+        "text": "RAFALE INTERNATIONAL\n78 quai Marcel Dassault\nSaint-Cloud\nFRANCE\n92214\nFrance",
+        "iso2": "FR",
+        "lat": 48.8584584,
+        "lon": 2.2221312
+      },
+      "website": "https://www.dassault-aviation.com/en/"
+    },
+    {
+      "name": "Defence & Aviation magazine",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/defence-aviation-magazine",
+      "address": {
+        "text": "Wakef El Roum Center\nMazraa\nBeirut\nLebanon\nLebanon",
+        "iso2": "LB",
+        "lat": 33.8795468,
+        "lon": 35.5014068
+      }
+    },
+    {
+      "name": "Defence 21",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/defence-21",
+      "address": {
+        "text": "Hiala - 6th Flr.\nAin Hala Street\nAley\nLebanon\n9999\nLebanon",
+        "iso2": "LB",
+        "lat": 33.7990487,
+        "lon": 35.6085021
+      },
+      "website": "https://www.defence21.com/ar",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Defence21MAG"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/Defence21MAG"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/kamal-awar-1896b71b/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/defence21magazine/"
+        }
+      ]
+    },
+    {
+      "name": "Defence Industries System (MASAD-SUDAN)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/defence-industries-system-masad-sudan",
+      "category": [
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "Artillery Systems and Ammunitions",
+        "Guns and Ammunition",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles"
+      ],
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9-103735845058911/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://mobile.twitter.com/masad_sd"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/masad.sd/"
+        }
+      ],
+      "country": {
+        "text": "Sudan",
+        "iso2": "SD"
+      }
+    },
+    {
+      "name": "Defence Research and Development Organisation",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/defence-research-development-organisation"
+    },
+    {
+      "name": "Defense Conseil International",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/defense-conseil-international",
+      "address": {
+        "text": "27-29 rue Leblanc\nParis\n75015\nFrance",
+        "iso2": "FR",
+        "lat": 48.8384979,
+        "lon": 2.2759988
+      },
+      "website": "https://groupedci.fr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/dci-defense-conseil-international/"
+      }
+    },
+    {
+      "name": "Delta Defence",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/delta-defence"
+    },
+    {
+      "name": "Desan",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/desan",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
       }
     },
     {
-      "name": "Dassault Aviation",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/dassault-aviation",
-      "country": {
-        "text": "France",
-        "iso2": "FR"
-      }
-    },
-    {
-      "name": "Delta Defence",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/delta-defence",
-      "country": {
-        "text": "Slovakia",
-        "iso2": "SK"
-      }
-    },
-    {
       "name": "Diamond Antenna & Microwave Corp",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/diamond-antenna-microwave-corp",
-      "address": {
-        "text": "59 Porter Road\nLITTLETON\n01460\nUnited States",
-        "iso2": "US",
-        "lat": 42.52566909999999,
-        "lon": -71.51369369999999
-      },
-      "website": "https://diamondantenna.com"
+      "website": "https://diamondantenna.com",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Diehl Defence GmbH & Co",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/diehl-defence-gmbh-co",
+      "category": [
+        "Air Defence Systems",
+        "Air-to-Ground and Coastal Defence Systems",
+        "Artillery Systems and Ammunitions",
+        "Missile Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.diehl.com/defence",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/diehl-defence"
+      },
       "country": {
         "text": "Germany",
         "iso2": "DE"
       }
     },
     {
-      "name": "Donmez Oglu",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/donmez-oglu",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
+      "name": "Draeger",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/draeger"
+    },
+    {
+      "name": "EDGE Group",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/edge-group"
     },
     {
       "name": "ELECTROAIR",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/electroair",
-      "country": {
-        "text": "Estonia",
-        "iso2": "EE"
-      }
+      "address": {
+        "text": "Kapteni tee 1\nSoodevahe\nHarjumaa\n75322\nEstonia",
+        "iso2": "EE",
+        "lat": 59.4126621,
+        "lon": 24.9017696
+      },
+      "category": [
+        "Energy Storage Systems",
+        "Hybrid Electric Power Systems",
+        "Testing Equipment"
+      ],
+      "website": "https://electroair.eu",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/electroairgroup/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/electroair-o%C3%BC"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/electroair/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/ElectroAirO%C3%9CTallinn"
+        }
+      ]
     },
     {
       "name": "ELINC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/elinc",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
-      }
+      "address": {
+        "text": "NO.6 ZHONGGUANCUN SOUTH STREET, HAIDIAN DISTRICT,\nBEIJING\nCHINA\nChina",
+        "iso2": "CN",
+        "lat": 39.952722,
+        "lon": 116.323956
+      },
+      "category": [
+        "C4ISR Systems",
+        "Communication Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Information Security",
+        "Satellite Communications"
+      ],
+      "website": "https://www.elinc.com.cn"
     },
     {
       "name": "ELT Group",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/elt-group",
+      "website": "https://www.eltgroup.net",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/ELTGrp"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/129162/"
+        }
+      ],
       "country": {
         "text": "Italy",
         "iso2": "IT"
@@ -556,6 +1581,14 @@
     {
       "name": "EMN Defence",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/emn-defence",
+      "category": [
+        "Clothing - Camouflage",
+        "Day-Night Vision Devices",
+        "Helmets, Visors, Masks, Ear and Eye Protection",
+        "Weapons and Combat Systems",
+        "Target Acquisition / Rangefinder"
+      ],
+      "website": "https://www.emndefence.com",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -564,14 +1597,64 @@
     {
       "name": "ETION CREATE",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/etion-create",
+      "category": [
+        "Air Defence Systems",
+        "Command, Control and Communication (C3) Systems",
+        "Communication Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Navigation Systems"
+      ],
+      "website": "https://reunert.co.za/applied-electronics.php",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/etion-create/?viewAsMember=true"
+      },
       "country": {
         "text": "South Africa",
         "iso2": "ZA"
       }
     },
     {
+      "name": "Eagles International For Defense System",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/eagles-international-defense-system",
+      "category": [
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles",
+        "Private Security Companies",
+        "Training & Simulation Equipment / Services"
+      ],
+      "website": "https://eifds.com",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "East West Connection",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/east-west-connection",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
       "name": "Easywall Bricks",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/easywall-bricks",
+      "website": "https://www.easywallbrick.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.easywallbrick/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/easywallbrick/reel/Cq5JfTpgyRQ/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://youtu.be/t4BYLVj56iY?si=n9b5GOmLzOtaMnPx"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -580,6 +1663,14 @@
     {
       "name": "Efor Global",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/efor-global",
+      "category": [
+        "Airframe Manufacturers",
+        "Air-to-Ground and Coastal Defence Systems",
+        "Unmanned and Autonomous Systems",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.firestar-systems.com",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -596,6 +1687,26 @@
     {
       "name": "Ehsim",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ehsim",
+      "category": "Cyber Defence - Electronic Warfare",
+      "website": "https://ehsim.com.tr",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/EhsimResmi"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ehsimresmi"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ehsimresmi/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@ehsimresmi"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -610,8 +1721,21 @@
       }
     },
     {
+      "name": "Embassy of Slovak Republic",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/embassy-slovak-republic",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
       "name": "Emco Ltd",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/emco",
+      "category": [
+        "Artillery Systems and Ammunitions",
+        "Guns and Ammunition",
+        "Weapons and Combat Systems"
+      ],
       "country": {
         "text": "Bulgaria",
         "iso2": "BG"
@@ -620,6 +1744,18 @@
     {
       "name": "Enovas",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/enovas",
+      "category": [
+        "C4ISR Systems",
+        "Command, Control and Communication (C3) Systems",
+        "Communication Systems",
+        "Satellite Communications",
+        "Training & Simulation Equipment / Services"
+      ],
+      "website": "https://enovas.com.tr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/enovas-defense-technologies/?viewAsMember=true"
+      },
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -628,30 +1764,87 @@
     {
       "name": "Erbab Otomat",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/erbab-otomat",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
-    },
-    {
-      "name": "F3 International Resources LLC",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/f3-international-resources-llc",
-      "country": {
-        "text": "United States",
-        "iso2": "US"
-      }
+      "address": {
+        "text": "ERBAB OTOMAT\nBURSA\nTurkey",
+        "iso2": "TR",
+        "lat": 40.181086,
+        "lon": 28.783903
+      },
+      "category": [
+        "Surveillance, Reconnaissance and Security Systems",
+        "Target Acquisition / Rangefinder"
+      ],
+      "website": "https://erbab.com.tr"
     },
     {
       "name": "FINCANTIERI",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/fincantieri",
+      "website": "https://www.fincantieri.com/it/",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://www.twitter.com/fincantieri"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/fincantieri/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/fincantieri/"
+        }
+      ],
       "country": {
         "text": "Italy",
         "iso2": "IT"
       }
     },
     {
+      "name": "FOSTEC INC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/fostec-inc"
+    },
+    {
+      "name": "Falcon Group",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/falcon-group",
+      "address": {
+        "text": "417, 90 st, 5th Settlement, New Cairo.\nNew Cairo, Cairo\n375\nEgypt",
+        "iso2": "EG",
+        "lat": 30.01221709999999,
+        "lon": 31.44301979999999
+      },
+      "category": [
+        "Private Security Companies",
+        "Training & Simulation Equipment / Services",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://www.falcon.eg/ar/services/index.php?id=1",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/FalconGroupInternational/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/falcongroup-international"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/falcongroupinternational/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCqga33iR5uYT5JRuYOn0fqA"
+        }
+      ]
+    },
+    {
       "name": "Firewall Defence Consultants",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/firewall-defence-consultants",
+      "category": [
+        "Diving and Underwater Operations, Vehicles and Equipment",
+        "Private Security Companies"
+      ],
+      "website": "https://www.firewallegypt.com",
       "country": {
         "text": "Egypt",
         "iso2": "EG"
@@ -660,6 +1853,27 @@
     {
       "name": "Fora Grup",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/fora-grup",
+      "category": [
+        "Private Security Companies",
+        "Search, Rescue and Safety Equipment",
+        "Training & Simulation Equipment / Services",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.foragroup.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/fora-grup-savunma-teknoloji%CC%87leri%CC%87-ve-dani%C5%9Fmanlik-ti%CC%87caret-li%CC%87mi%CC%87ted-%C5%9Fi%CC%87rketi%CC%87/?originalSubdomain=tr"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/taktikmedikalcom_/?hl=tr"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCOy6Sfh8vNJVa8FVNMdOX6Q"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -674,16 +1888,85 @@
       }
     },
     {
+      "name": "GAL",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gal"
+    },
+    {
+      "name": "GTA Containers",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gta-containers",
+      "address": {
+        "text": "4201 Linden Ave.\nSouth Bend\n46619\nUnited States",
+        "iso2": "US",
+        "lat": 41.6801852,
+        "lon": -86.3070884
+      },
+      "website": "https://www.gtacontainers.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/gta-containers-inc-/posts/?feedView=all"
+      }
+    },
+    {
       "name": "Gcntr",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gcntr",
+      "address": {
+        "text": "18th Street No:15, Interior Door No:2\nKoseler Neighborhood\nKocaeli\nDilovası\n41455\nTurkey",
+        "iso2": "TR",
+        "lat": 40.8581063,
+        "lon": 29.5861581
+      },
+      "category": [
+        "Air Defence Systems",
+        "Air-to-Ground and Coastal Defence Systems",
+        "Consultancy and Planning Organisations",
+        "Testing Equipment"
+      ],
+      "website": "https://www.gcntr.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://tr.linkedin.com/company/gtl-global-technology-laboratory"
+      }
+    },
+    {
+      "name": "Geotech",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/geotech",
+      "category": "Testing Equipment",
+      "website": "https://geotech-eg.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/geotech-eg/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/geotech2014?igsh=YnI2dWNhcnNxbjl0"
+        }
+      ],
       "country": {
-        "text": "Turkey",
-        "iso2": "TR"
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "Gliders India Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gliders-india-limited"
+    },
+    {
+      "name": "Global Aviator",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/global-aviator",
+      "country": {
+        "text": "United Kingdom",
+        "iso2": "GB"
       }
     },
     {
       "name": "Global Engineering & Supply Co",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/global-engineering-supply-co",
+      "website": "https://www.global-eg.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/9292253/admin/dashboard/"
+      },
       "country": {
         "text": "Egypt",
         "iso2": "EG"
@@ -692,22 +1975,90 @@
     {
       "name": "Global Wire Harness",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/global-wire-harness",
+      "address": {
+        "text": "Roketsan Kümelenmesi\nOSTİM Mahallesi\nOSTIM OSB MAH. 2828 SK. NO: 2 D YENIMAHALLE\nAnkara\nTürkiye\n06170\nTurkey",
+        "iso2": "TR",
+        "lat": 39.9697514,
+        "lon": 32.7463686
+      },
+      "category": [
+        "Air Defence Systems",
+        "Airframe Manufacturers",
+        "Land Vehicles",
+        "Missile Systems",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://globalwireharness.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/69534407/"
+      }
+    },
+    {
+      "name": "Gokturk Defense",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gokturk-defense",
+      "category": [
+        "Artillery Systems and Ammunitions",
+        "Guns and Ammunition",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.gokturkdefense.co/en/homep",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://tr.linkedin.com/company/gokturk-defense-industry"
+      },
       "country": {
         "text": "Turkey",
         "iso2": "TR"
       }
     },
     {
-      "name": "Gokturk Defence",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gokturk-defence",
+      "name": "Good Luck Defence & Aerospace Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/good-luck-defence-aerospace-limited",
       "country": {
-        "text": "Turkey",
-        "iso2": "TR"
+        "text": "India",
+        "iso2": "IN"
       }
+    },
+    {
+      "name": "Gorilla/MCS",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gorilla-mcs",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "Gyeongnam Technopark (GNTP)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/gyeongnam-technopark-gntp"
+    },
+    {
+      "name": "HBE Press",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hbe-press",
+      "address": {
+        "text": "HBEPRESS\nHyeonpo-ro, Gunbuk-myeon, Haman-gun, Gyeongsangnam\nHaman-gun\nRepublic of Korea\n125653\nKorea, Republic of",
+        "iso2": "KR",
+        "lat": 35.2874273,
+        "lon": 128.3535651
+      },
+      "category": [
+        "Air Defence Systems",
+        "Airframe Manufacturers",
+        "Missile Systems",
+        "Weapons and Combat Systems"
+      ],
+      "website": "http://hbepress.com/eng/"
     },
     {
       "name": "HENSOLDT",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hensoldt",
+      "website": "https://www.hensoldt.net",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/hensoldt/"
+      },
       "country": {
         "text": "Germany",
         "iso2": "DE"
@@ -716,30 +2067,72 @@
     {
       "name": "HITEK NOFAL OPTIX",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hitek-nofal-optix",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
-    },
-    {
-      "name": "Hades Defense System Ltd",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hades-defense-system",
       "address": {
-        "text": "251 Europe Blvd.\nSofia\n1331\nBulgaria",
-        "iso2": "BG",
-        "lat": 42.7405154,
-        "lon": 23.2232926
+        "text": "43 R section six\nZahraa Maadi Road\nNew Maadi\nCairo\nEgypt\ni11742\nEgypt",
+        "iso2": "EG",
+        "lat": 29.9720183,
+        "lon": 31.2762976
       },
       "category": [
         "Air Defence Systems",
-        "Missile Systems",
-        "Sonar and Radar Systems"
+        "Communication Systems",
+        "Training & Simulation Equipment / Services"
       ],
-      "website": "https://hadesdefense.eu"
+      "website": "http://hiteknofaloptix.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/share/1AgW83Meja/?mibextid=wwXIfr"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hiteknofaloptix/"
+        }
+      ]
+    },
+    {
+      "name": "Hades Defense Systems Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hades-defense-systems-",
+      "category": [
+        "Air Defence Systems",
+        "Command, Control and Communication (C3) Systems",
+        "Missile Systems",
+        "Sonar and Radar Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://hadesdefense.eu",
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      }
+    },
+    {
+      "name": "Hangzhou New Creative Optical Technology Co., Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hangzhou-new-creative-optical-technology-co",
+      "category": [
+        "Air Defence Systems",
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "Day-Night Vision Devices",
+        "Surveillance, Reconnaissance and Security Systems",
+        "Target Acquisition / Rangefinder"
+      ],
+      "website": "https://www.huirui-ir.com",
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
     },
     {
       "name": "Hanwha",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hanwha",
+      "category": [
+        "Air Defence Systems",
+        "Artillery Systems and Ammunitions",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://www.hanwhaaerospace.com/eng/index.do",
       "country": {
         "text": "Korea, Republic of",
         "iso2": "KR"
@@ -756,6 +2149,8 @@
     {
       "name": "Hatsan",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hatsan",
+      "category": "Guns and Ammunition",
+      "website": "https://hatsan.com.tr/en/",
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -764,6 +2159,36 @@
     {
       "name": "Havelsan",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/havelsan",
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "C4ISR Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Training & Simulation Equipment / Services",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.havelsan.com/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/havelsanglobal"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/havelsanglobal"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://tr.linkedin.com/company/havelsan"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/havelsanglobal"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCSL-cAKkIS6bHE9tzmPYWEg"
+        }
+      ],
       "country": {
         "text": "Turkey",
         "iso2": "TR"
@@ -772,6 +2197,21 @@
     {
       "name": "HawkEye 360",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hawkeye-360",
+      "website": "https://www.he360.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/hawkeye360"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hawkeye-360/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCOCxi4OQGoSi9f9xB0HngmA"
+        }
+      ],
       "country": {
         "text": "United States",
         "iso2": "US"
@@ -780,26 +2220,56 @@
     {
       "name": "Hegazy",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hegazy",
+      "website": "https://www.hegazyco.com",
+      "social": {
+        "platform": "twitter",
+        "url": "https://x.com/Hegazy_Co?t=yWptI_4FY2z3FP5NNh8b_g&s=09"
+      },
       "country": {
         "text": "Egypt",
         "iso2": "EG"
       }
     },
     {
-      "name": "Hoppy Wing",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hoppy-wing",
+      "name": "Hongye Zhongxu Iron and Steel Trading (Tianjin) Co. Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hongye-zhongxu-iron-steel-trading-tianjin-co-",
+      "category": [
+        "Defence Barriers & Walls",
+        "Tactical Equipment"
+      ],
+      "website": "https://www.hyzx2015.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/%E6%B3%93%E4%B8%9A%E4%B8%AD%E6%97%AD%E9%92%A2%E9%93%81%E8%B4%B8%E6%98%93-%E5%A4%A9%E6%B4%A5-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/about/"
+      },
       "country": {
-        "text": "Turkey",
-        "iso2": "TR"
+        "text": "China",
+        "iso2": "CN"
       }
     },
     {
       "name": "Hospitex Cairo",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hospitex-cairo",
-      "country": {
-        "text": "Spain",
-        "iso2": "ES"
-      }
+      "address": {
+        "text": "6035\nStreet 9, Mokattam\nCairo\nEgypt\n11571\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0125255,
+        "lon": 31.2907122
+      },
+      "category": [
+        "Air Defence Systems",
+        "Unmanned and Autonomous Systems",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://hospitexcairo.com"
+    },
+    {
+      "name": "Hyper Stealth India Pvt,Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/hyper-stealth-india-pvt"
+    },
+    {
+      "name": "I&A",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/"
     },
     {
       "name": "IDEF",
@@ -810,120 +2280,704 @@
       }
     },
     {
+      "name": "IDEX",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/idex"
+    },
+    {
+      "name": "Indo Defence",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/indo-defence",
+      "category": "Media & Events",
+      "website": "https://indodefence.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/IndoDefence?mibextid=LQQJ4d"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/showcase/indo-defence/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/indo_defence/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@indodefenceexpoforum"
+        }
+      ],
+      "country": {
+        "text": "Indonesia",
+        "iso2": "ID"
+      }
+    },
+    {
       "name": "Inertial Labs",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/inertial-labs"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/inertial-labs",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Intercontinental Partners LLC",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/intercontinental-partners-llc"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/intercontinental-partners-llc",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "Invap S.A.U.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/invap-su",
+      "address": {
+        "text": "Av. Cmte. Luis Piedrabuena 4950\nSan Carlos de Bariloche-Rio Negro\nARGENTINA\n(R8403CPV)\nArgentina",
+        "iso2": "AR",
+        "lat": -41.1234097,
+        "lon": -71.2407738
+      },
+      "website": "https://www.invap.com.ar"
     },
     {
       "name": "Isbir",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/isbir"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/isbir",
+      "category": [
+        "Energy Storage Systems",
+        "Hybrid Electric Power Systems",
+        "Maintenance, Repair and Overhaul (MRO)"
+      ],
+      "website": "http://www.isbirelektrik.com.tr",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/isbirelektrik"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/isbirelektrik-resmi/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/isbirelektrik_resmi/"
+        }
+      ],
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "J.E.T LLC",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jet-llc"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jet-llc",
+      "country": {
+        "text": "Ukraine",
+        "iso2": "UA"
+      }
+    },
+    {
+      "name": "JINO Motors Co. Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jino-motors-co-"
+    },
+    {
+      "name": "JODDB",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/joddb",
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
+    },
+    {
+      "name": "JSC Almaz-Antey",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jsc-almaz-antey"
+    },
+    {
+      "name": "JSC High Precision Weapons",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jsc-high-precision-weapons"
+    },
+    {
+      "name": "JSC Technodinamika",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jsc-technodinamilka"
+    },
+    {
+      "name": "John Cockerill",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/john-cockerill",
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
+    },
+    {
+      "name": "Jordan Design & Development Bureau (JODDB)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jordan-design-development-bureau-joddb",
+      "country": {
+        "text": "Jordan",
+        "iso2": "JO"
+      }
+    },
+    {
+      "name": "Jordan National K9 Center (JK9)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/jordan-national-k9-center-jk9"
     },
     {
       "name": "KAI",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kai"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kai",
+      "category": "Airframe Manufacturers",
+      "website": "https://www.koreaaero.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/korea-aerospace-industries"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kai__korea"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://youtube.com/@globalkai"
+        }
+      ],
+      "country": {
+        "text": "Korea, Republic of",
+        "iso2": "KR"
+      }
+    },
+    {
+      "name": "KENCOA Aerospace",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kencoa-aerospace"
+    },
+    {
+      "name": "KYUNG DO Co.LTD.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kyung-co"
     },
     {
       "name": "Kale Savunma",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kale-savunma"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kale-savunma",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Kar Metal",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kar-metal"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kar-metal",
+      "category": [
+        "Artillery Systems and Ammunitions",
+        "Guns and Ammunition"
+      ],
+      "website": "http://www.karmetal.net.tr",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
+    },
+    {
+      "name": "King Abdullah II Special Operations Training Center (KASOTC)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/king-abdullah-ii-special-operations-training-center-kasotc"
+    },
+    {
+      "name": "Knds France",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/knds-france",
+      "address": {
+        "text": "13 route de la Minière\nVERSAILLES\n78034\nFrance",
+        "iso2": "FR",
+        "lat": 48.7838304,
+        "lon": 2.1033335
+      },
+      "website": "https://knds.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/KNDS_France"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/knds-france"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/knds_france/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@knds_france"
+        }
+      ]
+    },
+    {
+      "name": "Korea Defense Industry Association (KDIA)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/korea-defense-industry-association-kdia",
+      "address": {
+        "text": "13th Floor, Sungwoo Building\n49, Mapodaero, Mapo-gu\nSeoul\n04158\nKorea, Republic of",
+        "iso2": "KR",
+        "lat": 37.5408431,
+        "lon": 126.9469021
+      },
+      "category": "Government-Related Security Organizations",
+      "website": "https://kdia.or.kr/main/main.do"
     },
     {
       "name": "Kup Celik",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kup-celik"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kup-celik",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Kutay Savunma",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kutay-savunma"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/kutay-savunma",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "L3 Harris Technologies",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/l3-harris-technologies"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/l3-harris-technologies",
+      "category": [
+        "Air Defence Systems",
+        "Communication Systems",
+        "Day-Night Vision Devices",
+        "Surveillance, Reconnaissance and Security Systems"
+      ],
+      "website": "https://www.l3harris.com",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "LEONARDO",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/leonardo"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/leonardo",
+      "website": "https://www.leonardo.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/Leonardo_live"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/leonardo_company/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/leonardo_company/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/LeonardoCompany"
+        }
+      ],
+      "country": {
+        "text": "Italy",
+        "iso2": "IT"
+      }
     },
     {
       "name": "LZ Tech",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/lz-tech"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/lz-tech",
+      "address": {
+        "text": "Dongsheng International Science Park\nZhongguancun, Haidian District\nChina",
+        "iso2": "CN",
+        "lat": 39.9799664,
+        "lon": 116.3160877
+      },
+      "website": "https://lztech.tech"
+    },
+    {
+      "name": "Lacroix",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/lacroix",
+      "address": {
+        "text": "LACROIX\nRoute de Gaudiès, 09270 Mazères\nMazères\n09270\nFrance",
+        "iso2": "FR",
+        "lat": 43.2463063,
+        "lon": 1.6809564
+      },
+      "category": [
+        "Air Defence Systems",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Training & Simulation Equipment / Services"
+      ],
+      "website": "https://www.lacroix-defense.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/lacroix-defence/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@lacroixdefense4166"
+        }
+      ]
     },
     {
       "name": "Leonardo DRS",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/leonardo-drs"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/leonardo-drs",
+      "category": [
+        "C4ISR Systems",
+        "Command, Control and Communication (C3) Systems",
+        "Cyber Defence - Electronic Warfare",
+        "Sonar and Radar Systems",
+        "Unmanned and Autonomous Systems"
+      ],
+      "website": "https://www.leonardodrs.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/leonardodrsinc/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/LeonardoDRSnews"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/leonardodrs/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/leonardodrs/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/leonardodrs"
+        }
+      ],
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
     },
     {
       "name": "Lockheed Martin",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/lockheed-martin"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/lockheed-martin",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "Loyalty Support Services (LSS)",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/loyalty-support-services-lss"
+    },
+    {
+      "name": "M&K",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mk"
+    },
+    {
+      "name": "MAC JEE",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mac-jee"
     },
     {
       "name": "MBDA",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mbda"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mbda",
+      "website": "https://www.mbda-systems.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/GroupMBDA/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/MBDAGroup"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/mbda"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mbdagroup/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@MBDAmissilesystems"
+        }
+      ],
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
-      "name": "MIilux",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/miilux"
+      "name": "MCV",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mcv",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "MDT Savunma Sanayi A.S",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mdt-savunma-sanayi-s",
+      "category": [
+        "Air-to-Ground and Coastal Defence Systems",
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "Consultancy and Planning Organisations",
+        "Artillery Systems and Ammunitions",
+        "Missile Systems"
+      ],
+      "website": "https://www.meddeftech.com/tr",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/feed/"
+      },
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
+    },
+    {
+      "name": "MODIRUM GESPI",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/modirum-gespi"
     },
     {
       "name": "MPG",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mpg"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mpg",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "MSM GROUP s.r.o.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/msm-group-sro"
     },
     {
       "name": "MSM Land Systems",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/msm-land-systems"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/msm-land-systems",
+      "address": {
+        "text": "MSM LAND SYSTEMS\nKasarenska 8\nTrencin\n91105\nSlovakia",
+        "iso2": "SK",
+        "lat": 48.9101517,
+        "lon": 18.0213765
+      },
+      "category": [
+        "Air Defence Systems",
+        "Artillery Systems and Ammunitions",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://www.msmls.sk/en/"
     },
     {
       "name": "Marvin Test Solutions",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/marvin-test-solutions"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/marvin-test-solutions",
+      "address": {
+        "text": "Marvin Test Solutions\n1770 Kettering\nIrvine\nCalifornia\n92614\nUnited States",
+        "iso2": "US",
+        "lat": 33.6964811,
+        "lon": -117.8462508
+      },
+      "website": "https://www.marvintest.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MarvinTestSolutions/#"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/MarvinTestSoln"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/marvin-test-solutions"
+        }
+      ]
     },
     {
       "name": "Menatek",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/menatek"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/menatek",
+      "category": [
+        "Engines and Transmission Systems - Propulsion Systems",
+        "Land Vehicles"
+      ],
+      "website": "https://menatek.com.tr/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/MenatekDefenseTechnologies/about/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/menatek-defense-technologies"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/menatekdefensetechnologies/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCfH3aplUidoZHo7DMHcc-mA"
+        }
+      ],
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Mesica",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mesica"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mesica",
+      "category": "Search, Rescue and Safety Equipment",
+      "website": "https://www.mesicamarine.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/mesica-marine/posts/?feedView=all"
+      },
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Metal Technology Group",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/metal-technology-group"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/metal-technology-group",
+      "category": [
+        "Close Defence Weapons",
+        "Artillery Systems and Ammunitions",
+        "Land Vehicles"
+      ],
+      "website": "https://mtgbg.com",
+      "country": {
+        "text": "Bulgaria",
+        "iso2": "BG"
+      }
     },
     {
       "name": "Middle East Company (MEC)",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/middle-east-company-mec"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/middle-east-company-mec",
+      "address": {
+        "text": "5\n256\n5 ,256 street , floor5 flat 13, maadi ,cairo\nCairo\nEGYPT\n11511\nEgypt",
+        "iso2": "EG",
+        "lat": 29.9670016,
+        "lon": 31.2704938
+      },
+      "website": "https://www.mec-ndt.co",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/middle-east-co-mec-ndt/"
+      }
     },
     {
       "name": "Midyat Patlayici",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/midyat-patlayici"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/midyat-patlayici",
+      "website": "https://midyatpatlayici.com.tr",
+      "country": {
+        "text": "Turkey",
+        "iso2": "TR"
+      }
     },
     {
       "name": "Milkor",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/milkor"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/milkor",
+      "category": [
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Land Vehicles",
+        "Shipbuilders",
+        "Unmanned and Autonomous Systems",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://milkor.com",
+      "country": {
+        "text": "South Africa",
+        "iso2": "ZA"
+      }
     },
     {
       "name": "Mine Master Ltd",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mine-master"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/mine-master",
+      "address": {
+        "text": "Mine Master\nWilków, ul. Dworcowa 27\n59-500 Złotoryja\nZlotoryja\n59-500\nPoland",
+        "iso2": "PL",
+        "lat": 51.086264,
+        "lon": 15.966584
+      },
+      "website": "https://www.minemaster.eu",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/625289"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@minemasterpl"
+        }
+      ]
     },
     {
       "name": "Ministry of Defense Industry of Republic of Azerbaijan",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ministry-defense-industry-republic-azerbaijan"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ministry-defense-industry-republic-azerbaijan",
+      "address": {
+        "text": "40 Matbuat avenue,\nBaku\nAZERBAIJAN\nAZ1141\nAzerbaijan",
+        "iso2": "AZ",
+        "lat": 40.3788574,
+        "lon": 49.8089494
+      },
+      "category": [
+        "Anti-tank / Wall Breaching Weapon Systems",
+        "Clothing - Camouflage",
+        "Guns and Ammunition",
+        "Helmets, Visors, Masks, Ear and Eye Protection",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://azersilah.com"
     },
     {
       "name": "Ministry of Military Production",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ministry-military-production"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ministry-military-production",
+      "country": {
+        "text": "Egypt",
+        "iso2": "EG"
+      }
+    },
+    {
+      "name": "Munitions India Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/munitions-india-limited"
     },
     {
       "name": "NAVANTIA SA",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/navantia-sa"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/navantia-sa",
+      "category": [
+        "Command, Control and Communication (C3) Systems",
+        "Navigation Systems",
+        "Shipbuilders",
+        "Sonar and Radar Systems",
+        "Training & Simulation Equipment / Services"
+      ],
+      "website": "https://www.navantia.es/es/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/navantiaoficial"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/NavantiaOficial"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://es.linkedin.com/company/navantia"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/navantiaoficial"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/navantiaoficial"
+        }
+      ],
+      "country": {
+        "text": "Spain",
+        "iso2": "ES"
+      }
+    },
+    {
+      "name": "ND SATCOM",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/nd-satcom"
     },
     {
       "name": "NORCATEC LLC",
@@ -942,12 +2996,81 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/northrop-grumman"
     },
     {
+      "name": "NOVO LLC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/novo-llc"
+    },
+    {
       "name": "NVL",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/nvl"
     },
     {
+      "name": "Nanjing kango Outdoor Products Co. LTD.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/nanjing-kango-outdoor-products-co-",
+      "category": [
+        "Clothing - Camouflage",
+        "Day-Night Vision Devices",
+        "Helmets, Visors, Masks, Ear and Eye Protection",
+        "Search, Rescue and Safety Equipment",
+        "Tactical Equipment"
+      ],
+      "website": "http://www.kango-tac.com",
+      "social": {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100088600356073"
+      },
+      "country": {
+        "text": "China",
+        "iso2": "CN"
+      }
+    },
+    {
+      "name": "Nation Shield",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/nation-shield",
+      "address": {
+        "text": "UAE MOD, AL MAQTA CAMP, UMM AL NAAR\nABU DHABI\nUNITED ARAB EMIRATES\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.441425,
+        "lon": 54.51633
+      },
+      "website": "https://www.nationshield.ae"
+    },
+    {
       "name": "Naval Group",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/naval-group"
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/naval-group",
+      "category": [
+        "Cyber Defence - Electronic Warfare",
+        "Maintenance, Repair and Overhaul (MRO)",
+        "Shipbuilders",
+        "Unmanned and Autonomous Systems",
+        "Weapons and Combat Systems"
+      ],
+      "website": "https://www.naval-group.com/fr",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/navalgroup/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/navalgroup"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://fr.linkedin.com/company/naval-group"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/navalgroup/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/DCNSgroup"
+        }
+      ],
+      "country": {
+        "text": "France",
+        "iso2": "FR"
+      }
     },
     {
       "name": "Navist Muhendislik",
@@ -986,12 +3109,16 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/panaro"
     },
     {
+      "name": "PBS GROUP",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/pbs-group"
+    },
+    {
       "name": "PLATH GmbH & Co. KG",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/plath-gmbh-co-kg"
     },
     {
-      "name": "Poly",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/poly"
+      "name": "Planys Technologies Pvt.Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/planys-technologies-pvt"
     },
     {
       "name": "Poongsan Corporation",
@@ -1000,6 +3127,10 @@
     {
       "name": "Proforce Limited",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/proforce-limited"
+    },
+    {
+      "name": "Promavtomatyka Vinnytsia LLC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/promavtomatyka-vinnytsia-llc"
     },
     {
       "name": "Promec",
@@ -1026,6 +3157,10 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ramsa-hava-savunma"
     },
     {
+      "name": "Raytheon - An RTX Business",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/rtx-raytheon"
+    },
+    {
       "name": "Red Cat Holdings",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/red-cat-holdings"
     },
@@ -1038,12 +3173,24 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/rolatube-technology"
     },
     {
+      "name": "Rosoboronexport",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/rosoboronexport"
+    },
+    {
       "name": "Rota Vinc",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/rota-vinc"
     },
     {
-      "name": "SBS Trading Consultancy FZCO",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sbs-trading-consultancy-fzco"
+      "name": "Rubena",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/rubena"
+    },
+    {
+      "name": "S.M.S., s.r.o.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sms-sro"
+    },
+    {
+      "name": "SBS Group",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sbs-group"
     },
     {
       "name": "SDT",
@@ -1052,10 +3199,6 @@
     {
       "name": "SHIELD AI",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shield-ai"
-    },
-    {
-      "name": "SILVUS TECHNOLOGIES, INC.",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/silvus-technologies-inc"
     },
     {
       "name": "SINOHAWK POWER TECHNOLOGY CO. LTD",
@@ -1074,6 +3217,10 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/stx-engine-co"
     },
     {
+      "name": "SVP Aerospace",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/svp-aerospace"
+    },
+    {
       "name": "Safari Nano",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/safari-nano"
     },
@@ -1082,8 +3229,16 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/safety-egypt"
     },
     {
+      "name": "Safran Electronics & Defense",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/safran-electronics-defense"
+    },
+    {
       "name": "SailRay Optical Technology Co., Ltd",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sailray-optical-technology-co"
+    },
+    {
+      "name": "Samel-90 PLC",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/samel-90-plc"
     },
     {
       "name": "Sarsilmaz",
@@ -1098,6 +3253,10 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shenzhen-firepower-control-technology-co-"
     },
     {
+      "name": "Shenzhen Hobbywing Technology Co., Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shenzhen-hobbywing-technology-co"
+    },
+    {
       "name": "Shenzhen Sinosun Technology Co. Ltd.",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shenzhen-sinosun-technology-co-"
     },
@@ -1106,8 +3265,16 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shenzhen-yowoo-electronic-technology-co-"
     },
     {
+      "name": "Shinan Information & Communication Co. Ltd.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/shinan-information-communication-co-"
+    },
+    {
       "name": "SiNERJi",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/snerj"
+    },
+    {
+      "name": "Silvus Technologies, Inc.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/silvus-technologies-inc"
     },
     {
       "name": "Simbt",
@@ -1122,12 +3289,16 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sky-hammer"
     },
     {
-      "name": "Skypathu UAV",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/skypathu-uav"
-    },
-    {
       "name": "Suhhan Industries Co. Ltd.",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/suhhan-industries-co-"
+    },
+    {
+      "name": "Sungho Electronics Co.,Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/sungho-electronics-co"
+    },
+    {
+      "name": "Supply Core",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/supply-core"
     },
     {
       "name": "TBS Ltd",
@@ -1142,7 +3313,7 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/tkms"
     },
     {
-      "name": "TUSA?",
+      "name": "TUSAS",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/tusa"
     },
     {
@@ -1164,10 +3335,6 @@
     {
       "name": "Telewind Electronics",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/telewind-electronics"
-    },
-    {
-      "name": "Tesan",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/tesan"
     },
     {
       "name": "Threod Systems AS",
@@ -1210,8 +3377,8 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/turac"
     },
     {
-      "name": "Turk Maks",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/turk-maks"
+      "name": "Turmaks",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/turmaks"
     },
     {
       "name": "UE Minotor-Service",
@@ -1230,8 +3397,16 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/ulak"
     },
     {
-      "name": "VPK",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/vpk"
+      "name": "Unac",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/unac"
+    },
+    {
+      "name": "United Industrial",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/united-industrial"
+    },
+    {
+      "name": "Uttar Pradesh Defence Industrial corridor",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/uttar-pradesh-defence-industrial-corridor"
     },
     {
       "name": "Vektor Bilisimsel Test Cihazlari",
@@ -1246,16 +3421,36 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/vipulse"
     },
     {
+      "name": "WOORIHQ INC.",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/woorihq-inc"
+    },
+    {
       "name": "Will-Burt",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/burt"
     },
     {
-      "name": "WooCoo International (Hong Kong)",
+      "name": "WooCoo",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/woocoo-international-hong-kong"
+    },
+    {
+      "name": "Wuhan Huacheng Textile & Garments Co Ltd",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/wuhan-huacheng-textile-garments-co"
     },
     {
       "name": "Wuhan Jinteng Manufaturing & Trading Co Ltd",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/wuhan-jinteng-manufaturing-trading-co"
+    },
+    {
+      "name": "X-Beam Tech",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/x-beam-tech"
+    },
+    {
+      "name": "XMOBOTS",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/xmobots"
+    },
+    {
+      "name": "Yantra India Limited",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/yantra-india-limited"
     },
     {
       "name": "Yeonhab Precision Ltd",
@@ -1274,12 +3469,24 @@
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/yiltex-teknik-tekstil"
     },
     {
-      "name": "Zeed International",
-      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/zeed-international"
+      "name": "Yugoimport SDPR",
+      "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/yugoimport-sdpr"
     },
     {
       "name": "i2K Defense LLC",
       "exhibitorUrl": "https://www.egyptdefenceexpo.com/exhibitors/i2k-defense-llc",
+      "category": [
+        "Defence Barriers & Walls",
+        "Land Vehicles",
+        "Search, Rescue and Safety Equipment",
+        "Training & Simulation Equipment / Services",
+        "Tactical Equipment"
+      ],
+      "website": "https://i2kdefense.com",
+      "social": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@i2kDefense"
+      },
       "country": {
         "text": "United States",
         "iso2": "US"
