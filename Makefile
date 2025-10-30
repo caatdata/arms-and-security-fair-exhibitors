@@ -17,6 +17,11 @@ VENV := .venv
 
 all : validate summary.csv task
 
+full :
+	rm -f summary.csv
+	make
+	git status
+
 image : $(IMAGE_TRAVEL_ISO2_PNG)
 # travel-fair : $(IMAGE_TRAVEL_FAIR_PNG)
 
