@@ -124,6 +124,13 @@ def main():
                     "as `No exhibitor list`", slug, args.ignore_path
                 )
             fair_dict[series_slug][year]["noExhibitorList"] = True
+        elif "exhibitor list removed" in notes.lower():
+            if year not in fair_dict[series_slug]:
+                raise Exception(
+                    "No data found for slug `%s` marked in ignore file `%s` "
+                    "as `No exhibitor list`", slug, args.ignore_path
+                )
+            fair_dict[series_slug][year]["exhibitorListRemoved"] = True
         else:
             if year in fair_dict[series_slug]:
                 raise Exception(
@@ -202,6 +209,7 @@ def main():
                     })
                 elif (
                         data["exhibitorListDate"] and
+                        not data.get("exhibitorListRemoved", None) and
                         data["exhibitorListDate"] < data["endDate"] and
                         data["exhibitorListDate"] < today - UPDATE_INTERVAL
                 ):
