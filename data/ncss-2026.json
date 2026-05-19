@@ -35,7 +35,7 @@
     }
   ],
   "exhibitorListUrl": "https://www.nationalcybersecurityshow.com/exhibitor-list",
-  "exhibitorListDate": "2026-04-14T13:29:36+00:00",
+  "exhibitorListDate": "2026-05-19T13:14:50+00:00",
   "exhibitor": [
     {
       "name": "Adaptive Security",
@@ -351,6 +351,18 @@
       }
     },
     {
+      "name": "Hello Fresh",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/hello-fresh",
+      "category": "Awareness, training & education",
+      "website": "https://www.hellofresh.co.uk",
+      "address": {
+        "text": "Unit R2B Warehouse K\nUnit R2B Warehouse K 2 Western Gateway\nLondon\nE16 1DR\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 51.50915999999999,
+        "lon": 0.0255019
+      }
+    },
+    {
       "name": "Hewlett Packard",
       "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/hewlett-packard",
       "address": {
@@ -500,30 +512,34 @@
       ]
     },
     {
-      "name": "Kasm Technologies",
-      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/kasm-technologies",
+      "name": "Keeper",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/keeper",
+      "address": {
+        "text": "5 King's Terrace\nCork\nT23 DX49\nIreland",
+        "iso2": "IE",
+        "lat": 51.9015228,
+        "lon": -8.4645685
+      },
       "category": [
-        "Application security",
-        "Awareness, training & education",
         "Endpoint security",
         "Identification, authentication & access control management",
-        "Internet of things"
+        "Managed security services"
       ],
-      "website": "https://www.kasm.com",
-      "social": {
-        "platform": "linkedin",
-        "url": "https://www.linkedin.com/in/nick-haw/"
-      },
-      "address": {
-        "text": "1765 Greensboro Station\nPl STE 900\nMcLean\nVirginia\n22102\nUnited States",
-        "iso2": "US",
-        "lat": 38.9222519,
-        "lon": -77.2335635
-      }
-    },
-    {
-      "name": "Keeper",
-      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/keeper"
+      "website": "https://www.keepersecurity.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/keeperplatform/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/keepersecurity"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/keeper-security-inc-/"
+        }
+      ]
     },
     {
       "name": "KnowBe4",
@@ -610,7 +626,11 @@
         "lon": -0.1607485
       },
       "category": "Awareness, training & education",
-      "website": "https://www.london.edu/lbs-online"
+      "website": "https://www.london.edu/lbs-online",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/school/london-business-school/"
+      }
     },
     {
       "name": "Morgan Cyber Solutions",
@@ -635,38 +655,6 @@
         {
           "platform": "linkedin",
           "url": "https://www.linkedin.com/company/morgan-cyber-solutions/"
-        }
-      ]
-    },
-    {
-      "name": "NetCore j.s.a. (Unimus)",
-      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/netcore-js",
-      "address": {
-        "text": "Komenskeho 2891/114\nSnina\n06901\nSlovakia",
-        "iso2": "SK",
-        "lat": 48.986298,
-        "lon": 22.153636
-      },
-      "category": [
-        "Control systems",
-        "Information risk assessment & management",
-        "Incident response & management",
-        "Managed security services",
-        "Network security"
-      ],
-      "website": "https://unimus.net",
-      "social": [
-        {
-          "platform": "facebook",
-          "url": "https://www.facebook.com/unimus.net/"
-        },
-        {
-          "platform": "twitter",
-          "url": "https://x.com/UnimusNet"
-        },
-        {
-          "platform": "linkedin",
-          "url": "https://www.linkedin.com/company/netcore-jsa/"
         }
       ]
     },
@@ -828,6 +816,25 @@
       "social": {
         "platform": "linkedin",
         "url": "https://www.linkedin.com/company/s-connect-ltd/"
+      }
+    },
+    {
+      "name": "SPRITE+",
+      "exhibitorUrl": "https://www.nationalcybersecurityshow.com/exhibitors/sprite",
+      "category": [
+        "Awareness, training & education",
+        "Information risk assessment & management"
+      ],
+      "website": "https://www.spritehub.org",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/spriteplus/"
+      },
+      "address": {
+        "text": "HUmanities Bridgerford Street\nOxford Rd\nManchester\nM13 9PL\nUnited Kingdom",
+        "iso2": "GB",
+        "lat": 53.46654119999999,
+        "lon": -2.2365589
       }
     },
     {
@@ -1303,7 +1310,7 @@
       "website": "https://www.pentestpeople.com",
       "social": {
         "platform": "linkedin",
-        "url": "https://www.facebook.com/company/pentestpeople"
+        "url": "https://www.linkedin.com/company/pentestpeople"
       },
       "address": {
         "text": "The Coachworks\n21 The Calls\nLeeds\nLS2 7EH\nUnited Kingdom",
