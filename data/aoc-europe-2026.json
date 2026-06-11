@@ -19,7 +19,7 @@
     "address": "1001 N. Fairfax St., Suite 300\nAlexandria\nVA 22314\nUnited States of America"
   },
   "exhibitorListUrl": "https://aoceur26.mapyourshow.com/8_0/explore/exhibitor-gallery.cfm?featured=false",
-  "exhibitorListDate": "2026-05-06T13:32:59+00:00",
+  "exhibitorListDate": "2026-06-11T09:02:44+00:00",
   "exhibitor": [
     {
       "name": "AMD",
@@ -312,7 +312,18 @@
     },
     {
       "name": "Aselsan",
-      "exhibitorUrl": "https://aoceur26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=110"
+      "exhibitorUrl": "https://aoceur26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=110",
+      "category": [
+        "EW/SIGINT SERVICES > SIGINT System Integration Services",
+        "EW/SIGINT SYSTEMS > Anti-Jamming",
+        "EW/SIGINT SYSTEMS > COMINT Systems (Communications ESM Systems and Jammers)",
+        "EW/SIGINT SYSTEMS > Counter-UAS Systems",
+        "EW/SIGINT SYSTEMS > ELINT Systems",
+        "EW/SIGINT SYSTEMS > ESM Systems",
+        "EW/SIGINT SYSTEMS > GPS Jammers",
+        "EW/SIGINT SYSTEMS > Laser Warning Systems",
+        "EW/SIGINT SYSTEMS > Radar Warning Receivers"
+      ]
     },
     {
       "name": "Avantix",
@@ -413,7 +424,13 @@
     },
     {
       "name": "CACI International",
-      "exhibitorUrl": "https://aoceur26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=246"
+      "exhibitorUrl": "https://aoceur26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=246",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/caci-international-inc"
+        }
+      ]
     },
     {
       "name": "CPI TMD Technologies",
@@ -490,10 +507,12 @@
       "category": [
         "EW SIMULATORS > Laboratory EW Simulators",
         "EW/SIGINT SERVICES > EW/SIGINT Mission Planning Software",
+        "EW/SIGINT SERVICES > EW/SIGINT Software Development",
         "EW/SIGINT SERVICES > Operational EW Training Services and Software",
         "EW/SIGINT SYSTEMS > COMINT Systems (Communications ESM Systems and Jammers)",
         "EW/SIGINT SYSTEMS > Direction Finding Systems",
         "EW/SIGINT SYSTEMS > ESM Systems",
+        "EW/SIGINT SYSTEMS > Radar Jammers",
         "RF MICROWAVE COMPONENTS & SUBSYSTEMS > Antennas/Arrays"
       ]
     },
