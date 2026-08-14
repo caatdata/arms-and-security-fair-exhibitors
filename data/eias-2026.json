@@ -33,14 +33,16 @@
     }
   ],
   "exhibitorListUrl": "https://www.egypt-air-show.com/exhibitors",
-  "exhibitorListDate": "2026-07-09T14:15:34+00:00",
+  "exhibitorListDate": "2026-08-14T11:41:15+00:00",
   "exhibitor": [
     {
       "name": "ALIT",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/alit",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
+      "address": {
+        "text": "No.88 Nan Cai Yuan Street\nBeijing\n100054\nChina",
+        "iso2": "CN",
+        "lat": 39.8769999,
+        "lon": 116.366
       }
     },
     {
@@ -52,11 +54,47 @@
       }
     },
     {
+      "name": "Advanced Communication Systems DB",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/advanced-communication-systems-db",
+      "address": {
+        "text": "237 ramsis st. - ghamra\n11935\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0698378,
+        "lon": 31.2702473
+      },
+      "website": "https://db.com.eg"
+    },
+    {
       "name": "Aero Vodochody Aerospace",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aero-vodochody-aerospace",
-      "country": {
-        "text": "Czech Republic",
-        "iso2": "CZ"
+      "website": "https://www.aero.cz/en/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aerovodochody/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/AERO_Vodochody"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aero-vodochody-aerospace-a.s./"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aero_vodochody/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@aerovodochody7806"
+        }
+      ],
+      "address": {
+        "text": "U Letiste 374\nOdolena Voda\n250 70\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.22045500000001,
+        "lon": 14.4074204
       }
     },
     {
@@ -76,6 +114,43 @@
       }
     },
     {
+      "name": "Air Cairo",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/air-cairo",
+      "address": {
+        "text": "6 Safa st, Sheraton Heliopolis, Cairo , Egypt\n11331\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0908354,
+        "lon": 31.3391889
+      },
+      "website": "https://aircairo.com/en-eg/",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aircairo"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/Aircairo"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/8435392/admin/page-posts/published/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aircairo.official"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@AirCairoAirline"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@aircairo.official"
+        }
+      ]
+    },
+    {
       "name": "Airbus SAS",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/airbus-sas",
       "address": {
@@ -90,10 +165,10 @@
       "name": "AlDefaiya",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aldefaiya",
       "address": {
-        "text": "Minkara Center -6th floor\nMme Curie street- Hamra\nBeirut\n1103 2100\nLebanon",
+        "text": "Minkara Center -6th floor\nMme Curie street- Hamra -Ras Beirut\nBeirut\n1103 2100\nLebanon",
         "iso2": "LB",
-        "lat": 33.8959288,
-        "lon": 35.4826111
+        "lat": 33.8962787,
+        "lon": 35.4830274
       },
       "website": "https://www.defaiya.com",
       "social": {
@@ -105,24 +180,49 @@
       "name": "AlJundi Media",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aljundi-media",
       "country": {
-        "text": "United Arab Emirates",
+        "text": "1\n1\nUnited Arab Emirates",
         "iso2": "AE"
       }
     },
     {
+      "name": "Almaz-Antey Corp.",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jsc-almaz-antey",
+      "address": {
+        "text": "41 Vereyskaya str.\nMoscow\n121357\nRussia",
+        "iso2": "RU",
+        "lat": 55.7107555,
+        "lon": 37.4437559
+      },
+      "website": "https://www.almaz-antey.ru"
+    },
+    {
       "name": "Amstone International Group",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/amstone-international-group",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "address": {
+        "text": "City Stars F2 , corporate towers\nF2, City Stars Corporate, 2 Makram Ebeid Ext, Masa\nNasr City,\nEgypt\n12511\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0720706,
+        "lon": 31.3447703
+      },
+      "website": "https://amstoneig.com/en",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/105396853/admin/dashboard/"
       }
     },
     {
       "name": "Arab Organization for Industrialzation (AOI)",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/arab-organization-industrialzation-aoi",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "address": {
+        "text": "Kilo 17, Egypt-Suez Road - Cairo - Egypt\nCairo\ncairo\n11851\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0444196,
+        "lon": 31.2357116
+      },
+      "website": "https://www.aoi.org.eg",
+      "social": {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/AOI.OfficialPage/directory_intro"
       }
     },
     {
@@ -167,11 +267,51 @@
       ]
     },
     {
+      "name": "Ashmand",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/ashmand",
+      "address": {
+        "text": "2\n2 Mohamed Sedki ST, (El Esraa) from Lebanon St.,\nGIZA\n12411\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0130557,
+        "lon": 31.2088526
+      },
+      "website": "https://ashmand.com"
+    },
+    {
       "name": "Aviation Guide(7 dimensions)",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aviation-guide7-dimensions",
-      "country": {
-        "text": "United Arab Emirates",
-        "iso2": "AE"
+      "website": "https://aviationguideem.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aviationguideme?mibextid=ZbWKwL"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/AviationGuideEM"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aviation-guide/?viewAsMember=true"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aviationguide_?igsh=ejczcm5kdzFtamF1"
+        },
+        {
+          "platform": "youtube",
+          "url": "http://www.youtube.com/@aircargoupdate"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@aviation.guide?_t=8ofthXHlspU&_r=1"
+        }
+      ],
+      "address": {
+        "text": "Y1 28\nSAIF Zone\nSharjah\nUAE\n9604\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.3346624,
+        "lon": 55.4857495
       }
     },
     {
@@ -186,11 +326,72 @@
       }
     },
     {
+      "name": "Black Eagles",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/black-eagles",
+      "address": {
+        "text": "Wonju-si, Gangwon-do\n26304\nKorea, Republic of",
+        "iso2": "KR",
+        "lat": 37.428504,
+        "lon": 128.0205101
+      },
+      "website": "https://buly.kr/HSZtHYD",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/blackeagle.kr/?locale2=ko_KR&_rdr"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rokaf.blackeagles/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@blackeagles.official"
+        }
+      ]
+    },
+    {
+      "name": "Boeing",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/boeing",
+      "address": {
+        "text": "Boeing International Corporation\n155 Al Quds Street, PO Box 54289\nDubai, United Arab Emirates\n2623\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.2601355,
+        "lon": 55.3749361
+      },
+      "website": "https://www.boeing.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/Boeing"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/Boeing"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/boeing"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/"
+        }
+      ]
+    },
+    {
       "name": "CATIC",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/catic",
-      "country": {
-        "text": "China",
-        "iso2": "CN"
+      "website": "https://www.catic.cn",
+      "address": {
+        "text": "Catic Plaza\nBeijing\nChina\n100000\nChina",
+        "iso2": "CN",
+        "lat": 39.780674,
+        "lon": 116.51824
       }
     },
     {
@@ -233,6 +434,7 @@
     {
       "name": "Dassault",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/dassault",
+      "website": "https://www.dassault-aviation.com/en/",
       "address": {
         "text": "Quai Marcel Dassault\n92552\nFrance",
         "iso2": "FR",
@@ -244,7 +446,7 @@
       "name": "Defence 21Magazine",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/defence-21magazine",
       "country": {
-        "text": "Lebanon",
+        "text": "1\n1\nLebanon",
         "iso2": "LB"
       }
     },
@@ -259,10 +461,35 @@
     {
       "name": "Defense Arabia",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/defense-arabia",
-      "country": {
-        "text": "Lebanon",
-        "iso2": "LB"
-      }
+      "address": {
+        "text": "Beirut\nSelect...\n00961\nLebanon",
+        "iso2": "LB",
+        "lat": 33.8937913,
+        "lon": 35.5017767
+      },
+      "website": "https://defensearabia.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/DefenseArabia123"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/defensearabia"
+        },
+        {
+          "platform": "linkedin",
+          "url": "http://linkedin.com/company/defensearabia"
+        },
+        {
+          "platform": "instagram",
+          "url": "http://linkedin.com/company/defensearabia"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCN3qCUfPLrIqEEgZs80OaBw?view_as=subscriber"
+        }
+      ]
     },
     {
       "name": "Dreamliner AV",
@@ -292,22 +519,57 @@
     {
       "name": "EGYPTAIR Cargo",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptair-cargo",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "EGYPT - Cairo Airport Road\n1111\nEgypt",
+        "iso2": "EG",
+        "lat": 30.1204959,
+        "lon": 31.3904399
+      },
+      "website": "https://egyptair-cargo.com/home.htm"
     },
     {
-      "name": "Eclipse Group DWC-LLC (NASK)",
-      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/eclipse-group-dwc-llc-nask",
-      "country": {
-        "text": "Russia",
-        "iso2": "RU"
-      }
-    },
-    {
-      "name": "Egyptair",
+      "name": "EGYPTAIR Holding",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptair",
+      "website": "https://www.egyptair.com/en/Pages/HomePage.aspx",
+      "address": {
+        "text": "Egypt\ncairo\n00202\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0444196,
+        "lon": 31.2357116
+      }
+    },
+    {
+      "name": "ENOC Group",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/enoc-group",
+      "address": {
+        "text": "ENOC Complex, Sheikh Rashid Road\nDubai\nPO Box 6442\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 25.2330247,
+        "lon": 55.31008019999999
+      },
+      "website": "https://www.enoc.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ENOC/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/enoc_official?lang=en"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://ae.linkedin.com/company/enoc"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/enocofficial"
+        }
+      ]
+    },
+    {
+      "name": "Egyptian Air Force",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptian-air-force",
       "country": {
         "text": "Egypt",
         "iso2": "EG"
@@ -316,18 +578,85 @@
     {
       "name": "Egyptian Aviation Academy",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptian-aviation-academy",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "Egyptian Aviation Academy\nOctober Airport, El Wahat Road\n6th of October City\nGiza\nGiza Governorate\n12566\nEgypt",
+        "iso2": "EG",
+        "lat": 29.9338315,
+        "lon": 30.943906
+      },
+      "website": "https://www.eaaegypt.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/EgyptianAviationAcademy"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/egyptian-aviation-academy-434603137?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/egyptianaviation?igsh=MTh0bGkxdzE3cGpmZQ%3D%3D&utm_source=qr"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://youtube.com/@egyptianaviationacademy9986"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@egyptianaviation.academy?_r=1&_t=ZS-97v9ajpmD5R"
+        }
+      ]
     },
     {
       "name": "Egyptian Aviation Services (EAS)",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptian-aviation-services-eas",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "EgyptAir Building\nCairo International Airport Terminal (1)\n5th and 6th floor\nCairo\nEgypt\n0000\nEgypt",
+        "iso2": "EG",
+        "lat": 30.12724399999999,
+        "lon": 31.4015882
+      },
+      "website": "https://eas-eg.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/EgyptianAviationServices.eas/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/egyptianaviationservices/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/egyptianaviationservices?igsh=ZjdjeHNjaXUyN3Rp"
+        }
+      ]
+    },
+    {
+      "name": "Egyptian Space Agency (EgSA)",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/egyptian-space-agency-egsa",
+      "address": {
+        "text": "Space City, New Cairo, Cairo Governorate, Egypt\n.Space City, New Cairo, Cairo Governorate, Egypt\nCairo\nEgypt\n.11865\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0444196,
+        "lon": 31.2357116
+      },
+      "website": "https://egsa.gov.eg",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://web.facebook.com/egyptian.space.agency"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/egyptian-space-agency/home/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/egsa_egyptianspaceagency"
+        }
+      ]
     },
     {
       "name": "El Daba Trading & Engineering Company LTD.",
@@ -372,10 +701,23 @@
     {
       "name": "Enigma Aviation Services",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/enigma-aviation-services",
-      "country": {
-        "text": "1\n1\nEgypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "5A, Khaled Ibn El- Waleed, Sheraton Heliopolis\nCairo\nEgypt\n11799\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0444196,
+        "lon": 31.2357116
+      },
+      "website": "https://enigma-aviation.com",
+      "social": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/enigmaaviation-services/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/enigmaaviationservices?igsh=N3Q2MzJwc3kzdHlj&utm_source=qr"
+        }
+      ]
     },
     {
       "name": "Flynas",
@@ -421,10 +763,32 @@
       "name": "GE Aerospace",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/ge-aerospace",
       "address": {
-        "text": "1\n1\nUnited States",
+        "text": "1 Neumann Way\nCincinnati, Ohio, 45215, USA\nUnited States",
         "iso2": "US",
-        "lat": 37.2266918,
-        "lon": -77.4013696
+        "lat": 39.2464786,
+        "lon": -84.4445626
+      },
+      "website": "https://www.geaerospace.com"
+    },
+    {
+      "name": "GIFAS",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/gifas",
+      "website": "https://gifas.fr",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/GifasOfficiel"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/gifas/posts/?feedView=all"
+        }
+      ],
+      "address": {
+        "text": "GIFAS\n8 Rue Galilée\nParis Cedex\nFRANCE\n75116\nFrance",
+        "iso2": "FR",
+        "lat": 48.8675484,
+        "lon": 2.2913669
       }
     },
     {
@@ -451,15 +815,26 @@
     {
       "name": "HPS AVIATION",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/hps-aviation",
-      "country": {
-        "text": "United Arab Emirates",
-        "iso2": "AE"
+      "website": "http://www.hpsaviation.com",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/95176296/admin/dashboard/"
+      },
+      "address": {
+        "text": "Masdar city no 11\nabu dhabi\nأبو ظبي\n00000\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.4266734,
+        "lon": 54.614979
       }
     },
     {
       "name": "Hades Defense Systems",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/hades-defense-systems",
       "website": "https://hadesdefense.eu",
+      "social": {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/hades-defense-systems/posts/?feedView=all"
+      },
       "address": {
         "text": "Aleko Konstantinov 11\nKazanlak\nBulgaria\n6200\nBulgaria",
         "iso2": "BG",
@@ -505,12 +880,36 @@
       }
     },
     {
-      "name": "Jetavia",
-      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jetavia",
-      "country": {
-        "text": "San Marino",
-        "iso2": "SM"
+      "name": "JSC High Precision Weapons",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jsc-high-precision-weapons",
+      "address": {
+        "text": "21 Gogolevsky Bulvar, str. 1\n119091\nRussia",
+        "iso2": "RU",
+        "lat": 55.7475783,
+        "lon": 37.5992162
+      },
+      "website": "http://npovk.ru"
+    },
+    {
+      "name": "JSC NASC",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jsc-nasc",
+      "address": {
+        "text": "13, bld.4\nBolshaya Cheremushkinskaya str.\nMoscow\n117447\nRussia",
+        "iso2": "RU",
+        "lat": 55.6856538,
+        "lon": 37.5931377
       }
+    },
+    {
+      "name": "JSC Rosoboronexport",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jsc-rosoboronexport",
+      "address": {
+        "text": "27, Stromynka St.\nMoscow\n107076\nRussia",
+        "iso2": "RU",
+        "lat": 55.7898489,
+        "lon": 37.6876826
+      },
+      "website": "http://www.roe.ru"
     },
     {
       "name": "Jewers Doors Ltd",
@@ -546,6 +945,31 @@
       }
     },
     {
+      "name": "Jordan Aeronatical Systems Company (JAC)",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/jordan-aeronatical-systems-company-jac",
+      "address": {
+        "text": "AMMAN - JORAN\nAMMAN AIRPORT\nAMMAN\nJORDAN\n11134\nJordan",
+        "iso2": "JO",
+        "lat": 31.9543786,
+        "lon": 35.9105776
+      },
+      "website": "https://www.jac.com.jo/#",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/JordanAeronauticalSystems"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/jordan-aeronautical-systems-company"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/jac.rjaf/"
+        }
+      ]
+    },
+    {
       "name": "Korea Aerospace Industries",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/korea-aerospace-industries",
       "country": {
@@ -554,7 +978,7 @@
       }
     },
     {
-      "name": "L3Harris Technologies, Inc.",
+      "name": "L3Harris",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/l3harris-technologies-inc",
       "website": "https://www.l3harris.com",
       "social": [
@@ -589,11 +1013,31 @@
     {
       "name": "Leonardo",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/leonardo",
-      "country": {
-        "text": "1\n1\nItaly",
-        "iso2": "IT"
+      "address": {
+        "text": "Piazza Monte Grappa, 4\n00195\nItaly",
+        "iso2": "IT",
+        "lat": 41.9192197,
+        "lon": 12.4692981
       },
-      "website": "https://www.leonardo.com"
+      "website": "https://www.leonardo.com",
+      "social": [
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/Leonardo_live"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/leonardo_company/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/leonardo_company/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/leonardocompany"
+        }
+      ]
     },
     {
       "name": "Link Aero",
@@ -615,14 +1059,6 @@
           "url": "https://www.linkedin.com/company/link-aero/"
         }
       ]
-    },
-    {
-      "name": "Linkavia",
-      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/linkavia",
-      "country": {
-        "text": "United Arab Emirates",
-        "iso2": "AE"
-      }
     },
     {
       "name": "Lockheed Martin",
@@ -648,6 +1084,17 @@
         "lat": 32.7739338,
         "lon": -97.4466101
       }
+    },
+    {
+      "name": "Lyntris",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/lyntris",
+      "address": {
+        "text": "2725 Congress St Ste 1M\n1M\nSan Diego\nCalifornia\n92110-2766\nUnited States",
+        "iso2": "US",
+        "lat": 32.7533858,
+        "lon": -117.1983104
+      },
+      "website": "https://www.lyntris.com"
     },
     {
       "name": "MBDA",
@@ -698,6 +1145,27 @@
       }
     },
     {
+      "name": "MRF Limited",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/mrf-limited",
+      "address": {
+        "text": "MRF Limited,Regd.Office\n114,Greams Road\nChennai\nIndia\n600006\nIndia",
+        "iso2": "IN",
+        "lat": 13.0660098,
+        "lon": 80.2543122
+      },
+      "website": "https://www.mrftyres.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mrfcorporate"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mrfcorporate"
+        }
+      ]
+    },
+    {
       "name": "Mash Consultants",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/mash-consultants",
       "address": {
@@ -724,6 +1192,17 @@
       }
     },
     {
+      "name": "NSAS Group",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/nsas-group",
+      "address": {
+        "text": "Lake Town, Golden Sq. New Cairo Gate A1,\nGolden Sq. New Cairo Gate A1,\nCairo\nEgypt\n002\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0225669,
+        "lon": 31.4370522
+      },
+      "website": "https://nsasgroup.com"
+    },
+    {
       "name": "Oriental Sky Aviation",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/oriental-sky-aviation",
       "country": {
@@ -740,18 +1219,72 @@
         "url": "https://www.linkedin.com/company/petra-aerospace/"
       },
       "address": {
-        "text": "Complex One\nNA\nAmman\nJordan\n0000\nJordan",
+        "text": "Complex Number One\nQueen Alia International Airport Free Zone\nAmman\nJordan\n11118\nJordan",
         "iso2": "JO",
         "lat": 31.9543786,
         "lon": 35.9105776
       }
     },
     {
+      "name": "Petroleum Air Services",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/petroleum-air-services",
+      "address": {
+        "text": "Petroleum Air Services. 5 batrawy st.\nnasr city\ncairo\negyot\n11722\nEgypt",
+        "iso2": "EG",
+        "lat": 30.051085,
+        "lon": 31.3655989
+      },
+      "website": "https://www.pas.com.eg",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FPetroleumAirServices%3Fmibextid%3DLQQJ4d&data=05%7C02%7CNermine.Bakr%40pas.com.eg%7C8d9ffcc05d8a4681837708dca71abc60%7Ca72dd6f8dfe543538c7f871c18f8a608%7C0%7C0%7C638568980485199894%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=37zloBVNQv3ZZQoYg9B8zI%2BTMLvnWu5BBbCjgV07%2B%2BM%3D&reserved=0"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fpetroleum-air-services%2F&data=05%7C02%7CNermine.Bakr%40pas.com.eg%7C8d9ffcc05d8a4681837708dca71abc60%7Ca72dd6f8dfe543538c7f871c18f8a608%7C0%7C0%7C638568980485223768%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=mqQwJkQ2eKpF%2FgBOAgpVdmsEXEZN311SM7dL89ZRR5M%3D&reserved=0"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/petroleumairservices?igsh=cGV5OGV0ODFteGxl&utm_source=qr"
+        }
+      ]
+    },
+    {
+      "name": "RAM",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/ram",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "RDO Aeroprocurement",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/rdo-aeroprocurement",
+      "country": {
+        "text": "United States",
+        "iso2": "US"
+      }
+    },
+    {
+      "name": "Raytheon",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/rtx",
+      "address": {
+        "text": "Germany\n23560\nUnited States",
+        "iso2": "DE",
+        "lat": 53.8202452,
+        "lon": 10.6357577
+      }
+    },
+    {
       "name": "Red Sea Airlines",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/red-sea-airlines",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "website": "https://redseaairlines.com",
+      "address": {
+        "text": "nasr city\n4451345\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0801071,
+        "lon": 31.3380797
       }
     },
     {
@@ -760,13 +1293,14 @@
       "country": {
         "text": "1\n1\nFrance",
         "iso2": "FR"
-      }
+      },
+      "website": "https://www.safran-group.com"
     },
     {
       "name": "Smart Aviation",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/smart-aviation",
       "address": {
-        "text": "ministry of Civil Aviation level 4\n-airport road\nCairo\nCairo\nEgypt",
+        "text": "ministry of Civil Aviation 4th floor\n-airport road\nCairo\nCairo\nEgypt",
         "iso2": "EG",
         "lat": 30.1204959,
         "lon": 31.3904399
@@ -798,10 +1332,31 @@
     {
       "name": "SolitAir Holding",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/solitair-holding",
-      "country": {
-        "text": "United Arab Emirates",
-        "iso2": "AE"
-      }
+      "address": {
+        "text": "SolitAir\nDubai World Central, Plot CT-05, Dubai South\nDubai\nUnited Arab Emirates\n00000\nUnited Arab Emirates",
+        "iso2": "AE",
+        "lat": 24.888629,
+        "lon": 55.14676559999999
+      },
+      "website": "https://www.solitairholding.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://facebook.com/people/SolitAir-Holding/61577507518539/#"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/company/solitair-holding"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://instagram.com/solitairholding/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@SolitAirHolding"
+        }
+      ]
     },
     {
       "name": "Systems Engineering of Egypt -SEE",
@@ -810,6 +1365,17 @@
         "text": "Egypt",
         "iso2": "EG"
       }
+    },
+    {
+      "name": "TBS Ltd.",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/tbs-",
+      "address": {
+        "text": "TBS building\n11D Boris Rumenov St., Lozenets District\nSofia\nBulgaria\n1407\nBulgaria",
+        "iso2": "BG",
+        "lat": 42.6743583,
+        "lon": 23.3282421
+      },
+      "website": "https://tbs.bg/#"
     },
     {
       "name": "Thales",
@@ -845,20 +1411,29 @@
       }
     },
     {
-      "name": "The Aviator Africa",
-      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aviator-africa",
-      "country": {
-        "text": "Uganda",
-        "iso2": "UG"
-      }
-    },
-    {
       "name": "The Aviator Group",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/aviator-group",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "Block 12، Majarrah,\n26th of July Corridor\n12252\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0260038,
+        "lon": 31.0150058
+      },
+      "website": "https://theaviatorsgroup.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/theaviatorsgroupp"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-aviators-group/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aviationforaviators/"
+        }
+      ]
     },
     {
       "name": "The Flying Pharoah",
@@ -866,26 +1441,64 @@
       "country": {
         "text": "1\n1\nEgypt",
         "iso2": "EG"
-      }
+      },
+      "website": "https://theflyingpharaoh.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/theflyingpharaoh"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/the.flying.pharaoh/"
+        }
+      ]
     },
     {
       "name": "Tiger Aviation Services",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/tiger-aviation-services",
+      "address": {
+        "text": "One Kattameya، Tower 216, Al Hay Al Asher, flt 7\nCairo\n4440003.\nEgypt",
+        "iso2": "EG",
+        "lat": 29.97891,
+        "lon": 31.35635
+      },
+      "website": "https://www.tigeraviation.aero",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://web.facebook.com/profile.php?id=100093300266207#"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/tiger-aviation-services/posts/?feedView=all"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tigeraviationservices?igsh=MW1iNXhrbWY3dWQw"
+        }
+      ]
+    },
+    {
+      "name": "Top Aces",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/top-aces",
       "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+        "text": "United States",
+        "iso2": "US"
       }
     },
     {
       "name": "Tornex",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/tornex",
-      "country": {
-        "text": "1\n1\nEgypt",
-        "iso2": "EG"
+      "address": {
+        "text": "33\n1\ncairo\nEgypt\n1\nEgypt",
+        "iso2": "EG",
+        "lat": 30.0444196,
+        "lon": 31.2357116
       }
     },
     {
-      "name": "TotalEnergies Marketing Egypt LLC",
+      "name": "TotalEnergies ADNOC Marketing",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/totalenergies-marketing-egypt-llc",
       "website": "https://totalenergies.eg/en",
       "address": {
@@ -898,34 +1511,173 @@
     {
       "name": "Travel and Tour World",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/travel-tour-world",
-      "country": {
-        "text": "India",
-        "iso2": "IN"
-      }
+      "address": {
+        "text": "244th 5th Avenue suite 2468 , Newyork 10001\nNewyork\nUnited States Of America\n10001\nUnited States",
+        "iso2": "US",
+        "lat": 40.7621498,
+        "lon": -73.9760208
+      },
+      "website": "https://www.travelandtourworld.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ttwemagazine"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/ttw_digital"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/posts/travel-and-tour-world_foodteccambodia-foodtechnology-foodprocessing-activity-7487430115258265603-esJT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8IO3cB_i30tA2FwqExIn-iGs4t1tqSGo8"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/travelandtourworld/?hl=en"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/TravelAndTourWorld"
+        }
+      ]
+    },
+    {
+      "name": "Tucano Aviation",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/tucano-aviation",
+      "address": {
+        "text": "26 Almoltaqa Alarabi Street\nCairo / Sheraton Residences\nEgypt\n00000\nEgypt",
+        "iso2": "EG",
+        "lat": 30.105374,
+        "lon": 31.376185
+      },
+      "website": "https://tucanoac.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/share/1GnR7rM74P/?mibextid=wwXIfr"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/tucano-eg/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tucano_charter?igsh=MTUxNnRxenhsdDdybQ=="
+        }
+      ]
     },
     {
       "name": "Turkish Aerospace Industries INC.",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/turkish-aerospace-industries-inc",
-      "country": {
-        "text": "Turkey",
-        "iso2": "TR"
-      }
+      "address": {
+        "text": "Turkish Aerospace\nFethiye Mahallesi, Havacılık Bulvarı No:17 06980 K\nHavacılık Avenue 17\nANKARA\nAnkara\n06980\nTurkey",
+        "iso2": "TR",
+        "lat": 40.127118,
+        "lon": 32.554607
+      },
+      "website": "https://www.tusas.com/en",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/turkishaerospace/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/TUSAS_EN"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/turkishaerospace"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/turkishaerospace/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/turkishaerospace"
+        }
+      ]
     },
     {
       "name": "United ATS",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/united-ats",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
+      "address": {
+        "text": "United ATS Company\nAl Obour, Al Qalyubia Governorate 6361663\nCairo\nObour\n11828\nEgypt",
+        "iso2": "EG",
+        "lat": 30.251246,
+        "lon": 31.48121089999999
+      },
+      "website": "https://unitedats.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/UnitedATS"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://x.com/unitedatseg"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/unitedats/posts/?feedView=all"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/unitedats/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@UnitedATS."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@unitedats.com"
+        }
+      ]
+    },
+    {
+      "name": "United Aircraft Corporation",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/united-aircraft-corporation",
+      "address": {
+        "text": "75A, Volokolamskoye Shosse\nMoscow\n125424\nRussia",
+        "iso2": "RU",
+        "lat": 55.8256841,
+        "lon": 37.4271641
+      },
+      "website": "https://www.uacrussia.ru/com"
+    },
+    {
+      "name": "Volga-Dnepr Group",
+      "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/volga-dnepr-group",
+      "website": "https://volga-dnepr.com",
+      "address": {
+        "text": "14\nRussia\nKarbysheva Str\nUlyanovsk\nRussia\n432072\nRussia",
+        "iso2": "RU",
+        "lat": 54.35078679999999,
+        "lon": 48.6201407
       }
     },
     {
-      "name": "Z-Aviation Services \"ZAS\"",
+      "name": "ZAS Group",
       "exhibitorUrl": "https://www.egypt-air-show.com/exhibitors/z-aviation-services-zas",
-      "country": {
-        "text": "Egypt",
-        "iso2": "EG"
-      }
+      "address": {
+        "text": "17 Mostafa Rifaat St. Block No.1138 Sheraton\nCairo\nEgypt\n11361\nEgypt",
+        "iso2": "EG",
+        "lat": 30.1025012,
+        "lon": 31.37767109999999
+      },
+      "website": "https://zasair.com",
+      "social": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/p/Z-Aviation-Services-100063803803378/"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/18198232/"
+        }
+      ]
     }
   ]
 }
