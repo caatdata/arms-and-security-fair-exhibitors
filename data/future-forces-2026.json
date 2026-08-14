@@ -40,10 +40,20 @@
     }
   ],
   "exhibitorListUrl": "https://future-forces.org/exhibitors/list/state?lang=en",
-  "exhibitorListDate": "2026-07-09T14:02:46+00:00",
+  "exhibitorListDate": "2026-08-14T11:40:08+00:00",
   "exhibitor": [
     {
       "name": "3DFENSE",
+      "address": {
+        "text": "Anenská 3/2, Brno 60200",
+        "iso2": "CZ",
+        "lat": 49.1912769,
+        "lon": 16.6009214
+      },
+      "category": [
+        "Unmanned and Autonomous Systems, Robotics",
+        "Unmanned Air Vehicles (UAV)"
+      ],
       "website": "https://3dfense.com"
     },
     {
@@ -54,7 +64,37 @@
         "lat": 50.0262892,
         "lon": 14.4975307
       },
+      "category": [
+        "Office Supplies",
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Cleaning Utensils and Chemicals",
+        "Fire Fighting Equipment and Vehicles",
+        "CBRN Systems",
+        "Filtration Units",
+        "Consumption Goods",
+        "Gas Masks",
+        "Police and Integrated Emergency Systems",
+        "Goggles",
+        "Special Fireman Equipment",
+        "Paper, Stationery"
+      ],
       "website": "https://www.3m.cz"
+    },
+    {
+      "name": "4M SYSTEMS a.s.",
+      "category": [
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Combat, Utility and Training Clothing",
+        "Helmets",
+        "Rucksacks",
+        "Uniforms",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Socks",
+        "Caps"
+      ],
+      "website": "https://www.4mtactical.cz"
     },
     {
       "name": "ADAX Fond firemního nástupnictví SICAV",
@@ -72,6 +112,11 @@
         "lat": 50.22045500000001,
         "lon": 14.4074204
       },
+      "category": [
+        "Airplanes",
+        "Aircrafts",
+        "Simulation and training"
+      ],
       "website": "https://www.aero.cz"
     },
     {
@@ -85,6 +130,10 @@
       "website": "https://afriso.cz"
     },
     {
+      "name": "AIRCRAFT INDUSTRIES",
+      "website": "https://www.let.cz"
+    },
+    {
       "name": "AKERMANN ELECTRONIC PRAHA",
       "address": {
         "text": "Moskevská 949/86\n101 00 Praha 10",
@@ -92,6 +141,19 @@
         "lat": 50.066906,
         "lon": 14.4604936
       },
+      "category": [
+        "Office Supplies",
+        "Laptops",
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Computers, Printers",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Cyber Security and Defence",
+        "C4ISR",
+        "Mobiles",
+        "Tactical Communication Centres"
+      ],
       "website": "https://www.akermann.cz"
     },
     {
@@ -102,21 +164,47 @@
         "lat": 49.056739,
         "lon": 15.8031493
       },
+      "category": [
+        "Other",
+        "Weapons"
+      ],
       "website": "https://www.anvknives.com"
+    },
+    {
+      "name": "ARDYX",
+      "address": {
+        "text": "Popovičky 100, 25101 Popovičky",
+        "iso2": "CZ",
+        "lat": 49.9625442,
+        "lon": 14.5978035
+      },
+      "category": [
+        "Digital Systems and Cryptology",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Secured Systems",
+        "C4ISR",
+        "Fibre-Optic Materials, Line and Power Distribution Equipment"
+      ],
+      "website": "https://ardyx.eu"
     },
     {
       "name": "ARIGA",
       "website": "https://ariga.cz"
     },
     {
-      "name": "AUDIOPRO",
+      "name": "ATLANTIS TELECOM",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/41_atlantis-telecom?lang=en",
       "address": {
-        "text": "Mladoboleslavská 1108\n197 00 Praha 9 – Kbely",
+        "text": "Praha 10",
         "iso2": "CZ",
-        "lat": 50.1296198,
-        "lon": 14.5433235
+        "lat": 50.0717466,
+        "lon": 14.4871656
       },
-      "website": "https://www.audiopro.cz/specialni-technika"
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Cyber Security and Defence"
+      ],
+      "website": "https://www.atlantis.cz"
     },
     {
       "name": "AURA",
@@ -126,6 +214,19 @@
         "lat": 49.1976018,
         "lon": 16.5939639
       },
+      "category": [
+        "Other",
+        "CBRN Systems",
+        "Manoeuvre and Logistic Software",
+        "CBRN Detection and Decontamination Systems",
+        "Logistics Support Units",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Services",
+        "Asset Management",
+        "Consultancy Services",
+        "C4ISR",
+        "Procurement, National Acquisition System"
+      ],
       "website": "https://www.aura.cz"
     },
     {
@@ -136,10 +237,39 @@
         "lat": 50.03071079999999,
         "lon": 15.5801691
       },
+      "category": [
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "CBRN Systems",
+        "Filtration Units",
+        "Gas Masks",
+        "Protection against Nuclear, Biological and Chemical Attack"
+      ],
       "website": "https://www.avec.cz"
     },
     {
       "name": "AVEO ENGINEERING GROUP",
+      "address": {
+        "text": "Drásov 209\nDrasov261 01",
+        "iso2": "CZ",
+        "lat": 49.3310124,
+        "lon": 16.4815885
+      },
+      "category": [
+        "Vehicles",
+        "Electro-Optical Systems and Products, Light Signals, Laser Equipment, Flash Lights",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Electric and electrotechnic aircraft equipment",
+        "Binocular and Night Vision Equipment",
+        "Unmanned Aerial Vehicles (UAV)",
+        "Technologies",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Military Optical Devices",
+        "Tactical Communication Systems",
+        "Airplanes",
+        "Aircrafts",
+        "Target Detection Systems",
+        "Helicopters"
+      ],
       "website": "https://aveoengineering.com"
     },
     {
@@ -150,10 +280,20 @@
         "lat": 50.0755381,
         "lon": 14.4378005
       },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Media"
+      ],
       "website": "https://www.averia.news"
     },
     {
       "name": "AXENTA",
+      "category": [
+        "Cyber Security and Defence",
+        "Data Processing and Evaluation Systems",
+        "Automatic Test Equipment (ATE) and Diagnostic",
+        "Secured Systems"
+      ],
       "website": "https://www.axenta.cz"
     },
     {
@@ -168,21 +308,53 @@
         "lat": 50.072066,
         "lon": 14.4322509
       },
+      "category": [
+        "Consumption Goods",
+        "Foodstuffs",
+        "Humanitarian Supply Chains"
+      ],
       "website": "https://www.pro-ration.com"
     },
     {
       "name": "Air Navigation Services of the Czech Republic",
+      "category": [
+        "Global Navigation Satelite System (GNSS)",
+        "Unmanned Air Vehicles (UAV)",
+        "Simulation and training"
+      ],
       "website": "https://www.rlp.cz"
     },
     {
-      "name": "Atlantis telecom Ltd.",
+      "name": "Audiopro s.r.o.",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/42_audiopro-s-r-o?lang=en",
       "address": {
-        "text": "Sterboholska 1427/55\n102 00 Praha 10",
+        "text": "Mladoboleslavská 1108\n197 00 Praha 9 – Kbely",
         "iso2": "CZ",
-        "lat": 50.0604064,
-        "lon": 14.5328063
+        "lat": 50.1296198,
+        "lon": 14.5433235
       },
-      "website": "https://www.atlantis.cz"
+      "category": [
+        "Power Source and Generators",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Strategic Communication Systems",
+        "Target Acquisition and Tracking Systems",
+        "Hybrid Technologies and Fuel Cells",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Photographical Equipment",
+        "Port, Underwater, Air and Road Observation Systems",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Satellite Communications",
+        "Radar Systems",
+        "Target Detection Systems",
+        "C4ISR",
+        "Antennas",
+        "Automatic Target Recognition",
+        "Transmitters",
+        "Tactical Communication Systems",
+        "Unmanned Air Vehicles (UAV)",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
+      "website": "https://www.audiopro.cz/specialni-technika"
     },
     {
       "name": "BALLISTIC DEFEND",
@@ -190,7 +362,55 @@
     },
     {
       "name": "BLADES",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1035_blades?lang=en",
+      "address": "...",
       "website": "https://www.shockblade.com"
+    },
+    {
+      "name": "BOWENITE, a.s.",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/701_bowenite-a-s?lang=en",
+      "address": {
+        "text": "Průběžná 3207/74a\nPraha 10",
+        "iso2": "CZ",
+        "lat": 50.0668528,
+        "lon": 14.4959944
+      },
+      "category": [
+        "Special Training Software, Simulators",
+        "Vehicles",
+        "Air-field Marking",
+        "Challenge – Response Authentification",
+        "Engineering Vehicles",
+        "Weapons",
+        "Armored Protection",
+        "Ammunition",
+        "Small-Caliber Ammunition",
+        "Command Control Vehicles",
+        "Electro-Optical Systems and Products, Light Signals, Laser Equipment, Flash Lights",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Binocular and Night Vision Equipment",
+        "CBRN Systems",
+        "Training and Simulation Systems",
+        "Filtration Units",
+        "Gas Masks",
+        "Military Ambulance Vehicles",
+        "Combat Vehicles",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Helmets",
+        "Modular Units and Buildings",
+        "Weapon accessories",
+        "Belts",
+        "Simulation and training",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Non-lethal Weapons (Pepper Spray, Tear and Sleep Gas, Psychochemical Weapons, Electroshock Weapons, Electromagnetic Weapons, Water Cannons, etc.)",
+        "Identification Friend or Foe (IFF) Systems",
+        "Support Vehicles",
+        "Body Armours",
+        "Military Optical Devices",
+        "Unmanned Air Vehicles (UAV)"
+      ],
+      "website": "https://www.bowenite.eu"
     },
     {
       "name": "BR GROUP",
@@ -201,6 +421,10 @@
       "website": "https://www.boellhoff.com"
     },
     {
+      "name": "C.I.D. PRAHA",
+      "website": "https://www.cidpraha.cz"
+    },
+    {
       "name": "CAIRO CZ",
       "address": {
         "text": "Lubina 1952\n744 01 Frenštát pod Radhoštěm",
@@ -208,6 +432,12 @@
         "lat": 49.53615569999999,
         "lon": 18.2072162
       },
+      "category": [
+        "Large Caliber Weapons",
+        "Sniper Rifles",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Weapons"
+      ],
       "website": "https://www.cairocz.cz"
     },
     {
@@ -218,6 +448,10 @@
         "lat": 50.1074069,
         "lon": 14.4546587
       },
+      "category": [
+        "Technologies",
+        "Biometrics Technologies"
+      ],
       "website": "https://www.canon.cz"
     },
     {
@@ -228,6 +462,21 @@
         "lat": 49.0300204,
         "lon": 14.5098311
       },
+      "category": [
+        "Ammunition",
+        "Other",
+        "Explosives",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Small-Caliber Ammunition",
+        "Pyrotechnics",
+        "Cases",
+        "Aircraft armament and munitions",
+        "All Crew – Portable Direct Fire Weapons of Calibre less than 50 mm",
+        "Sniper Rifles",
+        "Weapons",
+        "Non-lethal Weapons (Pepper Spray, Tear and Sleep Gas, Psychochemical Weapons, Electroshock Weapons, Electromagnetic Weapons, Water Cannons, etc.)",
+        "Combat Vehicles"
+      ],
       "website": "https://www.cbservis.com"
     },
     {
@@ -239,20 +488,23 @@
       "website": "https://www.cesnet.cz"
     },
     {
-      "name": "CLV PARDUBICE"
-    },
-    {
       "name": "COLT CZ GROUP",
       "website": "https://www.coltczgroup.com"
     },
     {
       "name": "CONSENTA",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1031_consenta?lang=en",
       "address": {
         "text": "Podnikatelská 539 Praha 9 - Běchovice, 190 11",
         "iso2": "CZ",
         "lat": 50.0924603,
         "lon": 14.6080483
       },
+      "category": [
+        "Measurement and Research Equipment",
+        "Quality Control, Classification and Calibration Laboratories",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements"
+      ],
       "website": "https://consenta.cz"
     },
     {
@@ -275,6 +527,9 @@
     },
     {
       "name": "CZECH ARMED FORCES",
+      "category": [
+        "Government Authorities"
+      ],
       "website": "https://www.army.cz"
     },
     {
@@ -285,17 +540,28 @@
         "lat": 50.0353243,
         "lon": 14.5925083
       },
+      "category": [
+        "Cyber Security and Defence"
+      ],
       "website": "https://www.kybercentrum.cz"
     },
     {
       "name": "CZECH EXPORT BANK",
       "address": {
-        "text": "Vodičkova 701/34, 111 21, Prague 1",
+        "text": "Vodičkova 701/34, 111 21 Prague 1",
         "iso2": "CZ",
         "lat": 50.0799993,
         "lon": 14.4233161
       },
+      "category": [
+        "Services",
+        "Banking and Insurance Services"
+      ],
       "website": "https://www.ceb.cz"
+    },
+    {
+      "name": "CZECH IT ACADEMY",
+      "website": "https://www.czechitacademy.cz"
     },
     {
       "name": "CZECHIA SYSTEMS",
@@ -309,6 +575,16 @@
         "lat": 50.1002642,
         "lon": 14.4675546
       },
+      "category": [
+        "Ammunition",
+        "Vehicles",
+        "Technologies",
+        "Cyber Security and Defence",
+        "Weapons",
+        "Armored Protection",
+        "Aircrafts",
+        "Combat Vehicles"
+      ],
       "website": "https://www.czechoslovakgroup.com"
     },
     {
@@ -319,7 +595,35 @@
         "lat": 49.2077317,
         "lon": 16.5947985
       },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Cyber Security and Defence",
+        "Associations, Media, Government Authorities, Organisations",
+        "Government Authorities"
+      ],
       "website": "https://www.army.cz"
+    },
+    {
+      "name": "Czech Aerospace Cluster",
+      "address": {
+        "text": "Mariánské náměstí 123, Uherské Hradiště 68606",
+        "iso2": "CZ",
+        "lat": 49.0707427,
+        "lon": 17.4596177
+      },
+      "category": [
+        "Electric and electrotechnic aircraft equipment",
+        "Aircraft armament and munitions",
+        "Associations",
+        "Aviation engines",
+        "Organisations",
+        "Simulation and training",
+        "Airplanes",
+        "Associations, Media, Government Authorities, Organisations",
+        "Aircrafts",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
+      "website": "https://www.czech-aerospace.cz"
     },
     {
       "name": "Czech Technical University in Prague - Faculty of Mechanical Engineering",
@@ -333,6 +637,22 @@
         "lat": 50.0501962,
         "lon": 14.3391009
       },
+      "category": [
+        "Nano Technologies",
+        "Other",
+        "Military Medical Equipment and Systems",
+        "Emergency Intervention and Intensive Care Equipment",
+        "Water Treatment, Waste Removal, Filtration, Waste Storage and Disposal",
+        "CBRN Systems",
+        "Air Conditioning",
+        "Filtration Units",
+        "Environmental Protection",
+        "CBRN Detection and Decontamination Systems",
+        "Hazardous Waste Protection",
+        "Personal Protective Clothing and Equipment",
+        "Radiation Protection",
+        "Oil, Water, Air and Land Pollution"
+      ],
       "website": "https://www.dekontacbrn.cz"
     },
     {
@@ -343,6 +663,25 @@
         "lat": 49.4912563,
         "lon": 16.6587033
       },
+      "category": [
+        "Other",
+        "Research and Development",
+        "Photographical Equipment",
+        "Universities",
+        "Information Transforming",
+        "Transmitters",
+        "Digital Systems and Cryptology",
+        "Technologies",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Secured Systems",
+        "Media",
+        "Strategic Communication Systems",
+        "Meeting and Training Halls Electronic Systems",
+        "Tactical Communication Systems",
+        "Tactical Communication Centres",
+        "Data Processing and Evaluation Systems",
+        "Associations, Media, Government Authorities, Organisations"
+      ],
       "website": "https://www.disk.cz"
     },
     {
@@ -357,6 +696,10 @@
         "lat": 50.0858803,
         "lon": 14.4051557
       },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Government Authorities"
+      ],
       "website": "https://tjekkiet.um.dk"
     },
     {
@@ -367,10 +710,11 @@
         "lat": 50.0825417,
         "lon": 14.432012
       },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Associations"
+      ],
       "website": "https://www.aobp.cz"
-    },
-    {
-      "name": "EASY SOFTWARE"
     },
     {
       "name": "EGER CZ, s.r.o. / X-ARMOR s.r.o.",
@@ -380,11 +724,78 @@
         "lat": 50.0926609,
         "lon": 14.3610349
       },
+      "category": [
+        "Global Combat Systems and Products",
+        "Protection against Nuclear, Biological and Chemical Attack",
+        "Other",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Target Acquisition and Tracking Systems",
+        "Technologies",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Robotics",
+        "Helmets",
+        "Navigation Systems (GPS, GNNS)",
+        "C4ISR",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Antennas",
+        "Manoeuvre and Logistic Software",
+        "Logistics Support Units",
+        "Body Armours",
+        "Unmanned Underwater Vessels (UUV)",
+        "Unmanned Ground Vehicles (UGV)",
+        "Data Processing and Evaluation Systems",
+        "Unmanned Surface Vehicles (USV)",
+        "Unmanned Air Vehicles (UAV)",
+        "Target Detection Systems"
+      ],
       "website": "https://www.x-armor.cz"
     },
     {
+      "name": "EIZO Europe",
+      "website": "https://www.eizo.cz"
+    },
+    {
       "name": "ELVAC",
+      "category": [
+        "Laptops",
+        "Cases",
+        "Batteries, Batteries Back-Up, Accumulators, Generators",
+        "Imagery and Gridded Data",
+        "Data Access and Data Structures",
+        "Navigation Systems (GPS, GNNS)",
+        "Belts",
+        "C4ISR",
+        "Data Processing and Evaluation Systems",
+        "Global Navigation Satelite System (GNSS)"
+      ],
       "website": "https://www.elvac.eu"
+    },
+    {
+      "name": "ELYA SOLUTIONS s.r.o.",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1156_elya-solutions-s-r-o?lang=en",
+      "address": {
+        "text": "K Bilemu vrchu 3172/22",
+        "iso2": "CZ",
+        "lat": 50.124812,
+        "lon": 14.6258833
+      },
+      "category": [
+        "Target Acquisition and Tracking Systems",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Military Optical Devices",
+        "Aircrafts"
+      ],
+      "website": "https://elya.cz"
+    },
+    {
+      "name": "EPO GEARMOT",
+      "website": "https://www.epogm.com"
+    },
+    {
+      "name": "ERA",
+      "website": "https://www.era.aero"
     },
     {
       "name": "EURO SECURITY PRODUCTS",
@@ -394,6 +805,17 @@
         "lat": 50.0543837,
         "lon": 14.4945828
       },
+      "category": [
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Cases",
+        "Global Combat Systems and Products",
+        "Gloves",
+        "Weapons",
+        "Fabrics",
+        "Knifes, Bayonets, Daggers",
+        "Non-lethal Weapons (Pepper Spray, Tear and Sleep Gas, Psychochemical Weapons, Electroshock Weapons, Electromagnetic Weapons, Water Cannons, etc.)"
+      ],
       "website": "https://www.esp-products.com"
     },
     {
@@ -404,15 +826,80 @@
         "lat": 49.1446505,
         "lon": 16.8817421
       },
+      "category": [
+        "Future Soldier - Personal, Equipment and Protective Material"
+      ],
       "website": "https://www.eurolamp.cz"
     },
     {
-      "name": "EVPÚ Defence",
+      "name": "EVPU DEFENCE",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/164_evpu-defence?lang=en",
+      "address": {
+        "text": "Jaktare 1781, 686 01 Uherske Hradiste",
+        "iso2": "CZ",
+        "lat": 49.0806801,
+        "lon": 17.4838646
+      },
+      "category": [
+        "Target Acquisition and Tracking Systems"
+      ],
       "website": "https://www.evpudefence.com"
     },
     {
       "name": "EXPLOSIA a.s.",
+      "category": [
+        "Ammunition",
+        "Small-Caliber Ammunition",
+        "Explosives",
+        "Large-Caliber Ammunition"
+      ],
       "website": "https://www.explosia.cz"
+    },
+    {
+      "name": "Easy8 s.r.o.",
+      "address": {
+        "text": "Jugoslávských partyzánů 34\n160 00 Prague\nCzech Republic",
+        "iso2": "CZ",
+        "lat": 50.1072675,
+        "lon": 14.3949662
+      },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software"
+      ],
+      "website": "https://www.easy8.com"
+    },
+    {
+      "name": "FORSOLUTION CZ s.r.o.",
+      "address": {
+        "text": "Podnikatelská 553\n190 11 Praha 9",
+        "iso2": "CZ",
+        "lat": 50.0918839,
+        "lon": 14.6204638
+      },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software"
+      ],
+      "website": "https://www.forsolution.cz"
+    },
+    {
+      "name": "Flight Training Center (CLV) Pardubice",
+      "address": {
+        "text": "Prazska 192, 530 06 Pardubice, Czech Republic",
+        "iso2": "CZ",
+        "lat": 50.0176217,
+        "lon": 15.7434385
+      },
+      "category": [
+        "Training and Simulation Systems",
+        "Air Traffic Management",
+        "Cabin Systems",
+        "Simulators",
+        "Simulation and training",
+        "Airplanes",
+        "Aircrafts",
+        "Helicopters"
+      ],
+      "website": "https://www.lompraha.cz"
     },
     {
       "name": "G.S.A. - BALLISTECH",
@@ -420,12 +907,44 @@
     },
     {
       "name": "GLOMEX Military Supplies",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/204_glomex-military-supplies?lang=en",
       "address": {
         "text": "Průběžná 3207/74a\n100 00 Praha 10",
         "iso2": "CZ",
         "lat": 50.0669025,
         "lon": 14.4958406
       },
+      "category": [
+        "Special Training Software, Simulators",
+        "Vehicles",
+        "Power Source and Generators",
+        "Large-Caliber Ammunition",
+        "Anti-Tank Weapons",
+        "Challenge – Response Authentification",
+        "Weapons",
+        "Armored Protection",
+        "Ammunition",
+        "Small-Caliber Ammunition",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Electro-Optical Systems and Products, Light Signals, Laser Equipment, Flash Lights",
+        "Target Acquisition and Tracking Systems",
+        "CBRN Systems",
+        "Port, Underwater, Air and Road Observation Systems",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electro-Acoustic Observation and Access Control Systems",
+        "Aircrafts",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Passenger Vehicles",
+        "Weapon accessories",
+        "Navigation Systems (GPS, GNNS)",
+        "Rockets and Guided Missiles",
+        "Identification Friend or Foe (IFF) Systems",
+        "Support Vehicles",
+        "Military Optical Devices",
+        "Tactical Communication Systems",
+        "Tactical Vehicles",
+        "Target Detection Systems"
+      ],
       "website": "https://www.glomex-ms.com"
     },
     {
@@ -440,6 +959,14 @@
         "lat": 50.2023041,
         "lon": 15.8315207
       },
+      "category": [
+        "Anti-Terror Equipment",
+        "Explosive and Weapon Detectors",
+        "Technologies",
+        "Measurement and Research Equipment",
+        "Police and Integrated Emergency Systems",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements"
+      ],
       "website": "https://grantdetection.com"
     },
     {
@@ -447,7 +974,27 @@
       "website": "https://www.gwz.cz"
     },
     {
+      "name": "Gordic spol. s r. o.",
+      "category": [
+        "Cyber Security and Defence",
+        "Data Processing and Evaluation Systems",
+        "Secured Systems",
+        "Internet, Network Security and Anti-Virus Software"
+      ],
+      "website": "https://www.gordic.cz"
+    },
+    {
       "name": "HICO Czech",
+      "address": {
+        "text": "Pernerova 652/55, 186 00 Karlín",
+        "iso2": "CZ",
+        "lat": 50.0909648,
+        "lon": 14.4530995
+      },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Cyber Security and Defence"
+      ],
       "website": "https://www.hico.com"
     },
     {
@@ -456,6 +1003,9 @@
     },
     {
       "name": "HOLÍK INTERNATIONAL",
+      "category": [
+        "Gloves"
+      ],
       "website": "https://www.holik-international.cz"
     },
     {
@@ -466,6 +1016,32 @@
         "lat": 50.0898491,
         "lon": 14.4893682
       },
+      "category": [
+        "Cases",
+        "Combat Boots",
+        "Laser Technologies",
+        "Range Finders",
+        "Caps",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Binocular and Night Vision Equipment",
+        "Technologies",
+        "Robotics",
+        "Other Textile Products",
+        "Helmets",
+        "Sportswear, Equipment for Spare Time",
+        "Gloves",
+        "Belts",
+        "Knifes, Bayonets, Daggers",
+        "Goggles",
+        "Underwear",
+        "Leather Garments, Belts",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Combat, Utility and Training Clothing",
+        "Body Armours",
+        "Rucksacks",
+        "Personnel Clothing"
+      ],
       "website": "https://www.hqh.cz"
     },
     {
@@ -473,18 +1049,19 @@
       "website": "https://www.hsf.systems"
     },
     {
-      "name": "INFRAHEX",
-      "website": "https://www.infrahex.com"
-    },
-    {
-      "name": "INTELDAT",
+      "name": "INFRAHEX s.r.o.",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1063_infrahex-s-r-o?lang=en",
       "address": {
-        "text": "Popovičky 100, 25101 Popovičky",
+        "text": "Jiraskova 1971\n250 82 Uvaly\nCzech republic",
         "iso2": "CZ",
-        "lat": 49.9625442,
-        "lon": 14.5978035
+        "lat": 50.0764943,
+        "lon": 14.7203081
       },
-      "website": "https://www.inteldatfiber.com"
+      "category": [
+        "Camouflage Materials",
+        "Other"
+      ],
+      "website": "https://www.infrahex.com"
     },
     {
       "name": "INTERLINK CS",
@@ -494,7 +1071,31 @@
         "lat": 50.0943715,
         "lon": 14.3779396
       },
+      "category": [
+        "Automatic Test Equipment (ATE) and Diagnostic",
+        "Electric and electrotechnic aircraft equipment",
+        "Batteries, Batteries Back-Up, Accumulators, Generators",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Navigation Systems (GPS, GNNS)",
+        "Tactical Communication Systems",
+        "Satellite Communications",
+        "Simulation and training",
+        "C4ISR",
+        "Antennas",
+        "Unmanned Air Vehicles (UAV)",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
       "website": "https://www.interlinkcs.cz"
+    },
+    {
+      "name": "Institute of Blast & Impact Proof Concrete",
+      "address": "www.ibipc.com",
+      "category": [
+        "Modular Units and Buildings",
+        "Construction Materials and Systems (Concrete, Gassed Bricks, Wet Surfaces, Insulation, Paints, Roofings, Modular Walls, etc.)"
+      ],
+      "website": "https://www.ibipc.com"
     },
     {
       "name": "JD DVOŘÁK",
@@ -508,6 +1109,23 @@
         "lat": 50.0441205,
         "lon": 14.4391348
       },
+      "category": [
+        "Training and Simulation Systems",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Other",
+        "Target Acquisition and Tracking Systems",
+        "Explosive Ordnance Disposal (EOD)",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Services",
+        "Simulators",
+        "Consultancy Services",
+        "Radar Systems",
+        "C4ISR",
+        "Unmanned Ground Vehicles (UGV)",
+        "Robotics",
+        "Bomb Disposal"
+      ],
       "website": "https://www.jisr-institute.org"
     },
     {
@@ -518,6 +1136,14 @@
         "lat": 50.103326,
         "lon": 14.5198677
       },
+      "category": [
+        "Pressure, Temperature and Humidity Measurement",
+        "Physic and Chemistry Laboratory Equipment and Supplies",
+        "Measurement and Research Equipment",
+        "Quality Control, Classification and Calibration Laboratories",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements",
+        "Liquid and Gas Flow, Liquid Level, Mechanical Movement"
+      ],
       "website": "https://kaitrade.cz"
     },
     {
@@ -526,7 +1152,18 @@
     },
     {
       "name": "KEMPER",
-      "website": "https://www.kemper.eu/cs"
+      "address": {
+        "text": "Pyšelská 393\nCZ-257 21 Porící nad Sázavou",
+        "iso2": "CZ",
+        "lat": 49.8450669,
+        "lon": 14.6828563
+      },
+      "category": [
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Material Handling Equipment, Workshop Machineries, Tools and Equipment",
+        "Other"
+      ],
+      "website": "https://www.kemper.eu/cz"
     },
     {
       "name": "KENTIGEN",
@@ -540,6 +1177,10 @@
         "lat": 49.4637305,
         "lon": 17.1095102
       },
+      "category": [
+        "Uniforms",
+        "Future Soldier - Personal, Equipment and Protective Material"
+      ],
       "website": "https://www.koutny.cz"
     },
     {
@@ -550,16 +1191,49 @@
         "lat": 50.7430005,
         "lon": 15.0649543
       },
+      "category": [
+        "Training and Simulation Systems",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Other",
+        "Target Acquisition and Tracking Systems",
+        "Environmental Protection",
+        "Material Handling Equipment, Workshop Machineries, Tools and Equipment",
+        "Disaster Equipment",
+        "Measurement and Research Equipment",
+        "Special Fireman Equipment",
+        "Simulators",
+        "Aircrafts",
+        "Simulation and training",
+        "Police and Integrated Emergency Systems",
+        "Radiation Protection",
+        "Unmanned Air Vehicles (UAV)",
+        "Oil, Water, Air and Land Pollution",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
       "website": "https://www.liaz-uav.com"
     },
     {
       "name": "LOM PRAHA",
       "address": {
-        "text": "Tiskařská 270/8\n108 00 Praha 10",
+        "text": "Tiskarská 270/8, 108 00 Prague, Czech Republic",
         "iso2": "CZ",
         "lat": 50.0798103,
         "lon": 14.5286361
       },
+      "category": [
+        "Other",
+        "Training and Simulation Systems",
+        "Electric and electrotechnic aircraft equipment",
+        "Air Traffic Management",
+        "Aviation engines",
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Cabin Systems",
+        "Simulators",
+        "Simulation and training",
+        "Airplanes",
+        "Aircrafts",
+        "Helicopters"
+      ],
       "website": "https://www.lompraha.cz"
     },
     {
@@ -570,17 +1244,34 @@
         "lat": 50.0667717,
         "lon": 14.434322
       },
+      "category": [
+        "Sniper Rifles",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Weapons"
+      ],
       "website": "https://www.luvo.cz"
     },
     {
-      "name": "MCAE Systems",
+      "name": "MCAE SYSTEMS",
       "address": {
         "text": "Knínická 1771/6\n664 34 Kuřim",
         "iso2": "CZ",
         "lat": 49.2943993,
         "lon": 16.5214933
       },
+      "category": [
+        "Other",
+        "Vehicles",
+        "Technologies",
+        "Measurement and Research Equipment",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements",
+        "Aircrafts"
+      ],
       "website": "https://www.mcae.cz"
+    },
+    {
+      "name": "MEJZLÍK PROPELLERS",
+      "website": "https://www.mejzlik.eu"
     },
     {
       "name": "MEOPTA",
@@ -590,20 +1281,46 @@
         "lat": 49.45472609999999,
         "lon": 17.4727259
       },
+      "category": [
+        "Other",
+        "Binocular and Night Vision Equipment",
+        "Military Optical Devices"
+      ],
       "website": "https://www.meopta.com"
     },
     {
-      "name": "MESIT asd, s.r.o.",
+      "name": "MESIT HOLDING",
+      "category": [
+        "Electric and electrotechnic aircraft equipment",
+        "Transmitters",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "C4ISR",
+        "Tactical Communication Systems",
+        "Aircrafts"
+      ],
       "website": "https://www.mesit.cz"
     },
     {
       "name": "METAL ARSENAL s.r.o. - ECCOTARP",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/310_metal-arsenal-s-r-o-eccotarp?lang=en",
       "address": {
-        "text": "Poděbradova 1920",
+        "text": "Poděbradova 1920\n289 22 Lysá nad Labem",
         "iso2": "CZ",
         "lat": 50.1995622,
         "lon": 14.859157
       },
+      "category": [
+        "Obstacles and Obstacle Clearing Equipment",
+        "Training and Simulation Systems",
+        "Other",
+        "Water Treatment, Waste Removal, Filtration, Waste Storage and Disposal",
+        "Environmental Protection",
+        "Material Handling Equipment, Workshop Machineries, Tools and Equipment",
+        "Technologies",
+        "Logistics Support Units",
+        "Hazardous Waste Protection",
+        "Oil, Water, Air and Land Pollution"
+      ],
       "website": "https://www.eccotarp.com"
     },
     {
@@ -614,6 +1331,33 @@
         "lat": 50.12607389999999,
         "lon": 14.5321292
       },
+      "category": [
+        "Vehicles",
+        "Power Source and Generators",
+        "Engineering Vehicles",
+        "Weapons",
+        "Armored Protection",
+        "Ammunition",
+        "Other",
+        "Command Control Vehicles",
+        "Unmanned and Autonomous Systems, Robotics",
+        "CBRN Systems",
+        "Filtration Units",
+        "Digital Systems and Cryptology",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Oil and Petrol Lubricants",
+        "Military Ambulance Vehicles",
+        "Aircrafts",
+        "Secured Systems",
+        "C4ISR",
+        "Mortars",
+        "Support Vehicles",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Unmanned Ground Vehicles (UGV)",
+        "Data Processing and Evaluation Systems",
+        "Unmanned Air Vehicles (UAV)",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
       "website": "https://www.vtusp.cz"
     },
     {
@@ -624,7 +1368,16 @@
         "lat": 49.5938841,
         "lon": 17.2990051
       },
+      "category": [
+        "Air Conditioning",
+        "CBRN Detection and Decontamination Systems",
+        "CBRN Systems"
+      ],
       "website": "https://www.molpir.com"
+    },
+    {
+      "name": "MPICZ",
+      "website": "https://www.mpicz.com"
     },
     {
       "name": "MS LINE",
@@ -634,6 +1387,11 @@
         "lat": 50.120714,
         "lon": 14.8144919
       },
+      "category": [
+        "Other",
+        "Associations, Media, Government Authorities, Organisations",
+        "Media"
+      ],
       "website": "https://www.msline.cz"
     },
     {
@@ -644,6 +1402,10 @@
         "lat": 50.0953297,
         "lon": 14.4035044
       },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Government Authorities"
+      ],
       "website": "https://www.army.cz"
     },
     {
@@ -654,44 +1416,52 @@
         "lat": 50.0988483,
         "lon": 14.4218153
       },
+      "category": [
+        "Cyber Security and Defence",
+        "Government Authorities"
+      ],
       "website": "https://www.mvcr.cz"
     },
     {
-      "name": "Moravský letecký klastr",
-      "website": "https://www.czech-aerospace.cz"
-    },
-    {
-      "name": "NADAČNÍ FOND REGI BASE I.",
-      "address": {
-        "text": "Konviktská 291/24\n110 00 Praha 1",
-        "iso2": "CZ",
-        "lat": 50.0832421,
-        "lon": 14.4156862
-      },
-      "website": "https://www.regibase.cz"
-    },
-    {
-      "name": "NANUK CASES",
+      "name": "NANUK CASE",
       "address": {
         "text": "Hrozenkovská 3\n155 21 Praha 5 - Zličín",
         "iso2": "CZ",
         "lat": 50.0601735,
         "lon": 14.2930871
       },
+      "category": [
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Military Medical Equipment and Systems",
+        "Emergency Intervention and Intensive Care Equipment",
+        "Packaging",
+        "Modular Units and Buildings",
+        "Material Handling Equipment, Workshop Machineries, Tools and Equipment",
+        "Consumption Goods",
+        "Logistics Support Units",
+        "Measurement and Research Equipment",
+        "Weapons"
+      ],
       "website": "https://www.nanukcase.cz"
     },
     {
-      "name": "NIDES",
-      "address": {
-        "text": "Turanka 1222/115, Slatina, 627 00 Brno",
-        "iso2": "CZ",
-        "lat": 49.1712023,
-        "lon": 16.6800535
-      },
-      "website": "https://www.nides.cz"
+      "name": "NOONTIDE SYSTEMS",
+      "website": "https://noontide.eu"
     },
     {
       "name": "NORD-LOCK",
+      "address": "www.nord-lock.com",
+      "category": [
+        "Vehicles",
+        "CBRN Systems",
+        "Engineering Vehicles",
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Armored Protection",
+        "Tactical Vehicles",
+        "Combat Vehicles"
+      ],
       "website": "https://www.nord-lock.com"
     },
     {
@@ -702,6 +1472,11 @@
         "lat": 49.2083817,
         "lon": 16.5849333
       },
+      "category": [
+        "Cyber Security and Defence",
+        "Associations, Media, Government Authorities, Organisations",
+        "Government Authorities"
+      ],
       "website": "https://nukib.cz"
     },
     {
@@ -709,21 +1484,54 @@
       "website": "https://www.octave.com"
     },
     {
-      "name": "OMNIPOL a.s.",
-      "website": "https://omnipol.com"
+      "name": "OMNIPOL Airports s.r.o.",
+      "address": {
+        "text": "Kvapilova 2133, Místek, 73801 Frýdek-Místek",
+        "iso2": "CZ",
+        "lat": 49.6686432,
+        "lon": 18.3337919
+      },
+      "category": [
+        "Other",
+        "Aircrafts"
+      ],
+      "website": "https://www.omnipolairports.cz"
+    },
+    {
+      "name": "OMNIPOL Defence",
+      "address": {
+        "text": "Nekázanka 880/11, 110 00 Praha 1",
+        "iso2": "CZ",
+        "lat": 50.085298,
+        "lon": 14.4276322
+      },
+      "category": [
+        "Ammunition"
+      ],
+      "website": "https://www.omnipoldefence.cz"
     },
     {
       "name": "OPTIDYNEX",
       "website": "https://www.optidynex.com"
     },
     {
-      "name": "PBS VELKÁ BÍTEŠ",
+      "name": "PBS Group, a. s.",
       "address": {
         "text": "Vlkovská 279\n569 01 Velká Bíteš",
         "iso2": "CZ",
         "lat": 49.2997999,
         "lon": 16.2147636
       },
+      "category": [
+        "Other",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Technologies",
+        "Aviation engines",
+        "Logistics Support Units",
+        "Aircrafts",
+        "Unmanned Air Vehicles (UAV)",
+        "Unmanned Aerial Vehicles (UAV)"
+      ],
       "website": "https://www.pbs.cz"
     },
     {
@@ -734,6 +1542,26 @@
         "lat": 50.3551295,
         "lon": 13.7741982
       },
+      "category": [
+        "Laptops",
+        "Electro-Optical Systems and Products, Light Signals, Laser Equipment, Flash Lights",
+        "Encrypted Transformations",
+        "Digital Systems and Cryptology",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Measurement and Research Equipment",
+        "Secured Systems",
+        "Cyber Security and Defence",
+        "Military Space Systems",
+        "Military Optical Devices",
+        "Radar Systems",
+        "Tactical Communication Systems",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements",
+        "Data Processing and Evaluation Systems",
+        "Antennas",
+        "Fibre-Optic Materials, Line and Power Distribution Equipment",
+        "Internet, Network Security and Anti-Virus Software"
+      ],
       "website": "https://www.peiconnect.cz"
     },
     {
@@ -744,11 +1572,34 @@
         "lat": 49.7927691,
         "lon": 14.2601663
       },
+      "category": [
+        "Obstacles and Obstacle Clearing Equipment",
+        "Other",
+        "Global Combat Systems and Products",
+        "Services",
+        "Police and Integrated Emergency Systems"
+      ],
       "website": "https://www.pilecky.cz"
     },
     {
       "name": "PRAGODATA",
-      "website": "https://www.pragodata.cz"
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1051_pragodata?lang=en",
+      "address": {
+        "text": "Opletalova 1418/23, 110 00 Praha 1",
+        "iso2": "CZ",
+        "lat": 50.0837184,
+        "lon": 14.432651
+      },
+      "category": [
+        "Technologies",
+        "Logistics Support Units",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Cyber Security and Defence",
+        "Data Processing and Evaluation Systems",
+        "Procurement, National Acquisition System"
+      ],
+      "website": "https://www.pragodata.com"
     },
     {
       "name": "PRAMACOM-HT",
@@ -758,6 +1609,17 @@
         "lat": 50.1049481,
         "lon": 14.3730027
       },
+      "category": [
+        "Target Acquisition and Tracking Systems",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Binocular and Night Vision Equipment",
+        "Alarm and Signalisation Systems",
+        "Military Optical Devices",
+        "Range Finders",
+        "Police and Integrated Emergency Systems",
+        "Unmanned Ground Vehicles (UGV)",
+        "Unmanned Air Vehicles (UAV)"
+      ],
       "website": "https://www.infrared.cz"
     },
     {
@@ -768,6 +1630,33 @@
         "lat": 50.0652841,
         "lon": 14.3732409
       },
+      "category": [
+        "Weapons",
+        "Uniforms",
+        "Ammunition",
+        "Small-Caliber Ammunition",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Binocular and Night Vision Equipment",
+        "Invisible Camouflage",
+        "Other",
+        "Training and Simulation Systems",
+        "Target Acquisition and Tracking Systems",
+        "Work Security Clothing",
+        "Camouflage Materials",
+        "E-Camouflage",
+        "Sniper Rifles",
+        "Rubber, Plastic and Wax Bullets",
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Helmets",
+        "Gloves",
+        "Belts",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Non-lethal Weapons (Pepper Spray, Tear and Sleep Gas, Psychochemical Weapons, Electroshock Weapons, Electromagnetic Weapons, Water Cannons, etc.)",
+        "Combat, Utility and Training Clothing",
+        "Body Armours",
+        "Rucksacks",
+        "Military Optical Devices"
+      ],
       "website": "https://www.proammo.cz"
     },
     {
@@ -778,7 +1667,27 @@
         "lat": 50.1293152,
         "lon": 14.3742647
       },
+      "category": [
+        "Unmanned Ground Vehicles (UGV)",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Unmanned Surface Vehicles (USV)",
+        "Unmanned Air Vehicles (UAV)"
+      ],
       "website": "https://www.prolabengineering.com"
+    },
+    {
+      "name": "Prison Service of the Czech Republic",
+      "address": {
+        "text": "Soudní 1672/1a\nPrague",
+        "iso2": "CZ",
+        "lat": 50.0571728,
+        "lon": 14.4398893
+      },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Government Authorities"
+      ],
+      "website": "https://www.vs.gov.cz"
     },
     {
       "name": "QUITTNER & SCHIMEK",
@@ -788,6 +1697,12 @@
         "lat": 50.4928263,
         "lon": 15.5199746
       },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Fibre-Optic Materials, Line and Power Distribution Equipment"
+      ],
       "website": "https://www.qscomp.cz"
     },
     {
@@ -798,7 +1713,37 @@
         "lat": 49.0841954,
         "lon": 17.4487634
       },
+      "category": [
+        "Vehicles",
+        "Electric and electrotechnic aircraft equipment",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Camouflage Materials",
+        "Aircrafts",
+        "C4ISR",
+        "Tactical Communication Systems",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements",
+        "Fibre-Optic Materials, Line and Power Distribution Equipment"
+      ],
       "website": "https://www.rayservice.com"
+    },
+    {
+      "name": "REGI BASE - PAKD GROUP",
+      "address": {
+        "text": "Konviktská 291/24\n110 00 Praha 1",
+        "iso2": "CZ",
+        "lat": 50.0832421,
+        "lon": 14.4156862
+      },
+      "category": [
+        "Military Medical Equipment and Systems",
+        "Orthopedic Equipment and Prosthetics",
+        "Humanitarian Supply Chains",
+        "Hospital Management Tools, Equipment and Services",
+        "Services",
+        "Medical Supplies and Hospital Equipment",
+        "Physiotherapy and Rehabilitation Equipment and Tools"
+      ],
+      "website": "https://www.regibase.cz"
     },
     {
       "name": "RESCUE TRAILER",
@@ -808,6 +1753,15 @@
         "lat": 50.7077567,
         "lon": 15.3537514
       },
+      "category": [
+        "Command Control Vehicles",
+        "Vehicles",
+        "Support Vehicles",
+        "Tactical vehicles CBRN",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Military Ambulance Vehicles",
+        "Tactical Vehicles"
+      ],
       "website": "https://www.rescuetrailer.cz"
     },
     {
@@ -818,6 +1772,11 @@
         "lat": 50.6017939,
         "lon": 15.3233078
       },
+      "category": [
+        "Camouflage Materials",
+        "Other",
+        "Consumption Goods"
+      ],
       "website": "https://www.rigad.cz"
     },
     {
@@ -828,6 +1787,20 @@
         "lat": 50.0994822,
         "lon": 14.3778645
       },
+      "category": [
+        "Automatic Test Equipment (ATE) and Diagnostic",
+        "Port, Underwater, Air and Road Observation Systems",
+        "Encrypted Transformations",
+        "Digital Systems and Cryptology",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Tactical Communication Systems",
+        "Cyber Security and Defence",
+        "C4ISR",
+        "Data Processing and Evaluation Systems",
+        "Antennas",
+        "Internet, Network Security and Anti-Virus Software"
+      ],
       "website": "https://www.rohde-schwarz.com"
     },
     {
@@ -842,7 +1815,15 @@
         "lat": 50.11234959999999,
         "lon": 14.3918738
       },
+      "category": [
+        "Associations, Media, Government Authorities, Organisations",
+        "Media"
+      ],
       "website": "https://www.securitymagazin.cz"
+    },
+    {
+      "name": "SELLIER & BELLOT",
+      "website": "https://www.sellier-bellot.cz"
     },
     {
       "name": "SH COMMERCE",
@@ -856,10 +1837,30 @@
         "lat": 50.1331284,
         "lon": 14.5133773
       },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Data Processing and Evaluation Systems",
+        "Electro-Optical Systems and Products, Light Signals, Laser Equipment, Flash Lights"
+      ],
       "website": "https://www.speel.cz"
     },
     {
       "name": "SPRINT, spol. s r.o.",
+      "address": {
+        "text": "Bečovská 1083/3, 104 00 Praha 22",
+        "iso2": "CZ",
+        "lat": 50.0416046,
+        "lon": 14.5881247
+      },
+      "category": [
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Sportswear, Equipment for Spare Time",
+        "Tents",
+        "Goggles",
+        "Underwear",
+        "Socks",
+        "Sleeping Bags"
+      ],
       "website": "https://www.sprintcz.cz"
     },
     {
@@ -871,7 +1872,38 @@
       "website": "https://www.stvgroup.cz"
     },
     {
+      "name": "SVMTech",
+      "address": {
+        "text": "Počernická 96\nPraha 10",
+        "iso2": "CZ",
+        "lat": 50.0829039,
+        "lon": 14.5095293
+      },
+      "category": [
+        "Other",
+        "Technologies",
+        "Measurement and Research Equipment",
+        "Quality Control, Classification and Calibration Laboratories",
+        "Measurement Equipment, Optical Equipment, Test Equipment and Elements"
+      ],
+      "website": "https://svmtech.cz"
+    },
+    {
       "name": "SVOS",
+      "category": [
+        "Command Control Vehicles",
+        "Other",
+        "Vehicles",
+        "Passenger Vehicles",
+        "Support Vehicles",
+        "Tactical vehicles CBRN",
+        "Armored Protection",
+        "Engineering Vehicles",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Military Ambulance Vehicles",
+        "Tactical Vehicles",
+        "Combat Vehicles"
+      ],
       "website": "https://www.armsvos.cz"
     },
     {
@@ -881,6 +1913,20 @@
     {
       "name": "TEBO",
       "website": "https://www.tebo.cz"
+    },
+    {
+      "name": "TELINK",
+      "address": {
+        "text": "Na Zlatě 2835/3\n158 00 Praha 13",
+        "iso2": "CZ",
+        "lat": 50.050886,
+        "lon": 14.3497267
+      },
+      "category": [
+        "Unmanned and Autonomous Systems, Robotics",
+        "Unmanned Air Vehicles (UAV)"
+      ],
+      "website": "https://www.djitelink.cz"
     },
     {
       "name": "TENEO 3000",
@@ -894,6 +1940,13 @@
         "lat": 50.0699829,
         "lon": 14.4013948
       },
+      "category": [
+        "Target Acquisition and Tracking Systems",
+        "Other",
+        "Binocular and Night Vision Equipment",
+        "Technologies",
+        "Military Optical Devices"
+      ],
       "website": "https://www.thermvisia.com"
     },
     {
@@ -904,6 +1957,17 @@
         "lat": 49.9529091,
         "lon": 14.048218
       },
+      "category": [
+        "Obstacles and Obstacle Clearing Equipment",
+        "Vehicles",
+        "Other",
+        "Support Vehicles",
+        "Material Handling Equipment, Workshop Machineries, Tools and Equipment",
+        "Logistics Support Units",
+        "Earth-moving Machines",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Multipurpose Road Construction Machines"
+      ],
       "website": "https://www.topagri.cz"
     },
     {
@@ -918,6 +1982,12 @@
         "lat": 49.1969404,
         "lon": 16.626328
       },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Cyber Security and Defence",
+        "Military Space Systems",
+        "Satellite Communications"
+      ],
       "website": "https://www.trlspace.com"
     },
     {
@@ -928,6 +1998,16 @@
         "lat": 49.915534,
         "lon": 15.3988215
       },
+      "category": [
+        "Vehicles",
+        "CBRN Systems",
+        "Filtration Units",
+        "Support Vehicles",
+        "Tactical vehicles CBRN",
+        "CBRN Detection and Decontamination Systems",
+        "Engineering Vehicles",
+        "Military Ambulance Vehicles"
+      ],
       "website": "https://servisvozidel.cz"
     },
     {
@@ -938,6 +2018,11 @@
         "lat": 50.07650890000001,
         "lon": 14.5102914
       },
+      "category": [
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Tactical Communication Systems",
+        "C4ISR"
+      ],
       "website": "https://www.ttc-telekomunikace.cz"
     },
     {
@@ -948,6 +2033,11 @@
         "lat": 50.0422854,
         "lon": 14.554529
       },
+      "category": [
+        "Organisations",
+        "Associations, Media, Government Authorities, Organisations",
+        "Associations"
+      ],
       "website": "https://www.spolekvlcimaky.cz/en"
     },
     {
@@ -962,6 +2052,17 @@
         "lat": 49.478254,
         "lon": 17.1407757
       },
+      "category": [
+        "Remotely Operated Vehicles",
+        "Unexploded Ordnance (UXO)",
+        "Explosive Ordnance Disposal (EOD)",
+        "Improvised Explosive Device Disposal (IEDD)",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Bomb Squad",
+        "C4ISR",
+        "Bomb Disposal"
+      ],
       "website": "https://www.urc-systems.cz"
     },
     {
@@ -972,6 +2073,14 @@
         "lat": 50.1511059,
         "lon": 16.2769364
       },
+      "category": [
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Combat, Utility and Training Clothing",
+        "Helmets",
+        "Gloves",
+        "Personnel Clothing",
+        "Goggles"
+      ],
       "website": "https://www.uvex-safety.cz"
     },
     {
@@ -986,35 +2095,105 @@
         "lat": 49.6151884,
         "lon": 17.9932891
       },
+      "category": [
+        "Command Control Vehicles",
+        "Vehicles",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Unmanned Ground Vehicles (UGV)",
+        "Armed Robotic Vehicles",
+        "Hand-held and Fixed Detectors",
+        "Support Vehicles",
+        "Tactical vehicles CBRN",
+        "Engineering Vehicles",
+        "Repair and Modernisation of Technology and Soldierly Material",
+        "Miscellaneous Transport Vehicles: Trucks, Vans, Tow Vehicles",
+        "Military Ambulance Vehicles",
+        "Tactical Vehicles",
+        "Combat Vehicles"
+      ],
       "website": "https://www.vop.cz"
     },
     {
-      "name": "VR GROUP",
+      "name": "VR Group, a.s.",
       "address": {
         "text": "Tiskařská 270/8\n108 00 Prague 10",
         "iso2": "CZ",
         "lat": 50.0798103,
         "lon": 14.5286361
       },
-      "website": "https://www.vrg.cz"
+      "category": [
+        "Other",
+        "Special Training Software, Simulators",
+        "Unmanned and Autonomous Systems, Robotics",
+        "Training and Simulation Systems",
+        "Manoeuvre and Logistic Software",
+        "Technologies",
+        "Geography",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Electronic Warfare, Intelligence and Communication Systems",
+        "Air Traffic Management",
+        "Asset Management",
+        "Cabin Systems",
+        "Police and Integrated Emergency Systems",
+        "Simulation and training",
+        "Geospatial Intelligence, Cartography and Map Systems",
+        "C4ISR",
+        "Simulators"
+      ],
+      "website": "https://www.vrgroup.cz"
     },
     {
       "name": "VZLU AEROSPACE",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/652_vzlu-aerospace?lang=en",
       "address": {
         "text": "Beranovych 130\n199 00 Prague 9",
         "iso2": "CZ",
         "lat": 50.1331284,
         "lon": 14.5133773
       },
+      "category": [
+        "Unmanned and Autonomous Systems, Robotics",
+        "Unmanned Air Vehicles (UAV)",
+        "Universities",
+        "Cyber Defence, Command, Control and Communication (C3) System, Electronics, Computers and Software",
+        "Services",
+        "Military Space Systems",
+        "Transport Services",
+        "Airplanes",
+        "Associations, Media, Government Authorities, Organisations",
+        "Aircrafts",
+        "Unmanned Aerial Vehicles (UAV)",
+        "Helicopters"
+      ],
       "website": "https://www.vzlu.cz"
     },
     {
       "name": "WILD US",
+      "exhibitorUrl": "https://future-forces.org/exhibitors/profile/1116_wild-us?lang=en",
+      "address": {
+        "text": "A.Vaclavika 241, 76326 Luhacovice",
+        "iso2": "CZ",
+        "lat": 49.113352,
+        "lon": 17.7685512
+      },
+      "category": [
+        "Mobile and Field Hospitals and Equipment",
+        "Military Medical Equipment and Systems",
+        "Emergency Intervention and Intensive Care Equipment",
+        "Air-conditioning and Heating",
+        "Hospital Management Tools, Equipment and Services",
+        "Personal Protective Clothing and Equipment",
+        "Medical Supplies and Hospital Equipment"
+      ],
       "website": "https://www.wildus.cz"
     },
     {
       "name": "WORKSWELL",
       "website": "https://workswell.eu"
+    },
+    {
+      "name": "WPA SECURE",
+      "website": "https://wpasecure.cz"
     },
     {
       "name": "XBARRIER",
@@ -1023,6 +2202,41 @@
     {
       "name": "ZAITRA",
       "website": "https://zaitra.io"
+    },
+    {
+      "name": "ZEVETA AMMUNITION",
+      "website": "https://www.zeveta.cz"
+    },
+    {
+      "name": "eSELECT - ballistic shields",
+      "address": {
+        "text": "Tomkova 911\nHradec Kralove",
+        "iso2": "CZ",
+        "lat": 50.2099762,
+        "lon": 15.8323636
+      },
+      "category": [
+        "Other",
+        "Future Soldier - Personal, Equipment and Protective Material",
+        "Anti-Terror Equipment",
+        "Modular Units and Buildings",
+        "Technologies",
+        "Body Armours",
+        "Steel and Prefab Structures",
+        "Police and Integrated Emergency Systems",
+        "Civil Disorder Intervention Equipment (CDIE)",
+        "Bullet-proof Vests, Flak Jackets, Vests",
+        "Modular Prefabricated Buildings"
+      ],
+      "website": "https://www.ballistic-shields.com"
+    },
+    {
+      "name": "ČESKÁ ZBROJOVKA",
+      "category": [
+        "Small Arms and Light Weapons (Revolvers, Pistols, Submachine Guns, Carbines, Assault Rifles, Battle Rifles, Multiple Barrel Firearms, Squad Automatic Weapons, Lightmachine Guns, Handgrenades, Medium Machine Guns, Grenade Launchers)",
+        "Weapons"
+      ],
+      "website": "https://www.czfirearms.com"
     }
   ]
 }
