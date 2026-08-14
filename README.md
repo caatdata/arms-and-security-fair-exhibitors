@@ -69,8 +69,8 @@ Corrections may be submitted by email or as GitHub issues.
 ## Statistics
 
 -   **523** series
--   **1852** events
--   **222984** exhibitors
+-   **1853** events
+-   **223115** exhibitors
 -   **801** organisers
 -   **2895** delegations
 
